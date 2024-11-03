@@ -30,9 +30,10 @@
 		街道はあぶないからな<end_line>
 	</sjis>
 	<ascii>
-		Go train elsewhere.<end_line>
+		You should train elsewhere.<end_line>		
 		The main road is dangerous.<end_line>
 	</ascii>
+	# Made first line a little more polite
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -51,16 +52,21 @@
 		<sjis>
 			今戻ったら見つかるぞ<end_line>
 		</sjis>
+		<ascii>
+    		If we go back now,<end_line>
+    		they'll find us.<end_line>
+  		</ascii>
 	</male>
 	<female>
 		<sjis>
 			今戻ると見つかっちゃうよお<end_line>
 		</sjis>
-	</female>
-  <ascii>
-    If we go back now,<end_line>
-    they'll find us.<end_line>
-  </ascii>
+		<ascii>
+    		They'll find us if we<end_line>
+    		go back now.<end_line>
+  		</ascii>
+		# Swapped lines so male/female dialogue is a little different.
+	</female>  
 </dialogue>
 <dialogue>
 	<info box="special">
@@ -70,9 +76,10 @@
 	</sjis>
 	<ascii>
 		This is a teleporter.<end_line>
-    It allows you to jump to<end_line>
-    any other active teleporters.<end_line>
+    	It allows you to warp to<end_line>
+    	any other active teleporters.<end_line>
 	</ascii>
+	# Changed jump to warp
 </dialogue>
 <dialogue>
 	<info box="special">
@@ -82,10 +89,11 @@
 		使用することができます<end_line>
 	</sjis>
 	<ascii>
-		Strike with the hammer to activate,<end_line>
-		and use it by standing on top of it<end_line>
-		and pressing the A button.<end_line>
+		Strike it with your hammer,<end_line>
+		then stand on top of it and<end_line>
+		hit	the A button.<end_line>
 	</ascii>
+	# Multiple lines over 30 characters, so I shortened it.	
 </dialogue>
 <dialogue>
 	<info box="special">
@@ -94,7 +102,9 @@
 		使用することはできません<end_line>
 	</sjis>
 	<ascii>
-		At this time, no other teleporter<end_line>
-		is active, so it cannot be used.<end_line>
+		Currently, there are no other<end_line>
+		active teleporters.<end_line>
+		The teleporter cannot be used.<end_line>
 	</ascii>
+	# Shortened lines
 </dialogue>

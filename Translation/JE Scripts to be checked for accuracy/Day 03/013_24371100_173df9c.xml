@@ -3,8 +3,9 @@
 		村長の家　広間<end_line>
 	</sjis>
 	<ascii>
-		Mayor's house　Hall<end_line>
+		Mayor's House　Hall<end_line>
 	</ascii>
+	# Capitalized house
 </location>
 <dialogue>
 	<info box="simple">
@@ -26,8 +27,9 @@
 		と言ったらなっとらん<end_line>
 	</sjis>
 	<ascii>
-		Young people these days are no good.<end_line>
-    Ahh, really no good.<end_line>
-    Gets worse every time I say it.<end_line>
+		Kids these days are no good.<end_line>
+    	Ahh, really no good.<end_line>
+    	Gets worse every time I say it.<end_line>
 	</ascii>
+	# First line was too long (36 characters)
 </dialogue>

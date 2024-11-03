@@ -5,8 +5,9 @@
 		やった！<end_line>
 	</sjis>
 	<ascii>
-		Yes! I won!<end_line>
+		I did it!<end_line>
 	</ascii>
+	# A little more casual
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -31,7 +32,7 @@
 	</sjis>
 	<ascii>
 		Damn it<three_dots><end_line>
-    How could I lose<three_dots>?<end_line>
+    	How could I lose<three_dots>?<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -44,7 +45,7 @@
 		してたとは言え、このザマとは<three_dots><end_line>
 	</sjis>
 	<ascii>
-    I must have gotten rusty.<end_line>
+    	I must have gotten rusty.<end_line>
 		Sure I haven't been training,<end_line>
 		but this is just pathetic<three_dots><end_line>
 	</ascii>
@@ -58,7 +59,7 @@
 	</sjis>
 	<ascii>
 		Master<three_dots><end_line>
-    Your injuries must be<three_dots><end_line>
+    	Your injuries must be<three_dots><end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -72,9 +73,10 @@
 		すぴーどガ　アリマセンデシタ<end_line>
 	</sjis>
 	<ascii>
-		Compared To Our Previous Encounter,<end_line>
+		Compared To Our Previous Bout,<end_line>
 		Your Speed Was Down 50%.<end_line>
 	</ascii>
+	# Shortened first line (was 35 characters)
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -99,9 +101,9 @@
 		比べものにならんかったぞ<end_line>
 	</sjis>
 	<ascii>
-    Your movements have become<end_line>
-    much easier to read since<end_line>
-    our last encounter.<end_line>
+    	Your movements have become<end_line>
+    	much easier to read since<end_line>
+    	our last encounter.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -113,8 +115,10 @@
 		あまり、ムリをするでない<end_line>
 	</sjis>
 	<ascii>
-		You shouldn't push yourself so hard.<end_line>
+		You shouldn't push yourself<end_line>
+		so hard.<end_line>
 	</ascii>
+	# First line was too long (was 36, hard limit)
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -128,8 +132,8 @@
 	</sjis>
 	<ascii>
 		Jeez<three_dots><end_line>
-    It's like you were a different<end_line>
-    person last time we fought.<end_line>
+    	It's like you were a different<end_line>
+    	person last time we fought.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -142,8 +146,8 @@
 		いいのは、どっちだ？<end_line>
 	</sjis>
 	<ascii>
-    Perhaps you should be<end_line>
-    the one to stay behind?<end_line>
+    	Perhaps you should be<end_line>
+    	the one to stay behind?<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -157,8 +161,8 @@
 		ムリはいけませんわ<end_line>
 	</sjis>
 	<ascii>
-    Yes, your movements are quite<end_line>
-    sluggish compared to before.<end_line>
+    	Yes, your movements are quite<end_line>
+    	sluggish compared to before.<end_line>
 		Don't push yourself so hard.<end_line>
 	</ascii>
 </dialogue>
@@ -172,8 +176,8 @@
 		アンタけっこうやさしいんだね<end_line>
 	</sjis>
 	<ascii>
-    Heh<three_dots><end_line>
-    Thanks, <partner>.<end_line>
+    	Heh<three_dots><end_line>
+    	Thanks, <partner>.<end_line>
 		You're too kind<three_dots><end_line>
 	</ascii>
 </dialogue>
@@ -237,7 +241,7 @@
 	<ascii>
 		But you know, even like this<three_dots><end_line>
 		I could've easily<end_line>
-    beat you two before.<end_line>
+    	beat you two before.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -316,7 +320,7 @@
 		当たり前だ<end_line>
 	</sjis>
 	<ascii>
-    Hmph<three_dots><end_line>
+    	Hmph<three_dots><end_line>
 		Obviously.<end_line>
 	</ascii>
 </dialogue>
@@ -342,15 +346,18 @@
 		<sjis>
 			なんだと！？<end_line>
 		</sjis>
+		<ascii>
+    		Hey!<end_line>
+  		</ascii>
 	</male>
 	<female>
 		<sjis>
 			なによ、それ！？<end_line>
 		</sjis>
-	</female>
-  <ascii>
-    Hey!<end_line>
-  </ascii>
+		<ascii>
+    		Hey!<end_line>
+  		</ascii>
+	</female>  
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -363,7 +370,7 @@
 	</sjis>
 	<ascii>
 		Anyway, you did beat me.<end_line>
-    I'll hold up my end of the deal.<end_line>
+    	I'll hold up my end of the deal.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -415,9 +422,10 @@
 	</sjis>
 	<ascii>
 		Great!<end_line>
-		I'll be waiting at the gate, then.<end_line>
+		I'll be waiting at the gate.<end_line>
 		Now hurry it up, <player_nickname>.<end_line>
 	</ascii>
+	# Second line too long
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -454,10 +462,11 @@
 		だけど<three_dots><end_line>
 	</sjis>
 	<ascii>
-    A blade made with the feelings of<end_line>
-		three people is quite sharp<three_dots><end_line>
+    	A blade made with the feelings<end_line>
+		of three people is quite sharp<three_dots><end_line>
 		But<three_dots><end_line>
 	</ascii>
+	# First line too long
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -468,8 +477,8 @@
 		うれしいねえ、ロブ<three_dots><end_line>
 	</sjis>
 	<ascii>
-    I'm glad that kid has other<end_line>
-    reasons to fight now.<end_line>
+    	I'm glad that kid has other<end_line>
+    	reasons to fight now.<end_line>
 		Right, Rob<three_dots>?<end_line>
 	</ascii>
 </dialogue>
@@ -483,7 +492,7 @@
 	</sjis>
 	<ascii>
 		Um<three_dots><end_line>
-    Vee?<end_line>
+    	Vee?<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
