@@ -173,17 +173,21 @@
       ええっ！？<end_line>
       どうしてそうなるんだ！？<end_line>
     </sjis>
+    <ascii>
+      Ehhh!?<end_line>
+      I just said<three_dots><end_line>
+    </ascii>
   </male>
   <female>
     <sjis>
       ええっ！？<end_line>
       どうしてそうなるの！？<end_line>
     </sjis>
+    <ascii>
+      Ehhh!?<end_line>
+      I just said<three_dots><end_line>
+    </ascii>
   </female>
-  <ascii>
-    Ehhh!?<end_line>
-    I just said<three_dots><end_line>
-  </ascii>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -307,6 +311,7 @@
   </sjis>
   <ascii>
     Ugh<three_dots><end_line>
-    Tier might be crazier than Master<three_dots><end_line>
+    Tier might be crazier<end_line>
+    than Master<three_dots><end_line>
   </ascii>
 </dialogue>

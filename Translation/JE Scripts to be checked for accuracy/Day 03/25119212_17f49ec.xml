@@ -7,11 +7,11 @@
 		やっぱり道案内があった方が<end_line>
 		いいですよね？<end_line>
 	</sjis>
-  <ascii>
-    So?<end_line>
-    You'd love to have me<end_line>
-    guide you around, right?<end_line>
-  </ascii>
+  	<ascii>
+  	  	So?<end_line>
+  	  	You'd love to have me<end_line>
+  	  	guide you around, right?<end_line>
+  	</ascii>
 </dialogue>
 <choice>
 	<info box="left">
@@ -42,15 +42,18 @@
 		<sjis>
 			じゃあ頼むぜ！<end_line>
 		</sjis>
+		<ascii>
+    		Alright, I'm counting on you!<end_line>
+  		</ascii>
 	</male>
 	<female>
 		<sjis>
 			じゃあお願い！<end_line>
 		</sjis>
+		<ascii>
+    		Alright, I'm counting on you!<end_line>
+  		</ascii>
 	</female>
-  <ascii>
-    Alright, I'm counting on you!<end_line>
-  </ascii>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -61,7 +64,7 @@
 		２００バームいただきまぁす！<end_line>
 	</sjis>
 	<ascii>
-    That'll be 200 Boam!<end_line>
+    	That'll be 200 Boam!<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -134,9 +137,9 @@
 		気をつけてくださいね～<end_line>
 	</sjis>
 	<ascii>
-		Alright then, please follow me.<end_line>
-    Please be careful, as there<end_line>
-    are many Strays around too~<end_line>
+		Alright then, follow me.<end_line>
+    	Please be careful, as there<end_line>
+    	are many Strays around too~.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -181,8 +184,8 @@
 		お金できたら来てね<end_line>
 	</sjis>
 	<ascii>
-    Well, I'll be waiting here<end_line>
-    when you do have the money.<end_line>
+    	Well, I'll be waiting here<end_line>
+    	when you do have the money.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -190,9 +193,9 @@
 	<sjis>
 		やっぱ、別にいいや<end_line>
 	</sjis>
-  <ascii>
-    Actually, I'm fine.<end_line>
-  </ascii>
+  	<ascii>
+    	Actually, I'm fine.<end_line>
+  	</ascii>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -202,10 +205,10 @@
 		絶対考え直した方が<end_line>
 		いいんだから！<end_line>
 	</sjis>
-  <ascii>
-    Really!?<end_line>
-    You'd better reconsider!<end_line>
-  </ascii>
+  	<ascii>
+   		Really!?<end_line>
+    	You'd better reconsider!<end_line>
+  	</ascii>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -214,8 +217,8 @@
 		はやく考え直して<end_line>
 		わたしに知らせてね<end_line>
 	</sjis>
-  <ascii>
-    Let me know when<end_line>
-    you change your mind.<end_line>
-  </ascii>
+  	<ascii>
+    	Let me know when<end_line>
+    	you change your mind.<end_line>
+  	</ascii>
 </dialogue>

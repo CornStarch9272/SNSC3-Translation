@@ -46,10 +46,11 @@
 		　　　　　　　　　　　ティエ<end_line>
 	</sjis>
 	<ascii>
-		From here on is a maiden's secret <hearth><end_line>
+		From here on is a lady's secret <hearth><end_line>
 		No trespassing!!<end_line>
-		              Tier<end_line>
+		　　　　　　　　　　　~Tier<end_line>
 	</ascii>
+	# Made first line a little shorter
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -62,7 +63,7 @@
 	<ascii>
 		Oh, that hammer<three_dots><end_line>
 		You must be a Craftknight. I've<end_line>
-    been looking for people like you.<end_line>
+    	been looking for people like you.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -127,9 +128,9 @@
 	</sjis>
 	<ascii>
 		Then, I'll tell you about<end_line>
-		'Superior' weapons,<end_line>
+		<quote>Superior<quote> weapons,<end_line>
 		as a special service.<end_line>
-	</ascii>
+	</ascii>	
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -142,7 +143,7 @@
 	<ascii>
 		Sometimes you'll create weapons<end_line>
 		that are better than usual.<end_line>
-		Those are known as Superior weapons.<end_line>
+		Those are Superior weapons.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -154,10 +155,11 @@
 		それ以外にも効果が高い武器なの<end_line>
 	</sjis>
 	<ascii>
-		Superior weapons have higher stats,<end_line>
-		swing faster, and are more efficient<end_line>
-		than any ordinary weapons.<end_line>
+		Superior weapons have higher<end_line>
+		stats and swing faster with<end_line>
+		more efficiency.<end_line>
 	</ascii>
+	# Made all sentences shorter
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -182,8 +184,8 @@
 	</sjis>
 	<ascii>
 		Crafting experience is important,<end_line>
-		but you won't know if you'll gain it<end_line>
-		until you make a weapon.<end_line>
+		but you won't know if you'll<end_line>
+		gain it until you make a weapon.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -195,10 +197,11 @@
 		作製をする時は注意して見ててね<end_line>
 	</sjis>
 	<ascii>
-		When you craft something,<end_line>
-		if huge sparks start coming out,<end_line>
-		it means you're gaining experience.<end_line>
+		If huge sparks start coming out,<end_line>
+		it means you're gaining<end_line>
+		experience.<end_line>
 	</ascii>
+	# Removed first line to make reamining two shorter.
 </dialogue>
 <dialogue>
 	<info box="simple">
