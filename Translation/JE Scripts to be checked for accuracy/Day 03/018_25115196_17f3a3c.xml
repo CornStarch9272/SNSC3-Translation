@@ -104,10 +104,11 @@
 		おぬしのメガネはダテか？<end_line>
 	</sjis>
 	<ascii>
-    I am not! I'm a tiger!<end_line>
-    A graceful Toramata!<end_line>
-		Do those glasses serve any purpose?!<end_line>
+    	I am not! I'm a tiger!<end_line>
+    	A graceful Toramata!<end_line>
+		Are those glasses for show?!<end_line>
 	</ascii>
+	# Made last line smaller
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -147,7 +148,7 @@
 		なれなれしいぞ<end_line>
 	</sjis>
 	<ascii>
-    Of course.<end_line>
+    	Of course.<end_line>
 		And who might you be?<end_line>
 	</ascii>
 </dialogue>
@@ -198,8 +199,9 @@
 		素直なイイ子です～<end_line>
 	</sjis>
 	<ascii>
-		She seems like a good girl~<end_line>
+		She seems like a good girl~.<end_line>
 	</ascii>
+	# Missing punctuation
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -223,8 +225,9 @@
 		あなた、一体<three_dots>？<end_line>
 	</sjis>
 	<ascii>
-		Who are you<three_dots><end_line>
+		Who are you<three_dots>?<end_line>
 	</ascii>
+	# Missing question mark
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -251,7 +254,8 @@
 	</sjis>
 	<ascii>
 		I'm Tier.<end_line>
-		Just a cute guide! Hehe.<end_line>
+		Just a cute guide!<end_line>
+		Hehe.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -275,9 +279,9 @@
 		この先は迷路みたいになってるんです<end_line>
 	</sjis>
 	<ascii>
-    The earthquake earlier totally<end_line>
-    messed up the terrain around here.<end_line>
-    It's like navigating a maze.<end_line>
+    	The earthquake earlier totally<end_line>
+    	messed up the terrain around here.<end_line>
+    	It's like navigating a maze.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -288,8 +292,8 @@
 		道案内があった方が断然いいですよ～<end_line>
 	</sjis>
 	<ascii>
-    You'd do well to have<end_line>
-    someone guide you through!<end_line>
+    	You'd do well to have<end_line>
+    	someone guide you through!<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -300,15 +304,18 @@
 		<sjis>
 			へえ、そうなのか<three_dots><end_line>
 		</sjis>
+		<ascii>
+    		Oh, is that so<three_dots>?<end_line>
+  		</ascii>
 	</male>
 	<female>
 		<sjis>
 			へえ、そうなんだ<three_dots><end_line>
 		</sjis>
-	</female>
-  <ascii>
-    Oh, is that so<three_dots>?<end_line>
-  </ascii>
+		<ascii>
+    		Oh, is that so<three_dots>?<end_line>
+  		</ascii>
+	</female>  
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -318,8 +325,8 @@
 		　コイツはいけるわ<three_dots>！）<end_line>
 	</sjis>
 	<ascii>
-    (This might just work!<end_line>
-		 Just a bit more<three_dots>!)<end_line>
+    	(This might just work!<end_line>
+		　Just a bit more<three_dots>!)<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -332,9 +339,10 @@
 		ティエちゃん？<end_line>
 	</sjis>
 	<ascii>
-		We'd be grateful to have a guide,<end_line>
-		but it won't be for free, right?<end_line>
+		We'd love to have a guide,<end_line>
+		but it won't be free, right?<end_line>
 	</ascii>
+	# Shortened lines a bit
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -358,7 +366,7 @@
 		おほほほほほ<three_dots><end_line>
 	</sjis>
 	<ascii>
-		Oh?<end_line>
+		Oh!?<end_line>
 		Ohohohohoho<three_dots><end_line>
 	</ascii>
 </dialogue>
@@ -371,7 +379,7 @@
 		スルドイわね<end_line>
 	</sjis>
 	<ascii>
-    Tch<three_dots>!<end_line>
+    	Tch<three_dots>!<end_line>
 		Well, aren't you shrewd?<end_line>
 	</ascii>
 </dialogue>
@@ -397,7 +405,7 @@
 	</sjis>
 	<ascii>
 		200 Boam.<end_line>
-    It's easy to get lost in here<three_dots><end_line>
+    	It's easy to get lost in here<three_dots><end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -408,8 +416,10 @@
 		案内があった方が絶対いいんだから<end_line>
 	</sjis>
 	<ascii>
-		Definitely better to have a guide<three_dots><end_line>
+		Definitely better to<end_line>
+		have a guide<three_dots><end_line>
 	</ascii>
+	# Split single line in two to make shorter
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -421,10 +431,11 @@
 		お金を払う気にゃなれないね<end_line>
 	</sjis>
 	<ascii>
-		Huh<three_dots><end_line>
+		Hmm<three_dots><end_line>
 		But unless I see it for myself,<end_line>
-		I won't feel like actually paying.<end_line>
+		I won't feel like paying.<end_line>
 	</ascii>
+	# Shortened line bit. Also changed "Huh" to "Hmm".
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -479,15 +490,18 @@
 		<sjis>
 			じゃあ頼むぜ！<end_line>
 		</sjis>
+		<ascii>
+    		Alright, I'm counting on you!<end_line>
+  		</ascii>
 	</male>
 	<female>
 		<sjis>
 			じゃあお願い！<end_line>
 		</sjis>
-	</female>
-  <ascii>
-    Alright, I'm counting on you!<end_line>
-  </ascii>
+		<ascii>
+    		Alright, I'm counting on you!<end_line>
+  		</ascii>
+	</female>  
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -498,7 +512,7 @@
 		２００バームいただきまぁす！<end_line>
 	</sjis>
 	<ascii>
-    That'll be 200 Boam!<end_line>
+    	That'll be 200 Boam!<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -545,11 +559,11 @@
 		こちらの話ですから～<end_line>
 		お気づかいなく～<end_line>
 	</sjis>
-  <ascii>
-    Oh no~<end_line>
-    Don't mind me~<end_line>
-    Just talking to myself~<end_line>
-  </ascii>
+  	<ascii>
+    	Oh no~<end_line>
+    	Don't mind me~<end_line>
+    	Just talking to myself~<end_line>
+  	</ascii>
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -572,10 +586,11 @@
 		気をつけてくださいね～<end_line>
 	</sjis>
 	<ascii>
-		Alright then, please follow me.<end_line>
-    Please be careful, as there<end_line>
-    are many Strays around too~<end_line>
+		Alright then, follow me.<end_line>
+    	Please be careful, as there<end_line>
+    	are many Strays around too~<end_line>
 	</ascii>
+	# Removed please from first line. Seems unnatural to say it twice in two sentences.
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -619,8 +634,8 @@
 		お金できたら来てね<end_line>
 	</sjis>
 	<ascii>
-    Well, I'll be waiting here<end_line>
-    when you do have the money.<end_line>
+    	Well, I'll be waiting here<end_line>
+    	when you do have the money.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
