@@ -82,7 +82,7 @@
   </sjis>
   <ascii>
     (They seem really angry<three_dots><end_line>
-      I wonder why<three_dots>)<end_line>
+    　I wonder why<three_dots>)<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -313,15 +313,18 @@
     <sjis>
       お前、まだその話を<three_dots>！？<end_line>
     </sjis>
+    <ascii>
+      This again<three_dots>!?<end_line>
+    </ascii>
   </male>
   <female>
     <sjis>
       あなた、まだその話を<three_dots>！？<end_line>
     </sjis>
+    <ascii>
+      This again<three_dots>!?<end_line>
+    </ascii>
   </female>
-  <ascii>
-    This again<three_dots>!?<end_line>
-  </ascii>
 </dialogue>
 <dialogue>
   <player gender="male">
@@ -408,9 +411,10 @@
   </sjis>
   <ascii>
     But before that can happen,<end_line>
-    <player_name> and the others have some<end_line>
-    business to take care of in town.<end_line>
+    <player_name> and the others<end_line>
+    have some business in town.<end_line>
   </ascii>
+  # Moved parts of second line to third in case player has long name.
 </dialogue>
 <dialogue>
   <info box="left">
@@ -463,10 +467,11 @@
     とにかく今日はゆっくりして下さい<end_line>
   </sjis>
   <ascii>
-    I'm truly sorry about our daughter.<end_line>
+    I'm sorry about our daughter.<end_line>
     She's bothered you quite a bit.<end_line>
     Please, rest for the night.<end_line>
   </ascii>
+  # Changed first line a little to make it shorter
 </dialogue>
 <dialogue>
   <info box="left">
@@ -517,8 +522,8 @@
     お金なんかいただきませんよ<end_line>
   </sjis>
   <ascii>
-    It's fine.<end_line>
-    It's thanks for taking care of Tier.<end_line>
+    It's fine. It's thanks<end_line>
+    for taking care of Tier.<end_line>
     We couldn't accept your money.<end_line>
   </ascii>
 </dialogue>
@@ -622,15 +627,18 @@
     <sjis>
       どうしてそうなるんだよ！<end_line>
     </sjis>
+    <ascii>
+      It's not like that!<end_line>
+    </ascii>
   </male>
   <female>
     <sjis>
       どうしてそうなるの！<end_line>
     </sjis>
+    <ascii>
+      It's not like that!<end_line>
+    </ascii>
   </female>
-  <ascii>
-    It's not like that!<end_line>
-  </ascii>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -672,7 +680,8 @@
     身内からお金を取るつもりなのかい？<end_line>
   </sjis>
   <ascii>
-    Are you still going to make me pay?<end_line>
+    Are you still going to<end_line>
+    make me pay?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -947,10 +956,11 @@
     ちゃ～んとわかってるんだから～<end_line>
   </sjis>
   <ascii>
-    You don't have to be so embarrassed.<end_line>
-    I understand veeeery well just how<end_line>
+    No need to be so embarrassed.<end_line>
+    I know veeeery well just how<end_line>
     much you love me, <player_nickname>~<end_line>
   </ascii>
+  # Shortened first and second lines.
 </dialogue>
 <dialogue>
   <info box="right">
@@ -1113,9 +1123,9 @@
     本当にごめんなさいね～<end_line>
   </sjis>
   <ascii>
-    Well, we're in the service industry,<end_line>
-    so we have to be bright and cheery.<end_line>
-    I'm really sorry~<end_line>
+    Well, we're in the service<end_line>
+    industry, so we have to be<end_line>
+    bright and cheery.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1303,9 +1313,10 @@
   </sjis>
   <ascii>
     Seriously<three_dots><end_line>
-    You wouldn't expect someone's master<end_line>
+    You wouldn't expect a master<end_line>
     to say something like that!<end_line>
   </ascii>
+  # Shortened second line
 </dialogue>
 <dialogue>
   <info box="left">
@@ -1330,7 +1341,7 @@
     ”それはそれ、これはこれ”って！<end_line>
   </sjis>
   <ascii>
-    That is that, and this is this!<end_line>
+    <quote>That is that, and this is this!<quote><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1702,10 +1713,11 @@
     本当にすんません<three_dots><end_line>
   </sjis>
   <ascii>
-    When it comes to Vee and money<three_dots><end_line>
+    When it comes to V.E and money<three_dots><end_line>
     She can be difficult<three_dots><end_line>
     I'm really sorry about her<three_dots><end_line>
   </ascii>
+  # Changed Vee to V.E
 </dialogue>
 <dialogue>
   <info box="right">

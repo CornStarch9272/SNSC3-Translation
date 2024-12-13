@@ -80,6 +80,11 @@
       気が重くって<three_dots><end_line>
       オレはどうなっちまうんだろう<three_dots><end_line>
     </sjis>
+    <ascii>
+      Sigh<three_dots><end_line>
+      There's just a lot to take in<three_dots><end_line>
+      What should I do<three_dots>?<end_line>
+    </ascii>
   </male>
   <female>
     <sjis>
@@ -87,12 +92,12 @@
       気が重くって<three_dots><end_line>
       わたしどうなっちゃうんだろう<three_dots><end_line>
     </sjis>
+    <ascii>
+      Sigh<three_dots><end_line>
+      There's just a lot to take in<three_dots><end_line>
+      What should I do<three_dots>?<end_line>
+    </ascii>
   </female>
-  <ascii>
-    Sigh<three_dots><end_line>
-    There's just a lot to take in<three_dots><end_line>
-    What should I do<three_dots>?<end_line>
-  </ascii>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -147,7 +152,7 @@
     オレのウデが認められた気がしてさ<end_line>
   </sjis>
   <ascii>
-    That's because she told me I could<end_line>
+    That's because she said I could<end_line>
     work for them as a Craftknight.<end_line>
     I felt like she recognized my skill.<end_line>
   </ascii>
@@ -197,7 +202,7 @@
     なに言ってるんだよ！<end_line>
   </sjis>
   <ascii>
-    Idi<three_dots>!<end_line>
+    Wha<three_dots>!<end_line>
     What are you saying!<end_line>
   </ascii>
 </dialogue>
@@ -213,7 +218,7 @@
     わたしのウデが認められた気がして<end_line>
   </sjis>
   <ascii>
-    That's because she told me I could<end_line>
+    That's because she said I could<end_line>
     work for them as a Craftknight.<end_line>
     I felt like she recognized my skill.<end_line>
   </ascii>
@@ -263,7 +268,7 @@
     そんなことないよ！<end_line>
   </sjis>
   <ascii>
-    Idi<three_dots>!<end_line>
+    No<three_dots>!<end_line>
     No I didn't!<end_line>
   </ascii>
 </dialogue>
@@ -360,7 +365,7 @@
       まったくどうしたらいいんだか<three_dots><end_line>
     </sjis>
     <ascii>
-      Sigh<three_dots><end_line>
+      *Sigh*<three_dots><end_line>
       Seriously, what should I do<three_dots><end_line>
     </ascii>
   </male>
@@ -398,15 +403,18 @@
     <sjis>
       わかってるよ、そんなこと<end_line>
     </sjis>
+    <ascii>
+      I know that.<end_line>
+    </ascii>
   </male>
   <female>
     <sjis>
       わかってるわよ、そんなこと<end_line>
     </sjis>
+    <ascii>
+      I know that.<end_line>
+    </ascii>
   </female>
-  <ascii>
-    I know that.<end_line>
-  </ascii>
 </dialogue>
 <dialogue>
   <partner name="enzi">
@@ -436,7 +444,7 @@
     オレのウデが認められた気がしてさ<end_line>
   </sjis>
   <ascii>
-    That's because she told me I could<end_line>
+    That's because she said I could<end_line>
     work for them as a Craftknight.<end_line>
     I felt like she recognized my skill.<end_line>
   </ascii>
@@ -486,7 +494,7 @@
     なに言ってるんだよ！<end_line>
   </sjis>
   <ascii>
-    Idi<three_dots>!<end_line>
+    Wha<three_dots>!<end_line>
     What are you saying!<end_line>
   </ascii>
 </dialogue>
@@ -502,7 +510,7 @@
     わたしのウデが認められた気がして<end_line>
   </sjis>
   <ascii>
-    That's because she told me I could<end_line>
+    That's because she said I could<end_line>
     work for them as a Craftknight.<end_line>
     I felt like she recognized my skill.<end_line>
   </ascii>
@@ -552,7 +560,7 @@
     そんなことないよ！<end_line>
   </sjis>
   <ascii>
-    Idi<three_dots>!<end_line>
+    Wha<three_dots>!<end_line>
     What are you saying!<end_line>
   </ascii>
 </dialogue>
@@ -651,6 +659,10 @@
       オレだってどうしたらいいか<end_line>
       考えてるんだからさ<end_line>
     </sjis>
+    <ascii>
+      Don't say that<three_dots><end_line>
+      I'm taking this seriously.<end_line>
+    </ascii>
   </male>
   <female>
     <sjis>
@@ -658,11 +670,11 @@
       わたしだってどうしたらいいか<end_line>
       考えてるんだから<end_line>
     </sjis>
+    <ascii>
+      Don't say that<three_dots><end_line>
+      I'm taking this seriously.<end_line>
+    </ascii>
   </female>
-  <ascii>
-    Don't say that<three_dots><end_line>
-    I'm taking this seriously.<end_line>
-  </ascii>
 </dialogue>
 <dialogue>
   <partner name="killfith">
@@ -687,15 +699,18 @@
     <sjis>
       わかってるよ、そんなこと<end_line>
     </sjis>
+    <ascii>
+      I know that.<end_line>
+    </ascii>
   </male>
   <female>
     <sjis>
       わかってるわよ、そんなこと<end_line>
     </sjis>
+    <ascii>
+      I know that.<end_line>
+    </ascii>
   </female>
-  <ascii>
-    I know that.<end_line>
-  </ascii>
 </dialogue>
 <dialogue>
   <partner name="killfith">
@@ -725,7 +740,7 @@
     オレのウデが認められた気がしてさ<end_line>
   </sjis>
   <ascii>
-    That's because she told me I could<end_line>
+    That's because she said I could<end_line>
     work for them as a Craftknight.<end_line>
     I felt like she recognized my skill.<end_line>
   </ascii>
@@ -775,7 +790,7 @@
     なに言ってるんだよ！<end_line>
   </sjis>
   <ascii>
-    Idi<three_dots>!<end_line>
+    Wha<three_dots>!<end_line>
     What are you saying!<end_line>
   </ascii>
 </dialogue>
@@ -791,7 +806,7 @@
     わたしのウデが認められた気がして<end_line>
   </sjis>
   <ascii>
-    That's because she told me I could<end_line>
+    That's because she said I could<end_line>
     work for them as a Craftknight.<end_line>
     I felt like she recognized my skill.<end_line>
   </ascii>
@@ -841,7 +856,7 @@
     そんなことないよ！<end_line>
   </sjis>
   <ascii>
-    Idi<three_dots>!<end_line>
+    No<three_dots>!<end_line>
     No I didn't!<end_line>
   </ascii>
 </dialogue>
@@ -897,17 +912,21 @@
       そっか<three_dots><end_line>
       ヒミツだったな<three_dots><end_line>
     </sjis>
+    <ascii>
+      I see<three_dots><end_line>
+      It's a secret, huh<three_dots><end_line>
+    </ascii>
   </male>
   <female>
     <sjis>
       そっか<three_dots><end_line>
       ヒミツだったよね<three_dots><end_line>
     </sjis>
+    <ascii>
+      I see<three_dots><end_line>
+      It's a secret, huh<three_dots><end_line>
+    </ascii>
   </female>
-  <ascii>
-    I see<three_dots><end_line>
-    It's a secret, huh<three_dots><end_line>
-  </ascii>
 </dialogue>
 <dialogue>
   <partner name="rufeel">
@@ -940,18 +959,23 @@
       ああ<three_dots><end_line>
       まったくどうしたらいいんだか<three_dots><end_line>
     </sjis>
+    <ascii>
+      Yeah<three_dots><end_line>
+      I have no idea what I'm<end_line>
+      supposed to do now<three_dots><end_line>
+    </ascii>
   </male>
   <female>
     <sjis>
       うん<three_dots><end_line>
       ホントにどうしたらいいんだろ<three_dots><end_line>
     </sjis>
+    <ascii>
+      Yeah<three_dots><end_line>
+      I have no idea what I'm<end_line>
+      supposed to do now<three_dots><end_line>
+    </ascii>
   </female>
-  <ascii>
-    Yeah<three_dots><end_line>
-    I have no idea what I'm<end_line>
-    supposed to do now<three_dots><end_line>
-  </ascii>
 </dialogue>
 <dialogue>
   <partner name="rufeel">
@@ -976,15 +1000,18 @@
     <sjis>
       そりゃあ、わかってるけど<three_dots><end_line>
     </sjis>
+    <ascii>
+      Yeah, I know that<three_dots><end_line>
+    </ascii>
   </male>
   <female>
     <sjis>
       それは、わかってるけど<three_dots><end_line>
     </sjis>
+    <ascii>
+      Yeah, I know that<three_dots><end_line>
+    </ascii>
   </female>
-  <ascii>
-    Yeah, I know that<three_dots><end_line>
-  </ascii>
 </dialogue>
 <dialogue>
   <partner name="rufeel">
@@ -1012,7 +1039,7 @@
     オレのウデが認められた気がしてさ<end_line>
   </sjis>
   <ascii>
-    That's because she told me I could<end_line>
+    That's because she said I could<end_line>
     work for them as a Craftknight.<end_line>
     I felt like she recognized my skill.<end_line>
   </ascii>
@@ -1059,7 +1086,7 @@
     なに言ってるんだよ！<end_line>
   </sjis>
   <ascii>
-    Idi<three_dots>!<end_line>
+    Wha<three_dots>!<end_line>
     What are you saying!<end_line>
   </ascii>
 </dialogue>
@@ -1074,7 +1101,7 @@
     わたしのウデが認められた気がして<end_line>
   </sjis>
   <ascii>
-    That's because she told me I could<end_line>
+    That's because she said I could<end_line>
     work for them as a Craftknight.<end_line>
     I felt like she recognized my skill.<end_line>
   </ascii>
@@ -1121,7 +1148,7 @@
     そんなことないよ！<end_line>
   </sjis>
   <ascii>
-    Idi<three_dots>!<end_line>
+    No<three_dots>!<end_line>
     No I wasn't!<end_line>
   </ascii>
 </dialogue>
