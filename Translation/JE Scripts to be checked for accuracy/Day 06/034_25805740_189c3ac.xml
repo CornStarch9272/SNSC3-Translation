@@ -1,0 +1,40 @@
+<location>
+  <sjis>
+    レクイの水遺跡<end_line>
+  </sjis>
+  <ascii>
+    Rekui Water Ruins<end_line>
+  </ascii>
+</location>
+<location>
+  <sjis>
+    レクイの水遺跡　エリア４<end_line>
+  </sjis>
+  <ascii>
+    Rekui Water Ruins　Area 4<end_line>
+  </ascii>
+</location>
+<dialogue>
+  <info box="simple">
+  <portrait_l name="player">
+  <male>
+    <sjis>
+      近くに誰かいるみたいだ<three_dots><end_line>
+      たしかめてみよう<end_line>
+    </sjis>
+    <ascii>
+      There's someone there<three_dots><end_line>
+      Let's have a look.<end_line>
+    </ascii>
+  </male>
+  <female>
+    <sjis>
+      近くに誰かいるみたい<three_dots><end_line>
+      行ってみよう<end_line>
+    </sjis>
+    <ascii>
+      There's someone there<three_dots><end_line>
+      Let's have a look.<end_line>
+    </ascii>
+  </female>
+</dialogue>
