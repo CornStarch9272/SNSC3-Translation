@@ -7,9 +7,9 @@
     ちゃんと道なりに、歩いてたんだね<end_line>
   </sjis>
   <ascii>
-    Ah, Master, Murno<three_dots><end_line>
-    I'm so glad<three_dots><end_line>
-    You followed the road properly.<end_line>
+    Master and Murno<three_dots><end_line>
+    I'm so glad you were able<end_line>
+    to follow the road properly.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -22,7 +22,7 @@
     かんちがいしてないか？<end_line>
   </sjis>
   <ascii>
-    Why you<three_dots><end_line>
+    Why you!<end_line>
     What do you think I am,<end_line>
     a monkey or something?<end_line>
   </ascii>
@@ -37,6 +37,11 @@
       迷子になってないか<end_line>
       本気で心配してたんだぜ<end_line>
     </sjis>
+    <ascii>
+      Hey!<end_line>
+      I was really worried<end_line>
+      you might get lost.<end_line>
+    </ascii>
   </male>
   <female>
     <sjis>
@@ -44,12 +49,12 @@
       迷子になってないか<end_line>
       本気で心配してたんだからね<end_line>
     </sjis>
+    <ascii>
+      Hey!<end_line>
+      I was really worried<end_line>
+      you might get lost.<end_line>
+    </ascii>
   </female>
-  <ascii>
-    Hey<three_dots><end_line>
-    I was really worried<end_line>
-    you might get lost.<end_line>
-  </ascii>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -130,7 +135,7 @@
     なんですか、この音！？<end_line>
   </sjis>
   <ascii>
-    Wha<three_dots>!?<end_line>
+    Wha-!?<end_line>
     What was that sound!?<end_line>
   </ascii>
 </dialogue>
@@ -142,15 +147,18 @@
     <sjis>
       今のなんだ？<end_line>
     </sjis>
+    <ascii>
+      What is it?<end_line>
+    </ascii>
   </male>
   <female>
     <sjis>
       今のなに？<end_line>
     </sjis>
+    <ascii>
+      What's going on?<end_line>
+    </ascii>
   </female>
-  <ascii>
-    What is it?<end_line>
-  </ascii>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -239,9 +247,9 @@
     行きましょ、ヴィーさん<end_line>
   </sjis>
   <ascii>
-    I am with Vee, so I'm not<end_line>
+    I am with V.E, so I'm not<end_line>
     worried either.<end_line>
-    Let's go, Vee.<end_line>
+    Let's go, V.E.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -252,7 +260,7 @@
     え、ああ<three_dots><end_line>
   </sjis>
   <ascii>
-    Eh, wai<three_dots><end_line>
+    Eh, wai-<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -262,7 +270,7 @@
     う<three_dots><end_line>
   </sjis>
   <ascii>
-    Uu<three_dots><end_line>
+    <three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -361,15 +369,18 @@
     <sjis>
       なんだよ！<end_line>
     </sjis>
+    <ascii>
+      Hey!<end_line>
+    </ascii>
   </male>
   <female>
     <sjis>
       なによ！<end_line>
     </sjis>
+    <ascii>
+      Hey!<end_line>
+    </ascii>
   </female>
-  <ascii>
-    Hey!<end_line>
-  </ascii>
 </dialogue>
 <dialogue>
   <partner name="killfith">
@@ -392,7 +403,7 @@
     う<three_dots><end_line>
   </sjis>
   <ascii>
-    Ugh<three_dots><end_line>
+    <three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>

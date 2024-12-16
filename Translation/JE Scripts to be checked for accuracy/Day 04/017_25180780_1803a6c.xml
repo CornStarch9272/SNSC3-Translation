@@ -171,7 +171,7 @@
   </sjis>
   <ascii>
     But the ones who should be<end_line>
-    feeling regret are you guys.<end_line>
+    disappointed are you guys.<end_line>
     Because<three_dots><end_line>
   </ascii>
 </dialogue>
@@ -247,9 +247,8 @@
     ジェイドの仕事だったのね<end_line>
   </sjis>
   <ascii>
-    That reminds me,<end_line>
-    Stray hunting is<end_line>
-    your job isn't it.<end_line>
+    That reminds me, Stray hunting<end_line>
+    is your job isn't it.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -264,7 +263,7 @@
   <ascii>
     Kinda. I'm part of the militia.<end_line>
     Eliminating nearby strays<end_line>
-    is just one part of the it.<end_line>
+    is just one part of it.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -275,8 +274,8 @@
     いける<three_dots>！<end_line>
   </sjis>
   <ascii>
-    Yes<three_dots>!<end_line>
-    This will work<three_dots>!<end_line>
+    Yes!<end_line>
+    This will work!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -329,7 +328,6 @@
     イヤ予感がしますわ<three_dots><end_line>
   </sjis>
   <ascii>
-    Oh<three_dots>!<end_line>
     I have a bad feeling about this<three_dots><end_line>
   </ascii>
 </dialogue>
@@ -417,8 +415,8 @@
     かかってるワケでもないんだぜ<end_line>
   </sjis>
   <ascii>
-    Seriously, Vee<three_dots>?<end_line>
-    Anyway, there's no rewards<end_line>
+    Seriously, V.E?<end_line>
+    Anyway, we don't get paid<end_line>
     for hunting Strays.<end_line>
   </ascii>
 </dialogue>
@@ -432,9 +430,9 @@
     やっつけたはぐれでも食べてるの？<end_line>
   </sjis>
   <ascii>
-    No reward? How can you<end_line>
+    Don't get paid? How do you<end_line>
     live without money?<end_line>
-    Do you eat them instead?<end_line>
+    Do you eat Strays instead?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -447,7 +445,7 @@
     金の派閥から出てるし<three_dots><end_line>
   </sjis>
   <ascii>
-    Don't be silly<three_dots><end_line>
+    Don't be silly!<end_line>
     I believe the militia is<end_line>
     funded by the Gold Council<three_dots><end_line>
   </ascii>
@@ -462,7 +460,7 @@
   </sjis>
   <ascii>
     Sometimes we do get paid,<end_line>
-    but that's all the protect the town.<end_line>
+    but that's all to protect the town.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -581,7 +579,7 @@
   </sjis>
   <ascii>
     So I need to find<end_line>
-    this Ianna and<three_dots><end_line>
+    this Ianna and-<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -610,7 +608,7 @@
   </sjis>
   <ascii>
     Hm<three_dots>? Yeah, that's right.<end_line>
-    Mister Velworen Ringvald<three_dots><end_line>
+    Mister Velworen Ringvald.<end_line>
     You know him?<end_line>
   </ascii>
 </dialogue>
@@ -651,8 +649,8 @@
   </sjis>
   <ascii>
     That's perfect then!<end_line>
-    Anyway, let's go to the Gold Council<end_line>
-    and immediately begin negotiations!<end_line>
+    To the Gold Council we go!<end_line>
+    It's negotiation time!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -729,15 +727,18 @@
     <sjis>
       じゃあ、オレは<three_dots><end_line>
     </sjis>
+    <ascii>
+      Then I'll-<end_line>
+    </ascii>
   </male>
   <female>
     <sjis>
       じゃあ、わたしは<three_dots><end_line>
     </sjis>
+    <ascii>
+      Then I'll-<end_line>
+    </ascii>
   </female>
-  <ascii>
-    Then I'll<three_dots><end_line>
-  </ascii>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -762,7 +763,7 @@
     何もすることはないって<three_dots>！<end_line>
   </sjis>
   <ascii>
-    Nothing I can do<three_dots>!<end_line>
+    Nothing I can do!?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -798,7 +799,7 @@
     当然だ<end_line>
   </sjis>
   <ascii>
-    That's obvious.<end_line>
+    Obviously.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -810,7 +811,7 @@
     当然ですわ<end_line>
   </sjis>
   <ascii>
-    That's obvious.<end_line>
+    That's obvious to see.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -821,15 +822,18 @@
     <sjis>
       って、何が当然なんだよ！？<end_line>
     </sjis>
+    <ascii>
+      Hey, what's obvious!?<end_line>
+    </ascii>
   </male>
   <female>
     <sjis>
       って、何が当然なのよ！？<end_line>
     </sjis>
+    <ascii>
+      Hey, what's obvious!?<end_line>
+    </ascii>
   </female>
-  <ascii>
-    Hey, what's obvious!?<end_line>
-  </ascii>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -842,7 +846,7 @@
     守ルコトデスカラ<end_line>
   </sjis>
   <ascii>
-    That We Will Stay With Lady Murno.<end_line>
+    That We Stay With Lady Murno.<end_line>
     It Is My Mission To<end_line>
     Protect Murno.<end_line>
   </ascii>
@@ -901,17 +905,21 @@
       ああ、そうか<three_dots><end_line>
       たしかにな<end_line>
     </sjis>
+    <ascii>
+      Oh, so that's it<three_dots><end_line>
+      That's true.<end_line>
+    </ascii>
   </male>
   <female>
     <sjis>
       ああ、そっか<three_dots><end_line>
       たしかにね<end_line>
     </sjis>
+    <ascii>
+      Oh, so that's it<three_dots><end_line>
+      That's true.<end_line>
+    </ascii>
   </female>
-  <ascii>
-    Oh, so that's it<three_dots><end_line>
-    That's true.<end_line>
-  </ascii>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -938,7 +946,7 @@
   <ascii>
     Of course.<end_line>
     Leave it to me.<end_line>
-    Good luck to you to, Sis.<end_line>
+    Good luck to you too, Sis.<end_line>
   </ascii>
 </dialogue>
 <dialogue>

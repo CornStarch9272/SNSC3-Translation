@@ -86,7 +86,7 @@
   </sjis>
   <ascii>
     Fufufu<three_dots><end_line>
-    With this, maybe we'll be <end_line>
+    With this, maybe we'll be<end_line>
     able to get a paycheck<three_dots><end_line>
   </ascii>
 </dialogue>
@@ -149,7 +149,7 @@
     き<three_dots>君は！<end_line>
   </sjis>
   <ascii>
-    Y<three_dots>you're!<end_line>
+    Y-you're!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -173,9 +173,9 @@
     どうしてこんなところへ<three_dots><end_line>
   </sjis>
   <ascii>
-    If I recall, you're<three_dots><end_line>
+    If I recall, you're<end_line>
     Mishus Village's<three_dots><end_line>
-    Why are you here<three_dots>?<end_line>
+    Why are you here?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -185,7 +185,7 @@
     ミシュース村<three_dots>！？<end_line>
   </sjis>
   <ascii>
-    Mishus Village<three_dots>!?<end_line>
+    Mishus Village!?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -207,7 +207,7 @@
     う<three_dots><end_line>
   </sjis>
   <ascii>
-    Uu<three_dots><end_line>
+    <three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -280,17 +280,21 @@
       どうして<three_dots><end_line>
       あんたのせいか！？<end_line>
     </sjis>
+    <ascii>
+      Why<three_dots>?<end_line>
+      What did you do!?<end_line>
+    </ascii>
   </male>
   <female>
     <sjis>
       どうして<three_dots><end_line>
       あなたのせいですか！？<end_line>
     </sjis>
+    <ascii>
+      Why<three_dots>?<end_line>
+      What did you do!?<end_line>
+    </ascii>
   </female>
-  <ascii>
-    Why<three_dots>?<end_line>
-    What did you do!?<end_line>
-  </ascii>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -301,7 +305,7 @@
     そんな、僕<three_dots><end_line>
   </sjis>
   <ascii>
-    Wha<three_dots>!?<end_line>
+    Wha-!?<end_line>
     I didn't<three_dots><end_line>
   </ascii>
 </dialogue>
@@ -339,7 +343,7 @@
     え<three_dots>あの、僕<three_dots><end_line>
   </sjis>
   <ascii>
-    Eh<three_dots> um, I<three_dots><end_line>
+    Well<three_dots> um, I<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -365,8 +369,8 @@
     あの<three_dots>、はぐれの<three_dots>！<end_line>
   </sjis>
   <ascii>
-    Y-yeah<three_dots>!<end_line>
-    Um<three_dots>, the Stray<three_dots>!<end_line>
+    Y-yeah!<end_line>
+    Um<three_dots>, the Stray!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -379,9 +383,9 @@
     ここでは<three_dots><end_line>
   </sjis>
   <ascii>
-    But<three_dots> it's<three_dots><end_line>
-    About my village<three_dots><end_line>
-    Can we<three_dots><end_line>
+    But<three_dots><end_line>
+    it's about my village<three_dots><end_line>
+    Can we<three_dots>?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -649,9 +653,8 @@
     みたいなのをいただけないかな、と<three_dots><end_line>
   </sjis>
   <ascii>
-    Ah<three_dots>!<end_line>
     Um<three_dots>, so<three_dots> could I<three_dots><end_line>
-    Have a reward<three_dots> or something<three_dots><end_line>
+    Have a reward<three_dots> or something<three_dots>?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -758,17 +761,21 @@
       じゃあ<end_line>
       オレたちは<three_dots>？<end_line>
     </sjis>
+    <ascii>
+      Hmm<three_dots><end_line>
+      So what do we do?<end_line>
+    </ascii>
   </male>
   <female>
     <sjis>
       じゃあ<end_line>
       わたしたちは<three_dots>？<end_line>
     </sjis>
+    <ascii>
+      Hmm<three_dots><end_line>
+      So what do we do?<end_line>
+    </ascii>
   </female>
-  <ascii>
-    Hmm<three_dots><end_line>
-    So what do we do<three_dots>?<end_line>
-  </ascii>
 </dialogue>
 <dialogue>
   <info box="right">
