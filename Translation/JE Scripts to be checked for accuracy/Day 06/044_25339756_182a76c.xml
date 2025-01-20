@@ -21,16 +21,19 @@
       お<three_dots><end_line>
       お前ら<three_dots>！<end_line>
     </sjis>
+    <ascii>
+      Anise<three_dots>!<end_line>
+    </ascii>
   </male>
   <female>
     <sjis>
       あ<three_dots><end_line>
       あんたたち<three_dots>！<end_line>
     </sjis>
+    <ascii>
+      Anise<three_dots>!<end_line>
+    </ascii>
   </female>
-  <ascii>
-    Anise<three_dots>!<end_line>
-  </ascii>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -56,17 +59,21 @@
       キサマ<three_dots>！<end_line>
       ミューノを返せ！<end_line>
     </sjis>
+    <ascii>
+      You<three_dots>!<end_line>
+      Give Murno back!<end_line>
+    </ascii>
   </male>
   <female>
     <sjis>
       あんた<three_dots>！<end_line>
       ミューノを返して！<end_line>
     </sjis>
+    <ascii>
+      You<three_dots>!<end_line>
+      Give Murno back!<end_line>
+    </ascii>
   </female>
-  <ascii>
-    You<three_dots>!<end_line>
-    Give Murno back!<end_line>
-  </ascii>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -91,6 +98,11 @@
       お前たちがここでミューノを<end_line>
       ヌシさまってヤツのエサに<three_dots><end_line>
     </sjis>
+    <ascii>
+      What!?<end_line>
+      Didn't you bring her here<end_line>
+      to feed her to your master<three_dots>?<end_line>
+    </ascii>
   </male>
   <female>
     <sjis>
@@ -98,12 +110,12 @@
       あんたたちがここでミューノを<end_line>
       ヌシさまって召喚獣のエサに<three_dots><end_line>
     </sjis>
+    <ascii>
+      What!?<end_line>
+      Didn't you bring her here<end_line>
+      to feed her to your master<three_dots>?<end_line>
+    </ascii>
   </female>
-  <ascii>
-    What!?<end_line>
-    Didn't you bring her here<end_line>
-    to feed her to your master<three_dots>?<end_line>
-  </ascii>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -141,15 +153,18 @@
     <sjis>
       言い訳だと！？<end_line>
     </sjis>
+    <ascii>
+      Excuse!?<end_line>
+    </ascii>
   </male>
   <female>
     <sjis>
       言い訳！？<end_line>
     </sjis>
+    <ascii>
+      Excuse!?<end_line>
+    </ascii>
   </female>
-  <ascii>
-    Excuse!?<end_line>
-  </ascii>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -175,17 +190,21 @@
       <three_dots>何言ってるんだ！<end_line>
       ミューノはどこに<three_dots>！？<end_line>
     </sjis>
+    <ascii>
+      <three_dots> What are you talking about!?<end_line>
+      Where's Murno<three_dots>!?<end_line>
+    </ascii>
   </male>
   <female>
     <sjis>
       <three_dots>何言ってるの！<end_line>
       ミューノはどこなの<three_dots>！？<end_line>
     </sjis>
+    <ascii>
+      <three_dots> What are you talking about!?<end_line>
+      Where's Murno<three_dots>!?<end_line>
+    </ascii>
   </female>
-  <ascii>
-    <three_dots> What are you talking about!?<end_line>
-    Where's Murno<three_dots>!?<end_line>
-  </ascii>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -219,15 +238,18 @@
     <sjis>
       どういう意味だ、それ！？<end_line>
     </sjis>
+    <ascii>
+      What's that supposed to mean!?<end_line>
+    </ascii>
   </male>
   <female>
     <sjis>
       どういう意味よ、それ！？<end_line>
     </sjis>
+    <ascii>
+      What's that supposed to mean!?<end_line>
+    </ascii>
   </female>
-  <ascii>
-    What's that supposed to mean!?<end_line>
-  </ascii>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -274,15 +296,18 @@
     <sjis>
       どういうことだよ！<end_line>
     </sjis>
+    <ascii>
+      What's that supposed to mean!?<end_line>
+    </ascii>
   </male>
   <female>
     <sjis>
       どういうこと！？<end_line>
     </sjis>
+    <ascii>
+      What's that supposed to mean!?<end_line>
+    </ascii>
   </female>
-  <ascii>
-    What's that supposed to mean!?<end_line>
-  </ascii>
 </dialogue>
 <dialogue>
   <partner name="enzi">
@@ -307,16 +332,19 @@
       な<three_dots><end_line>
       なんだって！？<end_line>
     </sjis>
+    <ascii>
+      Wh-what!?<end_line>
+    </ascii>
   </male>
   <female>
     <sjis>
       な<three_dots><end_line>
       なによそれ！？<end_line>
     </sjis>
+    <ascii>
+      Wh-what!?<end_line>
+    </ascii>
   </female>
-  <ascii>
-    Wh-what!?<end_line>
-  </ascii>
 </dialogue>
 <dialogue>
   <partner name="killfith">
@@ -339,15 +367,18 @@
     <sjis>
       どういうことだよ！<end_line>
     </sjis>
+    <ascii>
+      What's that supposed to mean!?<end_line>
+    </ascii>
   </male>
   <female>
     <sjis>
       どういうこと！？<end_line>
     </sjis>
+    <ascii>
+      What's that supposed to mean!?<end_line>
+    </ascii>
   </female>
-  <ascii>
-    What's that supposed to mean!?<end_line>
-  </ascii>
 </dialogue>
 <dialogue>
   <partner name="killfith">
@@ -373,16 +404,19 @@
       な<three_dots><end_line>
       なんだって！？<end_line>
     </sjis>
+    <ascii>
+      Wh-what!?<end_line>
+    </ascii>
   </male>
   <female>
     <sjis>
       な<three_dots><end_line>
       なによそれ！？<end_line>
     </sjis>
+    <ascii>
+      Wh-what!?<end_line>
+    </ascii>
   </female>
-  <ascii>
-    Wh-what!?<end_line>
-  </ascii>
 </dialogue>
 <dialogue>
   <partner name="rufeel">
@@ -405,15 +439,18 @@
     <sjis>
       どういうことだよ！<end_line>
     </sjis>
+    <ascii>
+      What's that supposed to mean!?<end_line>
+    </ascii>
   </male>
   <female>
     <sjis>
       どういうこと！？<end_line>
     </sjis>
+    <ascii>
+      What's that supposed to mean!?<end_line>
+    </ascii>
   </female>
-  <ascii>
-    What's that supposed to mean!?<end_line>
-  </ascii>
 </dialogue>
 <dialogue>
   <partner name="rufeel">
@@ -439,16 +476,19 @@
       な<three_dots><end_line>
       なんだって！？<end_line>
     </sjis>
+    <ascii>
+      Wh-what!?<end_line>
+    </ascii>
   </male>
   <female>
     <sjis>
       な<three_dots><end_line>
       なによそれ！？<end_line>
     </sjis>
+    <ascii>
+      Wh-what!?<end_line>
+    </ascii>
   </female>
-  <ascii>
-    Wh-what!?<end_line>
-  </ascii>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -609,15 +649,18 @@
     <sjis>
       でかい<three_dots>！<end_line>
     </sjis>
+    <ascii>
+      It's huge<three_dots>!<end_line>
+    </ascii>
   </male>
   <female>
     <sjis>
       おっきい<three_dots>！<end_line>
     </sjis>
+    <ascii>
+      It's huge<three_dots>!<end_line>
+    </ascii>
   </female>
-  <ascii>
-    It's huge<three_dots>!<end_line>
-  </ascii>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -646,6 +689,11 @@
       こんなヤツと戦って、オレは<end_line>
       生きていられるのか<three_dots><end_line>
     </sjis>
+    <ascii>
+      This is bad<three_dots><end_line>
+      Can I survive a<end_line>
+      fight with that<three_dots>?<end_line>
+    </ascii>
   </male>
   <female>
     <sjis>
@@ -653,12 +701,12 @@
       こんなのと戦って、わたし<end_line>
       生きていられるかな<three_dots><end_line>
     </sjis>
+    <ascii>
+      This is bad<three_dots><end_line>
+      Can I survive a<end_line>
+      fight with that<three_dots>?<end_line>
+    </ascii>
   </female>
-  <ascii>
-    This is bad<three_dots><end_line>
-    Can I survive a<end_line>
-    fight with that<three_dots>?<end_line>
-  </ascii>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -725,6 +773,11 @@
       こんなヤツと戦って、オレは<end_line>
       生きていられるのか<three_dots><end_line>
     </sjis>
+    <ascii>
+      This is bad<three_dots><end_line>
+      Can I survive a<end_line>
+      fight with that<three_dots>?<end_line>
+    </ascii>
   </male>
   <female>
     <sjis>
@@ -732,12 +785,12 @@
       こんなのと戦って、わたし<end_line>
       生きていられるかな<three_dots><end_line>
     </sjis>
+    <ascii>
+      This is bad<three_dots><end_line>
+      Can I survive a<end_line>
+      fight with that<three_dots>?<end_line>
+    </ascii>
   </female>
-  <ascii>
-    This is bad<three_dots><end_line>
-    Can I survive a<end_line>
-    fight with that<three_dots>?<end_line>
-  </ascii>
 </dialogue>
 <dialogue>
   <partner name="enzi">
@@ -803,7 +856,12 @@
       やばい<three_dots><end_line>
       こんなヤツと戦って、オレは<end_line>
       生きていられるのか<three_dots><end_line>
-    </sjis>
+    </sjis>    
+    <ascii>
+      This is bad<three_dots><end_line>
+      Can I survive a<end_line>
+      fight with that<three_dots>?<end_line>
+    </ascii>
   </male>
   <female>
     <sjis>
@@ -811,12 +869,12 @@
       こんなのと戦って、わたし<end_line>
       生きていられるかな<three_dots><end_line>
     </sjis>
+    <ascii>
+      This is bad<three_dots><end_line>
+      Can I survive a<end_line>
+      fight with that<three_dots>?<end_line>
+    </ascii>
   </female>
-  <ascii>
-    This is bad<three_dots><end_line>
-    Can I survive a<end_line>
-    fight with that<three_dots>?<end_line>
-  </ascii>
 </dialogue>
 <dialogue>
   <partner name="killfith">
@@ -883,6 +941,11 @@
       こんなヤツと戦って、オレは<end_line>
       生きていられるのか<three_dots><end_line>
     </sjis>
+    <ascii>
+      This is bad<three_dots><end_line>
+      Can I survive a<end_line>
+      fight with that<three_dots>?<end_line>
+    </ascii>
   </male>
   <female>
     <sjis>
@@ -890,12 +953,12 @@
       こんなのと戦って、わたし<end_line>
       生きていられるかな<three_dots><end_line>
     </sjis>
+    <ascii>
+      This is bad<three_dots><end_line>
+      Can I survive a<end_line>
+      fight with that<three_dots>?<end_line>
+    </ascii>
   </female>
-  <ascii>
-    This is bad<three_dots><end_line>
-    Can I survive a<end_line>
-    fight with that<three_dots>?<end_line>
-  </ascii>
 </dialogue>
 <dialogue>
   <partner name="rufeel">

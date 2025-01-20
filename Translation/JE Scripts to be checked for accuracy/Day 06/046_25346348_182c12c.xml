@@ -462,6 +462,11 @@
       そこまでわかるなんて<end_line>
       まるで現場にいたみたいじゃないか<three_dots><end_line>
     </sjis>
+    <ascii>
+      On the contrary, for you to know<end_line>
+      so much from their explanation,<end_line>
+      it's almost as if you were there<three_dots><end_line>
+    </ascii>
   </male>
   <female>
     <sjis>
@@ -469,12 +474,12 @@
       そこまでわかるなんて<end_line>
       まるで現場にいたみたいじゃないか<three_dots><end_line>
     </sjis>
+    <ascii>
+      On the contrary, for you to know<end_line>
+      so much from their explanation,<end_line>
+      it's almost as if you were there<three_dots><end_line>
+    </ascii>
   </female>
-  <ascii>
-    On the contrary, for you to know<end_line>
-    so much from their explanation,<end_line>
-    it's almost as if you were there<three_dots><end_line>
-  </ascii>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -589,15 +594,18 @@
     <sjis>
       なっ！　なんだと！<end_line>
     </sjis>
+    <ascii>
+      What!?<end_line>
+    </ascii>
   </male>
   <female>
     <sjis>
       なっ！　なによ！<end_line>
     </sjis>
+    <ascii>
+      What!?<end_line>
+    </ascii>
   </female>
-  <ascii>
-    What!?<end_line>
-  </ascii>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -869,17 +877,21 @@
       どうしたんだ？<end_line>
       なにかあった？<end_line>
     </sjis>
+    <ascii>
+      What's wrong?<end_line>
+      What happened?<end_line>
+    </ascii>
   </male>
   <female>
     <sjis>
       どうしたの？<end_line>
       なにかあった？<end_line>
     </sjis>
+    <ascii>
+      What's wrong?<end_line>
+      What happened?<end_line>
+    </ascii>
   </female>
-  <ascii>
-    What's wrong?<end_line>
-    What happened?<end_line>
-  </ascii>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -1047,6 +1059,11 @@
       オレたちじゃ弱すぎるって言うのか！<end_line>
       なんなら勝負してみるか？<end_line>
     </sjis>
+    <ascii>
+      What!?<end_line>
+      So you're saying we're too weak?<end_line>
+      Why don't we show you then?<end_line>
+    </ascii>
   </male>
   <female>
     <sjis>
@@ -1054,12 +1071,12 @@
       わたしたちじゃ弱すぎるって言うの？<end_line>
       なんなら勝負してみる？<end_line>
     </sjis>
+    <ascii>
+      What!?<end_line>
+      So you're saying we're too weak?<end_line>
+      Why don't we show you then?<end_line>
+    </ascii>
   </female>
-  <ascii>
-    What!?<end_line>
-    So you're saying we're too weak?<end_line>
-    Why don't we show you then?<end_line>
-  </ascii>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -1139,7 +1156,7 @@
   </sjis>
   <ascii>
     That's right, no Summons.<end_line>
-    If you win, I will guide<end_line>
+    If you win, I will guide you<end_line>
     through the ruins.<end_line>
   </ascii>
 </dialogue>
@@ -1268,15 +1285,19 @@
       いいんじゃないの？<end_line>
       オレたちも戻ろう<end_line>
     </sjis>
+    <ascii>
+      Sounds good to me.<end_line>
+      Let's head back.<end_line>
+    </ascii>
   </male>
   <female>
     <sjis>
       いいんじゃない？<end_line>
       わたしたちも戻ろう<end_line>
     </sjis>
+    <ascii>
+      Sounds good to me.<end_line>
+      Let's head back.<end_line>
+    </ascii>
   </female>
-  <ascii>
-    Sounds good to me.<end_line>
-    Let's head back.<end_line>
-  </ascii>
 </dialogue>

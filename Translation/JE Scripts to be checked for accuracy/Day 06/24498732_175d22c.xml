@@ -840,7 +840,7 @@
   	<ascii>
     	Gallahan already mentioned it,<end_line>
     	so I'm sure you would not have<end_line>
-    	forgotten your hammer<end_line>
+    	forgotten your hammer<three_dots><end_line>
   	</ascii>
 </dialogue>
 <dialogue>
@@ -1803,7 +1803,7 @@
 	</sjis>
   	<ascii>
     	I won't let this Phantom Dragon<end_line>
-    eat Murno!<end_line>
+    	eat Murno!<end_line>
   	</ascii>
 </dialogue>
 <dialogue>
