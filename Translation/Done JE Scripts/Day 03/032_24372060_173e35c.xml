@@ -91,7 +91,6 @@
     	We're trying to make ourselves<end_line>
     	known with craftsmen.<end_line>
   	</ascii>
-	# Made shorter
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -147,11 +146,10 @@
 		付加されるの<end_line>
 	</sjis>
 	<ascii>
-		There's this special material.<end_line>
+		Do you know <quote>Acceleration Spring<quote>?<end_line>
 		If you use it on your weapon,<end_line>
 		you'll get <quote>Double Attack<quote>.<end_line>
 	</ascii>
-	# Made first line shorter
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -166,7 +164,6 @@
 		some abilities become unusable.<end_line>
 		So, watch out, okay?<end_line>
 	</ascii>
-	# Made first line shorter
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -243,8 +240,8 @@
 		ケチ～<end_line>
 	</sjis>
   	<ascii>
-    	Eh<three_dots> You make me explain but<end_line>
-    	aren't buying anything?<end_line>
+    	Ehh<three_dots><end_line>
+    	You aren't buying anything?<end_line>
     	Cheapskate~<end_line>
   	</ascii>
 </dialogue>
@@ -274,7 +271,6 @@
 		He wants help chopping wood,<end_line>
 		but only from a professional.<end_line>
 	</ascii>
-	# Shortened lines
 </dialogue>
 <dialogue>
 	<info box="simple">

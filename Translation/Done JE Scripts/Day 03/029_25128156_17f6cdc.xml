@@ -59,10 +59,9 @@
 	</sjis>
 	<ascii>
 		If you're hurt,<end_line>
-		I have some medicine I<end_line>
-		can sell for real cheap~.<end_line>
+		I have some medicine.<end_line>
+		I can sell it for real cheap~<end_line>
 	</ascii>
-	# Fixed spelling error. Add punctuation.
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -377,7 +376,6 @@
 		Even if you're my customers,<end_line>
     	you've pushed me too far.<end_line>
 	</ascii>
-	# Made last line shorter. Was over 36 character hard limit.
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -632,7 +630,6 @@
 		if that's all your talk is worth,<end_line>
 		I won't approve this match.<end_line>
 	</ascii>
-	# Made lines shorter
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -668,7 +665,7 @@
 	<ascii>
 		Yeah!<end_line>
 		Now you're talking!<end_line>
-		Make sure to win, <player_nickname>!<end_line>
+		Go get that refund, <player_nickname>!<end_line>
 	</ascii>
 </dialogue>
 <dialogue>

@@ -50,7 +50,6 @@
 		No trespassing!!<end_line>
 		　　　　　　　　　　　~Tier<end_line>
 	</ascii>
-	# Made first line a little shorter
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -128,9 +127,9 @@
 	</sjis>
 	<ascii>
 		Then, I'll tell you about<end_line>
-		<quote>Superior<quote> weapons,<end_line>
+		Superior weapons,<end_line>
 		as a special service.<end_line>
-	</ascii>	
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -159,7 +158,6 @@
 		stats and swing faster with<end_line>
 		more efficiency.<end_line>
 	</ascii>
-	# Made all sentences shorter
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -201,7 +199,6 @@
 		it means you're gaining<end_line>
 		experience.<end_line>
 	</ascii>
-	# Removed first line to make reamining two shorter.
 </dialogue>
 <dialogue>
 	<info box="simple">

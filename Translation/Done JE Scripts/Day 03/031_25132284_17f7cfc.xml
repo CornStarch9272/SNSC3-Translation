@@ -84,7 +84,6 @@
     	She's way too excited<three_dots><end_line>
     	Well, as long as she's happy<three_dots><end_line>
 	</ascii>
-	# Made second line shorter
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -140,9 +139,8 @@
 		<three_dots><three_dots>い<end_line>
 	</sjis>
 	<ascii>
-		<three_dots><three_dots>N<three_dots><end_line>
+		<three_dots><three_dots>Nn<three_dots><end_line>
 	</ascii>
-	# Weird. Don't know about this one.
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -168,7 +166,6 @@
 		How cruel<three_dots><end_line>
     	Going all out against a girl<three_dots><end_line>
 	</ascii>
-	# Made a little shorter
 </dialogue>
 <dialogue>
 	<player gender="male">
@@ -250,7 +247,6 @@
 		I'm<three_dots>fine<three_dots><end_line>
 		Ouch!!<end_line>
 	</ascii>
-	# Changed second line from "Ah, tch...!".
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -343,7 +339,6 @@
 		<ascii>
 			<three_dots>I understand.<end_line>
 		</ascii>
-		# Changed from "Okay". This feels less vague for a dialogue option.
 	</option>
 	<option>
 		<sjis>
@@ -653,7 +648,6 @@
 	<ascii>
 		You okay?<end_line>
 	</ascii>
-	# First line was just a question mark. Removed it because it seems odd to have it.
 </dialogue>
 <dialogue>
 	<info box="left">
