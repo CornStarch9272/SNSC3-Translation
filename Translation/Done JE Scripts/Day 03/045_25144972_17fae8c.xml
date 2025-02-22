@@ -48,7 +48,7 @@
 	</sjis>
 	<ascii>
 		Ah, wait!<end_line>
-		At least buy some food<three_dots><end_line>
+		At least stay for dinner<three_dots><end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -62,8 +62,8 @@
 	</sjis>
 	<ascii>
 		Sigh<three_dots><end_line>
-    	That's the third one<end_line>
-    	to get away today<three_dots><end_line>
+    	That was supposed to be<end_line>
+    	our third customer<three_dots><end_line>		 
 	</ascii>
 </dialogue>
 <dialogue>
@@ -159,7 +159,7 @@
 	</sjis>
 	<ascii>
 		Yeah.<end_line>
-		My full name is <player_name>.<end_line>
+		I'm <player_name>.<end_line>
 		And this is <partner>.<end_line>
 	</ascii>
 </dialogue>

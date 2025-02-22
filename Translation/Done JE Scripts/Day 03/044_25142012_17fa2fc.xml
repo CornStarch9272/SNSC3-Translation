@@ -231,7 +231,6 @@
 		It's completely different.<end_line>
 		This one has four feet.<end_line>
 	</ascii>
-	# Changed 4 to four
 </dialogue>
 <dialogue>
 	<player gender="male">
@@ -771,7 +770,7 @@
 			でも、オレ<three_dots><end_line>
 		</sjis>
 		<ascii>
-			But, what<three_dots><end_line>
+			But<three_dots><end_line>
 		</ascii>
 	</male>
 	<female>
@@ -779,7 +778,7 @@
 			でも、わたし<three_dots><end_line>
 		</sjis>
 		<ascii>
-			But, what<three_dots><end_line>
+			But<three_dots><end_line>
 		</ascii>
 	</female>
 </dialogue>
@@ -830,7 +829,7 @@
 	<ascii>
 		How should I know!<end_line>
 		Enough<three_dots><end_line>
-		Just don't get in my way!<end_line>
+		I'll do this myself!<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
