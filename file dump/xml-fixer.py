@@ -59,10 +59,10 @@ def fix_all_files_in_directory(input_dir, output_dir, regexes, root_tag):
 if __name__ == "__main__":
 	# We pre-compile the regexes for efficiency
 	regexes = set()
-	# I think this could be compiled into one regex with .*?, but this works fine too and is less likely to break things
-	for t in SIMPLE_TAGS:
-		regexes.add( re.compile("(<" + t + "(?!_))>") ) # Negative lookahead term (?!_) is necessary to prevent the tag "player" from matching on "player_nickname", eg
-	for t in ATTR_TAGS:
-		regexes.add( re.compile("(<" + t + "(?!_).+?)>") )
+	# I think this could be compiled into one regex with the .*? term, but this works fine too and is less likely to break things
+	for t in SIMPLE_TAGS:                                    # Negative lookbheind term (?<!/) is necessary to prevent double-correcting a tag
+		regexes.add( re.compile("(<" + t + ")(?<!\/)>") )    # eg, we don't want <player_nickname> to become <player_nickname / />
+	for t in ATTR_TAGS:                                      # This can happen if one tag starts with another tag, eg <player> and <player_nickname>
+		regexes.add( re.compile("(<" + t + ".*?)(?<!\/)>") ) # This way, whichever tag catches it first will fix it; the other tag will ignore it
 
 	fix_all_files_in_directory(INPUT_DIRECTORY, OUTPUT_DIRECTORY, regexes, ROOT_TAG)
