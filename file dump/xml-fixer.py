@@ -13,6 +13,7 @@ SIMPLE_TAGS = { "option_1", "option_2", "greater_than", "lesser_than", "end_line
 		 "player_nickname", "paw", "music_note",  "left_arrow", "weapon_type", "black_dot", "three_dots"} 
 ATTR_TAGS = { "portrait_l", "portrait_r", "player", "partner", "info" }
 # Tag to insert as the new root tag
+# Set to None if you don't want to add one
 ROOT_TAG = "tl_file"
 
 def fix_file(file_contents, regexes, root_tag):
@@ -21,12 +22,14 @@ def fix_file(file_contents, regexes, root_tag):
 	1. Insert a top-level tag around the file contents
 	2. Update self-closing tags to be marked as self-closing (eg "<foo>" becomes "<foo />")
 	"""
-	output = "<" + root_tag + ">\n" + file_contents
+	if root_tag != None:
+		output = "<" + root_tag + ">\n" + file_contents
 
 	for regex in regexes:
 		output = regex.sub(r"\1 />", output)
 
-	output = output + "</" + root_tag + ">"
+	if root_tag != None:
+		output = output + "</" + root_tag + ">"
 
 	return output
 
