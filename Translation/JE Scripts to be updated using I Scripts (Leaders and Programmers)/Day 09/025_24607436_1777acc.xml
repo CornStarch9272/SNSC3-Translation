@@ -3,12 +3,12 @@
   <sjis>
     ほほえみ亭　１階<end_line />
   </sjis>
-</location>
+<ascii>Smile Inn　1st Floor</ascii></location>
 <location>
   <sjis>
     ほほえみ亭　１階<end_line />
   </sjis>
-</location>
+<ascii>Smile Inn　1st Floor</ascii></location>
 <dialogue>
   <info box="simple" />
   <portrait_l name="roche" />

@@ -3,12 +3,12 @@
   <sjis>
     マニグ採掘場<end_line />
   </sjis>
-</location>
+<ascii>Manig Mine</ascii></location>
 <location>
   <sjis>
     マニグ採掘場　エリア１<end_line />
   </sjis>
-</location>
+<ascii>Manig Mine　Area 1</ascii></location>
 <dialogue>
   <info box="simple" />
   <portrait_l name="player" />

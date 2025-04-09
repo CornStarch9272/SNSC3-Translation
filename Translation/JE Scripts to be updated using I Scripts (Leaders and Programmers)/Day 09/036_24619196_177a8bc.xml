@@ -3,12 +3,12 @@
   <sjis>
     プロスバンの町<end_line />
   </sjis>
-</location>
+<ascii>Prosban</ascii></location>
 <location>
   <sjis>
     プロスバンの町　西門<end_line />
   </sjis>
-</location>
+<ascii>Prosban　West Gate</ascii></location>
 ###SomeMessage
 <dialogue>
   <info box="simple" />

@@ -3,12 +3,12 @@
   <sjis>
     村長の家　道具屋<end_line />
   </sjis>
-</location>
+<ascii>Mayor's house　second-hand shop</ascii></location>
 <location>
   <sjis>
     村長の家　道具屋<end_line />
   </sjis>
-</location>
+<ascii>Mayor's house　second-hand shop</ascii></location>
 <dialogue>
   <info box="simple" />
   <portrait_l name="merchant" />

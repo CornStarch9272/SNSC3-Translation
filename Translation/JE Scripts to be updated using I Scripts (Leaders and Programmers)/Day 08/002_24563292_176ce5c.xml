@@ -3,7 +3,7 @@
   <sjis>
     ベンソン工房　エントランス<end_line />
   </sjis>
-</location>
+<ascii>Benson's Workshop　Entrance</ascii></location>
 <dialogue>
   <info box="simple" />
   <portrait_l name="elieze" />

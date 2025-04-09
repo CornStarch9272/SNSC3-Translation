@@ -3,3 +3,9 @@ leave this for Lost zombie and zelly
 day 00 and 01 everything must be copied
 
 after from that its just locations
+
+update 2025-04-09: 
+	Location tags imported from iscripts in Days 0, 1, 4, 7, 8, and 9.
+	No location tags found to update in other days.
+	If days 0 and 1 have more to do, that still needs to be done, but the location tags should be good.
+	- Bliz

@@ -3,10 +3,10 @@
 	<sjis>
 		スポート洞窟<end_line />
 	</sjis>
-</location>
+<ascii>ス[NAME 7]ート洞窟</ascii></location>
 <location>
 	<sjis>
 		スポート洞窟　エリア１<end_line />
 	</sjis>
-</location>
+<ascii>ス[NAME 7]ート洞窟　エリア１</ascii></location>
 </tl_file>

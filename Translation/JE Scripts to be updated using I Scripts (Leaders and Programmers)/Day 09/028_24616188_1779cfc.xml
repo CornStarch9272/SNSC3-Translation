@@ -3,7 +3,7 @@
   <sjis>
     プロスバンの町　住宅街階段<end_line />
   </sjis>
-</location>
+<ascii>Prosban　Suburbs Stairway</ascii></location>
 <dialogue>
   <info box="simple" />
   <portrait_l name="man" />

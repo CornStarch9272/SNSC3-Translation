@@ -3,7 +3,7 @@
   <sjis>
     ルイーズ村　村長の家<end_line />
   </sjis>
-</location>
+<ascii>Louise Village　Mayor's House</ascii></location>
 <dialogue>
   <info box="simple" />
   <portrait_l name="tram" />

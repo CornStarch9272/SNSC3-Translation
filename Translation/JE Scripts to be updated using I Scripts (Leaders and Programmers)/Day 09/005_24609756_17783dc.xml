@@ -3,12 +3,12 @@
 	<sjis>
 		プロスバンの町<end_line />
 	</sjis>
-</location>
+<ascii>Prosban</ascii></location>
 <location>
 	<sjis>
 		プロスバンの町　北門前工房通り<end_line />
 	</sjis>
-</location>
+<ascii>Prosban　North Workshop Street</ascii></location>
 <dialogue>
 	<info box="simple" />
 	<portrait_l name="man" />

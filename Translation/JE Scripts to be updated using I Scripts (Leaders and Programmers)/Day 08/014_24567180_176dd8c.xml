@@ -3,7 +3,7 @@
   <sjis>
     プロスバンの町　民家Ａ<end_line />
   </sjis>
-</location>
+<ascii>Prosban　Villager's House A</ascii></location>
 <dialogue>
   <info box="simple" />
   <portrait_l name="woman" />

@@ -3,7 +3,7 @@
 	<sjis>
 		プロスバンの町　駅<end_line />
 	</sjis>
-</location>
+<ascii>Prosban　Station</ascii></location>
 <dialogue>
 	<info box="simple" />
 	<portrait_l name="child" />

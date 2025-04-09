@@ -3,7 +3,7 @@
   <sjis>
     ルイーズ村　牢屋<end_line />
   </sjis>
-</location>
+<ascii>Louise Village　Prison</ascii></location>
 <dialogue>
   <info box="simple" />
   <portrait_l name="jailer" />

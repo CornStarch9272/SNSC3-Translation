@@ -3,7 +3,7 @@
   <sjis>
     ディックル村　駅<end_line />
   </sjis>
-</location>
+<ascii>Deckell Village  Station</ascii></location>
 <dialogue>
   <info box="simple" />
   <portrait_l name="lemmy" />

@@ -3,7 +3,7 @@
 	<sjis>
 		村長の家　広間<end_line />
 	</sjis>
-</location>
+<ascii>Chief's Home　Hall</ascii></location>
 <dialogue>
 	<info box="simple" />
 	<portrait_l name="chief" />

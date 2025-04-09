@@ -3,7 +3,7 @@
   <sjis>
     ロブ工房　２階<end_line />
   </sjis>
-</location>
+<ascii>Rob's Workshop　2nd Floor</ascii></location>
 <dialogue>
   <info box="simple" />
   <portrait_l name="player" />

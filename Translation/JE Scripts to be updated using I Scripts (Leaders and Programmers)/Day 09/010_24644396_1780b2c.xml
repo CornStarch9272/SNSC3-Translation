@@ -3,7 +3,7 @@
 	<sjis>
 		ルイーズ村　民家Ａ<end_line />
 	</sjis>
-</location>
+<ascii>Louise Village　Villager's House A</ascii></location>
 ###ElderlyPeaceful
 <dialogue>
 	<info box="simple" />

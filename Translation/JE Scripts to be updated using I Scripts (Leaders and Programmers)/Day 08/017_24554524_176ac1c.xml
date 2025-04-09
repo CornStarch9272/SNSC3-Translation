@@ -3,12 +3,12 @@
   <sjis>
     プロスバンの町<end_line />
   </sjis>
-</location>
+<ascii>Prosban</ascii></location>
 <location>
   <sjis>
     プロスバンの町　鉱業区<end_line />
   </sjis>
-</location>
+<ascii>Prosban　Mining District</ascii></location>
 <dialogue>
   <info box="simple" />
   <portrait_l name="player" />

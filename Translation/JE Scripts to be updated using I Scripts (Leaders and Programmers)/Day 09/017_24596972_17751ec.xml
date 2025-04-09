@@ -3,12 +3,12 @@
   <sjis>
     ディックル村<end_line />
   </sjis>
-</location>
+<ascii>Deckell Village</ascii></location>
 <location>
   <sjis>
     ディックル村　鉱洞入り口<end_line />
   </sjis>
-</location>
+<ascii>Deckell Village　Mine Entrance</ascii></location>
 <dialogue>
   <info box="simple" />
   <portrait_l name="woman" />

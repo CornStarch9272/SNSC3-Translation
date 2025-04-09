@@ -3,7 +3,7 @@
   <sjis>
     プロスバンの町　福引き屋<end_line />
   </sjis>
-</location>
+<ascii>Prosban　Lottery</ascii></location>
 <dialogue>
   <info box="simple" />
   <portrait_l name="player" />

@@ -3,12 +3,12 @@
   <sjis>
     マニグ採掘場<end_line />
   </sjis>
-</location>
+<ascii>Manig Mine</ascii></location>
 <location>
   <sjis>
     マニグ採掘場　エリア２<end_line />
   </sjis>
-</location>
+<ascii>Manig Mine　Area 2</ascii></location>
 <popup>
   <sjis>
     元気になった！<end_line />

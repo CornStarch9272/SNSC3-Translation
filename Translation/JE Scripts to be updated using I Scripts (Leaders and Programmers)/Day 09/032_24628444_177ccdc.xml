@@ -3,12 +3,12 @@
 	<sjis>
 		プロスバンの町　武器屋<end_line />
 	</sjis>
-</location>
+<ascii>Prosban　Weaponry</ascii></location>
 <location>
 	<sjis>
 		プロスバンの町　武器屋<end_line />
 	</sjis>
-</location>
+<ascii>Prosban　Weaponry</ascii></location>
 ###AlsoMaterials
 <dialogue>
 	<info box="simple" />

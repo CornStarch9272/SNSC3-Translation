@@ -3,12 +3,12 @@
 	<sjis>
 		グマグの炎遺跡<end_line />
 	</sjis>
-</location>
+<ascii>グマグの炎遺跡</ascii></location>
 <location>
 	<sjis>
 		グマグの炎遺跡　エリア４<end_line />
 	</sjis>
-</location>
+<ascii>Ghumag Flame Ruins　Area 4</ascii></location>
 <dialogue>
 	<info box="simple" />
 	<sjis>

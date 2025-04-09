@@ -3,13 +3,13 @@
   <sjis>
     ディックル村<end_line />
   </sjis>
-</location>
+<ascii>Deckell Village</ascii></location>
 #Deckell Village
 <location>
   <sjis>
     ディックル村　鉱洞入り口<end_line />
   </sjis>
-</location>
+<ascii>Deckell Village - Mine Entrance</ascii></location>
 #Deckell Village - Mine Entrance
 <dialogue>
   <info box="simple" />

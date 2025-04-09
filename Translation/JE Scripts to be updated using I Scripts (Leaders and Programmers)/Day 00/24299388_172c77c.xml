@@ -3,7 +3,7 @@
 	<sjis>
 		村長の家　道具屋<end_line />
 	</sjis>
-</location>
+<ascii>Chief's Home　second-hand shop</ascii></location>
 <dialogue>
 	<info box="simple" />
 	<portrait_l name="shop_clerk" />

@@ -3,7 +3,7 @@
 	<sjis>
 		ロブ工房　工房<end_line />
 	</sjis>
-</location>
+<ascii>Rob's Workshop　Workshop</ascii></location>
 <dialogue>
 	<info box="simple" />
 	<portrait_l name="vee" />

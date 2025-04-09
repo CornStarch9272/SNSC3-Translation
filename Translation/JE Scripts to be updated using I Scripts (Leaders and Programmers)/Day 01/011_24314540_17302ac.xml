@@ -3,7 +3,7 @@
   <sjis>
     ボスタフ工房　ディックル村支部<end_line />
   </sjis>
-</location>
+<ascii>Bostaph Workshop   Deckell Branch</ascii></location>
 <dialogue>
   <info box="simple" />
   <portrait_l name="man" />

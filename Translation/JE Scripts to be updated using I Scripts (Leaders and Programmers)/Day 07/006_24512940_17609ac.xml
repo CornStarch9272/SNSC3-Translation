@@ -3,12 +3,12 @@
   <sjis>
     ルイーズ村<end_line />
   </sjis>
-</location>
+<ascii>Louise Village</ascii></location>
 <location>
   <sjis>
     ルイーズ村　牢屋前<end_line />
   </sjis>
-</location>
+<ascii>Louise Village　Prison Entrance</ascii></location>
 <dialogue>
   <info box="simple" />
   <portrait_l name="player" />

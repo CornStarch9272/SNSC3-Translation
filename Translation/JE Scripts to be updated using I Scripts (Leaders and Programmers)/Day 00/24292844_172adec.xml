@@ -3,7 +3,7 @@
 	<sjis>
 		ディックル村　釣り人の池<end_line />
 	</sjis>
-</location>
+<ascii>Deckell Village　Fishing Pond</ascii></location>
 <dialogue>
 	<info box="simple" />
 	<portrait_l name="fisherman" />

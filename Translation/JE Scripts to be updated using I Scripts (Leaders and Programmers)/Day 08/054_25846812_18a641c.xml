@@ -3,12 +3,12 @@
   <sjis>
     スレンジ採掘場<end_line />
   </sjis>
-</location>
+<ascii>ス[NAME 8]ンジ採掘場</ascii></location>
 <location>
   <sjis>
     スレンジ採掘場　アジトエリア１<end_line />
   </sjis>
-</location>
+<ascii>ス[NAME 8]ンジ採掘場　アジトエリア１</ascii></location>
 <dialogue>
   <info box="simple" />
   <portrait_l name="player" />

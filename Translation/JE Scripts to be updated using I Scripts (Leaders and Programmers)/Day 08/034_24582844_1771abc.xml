@@ -3,12 +3,12 @@
   <sjis>
     ギャラハン工房　道具屋<end_line />
   </sjis>
-</location>
+<ascii>Gallahan's Workshop　Tool Shop</ascii></location>
 <location>
   <sjis>
     ギャラハン工房　道具屋<end_line />
   </sjis>
-</location>
+<ascii>Gallahan's Workshop　Tool Shop</ascii></location>
 <dialogue>
   <info box="simple" />
   <portrait_l name="gallahan" />

@@ -3,7 +3,7 @@
   <sjis>
     プロスバンの町　商店通り<end_line />
   </sjis>
-</location>
+<ascii>Prosban　Shopping Street</ascii></location>
 <dialogue>
   <info box="simple" />
   <portrait_l name="child" />

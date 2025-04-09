@@ -3,12 +3,12 @@
   <sjis>
     マーネイル宿場<end_line />
   </sjis>
-</location>
+<ascii>マー[NAME 6]イル宿場</ascii></location>
 <location>
   <sjis>
     マーネイル宿場　ほほえみ亭前<end_line />
   </sjis>
-</location>
+<ascii>Marnail Station　Smile Inn Vicinity</ascii></location>
 <dialogue>
   <info box="simple" />
   <portrait_l name="woman" />

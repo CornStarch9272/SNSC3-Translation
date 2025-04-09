@@ -3,7 +3,7 @@
 	<sjis>
 		金の派閥　エントランス<end_line />
 	</sjis>
-</location>
+<ascii>Auric Collective　Entrance</ascii></location>
 <dialogue>
 	<info box="simple" />
 	<portrait_l name="man" />
