@@ -1,29 +1,31 @@
+<tl_file>
 <location>
 	<sjis>
-		ギャラハン工房　道具屋<end_line>
+		ギャラハン工房　道具屋<end_line />
 	</sjis>
 	<ascii>
-		Gallahan's Workshop　Tool Shop<end_line>
+		Gallahan's Workshop　Tool Shop<end_line />
 	</ascii>
 </location>
 <location>
 	<sjis>
-		ギャラハン工房　道具屋<end_line>
+		ギャラハン工房　道具屋<end_line />
 	</sjis>
 	<ascii>
-		Gallahan's Workshop　Tool Shop<end_line>
+		Gallahan's Workshop　Tool Shop<end_line />
 	</ascii>
 </location>
 <dialogue>
-	<info box="simple">
+	<info box="simple" />
 	<sjis>
-		ギャラハン工房からのお知らせ<end_line>
-		カウンターに店員がいないときには<end_line>
-		勝手に買い物してください<end_line>
+		ギャラハン工房からのお知らせ<end_line />
+		カウンターに店員がいないときには<end_line />
+		勝手に買い物してください<end_line />
 	</sjis>
   <ascii>
-    A notice from Gallahan's Workshop.<end_line>
-    When the clerk is not available,<end_line>
-    please serve yourself.<end_line>
+    A notice from Gallahan's Workshop.<end_line />
+    When the clerk is not available,<end_line />
+    please serve yourself.<end_line />
   </ascii>
 </dialogue>
+</tl_file>

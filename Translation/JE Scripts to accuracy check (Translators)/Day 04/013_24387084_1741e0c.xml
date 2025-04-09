@@ -1,66 +1,68 @@
+<tl_file>
 <location>
 	<sjis>
-		ディックル村<end_line>
+		ディックル村<end_line />
 	</sjis>
 	<ascii>
-		Deckell Village<end_line>
+		Deckell Village<end_line />
 	</ascii>
 </location>
 <location>
 	<sjis>
-		ディックル村　住宅地<end_line>
+		ディックル村　住宅地<end_line />
 	</sjis>
 	<ascii>
-		Deckell Village　Suburbs<end_line>
+		Deckell Village　Suburbs<end_line />
 	</ascii>
 </location>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="elderly">
+	<info box="simple" />
+	<portrait_l name="elderly" />
 	<sjis>
-		近頃の若いヤツはなっとらん<end_line>
-		あ～～なっとらん<end_line>
-		と言ったらなっとらん<end_line>
+		近頃の若いヤツはなっとらん<end_line />
+		あ～～なっとらん<end_line />
+		と言ったらなっとらん<end_line />
 	</sjis>
 	<ascii>
-		Youngsters these days are<end_line>
-		no good.<end_line>
-		They're just no good.<end_line>
+		Youngsters these days are<end_line />
+		no good.<end_line />
+		They're just no good.<end_line />
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="child">
+	<info box="simple" />
+	<portrait_l name="child" />
 	<sjis>
-		おおきくなったら<end_line>
-		ゆうしゃになるんだ<end_line>
-		ゆうしゃはけんしより<end_line>
+		おおきくなったら<end_line />
+		ゆうしゃになるんだ<end_line />
+		ゆうしゃはけんしより<end_line />
 	</sjis>
 	<ascii>
-		When I'm older, I'll be a hero.<end_line>
-		Hero's are better than warriors.<end_line>
+		When I'm older, I'll be a hero.<end_line />
+		Hero's are better than warriors.<end_line />
 	</ascii>
 	# Fixed typo
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="child">
+	<info box="simple" />
+	<portrait_l name="child" />
 	<sjis>
-		つよいんだよ<end_line>
+		つよいんだよ<end_line />
 	</sjis>
 	<ascii>
-	    They're stronger.<end_line>
+	    They're stronger.<end_line />
     </ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="man">
+	<info box="simple" />
+	<portrait_l name="man" />
 	<sjis>
-		この村も悪くないんだけど<end_line>
-		シゲキがないんだよね<end_line>
+		この村も悪くないんだけど<end_line />
+		シゲキがないんだよね<end_line />
 	</sjis>
 	<ascii>
-	    This village isn't bad,<end_line>
-		but nothing happens here.<end_line>
+	    This village isn't bad,<end_line />
+		but nothing happens here.<end_line />
     </ascii>
 </dialogue>
+</tl_file>

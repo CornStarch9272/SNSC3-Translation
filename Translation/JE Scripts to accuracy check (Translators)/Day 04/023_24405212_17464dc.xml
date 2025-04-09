@@ -1,276 +1,278 @@
+<tl_file>
 <location>
 	<sjis>
-		プロスバンの町　商店通り<end_line>
+		プロスバンの町　商店通り<end_line />
 	</sjis>
 	<ascii>
-		Prosban　Shopping Street<end_line>
+		Prosban　Shopping Street<end_line />
 	</ascii>
 </location>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="player">
+	<info box="simple" />
+	<portrait_l name="player" />
   <male>
     <sjis>
-      アニキも金の派閥も<end_line>
-      こっちじゃないって！<end_line>
+      アニキも金の派閥も<end_line />
+      こっちじゃないって！<end_line />
     </sjis>
     <ascii>
-		Wrong way!<end_line>
-		I need to find Brother<end_line>
-		at the Gold Council!<end_line>
+		Wrong way!<end_line />
+		I need to find Brother<end_line />
+		at the Gold Council!<end_line />
     </ascii>
   </male>
   <female>
     <sjis>
-      アニキを追いかけなくちゃ！<end_line>
+      アニキを追いかけなくちゃ！<end_line />
     </sjis>
     <ascii>
-      I have to follow Bro!<end_line>
+      I have to follow Bro!<end_line />
     </ascii>
   </female>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="peddler's_daughter">
+	<info box="simple" />
+	<portrait_l name="peddler's_daughter" />
 	<sjis>
-		私のお母様は、旅商人なの<end_line>
-		今は２人で旅をして鍛冶師や職人に<end_line>
-		顔を売っている段階なんだって<end_line>
+		私のお母様は、旅商人なの<end_line />
+		今は２人で旅をして鍛冶師や職人に<end_line />
+		顔を売っている段階なんだって<end_line />
 	</sjis>
   <ascii>
-    You know, my mom is a peddler.<end_line>
-    We're trying to make ourselves known<end_line>
-    with Craftknights and blacksmiths.<end_line>
+    You know, my mom is a peddler.<end_line />
+    We're trying to make ourselves known<end_line />
+    with Craftknights and blacksmiths.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="peddler's_daughter">
+	<info box="simple" />
+	<portrait_l name="peddler's_daughter" />
 	<sjis>
-		お母様は、私が遊びに行ってるって<end_line>
-		思ってるみたいだけど、将来のために<end_line>
-		商売をしているの<end_line>
+		お母様は、私が遊びに行ってるって<end_line />
+		思ってるみたいだけど、将来のために<end_line />
+		商売をしているの<end_line />
 	</sjis>
   <ascii>
-    My mom thinks I'm out<end_line>
-    playing around, but I'm<end_line>
-    earning money for our future.<end_line>
+    My mom thinks I'm out<end_line />
+    playing around, but I'm<end_line />
+    earning money for our future.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="peddler's_daughter">
+	<info box="simple" />
+	<portrait_l name="peddler's_daughter" />
 	<sjis>
-		ところであなたは、鍛冶師みたいだけど<end_line>
-		強化の情報を聞いていかない？<end_line>
+		ところであなたは、鍛冶師みたいだけど<end_line />
+		強化の情報を聞いていかない？<end_line />
 	</sjis>
   <ascii>
-    You're a Craftknight, aren't you?<end_line>
-    Want to hear about enhancement?<end_line>
+    You're a Craftknight, aren't you?<end_line />
+    Want to hear about enhancement?<end_line />
   </ascii>
 </dialogue>
 <choice>
-	<info box="simple">
+	<info box="simple" />
 	<option>
 		<sjis>
-			聞いてみる<end_line>
+			聞いてみる<end_line />
 		</sjis>
     <ascii>
-      Sure thing!<end_line>
+      Sure thing!<end_line />
     </ascii>
 	</option>
 	<option>
 		<sjis>
-			特に聞かない<end_line>
+			特に聞かない<end_line />
 		</sjis>
     <ascii>
-      Nah, I'm fine.<end_line>
+      Nah, I'm fine.<end_line />
     </ascii>
 	</option>
 </choice>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="peddler's_daughter">
+	<info box="simple" />
+	<portrait_l name="peddler's_daughter" />
 	<sjis>
-		強化で「破滅スイッチ」を使うと<end_line>
-		必殺技の「ＤＵＲアタック」<end_line>
-		が武器に付加されるの<end_line>
+		強化で「破滅スイッチ」を使うと<end_line />
+		必殺技の「ＤＵＲアタック」<end_line />
+		が武器に付加されるの<end_line />
 	</sjis>
   <ascii>
-    Enhancing with a <quote>Ruin Switch<quote><end_line>
-    will add the <quote>DUR Attack<quote><end_line>
-    to your weapon.<end_line>
+    Enhancing with a <quote />Ruin Switch<quote /><end_line />
+    will add the <quote />DUR Attack<quote /><end_line />
+    to your weapon.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="peddler's_daughter">
+	<info box="simple" />
+	<portrait_l name="peddler's_daughter" />
 	<sjis>
-		でもって、今回はなんと<end_line>
-		「破滅スイッチ」を<end_line>
-		８００バームで販売中なの～<end_line>
+		でもって、今回はなんと<end_line />
+		「破滅スイッチ」を<end_line />
+		８００バームで販売中なの～<end_line />
 	</sjis>
   <ascii>
-    And would you look at that,<end_line>
-    I have one such <quote>Ruin Switch<quote><end_line>
-    available for only 800 Boam~<end_line>
+    And would you look at that,<end_line />
+    I have one such <quote />Ruin Switch<quote /><end_line />
+    available for only 800 Boam~<end_line />
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="peddler's_daughter">
+	<info box="simple" />
+	<portrait_l name="peddler's_daughter" />
 	<sjis>
-		買ってくれます？<end_line>
+		買ってくれます？<end_line />
 	</sjis>
   <ascii>
-    How about it?<end_line>
+    How about it?<end_line />
   </ascii>
 </dialogue>
 <choice>
-	<info box="simple">
+	<info box="simple" />
 	<option>
 		<sjis>
-			買う<end_line>
+			買う<end_line />
 		</sjis>
     <ascii>
-      Buy<end_line>
+      Buy<end_line />
     </ascii>
 	</option>
 	<option>
 		<sjis>
-			買わない<end_line>
+			買わない<end_line />
 		</sjis>
     <ascii>
-      Don't buy<end_line>
+      Don't buy<end_line />
     </ascii>
 	</option>
 </choice>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="peddler's_daughter">
+	<info box="simple" />
+	<portrait_l name="peddler's_daughter" />
 	<sjis>
-		ありがと～<end_line>
+		ありがと～<end_line />
 	</sjis>
   <ascii>
-    Thank you~<end_line>
+    Thank you~<end_line />
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="peddler's_daughter">
+	<info box="simple" />
+	<portrait_l name="peddler's_daughter" />
 	<sjis>
-		ええぇ～これじゃ～<end_line>
-		お金たりないの～<end_line>
-		商談不成立だよ～<end_line>
+		ええぇ～これじゃ～<end_line />
+		お金たりないの～<end_line />
+		商談不成立だよ～<end_line />
 	</sjis>
   <ascii>
-    Eeeh~<end_line>
-    But you don't have the money~<end_line>
-    Transaction denied.<end_line>
+    Eeeh~<end_line />
+    But you don't have the money~<end_line />
+    Transaction denied.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="peddler's_daughter">
+	<info box="simple" />
+	<portrait_l name="peddler's_daughter" />
 	<sjis>
-		え～聞くだけ聞いて買ってくれないの～<end_line>
-		ケチ～<end_line>
+		え～聞くだけ聞いて買ってくれないの～<end_line />
+		ケチ～<end_line />
 	</sjis>
   <ascii>
-    Eh~ I tell you all that and<end_line>
-    you don't buy anything?<end_line>
-    Cheapskate~<end_line>
+    Eh~ I tell you all that and<end_line />
+    you don't buy anything?<end_line />
+    Cheapskate~<end_line />
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="peddler's_daughter">
+	<info box="simple" />
+	<portrait_l name="peddler's_daughter" />
 	<sjis>
-		え～聞いてくれないの～<end_line>
-		せっかくのお客さんだと思ったのに～<end_line>
+		え～聞いてくれないの～<end_line />
+		せっかくのお客さんだと思ったのに～<end_line />
 	</sjis>
   <ascii>
-    Eh~ You don't want to listen?<end_line>
-    And I thought I finally had<end_line>
-    a customer~<end_line>
+    Eh~ You don't want to listen?<end_line />
+    And I thought I finally had<end_line />
+    a customer~<end_line />
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="man">
+	<info box="simple" />
+	<portrait_l name="man" />
 	<sjis>
-		結構溜まってきたな<end_line>
-		そろそろ、福引き屋に<end_line>
-		行かないと<three_dots><end_line>
+		結構溜まってきたな<end_line />
+		そろそろ、福引き屋に<end_line />
+		行かないと<three_dots /><end_line />
 	</sjis>
   <ascii>
-    I've saved up quite a lot.<end_line>
-    I should got to the<end_line>
-    lottery shop soon<three_dots><end_line>
+    I've saved up quite a lot.<end_line />
+    I should got to the<end_line />
+    lottery shop soon<three_dots /><end_line />
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="man">
+	<info box="simple" />
+	<portrait_l name="man" />
 	<sjis>
-		おや、キミも召喚獣をつれて居るんだね<end_line>
-		紹介するよ<end_line>
-		ボクの召喚獣、ミョータロウだよ<end_line>
+		おや、キミも召喚獣をつれて居るんだね<end_line />
+		紹介するよ<end_line />
+		ボクの召喚獣、ミョータロウだよ<end_line />
 	</sjis>
   <ascii>
-    Oh, you have Summon Beast too.<end_line>
-    Nice to meet you. This is<end_line>
-    my Summon Beast, Myoutarou.<end_line>
+    Oh, you have Summon Beast too.<end_line />
+    Nice to meet you. This is<end_line />
+    my Summon Beast, Myoutarou.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
+	<info box="simple" />
 	<sjis>
-		　<end_line>
-		　　　釣り仲間新聞　第１号<end_line>
+		　<end_line />
+		　　　釣り仲間新聞　第１号<end_line />
 	</sjis>
   <ascii>
-    　<end_line>
-    Fishing Friends Newspaper No. 1<end_line>
+    　<end_line />
+    Fishing Friends Newspaper No. 1<end_line />
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
+	<info box="simple" />
 	<sjis>
-		ディックル村の釣り人の池には<end_line>
-		かつてないほどのつぶらな目をした<end_line>
-		ワン魚がいるらしいぞ<end_line>
+		ディックル村の釣り人の池には<end_line />
+		かつてないほどのつぶらな目をした<end_line />
+		ワン魚がいるらしいぞ<end_line />
 	</sjis>i
   <ascii>
-    It's said the Dickell Village Pond<end_line>
-    contains a fish who's cuteness<end_line>
-    cannot be put into words.<end_line>
+    It's said the Dickell Village Pond<end_line />
+    contains a fish who's cuteness<end_line />
+    cannot be put into words.<end_line />
   </ascii>
   # Changed Deikle to Dickell
 </dialogue>
 <dialogue>
-	<info box="simple">
+	<info box="simple" />
 	<sjis>
-		「福引き」であなたの運を<end_line>
-		試してみませんか？<end_line>
-		毎日抽選！空くじ無し！！<end_line>
+		「福引き」であなたの運を<end_line />
+		試してみませんか？<end_line />
+		毎日抽選！空くじ無し！！<end_line />
 	</sjis>
   <ascii>
-    Want to try your luck<end_line>
-    at the lottery?<end_line>
-    Every ticket wins!<end_line>
+    Want to try your luck<end_line />
+    at the lottery?<end_line />
+    Every ticket wins!<end_line />
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
+	<info box="simple" />
 	<sjis>
-		はぐれが出たことを知らせる警報が<end_line>
-		聞こえたらすみやかに町の中に避難し<end_line>
-		外出をひかえましょう<end_line>
+		はぐれが出たことを知らせる警報が<end_line />
+		聞こえたらすみやかに町の中に避難し<end_line />
+		外出をひかえましょう<end_line />
 	</sjis>
   <ascii>
-    If you hear the alarm, that means<end_line>
-    Strays have appeared nearby.<end_line>
-    Avoid leaving town.<end_line>
+    If you hear the alarm, that means<end_line />
+    Strays have appeared nearby.<end_line />
+    Avoid leaving town.<end_line />
   </ascii>
 </dialogue>
+</tl_file>

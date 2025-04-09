@@ -1,63 +1,65 @@
+<tl_file>
 <location>
 	<sjis>
-		ほほえみ亭　１階<end_line>
+		ほほえみ亭　１階<end_line />
 	</sjis>
 	<ascii>
-		Smile Inn　1st Floor<end_line>
+		Smile Inn　1st Floor<end_line />
 	</ascii>
 </location>
 <location>
 	<sjis>
-		ほほえみ亭　１階<end_line>
+		ほほえみ亭　１階<end_line />
 	</sjis>
 	<ascii>
-		Smile Inn　1st Floor<end_line>
+		Smile Inn　1st Floor<end_line />
 	</ascii>
 </location>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="roche">
+	<info box="simple" />
+	<portrait_l name="roche" />
 	<sjis>
-		気をつけて行ってらっしゃいね<end_line>
+		気をつけて行ってらっしゃいね<end_line />
 	</sjis>
   <ascii>
-    Take care!<end_line>
+    Take care!<end_line />
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="thuss">
+	<info box="simple" />
+	<portrait_l name="thuss" />
 	<sjis>
-		娘をよろしくたのみます<end_line>
+		娘をよろしくたのみます<end_line />
 	</sjis>
   <ascii>
-    Please watch over our daughter.<end_line>
+    Please watch over our daughter.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
+	<info box="simple" />
 	<sjis>
-		ここから先は乙女の秘密<hearth><end_line>
-		立ち入り禁止！！<end_line>
-		　　　　　　　　　　　ティエ<end_line>
+		ここから先は乙女の秘密<hearth /><end_line />
+		立ち入り禁止！！<end_line />
+		　　　　　　　　　　　ティエ<end_line />
 	</sjis>
   <ascii>
-		From here on is a maiden's secret <hearth><end_line>
-		No trespassing!!<end_line>
-		              Tier<end_line>
+		From here on is a maiden's secret <hearth /><end_line />
+		No trespassing!!<end_line />
+		              Tier<end_line />
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="man">
+	<info box="simple" />
+	<portrait_l name="man" />
 	<sjis>
-		ナックルがあれば、岩も動かせるんだよ<end_line>
-		なぜ動かせるのかは<end_line>
-		オレは、知らないけど<end_line>
+		ナックルがあれば、岩も動かせるんだよ<end_line />
+		なぜ動かせるのかは<end_line />
+		オレは、知らないけど<end_line />
 	</sjis>
   <ascii>
-    Knuckles let you move rocks.<end_line>
-    As for why that is,<end_line>
-    I have no idea.<end_line>
+    Knuckles let you move rocks.<end_line />
+    As for why that is,<end_line />
+    I have no idea.<end_line />
   </ascii>
 </dialogue>
+</tl_file>

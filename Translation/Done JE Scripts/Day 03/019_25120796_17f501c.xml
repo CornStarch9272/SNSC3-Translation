@@ -1,10 +1,12 @@
+<tl_file>
 <dialogue>
-	<info box="right">
-	<portrait_r entry="tier" eye="serious" mouth="neutral">
+	<info box="right" />
+	<portrait_r entry="tier" eye="serious" mouth="neutral" />
 	<sjis>
-		では、この穴に入りま～す！<end_line>
+		では、この穴に入りま～す！<end_line />
 	</sjis>
 	<ascii>
-		Now then, follow me!<end_line>
+		Now then, follow me!<end_line />
 	</ascii>
 </dialogue>
+</tl_file>

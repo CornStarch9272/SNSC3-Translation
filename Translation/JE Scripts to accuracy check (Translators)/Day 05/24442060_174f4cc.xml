@@ -1,22 +1,24 @@
+<tl_file>
 <location>
 	<sjis>
-		ボスタフ工房　ディックル村支部<end_line>
+		ボスタフ工房　ディックル村支部<end_line />
 	</sjis>
 	<ascii>
-		Bostaph's Workshop　Deckell Branch<end_line>
+		Bostaph's Workshop　Deckell Branch<end_line />
 	</ascii>
 </location>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="man">
+	<info box="simple" />
+	<portrait_l name="man" />
 	<sjis>
-		チッ<end_line>
-		ザックがいねぇから<end_line>
-		使いに出せるヤツがいねぇ<end_line>
+		チッ<end_line />
+		ザックがいねぇから<end_line />
+		使いに出せるヤツがいねぇ<end_line />
 	</sjis>
   <ascii>
-    Tch.<end_line>
-    Without Zakk here I don't have<end_line>
-    anyone to pawn errands off to.<end_line>
+    Tch.<end_line />
+    Without Zakk here I don't have<end_line />
+    anyone to pawn errands off to.<end_line />
   </ascii>
 </dialogue>
+</tl_file>

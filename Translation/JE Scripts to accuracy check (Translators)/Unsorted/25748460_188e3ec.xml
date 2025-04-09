@@ -1,16 +1,18 @@
+<tl_file>
 <location>
 	<sjis>
-		ディックル鉱洞<end_line>
+		ディックル鉱洞<end_line />
 	</sjis>
 	<ascii>
-		Deckell Mine Cave<end_line>
+		Deckell Mine Cave<end_line />
 	</ascii>
 </location>
 <location>
 	<sjis>
-		ディックル鉱洞　エリア２<end_line>
+		ディックル鉱洞　エリア２<end_line />
 	</sjis>
 	<ascii>
-		Deckell Mine Cave　Area 2<end_line>
+		Deckell Mine Cave　Area 2<end_line />
 	</ascii>
 </location>
+</tl_file>

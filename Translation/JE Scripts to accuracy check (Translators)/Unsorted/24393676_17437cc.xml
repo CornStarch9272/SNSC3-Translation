@@ -1,8 +1,10 @@
+<tl_file>
 <location>
 	<sjis>
-		ロブ工房　２階<end_line>
+		ロブ工房　２階<end_line />
 	</sjis>
 	<ascii>
-		Rob's Workshop　2nd Floor<end_line>
+		Rob's Workshop　2nd Floor<end_line />
 	</ascii>
 </location>
+</tl_file>

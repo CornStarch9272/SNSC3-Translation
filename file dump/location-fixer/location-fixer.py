@@ -36,6 +36,7 @@ def create_fixed_jescript_file(output_path, xml_tree, location_translations):
 			return
 
 		# Insert the translated version of the location as a new tag
+		#TODO: Fix indentation of ascii tag
 		translation = etree.SubElement(location, "ascii")
 		translation.text = translated_name
 

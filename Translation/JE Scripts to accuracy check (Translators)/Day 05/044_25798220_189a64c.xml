@@ -1,28 +1,30 @@
+<tl_file>
 <location>
   <sjis>
-    フラード洞窟<end_line>
+    フラード洞窟<end_line />
   </sjis>
   <ascii>
-    Flard Grotto<end_line>
+    Flard Grotto<end_line />
   </ascii>
 </location>
 <location>
   <sjis>
-    フラード洞窟　エリア５<end_line>
+    フラード洞窟　エリア５<end_line />
   </sjis>
   <ascii>
-    Flard Grotto　Area 5<end_line>
+    Flard Grotto　Area 5<end_line />
   </ascii>
 </location>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="player">
+  <info box="simple" />
+  <portrait_l name="player" />
   <sjis>
-    とりあえず今は<end_line>
-    プロスバンの町に向かおう<end_line>
+    とりあえず今は<end_line />
+    プロスバンの町に向かおう<end_line />
   </sjis>
   <ascii>
-    I should head back<end_line>
-    to Prosban for now.<end_line>
+    I should head back<end_line />
+    to Prosban for now.<end_line />
   </ascii>
 </dialogue>
+</tl_file>

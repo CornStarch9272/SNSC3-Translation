@@ -1,28 +1,30 @@
+<tl_file>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="elieze">
+	<info box="simple" />
+	<portrait_l name="elieze" />
 	<sjis>
-		おやかた、だいじょうぶかなぁ<end_line>
+		おやかた、だいじょうぶかなぁ<end_line />
 	</sjis>
 	<ascii>
-		Is the Master doing well?<end_line>
+		Is the Master doing well?<end_line />
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
+	<info box="simple" />
 	<sjis>
-		ヴィーさんは親方についてるよ<end_line>
+		ヴィーさんは親方についてるよ<end_line />
 	</sjis>
 	<ascii>
-		V.E is with Master.<end_line>
+		V.E is with Master.<end_line />
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
+	<info box="simple" />
 	<sjis>
-		ザックならいないぜ<end_line>
+		ザックならいないぜ<end_line />
 	</sjis>
 	<ascii>
-		Zakk isn't here.<end_line>
+		Zakk isn't here.<end_line />
 	</ascii>
 </dialogue>
+</tl_file>

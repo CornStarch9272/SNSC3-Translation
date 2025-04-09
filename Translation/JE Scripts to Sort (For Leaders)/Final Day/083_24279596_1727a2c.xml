@@ -1,12 +1,14 @@
+<tl_file>
 <menu>
 	<option>
 		<sjis>
-			態勢を整える！<end_line>
+			態勢を整える！<end_line />
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			戦う<end_line>
+			戦う<end_line />
 		</sjis>
 	</option>
 </menu>
+</tl_file>

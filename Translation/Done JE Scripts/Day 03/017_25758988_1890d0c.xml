@@ -1,16 +1,18 @@
+<tl_file>
 <location>
 	<sjis>
-		バジャンの森<end_line>
+		バジャンの森<end_line />
 	</sjis>
 	<ascii>
-		Bajan Forest<end_line>
+		Bajan Forest<end_line />
 	</ascii>
 </location>
 <location>
 	<sjis>
-		バジャンの森　エリア２<end_line>
+		バジャンの森　エリア２<end_line />
 	</sjis>
 	<ascii>
-		Bajan Forest　Area 2<end_line>
+		Bajan Forest　Area 2<end_line />
 	</ascii>
 </location>
+</tl_file>

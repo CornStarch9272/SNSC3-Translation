@@ -1,15 +1,17 @@
+<tl_file>
 <dialogue>
-	<info box="right">
-	<portrait_l entry="player" eye="serious" mouth="neutral">
-	<portrait_r entry="lanna" eye="serious" mouth="talk">
+	<info box="right" />
+	<portrait_l entry="player" eye="serious" mouth="neutral" />
+	<portrait_r entry="lanna" eye="serious" mouth="talk" />
 	<sjis>
-		あなたと出会って<end_line>
-		レミィは変わった気がします<end_line>
-		これからもレミィをよろしくね<end_line>
+		あなたと出会って<end_line />
+		レミィは変わった気がします<end_line />
+		これからもレミィをよろしくね<end_line />
 	</sjis>
 	<ascii>
-		I feel like Lemmy changed after<end_line>
-		he met you. Please keep looking<end_line>
-		after him.<end_line>
+		I feel like Lemmy changed after<end_line />
+		he met you. Please keep looking<end_line />
+		after him.<end_line />
 	</ascii>
 </dialogue>
+</tl_file>

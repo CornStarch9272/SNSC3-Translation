@@ -1,16 +1,18 @@
+<tl_file>
 <location>
 	<sjis>
-		ゴヴァンの遺跡<end_line>
+		ゴヴァンの遺跡<end_line />
 	</sjis>
 	<ascii>
-		Govan Ruins<end_line>
+		Govan Ruins<end_line />
 	</ascii>
 </location>
 <location>
 	<sjis>
-		ゴヴァンの遺跡　エリア７<end_line>
+		ゴヴァンの遺跡　エリア７<end_line />
 	</sjis>
 	<ascii>
-		Govan Ruins　Area 7<end_line>
+		Govan Ruins　Area 7<end_line />
 	</ascii>
 </location>
+</tl_file>

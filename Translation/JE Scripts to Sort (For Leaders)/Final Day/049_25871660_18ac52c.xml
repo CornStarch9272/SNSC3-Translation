@@ -1,10 +1,12 @@
+<tl_file>
 <location>
 	<sjis>
-		ミシュースの廃墟<end_line>
+		ミシュースの廃墟<end_line />
 	</sjis>
 </location>
 <location>
 	<sjis>
-		ミシュースの廃墟　エリア０５<end_line>
+		ミシュースの廃墟　エリア０５<end_line />
 	</sjis>
 </location>
+</tl_file>

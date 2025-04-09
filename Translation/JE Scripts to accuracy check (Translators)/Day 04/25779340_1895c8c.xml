@@ -1,16 +1,18 @@
+<tl_file>
 <location>
 	<sjis>
-		リュート岩窟<end_line>
+		リュート岩窟<end_line />
 	</sjis>
 	<ascii>
-		Lute Cave<end_line>
+		Lute Cave<end_line />
 	</ascii>
 </location>
 <location>
 	<sjis>
-		リュート岩窟　エリア３<end_line>
+		リュート岩窟　エリア３<end_line />
 	</sjis>
 	<ascii>
-		Lute Cave　Area 3<end_line>
+		Lute Cave　Area 3<end_line />
 	</ascii>
 </location>
+</tl_file>

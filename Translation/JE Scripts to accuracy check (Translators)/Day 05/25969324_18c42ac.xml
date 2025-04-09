@@ -1,170 +1,172 @@
+<tl_file>
 <dialogue>
-	<info box="right">
-	<portrait_l entry="player" eye="serious" mouth="neutral">
-	<portrait_r entry="jade" eye="serious" mouth="neutral">
+	<info box="right" />
+	<portrait_l entry="player" eye="serious" mouth="neutral" />
+	<portrait_r entry="jade" eye="serious" mouth="neutral" />
 	<sjis>
-		そうだ、<player_nickname><end_line>
-		お前、武器の注文<end_line>
-		受ける気ないか？<end_line>
+		そうだ、<player_nickname /><end_line />
+		お前、武器の注文<end_line />
+		受ける気ないか？<end_line />
 	</sjis>
   <ascii>
-    Hey, <player_nickname><end_line>
-    You feel like taking<end_line>
-    a request for a weapon?<end_line>
+    Hey, <player_nickname /><end_line />
+    You feel like taking<end_line />
+    a request for a weapon?<end_line />
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="left">
-	<portrait_l entry="player" eye="surprised" mouth="stressed">
-	<portrait_r entry="jade" eye="serious" mouth="neutral">
+	<info box="left" />
+	<portrait_l entry="player" eye="surprised" mouth="stressed" />
+	<portrait_r entry="jade" eye="serious" mouth="neutral" />
 	<male>
 		<sjis>
-			え、オレが？<end_line>
+			え、オレが？<end_line />
 		</sjis>
   		<ascii>
-  		  Hm? Why me?<end_line>
+  		  Hm? Why me?<end_line />
   		</ascii>
 	</male>
 	<female>
 		<sjis>
-			え、わたしが？<end_line>
+			え、わたしが？<end_line />
 		</sjis>
   		<ascii>
-  		  Hm? Why me?<end_line>
+  		  Hm? Why me?<end_line />
   		</ascii>
 	</female>
 </dialogue>
 <dialogue>
-	<info box="right">
-	<portrait_l entry="player" eye="surprised" mouth="stressed">
-	<portrait_r entry="jade" eye="serious" mouth="tense">
+	<info box="right" />
+	<portrait_l entry="player" eye="surprised" mouth="stressed" />
+	<portrait_r entry="jade" eye="serious" mouth="tense" />
 	<sjis>
-		最近みんな、いそがしくてな<end_line>
-		たまってる仕事の中に<end_line>
-		お前にふれそうなモンがあるんだ<end_line>
+		最近みんな、いそがしくてな<end_line />
+		たまってる仕事の中に<end_line />
+		お前にふれそうなモンがあるんだ<end_line />
 	</sjis>
   <ascii>
-    Everyone's been busy lately.<end_line>
-    And there's some work I think<end_line>
-    would be perfect for you.<end_line>
+    Everyone's been busy lately.<end_line />
+    And there's some work I think<end_line />
+    would be perfect for you.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="right">
-	<portrait_l entry="player" eye="serious" mouth="tense">
-	<portrait_r entry="jade" eye="serious" mouth="talk">
+	<info box="right" />
+	<portrait_l entry="player" eye="serious" mouth="tense" />
+	<portrait_r entry="jade" eye="serious" mouth="talk" />
 	<sjis>
-		どうだ？<end_line>
-		手伝ってみる気、あるか？<end_line>
+		どうだ？<end_line />
+		手伝ってみる気、あるか？<end_line />
 	</sjis>
   <ascii>
-    How about it?<end_line>
-    Want to help us out?<end_line>
+    How about it?<end_line />
+    Want to help us out?<end_line />
   </ascii>
 </dialogue>
 <menu>
 	<title>
 		<sjis>
-			武器の注文受けますか？<end_line>
+			武器の注文受けますか？<end_line />
 		</sjis>
     <ascii>
-      Accept request?<end_line>
+      Accept request?<end_line />
     </ascii>
 	</title>
 	<option>
 		<sjis>
-			はい<end_line>
+			はい<end_line />
 		</sjis>
     <ascii>
-      Yes<end_line>
+      Yes<end_line />
     </ascii>
 	</option>
 	<option>
 		<sjis>
-			いいえ<end_line>
+			いいえ<end_line />
 		</sjis>
     <ascii>
-      No<end_line>
+      No<end_line />
     </ascii>
 	</option>
 </menu>
 <dialogue>
-	<info box="left">
-	<portrait_l entry="player" eye="decided" mouth="neutral">
-	<portrait_r entry="jade" eye="serious" mouth="neutral">
+	<info box="left" />
+	<portrait_l entry="player" eye="decided" mouth="neutral" />
+	<portrait_r entry="jade" eye="serious" mouth="neutral" />
 	<sjis>
-		はい、承ります！<end_line>
+		はい、承ります！<end_line />
 	</sjis>
   <ascii>
-    Sure, I'll do it!<end_line>
+    Sure, I'll do it!<end_line />
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="left">
-	<portrait_l entry="player" eye="sad" mouth="tense">
-	<portrait_r entry="jade" eye="serious" mouth="tense">
+	<info box="left" />
+	<portrait_l entry="player" eye="sad" mouth="tense" />
+	<portrait_r entry="jade" eye="serious" mouth="tense" />
 	<male>
 		<sjis>
-			ええ～っと、オレには<end_line>
+			ええ～っと、オレには<end_line />
 		</sjis>
   		<ascii>
-  		  Well, I uh<three_dots><end_line>
+  		  Well, I uh<three_dots /><end_line />
   		</ascii>
 	</male>
 	<female>
 		<sjis>
-			ええ～っと、わたしには<end_line>
+			ええ～っと、わたしには<end_line />
 		</sjis>
   		<ascii>
-  		  Well, I uh<three_dots><end_line>
+  		  Well, I uh<three_dots /><end_line />
   		</ascii>
 	</female>
 </dialogue>
 <dialogue>
-	<info box="left">
-	<portrait_l entry="player" eye="sad" mouth="tense">
-	<portrait_r entry="jade" eye="serious" mouth="tense">
+	<info box="left" />
+	<portrait_l entry="player" eye="sad" mouth="tense" />
+	<portrait_r entry="jade" eye="serious" mouth="tense" />
 	<sjis>
-		ちょっとムリかなぁ<three_dots><end_line>
+		ちょっとムリかなぁ<three_dots /><end_line />
 	</sjis>
   <ascii>
-    Would rather not<three_dots><end_line>
+    Would rather not<three_dots /><end_line />
   </ascii>
 </dialogue>
 <menu>
 	<title>
 		<sjis>
-			注文の武器はできていますか？<end_line>
+			注文の武器はできていますか？<end_line />
 		</sjis>
     <ascii>
-      Present your weapon?<end_line>
+      Present your weapon?<end_line />
     </ascii>
 	</title>
 	<option>
 		<sjis>
-			はい<end_line>
+			はい<end_line />
 		</sjis>
     <ascii>
-      Yes<end_line>
+      Yes<end_line />
     </ascii>
 	</option>
 	<option>
 		<sjis>
-			いいえ<end_line>
+			いいえ<end_line />
 		</sjis>
     <ascii>
-      No<end_line>
+      No<end_line />
     </ascii>
 	</option>
 </menu>
 <dialogue>
-	<info box="left">
-	<portrait_l entry="player" eye="serious" mouth="talk">
-	<portrait_r entry="jade" eye="serious" mouth="neutral">
+	<info box="left" />
+	<portrait_l entry="player" eye="serious" mouth="talk" />
+	<portrait_r entry="jade" eye="serious" mouth="neutral" />
 	<sjis>
-		ご注文の品できました～<end_line>
+		ご注文の品できました～<end_line />
 	</sjis>
   <ascii>
-    Here's your order!<end_line>
+    Here's your order!<end_line />
   </ascii>
 </dialogue>
+</tl_file>

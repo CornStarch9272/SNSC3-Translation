@@ -1,27 +1,29 @@
+<tl_file>
 <dialogue>
-	<info box="nobox">
+	<info box="nobox" />
 	<sjis>
-		　　　　　　　そのとき　　　　　　　<end_line>
-		　たしかにミューノは笑ったんだけど　<end_line>
-		　なぜだかさびしそうに見えたんだ　　<end_line>
+		　　　　　　　そのとき　　　　　　　<end_line />
+		　たしかにミューノは笑ったんだけど　<end_line />
+		　なぜだかさびしそうに見えたんだ　　<end_line />
 	</sjis>
   <ascii>
-    At that moment, she smiled, but<end_line>
-    I couldn't help but feel that there<end_line>
-	was loneliness behind her smile.<end_line>
+    At that moment, she smiled, but<end_line />
+    I couldn't help but feel that there<end_line />
+	was loneliness behind her smile.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
-	<partner name="run-dor">
-	<info box="nobox">
+	<partner name="run-dor" />
+	<info box="nobox" />
 	<sjis>
-		　　　　　なんとなくだけど　　　　　<end_line>
-		　　　　　今、<partner>が<end_line>
-		　　よろこんでいるように見えたんだ　<end_line>
+		　　　　　なんとなくだけど　　　　　<end_line />
+		　　　　　今、<partner />が<end_line />
+		　　よろこんでいるように見えたんだ　<end_line />
 	</sjis>
   <ascii>
-    Somehow,<end_line>
-    I could tell that<end_line>
-	<partner> looked happy.<end_line>
+    Somehow,<end_line />
+    I could tell that<end_line />
+	<partner /> looked happy.<end_line />
   </ascii>
 </dialogue>
+</tl_file>

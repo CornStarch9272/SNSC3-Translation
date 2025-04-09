@@ -1,8 +1,10 @@
+<tl_file>
 <location>
 	<sjis>
-		ボスタフ工房　本部<end_line>
+		ボスタフ工房　本部<end_line />
 	</sjis>
 	<ascii>
-		Bostaph's Workshop　Headquarters<end_line>
+		Bostaph's Workshop　Headquarters<end_line />
 	</ascii>
 </location>
+</tl_file>

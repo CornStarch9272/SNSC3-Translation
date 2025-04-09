@@ -1,28 +1,30 @@
+<tl_file>
 <location>
 	<sjis>
-		ロブ工房　１階<end_line>
+		ロブ工房　１階<end_line />
 	</sjis>
 	<ascii>
-		Rob's Workshop　1st Floor<end_line>
+		Rob's Workshop　1st Floor<end_line />
 	</ascii>
 </location>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="vee">
+	<info box="simple" />
+	<portrait_l name="vee" />
 	<sjis>
-		今はそっとしておいてやりな<end_line>
+		今はそっとしておいてやりな<end_line />
 	</sjis>
   <ascii>
-    Let her be for now.<end_line>
+    Let her be for now.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="vee">
+	<info box="simple" />
+	<portrait_l name="vee" />
 	<sjis>
-		今はそっとしておいてやりな<end_line>
+		今はそっとしておいてやりな<end_line />
 	</sjis>
   <ascii>
-    Let her be for now.<end_line>
+    Let her be for now.<end_line />
   </ascii>
 </dialogue>
+</tl_file>

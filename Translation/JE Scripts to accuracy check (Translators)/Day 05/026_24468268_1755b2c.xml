@@ -1,34 +1,36 @@
+<tl_file>
 <location>
 	<sjis>
-		プロスバンの町　民家Ａ<end_line>
+		プロスバンの町　民家Ａ<end_line />
 	</sjis>
 	<ascii>
-		Prosban　Villager's House A<end_line>
+		Prosban　Villager's House A<end_line />
 	</ascii>
 </location>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="woman">
+	<info box="simple" />
+	<portrait_l name="woman" />
 	<sjis>
-		ベルヴォレンさん？<end_line>
-		あの人は、ウチの旦那より<end_line>
-		駄目っぽいでしょ<end_line>
+		ベルヴォレンさん？<end_line />
+		あの人は、ウチの旦那より<end_line />
+		駄目っぽいでしょ<end_line />
 	</sjis>
   <ascii>
-    Mr. Velworen?<end_line>
-    He's even more useless<end_line>
-    than my husband.<end_line>
+    Mr. Velworen?<end_line />
+    He's even more useless<end_line />
+    than my husband.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="woman">
+	<info box="simple" />
+	<portrait_l name="woman" />
 	<sjis>
-		意外にお金持ってないし<end_line>
-		権力も微妙なのよね<end_line>
+		意外にお金持ってないし<end_line />
+		権力も微妙なのよね<end_line />
 	</sjis>
   <ascii>
-    He has no money,<end_line>
-    and no one listens to him.<end_line>
+    He has no money,<end_line />
+    and no one listens to him.<end_line />
   </ascii>
 </dialogue>
+</tl_file>

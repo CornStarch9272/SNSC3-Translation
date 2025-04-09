@@ -1,26 +1,28 @@
+<tl_file>
 <menu>
 	<option>
 		<sjis>
-			態勢を整える！<end_line>
+			態勢を整える！<end_line />
 		</sjis>
 		<ascii>
-			Get ready!<end_line>
+			Get ready!<end_line />
 		</ascii>
 	</option>
 	<option>
 		<sjis>
-			戦う<end_line>
+			戦う<end_line />
 		</sjis>
 		<ascii>
-			Fight<end_line>
+			Fight<end_line />
 		</ascii>
 	</option>
 </menu>
 <popup>
 	<sjis>
-		武器を１本にして下さい<end_line>
+		武器を１本にして下さい<end_line />
 	</sjis>
 	<ascii>
-		Please equip only one weapon<end_line>
+		Please equip only one weapon<end_line />
 	</ascii>
 </popup>
+</tl_file>

@@ -1,54 +1,56 @@
+<tl_file>
 <location>
 	<sjis>
-		プロスバンの町　駅<end_line>
+		プロスバンの町　駅<end_line />
 	</sjis>
 	<ascii>
-		Prosban Town　Station<end_line>
+		Prosban Town　Station<end_line />
 	</ascii>
 </location>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="child">
+	<info box="simple" />
+	<portrait_l name="child" />
 	<sjis>
-		この町って、ごみごみしてて<end_line>
-		いやよね<end_line>
+		この町って、ごみごみしてて<end_line />
+		いやよね<end_line />
 	</sjis>
 	<ascii>
-		This town is lame.<end_line>
+		This town is lame.<end_line />
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="child">
+	<info box="simple" />
+	<portrait_l name="child" />
 	<sjis>
-		どこかに、しずかなところ<end_line>
-		ないかしら<end_line>
+		どこかに、しずかなところ<end_line />
+		ないかしら<end_line />
 	</sjis>
 	<ascii>
-		Is there anywhere more quiet<end_line>
-		around here?<end_line>
+		Is there anywhere more quiet<end_line />
+		around here?<end_line />
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
+	<info box="simple" />
 	<sjis>
-		　<end_line>
-		　　　　　　～探さないで～<end_line>
+		　<end_line />
+		　　　　　　～探さないで～<end_line />
 	</sjis>
 	<ascii>
-		　<end_line>
-		　　　　　　Don't look for me.<end_line>
+		　<end_line />
+		　　　　　　Don't look for me.<end_line />
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
+	<info box="simple" />
 	<sjis>
-		エンガワを探して旅に出ます<end_line>
-		わたしの事は探さないで<end_line>
+		エンガワを探して旅に出ます<end_line />
+		わたしの事は探さないで<end_line />
 	</sjis>
 	<ascii>
-		I'm going on a journey to find<end_line>
-		Engawa.<end_line>
-		Don't look for me.<end_line>
+		I'm going on a journey to find<end_line />
+		Engawa.<end_line />
+		Don't look for me.<end_line />
 	</ascii>
 </dialogue>
+</tl_file>

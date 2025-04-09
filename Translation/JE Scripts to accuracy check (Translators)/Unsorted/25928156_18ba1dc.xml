@@ -1,16 +1,18 @@
+<tl_file>
 <location>
 	<sjis>
-		ミシュースの廃墟<end_line>
+		ミシュースの廃墟<end_line />
 	</sjis>
 	<ascii>
-		Mishus Abandoned Site<end_line>
+		Mishus Abandoned Site<end_line />
 	</ascii>
 </location>
 <location>
 	<sjis>
-		ミシュースの廃墟　エリア０２<end_line>
+		ミシュースの廃墟　エリア０２<end_line />
 	</sjis>
 	<ascii>
-		Mishus Abandoned Site　Area 2<end_line>
+		Mishus Abandoned Site　Area 2<end_line />
 	</ascii>
 </location>
+</tl_file>

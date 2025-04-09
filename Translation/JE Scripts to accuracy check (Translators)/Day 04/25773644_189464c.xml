@@ -1,16 +1,18 @@
+<tl_file>
 <location>
 	<sjis>
-		ピュビックの森<end_line>
+		ピュビックの森<end_line />
 	</sjis>
 	<ascii>
-		Pubick Forest<end_line>
+		Pubick Forest<end_line />
 	</ascii>
 </location>
 <location>
 	<sjis>
-		ピュビックの森　エリア２<end_line>
+		ピュビックの森　エリア２<end_line />
 	</sjis>
 	<ascii>
-		Pubick Forest　Area 2<end_line>
+		Pubick Forest　Area 2<end_line />
 	</ascii>
 </location>
+</tl_file>

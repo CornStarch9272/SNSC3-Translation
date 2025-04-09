@@ -1,325 +1,327 @@
+<tl_file>
 <dialogue>
-	<info box="right">
-	<portrait_r entry="zakk" eye="serious" mouth="neutral">
+	<info box="right" />
+	<portrait_r entry="zakk" eye="serious" mouth="neutral" />
 	<sjis>
-		あれ、<player_nickname>？<end_line>
-		どうしたの？<end_line>
+		あれ、<player_nickname />？<end_line />
+		どうしたの？<end_line />
 	</sjis>
   <ascii>
-    Huh, <player_nickname>?<end_line>
-    What's up?<end_line>
+    Huh, <player_nickname />?<end_line />
+    What's up?<end_line />
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="left">
-	<portrait_l entry="player" eye="serious" mouth="talk">
-	<portrait_r entry="zakk" eye="serious" mouth="neutral">
+	<info box="left" />
+	<portrait_l entry="player" eye="serious" mouth="talk" />
+	<portrait_r entry="zakk" eye="serious" mouth="neutral" />
 	<male>
 		<sjis>
-			ザック！<end_line>
-			いいところに来た！<end_line>
-			あいつはドコか知らないか？<end_line>
+			ザック！<end_line />
+			いいところに来た！<end_line />
+			あいつはドコか知らないか？<end_line />
 		</sjis>
     <ascii>
-      Zakk!<end_line>
-      Perfect timing!<end_line>
-      You know where those guys are?<end_line>
+      Zakk!<end_line />
+      Perfect timing!<end_line />
+      You know where those guys are?<end_line />
     </ascii>
 	</male>
 	<female>
 		<sjis>
-			ザック！<end_line>
-			助かったよ～！<end_line>
-			あいつはドコか知らない？<end_line>
+			ザック！<end_line />
+			助かったよ～！<end_line />
+			あいつはドコか知らない？<end_line />
 		</sjis>
     <ascii>
-      Zakk!<end_line>
-      I'm so glad I found you!<end_line>
-      Do you know where those guys are?<end_line>
+      Zakk!<end_line />
+      I'm so glad I found you!<end_line />
+      Do you know where those guys are?<end_line />
     </ascii>
 	</female>
 </dialogue>
 <dialogue>
-	<info box="right">
-	<portrait_l entry="player" eye="serious" mouth="talk">
-	<portrait_r entry="zakk" eye="surprised" mouth="yell">
+	<info box="right" />
+	<portrait_l entry="player" eye="serious" mouth="talk" />
+	<portrait_r entry="zakk" eye="surprised" mouth="yell" />
 	<sjis>
-		ちょっ<three_dots>！？<end_line>
-		あいつってダレだよ！？<end_line>
+		ちょっ<three_dots />！？<end_line />
+		あいつってダレだよ！？<end_line />
 	</sjis>
   <ascii>
-    'Those guys'<three_dots>!?<end_line>
+    'Those guys'<three_dots />!?<end_line />
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="left">
-	<portrait_l entry="player" eye="decided" mouth="tense">
-	<portrait_r entry="zakk" eye="surprised" mouth="yell">
+	<info box="left" />
+	<portrait_l entry="player" eye="decided" mouth="tense" />
+	<portrait_r entry="zakk" eye="surprised" mouth="yell" />
 	<male>
 		<sjis>
-			あいつだよ！　えーと<three_dots><end_line>
-			いっつもオレにからんでくる<end_line>
-			目つきの悪い、アタマにまいてる<three_dots><end_line>
+			あいつだよ！　えーと<three_dots /><end_line />
+			いっつもオレにからんでくる<end_line />
+			目つきの悪い、アタマにまいてる<three_dots /><end_line />
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			あいつよ！　えーと<three_dots><end_line>
-			いっつもわたしにからんでくる<end_line>
-			目つきの悪い、アタマにまいてる<three_dots><end_line>
+			あいつよ！　えーと<three_dots /><end_line />
+			いっつもわたしにからんでくる<end_line />
+			目つきの悪い、アタマにまいてる<three_dots /><end_line />
 		</sjis>
 	</female>
   <ascii>
-    You know! Umm<three_dots><end_line>
-    They always want to fight me,<end_line>
-    glare at me, and have spiky hair<three_dots><end_line>
+    You know! Umm<three_dots /><end_line />
+    They always want to fight me,<end_line />
+    glare at me, and have spiky hair<three_dots /><end_line />
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="right">
-	<portrait_l entry="player" eye="decided" mouth="tense">
-	<portrait_r entry="zakk" eye="serious" mouth="tense">
+	<info box="right" />
+	<portrait_l entry="player" eye="decided" mouth="tense" />
+	<portrait_r entry="zakk" eye="serious" mouth="tense" />
 	<sjis>
-		ああ、サージさんのこと？<end_line>
-		またなにかあったの？<end_line>
+		ああ、サージさんのこと？<end_line />
+		またなにかあったの？<end_line />
 	</sjis>
   <ascii>
-    Oh, you mean Sarge?<end_line>
-    What happened this time?<end_line>
+    Oh, you mean Sarge?<end_line />
+    What happened this time?<end_line />
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="left">
-	<portrait_l entry="player" eye="decided" mouth="tense">
-	<portrait_r entry="zakk" eye="serious" mouth="tense">
+	<info box="left" />
+	<portrait_l entry="player" eye="decided" mouth="tense" />
+	<portrait_r entry="zakk" eye="serious" mouth="tense" />
 	<male>
 		<sjis>
-			あいつらにすごく大事なものを<end_line>
-			持って行かれちまったんだ<three_dots><end_line>
-			だから<three_dots><end_line>
+			あいつらにすごく大事なものを<end_line />
+			持って行かれちまったんだ<three_dots /><end_line />
+			だから<three_dots /><end_line />
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			あいつらにすごく大事なものを<end_line>
-			持って行かれちゃったんだよ<three_dots><end_line>
-			だから<three_dots><end_line>
+			あいつらにすごく大事なものを<end_line />
+			持って行かれちゃったんだよ<three_dots /><end_line />
+			だから<three_dots /><end_line />
 		</sjis>
 	</female>
   <ascii>
-    They took something<end_line>
-    very important to us<three_dots><end_line>
-    So<three_dots><end_line>
+    They took something<end_line />
+    very important to us<three_dots /><end_line />
+    So<three_dots /><end_line />
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="right">
-	<portrait_l entry="player" eye="decided" mouth="tense">
-	<portrait_r entry="zakk" eye="sad" mouth="yell">
+	<info box="right" />
+	<portrait_l entry="player" eye="decided" mouth="tense" />
+	<portrait_r entry="zakk" eye="sad" mouth="yell" />
 	<sjis>
-		持ってったって<three_dots><end_line>
-		それはイヤがらせにしたって<end_line>
-		ちょっとやりすぎだよ<three_dots><end_line>
+		持ってったって<three_dots /><end_line />
+		それはイヤがらせにしたって<end_line />
+		ちょっとやりすぎだよ<three_dots /><end_line />
 	</sjis>
   <ascii>
-    Those two<three_dots><end_line>
-    They're going too far<three_dots><end_line>
+    Those two<three_dots /><end_line />
+    They're going too far<three_dots /><end_line />
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="right">
-	<portrait_l entry="player" eye="decided" mouth="tense">
-	<portrait_r entry="zakk" eye="serious" mouth="serious">
+	<info box="right" />
+	<portrait_l entry="player" eye="decided" mouth="tense" />
+	<portrait_r entry="zakk" eye="serious" mouth="serious" />
 	<sjis>
-		<player_nickname>たちにやられてから<end_line>
-		あの人たち、工房でいろいろ言われて<end_line>
-		かなりキレてたけど<three_dots><end_line>
+		<player_nickname />たちにやられてから<end_line />
+		あの人たち、工房でいろいろ言われて<end_line />
+		かなりキレてたけど<three_dots /><end_line />
 	</sjis>
   <ascii>
-    You know,<end_line>
-    they have been pretty angry<end_line>
-    ever since you beat them<three_dots><end_line>
+    You know,<end_line />
+    they have been pretty angry<end_line />
+    ever since you beat them<three_dots /><end_line />
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="left">
-	<portrait_l entry="player" eye="sad" mouth="tense">
-	<portrait_r entry="zakk" eye="serious" mouth="serious">
+	<info box="left" />
+	<portrait_l entry="player" eye="sad" mouth="tense" />
+	<portrait_r entry="zakk" eye="serious" mouth="serious" />
 	<sjis>
-		<three_dots><end_line>
+		<three_dots /><end_line />
 	</sjis>
   <ascii>
-    <three_dots><end_line>
+    <three_dots /><end_line />
   </ascii>
 </dialogue>
 <dialogue>
-	<partner name="run-dor">
-	<info box="left">
-	<portrait_l entry="partner" eye="decided" mouth="serious">
-	<portrait_r entry="zakk" eye="serious" mouth="serious">
+	<partner name="run-dor" />
+	<info box="left" />
+	<portrait_l entry="partner" eye="decided" mouth="serious" />
+	<portrait_r entry="zakk" eye="serious" mouth="serious" />
 	<sjis>
-		ソレデ<end_line>
-		彼ラハドコニ　イルノデスカ？<end_line>
+		ソレデ<end_line />
+		彼ラハドコニ　イルノデスカ？<end_line />
 	</sjis>
   <ascii>
-    So,<end_line>
-    Where Are They?<end_line>
+    So,<end_line />
+    Where Are They?<end_line />
   </ascii>
 </dialogue>
 <dialogue>
-	<partner name="enzi">
-	<info box="left">
-	<portrait_l entry="partner" eye="decided" mouth="serious">
-	<portrait_r entry="zakk" eye="serious" mouth="serious">
+	<partner name="enzi" />
+	<info box="left" />
+	<portrait_l entry="partner" eye="decided" mouth="serious" />
+	<portrait_r entry="zakk" eye="serious" mouth="serious" />
 	<sjis>
-		それで<end_line>
-		きゃつらはドコに<end_line>
-		かくれておるのじゃ？<end_line>
+		それで<end_line />
+		きゃつらはドコに<end_line />
+		かくれておるのじゃ？<end_line />
 	</sjis>
   <ascii>
-    So,<end_line>
-    where might they be hiding?<end_line>
+    So,<end_line />
+    where might they be hiding?<end_line />
   </ascii>
 </dialogue>
 <dialogue>
-	<partner name="killfith">
-	<info box="left">
-	<portrait_l entry="partner" eye="decided" mouth="serious">
-	<portrait_r entry="zakk" eye="serious" mouth="serious">
+	<partner name="killfith" />
+	<info box="left" />
+	<portrait_l entry="partner" eye="decided" mouth="serious" />
+	<portrait_r entry="zakk" eye="serious" mouth="serious" />
 	<sjis>
-		それで<end_line>
-		あのクズどもは<end_line>
-		ドコにかくれている？<end_line>
+		それで<end_line />
+		あのクズどもは<end_line />
+		ドコにかくれている？<end_line />
 	</sjis>
   <ascii>
-    So,<end_line>
-    where is that trash hiding?<end_line>
+    So,<end_line />
+    where is that trash hiding?<end_line />
   </ascii>
 </dialogue>
 <dialogue>
-	<partner name="rufeel">
-	<info box="left">
-	<portrait_l entry="partner" eye="decided" mouth="serious">
-	<portrait_r entry="zakk" eye="serious" mouth="serious">
+	<partner name="rufeel" />
+	<info box="left" />
+	<portrait_l entry="partner" eye="decided" mouth="serious" />
+	<portrait_r entry="zakk" eye="serious" mouth="serious" />
 	<sjis>
-		それで<end_line>
-		あの人たちはドコに<end_line>
-		いるんですか？<end_line>
+		それで<end_line />
+		あの人たちはドコに<end_line />
+		いるんですか？<end_line />
 	</sjis>
   <ascii>
-    So,<end_line>
-    where are they right now?<end_line>
+    So,<end_line />
+    where are they right now?<end_line />
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="right">
-	<portrait_l entry="partner" eye="decided" mouth="serious">
-	<portrait_r entry="zakk" eye="serious" mouth="tense">
+	<info box="right" />
+	<portrait_l entry="partner" eye="decided" mouth="serious" />
+	<portrait_r entry="zakk" eye="serious" mouth="tense" />
 	<sjis>
-		あの人たちならよく<end_line>
-		ディックル鉱洞の奥で<end_line>
-		たむろってるけど<three_dots><end_line>
+		あの人たちならよく<end_line />
+		ディックル鉱洞の奥で<end_line />
+		たむろってるけど<three_dots /><end_line />
 	</sjis>
   <ascii>
-    I know they hang out at<end_line>
-    Deikle Mine often<three_dots><end_line>
+    I know they hang out at<end_line />
+    Deikle Mine often<three_dots /><end_line />
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="right">
-	<portrait_l entry="partner" eye="decided" mouth="serious">
-	<portrait_r entry="zakk" eye="serious" mouth="neutral">
+	<info box="right" />
+	<portrait_l entry="partner" eye="decided" mouth="serious" />
+	<portrait_r entry="zakk" eye="serious" mouth="neutral" />
 	<sjis>
-		奥につづくトビラがあいてたら<end_line>
-		いるんじゃないのかな<end_line>
+		奥につづくトビラがあいてたら<end_line />
+		いるんじゃないのかな<end_line />
 	</sjis>
   <ascii>
-    You'll find them deep inside,<end_line>
-    past the door to the inner section.<end_line>
+    You'll find them deep inside,<end_line />
+    past the door to the inner section.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="left">
-	<portrait_l entry="player" eye="serious" mouth="neutral">
-	<portrait_r entry="zakk" eye="serious" mouth="neutral">
+	<info box="left" />
+	<portrait_l entry="player" eye="serious" mouth="neutral" />
+	<portrait_r entry="zakk" eye="serious" mouth="neutral" />
 	<male>
 		<sjis>
-			ディックル鉱洞の奥のトビラだな<end_line>
-			とりあえず行ってみるよ<end_line>
+			ディックル鉱洞の奥のトビラだな<end_line />
+			とりあえず行ってみるよ<end_line />
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			ディックル鉱洞の奥のトビラね<end_line>
-			とりあえず行ってみるよ<end_line>
+			ディックル鉱洞の奥のトビラね<end_line />
+			とりあえず行ってみるよ<end_line />
 		</sjis>
 	</female>
   <ascii>
-    A door deep inside the mine<three_dots><end_line>
-    I'll go check it out.<end_line>
+    A door deep inside the mine<three_dots /><end_line />
+    I'll go check it out.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="right">
-	<portrait_l entry="player" eye="serious" mouth="neutral">
-	<portrait_r entry="zakk" eye="surprised" mouth="tense">
+	<info box="right" />
+	<portrait_l entry="player" eye="serious" mouth="neutral" />
+	<portrait_r entry="zakk" eye="surprised" mouth="tense" />
 	<sjis>
-		あ！<end_line>
-		最近、あそこにもはぐれが出たから<end_line>
-		気をつけろって言われてた<three_dots><end_line>
+		あ！<end_line />
+		最近、あそこにもはぐれが出たから<end_line />
+		気をつけろって言われてた<three_dots /><end_line />
 	</sjis>
   <ascii>
-    One more thing!<end_line>
-    Strays have appeared in there,<end_line>
-    so I told them to be careful<three_dots><end_line>
+    One more thing!<end_line />
+    Strays have appeared in there,<end_line />
+    so I told them to be careful<three_dots /><end_line />
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="left">
-	<portrait_l entry="player" eye="decided" mouth="neutral">
-	<portrait_r entry="zakk" eye="surprised" mouth="tense">
+	<info box="left" />
+	<portrait_l entry="player" eye="decided" mouth="neutral" />
+	<portrait_r entry="zakk" eye="surprised" mouth="tense" />
 	<sjis>
-		そっか<end_line>
-		ありがと！<end_line>
-		気をつけるよ<end_line>
+		そっか<end_line />
+		ありがと！<end_line />
+		気をつけるよ<end_line />
 	</sjis>
   <ascii>
-    Got it.<end_line>
-    I will, thanks!<end_line>
+    Got it.<end_line />
+    I will, thanks!<end_line />
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="right">
-	<portrait_l entry="player" eye="decided" mouth="neutral">
-	<portrait_r entry="zakk" eye="serious" mouth="talk">
+	<info box="right" />
+	<portrait_l entry="player" eye="decided" mouth="neutral" />
+	<portrait_r entry="zakk" eye="serious" mouth="talk" />
 	<sjis>
-		いいってことよ<three_dots><end_line>
+		いいってことよ<three_dots /><end_line />
 	</sjis>
   <ascii>
-    Good luck<three_dots><end_line>
+    Good luck<three_dots /><end_line />
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="right">
-	<portrait_l entry="player" eye="decided" mouth="neutral">
-	<portrait_r entry="zakk" eye="surprised" mouth="yell">
+	<info box="right" />
+	<portrait_l entry="player" eye="decided" mouth="neutral" />
+	<portrait_r entry="zakk" eye="surprised" mouth="yell" />
 	<sjis>
-		<three_dots>じゃなかった！<end_line>
-		またやっちゃった<three_dots><end_line>
+		<three_dots />じゃなかった！<end_line />
+		またやっちゃった<three_dots /><end_line />
 	</sjis>
   <ascii>
-    <three_dots>Er, not!<end_line>
-    Gah, I've done it again<three_dots><end_line>
+    <three_dots />Er, not!<end_line />
+    Gah, I've done it again<three_dots /><end_line />
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="right">
-	<portrait_l entry="player" eye="decided" mouth="neutral">
-	<portrait_r entry="zakk" eye="happy" mouth="neutral">
+	<info box="right" />
+	<portrait_l entry="player" eye="decided" mouth="neutral" />
+	<portrait_r entry="zakk" eye="happy" mouth="neutral" />
 	<sjis>
-		けど、ま、いいか<end_line>
+		けど、ま、いいか<end_line />
 	</sjis>
   <ascii>
-    But<three_dots> I guess it's fine.<end_line>
+    But<three_dots /> I guess it's fine.<end_line />
   </ascii>
 </dialogue>
+</tl_file>

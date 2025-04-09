@@ -1,39 +1,41 @@
+<tl_file>
 <location>
 	<sjis>
-		村長の家　道具屋<end_line>
+		村長の家　道具屋<end_line />
 	</sjis>
 </location>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="shop_clerk">
+	<info box="simple" />
+	<portrait_l name="shop_clerk" />
 	<sjis>
-		今は商品の整理中なんだ<end_line>
+		今は商品の整理中なんだ<end_line />
 	</sjis>
 	<ascii>
-		We're organizing our stock today.<end_line>
+		We're organizing our stock today.<end_line />
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="shop_clerk">
+	<info box="simple" />
+	<portrait_l name="shop_clerk" />
 	<sjis>
-		悪いけどまたあとで来てくれよ<end_line>
+		悪いけどまたあとで来てくれよ<end_line />
 	</sjis>
 	<ascii>
-		Sorry, can you come at another time?<end_line>
+		Sorry, can you come at another time?<end_line />
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="child">
+	<info box="simple" />
+	<portrait_l name="child" />
 	<sjis>
-		村の外には、はぐれが<end_line>
-		いっぱいいるから<end_line>
-		出ちゃいけないんだよ<end_line>
+		村の外には、はぐれが<end_line />
+		いっぱいいるから<end_line />
+		出ちゃいけないんだよ<end_line />
 	</sjis>
 	<ascii>
-		You shouldn't wander<end_line>
-		outside the village,<end_line>
-		there are many Strays out there.<end_line>
+		You shouldn't wander<end_line />
+		outside the village,<end_line />
+		there are many Strays out there.<end_line />
 	</ascii>
 </dialogue>
+</tl_file>

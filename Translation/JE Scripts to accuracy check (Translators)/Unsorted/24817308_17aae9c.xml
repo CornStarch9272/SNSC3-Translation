@@ -1,22 +1,24 @@
+<tl_file>
 <location>
 	<sjis>
-		ルイーズ村　民家Ａ<end_line>
+		ルイーズ村　民家Ａ<end_line />
 	</sjis>
 	<ascii>
-		Louise Village　Private House A<end_line>
+		Louise Village　Private House A<end_line />
 	</ascii>
 </location>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="elderly">
+	<info box="simple" />
+	<portrait_l name="elderly" />
 	<sjis>
-		わしら誰にも迷惑かけずに<end_line>
-		静かに暮らしておるんじゃ<end_line>
-		そっとしてほしいのぉ<end_line>
+		わしら誰にも迷惑かけずに<end_line />
+		静かに暮らしておるんじゃ<end_line />
+		そっとしてほしいのぉ<end_line />
 	</sjis>
 	<ascii>
-		We just wish to live here<end_line>
-		peacefully, by ourselves.<end_line>
-		Please leave us alone.<end_line>
+		We just wish to live here<end_line />
+		peacefully, by ourselves.<end_line />
+		Please leave us alone.<end_line />
 	</ascii>
 </dialogue>
+</tl_file>

@@ -1,49 +1,51 @@
+<tl_file>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="lumberjack">
+	<info box="simple" />
+	<portrait_l name="lumberjack" />
 	<sjis>
-		マキ割りは簡単なようで奥が深い<end_line>
+		マキ割りは簡単なようで奥が深い<end_line />
 	</sjis>
 	<ascii>
-		Chopping firewood isn't as<end_line>
-		simple as it looks.<end_line>
+		Chopping firewood isn't as<end_line />
+		simple as it looks.<end_line />
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="lumberjack">
+	<info box="simple" />
+	<portrait_l name="lumberjack" />
 	<sjis>
-		マキ割りの基本が身についていれば<end_line>
-		おまえにもマキ割りをさせてやろう<end_line>
+		マキ割りの基本が身についていれば<end_line />
+		おまえにもマキ割りをさせてやろう<end_line />
 	</sjis>
 	<ascii>
-		You seem skilled enough.<end_line>
-		Want to give it a try?<end_line>
+		You seem skilled enough.<end_line />
+		Want to give it a try?<end_line />
 	</ascii>
 </dialogue>
 <menu>
 	<title>
 		<sjis>
-			マキ割りするか？<end_line>
+			マキ割りするか？<end_line />
 		</sjis>
 		<ascii>
-			Chop firewood?<end_line>
+			Chop firewood?<end_line />
 		</ascii>
 	</title>
 	<option>
 		<sjis>
-			する！<end_line>
+			する！<end_line />
 		</sjis>
 		<ascii>
-			I'll do it!<end_line>
+			I'll do it!<end_line />
 		</ascii>
 	</option>
 	<option>
 		<sjis>
-			しない<end_line>
+			しない<end_line />
 		</sjis>
 		<ascii>
-			Nevermind.<end_line>
+			Nevermind.<end_line />
 		</ascii>
 	</option>
 </menu>
+</tl_file>

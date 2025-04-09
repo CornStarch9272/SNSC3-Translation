@@ -1,8 +1,10 @@
+<tl_file>
 <location>
 	<sjis>
-		ルイーズ村　牢Ｂ<end_line>
+		ルイーズ村　牢Ｂ<end_line />
 	</sjis>
 	<ascii>
-		Louise Village　Prison Cell B<end_line>
+		Louise Village　Prison Cell B<end_line />
 	</ascii>
 </location>
+</tl_file>

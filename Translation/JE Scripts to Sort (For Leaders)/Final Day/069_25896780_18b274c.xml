@@ -1,10 +1,12 @@
+<tl_file>
 <location>
 	<sjis>
-		ゴヴァンの遺跡<end_line>
+		ゴヴァンの遺跡<end_line />
 	</sjis>
 </location>
 <location>
 	<sjis>
-		ゴヴァンの遺跡　水の間<end_line>
+		ゴヴァンの遺跡　水の間<end_line />
 	</sjis>
 </location>
+</tl_file>

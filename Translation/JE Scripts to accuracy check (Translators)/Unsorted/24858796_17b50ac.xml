@@ -1,32 +1,34 @@
+<tl_file>
 <location>
 	<sjis>
-		ベンソン工房　エントランス<end_line>
+		ベンソン工房　エントランス<end_line />
 	</sjis>
 	<ascii>
-		Benson's Workshop　Entrance<end_line>
+		Benson's Workshop　Entrance<end_line />
 	</ascii>
 </location>
 <dialogue>
-	<info box="simple">
+	<info box="simple" />
 	<sjis>
-		武器を鍛える前に<end_line>
-		まずは己を鍛えるべし<end_line>
+		武器を鍛える前に<end_line />
+		まずは己を鍛えるべし<end_line />
 	</sjis>
 	<ascii>
-		Before you forge your weapon,<end_line>
-		first you must forge yourself.<end_line>
+		Before you forge your weapon,<end_line />
+		first you must forge yourself.<end_line />
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
+	<info box="simple" />
 	<sjis>
-		　＜エリエからのおねがい<music_note><end_line>
-		つかったどうぐは、ちゃあんと<end_line>
-		もとのばしょに　もどしてね！<end_line>
+		　＜エリエからのおねがい<music_note /><end_line />
+		つかったどうぐは、ちゃあんと<end_line />
+		もとのばしょに　もどしてね！<end_line />
 	</sjis>
 	<ascii>
-		　<lesser_than>A request from Erie<greater_than><end_line>
-		Please return all tools<end_line>
-		to where they belong!<end_line>
+		　<lesser_than />A request from Erie<greater_than /><end_line />
+		Please return all tools<end_line />
+		to where they belong!<end_line />
 	</ascii>
 </dialogue>
+</tl_file>

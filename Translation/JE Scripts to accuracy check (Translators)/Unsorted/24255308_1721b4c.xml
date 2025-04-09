@@ -1,76 +1,78 @@
+<tl_file>
 <dialogue>
-	<info box="simple">
+	<info box="simple" />
 	<sjis>
-		現在移動可能な接続先が<end_line>
-		存在しないので使用できません<end_line>
+		現在移動可能な接続先が<end_line />
+		存在しないので使用できません<end_line />
 	</sjis>
 	<ascii>
-		No available places to travel to.<end_line>
+		No available places to travel to.<end_line />
 	</ascii>
 </dialogue>
 <menu>
 	<title>
 		<sjis>
-			どこにいきますか？<end_line>
+			どこにいきますか？<end_line />
 		</sjis>
 		<ascii>
-			Where are you going?<end_line>
+			Where are you going?<end_line />
 		</ascii>
 	</title>
 	<option>
 		<sjis>
-			ディックル村<end_line>
+			ディックル村<end_line />
 		</sjis>
 		<ascii>
-			Deckell Village<end_line>
+			Deckell Village<end_line />
 		</ascii>
 	</option>
 	<option>
 		<sjis>
-			マーネイル宿場<end_line>
+			マーネイル宿場<end_line />
 		</sjis>
 		<ascii>
-			Marnail Post Station<end_line>
+			Marnail Post Station<end_line />
 		</ascii>
 	</option>
 	<option>
 		<sjis>
-			プロスバンの町<end_line>
+			プロスバンの町<end_line />
 		</sjis>
 		<ascii>
-			Prosban Town<end_line>
+			Prosban Town<end_line />
 		</ascii>
 	</option>
 	<option>
 		<sjis>
-			ルイーズ村<end_line>
+			ルイーズ村<end_line />
 		</sjis>
 		<ascii>
-			Louise Village<end_line>
+			Louise Village<end_line />
 		</ascii>
 	</option>
 	<option>
 		<sjis>
-			ミシュースの廃墟<end_line>
+			ミシュースの廃墟<end_line />
 		</sjis>
 		<ascii>
-			Mishus Abandoned Site<end_line>
+			Mishus Abandoned Site<end_line />
 		</ascii>
 	</option>
 	<option>
 		<sjis>
-			転送の間<end_line>
+			転送の間<end_line />
 		</sjis>
 		<ascii>
-			Transfer Room<end_line>
+			Transfer Room<end_line />
 		</ascii>
 	</option>
 	<option>
 		<sjis>
-			やめる<end_line>
+			やめる<end_line />
 		</sjis>
 		<ascii>
-			Quit<end_line>
+			Quit<end_line />
 		</ascii>
 	</option>
 </menu>
+</tl_file>

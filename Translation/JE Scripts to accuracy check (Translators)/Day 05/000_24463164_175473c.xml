@@ -1,16 +1,18 @@
+<tl_file>
 <location>
 	<sjis>
-		ベンソン工房　工房<end_line>
+		ベンソン工房　工房<end_line />
 	</sjis>
 	<ascii>
-		Benson's workshop　Workshop<end_line>
+		Benson's workshop　Workshop<end_line />
 	</ascii>
 </location>
 <popup>
 	<sjis>
-		疲れが取れた！<end_line>
+		疲れが取れた！<end_line />
 	</sjis>
 	<ascii>
-		You feel refreshed!<end_line>
+		You feel refreshed!<end_line />
 	</ascii>
 </popup>
+</tl_file>

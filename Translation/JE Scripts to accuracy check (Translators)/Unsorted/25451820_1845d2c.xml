@@ -1,69 +1,71 @@
+<tl_file>
 <dialogue>
-	<partner name="run-dor">
-	<info box="right">
-	<portrait_l entry="player" eye="serious" mouth="tense">
-	<portrait_r entry="partner" eye="surprised" mouth="serious">
+	<partner name="run-dor" />
+	<info box="right" />
+	<portrait_l entry="player" eye="serious" mouth="tense" />
+	<portrait_r entry="partner" eye="surprised" mouth="serious" />
 	<sjis>
-		アレハ！<end_line>
+		アレハ！<end_line />
 	</sjis>
 	<ascii>
-		That Is!<end_line>
+		That Is!<end_line />
 	</ascii>
 </dialogue>
 <dialogue>
-	<partner name="enzi">
-	<info box="right">
-	<portrait_l entry="player" eye="serious" mouth="tense">
-	<portrait_r entry="partner" eye="surprised" mouth="serious">
+	<partner name="enzi" />
+	<info box="right" />
+	<portrait_l entry="player" eye="serious" mouth="tense" />
+	<portrait_r entry="partner" eye="surprised" mouth="serious" />
 	<sjis>
-		あやつ！<end_line>
+		あやつ！<end_line />
 	</sjis>
 	<ascii>
-		That one!<end_line>
+		That one!<end_line />
 	</ascii>
 </dialogue>
 <dialogue>
-	<partner name="killfith">
-	<info box="right">
-	<portrait_l entry="player" eye="serious" mouth="tense">
-	<portrait_r entry="partner" eye="surprised" mouth="serious">
+	<partner name="killfith" />
+	<info box="right" />
+	<portrait_l entry="player" eye="serious" mouth="tense" />
+	<portrait_r entry="partner" eye="surprised" mouth="serious" />
 	<sjis>
-		あいつ！<end_line>
+		あいつ！<end_line />
 	</sjis>
 	<ascii>
-		That one!<end_line>
+		That one!<end_line />
 	</ascii>
 </dialogue>
 <dialogue>
-	<partner name="rufeel">
-	<info box="right">
-	<portrait_l entry="player" eye="serious" mouth="tense">
-	<portrait_r entry="partner" eye="surprised" mouth="serious">
+	<partner name="rufeel" />
+	<info box="right" />
+	<portrait_l entry="player" eye="serious" mouth="tense" />
+	<portrait_r entry="partner" eye="surprised" mouth="serious" />
 	<sjis>
-		あれは！<end_line>
+		あれは！<end_line />
 	</sjis>
 	<ascii>
-		That is!<end_line>
+		That is!<end_line />
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="left">
-	<portrait_l entry="player" eye="decided" mouth="serious">
-	<portrait_r entry="partner" eye="surprised" mouth="serious">
+	<info box="left" />
+	<portrait_l entry="player" eye="decided" mouth="serious" />
+	<portrait_r entry="partner" eye="surprised" mouth="serious" />
 	<male>
 		<sjis>
-			さっきのヤツだ！<end_line>
+			さっきのヤツだ！<end_line />
 		</sjis>
 		<ascii>
-			The one from before!<end_line>
+			The one from before!<end_line />
 		</ascii>
 	</male>
 	<female>
 		<sjis>
-			さっきの召喚獣！<end_line>
+			さっきの召喚獣！<end_line />
 		</sjis>
 		<ascii>
-			The Summon Beast from before!<end_line>
+			The Summon Beast from before!<end_line />
 		</ascii>
 	</female>
 </dialogue>
+</tl_file>

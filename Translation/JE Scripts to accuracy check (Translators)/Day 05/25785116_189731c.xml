@@ -1,16 +1,18 @@
+<tl_file>
 <location>
   <sjis>
-    ベリートの森<end_line>
+    ベリートの森<end_line />
   </sjis>
   <ascii>
-    Beleet Forest<end_line>
+    Beleet Forest<end_line />
   </ascii>
 </location>
 <location>
   <sjis>
-    ベリートの森　エリア１<end_line>
+    ベリートの森　エリア１<end_line />
   </sjis>
   <ascii>
-    Beleet Forest　Area 1<end_line>
+    Beleet Forest　Area 1<end_line />
   </ascii>
 </location>
+</tl_file>
