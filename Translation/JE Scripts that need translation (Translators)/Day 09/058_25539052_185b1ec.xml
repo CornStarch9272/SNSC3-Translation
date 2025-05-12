@@ -572,7 +572,7 @@
   </ascii>
   </female>
 </dialogue>
-#6
+# 6
 <dialogue>
   <partner name="enzi" />
   <info box="right" />
@@ -1342,7 +1342,7 @@
   </sjis>
   <ascii>
     Fu<three_dots /><end_line />
-    Do what you want.<end_line />
+    Do whatever you want.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -1602,8 +1602,10 @@
   </sjis>
   <ascii>
     Let's see<three_dots /><end_line />
-    It was extremely hot.<end_line />
+    It felt uncomfortably sweltering.<end_line />
   </ascii>
+  # FAILED ACCURACY CHECK
+  # "Hot" implies the wrong stuff here lol. Changed to "It felt uncomfortably sweltering."
 </dialogue>
 <dialogue>
   <partner name="rufeel" />
@@ -1681,8 +1683,10 @@
   <ascii>
     N-no!<end_line />
     You're always being so reckless,<end_line />
-    and I worry.<end_line />
+    and I always worry over you.<end_line />
   </ascii>
+  # FAILED ACCURACY CHECK
+  # Changed from "I worry" to "I always worry over you"
 </dialogue>
 <dialogue>
   <partner name="rufeel" />
@@ -1839,8 +1843,11 @@
     ちょっと考えてみますわ<end_line />
   </sjis>
   <ascii>
-    Saying that without warning<three_dots /><end_line />
-    I'll think about it.<end_line />
+    You say the most sudden things<three_dots /><end_line />
+    But I'll think about it.<end_line />
   </ascii>
+  # FAILED ACCURACY CHECK
+  # Changed "Saying that without warning" to "You say the most sudden things"
+  # Added "But" to "I'll think about it"
 </dialogue>
 </tl_file>

@@ -9,6 +9,11 @@
 		どこに連れて行かれたのか<end_line />
 		手がかりを見つけないと！<end_line />
 	</sjis>
+	<ascii>
+		Murno has been kidnapped<three_dots /><end_line />
+		We need to hurry and find<end_line />
+		where they are taking her!<end_line />
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor" />
@@ -19,6 +24,10 @@
 		トニカク　町ノ中ヲ<end_line />
 		クマナク　サガシマショウ<end_line />
 	</sjis>
+	<ascii>
+		Then Let Us Make Haste And<end_line />
+		Search The Entire Town.<end_line />
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor" />
@@ -29,11 +38,17 @@
 		<sjis>
 			そうだな<three_dots /><end_line />
 		</sjis>
+		<ascii>
+			Got it<three_dots /><end_line />
+		</ascii>
 	</male>
 	<female>
 		<sjis>
 			そうだね<three_dots /><end_line />
 		</sjis>
+		<ascii>
+			Got it<three_dots /><end_line />
+		</ascii>
 	</female>
 </dialogue>
 <dialogue>
@@ -45,6 +60,10 @@
 		もしかして<end_line />
 		ザックなら何か知ってるかも<three_dots /><end_line />
 	</sjis>
+	<ascii>
+		Could it be that Zakk may<end_line />
+		have known where she is<three_dots>?<end_line />
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi" />
@@ -56,6 +75,11 @@
 		どこに連れて行かれたのか<end_line />
 		手がかりを見つけないと！<end_line />
 	</sjis>
+	<ascii>
+		Murno has been kidnapped<three_dots /><end_line />
+		We need to hurry and find<end_line />
+		where they are taking her!<end_line />
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi" />
@@ -67,6 +91,11 @@
 		くまなくさがすのじゃ！<end_line />
 		ネズミ１匹見逃すでないぞ！<end_line />
 	</sjis>
+	<ascii>
+		So let us search throughout<end_line>
+		The entire town! Let none<end_line>
+		of those vermin escape!<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi" />
@@ -77,11 +106,17 @@
 		<sjis>
 			わかった！<end_line />
 		</sjis>
+			<ascii>
+			Roger that!<end_line />
+		</ascii>
 	</male>
 	<female>
 		<sjis>
 			うん<three_dots />！<end_line />
 		</sjis>
+			<ascii>
+			Yeah!<end_line />
+		</ascii>
 	</female>
 </dialogue>
 <dialogue>
@@ -93,6 +128,10 @@
 		もしかして<end_line />
 		ザックなら何か知ってるかも<three_dots /><end_line />
 	</sjis>
+	<ascii>
+		Could it be that Zakk may<end_line />
+		have known where she is<three_dots>?<end_line />
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith" />
@@ -104,6 +143,11 @@
 		どこに連れて行かれたのか<end_line />
 		手がかりを見つけないと！<end_line />
 	</sjis>
+		<ascii>
+		Murno has been kidnapped<three_dots /><end_line />
+		We need to hurry and find<end_line />
+		where they are taking her!<end_line />
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith" />
@@ -115,6 +159,11 @@
 		くまなくさがすんだ！<end_line />
 		グズグズするな！<end_line />
 	</sjis>
+	<ascii>
+		So hurry up and search<end_line>
+		throughout the damn town!<end_line>
+		Stop dawdling around!<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith" />
@@ -125,11 +174,17 @@
 		<sjis>
 			わかった！<end_line />
 		</sjis>
+		<ascii>
+			Roger that!<end_line />
+		</ascii>
 	</male>
 	<female>
 		<sjis>
 			うん<three_dots />！<end_line />
 		</sjis>
+		<ascii>
+			Yeah!<end_line />
+		</ascii>
 	</female>
 </dialogue>
 <dialogue>
@@ -141,6 +196,10 @@
 		もしかして<end_line />
 		ザックなら何か知ってるかも<three_dots /><end_line />
 	</sjis>
+		<ascii>
+		Could it be that Zakk may<end_line />
+		have known where she is<three_dots>?<end_line />
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel" />
@@ -151,6 +210,11 @@
 		どこに連れて行かれたのか<end_line />
 		手がかりを見つけないと！<end_line />
 	</sjis>
+		<ascii>
+		Murno has been kidnapped<three_dots /><end_line />
+		We need to hurry and find<end_line />
+		where they are taking her!<end_line />
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel" />
@@ -160,6 +224,10 @@
 		とにかく町の中を<end_line />
 		色々さがしてみましょう！<end_line />
 	</sjis>
+	<ascii>
+		Then let us search the whole<end_line>
+		town, they could be anywhere!<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel" />
@@ -169,11 +237,17 @@
 		<sjis>
 			そうだな<three_dots /><end_line />
 		</sjis>
+		<ascii>
+			Got it<three_dots /><end_line />
+		</ascii>
 	</male>
 	<female>
 		<sjis>
 			そうだね<three_dots /><end_line />
 		</sjis>
+		<ascii>
+			Got it<three_dots /><end_line />
+		</ascii>
 	</female>
 </dialogue>
 <dialogue>
@@ -184,6 +258,10 @@
 		もしかして<end_line />
 		ザックなら何か知ってるかも<three_dots /><end_line />
 	</sjis>
+	<ascii>
+		Could it be that Zakk may<end_line />
+		have known where she is<three_dots>?<end_line />
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor" />
@@ -196,6 +274,14 @@
 			向かったらしいぞ<end_line />
 			ザックが追いかけてるみたいだけど<three_dots /><end_line />
 		</sjis>
+		<ascii>
+			Anise and the others seem to be<end_line>
+			heading in the Sulenge Mines.<end_line>
+			Looks like Zakk's after them too.<end_line>
+		</ascii>
+		# FAILED ACCURACY CHECK
+		# I don't know the proposed name for the mines is, hence I self-tagged my translation as inaccurate
+		# Please replace the mine name I used with the agreed-upon mine name for consistency. Tysm!
 	</male>
 	<female>
 		<sjis>
@@ -203,6 +289,14 @@
 			向かったらしいよ<end_line />
 			ザックが追いかけてるみたいだけど<three_dots /><end_line />
 		</sjis>
+		<ascii>
+			Anise and the others seem to be<end_line>
+			heading in the Sulenge Mines.<end_line>
+			Looks like Zakk's after them too.<end_line>
+		</ascii>
+		# FAILED ACCURACY CHECK
+		# I don't know the proposed name for the mines is, hence I self-tagged my translation as inaccurate
+		# Please replace the mine name I used with the agreed-upon mine name for consistency. Tysm!
 	</female>
 </dialogue>
 <dialogue>
@@ -215,6 +309,11 @@
 		あにすタチニ　危害ヲ加エラレル<end_line />
 		可能性ガアリマス<end_line />
 	</sjis>
+	<ascii>
+		The Boy Has Been Caught. The<end_line />
+		Probablity of Anise's Cohorts<end_line />
+		Harming Him Is Very High.<end_line />
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor" />
@@ -225,11 +324,17 @@
 		<sjis>
 			そうだな<three_dots /><end_line />
 		</sjis>
+		<ascii>
+			Yeah, you're right<three_dots /><end_line />
+		</ascii>
 	</male>
 	<female>
 		<sjis>
 			そうだね<three_dots /><end_line />
 		</sjis>
+			<ascii>
+			True, you're right<three_dots /><end_line />
+		</ascii>
 	</female>
 </dialogue>
 <dialogue>
@@ -240,6 +345,9 @@
 	<sjis>
 		急ごう！<end_line />
 	</sjis>
+	<ascii>
+		So let's hurry!<end_line />
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi" />
@@ -252,6 +360,14 @@
 			向かったらしいぞ<end_line />
 			ザックが追いかけてるみたいだけど<three_dots /><end_line />
 		</sjis>
+		<ascii>
+			Anise and the others seem to be<end_line>
+			heading in the Sulenge Mines.<end_line>
+			Looks like Zakk's after them too.<end_line>
+		</ascii>
+		# FAILED ACCURACY CHECK
+		# I don't know the proposed name for the mines is, hence I self-tagged my translation as inaccurate
+		# Please replace the mine name I used with the agreed-upon mine name for consistency. Tysm!
 	</male>
 	<female>
 		<sjis>
@@ -259,6 +375,14 @@
 			向かったらしいよ<end_line />
 			ザックが追いかけてるみたいだけど<three_dots /><end_line />
 		</sjis>
+		<ascii>
+			Anise and the others seem to be<end_line>
+			heading in the Sulenge Mines.<end_line>
+			Looks like Zakk's after them too.<end_line>
+		</ascii>
+		# FAILED ACCURACY CHECK
+		# I don't know the proposed name for the mines is, hence I self-tagged my translation as inaccurate
+		# Please replace the mine name I used with the agreed-upon mine name for consistency. Tysm!
 	</female>
 </dialogue>
 <dialogue>
@@ -271,6 +395,11 @@
 		連中に見つかったら、何をされるか<end_line />
 		わからんぞ<end_line />
 	</sjis>
+	<ascii>
+		The boy is a brash one. There's no<end_line />
+		telling way they may do to him after.<end_line />
+		How unbelievable!<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi" />
@@ -281,11 +410,17 @@
 		<sjis>
 			そうだな<three_dots /><end_line />
 		</sjis>
+		<ascii>
+			Yeah, you're right<three_dots /><end_line />
+		</ascii>
 	</male>
 	<female>
 		<sjis>
 			そうだね<three_dots /><end_line />
 		</sjis>
+			<ascii>
+			True, you're right<three_dots /><end_line />
+		</ascii>
 	</female>
 </dialogue>
 <dialogue>
@@ -296,6 +431,9 @@
 	<sjis>
 		急ごう！<end_line />
 	</sjis>
+	<ascii>
+		So let's hurry and save him!<end_line />
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith" />
@@ -308,6 +446,14 @@
 			向かったらしいぞ<end_line />
 			ザックが追いかけてるみたいだけど<three_dots /><end_line />
 		</sjis>
+		<ascii>
+			Anise and the others seem to be<end_line>
+			heading in the Sulenge Mines.<end_line>
+			Looks like Zakk's after them too.<end_line>
+		</ascii>
+		# FAILED ACCURACY CHECK
+		# I don't know the proposed name for the mines is, hence I self-tagged my translation as inaccurate
+		# Please replace the mine name I used with the agreed-upon mine name for consistency. Tysm!
 	</male>
 	<female>
 		<sjis>
@@ -315,6 +461,14 @@
 			向かったらしいよ<end_line />
 			ザックが追いかけてるみたいだけど<three_dots /><end_line />
 		</sjis>
+		<ascii>
+			Anise and the others seem to be<end_line>
+			heading in the Sulenge Mines.<end_line>
+			Looks like Zakk's after them too.<end_line>
+		</ascii>
+		# FAILED ACCURACY CHECK
+		# I don't know the proposed name for the mines is, hence I self-tagged my translation as inaccurate
+		# Please replace the mine name I used with the agreed-upon mine name for consistency. Tysm!
 	</female>
 </dialogue>
 <dialogue>
@@ -327,6 +481,11 @@
 		無事でいられるとでも思っているのか<three_dots /><end_line />
 		全く、身の程をわきまえない子供だ<end_line />
 	</sjis>
+	<ascii>
+		Even if the brat found them on his<end_line />
+		own, he's not some invincible hero!<end_line />
+		Hah, this is why I can't stand kids.<end_line /> 
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith" />
@@ -337,6 +496,10 @@
 		<partner /><three_dots /><end_line />
 		とにかく急ごう！<end_line />
 	</sjis>
+	<ascii>
+		<partner /><three_dots /><end_line />
+		We have to hurry and save him!<end_line/>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel" />
@@ -348,6 +511,14 @@
 			向かったらしいぞ<end_line />
 			ザックが追いかけてるみたいだけど<three_dots /><end_line />
 		</sjis>
+		<ascii>
+			Anise and the others seem to be<end_line>
+			heading in the Sulenge Mines.<end_line>
+			Looks like Zakk's after them too.<end_line>
+		</ascii>
+		# FAILED ACCURACY CHECK
+		# I don't know the proposed name for the mines is, hence I self-tagged my translation as inaccurate
+		# Please replace the mine name I used with the agreed-upon mine name for consistency. Tysm!
 	</male>
 	<female>
 		<sjis>
@@ -355,6 +526,14 @@
 			向かったらしいよ<end_line />
 			ザックが追いかけてるみたいだけど<three_dots /><end_line />
 		</sjis>
+		<ascii>
+			Anise and the others seem to be<end_line>
+			heading in the Sulenge Mines.<end_line>
+			Looks like Zakk's after them too.<end_line>
+		</ascii>
+		# FAILED ACCURACY CHECK
+		# I don't know the proposed name for the mines is, hence I self-tagged my translation as inaccurate
+		# Please replace the mine name I used with the agreed-upon mine name for consistency. Tysm!
 	</female>
 </dialogue>
 <dialogue>
@@ -366,6 +545,14 @@
 		何をされるかわかりませんわ<end_line />
 		無事ならいいんですけど<three_dots /><end_line />
 	</sjis>
+	<ascii>
+		They may not have spotted us,<end_line />
+		but we still need to be careful.<end_line />
+		We're better safe than sorry, though<three_dots /><end_line />
+	</ascii>
+	# FAILED ACCURACY CHECK
+	# If someone could change the third line to something along the lines of "I'd rather play it safe though"
+	# ^ Please do me a favor and replace it with a better line! Tysm! - Rie
 </dialogue>
 <dialogue>
 	<partner name="rufeel" />
@@ -375,11 +562,17 @@
 		<sjis>
 			そうだな<three_dots /><end_line />
 		</sjis>
+		<ascii>
+			Yeah, you're right<three_dots /><end_line />
+		</ascii>
 	</male>
 	<female>
 		<sjis>
 			そうだね<three_dots /><end_line />
 		</sjis>
+		<ascii>
+			True, you're right<three_dots /><end_line />
+		</ascii>
 	</female>
 </dialogue>
 <dialogue>
@@ -389,6 +582,9 @@
 	<sjis>
 		急ごう！<end_line />
 	</sjis>
+	<ascii>
+		So let's hurry!<end_line />
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor" />
@@ -401,6 +597,11 @@
 			ザックにまであんなことを<three_dots /><end_line />
 			絶対ゆるさないぜ<three_dots />！<end_line />
 		</sjis>
+		<ascii>
+			Dammit, those jerks<three_dots><end_line />
+			They just hurt Zakk<three_dots><end_line />
+			I absolutely won't forgive them<three_dots />!<end_line />
+		</ascii>
 	</male>
 	<female>
 		<sjis>
@@ -408,6 +609,11 @@
 			ヒドイことするなんて<three_dots /><end_line />
 			絶対ゆるさないから<three_dots />！<end_line />
 		</sjis>
+		<ascii>
+			To think they would<end_line />
+			even harm Zakk too<three_dots /><end_line />
+			I absolutely won't forgive them<three_dots />!<end_line />
+		</ascii>
 	</female>
 </dialogue>
 <dialogue>
@@ -420,6 +626,11 @@
 		落チ着イテクダサイ<end_line />
 		冷静ニ行動シナイト　危険デス<end_line />
 	</sjis>
+	<ascii>
+		I Understand That This Upsets You,<end_line />
+		But We Need To Stay Put. It Is Not<end_line />
+		Advisable To Proceed Unprepared.<end_line />
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor" />
@@ -432,6 +643,13 @@
 			あいつらはスポート洞窟の奥だ<end_line />
 			急ごう！<end_line />
 		</sjis>
+		<ascii>
+			Oh yeah<three_dots /> I get it now.<end_line />
+			They went in the Suport Cave!<end_line />
+			Let's go!<end_line />
+		</ascii>
+		# FAILED ACCURACY CHECK
+		# What a weird name to call a cave tbh lol. Please change "Suport Cave" to whatever was decided on.
 	</male>
 	<female>
 		<sjis>
@@ -439,6 +657,11 @@
 			あの人たちはスポート洞窟の奥みたい<end_line />
 			急ごう！<end_line />
 		</sjis>
+		<ascii>
+			Oh yeah<three_dots /> I get it now.<end_line />
+			They went in the Suport Cave!<end_line />
+			Let's go!<end_line />
+		</ascii>
 	</female>
 </dialogue>
 <dialogue>
@@ -452,6 +675,11 @@
 			ザックにまであんなことを<three_dots /><end_line />
 			絶対ゆるさないぜ<three_dots />！<end_line />
 		</sjis>
+			<ascii>
+			Dammit, those jerks<three_dots><end_line />
+			They just hurt Zakk<three_dots><end_line />
+			I absolutely won't forgive them<three_dots />!<end_line />
+		</ascii>
 	</male>
 	<female>
 		<sjis>
@@ -459,6 +687,11 @@
 			ヒドイことするなんて<three_dots /><end_line />
 			絶対ゆるさないから<three_dots />！<end_line />
 		</sjis>
+		<ascii>
+			To think those people would<end_line />
+			even harm Zakk too<three_dots /><end_line />
+			I absolutely won't forgive them<three_dots />!<end_line />
+		</ascii>
 	</female>
 </dialogue>
 <dialogue>
@@ -471,6 +704,11 @@
 		そんな風に、頭に血が上っておると<end_line />
 		おぬしもケガをしてしまうぞ<end_line />
 	</sjis>
+	<ascii>
+		Don't be so hasty, <player_nickname /><end_line />
+		Letting your blood go to your head<end_line />
+		Will cause you nothing but harm.<end_line />
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi" />
@@ -483,6 +721,11 @@
 			あいつらはスポート洞窟の奥だ<end_line />
 			急ごう！<end_line />
 		</sjis>
+		<ascii>
+			Oh yeah<three_dots /> I get it now.<end_line />
+			They went in the Suport Cave!<end_line />
+			Let's go!<end_line />
+		</ascii>
 	</male>
 	<female>
 		<sjis>
@@ -490,6 +733,11 @@
 			あの人たちはスポート洞窟の奥みたい<end_line />
 			急ごう！<end_line />
 		</sjis>
+		<ascii>
+			Oh yeah<three_dots /> I get it now.<end_line />
+			They went in the Suport Cave!<end_line />
+			Let's go!<end_line />
+		</ascii>
 	</female>
 </dialogue>
 <dialogue>
@@ -503,6 +751,11 @@
 			ザックにまであんなことを<three_dots /><end_line />
 			絶対ゆるさないぜ<three_dots />！<end_line />
 		</sjis>
+			<ascii>
+			Dammit, those jerks<three_dots><end_line />
+			They just hurt Zakk<three_dots><end_line />
+			I absolutely won't forgive them<three_dots />!<end_line />
+		</ascii>
 	</male>
 	<female>
 		<sjis>
@@ -510,6 +763,11 @@
 			ヒドイことするなんて<three_dots /><end_line />
 			絶対ゆるさないから<three_dots />！<end_line />
 		</sjis>
+		<ascii>
+			To think those people would<end_line />
+			even harm Zakk too<three_dots /><end_line />
+			I absolutely won't forgive them<three_dots />!<end_line />
+		</ascii>
 	</female>
 </dialogue>
 <dialogue>
@@ -522,6 +780,11 @@
 		そんなに熱くなっていて<end_line />
 		ヤツらとまともに戦えるのか？<end_line />
 	</sjis>
+	<ascii>
+		Hmph<three_dots /><end_line />
+		You think you can even stand up to<end_line />
+		them with that hot head of yours?<end_line />
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith" />
@@ -534,6 +797,11 @@
 			あいつらはスポート洞窟の奥だ<end_line />
 			落ちついて行くぜ！<end_line />
 		</sjis>
+		<ascii>
+			You're right<three_dots /> Thanks, <partner />.<end_line />
+			They went in the Suport Cave!<end_line />
+			Let's follow them!<end_line />
+		</ascii>
 	</male>
 	<female>
 		<sjis>
@@ -541,6 +809,11 @@
 			あの人たちはスポート洞窟の奥みたい<end_line />
 			落ちついて行こう！<end_line />
 		</sjis>
+		<ascii>
+			You're right<three_dots /> Thanks, <partner />.<end_line />
+			They went in the Suport Cave!<end_line />
+			Let's follow them!<end_line />
+		</ascii>
 	</female>
 </dialogue>
 <dialogue>
@@ -553,6 +826,11 @@
 			ザックにまであんなことを<three_dots /><end_line />
 			絶対ゆるさないぜ<three_dots />！<end_line />
 		</sjis>
+		<ascii>
+			Dammit, those jerks<three_dots><end_line />
+			They just hurt Zakk<three_dots><end_line />
+			I absolutely won't forgive them<three_dots />!<end_line />
+		</ascii>
 	</male>
 	<female>
 		<sjis>
@@ -560,6 +838,11 @@
 			ヒドイことするなんて<three_dots /><end_line />
 			絶対ゆるさないから<three_dots />！<end_line />
 		</sjis>
+		<ascii>
+			To think those people would<end_line />
+			even harm Zakk too<three_dots /><end_line />
+			I absolutely won't forgive them<three_dots />!<end_line />
+		</ascii>
 	</female>
 </dialogue>
 <dialogue>
@@ -571,6 +854,11 @@
 		そんな風にカッカしてると<end_line />
 		あなたまでやられてしまいますわ<end_line />
 	</sjis>
+	<ascii>
+		Please hold for a moment.<end_line />
+		Nothing good will come out of you<end_line />
+		acting irrationally, you know.<end_line />
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel" />
@@ -582,6 +870,11 @@
 			あいつらはスポート洞窟の奥だ<end_line />
 			急ごう！<end_line />
 		</sjis>
+		<ascii>
+			Oh yeah<three_dots /> I get it now.<end_line />
+			They went in the Suport Cave!<end_line />
+			Let's go!<end_line />
+		</ascii>
 	</male>
 	<female>
 		<sjis>
@@ -589,6 +882,11 @@
 			あの人たちはスポート洞窟の奥みたい<end_line />
 			急ごう！<end_line />
 		</sjis>
+		<ascii>
+			Oh yeah<three_dots /> I get it now.<end_line />
+			They went in the Suport Cave!<end_line />
+			Let's go!!<end_line />
+		</ascii>
 	</female>
 </dialogue>
 <dialogue>
@@ -601,6 +899,11 @@
 		奥へ行っちゃったよ<end_line />
 		急いで追いかけよう！<end_line />
 	</sjis>
+	<ascii>
+		Pike and Master are heading<end_line />
+		deeper into the Suport Mines.<end_line/>
+		Let's hurry and catch up to them!<end_line />
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor" />
@@ -612,6 +915,11 @@
 		行方ヲ知ル　唯一ノ手ガカリデス<end_line />
 		意識ガアルウチニ　追イツキマショウ<end_line />
 	</sjis>
+	<ascii>
+		As Of Present, Lady Murno's<end_line />
+		Location Is Unknown. Do Not Delay;<end_line />
+		Interrogate While He's Conscious.<end_line />
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor" />
@@ -623,12 +931,22 @@
 			親方<three_dots /><end_line />
 			たのむからムチャするなよな<three_dots /><end_line />
 		</sjis>
+		<ascii>
+			Master<three_dots /><end_line />
+			I beg of you please, don't do<end_line />
+			anything too rash<three_dots />!<end_line  />
+		</ascii>
 	</male>
 	<female>
 		<sjis>
 			親方ぁ<three_dots /><end_line />
 			たのむからムチャしないでよね<three_dots /><end_line />
 		</sjis>
+		<ascii>
+			Masteeerrr<three_dots /><end_line />
+			I beg of you please, don't do<end_line />
+			anything too rash<three_dots />!<end_line  />
+		</ascii>
 	</female>
 </dialogue>
 <dialogue>
@@ -641,6 +959,11 @@
 		奥へ行っちゃったよ<end_line />
 		急いで追いかけよう！<end_line />
 	</sjis>
+	<ascii>
+		Pike and Master are heading<end_line />
+		deeper into the Suport Mines.<end_line/>
+		Let's hurry and catch up to them!<end_line />
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi" />
@@ -652,6 +975,10 @@
 		唯一の手がかりが、あの男じゃ<end_line />
 		生きてるうちに、追いつこうぞ<end_line />
 	</sjis>
+	<ascii>
+		I loathe to admit, but he's the only<end_line/>
+		one who knew where Murno's taken to.<end_line />
+		Let's get to him while he's awake.<end_line />
 </dialogue>
 <dialogue>
 	<partner name="enzi" />
@@ -663,12 +990,22 @@
 			親方<three_dots /><end_line />
 			たのむからムチャするなよな<three_dots /><end_line />
 		</sjis>
+		<ascii>
+			Master<three_dots /><end_line />
+			I beg of you please, don't do<end_line />
+			anything too rash<three_dots />!<end_line  />
+		</ascii>
 	</male>
 	<female>
 		<sjis>
 			親方ぁ<three_dots /><end_line />
 			たのむからムチャしないでよね<three_dots /><end_line />
 		</sjis>
+		<ascii>
+			Masteeerrr<three_dots /><end_line />
+			I beg of you please, don't do<end_line />
+			anything too rash<three_dots />!<end_line  />
+		</ascii>
 	</female>
 </dialogue>
 <dialogue>
@@ -681,6 +1018,11 @@
 		奥へ行っちゃったよ<end_line />
 		急いで追いかけよう！<end_line />
 	</sjis>
+	<ascii>
+		Pike and Master are heading<end_line />
+		deeper into the Suport Mines.<end_line/>
+		Let's hurry and catch up to them!<end_line />
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith" />
@@ -692,6 +1034,10 @@
 		ヤツにトドメをさすのは私だ<end_line />
 		あの女ではない<end_line />
 	</sjis>
+	<ascii>
+		Yes<three_dots /><end_line />
+		But I am the only one who gets<end_line />
+		to kill him, and not her.<end_line />
 </dialogue>
 <dialogue>
 	<partner name="killfith" />
@@ -704,6 +1050,11 @@
 			今のところミューノの手がかりは<end_line />
 			あいつだけなんだからさ<three_dots /><end_line />
 		</sjis>
+		<ascii>
+			Please don't do it<three_dots /><end_line />
+			He's the only one who knows where<end_line />
+			Murno is! We need him alive<three_dots /><end_line />
+		</ascii>
 	</male>
 	<female>
 		<sjis>
@@ -711,6 +1062,11 @@
 			今のところミューノの手がかりは<end_line />
 			あいつだけなんだよ<three_dots /><end_line />
 		</sjis>
+		<ascii>
+			Please don't do it<three_dots /><end_line />
+			He's the only one who knows where<end_line />
+			Murno is! We need him alive<three_dots /><end_line />
+		</ascii>
 	</female>
 </dialogue>
 <dialogue>
@@ -722,6 +1078,11 @@
 		奥へ行っちゃったよ<end_line />
 		急いで追いかけよう！<end_line />
 	</sjis>
+	<ascii>
+		Pike and Master are heading<end_line />
+		deeper into the Suport Mines.<end_line/>
+		Let's hurry and catch up to them!<end_line />
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel" />
@@ -732,6 +1093,11 @@
 		唯一の手がかりが、あの男ですからね<end_line />
 		口がきける間に追いつきましょう！<end_line />
 	</sjis>
+	<ascii>
+		That man is the only one who knows<end_line />
+		Lady Murno's whereabouts, I think.<end_line />
+		Let's hurry and ask him while we can!<end_line />
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel" />
@@ -742,12 +1108,22 @@
 			親方<three_dots /><end_line />
 			たのむからムチャするなよな<three_dots /><end_line />
 		</sjis>
+		<ascii>
+			Master<three_dots /><end_line />
+			I beg of you please, don't do<end_line />
+			anything too rash<three_dots />!<end_line  />
+		</ascii>
 	</male>
 	<female>
 		<sjis>
 			親方ぁ<three_dots /><end_line />
 			たのむからムチャしないでよね<three_dots /><end_line />
 		</sjis>
+		<ascii>
+			Masteeerrr<three_dots /><end_line />
+			I beg of you please, don't do<end_line />
+			anything too rash<three_dots />!<end_line  />
+		</ascii>
 	</female>
 </dialogue>
 <dialogue>
@@ -761,6 +1137,11 @@
 			先に行った親方たちを<end_line />
 			追いかけよう！<end_line />
 		</sjis>
+		<ascii>
+			Murno's further in the Suport Mines!<end_line />
+			Master already went ahead of us,<end_line />
+			So let's hurry up and go!<end_line />
+		</ascii>
 	</male>
 	<female>
 		<sjis>
@@ -768,6 +1149,11 @@
 			先に行った親方たちを<end_line />
 			追いかけよう！<end_line />
 		</sjis>
+		<ascii>
+			Murno's further in the Suport Mines!<end_line />
+			Master already went ahead of us,<end_line />
+			So let's hurry up and go!<end_line />
+		</ascii>
 	</female>
 </dialogue>
 <dialogue>
@@ -780,6 +1166,11 @@
 		待ッテイルハズデス<end_line />
 		急ギマショウ！<end_line />
 	</sjis>
+	<ascii>
+		Lady Murno Is Awaiting Our<end_line />
+		Arrival As Of Present.<end_line />
+		Let Us Make Haste!<end_line />
+	</ascii>
 </dialogue>
 <dialogue>
 	<player gender="male" />
@@ -792,6 +1183,11 @@
 		あいつらを全員とっつかまえて<end_line />
 		ミューノを取り返すんだ！<end_line />
 	</sjis>
+	<ascii>
+		Alright!<end_line />
+		Now that they've been dealt with,<end_line />
+		We're getting Murno back in no time!<end_line />
+	</ascii>
 </dialogue>
 <dialogue>
 	<player gender="male" />
@@ -802,6 +1198,9 @@
 	<sjis>
 		これで最後にしてやるぜ！<end_line />
 	</sjis>
+	<ascii>
+		Now it's finally over!<end_line />
+	</ascii>
 </dialogue>
 <dialogue>
 	<player gender="female" />
@@ -814,6 +1213,11 @@
 		あいつらを全員捕まえて<end_line />
 		ミューノを取り返そう！<end_line />
 	</sjis>
+	<ascii>
+		Yippie!<end_line />
+		Now that they've been dealt with,<end_line />
+		We're getting Murno back in no time!<end_line />
+	</ascii>
 </dialogue>
 <dialogue>
 	<player gender="female" />
@@ -824,6 +1228,9 @@
 	<sjis>
 		これで最後にしてみせる！<end_line />
 	</sjis>
+	<ascii>
+		Now it's finally over!<end_line />
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi" />
@@ -836,6 +1243,11 @@
 			先に行った親方たちを<end_line />
 			追いかけよう！<end_line />
 		</sjis>
+		<ascii>
+			Murno's further in the Suport Mines!<end_line />
+			Master already went ahead of us,<end_line />
+			So let's hurry up and go!<end_line />
+		</ascii>
 	</male>
 	<female>
 		<sjis>
@@ -843,6 +1255,11 @@
 			先に行った親方たちを<end_line />
 			追いかけよう！<end_line />
 		</sjis>
+		<ascii>
+			Murno's further in the Suport Mines!<end_line />
+			Master already went ahead of us,<end_line />
+			So let's hurry up and go!<end_line />
+		</ascii>
 	</female>
 </dialogue>
 <dialogue>
@@ -855,6 +1272,10 @@
 		きっと今ごろミューノは<end_line />
 		我らが来るのを心待ちにしておるぞ<end_line />
 	</sjis>
+	<ascii>
+		Let us make haste!<end_line />
+		I am certain that Murno<end_line />
+		eagerly awaits our arrival.<end_line />
 </dialogue>
 <dialogue>
 	<player gender="male" />
@@ -867,6 +1288,11 @@
 		あいつらを全員とっつかまえて<end_line />
 		ミューノを取り返すんだ！<end_line />
 	</sjis>
+	<ascii>
+		Alright!<end_line />
+		Now that they've been dealt with,<end_line />
+		We're getting Murno back in no time!<end_line />
+	</ascii>
 </dialogue>
 <dialogue>
 	<player gender="male" />
@@ -877,6 +1303,9 @@
 	<sjis>
 		これで最後にしてやるぜ！<end_line />
 	</sjis>
+	<ascii>
+		Now it's finally over!<end_line />
+	</ascii>
 </dialogue>
 <dialogue>
 	<player gender="female" />
@@ -889,6 +1318,11 @@
 		あいつらを全員捕まえて<end_line />
 		ミューノを取り返そう！<end_line />
 	</sjis>
+	<ascii>
+		Yippie!<end_line />
+		Now that they've been dealt with,<end_line />
+		We're getting Murno back in no time!<end_line />
+	</ascii>
 </dialogue>
 <dialogue>
 	<player gender="female" />
@@ -899,6 +1333,9 @@
 	<sjis>
 		これで最後にしてみせる！<end_line />
 	</sjis>
+	<ascii>
+		Now it's finally over!<end_line />
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith" />
@@ -911,6 +1348,11 @@
 			先に行った親方たちを<end_line />
 			追いかけよう！<end_line />
 		</sjis>
+		<ascii>
+			Murno's further in the Suport Mines!<end_line />
+			Master already went ahead of us,<end_line />
+			So let's hurry up and go!<end_line />
+		</ascii>
 	</male>
 	<female>
 		<sjis>
@@ -918,6 +1360,11 @@
 			先に行った親方たちを<end_line />
 			追いかけよう！<end_line />
 		</sjis>
+		<ascii>
+			Murno's further in the Suport Mines!<end_line />
+			Master already went ahead of us,<end_line />
+			So let's hurry up and go!<end_line />
+		</ascii>
 	</female>
 </dialogue>
 <dialogue>
@@ -930,6 +1377,11 @@
 		キサマが来るのがあまりにおそいから<end_line />
 		今ごろあいつ、怒っているぞ<end_line />
 	</sjis>
+	<ascii>
+		Then why haven't you?<end_line />
+		She's gonna be upset if you're<end_line />
+		just dawdling around.<end_line />
+	</ascii>
 </dialogue>
 <dialogue>
 	<player gender="male" />
@@ -942,6 +1394,11 @@
 		あいつらを全員とっつかまえて<end_line />
 		ミューノを取り返すんだ！<end_line />
 	</sjis>
+	<ascii>
+		You're right, let's hurry!<end_line />
+		With those guys now dealt with,<end_line />
+		We're getting Murno back in no time!<end_line />
+	</ascii>
 </dialogue>
 <dialogue>
 	<player gender="male" />
@@ -952,6 +1409,9 @@
 	<sjis>
 		これで最後にしてやるぜ！<end_line />
 	</sjis>
+	<ascii>
+		Now it's finally over!<end_line />
+	</ascii>
 </dialogue>
 <dialogue>
 	<player gender="female" />
@@ -964,6 +1424,11 @@
 		あいつらを全員捕まえて<end_line />
 		ミューノを取り返そう！<end_line />
 	</sjis>
+	<ascii>
+		You're right, let's hurry!<end_line />
+		With those guys now dealt with,<end_line />
+		We're getting Murno back in no time!<end_line />
+	</ascii>
 </dialogue>
 <dialogue>
 	<player gender="female" />
@@ -974,6 +1439,9 @@
 	<sjis>
 		これで最後にしてみせる！<end_line />
 	</sjis>
+	<ascii>
+		Now it's finally over!<end_line />
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel" />
@@ -985,6 +1453,11 @@
 			先に行った親方たちを<end_line />
 			追いかけよう！<end_line />
 		</sjis>
+		<ascii>
+			Murno's further in the Suport Mines!<end_line />
+			Master already went ahead of us,<end_line />
+			So let's hurry up and go!<end_line />
+		</ascii>
 	</male>
 	<female>
 		<sjis>
@@ -992,6 +1465,11 @@
 			先に行った親方たちを<end_line />
 			追いかけよう！<end_line />
 		</sjis>
+		<ascii>
+			Murno's further in the Suport Mines!<end_line />
+			Master already went ahead of us,<end_line />
+			So let's hurry up and go!<end_line />
+		</ascii>
 	</female>
 </dialogue>
 <dialogue>
@@ -1003,6 +1481,11 @@
 		きっと今ごろミューノ様は<end_line />
 		私たちを待ちつかれていますわ！<end_line />
 	</sjis>
+	<ascii>
+		Then onwards we shall go!<end_line />
+		I am certain that Lady Murno<end_line />
+		awaits us right now.<end_line />
+	</ascii>
 </dialogue>
 <dialogue>
 	<player gender="male" />
@@ -1014,6 +1497,11 @@
 		あいつらを全員とっつかまえて<end_line />
 		ミューノを取り返すんだ！<end_line />
 	</sjis>
+	<ascii>
+		Alright!<end_line />
+		Now that they've been dealt with,<end_line />
+		We're getting Muro back in no time!<end_line />
+	</ascii>
 </dialogue>
 <dialogue>
 	<player gender="male" />
@@ -1023,6 +1511,9 @@
 	<sjis>
 		これで最後にしてやるぜ！<end_line />
 	</sjis>
+	<ascii>
+		Now it's finally over!<end_line />
+	</ascii>
 </dialogue>
 <dialogue>
 	<player gender="female" />
@@ -1034,6 +1525,11 @@
 		あいつらを全員捕まえて<end_line />
 		ミューノを取り返そう！<end_line />
 	</sjis>
+	<ascii>
+		Yippie!<end_line />
+		Now that they've been dealt with,<end_line />
+		We're getting Muro back in no time!<end_line />
+	</ascii>
 </dialogue>
 <dialogue>
 	<player gender="female" />
@@ -1043,5 +1539,8 @@
 	<sjis>
 		これで最後にしてみせる！<end_line />
 	</sjis>
+	<ascii>
+		Now it's finally over!<end_line />
+	</ascii>
 </dialogue>
 </tl_file>

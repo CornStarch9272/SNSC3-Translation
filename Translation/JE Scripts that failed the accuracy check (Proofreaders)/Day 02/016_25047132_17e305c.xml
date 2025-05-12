@@ -92,7 +92,7 @@
     キオクノヨウデスガ<three_dots /><end_line />
   </sjis>
   <ascii>
-    That Is A Very Vague Memory.<end_line />
+    You Have Quite A Vague Memory.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -121,7 +121,7 @@
   </sjis>
   <ascii>
     Tch<three_dots /><end_line />
-    You sure we can<end_line />
+    You sure we can even<end_line />
     trust your memory<three_dots />?<end_line />
   </ascii>
 </dialogue>
@@ -192,8 +192,14 @@
     行けばわかる<end_line />
   </sjis>
   <ascii>
-    I suppose that's true<three_dots /><end_line />
+    I suppose that may be true<three_dots /><end_line />
+    We'll see for ourselves<end_line />
+    once we proceed onwards.<end_line />
   </ascii>
+  # FAILED ACCURACY CHECK
+  # Changed from "that's" to "that may be"
+  # Added line to correspond to たしかに行けばわかる
+  # ^ "We'll see for ourselves once we proceed onwards."
 </dialogue>
 <dialogue>
   <partner name="killfith" />
@@ -217,9 +223,11 @@
     じゃあ行きましょう<end_line />
   </sjis>
   <ascii>
-    Is that so<three_dots />?<end_line />
+    I-Is that so<three_dots />?<end_line />
     Then let's get going!<end_line />
   </ascii>
   # Failed Accuracy Check
   # Changed first line from "Hehe"
+  # Failed Accuracy Check 2
+  # Changed from "Is" to "I-Is"; Rufeel is stuttering in JP
 </dialogue></tl_file>

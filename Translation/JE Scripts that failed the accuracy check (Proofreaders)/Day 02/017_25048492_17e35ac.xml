@@ -35,9 +35,12 @@
 		はぐれ召喚獣、か<end_line />
 	</sjis>
 	<ascii>
-		<three_dots /><end_line />
+		Tch<three_dots /><end_line />
 		A Stray Summon<three_dots /><end_line />
 	</ascii>
+	# FAILED ACCURACY CHECK
+	# I don't know why Killfith's first line is empty, but he's clicking his tongue (ちっ)
+	# So a simple "Tch..." should fully suffice. No need to complicate verbal tics.
 </dialogue>
 <dialogue>
 	<partner name="rufeel" />
@@ -165,7 +168,7 @@
 		先へは進めぬぞ<end_line />
 	</sjis>
 	<ascii>
-		So, unless we make it move,<end_line />
+		So unless we make it move,<end_line />
 		we cannot continue forward.<end_line />
 	</ascii>
 </dialogue>
@@ -206,10 +209,12 @@
 		けちらしてやろうぞ！<end_line />
 	</sjis>
 	<ascii>
-		Mm.<end_line />
+		Indeed.<end_line />
 		From what I can see,<end_line />
 		it should be no match for us!<end_line />
 	</ascii>
+	# FAILED ACCURACY CHECK
+	# Changed from "Mm" to "Indeed" (うむうむうむうむうむ lol go to sleep grandpa)
 </dialogue>
 <dialogue>
 	<partner name="enzi" />
@@ -234,8 +239,11 @@
 		たしかだな<end_line />
 	</sjis>
 	<ascii>
-		So we have to fight, right?<end_line />
+		So we'll have to fight<end_line />
+		whatever is in our way, yeah?<end_line />
 	</ascii>
+	# FAILED ACCURACY CHECK
+	# ジャマなヤツ isn't articulated here. Changed "right?" to "yeah", Killfith is crass
 </dialogue>
 <dialogue>
 	<partner name="killfith" />
@@ -276,8 +284,10 @@
 		好きにすればいい<end_line />
 	</sjis>
 	<ascii>
-		Fine.<end_line />
+		Fine, do whatever you want.<end_line />
 	</ascii>
+	# FAILED ACCURACY CHECK
+	# Changed from "Fine." to "Fine, whatever you want." Killfith is very apathetic here lol.
 </dialogue>
 <dialogue>
 	<partner name="killfith" />
@@ -320,10 +330,12 @@
 		もらえなさそうですけど<three_dots /><end_line />
 	</sjis>
 	<ascii>
-		What should we do?<end_line />
+		W-what should we do?<end_line />
 		It doesn't seem like<end_line />
 		it'll just let us through<three_dots /><end_line />
 	</ascii>
+	# FAILED ACCURACY CHECK
+	# Rufeel is stuttering here. Changed from "What" to "W-what"
 </dialogue>
 <dialogue>
 	<partner name="rufeel" />
@@ -364,7 +376,7 @@
 		絶対に勝てますわ<end_line />
 	</sjis>
 	<ascii>
-    	I-it's okay.<end_line />
+    	I-it'll be okay.<end_line />
     	Together<three_dots /><end_line />
 		We'll definitely win!<end_line />
 	</ascii>

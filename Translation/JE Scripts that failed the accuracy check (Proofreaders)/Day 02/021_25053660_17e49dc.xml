@@ -89,10 +89,12 @@
     いきなり<three_dots />！<end_line />
   </sjis>
   <ascii>	
-    Kya<three_dots />!<end_line />
+    Eek<three_dots />!<end_line />
     Who is this person!?<end_line />
     Appearing so suddenly<three_dots /><end_line />
   </ascii>
+  # FAILED ACCURACY CHECK
+  # Changed from "Kya...!" to "Eek..!"
 </dialogue>
 <dialogue>
   <info box="right" />
@@ -104,10 +106,12 @@
     一体どういうことだ？<end_line />
   </sjis>
   <ascii>
-    Oh, you're a Summon<end_line />
+    Hold up, you're a Summon<end_line />
     Beast aren't you?<end_line />
     What are you doing here?<end_line />
   </ascii>
+  # FAILED ACCURACY CHECK
+  # Changed from "Oh," to "Hold up,"; Jade's being stern here.
 </dialogue>
 <dialogue>
   <partner name="run-dor" />
@@ -137,8 +141,11 @@
   </sjis>
   <ascii>
     You<three_dots /><end_line />
-    So you're an enemy!<end_line />
+    So you must be a foe!<end_line />
   </ascii>
+  # FAILED ACCURACY CHECK
+  # Changed from "You...So you're an enemy!" to "You...So you must be a foe!"
+  # Idk why Killfith and Enzi switched dialects here lol.
 </dialogue>
 <dialogue>
   <partner name="killfith" />
@@ -217,9 +224,12 @@
     ちょっと、アニキまで！<end_line />
   </sjis>
   <ascii>
-    Ehh!?<end_line />
+    Huh!?<end_line />
     Bro, stop it!<end_line />
   </ascii>
+  # FAILED ACCURACY CHECK
+  # Changed from "Ehh?!"
+  # "Ehh!?" doesn't feel natural in English
 </dialogue>
 <dialogue>
   <info box="right" />
@@ -344,9 +354,11 @@
     捨てたんだからな<end_line />
   </sjis>
   <ascii>
-    And I threw away the side of<end_line />
+    And I threw away the part of<end_line />
     myself which you called 'Bro'.<end_line />
   </ascii>
+  # FAILED ACCURACY CHECK
+  # Changed from "side" to "part"
 </dialogue>
 <dialogue>
   <info box="left" />
@@ -474,9 +486,12 @@
   </sjis>
   <ascii>
     His face.<end_line />
-    It's the very picture<end_line />
-    of a scoundrel, isn't it?<end_line />
+    It's the very image of a<end_line />
+    scoundrel, don't you think?<end_line />
   </ascii>
+  # FAILED ACCURACY CHECK
+  # Changed from "It's the very picture" to "It's the very image of a"
+  # Changed from "of a scoundrel, isn't it?" to 
 </dialogue>
 <dialogue>
   <partner name="killfith" />
@@ -664,8 +679,10 @@
     おい<three_dots />？<end_line />
   </sjis>
   <ascii>
-    Oi<three_dots />?<end_line />
+    Hey<three_dots />?<end_line />
   </ascii>
+  # FAILED ACCURACY CHECK
+  # Changed from "Oi" to "Hey". It doesn't sound natural in English.
 </dialogue>
 <dialogue>
   <partner name="run-dor" />
@@ -746,8 +763,12 @@
     にゃにおー！<end_line />
   </sjis>
   <ascii>
-    Meoww~ Mrr~!<end_line />
+    Meoww~! Mrr~!<end_line />
   </ascii>
+  # FAILED ACCURACY CHECK
+  # Changed from "Meoww~! Mrr~!" to "Mrrreoww! Hiss!"
+  # Can't work around angry cat puns so I made Enzi angrily hiss out of instinct
+  # ^ unless if someone finds a better workaround with angy cat puns lol
 </dialogue>
 <dialogue>
   <partner name="killfith" />
@@ -773,9 +794,13 @@
     消すぞ<end_line />
   </sjis>
   <ascii>
-    Say another word,<end_line />
+    Say another word, you bastard,<end_line />
     and I'll make you disappear.<end_line />
   </ascii>
+  # FAILED ACCURACY CHECK
+  # Added "you bastard," after "Say another word,"
+  # Killfith is threatening Jade here. Made him sound more condescening bc he's rude in general
+  # ^ note キサマ here. Bro's catching...........yeah. strays.
 </dialogue>
 <dialogue>
   <partner name="killfith" />
@@ -788,9 +813,13 @@
     そんなことじゃ<three_dots /><end_line />
   </sjis>
   <ascii>
-    It's great that's he energetic,<end_line />
-    but what a short fuse<three_dots /><end_line />
+    It's great that's he's hyper,<end_line />
+    but man, he's such a short fuse<three_dots /><end_line />
   </ascii>
+  # FAILED ACCURACY CHECK
+  # Changed from "energetic" to "hyper"
+  # Changed from "but what a short fuse" to "but MAN, he's such a short fue"
+  # Jade sounds exparsed here. Exprahjdoij I forgor the spelling
 </dialogue>
 <dialogue>
   <partner name="killfith" />
@@ -801,10 +830,14 @@
     オレみたいにはなれねぇぞ<end_line />
   </sjis>
   <ascii>
-    You need to calm down.<end_line />
-    Or, you won't become a great man,<end_line />
-    like me.<end_line />
+    You need to chill out, y'know,<end_line />
+    or else, you won't be a<end_line />
+    great guy like me.<end_line />
   </ascii>
+  # FAILED ACCURACY CHECK
+  # Changed from "calm down" to "chill out, y'know"; "man" to "guy"
+  # Slight grammar tweaks, moved "great man" down one line.
+  # Jade is p much a chill going guy with casual vocab
 </dialogue>
 <dialogue>
   <partner name="killfith" />
@@ -843,9 +876,14 @@
     バカにしてません？<end_line />
   </sjis>
   <ascii>
-    Mm<three_dots /><end_line />
-    Are you mocking me?<end_line />
+    Hmph<three_dots /><end_line />
+    How dare you presume that you<end_line />
+    can mock me as you please?<end_line />
   </ascii>
+  # FAILED ACCURACY Check
+  # Changed from "Mm" to "Hmph". Rufeel is grunting in annoyance, not humming in contemplation.
+  # Changed from "Are you mocking me?" to "You dare presume that you can mock me as you please?
+  # ^ Added an extra line starting from "can mock....."
 </dialogue>
 <dialogue>
   <partner name="rufeel" />
@@ -858,7 +896,7 @@
   </sjis>
   <ascii>
     I'll have you know,<end_line />
-    I am very strong!<end_line />
+    I am quite strong!<end_line />
     I'm not a-afraid of you!<end_line />
   </ascii>
 </dialogue>
@@ -872,7 +910,10 @@
   </sjis>
   <ascii>
     Haha<three_dots /><end_line />
-    She's cute when shes upset too.<end_line />
+    She's a real cutie when mad too.<end_line />
+    # FAILED ACCURACY CHECK
+    # Changed from "She's cute when she's upset too." to "She's a real cutie when mad too."
+    # Jade didn't sound so playful initially.
   </ascii>
 </dialogue>
 <dialogue>
@@ -884,9 +925,11 @@
     バカにされてますわ～<three_dots /><end_line />
   </sjis>
   <ascii>
-    Hah<three_dots /><end_line />
-    It is mocking<three_dots /><end_line />
+    You<three_dots />you definitely<end_line />
+    are mocking me<three_dots />!<end_line />
   </ascii>
+  # FAILED ACCURACY CHECK
+  # Changed from "Hah...It is mocking..." to "You...you definitely are mocking me...!"
 </dialogue>
 <dialogue>
   <info box="left" />
@@ -907,8 +950,10 @@
   </sjis>
   <ascii>
     Ah! <player_nickname />?<end_line />
-    When did you get outside!?<end_line />
+    Since when did you get out!?<end_line />
   </ascii>
+  # FAILED ACCURACY CHECK
+  # Changed from "When did you get outside!?" to "Since when did you get out!?"
 </dialogue>
 <dialogue>
   <info box="left" />
