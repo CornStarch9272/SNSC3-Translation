@@ -89,17 +89,21 @@
       たしかにチガウけど<end_line />
       いっしょの気分なんだよ<end_line />
     </sjis>
+    <ascii>
+      I know that,<end_line />
+      but it feels about the same.<end_line />
+    </ascii>
   </male>
   <female>
     <sjis>
       たしかにチガウけど<end_line />
       いっしょの気分なの<end_line />
     </sjis>
-  </female>
-  <ascii>
-    I know that,<end_line />
-    but it feels about the same.<end_line />
-  </ascii>
+    <ascii>
+      I know that,<end_line />
+      but it feels about the same.<end_line />
+    </ascii>
+  </female>  
 </dialogue>
 <dialogue>
   <partner name="run-dor" />
@@ -124,6 +128,11 @@
       出だしなんだから、気分だけでも<end_line />
       もりあがっていかなくちゃな！<end_line />
     </sjis>
+    <ascii>
+      Well<three_dots /><end_line />
+      We did leave the village.<end_line />
+      At least there's that!<end_line />
+    </ascii>
   </male>
   <female>
     <sjis>
@@ -131,12 +140,13 @@
       出だしなんだから、気分だけでも<end_line />
       もりあがっていかなくちゃね！<end_line />
     </sjis>
+    <ascii>
+      Well<three_dots /><end_line />
+      We did leave the village.<end_line />
+      At least there's that!<end_line />
+    </ascii>
   </female>
-  <ascii>
-    <three_dots />er, sorry!<end_line />
-    We did leave the village,<end_line />
-    at least there's that!<end_line />
-  </ascii>
+  # Changed "Er, sorry" in first line
 </dialogue>
 <dialogue>
   <partner name="run-dor" />
@@ -160,17 +170,21 @@
       よーし！<end_line />
       今日こそプロスバンの町へ行くぞ～！<end_line />
     </sjis>
+    <ascii>
+      Alright!<end_line />
+      We're making it to Prosban today~!<end_line />
+    </ascii>
   </male>
   <female>
     <sjis>
       よーし！<end_line />
       今日こそプロスバンの町へ行くよ！<end_line />
     </sjis>
+    <ascii>
+      Alright!<end_line />
+      We're making it to Prosban today~!<end_line />
+    </ascii>
   </female>
-  <ascii>
-    Alright!<end_line />
-    We're making it to Prosban today~!<end_line />
-  </ascii>
 </dialogue>
 <dialogue>
   <partner name="enzi" />
@@ -195,15 +209,18 @@
     <sjis>
       なんだよ<end_line />
     </sjis>
+    <ascii>
+      Hey, what's that supposed to mean?<end_line />
+    </ascii>
   </male>
   <female>
     <sjis>
       なによ、それ<end_line />
     </sjis>
+    <ascii>
+      Hey, what's that supposed to mean?<end_line />
+    </ascii>
   </female>
-  <ascii>
-    Hey, what's that supposed to mean?<end_line />
-  </ascii>
 </dialogue>
 <dialogue>
   <partner name="enzi" />
@@ -231,17 +248,21 @@
       なんだよ<end_line />
       クサいってことか？<end_line />
     </sjis>
+    <ascii>
+      Scent?<end_line />
+      You mean it smells in here?<end_line />
+    </ascii>
   </male>
   <female>
     <sjis>
       なによ<end_line />
       クサいってこと？<end_line />
     </sjis>
+    <ascii>
+      Scent?<end_line />
+      You mean it smells in here?<end_line />
+    </ascii>
   </female>
-  <ascii>
-    Scent?<end_line />
-    You mean it smells in here?<end_line />
-  </ascii>
 </dialogue>
 <dialogue>
   <partner name="enzi" />
@@ -267,8 +288,9 @@
   </sjis>
   <ascii>
     Unbelievable<three_dots /><end_line />
-    You're so incredibly obtuse.<end_line />
+    You're so incredibly incognizant.<end_line />
   </ascii>
+  # Changed obtuse to "incognizant". Later dialogue suggests its a word the player character has never heard, and I thought obtuse was too common for the player to not know the definition.
 </dialogue>
 <dialogue>
   <partner name="enzi" />
@@ -281,7 +303,7 @@
       臭いにビンカンなことか？<end_line />
     </sjis>
     <ascii>
-      What's obtuse mean?<end_line />
+      What's incognizant mean?<end_line />
       Something to do with smells?<end_line />
     </ascii>
   </male>
@@ -291,7 +313,7 @@
       臭いにビンカンなこと？<end_line />
     </sjis>
     <ascii>
-      Obtuse<three_dots />? What's that?<end_line />
+      Incognizant<three_dots />? What's that?<end_line />
       Something to do with smells?<end_line />
     </ascii>
   </female>
@@ -323,6 +345,11 @@
       今日こそプロスバンの町に！<end_line />
       行かなくちゃな！<end_line />
     </sjis>
+    <ascii>
+      Ah, right!<end_line />
+      We're going to Prosban today!<end_line />
+      This time for sure!<end_line />
+    </ascii>
   </male>
   <female>
     <sjis>
@@ -330,12 +357,12 @@
       今日こそプロスバンの町に！<end_line />
       行かなくちゃ！<end_line />
     </sjis>
+    <ascii>
+      Ah, right!<end_line />
+      We're going to Prosban today!<end_line />
+      This time for sure!<end_line />
+    </ascii>
   </female>
-  <ascii>
-    Ah, right!<end_line />
-    We're going to Prosban today!<end_line />
-    This time for sure!<end_line />
-  </ascii>
 </dialogue>
 <dialogue>
   <partner name="killfith" />
@@ -364,6 +391,11 @@
       オレだって旅行気分を<end_line />
       少しは味わいたいんだよ！<end_line />
     </sjis>
+    <ascii>
+      Hey,<end_line />
+      we're at an inn, this was<end_line />
+      supposed to be like a vacation!<end_line />
+    </ascii>
   </male>
   <female>
     <sjis>
@@ -371,12 +403,12 @@
       わたしだって旅行気分を<end_line />
       少しは味わいたいの！<end_line />
     </sjis>
+    <ascii>
+      Hey,<end_line />
+      we're at an inn, this was<end_line />
+      supposed to be like a vacation!<end_line />
+    </ascii>
   </female>
-  <ascii>
-    Hey,<end_line />
-    we're at an inn, this was<end_line />
-    supposed to be like a vacation!<end_line />
-  </ascii>
 </dialogue>
 <dialogue>
   <partner name="killfith" />

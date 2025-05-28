@@ -23,8 +23,8 @@
     わたしたちも行きましょう！<end_line />
   </sjis>
   <ascii>
-    Okay, okay,<end_line />
-    let's go!<end_line />
+    Okay, okay.<end_line />
+    Let's go!<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -36,17 +36,21 @@
       あの<three_dots /><end_line />
       やっぱりついてくるんだ<three_dots /><end_line />
     </sjis>
+    <ascii>
+      So uh<three_dots /><end_line />
+      You're really coming too<three_dots />?<end_line />
+    </ascii>
   </male>
   <female>
     <sjis>
       あの<three_dots /><end_line />
       やっぱりついてくるの<three_dots />？<end_line />
     </sjis>
+    <ascii>
+      So uh<three_dots /><end_line />
+      You're really coming too<three_dots />?<end_line />
+    </ascii>
   </female>
-  <ascii>
-    So uh<three_dots /><end_line />
-    You're really coming too<three_dots />?<end_line />
-  </ascii>
 </dialogue>
 <dialogue>
   <info box="right" />
@@ -171,17 +175,21 @@
       そっちこそ迷子になるな<three_dots />って<end_line />
       なんだよ、もう<three_dots /><end_line />
     </sjis>
+    <ascii>
+      You're the one who needs to<end_line />
+      worry about getting lost<three_dots /><end_line />
+    </ascii>
   </male>
   <female>
     <sjis>
       そっちこそ迷子になっちゃ<three_dots />って<end_line />
       なによ、もう<three_dots /><end_line />
     </sjis>
+    <ascii>
+      You're the one who needs to<end_line />
+      worry about getting lost<three_dots /><end_line />
+    </ascii>
   </female>
-  <ascii>
-    You're the one who needs to<end_line />
-    worry about getting lost<three_dots /><end_line />
-  </ascii>
 </dialogue>
 <dialogue>
   <info box="right" />
@@ -207,17 +215,21 @@
       ちょっと<three_dots /><end_line />
       なに言ってるんだよ<three_dots /><end_line />
     </sjis>
+    <ascii>
+      Huh<three_dots /><end_line />
+      But<three_dots /><end_line />
+    </ascii>
   </male>
   <female>
     <sjis>
       ちょっと<three_dots /><end_line />
       なに言ってるのよ<three_dots /><end_line />
     </sjis>
+    <ascii>
+      Huh<three_dots /><end_line />
+      But<three_dots /><end_line />
+    </ascii>
   </female>
-  <ascii>
-    Huh<three_dots /><end_line />
-    But<three_dots /><end_line />
-  </ascii>
 </dialogue>
 <dialogue>
   <partner name="run-dor" />
@@ -242,7 +254,7 @@
     お、おー！<end_line />
   </sjis>
   <ascii>
-    Y-yes!<end_line />
+    Y-Yes!<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -268,7 +280,7 @@
     し、承知！<end_line />
   </sjis>
   <ascii>
-    U-understood!<end_line />
+    U-Understood!<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -294,15 +306,18 @@
     <sjis>
       わかったよ<end_line />
     </sjis>
+    <ascii>
+      Right.<end_line />
+    </ascii>
   </male>
   <female>
     <sjis>
       わかったわよ<end_line />
     </sjis>
+    <ascii>
+      Right.<end_line />
+    </ascii>
   </female>
-  <ascii>
-    Right.<end_line />
-  </ascii>
 </dialogue>
 <dialogue>
   <partner name="rufeel" />
@@ -327,7 +342,7 @@
     は、はい！<end_line />
   </sjis>
   <ascii>
-    Y-yes!<end_line />
+    Y-Yes!<end_line />
   </ascii>
 </dialogue>
 <dialogue>
