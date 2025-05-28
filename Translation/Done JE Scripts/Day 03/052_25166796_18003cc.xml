@@ -83,7 +83,7 @@
     はぁ<three_dots /><end_line />
   </sjis>
   <ascii>
-    Sigh<three_dots /><end_line />
+    *Sigh*<three_dots /><end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -121,7 +121,7 @@
     ケ、ケッコン！？<end_line />
   </sjis>
   <ascii>
-    M-marriage!?<end_line />
+    M-Marriage!?<end_line />
   </ascii>
 </bigtext>
 <dialogue>
@@ -134,7 +134,7 @@
     まだないけど<three_dots /><end_line />
   </sjis>
   <ascii>
-    N-no<three_dots /><end_line />
+    N-No<three_dots /><end_line />
     Not yet<three_dots /><end_line />
   </ascii>
 </dialogue>
@@ -148,7 +148,7 @@
     お前、幸せだよ<three_dots /><end_line />
   </sjis>
   <ascii>
-    Sigh<three_dots /> How nice<three_dots /><end_line />
+    *Sigh*<three_dots /> How nice<three_dots /><end_line />
     You're lucky<three_dots /><end_line />
   </ascii>
 </dialogue>
@@ -177,7 +177,7 @@
     か、カンバン娘？<end_line />
   </sjis>
   <ascii>
-    P-poster girl?<end_line />
+    P-Poster girl?<end_line />
   </ascii>
 </bigtext>
 <dialogue>
@@ -298,7 +298,7 @@
       ムカつく！<end_line />
     </sjis>
     <ascii>
-      Wha<three_dots /> What!<end_line />
+      W-What<three_dots />!<end_line />
       You piss me off!<end_line />
     </ascii>
   </male>
@@ -308,7 +308,7 @@
       ムカつく！<end_line />
     </sjis>
     <ascii>
-      Wha<three_dots /> What!<end_line />
+      W-What<three_dots />!<end_line />
       You piss me off!<end_line />
     </ascii>
   </female>
@@ -353,7 +353,7 @@
       知るか、そんなこと！<end_line />
     </sjis>
     <ascii>
-      W-what!<end_line />
+      W-What!<end_line />
       Like I care!<end_line />
     </ascii>
   </male>

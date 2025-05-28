@@ -76,7 +76,6 @@
     A first-rate Craftknight should<end_line />
     be able to deal with this much!<end_line />
   </ascii>
-  # Line 3 over hard limit so I rewrote last 2 lines to fit.
 </dialogue>
 <dialogue>
   <info box="left" />
@@ -87,7 +86,7 @@
       か、鍛冶師は関係ないだろ！？<end_line />
     </sjis>
     <ascii>
-      W-what does being a Craftknight<end_line />
+      W-What does being a Craftknight<end_line />
       have to do with this!?<end_line />
     </ascii>
   </male>
@@ -96,7 +95,7 @@
       か、鍛冶師は関係ないでしょ！？<end_line />
     </sjis>
     <ascii>
-      W-what does being a Craftknight<end_line />
+      W-What does being a Craftknight<end_line />
       have to do with this!?<end_line />
     </ascii>
   </female>
@@ -153,7 +152,7 @@
     で、どうしたの？<end_line />
   </sjis>
   <ascii>
-    A-and? So what?<end_line />
+    A-And? So what?<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -190,8 +189,8 @@
     で、ロブ親方はどうしたの？<end_line />
   </sjis>
   <ascii>
-    Okay okay,<end_line />
-    so, what did Master Rob do?<end_line />
+    Okay okay.<end_line />
+    So, what did Master Rob do?<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -217,7 +216,6 @@
   <ascii>
     Really?<end_line />
   </ascii>
-  # Changed from "Eh?". Eh is more of a japanese thing I think.
 </dialogue>
 <dialogue>
   <info box="right" />
@@ -245,7 +243,6 @@
   <ascii>
     How cool<three_dots /><end_line />
   </ascii>
-  # Removed first line "Huh." because I think it sounds better this way.
 </dialogue>
 <dialogue>
   <info box="right" />
@@ -300,7 +297,6 @@
       be a great Craftknight.<end_line />
     </ascii>
   </female>
-  # Was 2 lines with 35 characters each. I spread it into 3 lines.
 </dialogue>
 <dialogue>
   <info box="left" />

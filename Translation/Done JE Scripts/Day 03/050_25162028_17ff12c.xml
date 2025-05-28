@@ -51,7 +51,7 @@
     あ、<partner /><three_dots /><end_line />
   </sjis>
   <ascii>
-    Ah, <partner /><three_dots /><end_line />
+    <partner /><three_dots /><end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -203,8 +203,7 @@
     なに言ってるんだよ！<end_line />
   </sjis>
   <ascii>
-    Wha<three_dots />!<end_line />
-    What are you saying!<end_line />
+    W-What are you saying!<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -269,8 +268,7 @@
     そんなことないよ！<end_line />
   </sjis>
   <ascii>
-    No<three_dots />!<end_line />
-    No I didn't!<end_line />
+    N-No I didn't!<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -298,8 +296,9 @@
     それは<three_dots /><end_line />
   </sjis>
   <ascii>
-    That's<three_dots /><end_line />
+    I know<three_dots /><end_line />
   </ascii>
+  # Changed from "That's"
 </dialogue>
 <dialogue>
   <partner name="run-dor" />
@@ -326,8 +325,9 @@
     トホホ<three_dots /><end_line />
   </sjis>
   <ascii>
-    Uh<three_dots /> Haha<three_dots /><end_line />
+    Uh<three_dots /> Yeah<three_dots /><end_line />
   </ascii>
+    # Changed "Haha" to Yeah
 </dialogue>
 <dialogue>
   <partner name="enzi" />
@@ -495,8 +495,7 @@
     なに言ってるんだよ！<end_line />
   </sjis>
   <ascii>
-    Wha<three_dots />!<end_line />
-    What are you saying!<end_line />
+    W-What are you saying!<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -561,8 +560,7 @@
     そんなことないよ！<end_line />
   </sjis>
   <ascii>
-    Wha<three_dots />!<end_line />
-    What are you saying!<end_line />
+    W-What are you saying!<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -590,8 +588,9 @@
     それは<three_dots /><end_line />
   </sjis>
   <ascii>
-    That's<three_dots /><end_line />
+    I know<three_dots /><end_line />
   </ascii>
+  # changed from "That's"
 </dialogue>
 <dialogue>
   <partner name="enzi" />
@@ -618,8 +617,9 @@
     トホホ<three_dots /><end_line />
   </sjis>
   <ascii>
-    Uh<three_dots /> Haha<three_dots /><end_line />
+    Uh<three_dots /> Yeah<three_dots /><end_line />
   </ascii>
+  # Changed "Haha" to Yeah
 </dialogue>
 <dialogue>
   <partner name="killfith" />
@@ -687,9 +687,10 @@
     私にそんな気はないぞ<end_line />
   </sjis>
   <ascii>
-    You may work here if you wish,<end_line />
-    but don't include me.<end_line />
+    Go and work here if you want,<end_line/>
+    just leave me out of it.<end_line />
   </ascii>
+    # Changed from "You may work here if you wish, but don't include me."
 </dialogue>
 <dialogue>
   <partner name="killfith" />
@@ -791,8 +792,7 @@
     なに言ってるんだよ！<end_line />
   </sjis>
   <ascii>
-    Wha<three_dots />!<end_line />
-    What are you saying!<end_line />
+    W-What are you saying!<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -857,8 +857,7 @@
     そんなことないよ！<end_line />
   </sjis>
   <ascii>
-    No<three_dots />!<end_line />
-    No I didn't!<end_line />
+    No-No I didn't!<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -1087,8 +1086,7 @@
     なに言ってるんだよ！<end_line />
   </sjis>
   <ascii>
-    Wha<three_dots />!<end_line />
-    What are you saying!<end_line />
+    W-What are you saying!<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -1149,8 +1147,7 @@
     そんなことないよ！<end_line />
   </sjis>
   <ascii>
-    No<three_dots />!<end_line />
-    No I wasn't!<end_line />
+    N-No I wasn't!<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -1176,7 +1173,7 @@
     それは<three_dots /><end_line />
   </sjis>
   <ascii>
-    That's<three_dots /><end_line />
+    I know<three_dots /><end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -1202,7 +1199,8 @@
     トホホ<three_dots /><end_line />
   </sjis>
   <ascii>
-    Uh<three_dots /><end_line />
+    Yeah<three_dots /><end_line />
   </ascii>
+  # changed from "Uh"
 </dialogue>
 </tl_file>

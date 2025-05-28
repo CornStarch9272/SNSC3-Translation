@@ -43,7 +43,6 @@
   <ascii>
     Suspicious Person Confirmed!<end_line />
   </ascii>
-  # Changed Personage to Person.
 </dialogue>
 <dialogue>
 	<partner name="enzi" />
@@ -218,7 +217,6 @@
     We're further in now.<end_line />
     Shouldn't it be cheaper?<end_line />
   </ascii>
-  # Changed second line from "We've already progressed further in."
 </dialogue>
 <dialogue>
 	<info box="right" />
@@ -305,7 +303,6 @@
     Alright, fine.<end_line />
     100 Boam it is, then.<end_line />
   </ascii>
-  # Changed Baum to Boam
 </dialogue>
 <dialogue>
 	<info box="left" />
@@ -515,7 +512,6 @@
   <ascii>
     V.E handed over the money!<end_line />
   </ascii>
-  # Changed Vee to V.E
 </popup>
 <dialogue>
 	<info box="right" />

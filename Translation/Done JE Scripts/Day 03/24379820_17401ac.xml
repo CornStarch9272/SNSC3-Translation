@@ -166,7 +166,7 @@
 			そ、そんなにるすばんがイヤなのか？<end_line />
 		</sjis>
 		<ascii>
-			Y-you really want to go, huh?<end_line />
+			Y-You really want to go, huh?<end_line />
 		</ascii>
 	</male>
 	<female>
@@ -174,7 +174,7 @@
 			そ、そんなにるすばんがイヤなんだ？<end_line />
 		</sjis>
 		<ascii>
-			Y-you really want to go, huh?<end_line />
+			Y-You really want to go, huh?<end_line />
 		</ascii>
 	</female>
 </dialogue>
@@ -241,7 +241,7 @@
 		勝ちたい気持ちは同じですわ！<end_line />
 	</sjis>
 	<ascii>
-		Y-yes!<end_line />
+		Y-Yes!<end_line />
 		We're not completely in sync,<end_line />
 		but we do have the same goal!<end_line />
 	</ascii>
@@ -373,7 +373,7 @@
 		あ、あいつは関係ない！<end_line />
 	</sjis>
 	<ascii>
-		Th-this has nothing to do with her!<end_line />
+		Th-This has nothing to do with her!<end_line />
 	</ascii>
 </dialogue>
 <dialogue>
@@ -596,7 +596,6 @@
 		Are You Certain We Will Not<end_line />
 		Rely On The Guide?<end_line />
 	</ascii>
-	# Added "We" to first line. Incorrect grammar.
 </dialogue>
 <dialogue>
 	<partner name="enzi" />
@@ -687,7 +686,7 @@
 		け、ケンカはダメですよ！<end_line />
 	</sjis>
 	<ascii>
-		D-don't fight!<end_line />
+		D-Don't fight!<end_line />
 	</ascii>
 </dialogue>
 <dialogue>
@@ -845,7 +844,7 @@
 		け、ケンカはダメですよ！<end_line />
 	</sjis>
 	<ascii>
-		D-don't fight!<end_line />
+		D-Don't fight!<end_line />
 	</ascii>
 </dialogue>
 <dialogue>

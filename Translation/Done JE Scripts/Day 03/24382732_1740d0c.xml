@@ -48,8 +48,9 @@
 		承知っ！<end_line />
 	</sjis>
   	<ascii>
-  	  Acknowledged!<end_line />
+  	  Agreed!<end_line />
   	</ascii>
+	# Changed from "Acknowledged"
 </dialogue>
 <dialogue>
 	<partner name="killfith" />
@@ -98,8 +99,9 @@
 		わかりましたわ！<end_line />
 	</sjis>
   <ascii>
-    Understood!<end_line />
+    Yes!<end_line />
   </ascii>
+  # Changed from "Understood"
 </dialogue>
 <dialogue>
 	<partner name="run-dor" />
@@ -169,7 +171,7 @@
 	</sjis>
   <ascii>
     No need to worry.<end_line />
-    She is not match<end_line />
+    She is no match<end_line />
     for our strength.<end_line />
   </ascii>
 </dialogue>
@@ -287,7 +289,6 @@
   <ascii>
     Let's escort Tier back to Marnail.<end_line />
   </ascii>
-  # Changed Marneil to Marnail.
 </dialogue>
 <dialogue>
 	<info box="right" />
@@ -591,8 +592,9 @@
 		へぇ、そうなんだ<end_line />
 	</sjis>
   <ascii>
-    Hmm, is that so.<end_line />
+    If you say so.<end_line />
   </ascii>
+  # Changed from "Hmm, is that so."
 </dialogue>
 <dialogue>
 	<partner name="enzi" />
