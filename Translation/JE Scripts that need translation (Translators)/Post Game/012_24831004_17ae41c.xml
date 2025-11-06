@@ -1,0 +1,26 @@
+<tl_file>
+	<location>
+		<sjis>
+			ディックル村<end_line />
+		</sjis>
+		<ascii>
+			Deckell Village<end_line />
+		</ascii>
+	</location>
+	<location>
+		<sjis>
+			ディックル村　鉱洞入り口<end_line />
+		</sjis>
+		<ascii>
+			Deckell Village　Mine Entrance<end_line />
+		</ascii>
+	</location>
+	<dialogue>
+		<info box="simple" />
+		<portrait_l name="man" />
+		<sjis>
+			平和と健康<end_line />
+			これが大切だね<end_line />
+		</sjis>
+	</dialogue>
+</tl_file>

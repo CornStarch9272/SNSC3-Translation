@@ -1,0 +1,15 @@
+<tl_file>
+	<location>
+		<sjis>
+			プロスバンの町　民家Ｂ<end_line />
+		</sjis>
+		<ascii>
+			Prosban　Villager's House B<end_line />
+		</ascii>
+	</location>
+	<dialogue>
+		<sjis>
+			ゴロゴロ<three_dots /><end_line />
+		</sjis>
+	</dialogue>
+</tl_file>

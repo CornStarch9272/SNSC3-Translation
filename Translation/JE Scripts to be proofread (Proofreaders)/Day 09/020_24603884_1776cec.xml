@@ -1,0 +1,20 @@
+<tl_file>
+	<location>
+		<sjis>
+			村長の家　広間<end_line />
+		</sjis>
+		<ascii>
+			Mayor's house　Hall<end_line />
+		</ascii>
+	</location>
+	<dialogue>
+		<info box="simple" />
+		<portrait_l name="chief" />
+		<sjis>
+			どんな時も油断はするなよ<end_line />
+		</sjis>
+		<ascii>
+			Be prepeared for anything.<end_line />
+		</ascii>
+	</dialogue>
+</tl_file>

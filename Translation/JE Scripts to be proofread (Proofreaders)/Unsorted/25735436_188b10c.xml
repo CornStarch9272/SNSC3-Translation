@@ -1,0 +1,50 @@
+<tl_file>
+	<dialogue>
+		<info box="right" />
+		<portrait_l entry="player" eye="serious" mouth="neutral" />
+		<portrait_r entry="thus" eye="serious" mouth="talk" />
+		<male>
+			<sjis>
+				<player_nickname />くんのカツヤク<end_line />
+			</sjis>
+			<ascii>
+				<player_nickname /> did it!<end_line />
+			</ascii>
+		</male>
+		<female>
+			<sjis>
+				<player_nickname />ちゃんのカツヤク<end_line />
+			</sjis>
+			<ascii>
+				<player_nickname /> did it!<end_line />
+			</ascii>
+		</female>
+	</dialogue>
+	<dialogue>
+		<info box="right" />
+		<portrait_l entry="player" eye="serious" mouth="neutral" />
+		<portrait_r entry="thus" eye="serious" mouth="talk" />
+		<sjis>
+			ティエから聞いたよ<end_line />
+			本当にスゴイ鍛冶師だ、君は！<end_line />
+		</sjis>
+		<ascii>
+			I heard from Tier!<end_line />
+			You really are an<end_line />
+			amazing Craftknight!<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<info box="right" />
+		<portrait_l entry="player" eye="serious" mouth="neutral" />
+		<portrait_r entry="thus" eye="happy" mouth="neutral" />
+		<sjis>
+			私も君がこの宿を手伝ってくれると<end_line />
+			本当にうれしいよ<end_line />
+		</sjis>
+		<ascii>
+			I'd also be very happy if you<end_line />
+			would come to help at our inn.<end_line />
+		</ascii>
+	</dialogue>
+</tl_file>

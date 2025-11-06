@@ -1,0 +1,33 @@
+<tl_file>
+	<location>
+		<sjis>
+			マーネイル宿場<end_line />
+		</sjis>
+		<ascii>
+			Marnail Post Station<end_line />
+		</ascii>
+	</location>
+	<location>
+		<sjis>
+			マーネイル宿場　ほほえみ亭前<end_line />
+		</sjis>
+		<ascii>
+			Marnail Post Station　Smile Inn<end_line />
+		</ascii>
+	</location>
+	<dialogue>
+		<info box="simple" />
+		<portrait_l name="man" />
+		<sjis>
+			なかなか良い所だね、ここ<end_line />
+		</sjis>
+	</dialogue>
+	<dialogue>
+		<info box="simple" />
+		<portrait_l name="woman" />
+		<sjis>
+			ドリルって<end_line />
+			いろいろ削れて便利よね<end_line />
+		</sjis>
+	</dialogue>
+</tl_file>

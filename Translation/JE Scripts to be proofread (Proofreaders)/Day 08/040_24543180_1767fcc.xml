@@ -1,0 +1,37 @@
+<tl_file>
+	<location>
+		<sjis>
+			村長の家　広間<end_line />
+		</sjis>
+		<ascii>
+			Mayor's house　Hall<end_line />
+		</ascii>
+	</location>
+	<dialogue>
+		<info box="simple" />
+		<portrait_l name="chief" />
+		<sjis>
+			やらなきゃならんことがあるなら<end_line />
+			今はそれに全力を注げ<end_line />
+		</sjis>
+		<ascii>
+			If there is something <end_line />
+			you just have to do,<end_line />
+			focus only on that one task.<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<info box="simple" />
+		<portrait_l name="man" />
+		<sjis>
+			あ〜何だ<end_line />
+			その〜あれだ<end_line />
+			ま〜そういうことだ<end_line />
+		</sjis>
+		<ascii>
+			Ah~ well.<end_line />
+			Whats that~ you know~<end_line />
+			Well~ That's how it is.<end_line />
+		</ascii>
+	</dialogue>
+</tl_file>

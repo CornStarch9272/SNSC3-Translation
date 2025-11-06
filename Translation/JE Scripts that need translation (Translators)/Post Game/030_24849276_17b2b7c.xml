@@ -1,0 +1,29 @@
+<tl_file>
+	<location>
+		<sjis>
+			プロスバンの町　駅<end_line />
+		</sjis>
+		<ascii>
+			Prosban　Station<end_line />
+		</ascii>
+	</location>
+	<dialogue>
+		<sjis>
+			はれたひは<end_line />
+			じっとなんかしていられない<end_line />
+			まちのそとはちょっとキケンだけど<end_line />
+		</sjis>
+	</dialogue>
+	<dialogue>
+		<sjis>
+			りゆうなんていらない<end_line />
+			のはらをかけぬけ　かわをこえ<end_line />
+			いきたいところへ<end_line />
+		</sjis>
+	</dialogue>
+	<dialogue>
+		<sjis>
+			しゅうちゃくえきなんてないのだから<end_line />
+		</sjis>
+	</dialogue>
+</tl_file>

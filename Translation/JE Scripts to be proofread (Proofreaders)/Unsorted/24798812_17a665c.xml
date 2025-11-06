@@ -1,0 +1,24 @@
+<tl_file>
+	<location>
+		<sjis>
+			金の派閥　エントランス<end_line />
+		</sjis>
+		<ascii>
+			Gold Faction　Entrance<end_line />
+		</ascii>
+	</location>
+	<dialogue>
+		<info box="simple" />
+		<portrait_l name="man" />
+		<sjis>
+			ベルヴォレン派<end_line />
+			抜けちゃいました<end_line />
+			これからは無派閥時代ですよね<end_line />
+		</sjis>
+		<ascii>
+			I've left Velworen's side.<end_line />
+			From now on, I'll stick<end_line />
+			with no sides.<end_line />
+		</ascii>
+	</dialogue>
+</tl_file>

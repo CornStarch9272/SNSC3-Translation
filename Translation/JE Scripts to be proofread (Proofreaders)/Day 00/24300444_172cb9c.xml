@@ -1,0 +1,22 @@
+<tl_file>
+	<location>
+		<sjis>
+			村長の家　広間<end_line />
+		</sjis>
+		<ascii>
+			Mayor's house　Hall<end_line />
+		</ascii>
+	</location>
+	<dialogue>
+		<info box="simple" />
+		<portrait_l name="chief" />
+		<sjis>
+			武器の手入れは<end_line />
+			なまけちゃいかんな<end_line />
+		</sjis>
+		<ascii>
+			Don't be careless,<end_line />
+			take care of your weapons.<end_line />
+		</ascii>
+	</dialogue>
+</tl_file>

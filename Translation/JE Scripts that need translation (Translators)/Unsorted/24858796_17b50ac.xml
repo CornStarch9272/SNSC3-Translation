@@ -1,0 +1,27 @@
+<tl_file>
+	<location>
+		<sjis>
+			ベンソン工房　エントランス<end_line />
+		</sjis>
+		<ascii>
+			Benson's Workshop　Entrance<end_line />
+		</ascii>
+	</location>
+	<dialogue>
+		<sjis>
+			武器を鍛える前に<end_line />
+			まずは己を鍛えるべし<end_line />
+		</sjis>
+		<ascii>
+			Before you forge your weapon,<end_line />
+			first you must forge yourself.<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<sjis>
+			　<lesser_than />エリエからのおねがい<music_note /><end_line />
+			つかったどうぐは、ちゃあんと<end_line />
+			もとのばしょに　もどしてね！<end_line />
+		</sjis>
+	</dialogue>
+</tl_file>

@@ -1,0 +1,29 @@
+<tl_file>
+	<location>
+		<sjis>
+			スポート洞窟<end_line />
+		</sjis>
+		<ascii>
+			Spoat Grotto<end_line />
+		</ascii>
+	</location>
+	<location>
+		<sjis>
+			スポート洞窟　エリア１０<end_line />
+		</sjis>
+		<ascii>
+			Spoat Grotto　Area 10<end_line />
+		</ascii>
+	</location>
+	<dialogue>
+		<info box="simple" />
+		<portrait_l name="player" />
+		<sjis>
+			あまり奥に行かないほうがいいかな<three_dots /><end_line />
+		</sjis>
+		<ascii>
+			It's probably best to not go<end_line />
+			too far in.<end_line />
+		</ascii>
+	</dialogue>
+</tl_file>

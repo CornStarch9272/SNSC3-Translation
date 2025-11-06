@@ -1,0 +1,40 @@
+<tl_file>
+	<dialogue>
+		<sjis>
+			けいこく！<end_line />
+			このままダンジョンへ出ると<end_line />
+			ポータルがリセットされます<end_line />
+		</sjis>
+		<ascii>
+			Warning!<end_line />
+			If you continue to the dungeon<end_line />
+			the portal will reset.<end_line />
+		</ascii>
+	</dialogue>
+	<menu>
+		<title>
+			<sjis>
+				よろしいですか？<end_line />
+			</sjis>
+			<ascii>
+				Are you sure?<end_line />
+			</ascii>
+		</title>
+		<option>
+			<sjis>
+				はい<end_line />
+			</sjis>
+			<ascii>
+				Yes<end_line />
+			</ascii>
+		</option>
+		<option>
+			<sjis>
+				いいえ<end_line />
+			</sjis>
+			<ascii>
+				No<end_line />
+			</ascii>
+		</option>
+	</menu>
+</tl_file>

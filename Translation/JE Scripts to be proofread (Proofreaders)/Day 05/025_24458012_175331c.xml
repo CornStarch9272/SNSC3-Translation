@@ -1,0 +1,126 @@
+<tl_file>
+	<location>
+		<sjis>
+			プロスバンの町　住宅街階段<end_line />
+		</sjis>
+		<ascii>
+			Prosban　Suburbs Stairway<end_line />
+		</ascii>
+	</location>
+	<dialogue>
+		<info box="simple" />
+		<portrait_l name="child" />
+		<sjis>
+			ねぇ、しゅらばごっこしようよ<end_line />
+			ボクがばかにしないで〜って<end_line />
+			まわしげりするから<end_line />
+		</sjis>
+		<ascii>
+			Hey, let's pretend we're fighting.<end_line />
+			Don't treat me like an idiot~<end_line />
+			I'll roundhouse kick you.<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<info box="simple" />
+		<portrait_l name="child" />
+		<sjis>
+			キミはひたすらあやまるの<end_line />
+		</sjis>
+		<ascii>
+			Apologize!<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<info box="simple" />
+		<portrait_l name="man" />
+		<sjis>
+			なんとかならない？<end_line />
+			この前なんて<end_line />
+			なぐられた、いや蹴られたよ<end_line />
+		</sjis>
+		<ascii>
+			Can you do something about this?<end_line />
+			Earlier that kid hit,<end_line />
+			er no, kicked me.<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<info box="simple" />
+		<portrait_l name="man" />
+		<sjis>
+			ナックル装備はフェイントで<end_line />
+			回し蹴りだったよ<end_line />
+		</sjis>
+		<ascii>
+			He feinted me with his knuckles<end_line />
+			before roundhouse kicking me.<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<info box="simple" />
+		<portrait_l name="man" />
+		<sjis>
+			プロスバンの町を守るのは君だ！<end_line />
+			プロスバン自警団では新たな仲間を<end_line />
+			募集しています<end_line />
+		</sjis>
+		<ascii>
+			You too can protect Prosban!<end_line />
+			The Prosban Vigilante Corps<end_line />
+			is now accepting applications.<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<info box="simple" />
+		<portrait_l name="man" />
+		<sjis>
+			マキ割りアルバイト募集中<end_line />
+			詳細はマーネイル宿場<end_line />
+			ほほえみ亭横　マキおやじまで<end_line />
+		</sjis>
+		<ascii>
+			Part time position available.<end_line />
+			Involves chopping firewood.<end_line />
+			Inquire at Marneil Station.<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<info box="simple" />
+		<portrait_l name="man" />
+		<sjis>
+			　<end_line />
+			　　　　　〜困ってます〜<end_line />
+		</sjis>
+		<ascii>
+			　<end_line />
+			　　　　~I'm in Trouble~<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<info box="simple" />
+		<portrait_l name="man" />
+		<sjis>
+			私、すぐへいにぶつかっちゃうんです<end_line />
+			ぶつからない方法、ないかしら？<end_line />
+		</sjis>
+		<ascii>
+			I always seem to run into fences.<end_line />
+			Is there a way to avoid that?<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<info box="simple" />
+		<portrait_l name="man" />
+		<sjis>
+			ここは鉱石と鍛冶の町<end_line />
+			鍛冶職人なら客の望む武器を<end_line />
+			鍛えよ！<end_line />
+		</sjis>
+		<ascii>
+			This is the city of smithies.<end_line />
+			All of us here live to<end_line />
+			forge weapons!<end_line />
+		</ascii>
+	</dialogue>
+</tl_file>

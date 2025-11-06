@@ -1,0 +1,30 @@
+<tl_file>
+	<location>
+		<sjis>
+			ディックル村<end_line />
+		</sjis>
+		<ascii>
+			Deckell Village<end_line />
+		</ascii>
+	</location>
+	<location>
+		<sjis>
+			ディックル村　鉱洞入り口<end_line />
+		</sjis>
+		<ascii>
+			Deckell Village　Mine Entrance<end_line />
+		</ascii>
+	</location>
+	<dialogue>
+		<info box="simple" />
+		<portrait_l name="woman" />
+		<sjis>
+			あら、おかえり<end_line />
+			町はどうだった？<end_line />
+		</sjis>
+		<ascii>
+			My, you're back<end_line />
+			How was the city?<end_line />
+		</ascii>
+	</dialogue>
+</tl_file>

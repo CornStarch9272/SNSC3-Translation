@@ -1,0 +1,23 @@
+<tl_file>
+	<location>
+		<sjis>
+			村長の家　道具屋<end_line />
+		</sjis>
+		<ascii>
+			Mayor's house　second-hand shop<end_line />
+		</ascii>
+	</location>
+	<location>
+		<sjis>
+			村長の家　道具屋<end_line />
+		</sjis>
+		<ascii>
+			Mayor's house　second-hand shop<end_line />
+		</ascii>
+	</location>
+	<dialogue>
+		<sjis>
+			ゴロゴロ<three_dots /><end_line />
+		</sjis>
+	</dialogue>
+</tl_file>
