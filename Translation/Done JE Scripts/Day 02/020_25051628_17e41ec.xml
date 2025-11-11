@@ -211,7 +211,7 @@
 			アナタノ　オ兄サン　デスカ？<end_line />
 		</sjis>
 		<ascii>
-			Bro?<end_line />
+			"Bro"?<end_line />
 			Is He Part Of Your Family?<end_line />
 		</ascii>
 	</dialogue>
@@ -249,7 +249,7 @@
 			おぬし、兄がいたのか？<end_line />
 		</sjis>
 		<ascii>
-			Bro?<end_line />
+			"Bro"?<end_line />
 			You have a brother?<end_line />
 		</ascii>
 	</dialogue>
@@ -287,7 +287,7 @@
 			キサマ、兄がいたのか<end_line />
 		</sjis>
 		<ascii>
-			Bro<three_dots />？<end_line />
+			"Bro"<three_dots />？<end_line />
 			So you have a brother?<end_line />
 		</ascii>
 	</dialogue>
@@ -326,7 +326,7 @@
 			いたんですか？<end_line />
 		</sjis>
 		<ascii>
-			Bro?<end_line />
+			"Bro"?<end_line />
 			You had a brother?<end_line />
 		</ascii>
 	</dialogue>

@@ -411,7 +411,7 @@
 			ん？<end_line />
 		</sjis>
 		<ascii>
-			.....<end_line />
+			<three_dots /><three_dots /><end_line />
 			Hm?<end_line />
 		</ascii>
 	</dialogue>

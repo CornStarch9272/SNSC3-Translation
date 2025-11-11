@@ -22,7 +22,7 @@
 		</sjis>
 		<ascii>
 			A Stray Summon<three_dots /><end_line />
-			Is that the one Zakk mentioned<three_dots />?<end_line />
+			Is that the one Zakk mentioned?<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -106,7 +106,7 @@
 			</sjis>
 			<ascii>
 				This is the only way out<three_dots /><end_line />
-				We have to make it move<three_dots />!<end_line />
+				We have to make it move!<end_line />
 			</ascii>
 		</male>
 		<female>
@@ -117,7 +117,7 @@
 			</sjis>
 			<ascii>
 				This is the only way out<three_dots /><end_line />
-				We have to make it move<three_dots />!<end_line />
+				We have to make it move!<end_line />
 			</ascii>
 		</female>
 	</dialogue>
@@ -134,7 +134,7 @@
 		<ascii>
 			Understood.<end_line />
 			I Conclude That Our Likelyhood<end_line />
-			Of Victory is 100%.<end_line />
+			Of Victory Is 100%.<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -287,8 +287,6 @@
 				Yeah!<end_line />
 				Together, we won't lose!<end_line />
 			</ascii>
-			# Failed Accuracy Check
-			# Changed from "Yeah! Let's do it!"
 		</male>
 		<female>
 			<sjis>
@@ -299,8 +297,6 @@
 				Yeah!<end_line />
 				Together, we won't lose!<end_line />
 			</ascii>
-			# Failed Accuracy Check
-			# Changed from "Yeah! Let's do it!"
 		</female>
 	</dialogue>
 	<dialogue>
@@ -359,7 +355,7 @@
 			絶対に勝てますわ<end_line />
 		</sjis>
 		<ascii>
-			I-it's okay.<end_line />
+			O-Okay.<end_line />
 			Together<three_dots /><end_line />
 			We'll definitely win!<end_line />
 		</ascii>

@@ -109,8 +109,8 @@
 		</sjis>
 		<ascii>
 			As expected,<end_line />
-			a frontal assault<end_line />
-			seems impossible.<end_line />
+			a frontal assault seems<end_line />
+			impossible.<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -139,8 +139,8 @@
 			どうしましょう<three_dots />？<end_line />
 		</sjis>
 		<ascii>
-			Looks like we can't<end_line />
-			just barge in, huh<three_dots />?<end_line />
+			Looks like we can't just<end_line />
+			barge in, huh?<end_line />
 			What shall we do<three_dots />?<end_line />
 		</ascii>
 	</dialogue>
