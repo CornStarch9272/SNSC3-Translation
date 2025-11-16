@@ -53,8 +53,8 @@
 		</sjis>
 		<ascii>
 			Oh man~<three_dots /><end_line />
-			Like I thought, getting<end_line />
-			pissed off was a bad idea<three_dots /><end_line />
+			Like I thought, I'm too pissed<end_line />
+			to be sneaking around<three_dots /><end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -119,8 +119,8 @@
 			やっぱ気になってな<three_dots /><end_line />
 		</sjis>
 		<ascii>
-			You see, Vee told me to<end_line />
-			not say anything,<end_line />
+			You see, V.E told me<end_line />
+			not to say anything,<end_line />
 			but it really bothers me<three_dots /><end_line />
 		</ascii>
 	</dialogue>
@@ -173,7 +173,7 @@
 			<player_nickname /><three_dots /><end_line />
 		</sjis>
 		<ascii>
-			<three_dots /><end_line />
+			<player_nickname /><three_dots /><end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -225,8 +225,8 @@
 		</sjis>
 		<ascii>
 			I know, I know.<end_line />
-			I'll stay out of your way.<end_line />
-			I said 'just in case', you know.<end_line />
+			I'll stay out of the way.<end_line />
+			I said "just in case", you know.<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -237,7 +237,7 @@
 			ありがとう、アニキ<end_line />
 		</sjis>
 		<ascii>
-			Thanks Bro. I appreciate it.<end_line />
+			Thanks Bro.<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -252,7 +252,7 @@
 		<ascii>
 			Don't mention it.<end_line />
 			But seriously,<end_line />
-			stop calling me 'Bro'!<end_line />
+			stop calling me "Bro"!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
