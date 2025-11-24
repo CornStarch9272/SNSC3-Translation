@@ -444,7 +444,7 @@
 		</sjis>
 		<ascii>
 			<three_dots /><end_line />
-			Are you sure you have a brain?<end_line />
+			I guess they can be<three_dots /><end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -690,6 +690,10 @@
 			なんとかして町へ続く道へ<end_line />
 			出てやるぜ！<end_line />
 		</sjis>
+		<ascii>
+			First we need to find a<end_line />
+			way to the road!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<player gender="female" />
@@ -701,7 +705,7 @@
 			出てみせるから！<end_line />
 		</sjis>
 		<ascii>
-			The road out of town!<end_line />
+			A WAY TO THE ROAD!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -804,8 +808,8 @@
 			通行ハ　可能デスガ<end_line />
 		</sjis>
 		<ascii>
-			You May Eliminate The Gatekeeper.<end_line />
-			Then, Passage Will Be Possible.<end_line />
+			If You Eliminate The Gatekeeper,<end_line />
+			Then Passage Will Be Possible.<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -818,6 +822,11 @@
 			そんなことしたら今度は<end_line />
 			帰れなくなるだろ！<end_line />
 		</sjis>
+		<ascii>
+			Eliminate<three_dots /><end_line />
+			If I did that,<end_line />
+			they wouldn't let me back in!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<player gender="female" />
@@ -844,7 +853,7 @@
 			ナルホド<end_line />
 		</sjis>
 		<ascii>
-			<three_dots /><end_line />
+			I Understand<three_dots /><end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -872,8 +881,8 @@
 			どかしてみせようぞ<end_line />
 		</sjis>
 		<ascii>
-			If you're okay with scaring him off,<end_line />
-			I can always try a war cry.<end_line />
+			I could always scare him off<end_line />
+			with a war cry.<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -901,7 +910,7 @@
 			うにゃーお！！<end_line />
 		</sjis>
 		<ascii>
-			Unyaaaaoh!!<end_line />
+			UnyaAAAohh!!<end_line />
 		</ascii>
 	</bigtext>
 	<dialogue>
@@ -915,7 +924,7 @@
 		</sjis>
 		<ascii>
 			<three_dots /><end_line />
-			Guess I'll have to train<three_dots /><end_line />
+			Guess I'll go train<three_dots /><end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -1037,7 +1046,7 @@
 		</sjis>
 		<ascii>
 			I'm sure there's a way around<end_line />
-			through Deikle Mine.<end_line />
+			through Deckell Mine.<end_line />
 			Let's check it out!<end_line />
 		</ascii>
 	</dialogue>
@@ -1081,7 +1090,7 @@
 		</sjis>
 		<ascii>
 			I'm sure there's a way around<end_line />
-			through Deikle Mine.<end_line />
+			through Deckell Mine.<end_line />
 			Let's check it out!<end_line />
 		</ascii>
 	</dialogue>
@@ -1096,8 +1105,8 @@
 			行ってみる価値はあるの<end_line />
 		</sjis>
 		<ascii>
-			Certainly, you are more <end_line />
-			knowledgable than I of the<end_line />
+			Certainly, you are more<end_line />
+			knowledgeable than I of the<end_line />
 			geography of this region.<end_line />
 		</ascii>
 	</dialogue>
@@ -1110,6 +1119,9 @@
 			チョウ？<end_line />
 			なんだそれ？<end_line />
 		</sjis>
+		<ascii>
+			Meaning?<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<player gender="female" />
@@ -1121,7 +1133,7 @@
 			なにそれ？<end_line />
 		</sjis>
 		<ascii>
-			What's that?<end_line />
+			Meaning?<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -1135,9 +1147,7 @@
 			安心せい<end_line />
 		</sjis>
 		<ascii>
-			It's okay.<end_line />
-			It's totally fine you<end_line />
-			don't know anything.<end_line />
+			It's a compliment.<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -1152,7 +1162,7 @@
 		</sjis>
 		<ascii>
 			I'm sure there's a way around<end_line />
-			through Deikle Mine.<end_line />
+			through Deckell Mine.<end_line />
 			Let's check it out!<end_line />
 		</ascii>
 	</dialogue>
@@ -1196,7 +1206,7 @@
 		</sjis>
 		<ascii>
 			I'm sure there's a way around<end_line />
-			through Deikle Mine.<end_line />
+			through Deckell Mine.<end_line />
 			Let's check it out!<end_line />
 		</ascii>
 	</dialogue>
@@ -1222,7 +1232,7 @@
 			こわくないから<end_line />
 		</sjis>
 		<ascii>
-			It'l be fine!<end_line />
+			It'll be fine!<end_line />
 			The mine isn't scary at all.<end_line />
 		</ascii>
 	</dialogue>
@@ -1282,7 +1292,7 @@
 		<ascii>
 			Registering New Route.<end_line />
 			<three_dots /><three_dots /><three_dots /><three_dots /><three_dots /><three_dots /><three_dots /><three_dots /><end_line />
-			Complete.<end_line />
+			Registration Complete.<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -1297,7 +1307,7 @@
 		</sjis>
 		<ascii>
 			(I can tell <partner /> is trying,<end_line />
-			but I wish they'd reply<three_dots />)<end_line />
+			　but I wish they'd reply<three_dots />)<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -1338,7 +1348,7 @@
 			とも言うからの<end_line />
 		</sjis>
 		<ascii>
-			Right.<end_line />
+			Indeed.<end_line />
 			Jump right into the tiger's den,<end_line />
 			as they say.<end_line />
 		</ascii>
@@ -1609,7 +1619,7 @@
 			戻って聞きに行こう<end_line />
 		</sjis>
 		<ascii>
-			Seems Brother has some <end_line />
+			Seems Bro has some <end_line />
 			business with Master.<end_line />
 			We should go find them.<end_line />
 		</ascii>
@@ -1627,7 +1637,7 @@
 		<ascii>
 			Let Us Hurry.<end_line />
 			I Do Not Trust This Man<end_line />
-			You Call Brother.<end_line />
+			You Call Bro.<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -1640,6 +1650,11 @@
 			アニキは親方の知り合いで<end_line />
 			いい人だって！<end_line />
 		</sjis>
+		<ascii>
+			That's not true.<end_line />
+			Bro and Master are cool,<end_line />
+			and he's a good person!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<player gender="female" />
@@ -1678,7 +1693,7 @@
 			戻って聞きに行こう<end_line />
 		</sjis>
 		<ascii>
-			Seems Brother has some <end_line />
+			Seems Bro has some <end_line />
 			business with Master.<end_line />
 			We should go find them.<end_line />
 		</ascii>
@@ -1696,7 +1711,7 @@
 		<ascii>
 			Let us hurry!<end_line />
 			We don't know what kind of mess this<end_line />
-			Brother person may be causing.<end_line />
+			Bro person may be causing.<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -1709,6 +1724,11 @@
 			アニキは親方の知り合いで<end_line />
 			いい人だって！<end_line />
 		</sjis>
+		<ascii>
+			I'm sure it's fine.<end_line />
+			Bro and Master are cool,<end_line />
+			and he's a good person!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<player gender="female" />
@@ -1798,7 +1818,7 @@
 			戻って聞きに行こう<end_line />
 		</sjis>
 		<ascii>
-			Seems Brother has some <end_line />
+			Seems Bro has some <end_line />
 			business with Master.<end_line />
 			We should go find them.<end_line />
 		</ascii>
@@ -1829,7 +1849,7 @@
 		</sjis>
 		<ascii>
 			But<three_dots /><end_line />
-			Brother's a good person.<end_line />
+			Bro's a good person.<end_line />
 			Even Murno thinks so.<end_line />
 		</ascii>
 	</dialogue>
@@ -1845,8 +1865,7 @@
 		</sjis>
 		<ascii>
 			Tch<three_dots /><end_line />
-			So naive<three_dots /><end_line />
-			That person is<three_dots /><end_line />
+			She's so naive<three_dots /><end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -1872,6 +1891,10 @@
 			はぁ<three_dots /><end_line />
 			ちょっと待てよ！<end_line />
 		</sjis>
+		<ascii>
+			*pant*<three_dots /><end_line />
+			Wait a minute!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<player gender="female" />
@@ -1896,7 +1919,7 @@
 			戻って聞きに行こう<end_line />
 		</sjis>
 		<ascii>
-			Seems Brother has some <end_line />
+			Seems Bro has some <end_line />
 			business with Master.<end_line />
 			We should go find them.<end_line />
 		</ascii>
@@ -1927,6 +1950,11 @@
 			アニキは顔はコワイけど<end_line />
 			いい人だって！<end_line />
 		</sjis>
+		<ascii>
+			He's not dangerous!<end_line />
+			Bro and Master are cool,<end_line />
+			and he's a good person!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<player gender="female" />
@@ -1981,7 +2009,7 @@
 		<ascii>
 			Bro must have said<end_line />
 			something rude to Murno.<end_line />
-			I have to tell him off!<end_line />
+			I'll ask him to be more careful!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -2023,7 +2051,7 @@
 		<ascii>
 			Bro must have said<end_line />
 			something rude to Murno.<end_line />
-			I have to tell him off!<end_line />
+			I'll ask him to be more careful!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -2038,7 +2066,7 @@
 		</sjis>
 		<ascii>
 			He doesn't appear to have<end_line />
-			touched her, but still,<end_line />
+			harmed her, but still,<end_line />
 			forcing her outside is rude!<end_line />
 		</ascii>
 	</dialogue>
@@ -2079,7 +2107,7 @@
 		<ascii>
 			Bro must have said<end_line />
 			something rude to Murno.<end_line />
-			I have to tell him off!<end_line />
+			I'll ask him to be more careful!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -2135,7 +2163,7 @@
 		<ascii>
 			Bro must have said<end_line />
 			something rude to Murno.<end_line />
-			I have to tell him off!<end_line />
+			I'll ask him to be more careful!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -2226,7 +2254,7 @@
 			　しかられてるんだろ<three_dots />）<end_line />
 		</sjis>
 		<ascii>
-			why am I being scolded<three_dots />)<end_line />
+			　why am I being scolded<three_dots />)<end_line />
 		</ascii>
 	</dialogue>
 </tl_file>
