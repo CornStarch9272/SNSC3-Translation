@@ -52,7 +52,7 @@
 			預けられそうな武器が無いぞ<end_line />
 		</sjis>
 		<ascii>
-			You have no weapons to drop off.<end_line />
+			Doesn't look like you have any.<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>

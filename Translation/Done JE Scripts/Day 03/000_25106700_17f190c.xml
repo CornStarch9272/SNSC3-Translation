@@ -80,7 +80,7 @@
 			脳天気なやつだ<three_dots /><end_line />
 		</sjis>
 		<ascii>
-			You're too careless<three_dots /><end_line />
+			Calm down boy<three_dots /><end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -125,9 +125,8 @@
 			しっかりしてくれよ<end_line />
 		</sjis>
 		<ascii>
-			You're being pessimistic.<end_line />
-			Get it together already.<end_line />
-			We still have to fight Master.<end_line />
+			We're fighting Master this time!<end_line />
+			We need to go all out!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -141,9 +140,9 @@
 			るすばんさせられるんだからさ<end_line />
 		</sjis>
 		<ascii>
-			Forget Murno for a second,<end_line />
-			we're going to be stuck here<end_line />
-			with nothing to do if we lose.<end_line />
+			And you know<three_dots /><end_line />
+			If we lose, Murno's going<end_line />
+			to be stuck here too.<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -157,9 +156,8 @@
 			しっかりしてよね<end_line />
 		</sjis>
 		<ascii>
-			You're being pessimistic.<end_line />
-			Get it together already.<end_line />
-			We still have to fight Master.<end_line />
+			We're fighting Master this time!<end_line />
+			We need to give it our all!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -173,9 +171,9 @@
 			るすばんさせられちゃうんだから<end_line />
 		</sjis>
 		<ascii>
-			Forget Murno for a second,<end_line />
-			we're going to be stuck here<end_line />
-			with nothing to do if we lose.<end_line />
+			And you know<three_dots /><end_line />
+			If we lose, Murno's going<end_line />
+			to be stuck here too.<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -201,7 +199,7 @@
 		</sjis>
 		<ascii>
 			Understood.<end_line />
-			I Guarantee Our Victory!<end_line />
+			We Will Win At Any Cost!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -227,8 +225,8 @@
 			絶対に負けられん！<end_line />
 		</sjis>
 		<ascii>
-			Hm.	Very well.<end_line />
-			Then we must win!<end_line />
+			Very well, then.<end_line />
+			We must win!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -280,7 +278,7 @@
 		</sjis>
 		<ascii>
 			Okay!<end_line />
-			We'll win no matter what!<end_line />
+			We have to win no matter what!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>

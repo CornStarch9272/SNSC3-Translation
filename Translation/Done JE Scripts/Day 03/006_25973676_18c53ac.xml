@@ -31,9 +31,8 @@
 			お礼に、これを上げよう<end_line />
 		</sjis>
 		<ascii>
-			I'll give you this as thanks.<end_line />
-		</ascii>
-		
+			Take this<three_dots /><end_line />
+		</ascii>		
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -52,7 +51,7 @@
 			なんだ、渡してくれんのか<end_line />
 		</sjis>
 		<ascii>
-			What, you're not gonna give it?<end_line />
+			Oh, it's not for me<three_dots />?<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -83,9 +82,8 @@
 			お礼に、これを上げよう<end_line />
 		</sjis>
 		<ascii>
-			I'll give you this as thanks.<end_line />
-		</ascii>
-		
+			Take this<three_dots /><end_line />
+		</ascii>		
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -104,7 +102,7 @@
 			なんだ、渡してくれんのか<end_line />
 		</sjis>
 		<ascii>
-			What, you're not gonna give it?<end_line />
+			Oh, it's not for me<three_dots />?<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -183,8 +181,7 @@
 		</sjis>
 		<ascii>
 			Hey, the Catin Ore<three_dots /><end_line />
-		</ascii>
-		
+		</ascii>		
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -261,8 +258,6 @@
 			a Kicker Potion<three_dots /><end_line />
 			Could you find some for me?<end_line />
 		</ascii>
-		
-		
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -272,7 +267,7 @@
 			わしにゆずってくれ<end_line />
 		</sjis>
 		<ascii>
-			Ohh, that's it.<end_line />
+			That's it, that's it.<end_line />
 			Can you give it to me?<end_line />
 		</ascii>
 	</dialogue>
@@ -283,9 +278,8 @@
 			お礼に、これを上げよう<end_line />
 		</sjis>
 		<ascii>
-			I'll give you this as thanks.<end_line />
-		</ascii>
-		
+			Take this<three_dots /><end_line />
+		</ascii>		
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -294,7 +288,7 @@
 			この恩は忘れぬぞ<end_line />
 		</sjis>
 		<ascii>
-			I will not forget this favor.<end_line />
+			I'll not forget this favor.<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -304,9 +298,8 @@
 			なんじゃ、渡してくれぬのか<end_line />
 		</sjis>
 		<ascii>
-			Oh, you won't give it to me?<end_line />
+			Oh, it's not for me<three_dots />?<end_line />
 		</ascii>
-		
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -320,8 +313,6 @@
 			Are there any<end_line />
 			Kicker Potions anywhere<three_dots />?<end_line />
 		</ascii>
-		
-		
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -331,7 +322,7 @@
 			わしにゆずってくれ<end_line />
 		</sjis>
 		<ascii>
-			Ohh, that's it.<end_line />
+			That's it, that's it.<end_line />
 			Can you give it to me?<end_line />
 		</ascii>
 	</dialogue>
@@ -342,9 +333,8 @@
 			お礼に、これを上げよう<end_line />
 		</sjis>
 		<ascii>
-			I'll give you this as thanks.<end_line />
+			Take this<three_dots /><end_line />
 		</ascii>
-		
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -353,7 +343,7 @@
 			この恩は忘れぬぞ<end_line />
 		</sjis>
 		<ascii>
-			I will not forget this favor.<end_line />
+			I'll not forget this favor.<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -363,9 +353,8 @@
 			なんじゃ、渡してくれぬのか<end_line />
 		</sjis>
 		<ascii>
-			Oh, you won't give it to me?<end_line />
+			Oh, it's not for me<three_dots />?<end_line />
 		</ascii>
-		
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -374,7 +363,7 @@
 			この恩は忘れぬぞ<end_line />
 		</sjis>
 		<ascii>
-			I will not forget this favor.<end_line />
+			I'll not forget this favor.<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -401,9 +390,8 @@
 		<ascii>
 			Recently, I've been worried<end_line />
 			about my safety.<end_line />
-			Where could it be<three_dots />?<end_line />
+			Where could I find one<three_dots />?<end_line />
 		</ascii>
-		
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -537,7 +525,6 @@
 			something quite nice.<end_line />
 			I can't say what it is though.<end_line />
 		</ascii>
-		
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -581,10 +568,9 @@
 			アハハハハ<end_line />
 		</sjis>
 		<ascii>
-			I thought it was a great deal.<end_line />
+			Well, I thought it was a great deal.<end_line />
 			Ahahaha.<end_line />
 		</ascii>
-		
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -604,11 +590,9 @@
 			ほんと、これは良いものなのに<end_line />
 		</sjis>
 		<ascii>
-			Ahh.<end_line />
-			Too bad, it's actually pretty<end_line />
-			good.<end_line />
+			That's too bad. It is a<end_line />
+			really great item, though.<end_line />
 		</ascii>
-		
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -623,7 +607,6 @@
 			but I'd appreciate it if you<end_line />
 			could find me a Backlight Lamp.<end_line />
 		</ascii>
-		
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -680,10 +663,9 @@
 			アハハハハ<end_line />
 		</sjis>
 		<ascii>
-			I thought it was a great deal.<end_line />
+			Well, I thought it was a great deal.<end_line />
 			Ahahaha.<end_line />
 		</ascii>
-		
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -693,11 +675,9 @@
 			ほんと、これは良いものなのに<end_line />
 		</sjis>
 		<ascii>
-			Ahh.<end_line />
-			Too bad, it's actually pretty<end_line />
-			good.<end_line />
+			That's too bad. It is a<end_line />
+			really great item, though.<end_line />
 		</ascii>
-		
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -719,7 +699,6 @@
 			Will you be staying here<end_line />
 			for a while?<end_line />
 		</ascii>
-		
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -734,7 +713,6 @@
 			could you take the opportunity<end_line />
 			to find some Black Ore for me?<end_line />
 		</ascii>
-		
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -746,7 +724,6 @@
 			I'll give you something good<end_line />
 			for it.<end_line />
 		</ascii>
-		
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -792,7 +769,6 @@
 		<ascii>
 			Hohoho, no good?<end_line />
 		</ascii>
-		
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -851,7 +827,6 @@
 		<ascii>
 			Hohoho, no good?<end_line />
 		</ascii>
-		
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -892,7 +867,6 @@
 			something quite nice.<end_line />
 			I can't say what it is though.<end_line />
 		</ascii>
-		
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -934,11 +908,9 @@
 			ほんと、これは良いものなのに<end_line />
 		</sjis>
 		<ascii>
-			Ahh.<end_line />
-			Too bad, it's actually pretty<end_line />
-			good.<end_line />
+			That's too bad. It is a<end_line />
+			really great item, though.<end_line />
 		</ascii>
-		
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -994,11 +966,9 @@
 			ほんと、これは良いものなのに<end_line />
 		</sjis>
 		<ascii>
-			Ahh.<end_line />
-			Too bad, it's actually pretty<end_line />
-			good.<end_line />
+			That's too bad. It is a<end_line />
+			really great item, though.<end_line />
 		</ascii>
-		
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -1018,10 +988,10 @@
 			卵かけ飯が喰いたい〜<end_line />
 		</sjis>
 		<ascii>
-			Ah~ I want to eat rice with<end_line />
-			absurd amounts of eggs on it.<end_line />
+			Ah~<end_line />
+			I really want to eat rice with<end_line />
+			eggs on it right now.<end_line />
 		</ascii>
-		
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -1032,7 +1002,6 @@
 		<ascii>
 			But, I can't leave my post~<end_line />
 		</ascii>
-		
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -1043,7 +1012,7 @@
 		</sjis>
 		<ascii>
 			Aha!<end_line />
-			That smell, could it be<three_dots /> eggs?<end_line />
+			That smell, could it be<three_dots />eggs?<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -1109,7 +1078,7 @@
 		</sjis>
 		<ascii>
 			Aha!<end_line />
-			That smell, could it be<three_dots /> eggs?<end_line />
+			That smell, could it be<three_dots />eggs?<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -1177,9 +1146,8 @@
 		</sjis>
 		<ascii>
 			If I had that,<end_line />
-			I could make something. Maybe.<end_line />
+			I could make it through.<end_line />
 		</ascii>
-		
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -1213,7 +1181,6 @@
 			I'm sorry about asking for<end_line />
 			something so unreasonable<three_dots /><end_line />
 		</ascii>
-		
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -1269,7 +1236,6 @@
 			I'm sorry about asking for<end_line />
 			something so unreasonable<three_dots /><end_line />
 		</ascii>
-		
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -1292,7 +1258,6 @@
 			I'm sorry about asking for<end_line />
 			something so unreasonable<three_dots /><end_line />
 		</ascii>
-		
 	</dialogue>
 	<menu>
 		<title>
@@ -1310,7 +1275,6 @@
 			<ascii>
 				Hand it over<end_line />
 			</ascii>
-			
 		</option>
 		<option>
 			<sjis>

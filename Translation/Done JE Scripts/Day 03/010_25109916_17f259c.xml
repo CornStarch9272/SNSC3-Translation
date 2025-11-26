@@ -129,7 +129,7 @@
 			私ノ魂　デスカ？<end_line />
 		</sjis>
 		<ascii>
-			My<three_dots /> Spirit<three_dots />?<end_line />
+			My<three_dots />Spirit<three_dots />?<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -153,7 +153,7 @@
 			当たり前だ<end_line />
 		</sjis>
 		<ascii>
-			Of course.<end_line />
+			Of course it is.<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -180,7 +180,7 @@
 		<ascii>
 			However, a full-fledged<end_line />
 			Craftknight must be able to<end_line />
-			weild their weapons as well.<end_line />
+			wield their weapons as well.<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -220,7 +220,7 @@
 			これでオシマイにするけど？<end_line />
 		</sjis>
 		<ascii>
-			And hey, if you wanna stay here<end_line />
+			But hey, if you wanna stay here<end_line />
 			and watch over the house,<end_line />
 			I'm okay with that too.<end_line />
 		</ascii>
@@ -245,8 +245,8 @@
 			<player_nickname /><three_dots /><end_line />
 		</sjis>
 		<ascii>
+			<three_dots /><end_line />
 			<player_nickname /><three_dots /><end_line />
-			<partner /><three_dots /><end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>

@@ -30,7 +30,7 @@
 		<ascii>
 			There's a lot of Strays<end_line />
 			outside the village.<end_line />
-			It's not safe to leave.<end_line />
+			It's not safe to leave now.<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -40,8 +40,8 @@
 			でも、いつか旅立つ日が来るのよ<end_line />
 		</sjis>
 		<ascii>
-			But someday, I'll go on a<end_line />
-			journey.<end_line />
+			But someday, I'll go on an<end_line />
+			adventure.<end_line />
 		</ascii>
 	</dialogue>
 </tl_file>
