@@ -147,9 +147,9 @@
 			付加されるの<end_line />
 		</sjis>
 		<ascii>
-			Do you know <quote />Acceleration Spring<quote />?<end_line />
-			If you use it on your weapon,<end_line />
-			you'll get <quote />Double Attack<quote />.<end_line />
+			Do you know Acceleration Springs?<end_line />
+			If you use one on your weapon,<end_line />
+			it'll get Double Attack.<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -230,7 +230,6 @@
 		<ascii>
 			Ehh~ What's this~<end_line />
 			You don't have enough money~<end_line />
-			Transaction failed~<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -242,7 +241,7 @@
 		</sjis>
 		<ascii>
 			Ehh<three_dots /><end_line />
-			You aren't buying anything?<end_line />
+			You're not buying anything?<end_line />
 			Cheapskate~<end_line />
 		</ascii>
 	</dialogue>

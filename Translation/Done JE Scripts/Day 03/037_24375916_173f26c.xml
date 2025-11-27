@@ -47,8 +47,8 @@
 			　　　　　　　　　　　ティエ<end_line />
 		</sjis>
 		<ascii>
-			From here on is a lady's secret <hearth /><end_line />
-			No trespassing!!<end_line />
+			Girls Only <hearth /><end_line />
+			No Trespassing!!<end_line />
 			　　　　　　　　　　　~Tier<end_line />
 		</ascii>
 	</dialogue>
@@ -62,8 +62,7 @@
 		</sjis>
 		<ascii>
 			Oh, that hammer<three_dots /><end_line />
-			You must be a Craftknight. I've<end_line />
-			been looking for people like you.<end_line />
+			You must be a Craftknight.<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -128,7 +127,7 @@
 		</sjis>
 		<ascii>
 			Then, I'll tell you about<end_line />
-			Superior weapons,<end_line />
+			Superior Weapons,<end_line />
 			as a special service.<end_line />
 		</ascii>
 	</dialogue>
@@ -143,7 +142,7 @@
 		<ascii>
 			Sometimes you'll create weapons<end_line />
 			that are better than usual.<end_line />
-			Those are Superior weapons.<end_line />
+			Those are Superior Weapons.<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -155,7 +154,7 @@
 			それ以外にも効果が高い武器なの<end_line />
 		</sjis>
 		<ascii>
-			Superior weapons have higher<end_line />
+			Superior Weapons have higher<end_line />
 			stats and swing faster with<end_line />
 			more efficiency.<end_line />
 		</ascii>
