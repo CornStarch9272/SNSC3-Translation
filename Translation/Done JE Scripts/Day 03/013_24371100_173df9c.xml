@@ -26,9 +26,7 @@
 			と言ったらなっとらん<end_line />
 		</sjis>
 		<ascii>
-			Kids these days are no good.<end_line />
-			Ahh, really no good.<end_line />
-			Gets worse every time I say it.<end_line />
+			Kids these days<three_dots /><end_line />
 		</ascii>
 	</dialogue>
 </tl_file>

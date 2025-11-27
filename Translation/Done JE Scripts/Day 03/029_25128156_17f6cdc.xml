@@ -7,8 +7,8 @@
 			せっかくのえものが<three_dots /><end_line />
 		</sjis>
 		<ascii>
-			Ahh~ <end_line />
-			There goes my bonus~<end_line />
+			But<three_dots /><end_line />
+			My bonus~<three_dots /><end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -20,8 +20,7 @@
 			この娘は<three_dots /><end_line />
 		</sjis>
 		<ascii>
-			What is wrong with<end_line />
-			this girl<three_dots />?<end_line />
+			What is wrong with this girl?<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -73,7 +72,7 @@
 				また金もうけかよ<three_dots /><end_line />
 			</sjis>
 			<ascii>
-				Asking for money again<three_dots />?<end_line />
+				Asking for money again?<end_line />
 			</ascii>
 		</male>
 		<female>
@@ -81,7 +80,7 @@
 				またお金もうけなの<three_dots /><end_line />
 			</sjis>
 			<ascii>
-				Asking for money again<three_dots />?<end_line />
+				Asking for money again?<end_line />
 			</ascii>
 		</female>
 	</dialogue>
@@ -209,7 +208,8 @@
 			ムチャ言うんじゃないよ！<end_line />
 		</sjis>
 		<ascii>
-			What are you blabbering about now!?<end_line />
+			You had no chance against that<end_line />
+			thing.<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -234,7 +234,7 @@
 			強いって<three_dots /><end_line />
 		</sjis>
 		<ascii>
-			Strong<three_dots />?<end_line />
+			Really<three_dots />?<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -246,8 +246,8 @@
 			信じないの？？<end_line />
 		</sjis>
 		<ascii>
-			What?<end_line />
-			You don't believe me??<end_line />
+			What??<end_line />
+			You don't believe me????<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -268,7 +268,7 @@
 				実はティエって結構強い気がする<end_line />
 			</sjis>
 			<ascii>
-				She probably is strong.<end_line />
+				She's probably strong.<end_line />
 			</ascii>
 		</option>
 		<option>
@@ -582,8 +582,8 @@
 		</sjis>
 		<ascii>
 			How about this?<end_line />
-			If we win, your<end_line />
-			guidance is free of charge.<end_line />
+			If we win, your guidance<end_line />
+			is on the house.<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -596,8 +596,8 @@
 			お金返せってことですか！？<end_line />
 		</sjis>
 		<ascii>
-			Free<three_dots /><end_line />
-			EHHHHHHH!?<end_line />
+			On the<three_dots /><end_line />
+			WHAT!?<end_line />
 			You mean return the money!?<end_line />
 		</ascii>
 	</dialogue>
@@ -677,7 +677,7 @@
 		</sjis>
 		<ascii>
 			Huh<three_dots />?<end_line />
-			Yeah, sure.<end_line />
+			Yeah, okay.<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -731,7 +731,7 @@
 		</sjis>
 		<ascii>
 			Master<three_dots /><end_line />
-			She's a dangerous one<three_dots /><end_line />
+			She's a shrewd one<three_dots /><end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>

@@ -108,8 +108,8 @@
 			アタシの出番<three_dots /><end_line />
 		</sjis>
 		<ascii>
-			Well, we don't have a choice<three_dots /><end_line />
-			It's time for the mature,<end_line />
+			Welp<three_dots /><end_line />
+			I guess it's time for the mature,<end_line />
 			strong, cool me to step up<three_dots /><end_line />
 		</ascii>
 	</dialogue>
@@ -122,8 +122,8 @@
 		</sjis>
 		<ascii>
 			(Wait<three_dots />!<end_line />
-			If I beat the Stray<three_dots /><end_line />
-			Maybe I'll get a bonus<three_dots />!)<end_line />
+			　If I beat the Stray<three_dots /><end_line />
+			　Maybe I'll get a bonus<three_dots />!)<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -144,7 +144,6 @@
 			ティエちゃん<three_dots />？<end_line />
 		</sjis>
 		<ascii>
-			Eh?<end_line />
 			Tier<three_dots />?<end_line />
 		</ascii>
 	</dialogue>
