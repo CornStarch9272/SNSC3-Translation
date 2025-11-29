@@ -6,6 +6,10 @@
 			おまたせ！<end_line />
 			アニスをつれてきたぞ！<end_line />
 		</sjis>
+		<ascii>
+			Done and dusted!<end_line />
+			We brought back Anise!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<player gender="female" />
@@ -15,7 +19,7 @@
 			アニスをつれてきたよ！<end_line />
 		</sjis>
 		<ascii>
-			I brought Anise!<end_line />
+			We brought back Anise!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -60,8 +64,7 @@
 			見テクダサイ！<end_line />
 		</sjis>
 		<ascii>
-			Above!<end_line />
-			Look!<end_line />
+			Look Above You!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -74,7 +77,7 @@
 		</sjis>
 		<ascii>
 			Look!<end_line />
-			Above!<end_line />
+			Above you!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -87,7 +90,7 @@
 		</sjis>
 		<ascii>
 			Tch!<end_line />
-			Look up.<end_line />
+			Look up!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -99,8 +102,8 @@
 			上です！<end_line />
 		</sjis>
 		<ascii>
-			Ahhh<three_dots />!<end_line />
-			Above us!<end_line />
+			Aaaaaah<three_dots />!<end_line />
+			Above you!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -111,7 +114,7 @@
 			グルル<three_dots /><end_line />
 		</sjis>
 		<ascii>
-			Grr<three_dots /><end_line />
+			Grrr<three_dots /><end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -218,7 +221,7 @@
 			私の言うことが聞けないのか！？<end_line />
 		</sjis>
 		<ascii>
-			It's not listening!?<end_line />
+			It's not listening to me!?<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -252,7 +255,7 @@
 			きゃあ！？<end_line />
 		</sjis>
 		<ascii>
-			Kyaa!?<end_line />
+			Ah!?<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -286,9 +289,11 @@
 		</sjis>
 		<ascii>
 			Ah<three_dots /><end_line />
-			S<three_dots />summon<three_dots />stone<three_dots /><end_line />
+			T-The<three_dots />S-Summonite</three_dots /><end_line />
 			Where<three_dots /><end_line />
 		</ascii>
+		# 召喚石 is also called サモナイト石
+		# Corrected to maintain accuracy to mainseries canon. DO NOT CHANGE.
 	</dialogue>
 	<dialogue>
 		<info box="right" />
@@ -300,7 +305,7 @@
 			落とした<three_dots />！？<end_line />
 		</sjis>
 		<ascii>
-			Summon Stone<three_dots />!?<end_line />
+			The Summonite<three_dots />!?<end_line />
 			Did you lose it<three_dots />!?<end_line />
 		</ascii>
 	</dialogue>
@@ -313,7 +318,7 @@
 			ぱーとなー！<end_line />
 		</sjis>
 		<ascii>
-			The Summon Stone!<end_line />
+			Summonite Stone Located!<end_line />
 			Partner!<end_line />
 		</ascii>
 	</dialogue>
@@ -326,8 +331,8 @@
 			<player_nickname />、これじゃ！<end_line />
 		</sjis>
 		<ascii>
-			The Summon Stone!<end_line />
-			<player_nickname />, here!<end_line />
+			The Summonite Stone!<end_line />
+			<player_nickname />, here you go!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -340,7 +345,7 @@
 		</sjis>
 		<ascii>
 			Tch!<end_line />
-			Found it!<end_line />
+			Found the Summonite!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -353,7 +358,7 @@
 		</sjis>
 		<ascii>
 			Ah! Here it is!<end_line />
-			The Summon Stone!<end_line />
+			I got the Summonite!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -386,8 +391,8 @@
 			また、炎が<three_dots />！<end_line />
 		</sjis>
 		<ascii>
-			Uwah<three_dots />!<end_line />
-			Flames again<three_dots />!<end_line />
+			Agh<three_dots />!<end_line />
+			It's spweing fire again<three_dots />!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -399,7 +404,7 @@
 			ヌシさまの、名前を<three_dots />！<end_line />
 		</sjis>
 		<ascii>
-			Name<three_dots />!<end_line />
+			Its name<three_dots />!<end_line />
 			Call out our master's name<three_dots />!<end_line />
 		</ascii>
 	</dialogue>
@@ -433,7 +438,7 @@
 			キシャアァァ<three_dots /><three_dots /><end_line />
 		</sjis>
 		<ascii>
-			Kshaaa<three_dots /><three_dots /><end_line />
+			Kishaaa<three_dots /><three_dots /><end_line />
 		</ascii>
 	</bigtext>
 	<dialogue>
@@ -480,7 +485,7 @@
 			シャアァ<three_dots /><end_line />
 		</sjis>
 		<ascii>
-			Shaaa<three_dots /><end_line />
+			Shaaaaah<three_dots /><end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>

@@ -404,7 +404,7 @@
 			</sjis>
 			<ascii>
 				That's<three_dots /><end_line />
-				Anise's work<three_dots />?<end_line />
+				Anise and her cronies did that<three_dots />?<end_line />
 			</ascii>
 		</male>
 		<female>
@@ -414,7 +414,7 @@
 			</sjis>
 			<ascii>
 				That's<three_dots /><end_line />
-				Anise's work<three_dots />?<end_line />
+				Anise and her cronies did that<three_dots />?<end_line />
 			</ascii>
 		</female>
 	</dialogue>

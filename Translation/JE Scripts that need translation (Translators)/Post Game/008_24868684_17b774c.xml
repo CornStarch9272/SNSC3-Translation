@@ -23,5 +23,10 @@
 			ギャラハンさんがよく笑うんだ<end_line />
 			なにか良いことあったのかな<end_line />
 		</sjis>
+		<ascii>
+			You know! Lately<three_dots />
+			Mr. Gallahan smiles all the time!<three_dots />
+			Did something really good happen?<end_line />
+		</ascii>
 	</dialogue>
 </tl_file>

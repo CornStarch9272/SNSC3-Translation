@@ -22,6 +22,10 @@
 			おかえりなさい<end_line />
 			いつでも帰ってきていいのよ<end_line />
 		</sjis>
+		<ascii>
+			Welcome back!<end_line />
+			Feel free to visit us often!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -31,6 +35,11 @@
 			とにかく追いかけろ！<end_line />
 			ってじいちゃんがよく言ってたよ<end_line />
 		</sjis>
+		<ascii>
+			Don't stop believing in yourself!<end_line />
+			Never stop chasing your dreams!<end_line />
+			<three_dots />My Gramps would say those a lot.<end_line /> 
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -38,6 +47,8 @@
 		<sjis>
 			キミは何か追いかけてる？<end_line />
 		</sjis>
+		<ascii>
+			What are you aspiring for?<end_line />
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -47,5 +58,9 @@
 			村もなんだか静かで<end_line />
 			寂しいな<end_line />
 		</sjis>
+		<ascii>
+			Now that Zakky's gone, the<end_line />
+			village feels a little quieter.<end_line />
+			It's so lonely, I tell you.<end_line />
 	</dialogue>
 </tl_file>

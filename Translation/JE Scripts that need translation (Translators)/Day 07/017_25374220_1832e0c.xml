@@ -7,6 +7,10 @@
 			勝った！<end_line />
 			やったぞ、ミューノ！<end_line />
 		</sjis>
+		<ascii>
+			We won!<end_line />
+			We did it, Murno!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<player gender="female" />
@@ -17,7 +21,7 @@
 			やったよ、ミューノ！<end_line />
 		</sjis>
 		<ascii>
-			I did it, Murno!<end_line />
+			We did it, Murno!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>

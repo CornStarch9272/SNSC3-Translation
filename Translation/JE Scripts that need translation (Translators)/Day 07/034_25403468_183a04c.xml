@@ -11,8 +11,8 @@
 			</sjis>
 			<ascii>
 				Huh!<end_line />
-				So we can get out here<three_dots /><end_line />
-				How surprising<three_dots /><end_line />
+				We finally got out here<three_dots /><end_line />
+				I'm still shocked about it<three_dots /><end_line />
 			</ascii>
 		</male>
 		<female>
@@ -23,8 +23,8 @@
 			</sjis>
 			<ascii>
 				Wah!<end_line />
-				So we can get out here<three_dots /><end_line />
-				How surprising<three_dots /><end_line />
+				We finally got out here<three_dots /><end_line />
+				I'm still shocked about it<three_dots /><end_line />
 			</ascii>
 		</female>
 	</dialogue>
@@ -53,9 +53,9 @@
 				魔石を戻しに行くんだろ？<end_line />
 			</sjis>
 			<ascii>
-				Where<three_dots /><end_line />
-				Murno's village, right?<end_line />
-				Aren't we returning the Demon Stone?<end_line />
+				Where to now<three_dots /><end_line />
+				Murno's village, right? Weren't we<end_line />
+				going to return the Demon Stone?<end_line />
 			</ascii>
 		</male>
 		<female>
@@ -65,9 +65,9 @@
 				魔石を戻しに行くんでしょ？<end_line />
 			</sjis>
 			<ascii>
-				Where<three_dots /><end_line />
-				Murno's village, right?<end_line />
-				Aren't we returning the Demon Stone?<end_line />
+				Where to now<three_dots /><end_line />
+				Murno's village, right? Weren't we<end_line />
+				going to return the Demon Stone?<end_line />
 			</ascii>
 		</female>
 	</dialogue>

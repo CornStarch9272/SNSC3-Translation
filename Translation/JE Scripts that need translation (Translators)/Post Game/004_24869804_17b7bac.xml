@@ -23,6 +23,11 @@
 			ヴォイジンという男に<end_line />
 			殺されたんじゃ<end_line />
 		</sjis>
+		<ascii>
+			Gallahan's late wife and<end_line />
+			children were slain by a man<end_line />
+			named Voijin<three_dots /><end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -38,5 +43,8 @@
 		<sjis>
 			わん！<end_line />
 		</sjis>
+		<ascii>
+			Woof!<end_line />
+		</ascii>
 	</dialogue>
 </tl_file>

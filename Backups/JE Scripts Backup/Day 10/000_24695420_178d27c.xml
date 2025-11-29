@@ -2,11 +2,17 @@
   <sjis>
     ルイーズ村<end_line>
   </sjis>
+  <ascii>
+    Louise Village<end_line />
+  </ascii>
 </location>
 <location>
   <sjis>
     ルイーズ村　牢屋前<end_line>
   </sjis>
+  <ascii>
+    Louise Village　Inside Prison<end_line />
+  </ascii>
 </location>
 <dialogue>
   <info box="simple">

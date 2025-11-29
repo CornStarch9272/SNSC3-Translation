@@ -15,6 +15,11 @@
 			強い武器は強いマテルと<end_line />
 			良い材料で出来るものだ<end_line />
 		</sjis>
+		<ascii>
+			Weak weapons have no value!<end_line />
+			Strong weapons made with quality<end_line />
+			Shapestones and ores otherwise do!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -24,6 +29,11 @@
 			そのためには日々心の鍛錬も<end_line />
 			鍛冶職人としての修行のひとつだ<end_line />
 		</sjis>
+		<ascii>
+			Strong hearts forge strong weapons!<end_line />
+			Therefore, tempering the heart is<end_line />
+			essential to Craftknightship!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -33,5 +43,9 @@
 			忙しいんだ<end_line />
 			とっとと帰れよ<end_line />
 		</sjis>
+		<ascii>
+			The hell do you want?<end_line />
+			Can't you see I'm busy!?<end_line />
+			Just get outta here!<end_line />
 	</dialogue>
 </tl_file>

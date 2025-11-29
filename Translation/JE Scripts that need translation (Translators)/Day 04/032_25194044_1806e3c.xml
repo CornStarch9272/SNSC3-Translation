@@ -1024,6 +1024,10 @@
 			あー！　もー！<end_line />
 			行くぞ！<end_line />
 		</sjis>
+		<ascii>
+			Argh! Geez!<end_line />
+			Let's just go already!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<player gender="female" />
@@ -1034,7 +1038,7 @@
 			行くよ！<end_line />
 		</sjis>
 		<ascii>
-			Let's go!<end_line />
+			Let's just go already!<end_line />
 		</ascii>
 	</dialogue>
 </tl_file>

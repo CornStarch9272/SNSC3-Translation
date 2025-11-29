@@ -21,6 +21,9 @@
 		<sjis>
 			小豆は体にええぞぉ<end_line />
 		</sjis>
+		<ascii>
+			Red beans are good for you!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -30,6 +33,9 @@
 			おおきくなったら<end_line />
 			どうぐやになるんだ<end_line />
 		</sjis>
+			Craftknights have scary masters!<end_line />
+			When I grow up, I want to<end_line />
+			run an item shop instead!<end_line />
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -44,5 +50,8 @@
 		<sjis>
 			ゴロゴロ<three_dots /><end_line />
 		</sjis>
+		<ascii>
+			*Hungry grumbling*<end_line />
+		</ascii>
 	</dialogue>
 </tl_file>

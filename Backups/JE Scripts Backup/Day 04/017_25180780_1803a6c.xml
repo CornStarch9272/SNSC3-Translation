@@ -449,7 +449,7 @@
   <ascii>
     Don't be silly<three_dots><end_line>
     I believe the militia is<end_line>
-    funded by the Gold Council<three_dots><end_line>
+    funded by the Gold Faction<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -526,7 +526,7 @@
     お前も知ってるだろう？<end_line>
   </sjis>
   <ascii>
-    And you know the Gold Council<end_line>
+    And you know the Gold Faction<end_line>
     is very stingy, right?<end_line>
     It's unlikely you'll get anything.<end_line>
   </ascii>
@@ -650,8 +650,8 @@
     直接かけあってみましょうよ！<end_line>
   </sjis>
   <ascii>
-    That's perfect then!<end_line>
-    Anyway, let's go to the Gold Council<end_line>
+    That's perfect then! Anyway,<end_line>
+    let's go to the Gold Faction<end_line>
     and immediately begin negotiations!<end_line>
   </ascii>
 </dialogue>

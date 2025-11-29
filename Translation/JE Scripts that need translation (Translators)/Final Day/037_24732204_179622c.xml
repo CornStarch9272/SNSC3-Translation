@@ -19,6 +19,10 @@
 		<sjis>
 			何らかのメッセージ予定<end_line />
 		</sjis>
+		<ascii>
+			I have a mail delivery scheduled!<end_line />
+		</ascii>
+		# I forget the context of this lol feel free to correct. lazy atp bestie
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -28,6 +32,11 @@
 			急に交代だよ<end_line />
 			コワイなぁ<three_dots /><end_line />
 		</sjis>
+		<ascii>
+			The gateskeep for today's duty was<end_line />
+			attacked, so I took his shift.<end_line />
+			Man, that was so scary<three_dots /><end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -37,6 +46,11 @@
 			鍛冶師をすっごくおしてるけど<three_dots /><end_line />
 			もういないのにね<three_dots /><end_line />
 		</sjis>
+		<ascii>
+			Mother really adores Master Rob<end_line />
+			Rob so wholeheartedly<three_dots /><end_line />
+			I mean, that's nice and all, but<three_dots /><end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -46,6 +60,11 @@
 			いいと思うんだけどな〜<end_line />
 			あっ、レミィ様も捨てがたいよね〜<end_line />
 		</sjis>
+		<ascii>
+			If it were me, I think<end_line />
+			Mr. Jade is sooo dreamy~! Oh!<end_line />
+			And Mr. Lemmy is lovely too~<three_dots />!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -100,6 +119,9 @@
 		<sjis>
 			買ってくれます？<end_line />
 		</sjis>
+		<ascii>
+			Will you buy it?<end_line />
+		</ascii>
 	</dialogue>
 	<choice>
 		<info box="simple" />
@@ -107,11 +129,17 @@
 			<sjis>
 				買う<end_line />
 			</sjis>
+			<ascii>
+				Buy it.<end_line />
+			</ascii>
 		</option>
 		<option>
 			<sjis>
 				買わない<end_line />
 			</sjis>
+			<ascii>
+				Don't buy it.<end_line />
+			</ascii>
 		</option>
 	</choice>
 	<dialogue>
@@ -120,6 +148,9 @@
 		<sjis>
 			ありがと〜<end_line />
 		</sjis>
+		<ascii>
+			Thank you for your patronage~!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />

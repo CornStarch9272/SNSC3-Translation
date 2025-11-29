@@ -4,7 +4,7 @@
 			金の派閥　エントランス<end_line />
 		</sjis>
 		<ascii>
-			Gold Council　Entrance<end_line />
+			Gold Faction　Entrance<end_line />
 		</ascii>
 	</location>
 	<dialogue>
@@ -16,7 +16,7 @@
 			ベルヴォレン派か、イアナ派か<end_line />
 		</sjis>
 		<ascii>
-			It's called the Gold Council,<end_line />
+			It's called the Gold Faction,<end_line />
 			but there are sub groups in it.<end_line />
 			Like the Velworen and Ianna Parties.<end_line />
 		</ascii>

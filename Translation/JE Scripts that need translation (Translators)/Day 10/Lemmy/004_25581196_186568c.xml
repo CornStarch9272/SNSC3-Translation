@@ -19,12 +19,20 @@
 				バッチリできてるぜ<end_line />
 				もう少し待ってろ<end_line />
 			</sjis>
+			<ascii>
+				I'm ready when you are!<end_line />
+				Give me a moment<three_dots /><end_line />
+			</ascii>
 		</male>
 		<female>
 			<sjis>
 				バッチリできてるよ<end_line />
 				もう少し待ってて<end_line />
 			</sjis>
+			<ascii>
+				I'm ready when you are!<end_line />
+				Give me a moment<three_dots /><end_line />
+			</ascii>
 		</female>
 	</choice>
 </tl_file>

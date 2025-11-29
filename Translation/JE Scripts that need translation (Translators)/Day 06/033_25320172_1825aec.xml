@@ -52,6 +52,10 @@
 			消えたって<three_dots /><end_line />
 			どういうことだよ？<end_line />
 		</sjis>
+		<ascii>
+			She disappeared<three_dots /><end_line />
+			Just what do you mean by that!?<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<player gender="female" />
@@ -63,7 +67,7 @@
 			どういうこと？<end_line />
 		</sjis>
 		<ascii>
-			Meaning?<end_line />
+			Meaning!?<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -89,6 +93,10 @@
 			じゃなくて！<end_line />
 			どうやって消えたんだよ？<end_line />
 		</sjis>
+		<ascii>
+			I didn't ask for the definition!<end_line />!
+			HOW did she disappear?<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<player gender="female" />
@@ -112,7 +120,7 @@
 			不明デス<end_line />
 		</sjis>
 		<ascii>
-			Unknown.<end_line />
+			Cause Is Unknown.<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>

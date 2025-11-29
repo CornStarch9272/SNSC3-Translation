@@ -76,7 +76,7 @@
 			あばれてるんだろ？<end_line />
 		</sjis>
 		<ascii>
-			That voice<three_dots /> Magdrad is<end_line />
+			I just heard a roar<three_dots /> Magdrad is<end_line />
 			going berserk, isn't it?<end_line />
 		</ascii>
 	</dialogue>
@@ -152,8 +152,8 @@
 			マグドラドに何をしたんだ！<end_line />
 		</sjis>
 		<ascii>
-			So, what did you<end_line />
-			do to Magdrad!<end_line />
+			And then!? Just what did you<end_line />
+			guys do to Magdrad!?<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -166,9 +166,9 @@
 			言うこと聞かないんだ！<end_line />
 		</sjis>
 		<ascii>
-			Nothing!<end_line />
-			It just suddenly started<end_line />
-			getting acting up!<end_line />
+			I didn't do anything!<end_line />
+			It just went berserk and<end_line />
+			stopped listening to me!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -194,9 +194,9 @@
 			言うこと聞かないの！<end_line />
 		</sjis>
 		<ascii>
-			Nothing!<end_line />
-			It just suddenly started<end_line />
-			getting acting up!<end_line />
+			I didn't do anything!<end_line />
+			It just went berserk and<end_line />
+			stopped listening to me!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -221,7 +221,7 @@
 			ここから出さないか！<end_line />
 		</sjis>
 		<ascii>
-			Then hurry up and get me out!<end_line />
+			Then hurry and get me out of here!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -231,6 +231,10 @@
 			出せって<three_dots /><end_line />
 			カギはどこだよ！？<end_line />
 		</sjis>
+		<ascii>
+			I'm trying to<three_dots /><end_line />
+			But where's the key!?<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<player gender="female" />

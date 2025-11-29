@@ -298,8 +298,8 @@
 		</sjis>
 		<ascii>
 			Ah, but we haven't gotten permission<end_line />
-			from Master Bostaph, and as a member<end_line />
-			of the Gold Council, we should<three_dots /><end_line />
+			from Master Bostaph, and as members<end_line />
+			of the Gold Faction, we should<three_dots /><end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -761,7 +761,7 @@
 			急ぐぞ<end_line />
 		</sjis>
 		<ascii>
-			Who cares about him.<end_line />
+			Who cares about him?<end_line />
 			Let's hurry.<end_line />
 		</ascii>
 	</dialogue>

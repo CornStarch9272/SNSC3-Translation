@@ -9,9 +9,9 @@
 			受ける気ないか？<end_line />
 		</sjis>
 		<ascii>
-			Hey, <player_nickname /><end_line />
-			You feel like taking<end_line />
-			a request for a weapon?<end_line />
+			Oh yeah, <player_nickname />!<end_line />
+			Feel like taking<end_line />
+			on some weaponry orders?<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -23,7 +23,7 @@
 				え、オレが？<end_line />
 			</sjis>
 			<ascii>
-				Hm? Why me?<end_line />
+				What!? Why me?<end_line />
 			</ascii>
 		</male>
 		<female>
@@ -31,7 +31,7 @@
 				え、わたしが？<end_line />
 			</sjis>
 			<ascii>
-				Hm? Why me?<end_line />
+				What!? Why me?<end_line />
 			</ascii>
 		</female>
 	</dialogue>
@@ -72,6 +72,11 @@
 			たのんだぜ<end_line />
 			お前のウデをみせてくれ<end_line />
 		</sjis>
+		<ascii>
+			I enlisted the order on this<end_line />
+			order form right here.<end_line />
+			Show me what you've got, kid.<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -81,6 +86,11 @@
 			なあ、<player_nickname /><end_line />
 			武器の注文、受ける気ないか？<end_line />
 		</sjis>
+		<ascii>
+			Well? <player_nickname />?<end_line />
+			Wanna give it a try?<end_line />
+			<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="right" />
@@ -91,6 +101,11 @@
 			たのんだぜ<end_line />
 			お前のウデをみせてくれ<end_line />
 		</sjis>
+		<ascii>
+			I enlisted the order on this<end_line />
+			order form right here.<end_line />
+			Show me what you've got, kid.<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="right" />
@@ -99,6 +114,10 @@
 		<sjis>
 			おっ、注文の武器ができたのか？<end_line />
 		</sjis>
+		<ascii>
+			Oh? You sure you can take<end_line />
+			on the commission?<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="right" />
@@ -108,6 +127,10 @@
 			たのんだぜ<end_line />
 			お前のウデをみせてくれよ<end_line />
 		</sjis>
+		<ascii>
+			C'mon, I know you can do it!<end_line />
+			Show me what you've got!<end_line />
+		<ascii />
 	</dialogue>
 	<dialogue>
 		<info box="right" />
@@ -118,6 +141,11 @@
 			これじゃあ受け取れねぇぞ<three_dots /><end_line />
 			ちゃんと注文書見て作ってこいよ<end_line />
 		</sjis>
+		<ascii>
+			Hey, hey<three_dots /><end_line />
+			I'm not accepting that<three_dots><end_line />
+			Give the order a once-over, kid.<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -128,6 +156,11 @@
 			いい仕事するようになったじゃねぇか<end_line />
 			これなら文句ねぇよ<end_line />
 		</sjis>
+		<ascii>
+			Hm, you took a long while, but<end_line />
+			You worked hard on this, yeah?<end_line />
+			I got no complaints.<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -138,6 +171,11 @@
 			んじゃ、コレをやるよ<end_line />
 			悪いもんじゃないぜ、取っとけ<end_line />
 		</sjis>
+		<ascii>
+			Thanks for taking my order.<end_line />
+			Well, this will do.<end_line />
+			Not bad, actually, I'll take it.<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="left" />
@@ -146,6 +184,8 @@
 		<sjis>
 			ホントにビミョーだ<three_dots /><end_line />
 		</sjis>
+		<ascii>
+			Well, that was weird<three_dots /><end_line />
 	</dialogue>
 	<dialogue>
 		<info box="right" />
@@ -154,6 +194,9 @@
 		<sjis>
 			あぁ？<end_line />
 		</sjis>
+		<ascii>
+			Come again?<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="left" />
@@ -162,6 +205,9 @@
 		<sjis>
 			何でもないです<end_line />
 		</sjis>
+		<ascii>
+			O-oh, it's nothing!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="right" />
@@ -171,6 +217,11 @@
 			じゃあまた<end_line />
 			何かあったらたのむぜ<end_line />
 		</sjis>
+		<ascii>
+			Well, I gotta go.<end_line />
+			I'll come to you once I<end_line />
+			got somethin' for ya.<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="right" />
@@ -180,6 +231,11 @@
 			じゃあまた何か<end_line />
 			仕事があったらたのむぜ<end_line />
 		</sjis>
+			<ascii>
+			Well, I gotta go.<end_line />
+			I'll come to you once I<end_line />
+			got some work for ya.<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -189,6 +245,10 @@
 			お前<three_dots /><end_line />
 			武器の注文、うける気ないか？<end_line />
 		</sjis>
+		<ascii>
+			Hey<three_dots /><end_line />
+			Are you currently taking<end_line />
+			weaponry orders?<end_line />
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -199,12 +259,20 @@
 				へ？<end_line />
 				どうしてお前が、オレに？<end_line />
 			</sjis>
+			<ascii>
+				Yeah?
+				Why ask for me, though?<end_line />
+			</ascii>
 		</male>
 		<female>
 			<sjis>
 				へ？<end_line />
 				どうしてあなたが、わたしに？<end_line />
 			</sjis>
+			<ascii>
+				Yeah?
+				Why ask for me, though?<end_line />
+			</ascii>
 		</female>
 	</dialogue>
 	<dialogue>
@@ -216,6 +284,11 @@
 			レミィさんにおねがいしようと<end_line />
 			思ってたんだけど<three_dots /><end_line />
 		</sjis>
+		<ascii>
+			Someone I know requested an order<end_line />
+			for me, and I wanted Lemmy to<end_line />
+			help me and all, but<three_dots /><end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -226,6 +299,11 @@
 			まあ、このさい<end_line />
 			お前でもいいかなって<three_dots /><end_line />
 		</sjis>
+		<ascii>
+			But Lemmy's busy, and I'm at<three_dots /><end_line >
+			at a loss, so I thought maybe<end_line />
+			you can take over for him<three_dots /><end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -236,12 +314,20 @@
 				お前でもって<three_dots /><end_line />
 				なんだよ！<end_line />
 			</sjis>
+			<ascii>
+				Lemmy this, Lemmy that<three_dots /><end_line />
+				Why do you want me, then!?
+			<ascii />
 		</male>
 		<female>
 			<sjis>
 				お前でもって<three_dots /><end_line />
 				なによ、それ！<end_line />
 			</sjis>
+			<ascii>
+				Gosh, what's with you<three_dots /><end_line />
+				You always mope about Lemmy<end_line />
+			<ascii />
 		</female>
 	</dialogue>
 	<dialogue>
@@ -252,6 +338,10 @@
 			で、どうなんだよ？<end_line />
 			オイラの注文、受けるのか？<end_line />
 		</sjis>
+		<ascii>
+			Well, how about it?<end_line />
+			Wanna take over my<end_line />
+			commssion for me?<end_line />
 	</dialogue>
 	<dialogue>
 		<info box="right" />
@@ -262,6 +352,11 @@
 			書いてあるから<end_line />
 			しっかりたのむぜ！<end_line />
 		</sjis>
+		<ascii>
+			The weapon details for order<end_line />
+			are listed on this form.<end_line />
+			It's easy as pie!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -281,6 +376,11 @@
 			書いてあるから<end_line />
 			しっかりたのむぜ！<end_line />
 		</sjis>
+		<ascii>
+			The weapon details for order<end_line />
+			are listed on this form.<end_line />
+			It's easy as pie!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="right" />
@@ -289,6 +389,10 @@
 		<sjis>
 			注文の武器ができたのか？<end_line />
 		</sjis>
+		<ascii>
+			Can you finish my weapon<end_line />
+			commission for me?<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="right" />
@@ -298,6 +402,10 @@
 			そんなにきたいしてないけど<end_line />
 			しっかりたのむぜ<end_line />
 		</sjis>
+		<ascii>
+			I know it's too much work, but!<end_line />
+			Please! I needed your help!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="right" />
@@ -308,6 +416,11 @@
 			こんなんじゃ受け取れないよ<end_line />
 			ちゃんと注文書見たのか<three_dots />？<end_line />
 		</sjis>
+		<ascii>
+			Man!<end_line />
+			I can't accept this!<end_line />
+			Did you even read my order form!?<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -318,6 +431,11 @@
 			ふ〜ん、けっこうマシな<end_line />
 			仕事するじゃないか<end_line />
 		</sjis>
+		<ascii>
+			Whaaat!? No way!!!<end_line />
+			<three_dots>Hmm, but this looks sturdy.<end_line />
+			I did ask you to help me, anyways<three_dots /><end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -327,6 +445,11 @@
 			ありがと<end_line />
 			これ、お礼だよ<end_line />
 		</sjis>
+		<ascii>
+			Well, thanks!<end_line />
+			Here's my payment for<end_line />
+			your troubles.<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="right" />
@@ -337,6 +460,10 @@
 			今回のこと、レミィさんには<end_line />
 			ナイショだぜ！<end_line />
 		</sjis>
+		<ascii>
+			Speaking of<three_dots /><end_line />
+			You better not tell Lemmy that I<end_line />
+			had you make a weapon for me, okay!<end_line />
 	</dialogue>
 	<dialogue>
 		<info box="left" />
@@ -345,6 +472,9 @@
 		<sjis>
 			はいはい、わかってるって<end_line />
 		</sjis>
+		<ascii>
+			Yeah, yeah, I know already<three_dots /><end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="right" />
@@ -353,6 +483,10 @@
 		<sjis>
 			本当にわすれるなよ<three_dots /><end_line />
 		</sjis>
+		<ascii>
+			I'm being serious here!<end_line />
+			Don't you forget it<three_dots /><end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="right" />
@@ -363,6 +497,11 @@
 			オイラが武器を注文したこと<end_line />
 			レミィさんにはナイショだからな！<end_line />
 		</sjis>
+		<ascii>
+			I really mean it!<end_line />
+			You better REALLY not tell Lemmy<end_line />
+			that I ordered a weapon from you!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -373,14 +512,22 @@
 			<player_nickname />って鍛冶師として<end_line />
 			どのくらいの腕前なワケ？<end_line />
 		</sjis>
+		<ascii>
+			You know, I've been wondering<three_dots /><end_line />
+			<player_nickname />, just how<end_line />
+			good are you with the forge?<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
-		<portrait_l name="player" />
+		<portrait_l name="player" /> 
 		<portrait_r name="tier" />
 		<sjis>
 			いちおうお客さんが取れるくらいは<three_dots /><end_line />
 		</sjis>
+		<ascii>
+			Maybe at least decently enough to
+			have clients here and there<three_dots />?<end_line />
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -390,6 +537,10 @@
 			ふ〜ん、じゃあ試しに作ってみてよ<end_line />
 			はい、注文書<end_line />
 		</sjis>
+		<ascii>
+			Hmm, then I'll just have you<end_line />
+			prove your skills, then!<end_line />
+			And! As for my order<three_dots />
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -398,6 +549,9 @@
 		<sjis>
 			注文するって事は、つまり<three_dots /><end_line />
 		</sjis>
+		<ascii>
+			If you get it done, that means<three_dots /><end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -407,6 +561,10 @@
 			お礼はするわよ　失礼ね！<end_line />
 			（お金じゃないけど<three_dots />）<end_line />
 		</sjis>
+		<ascii>
+			<three_dots />I'll pay you up real nicely!<end_line />
+			(Not with money, though<three_dots />)<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="right" />
@@ -415,6 +573,10 @@
 		<sjis>
 			期待しないで待ってるから〜<end_line />
 		</sjis>
+		<ascii>
+			I really can't wait for you<end_line />
+			to get it done already~!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="right" />
@@ -424,6 +586,10 @@
 			ねえ、わたしの注文は<end_line />
 			受けてくれないわけ？<end_line />
 		</sjis>
+		<ascii>
+			Hey, are you turning down<end_line />
+			down my commission?<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="right" />
@@ -432,6 +598,10 @@
 		<sjis>
 			期待しないで待ってるから〜<end_line />
 		</sjis>
+		<ascii>
+			I really can't wait for you<end_line />
+			to get it done already~!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="right" />
@@ -440,6 +610,9 @@
 		<sjis>
 			もう、出来たの？<end_line />
 		</sjis>
+		<ascii>
+			Geez! Did you finish it already!?<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="right" />
@@ -448,6 +621,10 @@
 		<sjis>
 			期待しないで待ってるから〜<end_line />
 		</sjis>
+		<ascii>
+			I really can't wait for you<end_line />
+			to get it done already~!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="right" />
@@ -457,6 +634,11 @@
 			ねぇ<three_dots /><end_line />
 			ちゃんと注文書見てる？<end_line />
 		</sjis>
+		<ascii>
+			Heeey<three_dots /><end_line />
+			Did you even properly read<end_line />
+			the order form I gave you?<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -465,6 +647,10 @@
 		<sjis>
 			はい、これはお礼よ<end_line />
 		</sjis>
+		<ascii>
+			Here you go! It's my payment<end_line />
+			for all your troubles!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="left" />
@@ -474,6 +660,14 @@
 			あはは<three_dots /><end_line />
 			やっぱり代金は貰えないんだね<end_line />
 		</sjis>
+		<ascii>
+			Ahahah<three_dots /><end_line />
+			So you're not going to<end_line />
+			pay me, after all<three_dots /><end_line /> 
+		</ascii />
+		<ascii>
+			<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="right" />
@@ -483,6 +677,11 @@
 			ちゃんとしたお礼じゃない<end_line />
 			対価がお金だなんて誰も言ってないわよ<end_line />
 		</sjis>
+		<ascii>
+			Isn't this a good enough payment<end_line />
+			already? You didn't say that<end_line />
+			I have to pay in cash<three_dots /><end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="right" />
@@ -491,6 +690,10 @@
 		<sjis>
 			まあ、機会があれば、また頼むかも<end_line />
 		</sjis>
+		<ascii>
+			Well, if ever I get to, I'll make<end_line />
+			sure to commission you again!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="right" />
@@ -499,6 +702,10 @@
 		<sjis>
 			まあ、機会があれば、また頼むかも<end_line />
 		</sjis>
+		<ascii>
+			Well, if ever I get to, I'll make<end_line />
+			sure to commission you again!<end_line />
+		</ascii>
 	</dialogue>
 	<menu>
 		<title>

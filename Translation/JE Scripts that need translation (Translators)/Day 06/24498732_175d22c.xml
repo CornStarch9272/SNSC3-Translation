@@ -81,6 +81,11 @@
 			<partner />、それつけたままだと<end_line />
 			魔法使えないんだろ？<end_line />
 		</sjis>
+		<ascii>
+			Even if you say that<three_dots /><end_line />
+			<partner />, you still can't do much<end_line />
+			with those bracelets on, right?<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<player gender="female" />
@@ -92,7 +97,7 @@
 			魔法使えないんでしょ？<end_line />
 		</sjis>
 		<ascii>
-			those bracelets on, right?<end_line />
+			with those bracelets on, right?<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -198,6 +203,11 @@
 			<partner />、それつけたままだと<end_line />
 			魔法使えないんだろ？<end_line />
 		</sjis>
+		<ascii>
+			Even if you say that<three_dots /><end_line />
+			<partner />, you still can't do much<end_line />
+			with those bracelets on, right?<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<player gender="female" />
@@ -209,7 +219,7 @@
 			魔法使えないんでしょ？<end_line />
 		</sjis>
 		<ascii>
-			those bracelets on, right?<end_line />
+			with those bracelets on, right?<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -313,6 +323,11 @@
 			<partner />、それつけたままだと<end_line />
 			魔法使えないんだろ？<end_line />
 		</sjis>
+		<ascii>
+			Even if you say that<three_dots /><end_line />
+			<partner />, you still can't do much<end_line />
+			with those bracelets on, right?<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<player gender="female" />
@@ -324,7 +339,7 @@
 			魔法使えないんでしょ？<end_line />
 		</sjis>
 		<ascii>
-			those bracelets on, right?<end_line />
+			with those bracelets on, right?<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -428,6 +443,11 @@
 			<partner />、それつけたままだと<end_line />
 			魔法使えないんだろ？<end_line />
 		</sjis>
+		<ascii>
+			Even if you say that<three_dots /><end_line />
+			<partner />, you still can't do much<end_line />
+			with those bracelets on, right?<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<player gender="female" />
@@ -439,7 +459,7 @@
 			魔法使えないんでしょ？<end_line />
 		</sjis>
 		<ascii>
-			those bracelets on, right?<end_line />
+			with those bracelets on, right?<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -499,6 +519,11 @@
 			武器の種類って<three_dots /><end_line />
 			いくつだっけ？<end_line />
 		</sjis>
+		<ascii>
+			Huh<three_dots />?<end_line />
+			The<three_dots />many kinds of weapons?<end_line />
+			How many were there again?<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<player gender="female" />
@@ -583,6 +608,10 @@
 			ソードとアクスとナックルって<end_line />
 			どれが重かった？<end_line />
 		</sjis>
+		<ascii>
+			The Sword, or the Knuckle<three_dots /><end_line />
+			Which one is the heaviest?<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<player gender="female" />
@@ -622,7 +651,7 @@
 			ああ、なるほど<end_line />
 		</sjis>
 		<ascii>
-			Ahh, right.<end_line />
+			Ah, right.<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -634,6 +663,11 @@
 			武器作製で最も大切なものって<end_line />
 			なんだった？<end_line />
 		</sjis>
+		<ascii>
+			The most important thing<end_line />
+			to a Craftknight?<end_line />
+			I wonder what it was?<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<player gender="female" />
@@ -723,6 +757,11 @@
 			武器の種類って<three_dots /><end_line />
 			いくつだっけ？<end_line />
 		</sjis>
+		<ascii>
+			Huh<three_dots />?<end_line />
+			The<three_dots />many kinds of weapons?<end_line />
+			How many were there again?<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<player gender="female" />
@@ -747,8 +786,8 @@
 			ちゃんと数えたのか！？<end_line />
 		</sjis>
 		<ascii>
-			Are you serious?<end_line />
-			Can you count!?<end_line />
+			How unbelievable!<end_line />
+			Can you even count!?<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -821,6 +860,10 @@
 			ソードとアクスとナックルって<end_line />
 			どれが重かった？<end_line />
 		</sjis>
+		<ascii>
+			The Sword, or the Knuckle<three_dots /><end_line />
+			Which one is the heaviest?<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<player gender="female" />
@@ -872,6 +915,11 @@
 			武器作製で最も大切なものって<end_line />
 			なんだった？<end_line />
 		</sjis>
+		<ascii>
+			The most important thing<end_line />
+			to a Craftknight?<end_line />
+			I wonder what it was?<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<player gender="female" />
@@ -1649,6 +1697,10 @@
 			ミューノがエサに<three_dots /><end_line />
 			させるかよ！<end_line />
 		</sjis>
+		<ascii>
+			Sacrificing Murno<three_dots>!?<end_line />
+			I won't let that happen!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<player gender="female" />
@@ -1681,6 +1733,11 @@
 			させるもんか！<end_line />
 			急ぐぞ、<partner />！<end_line />
 		</sjis>
+		<ascii>
+			I won't ever let Murno be eaten<end_line />
+			by the Guardian Beast!<end_line />
+			Let's hurry, <partner />!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<player gender="female" />
@@ -1733,6 +1790,11 @@
 			させるもんか！<end_line />
 			急ぐぞ、<partner />！<end_line />
 		</sjis>
+		<ascii>
+			I won't ever let Murno be eaten<end_line />
+			by the Guardian Beast!<end_line />
+			Let's hurry, <partner />!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<player gender="female" />
@@ -1785,6 +1847,11 @@
 			させるもんか！<end_line />
 			急ぐぞ、<partner />！<end_line />
 		</sjis>
+		<ascii>
+			I won't ever let Murno be eaten<end_line />
+			by the Guardian Beast!<end_line />
+			Let's hurry, <partner />!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<player gender="female" />
@@ -1846,6 +1913,11 @@
 			させるもんか！<end_line />
 			急ぐぞ、<partner />！<end_line />
 		</sjis>
+		<ascii>
+			I won't ever let Murno be eaten<end_line />
+			by the Guardian Beast!<end_line />
+			Let's hurry, <partner />!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<player gender="female" />

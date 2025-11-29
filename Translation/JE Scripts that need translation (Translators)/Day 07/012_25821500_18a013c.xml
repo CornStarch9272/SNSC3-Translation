@@ -3,11 +3,21 @@
 		<sjis>
 			グマグの炎遺跡<end_line />
 		</sjis>
+		<ascii>
+			Gumag Fire Ruins<end_line />
+		</ascii>
+		# FOR PROOFREAD CHECK
+		# Doublecheck if Gumag is a consistent name.
 	</location>
 	<location>
 		<sjis>
 			グマグの炎遺跡　エリア３<end_line />
 		</sjis>
+		<ascii>
+			Gumag Fire Ruins Area 3<end_line />
+		</ascii>
+		# FOR PROOFREAD CHECK
+		# Doublecheck if Gumag is a consistent name.
 	</location>
 	<dialogue>
 		<sjis>
@@ -16,7 +26,7 @@
 		</sjis>
 		<ascii>
 			This door can be opened by hitting<end_line />
-			it's switch with a weapon.<end_line />
+			its switch with a weapon.<end_line />
 		</ascii>
 	</dialogue>
 </tl_file>

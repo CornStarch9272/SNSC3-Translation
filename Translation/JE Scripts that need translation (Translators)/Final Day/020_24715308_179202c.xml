@@ -4,7 +4,7 @@
 			村長の家　道具屋<end_line />
 		</sjis>
 		<ascii>
-			Mayor's house　second-hand shop<end_line />
+			Mayor's House　Second-Hand Shop<end_line />
 		</ascii>
 	</location>
 	<location>
@@ -12,7 +12,7 @@
 			村長の家　道具屋<end_line />
 		</sjis>
 		<ascii>
-			Mayor's house　second-hand shop<end_line />
+			Mayor's House　Second-Hand Shop<end_line />
 		</ascii>
 	</location>
 	<dialogue>
@@ -23,5 +23,10 @@
 			おかげで武器や防具が<end_line />
 			飛ぶように売れて嬉しいわ<end_line />
 		</sjis>
+		<ascii>
+			Thanks to the Stray incidents<end_line />
+			My weapons and armor sell like<end_line />
+			hotcakes! This is awesome!<end_line />
+		</ascii>
 	</dialogue>
 </tl_file>

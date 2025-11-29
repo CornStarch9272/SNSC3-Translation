@@ -8,6 +8,11 @@
 		<sjis>
 			グマグの炎遺跡　エリア５<end_line />
 		</sjis>
+			<ascii>
+			Gumag Fire Ruins Area 5<end_line />
+		</ascii>
+		# FOR PROOFREAD CHECK
+		# Doublecheck if Gumag is a consistent name.
 	</location>
 	<dialogue>
 		<info box="simple" />

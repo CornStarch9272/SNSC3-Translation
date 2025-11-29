@@ -21,10 +21,18 @@
 			カウンターに店員がいないときには<end_line />
 			勝手に買い物してください<end_line />
 		</sjis>
+		<ascii>
+			NOTICE FROM GALLAHAN'S WORKSHOP:<end_line />
+			If no one's attending the counter<end_line />
+			you are entitled to self-service.<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<sjis>
 			ゴロゴロ<three_dots /><end_line />
 		</sjis>
+		<ascii>
+			*Hungry growling*<end_line />
+		</ascii>
 	</dialogue>
 </tl_file>

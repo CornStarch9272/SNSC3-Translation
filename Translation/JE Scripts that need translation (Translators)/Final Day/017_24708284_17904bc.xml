@@ -14,6 +14,10 @@
 			召喚獣トロッコに乗車の際には<end_line />
 			足下に十分ご注意下さい<end_line />
 		</sjis>
+		<ascii>
+			Please watch your step when you<end_line />
+			board the Summon Beast railway!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -22,5 +26,10 @@
 			ふぅ<three_dots /><end_line />
 			ちょっとね考え事<three_dots /><end_line />
 		</sjis>
+		<ascii>
+			Phew<three_dots /><end_line />
+			Please give me a<end_line />
+			moment to reconsider<three_dots /><end_line />
+		</ascii>
 	</dialogue>
 </tl_file>

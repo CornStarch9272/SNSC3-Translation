@@ -11,6 +11,9 @@
 		<sjis>
 			スレンジ採掘場　アジトエリア１<end_line />
 		</sjis>
+		<ascii>
+			Surange Mine Area 1<end_line />
+		</ascii>
 	</location>
 	<dialogue>
 		<info box="simple" />

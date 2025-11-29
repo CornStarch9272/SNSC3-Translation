@@ -6,6 +6,9 @@
 			あ<three_dots />、いた！<end_line />
 			けど、何やってんだ？<end_line />
 		</sjis>
+		<ascii>
+			Woah<three_dots /> We found them!<end_line />
+			What're they doing, though?<end_line />
 	</dialogue>
 	<dialogue>
 		<player gender="female" />
@@ -120,6 +123,10 @@
 			You know each other?<end_line />
 			Have a Summon Beast too, huh<three_dots /><end_line />
 		</ascii>
+		# FOR PROOFREAD
+		# 召喚獣づれか lit. means "You got a Summon Beast too?"
+		# The soldier is rude and cautious so I proofread the
+		# "Have a Summon Beast too, huh..." and changed it.
 	</dialogue>
 	<dialogue>
 		<info box="left" />
@@ -129,6 +136,10 @@
 			まてよ、あいつ<end_line />
 			ロレイラルの召喚獣だぞ<end_line />
 		</sjis>
+		<ascii>
+			Wait just a second<end_line />
+			That's a Loreilalian Summon Beast<three_dots /><end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<partner name="enzi" />
@@ -588,7 +599,7 @@
 			きゃっ！<end_line />
 		</sjis>
 		<ascii>
-			Kya!<end_line />
+			Eek!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -683,12 +694,20 @@
 				わかった！　戦おう<end_line />
 				ちょっと待て！<end_line />
 			</sjis>
+			<ascii>
+				Got it! Let's fight!<end_line />
+				Hold on just a sec!<end_line />
+			</ascii>
 		</male>
 		<female>
 			<sjis>
 				わかった！　戦おう<end_line />
 				ちょっと待って！<end_line />
 			</sjis>
+			<ascii>
+				Got it! Let's fight!<end_line />
+				Hold on just a sec!<end_line />
+			</ascii>
 		</female>
 	</choice>
 	<dialogue>

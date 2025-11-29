@@ -701,7 +701,7 @@
     金の派閥へ<end_line>
   </sjis>
   <ascii>
-    Let's hurry to the Gold Council.<end_line>
+    Let's hurry to the Gold Faction!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -713,6 +713,10 @@
       ち、ちょっと待て！<end_line>
       は、母って<three_dots>！？<end_line>
     </sjis>
+  <ascii>
+    Hey, wait!<end_line>
+    M-mother<three_dots>!?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>

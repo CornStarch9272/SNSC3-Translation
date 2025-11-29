@@ -2,6 +2,9 @@
 	<sjis>
 		金の派閥　エントランス<end_line>
 	</sjis>
+	<ascii>
+		Gold Faction　Entrance<end_line>
+	</ascii>
 </location>
 <dialogue>
 	<info box="simple">
@@ -12,9 +15,9 @@
 		ベルヴォレン派か、イアナ派か<end_line>
 	</sjis>
   <ascii>
-    It's called the Gold Council,<end_line>
-    but there are sub groups in it.<end_line>
-    Like the Velworen and Ianna Parties.<end_line>
+    Within the Gold Faction, there<end_line>
+    are sub-factions such as the<end_line>
+    House Velworen, and House Ianna.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -27,7 +30,7 @@
 	</sjis>
   <ascii>
     Eh? Which one am I in?<end_line>
-    Right now I'm in the Velworen<end_line>
-    party, but I'm thinking of leaving.<end_line>
+    Currently I was in House Velworen,<end_line>
+    but I'm thinking of leaving it.<end_line>
   </ascii>
 </dialogue>

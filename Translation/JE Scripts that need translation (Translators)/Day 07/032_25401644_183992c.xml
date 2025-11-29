@@ -248,8 +248,8 @@
 			あのさ<three_dots /><end_line />
 		</sjis>
 		<ascii>
-			Old man,<end_line />
-			you know<three_dots /><end_line />
+			Old man!<end_line />
+			You know<three_dots /><end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -278,8 +278,8 @@
 			あのね<three_dots /><end_line />
 		</sjis>
 		<ascii>
-			Old man,<end_line />
-			you know<three_dots /><end_line />
+			Mister!<end_line />
+			You know<three_dots /><end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -318,7 +318,7 @@
 				もしかして、泣いてるのか？<end_line />
 			</sjis>
 			<ascii>
-				Wait,<end_line />
+				Wait<three_dots /><end_line />
 				are you<three_dots /> crying?<end_line />
 			</ascii>
 		</male>
@@ -328,7 +328,7 @@
 				もしかして、泣いてるの？<end_line />
 			</sjis>
 			<ascii>
-				Wait,<end_line />
+				Wait<three_dots /><end_line />
 				are you<three_dots /> crying?<end_line />
 			</ascii>
 		</female>
@@ -345,7 +345,7 @@
 		<ascii>
 			Bah!<end_line />
 			Don't tease your elders!<end_line />
-			Hurry up and get going!<end_line />
+			Now get going, you!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -394,6 +394,11 @@
 			ギャラハンさん<end_line />
 			やっぱり、息子さんのことを<three_dots /><end_line />
 		</sjis>
+		<ascii>
+			Ser Gallahan<three_dots />
+			If I may, you must be<end_line />
+			worried for the boy<three_dots /><end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<player gender="female" />
@@ -404,7 +409,8 @@
 			やっぱり、娘さんのことを<three_dots /><end_line />
 		</sjis>
 		<ascii>
-			Like I thought, you're still<three_dots /><end_line />
+			If I may, you must be<end_line />
+			worried for the girl<three_dots /><end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>

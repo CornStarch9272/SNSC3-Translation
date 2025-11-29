@@ -3,11 +3,17 @@
 		<sjis>
 			グマグの炎遺跡<end_line />
 		</sjis>
+		<ascii>
+			Gumag Fire Ruins<end_line />
+		</ascii>
 	</location>
 	<location>
 		<sjis>
 			グマグの炎遺跡　エリア４<end_line />
 		</sjis>
+		<ascii>
+			Gumag Fire Ruins Area 4<end_line />
+		</ascii>
 	</location>
 	<popup>
 		<sjis>

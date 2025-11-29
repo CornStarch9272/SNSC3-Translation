@@ -373,6 +373,10 @@
 			大丈夫<end_line />
 			心配すんなって<end_line />
 		</sjis>
+		<ascii>
+			We'll be fine!<end_line />
+			Don't worry about us!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<player gender="female" />
@@ -383,7 +387,7 @@
 			心配しないで<end_line />
 		</sjis>
 		<ascii>
-			Don't worry.<end_line />
+			Don't worry about us!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>

@@ -2,6 +2,9 @@
   <sjis>
     ルイーズ村　牢屋<end_line>
   </sjis>
+  <ascii>
+    Louise Village　Prison<end_line />
+  </ascii>
 </location>
 <dialogue>
   <info box="simple">
@@ -14,6 +17,6 @@
   <ascii>
     I wasn't running away.<end_line>
     I was telling the villagers<end_line>
-    to evacuate. Really.<end_line>
+    to evacuate! Really!<end_line>
   </ascii>
 </dialogue>

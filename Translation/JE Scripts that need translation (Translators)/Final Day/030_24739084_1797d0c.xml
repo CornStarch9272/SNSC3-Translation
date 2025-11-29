@@ -13,5 +13,8 @@
 		<sjis>
 			くるとこまで、きちゃったね<end_line />
 		</sjis>
+		<ascii>
+			Whew, made it. I walked so far<three_dots /><end_line />
+		</ascii>
 	</dialogue>
 </tl_file>

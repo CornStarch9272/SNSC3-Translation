@@ -42,6 +42,10 @@
 			ミューノは！？<end_line />
 			おい、ミューノはどこだよ！？<end_line />
 		</sjis>
+		<ascii>
+			What happened to Murno!?<end_line />
+			Hey, where is she!?<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<player gender="female" />
@@ -389,7 +393,7 @@
 		<ascii>
 			Jade<three_dots /><end_line />
 			Keep it up and I'll shove<end_line />
-			this hammer down your throat!<end_line />
+			my hammer down your throat!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -417,9 +421,9 @@
 			アンタこそ町へ<three_dots /><end_line />
 		</sjis>
 		<ascii>
-			Y-you're pretty banged<end_line />
+			You're pretty banged<end_line />
 			up too, aren't you?<end_line />
-			You should be the one<three_dots /><end_line />
+			You're one to talk<three_dots /><end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -434,7 +438,7 @@
 		<ascii>
 			I'll be fine.<end_line />
 			Because<three_dots /><end_line />
-			I am the Invincible Jade.<end_line />
+			I am THE Invincible Jade.<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -472,7 +476,7 @@
 			今のは笑う所じゃないだろう？<end_line />
 		</sjis>
 		<ascii>
-			Hey, you aren't supposed<end_line />
+			Hey, you're not supposed<end_line />
 			to laugh at that!<end_line />
 		</ascii>
 	</dialogue>
@@ -486,9 +490,9 @@
 			そのかわり<three_dots /><end_line />
 		</sjis>
 		<ascii>
-			You're right, you were cool.<end_line />
+			Yeah, you're pretty badass.<end_line />
 			Alright then, I'll return to town.<end_line />
-			In exchange<three_dots /><end_line />
+			On one condition<three_dots /><end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -501,9 +505,12 @@
 			まかせておけ<end_line />
 		</sjis>
 		<ascii>
-			Yeah.<end_line />
-			Leave <player_nickname /> to me.<end_line />
+			Gotcha.<end_line />
+			I'll watch over <player_nickname /><end_line />
+			and the <partner /> for ya.<end_line />
 		</ascii>
+		# FOR PROOFREADING
+		# Jade sounds more lax here, had to tweak it a little.
 	</dialogue>
 	<dialogue>
 		<info box="left" />
@@ -525,7 +532,7 @@
 			<partner />っ！<end_line />
 		</sjis>
 		<ascii>
-			<player_nickname />!<end_line />
+			Alright, <player_nickname />!<end_line />
 			<partner />!<end_line />
 		</ascii>
 	</dialogue>
@@ -550,9 +557,12 @@
 			見つけ出しな！<end_line />
 		</sjis>
 		<ascii>
-			Take care of the rest!<end_line />
-			You better find Murno!<end_line />
+			I'll handle everything from here!<end_line />
+			You better hurry and<end_line />
+			find Murno fast!<end_line />
 		</ascii>
+		# FOR PROOFREADING
+		# Had to correct grammar, Jade saying 後はまかせたよ！ pertains to himself.
 	</dialogue>
 	<dialogue>
 		<info box="right" />

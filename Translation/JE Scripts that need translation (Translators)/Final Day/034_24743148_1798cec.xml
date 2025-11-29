@@ -26,7 +26,7 @@
 		<ascii>
 			Have you ever been injured<end_line />
 			with no inn in sight?<end_line />
-			When that happens, think of F Aid.<end_line />
+			When that happens, think of F-Aid!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -36,6 +36,11 @@
 			スポート洞窟を抜けた先にある森は<end_line />
 			暗く迷いやすい<end_line />
 		</sjis>
+		<ascii>
+			The forest beyond Spoat Grotto<end_line />
+			is dark, and you'll get lost<end_line />
+			easily if you're not careful<three_dots /><end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -45,5 +50,10 @@
 			高く売れるアイテムがあるに違いない<end_line />
 			これ、商売人のカンね<end_line />
 		</sjis>
+		<ascii>
+			Prices skyrocket high in places<end_line />
+			where people don't frequent often<end_line />
+			Oh, it's just my merchant's gut!<end_line />
+		</ascii>
 	</dialogue>
 </tl_file>

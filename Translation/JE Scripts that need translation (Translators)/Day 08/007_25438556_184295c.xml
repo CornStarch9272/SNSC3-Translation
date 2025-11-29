@@ -6,6 +6,9 @@
 		<sjis>
 			<three_dots />ということなんですけど<end_line />
 		</sjis>
+		<ascii>
+			<three_dots />So, in other words<three_dots /><end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="right" />
@@ -67,7 +70,7 @@
 			前から知ってたんスか？<end_line />
 		</sjis>
 		<ascii>
-			Was the Gold Council aware<end_line />
+			Was the Gold Faction aware<end_line />
 			of the village's existance?<end_line />
 		</ascii>
 	</dialogue>

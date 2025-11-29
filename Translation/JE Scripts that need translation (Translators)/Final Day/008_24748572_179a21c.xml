@@ -22,6 +22,11 @@
 			いつでも遊びに来てください<end_line />
 			特に歓迎はできませんが<end_line />
 		</sjis>
+		<ascii>
+			Feel free to visit anytime!<end_line />
+			Not that we'd be able to give<end_line />
+			you a proper welcome, though<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -31,6 +36,11 @@
 			ギャラハンさんがよく笑うんだ<end_line />
 			なにか良いことあったのかな<end_line />
 		</sjis>
+		<ascii>
+			You know! Lately<three_dots />
+			Mr. Gallahan smiles all the time!<three_dots />
+			Did something really good happen?<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -39,5 +49,9 @@
 			どっかに景気のいい話、<end_line />
 			落ちてないかな〜<end_line />
 		</sjis>
+		<ascii>
+			I wonder if I'll get good news<end_line />
+			about the economy right about now<three_dots /><end_line />
+		</ascii>
 	</dialogue>
 </tl_file>

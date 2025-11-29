@@ -10,8 +10,11 @@
 		</sjis>
 		<ascii>
 			I'm worried about Tier.<end_line />
-			Let's have a look!<end_line />
+			Let's look for her!<end_line />
 		</ascii>
+		# FOR PROOFREAD CHECK
+		# This was translated as "let's have a look", it's too literally
+		# considering in this context Tier ran away and the protag is searching for her.
 	</dialogue>
 	<dialogue>
 		<partner name="run-dor" />
@@ -22,8 +25,10 @@
 			了解デス！<end_line />
 		</sjis>
 		<ascii>
-			Understood!<end_line />
+			Affirmative!<end_line />
 		</ascii>
+		# FOR PROOFREAD
+		# Changed "Understood!" to "Affirmative" bc it's more robot-y
 	</dialogue>
 	<dialogue>
 		<partner name="enzi" />
@@ -36,7 +41,7 @@
 		</sjis>
 		<ascii>
 			I'm worried about Tier.<end_line />
-			Let's have a look!<end_line />
+			Let's look for her!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -62,7 +67,7 @@
 		</sjis>
 		<ascii>
 			I'm worried about Tier.<end_line />
-			Let's have a look!<end_line />
+			Let's look for her!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>

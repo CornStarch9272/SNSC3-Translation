@@ -135,10 +135,12 @@
 				仕方ないでしょ<end_line />
 			</sjis>
 			<ascii>
-				Shut up.<end_line />
-				I need him alive to make him<end_line />
-				into my little sister.<end_line />
+				Silence, you!<end_line />
+				I need the kid alive and make<end_line />
+				him my little sister.<end_line />
 			</ascii>
+			# FOR PROOFREADING
+			# Gillan is a posh and feminine guy, changed "Shut up!" yo "Silence, you!"
 		</male>
 		<female>
 			<sjis>
@@ -147,9 +149,9 @@
 				仕方ないでしょ<end_line />
 			</sjis>
 			<ascii>
-				Shut up.<end_line />
-				I need her alive to make her<end_line />
-				into my little brother.<end_line />
+				Silence, you!<end_line />
+				I need the kid alive and make<end_line />
+				her my little brother.<end_line />
 			</ascii>
 		</female>
 	</dialogue>
@@ -247,8 +249,8 @@
 		</sjis>
 		<ascii>
 			I'll get my revenge on<end_line />
-			you some other time.<end_line />
-			Here, I'll give you a playmate.<end_line />
+			you next time. In the meanwhile,<end_line />
+			Here's a playmate for you.<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -334,8 +336,9 @@
 			召喚して<three_dots />！<end_line />
 		</sjis>
 		<ascii>
-			No!<end_line />
-			She person summoned it<three_dots />!<end_line />
+			No, it's not!<end_line />
+			She Summoned it<end_line />
+			all on her own<three_dots />!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -364,7 +367,7 @@
 		</sjis>
 		<ascii>
 			This has nothing do with you.<end_line />
-			Stand back and watch if you don't<end_line />
+			Stand back if you don't<end_line />
 			want to get hurt any further.<end_line />
 		</ascii>
 	</dialogue>
@@ -378,9 +381,9 @@
 			やってみるか？<end_line />
 		</sjis>
 		<ascii>
-			I'll get hurt?<end_line />
-			Hoho<three_dots /><end_line />
-			Wanna give it a try?<end_line />
+			ME? Getting hurt?<end_line />
+			Don't make me laugh<three_dots /><end_line />
+			You wanna bet on it?<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -393,8 +396,9 @@
 			ボスタフ親方だって許さないハズです<end_line />
 		</sjis>
 		<ascii>
-			Please, don't go any further.<end_line />
-			Master Bostaph will not forgive you.<end_line />
+			Please, don't try to push it.<end_line />
+			Master Bostaph will not.<end_line />
+			tolerate foolhardiness.<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -437,7 +441,7 @@
 		</sjis>
 		<ascii>
 			Ugh<three_dots />!<end_line />
-			Disgusting<three_dots /><end_line />
+			You're creeping me out<three_dots /><end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -450,7 +454,7 @@
 			切り刻むぞ！<end_line />
 		</sjis>
 		<ascii>
-			The hell, you brat!<end_line />
+			THE HELL!? You little wretch!<end_line />
 			Say it again, I dare you!<end_line />
 			I'll shut you up for good!<end_line />
 		</ascii>
@@ -521,7 +525,7 @@
 		</sjis>
 		<ascii>
 			Lemmy<three_dots /><end_line />
-			Brother<three_dots /><end_line />
+			Bro<three_dots /><end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -549,7 +553,7 @@
 			私<three_dots /><end_line />
 		</sjis>
 		<ascii>
-			<three_dots /><end_line />
+			No<three_dots /><end_line />
 			<player_nickname /><three_dots />, <partner /><three_dots /><end_line />
 			I<three_dots /><end_line />
 		</ascii>
@@ -836,6 +840,10 @@
 			そっか<three_dots />！<end_line />
 			いけるぞ！<end_line />
 		</sjis>
+		<ascii>
+			I get it now<three_dots>!<end_line />
+			Yeah, that works!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<player gender="female" />
@@ -846,7 +854,7 @@
 			それなら、いけるね！<end_line />
 		</sjis>
 		<ascii>
-			That would work!<end_line />
+			Yeah, that works!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -903,7 +911,7 @@
 			言うのぉ<end_line />
 		</sjis>
 		<ascii>
-			Hoho<three_dots /><end_line />
+			Oh?<three_dots /><end_line />
 			Well said.<end_line />
 		</ascii>
 	</dialogue>
@@ -983,7 +991,7 @@
 			よく気付いたの！<end_line />
 		</sjis>
 		<ascii>
-			Mm.<end_line />
+			Mhm.<end_line />
 			You noticed. Well done!<end_line />
 		</ascii>
 	</dialogue>
@@ -1012,7 +1020,7 @@
 		<ascii>
 			I see<three_dots />!<end_line />
 			That's brilliant!<end_line />
-			Undersood.<end_line />
+			Understood.<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -1072,6 +1080,10 @@
 			わたす必要はないよ<end_line />
 			オレたちは、そんなヤツに<end_line />
 		</sjis>
+		<ascii>
+			Don't worry about us!<end_line />
+			Because we won't lose<three_dots /><end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<player gender="female" />
@@ -1222,7 +1234,7 @@
 			こ<three_dots />こいつ<three_dots />！？<end_line />
 		</sjis>
 		<ascii>
-			Wh<three_dots /> what<three_dots />!?<end_line />
+			Wh<three_dots /> what the<three_dots />!?<end_line />
 		</ascii>
 	</dialogue>
 	<bigtext>
@@ -1233,11 +1245,14 @@
 			<sjis>
 				うおおおお！！！<end_line />
 			</sjis>
+			<ascii>
+				Woaaaaaah!!!<end_line />
 		</male>
 		<female>
 			<sjis>
 				うわあああ！！！<end_line />
 			</sjis>
+				Waaaaaaah!!!<end_line />
 		</female>
 	</bigtext>
 </tl_file>

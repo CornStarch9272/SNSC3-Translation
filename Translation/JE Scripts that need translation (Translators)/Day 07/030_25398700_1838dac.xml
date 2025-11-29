@@ -301,6 +301,12 @@
 			とにかくそいつを元に戻せば<end_line />
 			全て元通りになるのか？<end_line />
 		</sjis>
+		<ascii>
+			Erm<three_dots /><end_line />
+			So if we put it back,<end_line />
+			will everything return to normal?<end_line />
+		</ascii>
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<player gender="female" />
