@@ -98,7 +98,7 @@
 		</sjis>
 		<ascii>
 			Well, I came across the girl<end_line />
-			and she seemed quite troubled,<end_line />
+			and she seemed quite troubled.<end_line />
 			I couldn't just abandon her<three_dots /><end_line />
 		</ascii>
 	</dialogue>
@@ -129,7 +129,7 @@
 		<ascii>
 			Hey, hey!<end_line />
 			Do you really think I could be<end_line />
-			lured by some mere cake<three_dots />?<end_line />
+			lured by some cake<three_dots />?<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -175,8 +175,7 @@
 			キサマ<three_dots /><end_line />
 		</sjis>
 		<ascii>
-			How<three_dots /><end_line />
-			How dare you<three_dots />!<end_line />
+			Why you<three_dots />!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -189,7 +188,8 @@
 			けどな<end_line />
 		</sjis>
 		<ascii>
-			You're not as rowdy as usual.<end_line />
+			Well, I see you're not making a<end_line />
+			scene about being tricked.<end_line />
 			Must be some really good cake.<end_line />
 		</ascii>
 	</dialogue>
@@ -203,7 +203,8 @@
 			マズイト　アバレルノデスネ<end_line />
 		</sjis>
 		<ascii>
-			So One Can Control Him With Food<three_dots /><end_line />
+			Meaning<three_dots /><end_line />
+			If It Was Bad He'd Cause A Scene<three_dots /><end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -215,7 +216,8 @@
 			マズイとあばれるのか<end_line />
 		</sjis>
 		<ascii>
-			So you can control him with food<three_dots /><end_line />
+			So, he'd make a fuss if it<end_line />
+			was bad<three_dots /><end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -227,7 +229,8 @@
 			マズイとあばれるのか<three_dots /><end_line />
 		</sjis>
 		<ascii>
-			So you can control him with food<three_dots /><end_line />
+			So, if it was bad he'd cause<end_line />
+			a scene<three_dots /><end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -239,7 +242,8 @@
 			マズイとあばれるんですね<end_line />
 		</sjis>
 		<ascii>
-			So you can control him with food<three_dots /><end_line />
+			So, if it was bad he'd cause<end_line />
+			a scene<three_dots /><end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -1044,7 +1048,7 @@
 			人生とはそんなものじゃ<end_line />
 		</sjis>
 		<ascii>
-			That is the way of things.<end_line />
+			Well, that's life.<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -1056,7 +1060,7 @@
 			つらいね<three_dots /><end_line />
 		</sjis>
 		<ascii>
-			Life is not always fair<three_dots /><end_line />
+			Life's not fair<three_dots /><end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
