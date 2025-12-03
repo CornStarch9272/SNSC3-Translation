@@ -7,7 +7,7 @@
 			ご苦労さん<end_line />
 		</sjis>
 		<ascii>
-			Yo, <player_name />, <partner />.<end_line />
+			Yo, <player_nickname />, <partner />.<end_line />
 			Good job.<end_line />
 		</ascii>
 	</dialogue>
@@ -175,7 +175,6 @@
 			テュスです<end_line />
 		</sjis>
 		<ascii>
-			Oh, so you're<three_dots /><end_line />
 			I am Thus, Tier's father and<end_line />
 			the owner of this inn.<end_line />
 		</ascii>
@@ -287,9 +286,6 @@
 			They'd be able to make us some<end_line />
 			really high quality weapons!<end_line />
 		</ascii>
-		# PROOFREAD CHECK
-		# Changed そうよ！ "That's right!" to "Bingo!"
-		# Because that sounded more enthusiasctic
 	</dialogue>
 	<dialogue>
 		<info box="left" />
@@ -399,10 +395,6 @@
 		<ascii>
 			Tier, that's enough<three_dots /><end_line />
 		</ascii>
-		# FOR PROOFREAD CHECK
-		# Thus is telling Tier to stop meddling constantly
-		# in the business here, added "that's enough" to imply
-		# he's trying to reprimand her.
 	</dialogue>
 	<dialogue>
 		<info box="left" />
@@ -415,13 +407,9 @@
 		</sjis>
 		<ascii>
 			But before that can happen,<end_line />
-			<player_nickname /> and the others<end_line />
+			<player_name /> and the others<end_line />
 			have some business in town.<end_line />
 		</ascii>
-		# Moved parts of second line to third in case player has long name.
-		# FOR PROOFREAD CHECK
-		# Someone else^ translated Thus to say the player's full
-		# name instead of their nickname in EN. Changed acccordingly.
 	</dialogue>
 	<dialogue>
 		<info box="left" />
@@ -447,12 +435,8 @@
 		</sjis>
 		<ascii>
 			You better behave this<end_line />
-			instant, young lady<three_dots />!<end_line />
+			instant, young lady!<end_line />
 		</ascii>
-		# FOR PROOFREAD
-		# Thus keeps calling Tier お前 ("omae", derogatory here), since he's scolding
-		# Her in both instances I had him call her a "young lady"
-		# Bc of the sarcasm of the title in this context
 	</dialogue>
 	<dialogue>
 		<info box="right" />
@@ -468,9 +452,6 @@
 			This is the first time<end_line />
 			I've heard that from you!<end_line />
 		</ascii>
-		# FOR PROOFREADING
-		# Original third line is "I've heard you mention that."
-		# Changed it and tweaked second line to tweak grammar.
 	</dialogue>
 	<dialogue>
 		<info box="left" />
@@ -486,7 +467,6 @@
 			She's bothered you quite a bit.<end_line />
 			Please, rest for the night.<end_line />
 		</ascii>
-		# Changed first line a little to make it shorter
 	</dialogue>
 	<dialogue>
 		<info box="left" />
@@ -523,7 +503,7 @@
 			ゴチソウってそんなお金は<three_dots /><end_line />
 		</sjis>
 		<ascii>
-			<three_dots />Wait, we can't celebrate yet.<end_line />
+			<three_dots />Wait.<end_line />
 			We don't have enough money<three_dots /><end_line />
 		</ascii>
 	</dialogue>
@@ -564,7 +544,7 @@
 			この店が赤字経営なのよ！？<end_line />
 		</sjis>
 		<ascii>
-			Hold on, dad!<end_line />
+			Hold on, Dad!<end_line />
 			We're always in the red because<end_line />
 			you're doing stuff like this!<end_line />
 		</ascii>
@@ -664,9 +644,8 @@
 		<ascii>
 			Wait a second<three_dots/><end_line />
 			If the kid's gonna be your<end_line />
-			furture bethrothed, then<three_dots/><end_line/>
+			future bethrothed, then<three_dots/><end_line/>
 		</ascii>
-		# Split into three lines to fit character limit
 	</dialogue>
 	<dialogue>
 		<player gender="female" />
@@ -677,11 +656,10 @@
 			将来の仕事仲間にしようって相手の<end_line />
 		</sjis>
 		<ascii>
-			Then that means<end_line />
-			I might become be your future<end_line />
-			coworker's family!<end_line />
+			Then that means I might<end_line />
+			become your future coworker's<end_line />
+			family!<end_line />
 		</ascii>
-		# Split into three lines to fit character limit
 	</dialogue>
 	<dialogue>
 		<info box="right" />
@@ -781,9 +759,7 @@
 			思えませんわ！<end_line />
 		</sjis>
 		<ascii>
-			That<three_dots /><end_line />
-			Doesn't sound like something a<end_line />
-			wizened master would say!<end_line />
+			And you call yourself our Master!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -980,7 +956,6 @@
 			I know veeeery well just how<end_line />
 			much you love me, <player_nickname />~<end_line />
 		</ascii>
-		# Shortened first and second lines.
 	</dialogue>
 	<dialogue>
 		<player gender="male" />
@@ -1359,10 +1334,8 @@
 		</sjis>
 		<ascii>
 			Seriously<three_dots /><end_line />
-			You wouldn't expect a master<end_line />
-			to say something like that!<end_line />
+			Are you really our Master!?<end_line />
 		</ascii>
-		# Shortened second line
 	</dialogue>
 	<dialogue>
 		<info box="left" />
@@ -1387,7 +1360,7 @@
 			”それはそれ、これはこれ”って！<end_line />
 		</sjis>
 		<ascii>
-			<quote />That is that, and this is this!<quote /><end_line />
+			<quote />Apples and oranges!<quote /><end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -1436,7 +1409,7 @@
 			お、お父さん<three_dots /><end_line />
 		</sjis>
 		<ascii>
-			D-dad<three_dots /><end_line />
+			D-Dad<three_dots /><end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -1461,7 +1434,7 @@
 			みっともないぞ！<end_line />
 		</sjis>
 		<ascii>
-			It's disgusting!<end_line />
+			It's disgraceful!<end_line />
 		</ascii>
 	</bigtext>
 	<dialogue>
@@ -1502,7 +1475,7 @@
 		<ascii>
 			You understand that too, right?<end_line />
 			There are precious things you<end_line />
-			cannot buy with money.<end_line />
+			can't buy with money.<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -1630,9 +1603,9 @@
 			スッゴイいい話だったじゃない！<end_line />
 		</sjis>
 		<ascii>
-			Whyy!?<end_line />
-			You just said you understood!<end_line />
-			Your dad said something great!<end_line />
+			You just said you understood!?<end_line />
+			Your father just said something<end_line />
+			great!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -1699,7 +1672,7 @@
 			それを言われると<three_dots /><end_line />
 		</sjis>
 		<ascii>
-			Even if you say that<three_dots /><end_line />
+			<three_dots /><end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -1763,7 +1736,6 @@
 			She can be difficult<three_dots /><end_line />
 			I'm really sorry about her<three_dots /><end_line />
 		</ascii>
-		# Changed Vee to V.E
 	</dialogue>
 	<dialogue>
 		<info box="right" />

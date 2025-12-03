@@ -9,6 +9,7 @@
 		<ascii>
 			Woah<three_dots /> We found them!<end_line />
 			What're they doing, though?<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<player gender="female" />
@@ -18,7 +19,7 @@
 			けど、何やってるんだろ？<end_line />
 		</sjis>
 		<ascii>
-			What's she up to this time?<end_line />
+			What're they up to this time?<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -123,10 +124,6 @@
 			You know each other?<end_line />
 			Have a Summon Beast too, huh<three_dots /><end_line />
 		</ascii>
-		# FOR PROOFREAD
-		# 召喚獣づれか lit. means "You got a Summon Beast too?"
-		# The soldier is rude and cautious so I proofread the
-		# "Have a Summon Beast too, huh..." and changed it.
 	</dialogue>
 	<dialogue>
 		<info box="left" />
@@ -185,7 +182,7 @@
 			まさか、さっき言ってたのって<three_dots /><end_line />
 		</sjis>
 		<ascii>
-			Maybe this is it<three_dots />?<end_line />
+			Maybe this is the same one as<three_dots />?<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
