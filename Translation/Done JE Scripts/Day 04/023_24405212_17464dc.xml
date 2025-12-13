@@ -167,7 +167,7 @@
 		<ascii>
 			Eeeh~<end_line />
 			But you don't have the money~<end_line />
-			Transaction denied.<end_line />
+			No deal.<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -245,11 +245,10 @@
 			ワン魚がいるらしいぞ<end_line />
 		</sjis>
 		<ascii>
-			It's said the Dickell Village Pond<end_line />
+			It's said the Deckell Village Pond<end_line />
 			contains a fish who's cuteness<end_line />
 			cannot be put into words.<end_line />
 		</ascii>
-		# Changed Deikle to Dickell
 	</dialogue>
 	<dialogue>
 		<info box="simple" />

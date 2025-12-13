@@ -85,7 +85,7 @@
 		<ascii>
 			<quote />Look below<quote /><end_line />
 		</ascii>
-	# Removed ↓ and added </dialogue>
+	</dialogue>
 	<dialogue>
 		<info box="simple" />
 		<portrait_l name="child" />
