@@ -19,7 +19,7 @@
 				おにーちゃん<three_dots /><end_line />
 			</sjis>
 			<ascii>
-				Big bro<three_dots /><end_line />
+				Mister<three_dots /><end_line />
 			</ascii>
 		</male>
 		<female>
@@ -27,7 +27,7 @@
 				おねーちゃん<three_dots /><end_line />
 			</sjis>
 			<ascii>
-				Big sis<three_dots /><end_line />
+				Miss<three_dots /><end_line />
 			</ascii>
 		</female>
 	</dialogue>
@@ -671,8 +671,8 @@
 		</sjis>
 		<ascii>
 			I don't care for him,<end_line />
-			but your being involved with<end_line />
-			him may not be strange<three_dots /><end_line />
+			but you might get along<end_line />
+			with him just fine<three_dots /><end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -773,8 +773,8 @@
 				まだ奥へ行くか？<end_line />
 			</sjis>
 			<ascii>
-				Tch<three_dots /> He's weird.<end_line />
-				What do you want to do, Eleize?<end_line />
+				He's so weird.<end_line />
+				What do you want to do, Elieze?<end_line />
 				Continue on?<end_line />
 			</ascii>
 		</male>
@@ -785,8 +785,8 @@
 				まだ奥に行く？<end_line />
 			</sjis>
 			<ascii>
-				Huh<three_dots /> He's weird.<end_line />
-				What do you want to do, Eleize?<end_line />
+				He's so weird.<end_line />
+				What do you want to do, Elieze?<end_line />
 				Continue on?<end_line />
 			</ascii>
 		</female>

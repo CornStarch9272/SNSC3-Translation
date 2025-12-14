@@ -7,7 +7,7 @@
 			よろしくたのみます<end_line />
 		</sjis>
 		<ascii>
-			<three_dots />and so,<end_line />
+			<three_dots />And so,<end_line />
 			I'll be counting on you.<end_line />
 		</ascii>
 	</dialogue>
@@ -20,8 +20,8 @@
 			会えそうね<end_line />
 		</sjis>
 		<ascii>
-			I get the feeling I'm about<end_line />
-			to meet a very important person.<end_line />
+			It really feels like we're about<end_line />
+			to meet someone important.<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -73,7 +73,7 @@
 		<ascii>
 			No,<end_line />
 			because of my good behavior.<end_line />
-			And who's scary?<end_line />
+			And who are you calling scary!?<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -386,7 +386,7 @@
 		</sjis>
 		<ascii>
 			But<three_dots /><end_line />
-			it's about my village<three_dots /><end_line />
+			It's about my village<three_dots /><end_line />
 			Can we<three_dots />?<end_line />
 		</ascii>
 	</dialogue>
@@ -725,8 +725,8 @@
 		</sjis>
 		<ascii>
 			Come with me.<end_line />
-			A shall teach you a little<end_line />
-			about an adult's world.<end_line />
+			I'll give you a little lesson<end_line />
+			on how the real world works.<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -739,8 +739,8 @@
 			ちょっと<three_dots />！<end_line />
 		</sjis>
 		<ascii>
-			Eh?<end_line />
 			Um<three_dots /><end_line />
+			What?<end_line />
 			Wait<three_dots />!<end_line />
 		</ascii>
 	</dialogue>

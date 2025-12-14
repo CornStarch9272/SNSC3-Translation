@@ -6,7 +6,6 @@
 		<ascii>
 			Prosban　Weapon Shop<end_line />
 		</ascii>
-		# Changed Weaponry to Weapon Shop
 	</location>
 	<location>
 		<sjis>
@@ -15,7 +14,6 @@
 		<ascii>
 			Prosban　Weapon Shop<end_line />
 		</ascii>
-		# Changed Weaponry to Weapon Shop
 	</location>
 	<dialogue>
 		<info box="simple" />
@@ -28,7 +26,7 @@
 		<ascii>
 			We sell Shapestones too.<end_line />
 			We have all kinds of things<end_line />
-			blacksmiths will find useful.<end_line />
+			Craftknights will find useful.<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>

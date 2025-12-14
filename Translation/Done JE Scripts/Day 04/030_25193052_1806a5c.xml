@@ -101,7 +101,7 @@
 			そうなの！？<end_line />
 		</sjis>
 		<ascii>
-			Really!?<end_line />
+			He is!?<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -129,7 +129,6 @@
 		<ascii>
 			You're just gonna leave me here?<end_line />
 		</ascii>
-		# Removed three dots
 	</dialogue>
 	<dialogue>
 		<info box="right" />

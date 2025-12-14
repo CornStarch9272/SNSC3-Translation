@@ -4,7 +4,7 @@
 			プロスバンの町　道具屋<end_line />
 		</sjis>
 		<ascii>
-			Prosban　Second-hand Shop<end_line />
+			Prosban　Tool Shop<end_line />
 		</ascii>
 	</location>
 	<location>
@@ -12,7 +12,7 @@
 			プロスバンの町　道具屋<end_line />
 		</sjis>
 		<ascii>
-			Prosban　Second-hand Shop<end_line />
+			Prosban　Tool Shop<end_line />
 		</ascii>
 	</location>
 	<dialogue>
@@ -40,7 +40,7 @@
 		<ascii>
 			My, you must be a Craftknight.<end_line />
 			Right now I'm on a journey to meet<end_line />
-			many Craftknights and blacksmiths,<end_line />
+			many Craftknights and blacksmiths.<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -52,7 +52,7 @@
 			見つけるためにね<end_line />
 		</sjis>
 		<ascii>
-			with the hope that some of them<end_line />
+			I only hope that some of them<end_line />
 			will become regular customers<end_line />
 			when my daughter and I open a shop.<end_line />
 		</ascii>
@@ -161,7 +161,7 @@
 		<ascii>
 			How much depends on your skill,<end_line />
 			and your smithing rank.<end_line />
-			Be careful with it.<end_line />
+			The higher, the better.<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>

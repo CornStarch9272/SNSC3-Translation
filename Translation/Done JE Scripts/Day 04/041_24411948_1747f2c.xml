@@ -65,7 +65,7 @@
 			あの像、大きいよね<end_line />
 		</sjis>
 		<ascii>
-			That status is is huge<three_dots /><end_line />
+			That painting is is huge<three_dots /><end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -101,7 +101,7 @@
 			何の問題もねぇよ<end_line />
 		</sjis>
 		<ascii>
-			Eh? You're a Craftknight?<end_line />
+			You're a Craftknight?<end_line />
 			Me? I'm from the Gold Faction.<end_line />
 			Move along now.<end_line />
 		</ascii>

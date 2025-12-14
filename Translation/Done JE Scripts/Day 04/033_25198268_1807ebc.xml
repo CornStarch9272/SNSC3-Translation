@@ -70,7 +70,7 @@
 			お前ンとこの親方が<three_dots />！<end_line />
 		</sjis>
 		<ascii>
-			Wait, no, <player_nickname />!<end_line />
+			Wait, no!<end_line />
 			Your master's<three_dots />!<end_line />
 		</ascii>
 	</dialogue>
@@ -248,7 +248,7 @@
 			それが大人のやり口だ<end_line />
 		</sjis>
 		<ascii>
-			That's just how adults are.<end_line />
+			"Do as I say, not as I do."<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -260,7 +260,7 @@
 				きったねぇの！<end_line />
 			</sjis>
 			<ascii>
-				That's harsh!<end_line />
+				That's dirty!<end_line />
 			</ascii>
 		</male>
 		<female>
@@ -268,7 +268,7 @@
 				ひっどーい！<end_line />
 			</sjis>
 			<ascii>
-				Don't be mean!<end_line />
+				That's not fair!<end_line />
 			</ascii>
 		</female>
 	</dialogue>
@@ -359,8 +359,8 @@
 		</sjis>
 		<ascii>
 			<three_dots />Wait, no!<end_line />
-			I was just, right, telling you not<end_line />
-			to get involved for Elieze's sake<three_dots /><end_line />
+			I was only telling you because<end_line />
+			of Elieze<three_dots /><end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -412,8 +412,8 @@
 				転ぶなよ！<end_line />
 			</sjis>
 			<ascii>
-				H-hey,<end_line />
-				watch your feet!<end_line />
+				Hey!<end_line />
+				Watch your step!<end_line />
 			</ascii>
 		</male>
 		<female>
@@ -422,8 +422,8 @@
 				転ばないようにね！<end_line />
 			</sjis>
 			<ascii>
-				Ah, hey,<end_line />
-				make sure you don't trip!<end_line />
+				Hey!<end_line />
+				Don't trip!<end_line />
 			</ascii>
 		</female>
 	</dialogue>
@@ -452,7 +452,7 @@
 			<ascii>
 				Why is he always in<end_line />
 				such a rush?<end_line />
-				Well, let's go.<end_line />
+				Anyways, let's go.<end_line />
 			</ascii>
 		</female>
 	</dialogue>
@@ -464,7 +464,7 @@
 			うん！<end_line />
 		</sjis>
 		<ascii>
-			Yeah!<end_line />
+			Yes!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
