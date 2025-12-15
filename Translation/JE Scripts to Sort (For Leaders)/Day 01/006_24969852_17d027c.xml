@@ -239,7 +239,7 @@
 			了解デス<end_line />
 		</sjis>
 		<ascii>
-			Roger.<end_line />
+			Affirmative.<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -355,7 +355,7 @@
 		</sjis>
 		<ascii>
 			Say something like,<end_line />
-			"Master gave me a Summon Stone.<end_line />
+			"Master gave me a Summonite.<end_line />
 			This is my new partner."<end_line />
 		</ascii>
 	</dialogue>
@@ -768,7 +768,7 @@
 			了解デス<end_line />
 		</sjis>
 		<ascii>
-			Roger.<end_line />
+			Affirmative.<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -957,7 +957,7 @@
 		</sjis>
 		<ascii>
 			Say something like,<end_line />
-			"Master gave me a Summon Stone.<end_line />
+			"Master gave me a Summonite.<end_line />
 			This is my new partner."<end_line />
 		</ascii>
 	</dialogue>
@@ -1502,7 +1502,7 @@
 		</sjis>
 		<ascii>
 			Say something like,<end_line />
-			"Master gave me a Summon Stone.<end_line />
+			"Master gave me a Summonite.<end_line />
 			This is my new partner."<end_line />
 		</ascii>
 	</dialogue>
@@ -2080,7 +2080,7 @@
 		</sjis>
 		<ascii>
 			Say something like,<end_line />
-			"Master gave me a Summon Stone.<end_line />
+			"Master gave me a Summonite.<end_line />
 			This is my new partner."<end_line />
 		</ascii>
 	</dialogue>

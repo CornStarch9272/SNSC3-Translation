@@ -10,7 +10,7 @@
   <ascii>
     Good work today.<end_line>
     You probably won't be involved<end_line>
-    with the Gold Faction anymore.<end_line>
+    with the Gold Council anymore.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -91,7 +91,7 @@
 			この世界を救った男と言っても<end_line>
 		</sjis>
     <ascii>
-      The man who saved Lindbaum,<end_line>
+      The man who saved Lyndbaum,<end_line>
     </ascii>
 	</male>
 	<female>
@@ -99,7 +99,7 @@
 			この世界を救った女と言っても<end_line>
 		</sjis>
     <ascii>
-      The woman who saved Lindbaum,<end_line>
+      The woman who saved Lyndbaum,<end_line>
     </ascii>
 	</female>
 </dialogue>
@@ -146,7 +146,7 @@
 		</sjis>
 	</female>
   <ascii>
-    Brother, you're exaggerating<three_dots><end_line>
+    Bro, you're exaggerating<three_dots><end_line>
     Me saving the world<three_dots><end_line>
   </ascii>
 </dialogue>
@@ -228,7 +228,7 @@
 		アニキ<end_line>
 	</sjis>
   <ascii>
-    Brother<three_dots><end_line>
+    Bro<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>

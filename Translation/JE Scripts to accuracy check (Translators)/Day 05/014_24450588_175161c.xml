@@ -50,9 +50,9 @@
 			顔を売っている段階なんだって<end_line />
 		</sjis>
 		<ascii>
-			You know, my mom is a peddler.<end_line />
-			We're trying to make ourselves known<end_line />
-			with Craftknights and blacksmiths.<end_line />
+			My mom and I are peddlers!<end_line />
+			Currently we're acquainting with so<end_line />
+			many Craftknights and artisans!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -78,6 +78,10 @@
 		</sjis>
 		<ascii>
 			You're a Craftknight, aren't you?<end_line />
+			Wanna hear about enhancement tips?<end_line />
+		</ascii>
+		<ascii>
+			You're a Craftknight, aren't you?<end_line />
 			Want to hear about enhancement?<end_line />
 		</ascii>
 	</dialogue>
@@ -88,7 +92,7 @@
 				聞いてみる<end_line />
 			</sjis>
 			<ascii>
-				Listen to her lecture<end_line />
+				Sure thing!<end_line />
 			</ascii>
 		</option>
 		<option>
@@ -96,7 +100,7 @@
 				特に聞かない<end_line />
 			</sjis>
 			<ascii>
-				Not interested<end_line />
+				Nah, I'm fine.<end_line />
 			</ascii>
 		</option>
 	</choice>
@@ -109,8 +113,8 @@
 			武器に付加されるの<end_line />
 		</sjis>
 		<ascii>
-			Using a <quote />Legendary Iron Skewer<quote /><end_line />
-			to enhance your weapon will<end_line />
+			Let's see<three_dots />Using a <quote />Legendary Iron<end_line />
+			 Skewer<quote /> to enhance your weapon will<end_line />
 			give it the <quote />Piercing<quote /> effect.<end_line />
 		</ascii>
 	</dialogue>
@@ -125,7 +129,7 @@
 		<ascii>
 			Anyway, I have this special<end_line />
 			material on sale right now,<end_line />
-			at a paltry price of 1000 Boam~<end_line />
+			at a low, low price of<three_dots />1000 Boam!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -135,7 +139,7 @@
 			買ってくれます？<end_line />
 		</sjis>
 		<ascii>
-			Wanna buy it?<end_line />
+			How about it?<end_line />
 		</ascii>
 	</dialogue>
 	<choice>
@@ -176,9 +180,9 @@
 			商談不成立だよ〜<end_line />
 		</sjis>
 		<ascii>
-			Ehh~ What's this~<end_line />
-			You don't have enough money~<end_line />
-			Transaction failed~<end_line />
+			Whaaaaaat!? What do you mean<end_line />
+			you don't have enough money!?<end_line />
+			I'm calling this deal off!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -189,9 +193,9 @@
 			ケチ〜<end_line />
 		</sjis>
 		<ascii>
-			Eh~ You make me explain but<end_line />
-			aren't buying anything?<end_line />
-			Cheapskate~<end_line />
+			Whaaat!? You make me talk a lot<end_line />
+			but you don't want to buy from me?<end_line />
+			Cheapskate!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -202,9 +206,9 @@
 			せっかくのお客さんだと思ったのに〜<end_line />
 		</sjis>
 		<ascii>
-			Eeh? You won't even listen?!<end_line />
+			Whaaat? You're not interested?!<end_line />
 			Just when I thought<end_line />
-			I finally had a new client<three_dots /><end_line />
+			I finally had a customer<three_dots /><end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>

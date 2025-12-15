@@ -16,9 +16,9 @@
 			良い材料で出来るものだ<end_line />
 		</sjis>
 		<ascii>
-			Weak weapons have no value.<end_line />
-			Strong weapons are made using<end_line />
-			quality matter and fine materials.<end_line />
+			Weak weapons have no value!<end_line />
+			Strong weapons made with quality<end_line />
+			Shapestones and ores otherwise do!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -30,10 +30,9 @@
 			鍛冶職人としての修行のひとつだ<end_line />
 		</sjis>
 		<ascii>
-			A weak will leads to weak weapons.<end_line />
-			That's why strengthening your<end_line />
-			determination is part<end_line />
-			of a Craftknight's training.<end_line />
+			Strong hearts forge strong weapons!<end_line />
+			Therefore, tempering the heart is<end_line />
+			essential to your training!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -44,8 +43,8 @@
 			ねぇんだよ<end_line />
 		</sjis>
 		<ascii>
-			I don't have time<end_line />
-			to play with you.<end_line />
+			I don't have the time to<end_line />
+			fool around with you, kid!<end_line />
 		</ascii>
 	</dialogue>
 </tl_file>

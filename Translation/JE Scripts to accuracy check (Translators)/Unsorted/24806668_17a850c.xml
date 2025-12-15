@@ -12,7 +12,7 @@
 			ルイーズ村　遺跡前<end_line />
 		</sjis>
 		<ascii>
-			Louise Village　Ruins - Front<end_line />
+			Louise Village　Ruins Entrance<end_line />
 		</ascii>
 	</location>
 	<dialogue>
@@ -22,10 +22,10 @@
 			どっかに景気のいい話、<end_line />
 			落ちてないかな〜<end_line />
 		</sjis>
-		<ascii>
-			I wonder if any good news has<end_line />
-			come recently.<end_line />
-		</ascii>
+ 		<ascii>
+    		I wonder if I'll get any<end_line>
+    		good news for my sales~<end_line>
+  		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />

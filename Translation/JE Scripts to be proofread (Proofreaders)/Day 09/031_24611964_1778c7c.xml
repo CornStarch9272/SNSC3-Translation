@@ -37,7 +37,7 @@
 		</sjis>
 		<ascii>
 			You trying to say a member<end_line />
-			of the Gold Faction shouldn't play<end_line />
+			of the Gold Council shouldn't play<end_line />
 			the lottery!?<end_line />
 		</ascii>
 	</dialogue>
@@ -78,9 +78,9 @@
 			毎日抽選！空くじ無し！！<end_line />
 		</sjis>
 		<ascii>
-			Want to test your luck<end_line />
-			at the lottery?<end_line />
-			Drawings every day! Always a winner!<end_line />
+			Care to try our <quote />Lucky Draw<quote />?<end_line />
+			It's available all day, everyday!<end_line />
+			Guaranteed no losing tickets!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>

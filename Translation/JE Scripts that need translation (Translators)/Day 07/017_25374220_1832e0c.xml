@@ -146,7 +146,7 @@
 			えへへ〜<end_line />
 		</sjis>
 		<ascii>
-			Ehehe~<end_line />
+			Heehee<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -355,7 +355,7 @@
 		</sjis>
 		<ascii>
 			Afterwards, we stored their<end_line />
-			Summon Stones in these ruins<end_line />
+			Summonites in these ruins<end_line />
 			to protect the village.<end_line />
 		</ascii>
 	</dialogue>
@@ -536,7 +536,7 @@
 			え、ちょ<three_dots />っ！<end_line />
 		</sjis>
 		<ascii>
-			Eh, wai<three_dots />!<end_line />
+			What!? Wait<three_dots />!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -549,8 +549,8 @@
 				ミューノをつれていくんだ！？<end_line />
 			</sjis>
 			<ascii>
-				Why are taking<end_line />
-				Murno along again!?<end_line />
+				Wait, why are you taking<end_line />
+				Murno with you again!?<end_line />
 			</ascii>
 		</male>
 		<female>
@@ -560,7 +560,7 @@
 			</sjis>
 			<ascii>
 				Wait, why are you taking<end_line />
-				Murno along again!?<end_line />
+				Murno with you again!?<end_line />
 			</ascii>
 		</female>
 	</dialogue>
@@ -720,7 +720,8 @@
 				ボウズ！<end_line />
 			</sjis>
 			<ascii>
-				Well then, be careful kid!<end_line />
+				Well then!<end_line />
+				Be careful, young sir!<end_line />
 			</ascii>
 		</male>
 		<female>
@@ -729,7 +730,8 @@
 				じょうちゃん！<end_line />
 			</sjis>
 			<ascii>
-				Well then, be careful kid!<end_line />
+				Well then!<end_line />
+				Be careful, little lady!<end_line />
 			</ascii>
 		</female>
 	</dialogue>

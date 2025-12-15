@@ -33,8 +33,8 @@
 			あなた鍛冶師ね<end_line />
 		</sjis>
 		<ascii>
-			My, that hammer and a Summon Beast<three_dots /><end_line />
-			You must be a Craftknight.<end_line />
+			Oh! Your hammer and Summon Beast<three_dots /><end_line />
+			You must be a Craftknight!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -163,10 +163,12 @@
 			顔を売っている段階なんだって<end_line />
 		</sjis>
 		<ascii>
-			You know, my mom is a peddler.<end_line />
-			We're trying to make ourselves known<end_line />
-			with Craftknights and blacksmiths.<end_line />
+			My mom and I are peddlers!<end_line />
+			Currently we're acquainting with so<end_line />
+			many Craftknights and artisans!<end_line />
 		</ascii>
+# Someone translated this as "Craftknights and blacksmiths"
+# ...........................why.
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -178,8 +180,8 @@
 		</sjis>
 		<ascii>
 			We plan on opening a shop.<end_line />
-			That's why I have to work hard<end_line />
-			to save up money.<end_line />
+			That's why I have to work<end_line />
+			hard to save up money!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -191,7 +193,7 @@
 		</sjis>
 		<ascii>
 			You're a Craftknight, aren't you?<end_line />
-			Want to hear about enhancement?<end_line />
+			Wanna hear about enhancement tips?<end_line />
 		</ascii>
 	</dialogue>
 	<choice>
@@ -201,7 +203,7 @@
 				聞いてみる<end_line />
 			</sjis>
 			<ascii>
-				Listen to her lecture<end_line />
+				Sure thing!<end_line />
 			</ascii>
 		</option>
 		<option>
@@ -209,7 +211,7 @@
 				特に聞かない<end_line />
 			</sjis>
 			<ascii>
-				Not interested<end_line />
+				Nah, I'm fine.<end_line />
 			</ascii>
 		</option>
 	</choice>
@@ -222,9 +224,9 @@
 			武器に付加されるの<end_line />
 		</sjis>
 		<ascii>
-			Um, let's see. If you use<end_line />
+			Let's see here<three_dots />If you use an<end_line />
 			<quote />Aqua Stone Fragment<quote />, your weapon<end_line />
-			will gain the Water element.<end_line />
+			is imbued with the Water element!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -236,9 +238,9 @@
 			販売中なの〜<end_line />
 		</sjis>
 		<ascii>
-			Amazingly, for one time only,<end_line />
-			I have an <quote />Aqua Stone Fragment<quote /><end_line />
-			on sale for only 100 Boam~<end_line />
+			But wait, there's more!<end_line />
+			As a special offer, I'm selling it<end_line />
+			for merely<three_dots />100 Boam!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -277,7 +279,7 @@
 			ありがと〜<end_line />
 		</sjis>
 		<ascii>
-			Thanks~<end_line />
+			Thanks you for your patronage!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -289,9 +291,9 @@
 			商談不成立だよ〜<end_line />
 		</sjis>
 		<ascii>
-			Ehh~ What's this~<end_line />
-			You don't have enough money~<end_line />
-			Negotiations have broken down~<end_line />
+			Whaaaaaat!? What do you mean<end_line />
+			you don't have enough money!?<end_line />
+			I'm calling this deal off!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -302,9 +304,9 @@
 			ケチ〜<end_line />
 		</sjis>
 		<ascii>
-			Eh~ You make me explain but<end_line />
-			aren't buying anything?<end_line />
-			Cheapskate~<end_line />
+			Whaaat!? You make me talk a lot<end_line />
+			but you don't want to buy from me?<end_line />
+			Cheapskate!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -315,9 +317,9 @@
 			せっかくのお客さんだと思ったのに〜<end_line />
 		</sjis>
 		<ascii>
-			Eeh? You won't even listen?!<end_line />
+			Whaaat? You're not interested?!<end_line />
 			Just when I thought<end_line />
-			I finally had a new client<three_dots /><end_line />
+			I finally had a customer<three_dots /><end_line />
 		</ascii>
 	</dialogue>
 </tl_file>

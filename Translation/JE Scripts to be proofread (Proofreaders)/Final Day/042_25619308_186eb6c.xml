@@ -359,8 +359,8 @@
 			あ、アニキ！<end_line />
 		</sjis>
 		<ascii>
-			Eh<three_dots />!?<end_line />
-			Ah, Brother!<end_line />
+			Wha<three_dots />!?<end_line />
+			Ah, Bro!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -384,7 +384,7 @@
 			親方ぁっ！？<end_line />
 		</sjis>
 		<ascii>
-			Brother?<end_line />
+			Bro?<end_line />
 			Master!?<end_line />
 		</ascii>
 	</dialogue>

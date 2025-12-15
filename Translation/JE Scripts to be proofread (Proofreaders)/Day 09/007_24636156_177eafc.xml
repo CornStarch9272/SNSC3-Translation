@@ -23,9 +23,9 @@
 			特に歓迎はできませんが<end_line />
 		</sjis>
 		<ascii>
-			Drop by whenever you like.<end_line />
-			Though we can't give you<end_line />
-			any special reception.<end_line />
+			Feel free to visit anytime!<end_line />
+			Not that we'd be able to give<end_line />
+			you a proper welcome, though<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -36,8 +36,8 @@
 			強力な武器が必要だと思うんだ<end_line />
 		</sjis>
 		<ascii>
-			I think we need a powerful weapon<end_line />
-			in order to protect this village.<end_line />
+			We need powerful weapons if<end_line />
+			we are to protect this village.<end_line />
 		</ascii>
 	</dialogue>
 </tl_file>

@@ -14,5 +14,10 @@
 			宿の娘はしっかり者でなくて<end_line />
 			ちゃっかり者じゃった<three_dots /><end_line />
 		</sjis>
+		<ascii>
+			The innkeepers' daughter doesn't<end_line />
+			seem so dependable<three_dots />but I have to<end_line />
+			admit, she's a very clever girl<three_dots /><end_line />
+		</ascii>
 	</dialogue>
 </tl_file>

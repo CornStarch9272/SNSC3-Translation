@@ -37,12 +37,11 @@
 			カウンターに店員がいないときには<end_line />
 			勝手に買い物してください<end_line />
 		</sjis>
-		<ascii>
-			A message from Gallahan's Workshop.<end_line />
-			If the clerk is not at the counter,<end_line />
-			please complete your purchase<end_line />
-			on your own.<end_line />
-		</ascii>
+  		<ascii>
+    		A notice From Gallahan's Workshop:<end_line>
+    		When a clerk is not at the counter,<end_line>
+    		please shop at your own convenience.<end_line>
+  		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -79,7 +78,7 @@
 		</sjis>
 		<ascii>
 			Aren't there any amazing<end_line />
-			Craftknight's here~?<end_line />
+			Craftknights here~?<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -89,9 +88,9 @@
 			どっかに景気のいい話、<end_line />
 			落ちてないかな〜<end_line />
 		</sjis>
-		<ascii>
-			Won't you please have<end_line />
-			a conversation with me~<end_line />
-		</ascii>
+  		<ascii>
+    		I wonder if I'll get any<end_line>
+    		good news for my sales~<end_line>
+  		</ascii>
 	</dialogue>
 </tl_file>

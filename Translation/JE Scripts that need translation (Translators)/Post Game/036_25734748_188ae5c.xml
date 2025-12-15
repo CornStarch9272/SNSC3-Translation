@@ -7,6 +7,10 @@
 			ボスタフおやかたって<end_line />
 			いつかえってくるのかな<three_dots /><end_line />
 		</sjis>
+		<ascii>
+			When is Master Bostaph<end_line />
+			coming back<three_dots />?<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="right" />
@@ -16,5 +20,9 @@
 			きょうのエリエのおしごとは<end_line />
 			こうぼうのおかたづけなんだよ<end_line />
 		</sjis>
+		<ascii>
+			Elieze's chore today is to<end_line />
+			help clean up the Workshop!<end_line />
+		</ascii>
 	</dialogue>
 </tl_file>

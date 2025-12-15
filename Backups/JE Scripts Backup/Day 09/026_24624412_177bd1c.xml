@@ -38,8 +38,8 @@
     てめぇの相手してるヒマなんて<end_line>
     ねぇんだよ<end_line>
   </sjis>
-  <ascii>
-    I don't have time<end_line>
-    to play with you.<end_line>
-  </ascii>
+	<ascii>
+		I don't have the time to<end_line />
+		fool around with you, kid!<end_line />
+	</ascii>
 </dialogue>

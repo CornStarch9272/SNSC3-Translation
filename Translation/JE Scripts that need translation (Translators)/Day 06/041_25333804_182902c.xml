@@ -8,7 +8,7 @@
 			私を信じて、早く戻りましょう！<end_line />
 		</sjis>
 		<ascii>
-			No, <player_nickname />,<end_line />
+			No, <player_nickname />!<end_line />
 			<partner /> is the imposter!<end_line />
 			Believe me, let's go back!<end_line />
 		</ascii>
@@ -21,6 +21,11 @@
 			オレは<three_dots /><end_line />
 			オレは<three_dots />！<end_line />
 		</sjis>
+		<ascii>
+			<partner /><three_dots />Murno<three_dots /><end_line />
+			I<three_dots /><end_line />
+			I<three_dots />!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<player gender="female" />
@@ -388,7 +393,7 @@
 			よかった<end_line />
 		</sjis>
 		<ascii>
-			Thank goodness.<end_line />
+			Thank goodness!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -417,7 +422,7 @@
 			</sjis>
 			<ascii>
 				Even if that's true,<end_line />
-				how are we supposed to prove it!<end_line />
+				how are we supposed to prove it!?<end_line />
 			</ascii>
 		</male>
 		<female>
@@ -428,7 +433,7 @@
 			</sjis>
 			<ascii>
 				Even if that's true,<end_line />
-				how are we supposed to prove it!<end_line />
+				how are we supposed to prove it!?<end_line />
 			</ascii>
 		</female>
 	</dialogue>
@@ -905,7 +910,7 @@
 		</sjis>
 		<ascii>
 			Why!?<end_line />
-			That person is surely an imposter!<end_line />
+			Your partner is surely an imposter!<end_line />
 			Please listen to me!<end_line />
 		</ascii>
 	</dialogue>

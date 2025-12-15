@@ -4,7 +4,7 @@
 			金の派閥　エントランス<end_line />
 		</sjis>
 		<ascii>
-			Gold Faction　Entrance<end_line />
+			Gold Council　Entrance<end_line />
 		</ascii>
 	</location>
 	<dialogue>
@@ -13,6 +13,10 @@
 		<sjis>
 			今日は何もないよ<end_line />
 		</sjis>
+		<ascii>
+			There's barely anything<end_line />
+			to do today<three_dots /><end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -20,6 +24,9 @@
 		<sjis>
 			はっ！？<end_line />
 		</sjis>
+		<ascii>
+			What the heck!?<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -27,5 +34,9 @@
 		<sjis>
 			ちょっと寝てしまいました<end_line />
 		</sjis>
+		<ascii>
+			I think I kind of dozed<end_line />
+			off a little too much<three_dots />
+		</ascii>
 	</dialogue>
 </tl_file>

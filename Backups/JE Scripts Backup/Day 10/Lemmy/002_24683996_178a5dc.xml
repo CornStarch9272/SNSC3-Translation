@@ -51,8 +51,8 @@
     あ～っ！<end_line>
     仕事がおわんねぇ！<end_line>
   </sjis>
-  <ascii>
-    Argh!<end_line>
-    Work just keeps coming!<end_line>
-  </ascii>
+	<ascii>
+		Gaaah!<end_line />
+		My workload never ends!<end_line />
+	</ascii>
 </dialogue>

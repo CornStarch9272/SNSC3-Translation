@@ -398,9 +398,5 @@
 			Yay!<end_line />
 			We can finally eat!<end_line>
 		</ascii>
-		# FOR PROOFREAD
-		# 行こう！ wasn't included in the translation, and it
-		# meant "let's go!" literally but the register here is
-		# the protag heading out to eat - ergo "let's GO eat".
 	</dialogue>
 </tl_file>

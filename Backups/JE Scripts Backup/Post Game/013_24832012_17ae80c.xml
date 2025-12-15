@@ -35,10 +35,17 @@
 	<sjis>
 		預けられそうな武器が無いぞ<end_line>
 	</sjis>
+ 	<ascii>
+    	You don't have any<end_line>
+    	weapons to deposit.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<sjis>
 		ゴロゴロ<three_dots><end_line>
 	</sjis>
+	<ascii>
+		Purr<three_dots /><end_line />
+	</ascii>
 </dialogue>

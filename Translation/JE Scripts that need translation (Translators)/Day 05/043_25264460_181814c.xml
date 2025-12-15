@@ -24,8 +24,8 @@
 				ボクの妹にならない？<end_line />
 			</sjis>
 			<ascii>
-				Hey,<end_line />
-				wanna be my little sister?<end_line />
+				Hey, would you like to<end_line />
+				become my little sister?<end_line />
 			</ascii>
 		</male>
 		<female>
@@ -34,8 +34,8 @@
 				ボクの弟にならない？<end_line />
 			</sjis>
 			<ascii>
-				Hey,<end_line />
-				wanna be my little brother?<end_line />
+				Hey, would you like to<end_line />
+				become my little brother?<end_line />
 			</ascii>
 		</female>
 	</dialogue>
@@ -90,7 +90,7 @@
 			ミューノを返して！<end_line />
 		</sjis>
 		<ascii>
-			I'm not following.<end_line />
+			You're confusing me!<end_line />
 			Anyway, move!<end_line />
 			Let Murno go!<end_line />
 		</ascii>
@@ -104,8 +104,8 @@
 			どういうこと？<end_line />
 		</sjis>
 		<ascii>
-			Let her go<three_dots /> you say?<end_line />
-			What is the meaning of this?<end_line />
+			Let her go<three_dots />you say?<end_line />
+			And will you going to achieve that?<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -255,7 +255,7 @@
 				ボクの妹になるなら<end_line />
 			</sjis>
 			<ascii>
-				And you, become my little sister,<end_line />
+				And you! Be my little sister!<end_line />
 			</ascii>
 		</male>
 		<female>
@@ -263,7 +263,7 @@
 				ボクの弟になるなら<end_line />
 			</sjis>
 			<ascii>
-				And you, become my little brother,<end_line />
+				And you! Be my little brother!<end_line />
 			</ascii>
 		</female>
 	</dialogue>
@@ -275,8 +275,8 @@
 			ついてきてもいいけどね〜<end_line />
 		</sjis>
 		<ascii>
-			and we'll have loads<end_line />
-			of fun together~<end_line />
+			And we'll have lots and<end_line />
+			lots of fun together!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -690,6 +690,10 @@
 			わからないから<end_line />
 			たしかめに行きたいんだ<end_line />
 		</sjis>
+		<ascii>
+			I don't know<three_dots /><end_line />
+			That's why I need to make sure.<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<player gender="female" />
@@ -753,8 +757,8 @@
 			急ぐぞ！<end_line />
 		</sjis>
 		<ascii>
-			Done chatting?<end_line />
-			After them!<end_line />
+			Stop dawdling!<end_line />
+			After them, now!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>

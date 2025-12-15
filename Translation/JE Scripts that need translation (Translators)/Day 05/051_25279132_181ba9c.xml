@@ -5,6 +5,9 @@
 		<sjis>
 			ミューノ？<end_line />
 		</sjis>
+		<ascii>
+			<three_dots />Murno?<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="right" />
@@ -30,7 +33,7 @@
 			ケガはない？<end_line />
 		</sjis>
 		<ascii>
-			You too, Murno<three_dots /><end_line />
+			I'm glad you're safe too, Murno<three_dots /><end_line />
 			Are you hurt?<end_line />
 		</ascii>
 	</dialogue>
@@ -189,7 +192,7 @@
 			え？<end_line />
 		</sjis>
 		<ascii>
-			Eh?<end_line />
+			Why?<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -301,7 +304,7 @@
 				ずっと持ってたのか！？<end_line />
 			</sjis>
 			<ascii>
-				Destroy a city<three_dots />!?<end_line />
+				It can destroy a city<three_dots />!?<end_line />
 				You've been holding onto such<end_line />
 				a dangerous thing the whole time!?<end_line />
 			</ascii>
@@ -313,7 +316,7 @@
 				ずっと持ってたの！？<end_line />
 			</sjis>
 			<ascii>
-				Destroy a city<three_dots />!?<end_line />
+				It can destroy a city<three_dots />!?<end_line />
 				You've been holding onto such<end_line />
 				a dangerous thing the whole time!?<end_line />
 			</ascii>

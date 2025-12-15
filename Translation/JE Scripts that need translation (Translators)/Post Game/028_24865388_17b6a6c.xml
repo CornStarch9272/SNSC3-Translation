@@ -13,6 +13,9 @@
 		<sjis>
 			これは賞品じゃないのかな？<end_line />
 		</sjis>
+		<ascii>
+			Are these the prizes?<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -22,5 +25,10 @@
 			福引き券１枚につき１回の福引きが<end_line />
 			ご利用頂けます<end_line />
 		</sjis>
+		<ascii>
+			To our esteemed customers:<end_line />
+			You are entitled to 1 draw<end_line />
+			per lottery ticket.<end_line />
+		</ascii>
 	</dialogue>
 </tl_file>

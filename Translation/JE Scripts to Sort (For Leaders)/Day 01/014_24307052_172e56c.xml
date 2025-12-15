@@ -44,9 +44,9 @@
 			なんでも機械に頼ろうとする<end_line />
 		</sjis>
 		<ascii>
-			Youngsters these days are no good.<end_line />
-			Breaking rocks with a drill?<end_line />
-			If you do everything with machines,<end_line />
+			Young'uns these days are too lax!<end_line />
+			Psh, mining with drills?<end_line />
+			Letting machines do everything?<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -58,9 +58,9 @@
 			あ〜〜なっとらん<end_line />
 		</sjis>
 		<ascii>
-			you won't learn<end_line />
-			to use a hammer<three_dots /><end_line />
-			Ah~~, no good.<end_line />
+			<three_dots />Sure, that would make work easier<end_line />
+			compared to using hammers, but<three_dots /><end_line />
+			Sigh, this is no good<three_dots /><end_line />
 		</ascii>
 	</dialogue>
 </tl_file>

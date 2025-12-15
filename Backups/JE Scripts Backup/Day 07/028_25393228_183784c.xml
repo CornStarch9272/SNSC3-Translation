@@ -300,7 +300,7 @@
     落とした<three_dots>！？<end_line>
   </sjis>
   <ascii>
-    Summon Stone<three_dots>!?<end_line>
+    The Summonite<three_dots>!?<end_line>
     Did you lose it<three_dots>!?<end_line>
   </ascii>
 </dialogue>
@@ -313,7 +313,7 @@
     ぱーとなー！<end_line>
   </sjis>
   <ascii>
-    The Summon Stone!<end_line>
+    The Summonite!<end_line>
     Partner!<end_line>
   </ascii>
 </dialogue>
@@ -326,7 +326,7 @@
     <player_nickname>、これじゃ！<end_line>
   </sjis>
   <ascii>
-    The Summon Stone!<end_line>
+    The Summonite!<end_line>
     <player_nickname>, here!<end_line>
   </ascii>
 </dialogue>
@@ -353,7 +353,7 @@
   </sjis>
   <ascii>
     Ah! Here it is!<end_line>
-    The Summon Stone!<end_line>
+    The Summonite!<end_line>
   </ascii>
 </dialogue>
 <dialogue>

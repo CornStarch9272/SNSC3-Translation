@@ -22,11 +22,19 @@
 			<sjis>
 				<player_nickname />くん、ごめんなさいね<end_line />
 			</sjis>
+			<ascii>
+				<player_nickname />,<end_line />
+				I'm so sorry about Tier<end_line /><end_line />
+			</ascii>
 		</male>
 		<female>
 			<sjis>
 				<player_nickname />ちゃん、ごめんなさいね<end_line />
 			</sjis>
+			<ascii>
+				<player_nickname />,<end_line />
+				I'm so sorry about Tier<end_line /><end_line />
+			</ascii>
 		</female>
 	</dialogue>
 	<dialogue>
@@ -35,6 +43,11 @@
 		<sjis>
 			あのコ、一度言い出したらきかないの<end_line />
 		</sjis>
+		<ascii>
+			That girl just wouldn't listen<end_line />
+			listen to anyone once she sets<end_line />
+			her mind to anything<three_dots /><end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -42,6 +55,10 @@
 		<sjis>
 			うちのコ、迷惑かけてない？<end_line />
 		</sjis>
+		<ascii>
+			Has my daughter been<end_line />
+			causing you any trouble?<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -51,5 +68,10 @@
 			立ち入り禁止！！<end_line />
 			　　　　　　　　　　　ティエ<end_line />
 		</sjis>
+		<ascii>
+			A lady's secret lies beyond here<hearth /><end_line />
+			NO TRESPASSING!!!<end_line />
+			　　　　　　　　　　　-Tier<end_line>
+		</ascii>
 	</dialogue>
 </tl_file>

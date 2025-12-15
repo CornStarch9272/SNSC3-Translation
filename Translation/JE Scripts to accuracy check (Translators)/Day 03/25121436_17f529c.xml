@@ -513,7 +513,6 @@
 		<ascii>
 			V.E handed over the money!<end_line />
 		</ascii>
-		# Changed Vee to V.E
 	</popup>
 	<dialogue>
 		<info box="right" />

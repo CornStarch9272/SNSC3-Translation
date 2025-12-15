@@ -4,7 +4,7 @@
 			金の派閥　エントランス<end_line />
 		</sjis>
 		<ascii>
-			Gold Faction　Entrance<end_line />
+			Gold Council　Entrance<end_line />
 		</ascii>
 	</location>
 	<dialogue>
@@ -16,8 +16,8 @@
 			ちょっと、頼りないよね<end_line />
 		</sjis>
 		<ascii>
-			Mr. Velworen?<end_line />
-			Mmm, honestly,<end_line />
+			Mr. Velvoren?<end_line />
+			Hrmm, if I have to be honest<three_dots /><end_line />
 			I think he's unreliable.<end_line />
 		</ascii>
 	</dialogue>

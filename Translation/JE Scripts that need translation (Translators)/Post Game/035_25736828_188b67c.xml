@@ -6,5 +6,8 @@
 		<sjis>
 			ん<three_dots /><end_line />
 		</sjis>
+		<ascii>
+			Hm<three_dots /><end_line />
+		</ascii>
 	</dialogue>
 </tl_file>

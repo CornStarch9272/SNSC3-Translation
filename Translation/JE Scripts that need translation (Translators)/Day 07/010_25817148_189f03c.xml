@@ -3,11 +3,17 @@
 		<sjis>
 			グマグの炎遺跡<end_line />
 		</sjis>
+		<ascii>
+			Gumag Fire Ruins<end_line />
+		</ascii>
 	</location>
 	<location>
 		<sjis>
 			グマグの炎遺跡　エリア１<end_line />
 		</sjis>
+		<ascii>
+			Gumag Fire Ruins　Area 1<end_line />
+		</ascii>
 	</location>
 	<dialogue>
 		<sjis>
@@ -39,8 +45,9 @@
 			押すことで開く事ができます<end_line />
 		</sjis>
 		<ascii>
-			This door may be opened by hitting<end_line />
-			it's switch with the correct weapon.<end_line />
+			Open the door by pressing<end_line />
+			the matching switch for<end_line />
+			the weapon shown.<end_line />
 		</ascii>
 	</dialogue>
 </tl_file>

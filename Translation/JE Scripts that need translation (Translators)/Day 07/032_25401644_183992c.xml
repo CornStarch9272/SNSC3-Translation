@@ -137,7 +137,7 @@
 				元気でね！<end_line />
 			</sjis>
 			<ascii>
-				You too, uncle<three_dots /><end_line />
+				You too, mister<three_dots /><end_line />
 				Farewell!<end_line />
 			</ascii>
 		</female>
@@ -409,7 +409,6 @@
 			やっぱり、娘さんのことを<three_dots /><end_line />
 		</sjis>
 		<ascii>
-			If I may, you must be<end_line />
 			worried for the girl<three_dots /><end_line />
 		</ascii>
 	</dialogue>
@@ -422,8 +421,8 @@
 			オレはもう行くぞ<end_line />
 		</sjis>
 		<ascii>
-			What are you going on about?<end_line />
-			I'm leaving.<end_line />
+			What are you talking about?<end_line />
+			I'm leaving!<end_line />
 		</ascii>
 	</dialogue>
 </tl_file>

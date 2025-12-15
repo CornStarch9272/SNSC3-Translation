@@ -11,6 +11,9 @@
 		<sjis>
 			ゴヴァンの遺跡　魔力増幅の間<end_line />
 		</sjis>
+		<ascii>
+			Govan Ruins　Magic Amplifier Area<end_line />
+		</ascii>
 	</location>
 	<dialogue>
 		<info box="simple" />

@@ -342,7 +342,7 @@
 		</sjis>
 		<ascii>
 			I can tell from looking at it!<end_line />
-			Youu're lucky it didn't break!<end_line />
+			You're lucky it didn't break!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -402,7 +402,7 @@
 			了解デス<end_line />
 		</sjis>
 		<ascii>
-			Afffirmative.<end_line />
+			Affirmative.<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -541,7 +541,7 @@
 			了解デス！<end_line />
 		</sjis>
 		<ascii>
-			Roger!<end_line />
+			Affirmative!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>

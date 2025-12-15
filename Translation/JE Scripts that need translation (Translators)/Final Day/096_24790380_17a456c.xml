@@ -288,8 +288,8 @@
 			　　ユメをかなえるまでは、ね<three_dots />　　　<end_line />
 		</sjis>
 		<ascii>
-			Until we fulfil<end_line />
-			our dreams, together<three_dots /><end_line />
+			Until we fulfill<end_line />
+			our dreams together<three_dots /><end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -362,6 +362,11 @@
 			こういうときこそ<end_line />
 			気合いを入れなくちゃな！<end_line />
 		</sjis>
+		<ascii>
+			The Strays are on a rampage<end_line />
+			again! This is when we need<end_line />
+			to remain extra vigilant!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -371,6 +376,11 @@
 			声をかけはじめたの<end_line />
 			まぁ、話し合いにはならなかったけど<end_line />
 		</sjis>
+		<ascii>
+			Mom started to talk a lot to<end_line />
+			Master Benson.<end_line />
+			<three_dots />Well, if you see it that way.<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -380,6 +390,11 @@
 			お仕事であったりするときに<end_line />
 			楽しくないとね〜<end_line />
 		</sjis>
+		<ascii>
+			Me, I'm looking for a cool kinda<end_line />
+			person! Work is super boring if you<end_line />
+			don't know how to have fun, y'know!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -388,6 +403,10 @@
 			ところであなたは、鍛冶師みたいだけど<end_line />
 			強化の情報を聞いていかない？<end_line />
 		</sjis>
+		<ascii>
+			You're a Craftknight, aren't you?<end_line />
+			Wanna hear about enhancement tips?<end_line />
+		</ascii>
 	</dialogue>
 	<choice>
 		<info box="simple" />
@@ -395,11 +414,17 @@
 			<sjis>
 				聞いてみる<end_line />
 			</sjis>
+			<ascii>
+				Sure thing!<end_line />
+			</ascii>
 		</option>
 		<option>
 			<sjis>
 				特に聞かない<end_line />
 			</sjis>
+			<ascii>
+				Nah, I'm fine.<end_line />
+			</ascii>
 		</option>
 	</choice>
 	<dialogue>
@@ -410,6 +435,11 @@
 			３個使うと特殊効果の<quote />中リペア<quote />が<end_line />
 			武器に付加されるの<end_line />
 		</sjis>
+		<ascii>
+			Let's see<three_dots />Using an <quote />Old<end_line />
+			Grindstone<quote /> to enhance your weapon<end_line />
+			imbues the <quote />Battle Repair<quote /> effect.<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -419,6 +449,11 @@
 			<quote />古びた砥石<quote />３個を<end_line />
 			４５００バームで販売中なの〜<end_line />
 		</sjis>
+		<ascii>
+			And would you look at that,<end_line />
+			I have one such <quote />Ruin Switch<quote /><end_line />
+			available for only<three_dots />4500 Boam!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -426,6 +461,9 @@
 		<sjis>
 			買ってくれます？<end_line />
 		</sjis>
+		<ascii>
+			How about it?<end_line />
+		</ascii>
 	</dialogue>
 	<choice>
 		<info box="simple" />
@@ -433,11 +471,17 @@
 			<sjis>
 				買う<end_line />
 			</sjis>
+			<ascii>
+				Buy<end_line />
+			</ascii>
 		</option>
 		<option>
 			<sjis>
 				買わない<end_line />
 			</sjis>
+			<ascii>
+				Don't buy<end_line />
+			</ascii>
 		</option>
 	</choice>
 	<dialogue>
@@ -446,6 +490,9 @@
 		<sjis>
 			ありがと〜<end_line />
 		</sjis>
+		<ascii>
+			Thank you for your patronage!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -455,6 +502,11 @@
 			お金たりないの〜<end_line />
 			商談不成立だよ〜<end_line />
 		</sjis>
+		<ascii>
+			Whaaaaaat!? What do you mean<end_line />
+			you don't have enough money!?<end_line />
+			I'm calling this deal off!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -463,6 +515,11 @@
 			え〜聞くだけ聞いて買ってくれないの〜<end_line />
 			ケチ〜<end_line />
 		</sjis>
+		<ascii>
+			Whaaat!? You make me talk a lot<end_line />
+			but you don't want to buy from me?<end_line />
+			Cheapskate!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -471,6 +528,11 @@
 			え〜聞いてくれないの〜<end_line />
 			せっかくのお客さんだと思ったのに〜<end_line />
 		</sjis>
+		<ascii>
+			Whaaat? You're not interested?!<end_line />
+			Just when I thought<end_line />
+			I finally had a customer<three_dots /><end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -479,5 +541,9 @@
 			　　　プロスバンの町の創設者<end_line />
 			　　　勇者プロスバンの石像<end_line />
 		</sjis>
+		<ascii>
+			　　　The Founder Of This City,<end_line />
+			　　　Our Hero Prosban<end_line />
+		</ascii>
 	</dialogue>
 </tl_file>

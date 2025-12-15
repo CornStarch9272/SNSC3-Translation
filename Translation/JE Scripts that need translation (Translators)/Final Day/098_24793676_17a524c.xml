@@ -19,6 +19,9 @@
 		<sjis>
 			何らかのメッセージ予定<end_line />
 		</sjis>
+		<ascii>
+			Some kind of message planned.<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -27,6 +30,9 @@
 			本当にブッソウだよなぁ<end_line />
 			早く家に帰りたいな<three_dots /><end_line />
 		</sjis>
+		<ascii>
+			This is too risky for me!<end_line />
+			I wanna go home<three_dots /><end_line />
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -35,6 +41,10 @@
 			　<end_line />
 			　　　　　〜困ってます〜<end_line />
 		</sjis>
+		<ascii>
+			　<end_line />
+			　　　　　Looking for help!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -43,6 +53,11 @@
 			スパイスが手に入らなくて困ってます<end_line />
 			どこかに売っていないだろうか？<end_line />
 		</sjis>
+		<ascii>
+			I'm having a hard time trying to<end_line />
+			stock up on spices<three_dots /><end_line />
+			Do you know where I can get them?<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -52,6 +67,11 @@
 			　<end_line />
 			　　　　　　　　　　<black_dot /><left_arrow />のぞき穴<end_line />
 		</sjis>
+		<ascii>
+			　<end_line />
+			　<end_line />
+			　<black_dot /><left_arrow />Peep hole<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -59,6 +79,9 @@
 		<sjis>
 			たいした根性だ<end_line />
 		</sjis>
+		<ascii>
+			Aw man, you've got guts!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -67,6 +90,10 @@
 			　<end_line />
 			　　　　　<paw />探しています<paw /><end_line />
 		</sjis>
+		<ascii>
+			　<end_line />
+			　　　　　<paw />Searching<paw /><end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -76,5 +103,10 @@
 			闇にまぎれて逃げられました<end_line />
 			見つけた方は連絡ください<end_line />
 		</sjis>
+		<ascii>
+			I'm looking for a black cat.<end_line />
+			I think it fled to a dark alley.<end_line />
+			Let me know if you find it.<end_line />
+		</ascii>
 	</dialogue>
 </tl_file>

@@ -17,8 +17,12 @@
 		</sjis>
 		<ascii>
 			Gallahan's late wife and<end_line />
-			children were slain by a man<end_line />
+			child were slain by a man<end_line />
 			named Voijin<three_dots /><end_line />
 		</ascii>
+		# Gallahan's kid is set as the same gender as the protag.
+		# (There is an exact same alternate dialogue broken into different
+		# sjs lines that are dependent on gender conditions, but this is different)
+		# Maintain gender neutrality in gender-neutral cases like this.
 	</dialogue>
 </tl_file>

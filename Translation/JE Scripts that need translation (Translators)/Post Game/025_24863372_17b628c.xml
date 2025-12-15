@@ -11,5 +11,8 @@
 		<sjis>
 			ゴロゴロ<three_dots /><end_line />
 		</sjis>
+		<ascii>
+			Purr<three_dots /><end_line />
+		</acii>
 	</dialogue>
 </tl_file>

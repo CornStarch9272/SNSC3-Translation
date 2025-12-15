@@ -10,7 +10,7 @@
 		</sjis>
 		<ascii>
 			Master?!<end_line />
-			Big bro!?<end_line />
+			You too, Bro!?<end_line />
 			Why are you here!?<end_line />
 		</ascii>
 	</dialogue>
@@ -24,7 +24,7 @@
 		</sjis>
 		<ascii>
 			Master?!<end_line />
-			Big bro!?<end_line />
+			You too, Bro!?<end_line />
 			Why are you here!?<end_line />
 		</ascii>
 	</dialogue>
@@ -240,7 +240,7 @@
 			それは<three_dots /><end_line />
 		</sjis>
 		<ascii>
-			<three_dots /><end_line />
+			But<three_dots /><end_line />
 		</ascii>
 	</dialogue>
 	<choice>
@@ -300,8 +300,8 @@
 			イイ子だ！<end_line />
 		</sjis>
 		<ascii>
-			Okay!<end_line />
-			Good!<end_line />
+			Good call!<end_line />
+			You rock, kid!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -326,7 +326,7 @@
 			親方<three_dots /><end_line />
 		</sjis>
 		<ascii>
-			Big bro<three_dots /><end_line />
+			Bro<three_dots /><end_line />
 			Master<three_dots /><end_line />
 		</ascii>
 	</dialogue>

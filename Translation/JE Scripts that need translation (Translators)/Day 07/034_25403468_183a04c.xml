@@ -285,7 +285,7 @@
 			心配していると思うわ<end_line />
 		</sjis>
 		<ascii>
-			And I'm sure Vee and<end_line />
+			And I'm sure V.E and<end_line />
 			the others are worried.<end_line />
 		</ascii>
 	</dialogue>
@@ -360,7 +360,7 @@
 			うふふ<three_dots /><end_line />
 		</sjis>
 		<ascii>
-			Ufufu<three_dots /><end_line />
+			Heehee<three_dots /><end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -371,6 +371,10 @@
 			え！？<end_line />
 			オレ、なんかヘンなこと言った？<end_line />
 		</sjis>
+		<ascii>
+			What!?<end_line />
+			Did I say something weird?<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<player gender="female" />
@@ -381,7 +385,7 @@
 			わたし、なんかヘンなこと言った？<end_line />
 		</sjis>
 		<ascii>
-			Did I say something strange?<end_line />
+			Did I say something weird?<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -421,6 +425,10 @@
 			えへへ<end_line />
 			そんなにほめるなよ〜<end_line />
 		</sjis>
+		<ascii>
+			Hehehe<three_dots /><end_line />
+			Don't praise me so much<three_dots /><end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<player gender="female" />
@@ -432,7 +440,7 @@
 			そんなにほめないでよ〜<end_line />
 		</sjis>
 		<ascii>
-			Don't praise me so much~<end_line />
+			Don't praise me so much<three_dots /><end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -470,6 +478,10 @@
 			えへへ<end_line />
 			そんなにほめるなよ〜<end_line />
 		</sjis>
+		<ascii>
+			Hehehe<three_dots /><end_line />
+			Don't praise me so much<three_dots /><end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<player gender="female" />
@@ -481,7 +493,7 @@
 			そんなにほめないでよ〜<end_line />
 		</sjis>
 		<ascii>
-			Don't praise me so much~<end_line />
+			Don't praise me so much<three_dots /><end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -519,6 +531,10 @@
 			えへへ<end_line />
 			そんなにほめるなよ〜<end_line />
 		</sjis>
+		<ascii>
+			Hehehe<three_dots /><end_line />
+			Don't praise me so much<three_dots /><end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<player gender="female" />
@@ -530,7 +546,7 @@
 			そんなにほめないでよ〜<end_line />
 		</sjis>
 		<ascii>
-			Don't praise me so much~<end_line />
+			Don't praise me so much<three_dots /><end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -542,7 +558,7 @@
 			本当に幸せなヤツだ<end_line />
 		</sjis>
 		<ascii>
-			Ignorance is bliss, they say.<end_line />
+			You're too easy to please<three_dots /><end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -568,6 +584,10 @@
 			えへへ<end_line />
 			そんなにほめるなよ〜<end_line />
 		</sjis>
+		<ascii>
+			Hehehe<three_dots /><end_line />
+			Don't praise me so much<three_dots /><end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<player gender="female" />
@@ -579,7 +599,7 @@
 			そんなにほめないでよ〜<end_line />
 		</sjis>
 		<ascii>
-			Don't praise me so much~<end_line />
+			Don't praise me so much<three_dots /><end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -603,7 +623,7 @@
 			向かいましょう<end_line />
 		</sjis>
 		<ascii>
-			Anyway, let's head into town.<end_line />
+			Anyway, let's head back to town.<end_line />
 		</ascii>
 	</dialogue>
 </tl_file>

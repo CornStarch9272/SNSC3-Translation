@@ -5,7 +5,7 @@
 				態勢を整える！<end_line />
 			</sjis>
 			<ascii>
-				Get ready!<end_line />
+				Let me get ready!<end_line />
 			</ascii>
 		</option>
 		<option>
@@ -13,7 +13,7 @@
 				戦う<end_line />
 			</sjis>
 			<ascii>
-				Fight<end_line />
+				I'm ready to fight!<end_line />
 			</ascii>
 		</option>
 	</menu>
@@ -22,7 +22,7 @@
 			武器を１本にして下さい<end_line />
 		</sjis>
 		<ascii>
-			Please equip only one weapon<end_line />
+			Please equip only one weapon.<end_line />
 		</ascii>
 	</popup>
 </tl_file>

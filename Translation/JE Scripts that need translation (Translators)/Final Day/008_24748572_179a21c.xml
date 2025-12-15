@@ -49,9 +49,9 @@
 			どっかに景気のいい話、<end_line />
 			落ちてないかな〜<end_line />
 		</sjis>
-		<ascii>
-			I wonder if I'll get good news<end_line />
-			about the economy right about now<three_dots /><end_line />
-		</ascii>
+	  	<ascii>
+  			I wonder if I'll get any<end_line>
+    		good news for my sales~<end_line>
+  		</ascii>
 	</dialogue>
 </tl_file>

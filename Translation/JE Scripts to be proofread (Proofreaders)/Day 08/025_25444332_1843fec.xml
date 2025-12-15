@@ -432,7 +432,7 @@
 			</sjis>
 			<ascii>
 				Don't give up,<end_line />
-				Brother!<end_line />
+				Mr. <player_nickname />!<end_line />
 			</ascii>
 		</male>
 		<female>
@@ -442,7 +442,7 @@
 			</sjis>
 			<ascii>
 				Don't give up,<end_line />
-				Sister!<end_line />
+				Ms. <player_nickname />!<end_line />
 			</ascii>
 		</female>
 	</dialogue>
@@ -455,8 +455,8 @@
 			あはははは<three_dots /><end_line />
 		</sjis>
 		<ascii>
-			Eh!?<end_line />
-			A-ahahaha<three_dots /><end_line />
+			Wha<three_dots />!?<end_line />
+			Aha, ahahah<three_dots /><end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>

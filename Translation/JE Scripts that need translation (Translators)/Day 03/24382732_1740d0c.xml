@@ -12,9 +12,6 @@
 			I'm worried about Tier.<end_line />
 			Let's look for her!<end_line />
 		</ascii>
-		# FOR PROOFREAD CHECK
-		# This was translated as "let's have a look", it's too literally
-		# considering in this context Tier ran away and the protag is searching for her.
 	</dialogue>
 	<dialogue>
 		<partner name="run-dor" />
@@ -27,8 +24,6 @@
 		<ascii>
 			Affirmative!<end_line />
 		</ascii>
-		# FOR PROOFREAD
-		# Changed "Understood!" to "Affirmative" bc it's more robot-y
 	</dialogue>
 	<dialogue>
 		<partner name="enzi" />
@@ -217,7 +212,7 @@
 			<three_dots />コワイのか？<end_line />
 		</sjis>
 		<ascii>
-			<three_dots />Scared?<end_line />
+			<three_dots />What, you scared?<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -297,7 +292,6 @@
 		<ascii>
 			Let's escort Tier back to Marnail.<end_line />
 		</ascii>
-		# Changed Marneil to Marnail.
 	</dialogue>
 	<dialogue>
 		<info box="right" />
@@ -309,7 +303,7 @@
 		</sjis>
 		<ascii>
 			Sorry.<end_line />
-			I'm a bother aren't I<three_dots /><end_line />
+			I'm so bothersome, aren't I<three_dots /><end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -420,7 +414,7 @@
 			そうでしたね<three_dots /><end_line />
 		</sjis>
 		<ascii>
-			Ah, uhh.<end_line />
+			Ah, uhh<three_dots /><end_line />
 			I'm fine<three_dots /><end_line />
 		</ascii>
 	</dialogue>
@@ -684,7 +678,7 @@
 			ちっ<three_dots /><end_line />
 		</sjis>
 		<ascii>
-			Tch<three_dots /><end_line />
+			Tsk<three_dots /><end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>

@@ -37,7 +37,7 @@ Validating ../Day 01\006_24969852_17d027c.xml...
 	
 
 		Say something like,
-		'I got this summon stone from Master
+		'I got this Summonite from Master
 		so I could get a partner for crafting'.
 	
 
@@ -51,7 +51,7 @@ Validating ../Day 01\006_24969852_17d027c.xml...
   
 
 		Say something like,
-		'I got this summon stone from Master
+		'I got this Summonite from Master
 		so I could get a partner for crafting'.
 	
 
@@ -69,7 +69,7 @@ Validating ../Day 01\006_24969852_17d027c.xml...
   
 
 		Say something like,
-		'I got this summon stone from Master
+		'I got this Summonite from Master
 		so I could get a partner for crafting'.
 	
 
@@ -83,7 +83,7 @@ Validating ../Day 01\006_24969852_17d027c.xml...
   
 
 		Say something like,
-		'I got this summon stone from Master
+		'I got this Summonite from Master
 		so I could get a partner for crafting'.
 	
 

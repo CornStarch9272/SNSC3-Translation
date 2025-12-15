@@ -17,11 +17,11 @@
     大きな町に行きたいわ<end_line>
     ああ～でも村の掟が<three_dots><end_line>
   </sjis>
-  <ascii>
-    I want to leave this musty village<end_line>
-    and go to a big town.<end_line>
-    Ahh~ but the village laws<three_dots><end_line>
-  </ascii>
+	<ascii>
+		I wanna leave this musty old village<end_line />
+		and head for the big city! But<three_dots /><end_line />
+		Sigh, village rules and all<three_dots /><end_line />
+	</ascii>
 </dialogue>
 <dialogue>
   <info box="simple">

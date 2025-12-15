@@ -22,11 +22,19 @@
 			<sjis>
 				宿の娘にムコが来るそうじゃ<three_dots /><end_line />
 			</sjis>
+			<ascii>
+				Rumor has it that the inkeepers'<end_line />
+				daughter has a suitor<three_dots /><end_line />
+			</ascii>
 		</male>
 		<female>
 			<sjis>
 				宿の娘に相棒が出来たそうじゃ<three_dots /><end_line />
 			</sjis>
+			<ascii>
+				Rumor has it that the inkeepers'<end_line />
+				daughter has a partner<three_dots /><end_line />
+			</ascii>
 		</female>
 	</dialogue>
 	<dialogue>
@@ -35,5 +43,8 @@
 		<sjis>
 			のどかだねぇ<end_line />
 		</sjis>
+		<ascii>
+			It's so peaceful lately<three_dots /><end_line />
+		</ascii>
 	</dialogue>
 </tl_file>

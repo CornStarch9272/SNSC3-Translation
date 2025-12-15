@@ -49,8 +49,8 @@
 			お通り下さい<end_line />
 		</sjis>
 		<ascii>
-			Those with a membership,<end_line />
-			please come this way.<end_line />
+			Only those with a Membership<end_line />
+			Card may pass.<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -62,9 +62,8 @@
 			いかないな<end_line />
 		</sjis>
 		<ascii>
-			Sorry, only those with<end_line />
-			explicit permission can<end_line />
-			go through.<end_line />
+			Sorry, but only VIPs can<end_line />
+			pass through here.<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -75,8 +74,8 @@
 			話は別だがな<end_line />
 		</sjis>
 		<ascii>
-			But if you have a membership,<end_line />
-			that's a different story.<end_line />
+			But, if you have a Membership<end_line />
+			Card, we might let you in.<end_line />
 		</ascii>
 	</dialogue>
 </tl_file>

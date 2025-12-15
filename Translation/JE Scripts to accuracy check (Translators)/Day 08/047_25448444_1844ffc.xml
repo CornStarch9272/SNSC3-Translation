@@ -179,7 +179,7 @@
 			そう、武器を鍛えに来ただけだ<end_line />
 		</sjis>
 		<ascii>
-			I, I'm<three_dots />! Weapons<three_dots /><end_line />
+			I-I'm<three_dots />! Weapons<three_dots /><end_line />
 			Right, I'm here to<end_line />
 			strengthen my weapons.<end_line />
 		</ascii>
@@ -303,8 +303,8 @@
 			ドンカンですわ<end_line />
 		</sjis>
 		<ascii>
-			Really.<end_line />
-			He's so inconsiderate.<end_line />
+			He truly is.<end_line />
+			What an inconsiderate man!<end_line />
 		</ascii>
 	</dialogue>
 </tl_file>

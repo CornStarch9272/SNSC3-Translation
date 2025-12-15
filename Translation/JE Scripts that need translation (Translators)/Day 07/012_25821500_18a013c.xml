@@ -14,7 +14,7 @@
 			グマグの炎遺跡　エリア３<end_line />
 		</sjis>
 		<ascii>
-			Gumag Fire Ruins Area 3<end_line />
+			Gumag Fire Ruins　Area 3<end_line />
 		</ascii>
 		# FOR PROOFREAD CHECK
 		# Doublecheck if Gumag is a consistent name.
@@ -25,8 +25,9 @@
 			押すことで開く事ができます<end_line />
 		</sjis>
 		<ascii>
-			This door can be opened by hitting<end_line />
-			its switch with a weapon.<end_line />
+			Open the door by pressing<end_line />
+			the matching switch for<end_line />
+			the weapon shown.<end_line />
 		</ascii>
 	</dialogue>
 </tl_file>

@@ -55,9 +55,9 @@
 			クズどもめ<three_dots />、ここまで<three_dots /><end_line />
 		</sjis>
 		<ascii>
-			They're<three_dots /><end_line />
-			Tch<three_dots /><end_line />
-			Damn trash<three_dots /><end_line />
+			They're<three_dots />!<end_line />
+			Tsk<three_dots /><end_line />
+			To think they'd stoop that low<three_dots /><end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -121,12 +121,8 @@
 		</sjis>
 		<ascii>
 			You know each other?<end_line />
-			Have a Summon Beast too, huh<three_dots /><end_line />
+			You've got a Summon Beast too<three_dots /><end_line />
 		</ascii>
-		# FOR PROOFREAD
-		# 召喚獣づれか lit. means "You got a Summon Beast too?"
-		# The soldier is rude and cautious so I proofread the
-		# "Have a Summon Beast too, huh..." and changed it.
 	</dialogue>
 	<dialogue>
 		<info box="left" />
@@ -185,7 +181,8 @@
 			まさか、さっき言ってたのって<three_dots /><end_line />
 		</sjis>
 		<ascii>
-			Maybe this is it<three_dots />?<end_line />
+			Could they be who we've<end_line />
+			been looking for<three_dots />?<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -394,6 +391,7 @@
 			またもめてるよ<three_dots /><end_line />
 		</sjis>
 		<ascii>
+			Sigh<three_dots /><end_line />
 			I gotta give her credit,<end_line />
 			she's persistent<three_dots /><end_line />
 		</ascii>
@@ -409,7 +407,7 @@
 			ナリマセン<end_line />
 		</sjis>
 		<ascii>
-			They Are The Enemy.<end_line />
+			They Are The Enemy!<end_line />
 			They Cannot Be Allowed<end_line />
 			Near Lady Murno.<end_line />
 		</ascii>
@@ -452,8 +450,8 @@
 		</sjis>
 		<ascii>
 			They're the enemy!<end_line />
-			We can't let them<end_line />
-			get close to Murno, or<three_dots />!<end_line />
+			We can't let them get close<end_line />
+			to Murno, or else<three_dots />!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>

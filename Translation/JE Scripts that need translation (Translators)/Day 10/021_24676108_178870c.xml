@@ -37,6 +37,10 @@
 			　<end_line />
 			　　　　　　〜求む！〜<end_line />
 		</sjis>
+		<ascii>
+			　<end_line />
+			　　　　Seek knowledge!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -45,6 +49,10 @@
 			エンガワを探しています<end_line />
 			誰か売っているところ知りませんか？<end_line />
 		</sjis>
+		<ascii>
+			I'm looking for dorsal fin meat<three_dots /><end_line />
+			Do you know where I can buy some?<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -54,6 +62,11 @@
 			いつでもいいじゃん<end_line />
 			　　　　　　　　　　　自由人<end_line />
 		</sjis>
+		<ascii>
+			Chin up! It'll be just peachy<end_line />
+			come today or tomorrow!<end_line />
+			　　　　　　　　　　　-A Free Person<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -63,6 +76,11 @@
 			体力も回復しますが、起こされる時は<end_line />
 			イタイ目にあいます<end_line />
 		</sjis>
+		<ascii>
+			If you get hit by a sleep attack,<end_line />
+			you become immobile and recover HP!<end_line />
+			But when you awaken, it'll hurt<three_dots /><end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -72,6 +90,11 @@
 			　　　　　　　　約<end_line />
 			　　　　　　　　は<end_line />
 		</sjis>
+		<ascii>
+			　　　　　　　　To<end_line />
+			　　　　　　　　Be<end_line />
+			　　　　　　　　Frugal<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -81,5 +104,10 @@
 			　　　　　　　　徳<end_line />
 			　　　　　　　　だ<end_line />
 		</sjis>
+		<ascii>
+			　　　　　　　　Is<end_line />
+			　　　　　　　　A<end_line />
+			　　　　　　　　Virtue<end_line />
+		</ascii>
 	</dialogue>
 </tl_file>

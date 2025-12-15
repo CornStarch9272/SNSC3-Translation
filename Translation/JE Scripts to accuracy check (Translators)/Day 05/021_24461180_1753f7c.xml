@@ -107,7 +107,7 @@
 			聞いてる？オマエ？<end_line />
 		</sjis>
 		<ascii>
-			I'm a member of the Gold Faction.<end_line />
+			I'm a member of the Gold Council.<end_line />
 			Hey, are you listening?<end_line />
 		</ascii>
 	</dialogue>
@@ -165,7 +165,7 @@
 			って言われて見るのか<end_line />
 		</sjis>
 		<ascii>
-			And you actually did it.<end_line />
+			<three_dots />And you actually did it.<end_line />
 		</ascii>
 	</dialogue>
 </tl_file>

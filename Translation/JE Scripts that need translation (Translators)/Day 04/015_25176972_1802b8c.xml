@@ -250,7 +250,7 @@
 		<ascii>
 			I am with V.E, so I'm not<end_line />
 			worried either.<end_line />
-			Let's go, V.E.<end_line />
+			Let's go, V.E.!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -261,7 +261,7 @@
 			え、ああ<three_dots /><end_line />
 		</sjis>
 		<ascii>
-			Eh, wai-<three_dots /><end_line />
+			What, wait<three_dots /><end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -271,7 +271,7 @@
 			う<three_dots /><end_line />
 		</sjis>
 		<ascii>
-			<three_dots /><end_line />
+			Urgh<three_dots /><end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -304,7 +304,7 @@
 				ねぇ<three_dots />なにか言ってよ<three_dots /><end_line />
 			</sjis>
 			<ascii>
-				Hey<three_dots /> say something<three_dots /><end_line />
+				Hey<three_dots />say something<three_dots /><end_line />
 			</ascii>
 		</female>
 	</dialogue>
@@ -318,7 +318,7 @@
 			何をやっているのだ<three_dots /><end_line />
 		</sjis>
 		<ascii>
-			Geez<three_dots /><end_line />
+			Goodness<three_dots /><end_line />
 			What are you doing<three_dots /><end_line />
 		</ascii>
 	</dialogue>
@@ -333,7 +333,7 @@
 			</sjis>
 			<ascii>
 				Shut up!<end_line />
-				Let's go!<end_line />
+				We're going!<end_line />
 			</ascii>
 		</male>
 		<female>
@@ -343,7 +343,7 @@
 			</sjis>
 			<ascii>
 				Ugh! Forget it!<end_line />
-				Let's go!<end_line />
+				We're going!<end_line />
 			</ascii>
 		</female>
 	</dialogue>
@@ -401,6 +401,10 @@
 			う<three_dots /><end_line />
 			もう、行くぞ！<end_line />
 		</sjis>
+		<ascii>
+			Urgh<three_dots /><end_line />
+			Whatever! We're going!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<player gender="female" />
@@ -412,7 +416,7 @@
 			あー、もう、行くよ！<end_line />
 		</sjis>
 		<ascii>
-			Ahh whatever, let's go!<end_line />
+			Agh, geez! We're going!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>

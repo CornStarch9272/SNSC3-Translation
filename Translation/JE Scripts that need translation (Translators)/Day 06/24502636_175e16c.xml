@@ -9,6 +9,11 @@
 			させるもんか！<end_line />
 			急ぐぞ、<partner />！<end_line />
 		</sjis>
+		<ascii>
+			I won't ever let Murno be eaten<end_line />
+			by the Guardian Beast!<end_line />
+			Let's hurry, <partner />!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<player gender="female" />

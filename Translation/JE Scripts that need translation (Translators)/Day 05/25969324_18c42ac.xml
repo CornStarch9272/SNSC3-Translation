@@ -665,9 +665,6 @@
 			So you're not going to<end_line />
 			pay me, after all<three_dots /><end_line /> 
 		</ascii />
-		<ascii>
-			<end_line />
-		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="right" />

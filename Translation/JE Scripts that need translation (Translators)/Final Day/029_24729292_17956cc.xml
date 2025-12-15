@@ -14,7 +14,7 @@
 		</sjis>
 		<ascii>
 			　<end_line />
-			　　　　　　~Help Wanted!~<end_line />
+			　　　　Seek knowledge!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -38,7 +38,8 @@
 		</sjis>
 		<ascii>
 			　<end_line />
-			　　　　　　　　　　　　<black_dot /><left_arrow /> To Peephole<end_line />
+			　<end_line />
+			　<black_dot /><left_arrow />Peep hole<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>

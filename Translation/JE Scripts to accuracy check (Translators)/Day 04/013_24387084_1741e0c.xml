@@ -24,9 +24,9 @@
 			と言ったらなっとらん<end_line />
 		</sjis>
 		<ascii>
-			Youngsters these days are<end_line />
-			no good.<end_line />
-			They're just no good.<end_line />
+			Young'uns these days are too lax!<end_line />
+			Sigh, nothing I say goes<end_line />
+			past their ears<three_dots /><end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -38,10 +38,10 @@
 			ゆうしゃはけんしより<end_line />
 		</sjis>
 		<ascii>
-			When I'm older, I'll be a hero.<end_line />
-			Hero's are better than warriors.<end_line />
+			When I grow up, I'm gonna<end_line />
+			be a hero! Heroes are a way<end_line />
+			lot better than warriors!<end_line />
 		</ascii>
-		# Fixed typo
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -50,7 +50,7 @@
 			つよいんだよ<end_line />
 		</sjis>
 		<ascii>
-			They're stronger.<end_line />
+			Because heroes are stronger!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>

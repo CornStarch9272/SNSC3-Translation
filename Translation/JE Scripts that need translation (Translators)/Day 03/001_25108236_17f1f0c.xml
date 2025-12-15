@@ -10,9 +10,6 @@
 			I see<three_dots /><end_line />
 			I can tell you've got guts, kid.<end_line />
 		</ascii>
-		# FOR PROOFREAD
-		# "So you're determined, huh." feels a little too
-		# bland. Changed it to the "you've got guts" line.
 	</dialogue>
 	<dialogue>
 		<info box="left" />
@@ -184,7 +181,7 @@
 			あの<three_dots /><end_line />
 		</sjis>
 		<ascii>
-			Um<three_dots /><end_line />
+			Erm<three_dots /><end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -256,7 +253,7 @@
 			ミューノ<end_line />
 		</sjis>
 		<ascii>
-			For you, Murno.<end_line />
+			All for you, Murno.<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>

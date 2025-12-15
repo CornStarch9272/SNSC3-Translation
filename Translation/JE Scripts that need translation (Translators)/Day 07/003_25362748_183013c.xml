@@ -6,7 +6,7 @@
 			あ、<player_nickname /><end_line />
 		</sjis>
 		<ascii>
-			Ah, <player_nickname />.<end_line />
+			Ah, <player_nickname />!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -525,7 +525,7 @@
 			まずは遺跡前の広場に集合だ<end_line />
 		</sjis>
 		<ascii>
-			The Room of Judgment is within<end_line />
+			The Ruins Entrance is within<end_line />
 			Gumag Flame Ruins, above the<end_line />
 			Rekui Water Ruins.<end_line />
 		</ascii>

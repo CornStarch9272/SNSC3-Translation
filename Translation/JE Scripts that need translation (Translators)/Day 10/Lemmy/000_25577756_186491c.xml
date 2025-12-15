@@ -65,7 +65,7 @@
 			キサマには関係ない<end_line />
 		</sjis>
 		<ascii>
-			I have to talk to Murno.<end_line />
+			I have to talk to Murno. Alone.<end_line />
 			It has nothing to do with you.<end_line />
 		</ascii>
 	</dialogue>
@@ -94,12 +94,20 @@
 				そっか<three_dots /><end_line />
 				わかったよ<end_line />
 			</sjis>
+			<ascii>
+				Oh<three_dots /><end_line />
+				Sure, go on ahead.<end_line />
+			</ascii>
 		</male>
 		<female>
 			<sjis>
 				そっか<three_dots /><end_line />
 				わかったよ<end_line />
 			</sjis>
+			<ascii>
+				Oh<three_dots /><end_line />
+				Sure, go on ahead.<end_line />
+			</ascii>
 		</female>
 	</dialogue>
 	<dialogue>

@@ -4,7 +4,7 @@
 			村長の家　道具屋<end_line />
 		</sjis>
 		<ascii>
-			Mayor's house　second-hand shop<end_line />
+			Mayor's House　Second-hand Shop<end_line />
 		</ascii>
 	</location>
 	<location>
@@ -12,7 +12,7 @@
 			村長の家　道具屋<end_line />
 		</sjis>
 		<ascii>
-			Mayor's house　second-hand shop<end_line />
+			Mayor's House　Second-Hand Shop<end_line />
 		</ascii>
 	</location>
 	<dialogue>
@@ -23,6 +23,11 @@
 			来たんじゃな<end_line />
 			ワシもいよいよ<three_dots /><end_line />
 		</sjis>
+		<ascii>
+			You youngsters bring about a<end_line />
+			promising new era, indeed.<end_line />
+			The years are getting to me<three_dots /><end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -32,6 +37,11 @@
 			あ〜〜なっとらん<end_line />
 			と言ったらなっとらん<end_line />
 		</sjis>
+		<ascii>
+			No, that's not it!<end_line />
+			Argh, no matter what I say,<end_line />
+			they they wouldn't listen!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -41,6 +51,11 @@
 			鍛冶師だったのね〜<end_line />
 			人は見かけじゃわからないものね<end_line />
 		</sjis>
+		<ascii>
+			You're so amazing! I never would've<end_line />
+			thought you're a Craftknight!<end_line />
+			You didn't seem like one to me.<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -49,6 +64,11 @@
 			でも、何か得意な事を極めてないと<end_line />
 			話にならないからね<end_line />
 		</sjis>
+		<ascii>
+			Though I can see why you wouldn't<end_line />
+			brag about being one when you're<end_line />
+			busy honing your skills, and all.<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -58,6 +78,11 @@
 			あなたの鍛冶師としての<end_line />
 			すごいトコ教えてくれるかな？<end_line />
 		</sjis>
+		<ascii>
+			Speaking of! Since<end_line />
+			you're a skilled Craftknight, care<end_line />
+			to show me your Crafting Rank?<end_line />
+		</ascii>
 	</dialogue>
 	<choice>
 		<info box="simple" />
@@ -65,11 +90,17 @@
 			<sjis>
 				教える<end_line />
 			</sjis>
+			<ascii>
+				Tell her.<end_line />
+			</ascii>
 		</option>
 		<option>
 			<sjis>
 				教えない<end_line />
 			</sjis>
+			<ascii>
+				Don't tell her.<end_line />
+			</ascii>
 		</option>
 	</choice>
 	<dialogue>
@@ -79,6 +110,11 @@
 			すご〜い、ソード鍛冶ランクが<end_line />
 			最高じゃないの！！<end_line />
 		</sjis>
+		<ascii>
+		</ascii>
+			Oh, my goodness! Your Sword<end_line />
+			Rank is the highest there is!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -88,6 +124,11 @@
 			<quote />ソードの極意書<quote />なんだけど<end_line />
 			これを見てもっと鍛錬してね<end_line />
 		</sjis>
+		<ascii>
+			Here! This is for you, the<end_line />
+			<quote />Ultimate Sword Manual<quote />!<end_line />
+			Please put it to good use!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -97,6 +138,14 @@
 			セーブを行うことで、おまけ条件に<end_line />
 			<quote />レミィ<quote />が追加されます<end_line />
 		</sjis>
+		<ascii>
+			Having the <quote />Ultimate Sword Manual<quote /><end_line />
+			in your inventory while saving lets<end_line />
+			you unlock<quote />Lemmy<quote /> in Bonus Mode!<end_line />
+		</ascii>
+		# I think this is a prequisite to unlocking a special Bonus Mode
+		# with Lemmy, by keeping it in your inventory while saving.
+		# Tweaked my own translation to make it make sense.
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -105,6 +154,10 @@
 			うっそ〜、アクス鍛冶ランクが<end_line />
 			最高じゃないの！！<end_line />
 		</sjis>
+		</ascii>
+			Oh, my goodness! Your Axe<end_line />
+			Rank is the highest there is!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -114,6 +167,11 @@
 			<quote />アクスの極意書<quote />なんだけど<end_line />
 			これを見てもっと鍛錬してね<end_line />
 		</sjis>
+		<ascii>
+			Here! This is for you, the<end_line />
+			<quote />Ultimate Axe Manual<quote />!<end_line />
+			Please put it to good use!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -123,6 +181,11 @@
 			セーブを行うことで、おまけ条件に<end_line />
 			<quote />ヴィー<quote />が追加されます<end_line />
 		</sjis>
+		<ascii>
+			Having the <quote />Ultimate Sword Manual<quote /><end_line />
+			in your inventory while saving lets<end_line />
+			you unlock<quote />V.E.<quote /> in Bonus Mode!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -131,6 +194,10 @@
 			おどろいた、スピア鍛冶ランクが<end_line />
 			最高じゃないの！！<end_line />
 		</sjis>
+		</ascii>
+			This is shocking! Your Spear<end_line />
+			Rank is the highest there is!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -140,6 +207,11 @@
 			<quote />スピアの極意書<quote />なんだけど<end_line />
 			これを見てもっと鍛錬してね<end_line />
 		</sjis>
+		<ascii>
+			Here! This is for you, the<end_line />
+			<quote />Ultimate Spear Manual<quote />!<end_line />
+			Please put it to good use!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -149,6 +221,11 @@
 			セーブを行うことで、おまけ条件に<end_line />
 			<quote />アニス<quote />が追加されます<end_line />
 		</sjis>
+		<ascii>
+			Having the <quote />Ultimate Sword Manual<quote /><end_line />
+			in your inventory while saving lets<end_line />
+			you unlock<quote />Anise<quote /> in Bonus Mode!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -157,6 +234,10 @@
 			まぁっ、ナックル鍛冶ランクが<end_line />
 			最高じゃないの！！<end_line />
 		</sjis>
+		</ascii>
+			How wonderful! Your Knuckles<end_line />
+			Rank is the highest there is!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -166,6 +247,11 @@
 			<quote />ナックルの極意書<quote />なんだけど<end_line />
 			これを見てもっと鍛錬してね<end_line />
 		</sjis>
+		<ascii>
+			Here! This is for you, the<end_line />
+			<quote />Ultimate Knuckle Manual<quote />!<end_line />
+			Please put it to good use!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -175,6 +261,11 @@
 			セーブを行うことで、おまけ条件に<end_line />
 			<quote />ジェイド<quote />が追加されます<end_line />
 		</sjis>
+		<ascii>
+			Having the <quote />Ultimate Knuckle Manual<quote /><end_line />
+			in your inventory while saving lets<end_line />
+			you unlock<quote />Jade<quote /> in Bonus Mode!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -183,6 +274,12 @@
 			まっさか〜、ドリル鍛冶ランクが<end_line />
 			最高じゃないの！！<end_line />
 		</sjis>
+		</ascii>
+			This is a shocker! Your Drill<end_line />
+			Rank is the highest there is!<end_line />
+		</ascii>
+		# Haha, shock, drill, get it?
+		# No? Nvm ig lol.
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -192,6 +289,11 @@
 			<quote />ドリルの極意書<quote />なんだけど<end_line />
 			これを見てもっと鍛錬してね<end_line />
 		</sjis>
+		<ascii>
+			Here! This is for you, the<end_line />
+			<quote />Ultimate Drill Manual<quote />!<end_line />
+			Please put it to good use!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -201,6 +303,11 @@
 			セーブを行うことで、おまけ条件に<end_line />
 			<quote />ボスタフ<quote />が追加されます<end_line />
 		</sjis>
+		<ascii>
+			Having the <quote />Ultimate Drill Manual<quote /><end_line />
+			in your inventory while saving lets<end_line />
+			you unlock<quote />Bostaph<quote /> in Bonus Mode!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -209,6 +316,10 @@
 			えええっ、ボウ鍛冶ランクが<end_line />
 			最高じゃないの！！<end_line />
 		</sjis>
+		</ascii>
+			Whaaaat!? Your Bow<end_line />
+			Rank is the highest there is!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -218,6 +329,11 @@
 			<quote />ボウの極意書<quote />なんだけど<end_line />
 			これを見てもっと鍛錬してね<end_line />
 		</sjis>
+		<ascii>
+			Here! This is for you, the<end_line />
+			<quote />Ultimate Bow Manual<quote />!<end_line />
+			Please put it to good use!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -227,6 +343,11 @@
 			セーブを行うことで、おまけ条件に<end_line />
 			<quote />ティエ<quote />が追加されます<end_line />
 		</sjis>
+		<ascii>
+			Having the <quote />Ultimate Bow Manual<quote /><end_line />
+			in your inventory while saving lets<end_line />
+			you unlock<quote />Tier<quote /> in Bonus Mode!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -236,6 +357,11 @@
 			だめよ、ちゃんと鍛錬しないと<end_line />
 			これからガンバってね<end_line />
 		</sjis>
+		<ascii>
+			Goodness, you haven't mastered any<end_line />
+			weapon yet, have you? That won't<end_line />
+			do! You need to work harder!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -245,6 +371,11 @@
 			なれるはずだわ<end_line />
 			ガンバってね<end_line />
 		</sjis>
+		<ascii>
+			You could at least pass as a<end_line />
+			decent Craftknight, I think<three_dots /><end_line />
+			Make sure to keep improving!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -253,5 +384,10 @@
 			そう、残念ね<end_line />
 			また気が向いたら教えてね<end_line />
 		</sjis>
+		<ascii>
+			<three_dots />Oh, that's too bad<three_dots /><end_line />
+			Well, you could always give it<end_line />
+			another shot next time!<end_line />
+		</ascii>
 	</dialogue>
 </tl_file>

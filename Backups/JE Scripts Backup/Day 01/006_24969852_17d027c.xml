@@ -1,4 +1,5 @@
-<dialogue>
+
+<dialogue>
 	<info box="left">
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<male>
@@ -13,7 +14,8 @@
 			ミューノ<three_dots><end_line>
 		</sjis>
 	</female>
-  <ascii>    Murno,<end_line>
+  <ascii>
+    Murno,<end_line>
     I'm coming in<three_dots><end_line>
   </ascii>
 </dialogue>
@@ -31,7 +33,11 @@
 			ミューノ！？<end_line>
 			どうしたの？<end_line>
 		</sjis>
-	</female>  <ascii>    Murno!?<end_line>    Are you okay?<end_line>  </ascii>
+	</female>
+  <ascii>
+    Murno!?<end_line>
+    Are you okay?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -237,7 +243,8 @@
 		急に熱だなんて<three_dots><end_line>
 	</sjis>
 	<ascii>
-		But how could she develop<end_line>		a fever so suddenly<three_dots>?<end_line>
+		But how could she develop<end_line>
+		a fever so suddenly<three_dots>?<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -250,7 +257,11 @@
 		相当ムリしてきたみたいだからね<three_dots><end_line>
 		安心したら一気にきたんだろうね<end_line>
 	</sjis>
-	<ascii>    She's been pushing herself so hard<three_dots><end_line>    All of the pent-up stress<end_line>    must have hit her all at once.<end_line>	</ascii>
+	<ascii>
+    She's been pushing herself so hard<three_dots><end_line>
+    All of the pent-up stress<end_line>
+    must have hit her all at once.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -291,7 +302,8 @@
 	</sjis>
 	<ascii>
 		Alright, leave this to me.<end_line>
-		You should go introduce <partner><end_line>		to the Chief.<end_line>
+		You should go introduce <partner><end_line>
+		to the Chief.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -305,7 +317,8 @@
 	</sjis>
 	<ascii>
 		There've been more strays lately,<end_line>
-		so we need to make sure<end_line>		<partner> isn't mistaken for one.<end_line>
+		so we need to make sure<end_line>
+		<partner> isn't mistaken for one.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -317,7 +330,8 @@
 		でも、紹介って<end_line>
 		なんて言ったらいいんだろ？<end_line>
 	</sjis>
-	<ascii>		Introduce, you say<three_dots><end_line>
+	<ascii>
+		Introduce, you say<three_dots><end_line>
 		What should I even say?<end_line>
 	</ascii>
 </dialogue>
@@ -331,7 +345,11 @@
 		アタシに召喚石をもらったとか<end_line>
 		そんな感じでいいんじゃない？<end_line>
 	</sjis>
-  <ascii>		Say something like,<end_line>	    "Master gave me a Summon Stone.<end_line>		This is my new partner."<end_line>	</ascii>
+  <ascii>
+		Say something like,<end_line>
+	    "Master gave me a Summonite.<end_line>
+		This is my new partner."<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -369,7 +387,8 @@
 		ミューノはワケありなんだろ？<end_line>
 	</sjis>
 	<ascii>
-    Or would you rather tell the truth?<end_line>    Murno has her own issues, right?<end_line>
+    Or would you rather tell the truth?<end_line>
+    Murno has her own issues, right?<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -426,7 +445,8 @@
 		</sjis>
 	</female>
   <ascii>
-    <partner>?<end_line>    Why aren't you saying anything?<end_line>
+    <partner>?<end_line>
+    Why aren't you saying anything?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -503,7 +523,10 @@
 		<player_nickname>といっしょに<end_line>
 		早く村長にあいさつしてきな！<end_line>
 	</sjis>
-	<ascii>    Come on, get out of here!<end_line>    Go meet the Chief!<end_line>	</ascii>
+	<ascii>
+    Come on, get out of here!<end_line>
+    Go meet the Chief!<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -639,7 +662,11 @@
 		アンタ、ジャマだから<end_line>
 		村長のところに行ってくれないか<end_line>
 	</sjis>
-	<ascii>		<three_dots>Anyway,<end_line>		you two are in the way.<end_line>		Just go and see the Chief already.<end_line>	</ascii>
+	<ascii>
+		<three_dots>Anyway,<end_line>
+		you two are in the way.<end_line>
+		Just go and see the Chief already.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -679,7 +706,12 @@
 		村長へのあいさつ以外にも<end_line>
 		アンタたちには修行があるだろ<end_line>
 		鍛冶師ってのはヒマじゃないよ<end_line>
-	</sjis>	<ascii>		Even if you didn't need to see him,<end_line>		I'd make you train instead.<end_line>		Craftknights are quite busy.<end_line>	</ascii>
+	</sjis>
+	<ascii>
+		Even if you didn't need to see him,<end_line>
+		I'd make you train instead.<end_line>
+		Craftknights are quite busy.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -700,7 +732,11 @@
 			ね、<partner><end_line>
 		</sjis>
 	</female>
-  <ascii>    Alright, Master.<end_line>    We'll be on our way.<end_line>    Okay <partner>?<end_line>  </ascii>
+  <ascii>
+    Alright, Master.<end_line>
+    We'll be on our way.<end_line>
+    Okay <partner>?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -797,7 +833,10 @@
 		でも<end_line>
 		急に熱だなんて<three_dots><end_line>
 	</sjis>
-	<ascii>		But how could she develop<end_line>		a fever so suddenly<three_dots>?<end_line>	</ascii>
+	<ascii>
+		But how could she develop<end_line>
+		a fever so suddenly<three_dots>?<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -809,7 +848,11 @@
 		相当ムリしてきたみたいだからね<three_dots><end_line>
 		安心したら一気にきたんだろうね<end_line>
 	</sjis>
-  <ascii>    She's been pushing herself so hard<three_dots><end_line>    All of the pent-up stress<end_line>    must have hit her all at once.<end_line>  </ascii>
+  <ascii>
+    She's been pushing herself so hard<three_dots><end_line>
+    All of the pent-up stress<end_line>
+    must have hit her all at once.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -834,7 +877,9 @@
 		そうだね<end_line>
 		わかった<end_line>
 	</sjis>
-	<ascii>		Okay.<end_line>	</ascii>
+	<ascii>
+		Okay.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -846,7 +891,11 @@
 		アンタは<partner>だけでも<end_line>
 		村長に紹介しといで<end_line>
 	</sjis>
-	<ascii>		Alright, leave this to me.<end_line>		You should go introduce <partner><end_line>		to the Chief.<end_line>	</ascii>
+	<ascii>
+		Alright, leave this to me.<end_line>
+		You should go introduce <partner><end_line>
+		to the Chief.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -857,7 +906,11 @@
 		近ごろはぐれもふえてきたし<end_line>
 		まちがわれないようにしなきゃね<end_line>
 	</sjis>
-	<ascii>		There've been more strays lately,<end_line>		so we need to make sure<end_line>		<partner> isn't mistaken for one.<end_line>	</ascii>
+	<ascii>
+		There've been more strays lately,<end_line>
+		so we need to make sure<end_line>
+		<partner> isn't mistaken for one.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -868,7 +921,9 @@
 		でも、紹介って<end_line>
 		なんて言ったらいいんだろ？<end_line>
 	</sjis>
-	<ascii>		What should I even say?<end_line>	</ascii>
+	<ascii>
+		What should I even say?<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -880,7 +935,11 @@
 		アタシに召喚石をもらったとか<end_line>
 		そんな感じでいいんじゃない？<end_line>
 	</sjis>
-  <ascii>		Say something like,<end_line>		"Master gave me a Summon Stone.<end_line>		This is my new partner."<end_line>	</ascii>
+  <ascii>
+		Say something like,<end_line>
+		"Master gave me a Summonite.<end_line>
+		This is my new partner."<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -890,7 +949,9 @@
 	<sjis>
 		そんな感じでって<three_dots><end_line>
 	</sjis>
-	<ascii>		That'll totally work<three_dots><end_line>	</ascii>
+	<ascii>
+		That'll totally work<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -901,7 +962,9 @@
 		しかし、本来のワガハイは<end_line>
 		ミューノの召喚獣で<three_dots><end_line>
 	</sjis>
-	<ascii>    But the truth is,<end_line>    I am Murno's Summon Beast<three_dots><end_line>
+	<ascii>
+    But the truth is,<end_line>
+    I am Murno's Summon Beast<three_dots><end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -914,7 +977,8 @@
 		ミューノはワケありなんだろ？<end_line>
 	</sjis>
 	<ascii>
-    Or would you rather tell the truth?<end_line>    Murno has her own issues, right?<end_line>
+    Or would you rather tell the truth?<end_line>
+    Murno has her own issues, right?<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -948,7 +1012,11 @@
 			行こう、<partner><end_line>
 		</sjis>
 	</female>
-  <ascii>    You're right.<end_line>    I understand, Master.<end_line>    Let's get going, <partner><end_line>  </ascii>
+  <ascii>
+    You're right.<end_line>
+    I understand, Master.<end_line>
+    Let's get going, <partner><end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -1036,7 +1104,10 @@
 		お、親方！？<end_line>
 		ちょっとしずかに！<end_line>
 	</sjis>
-	<ascii>		M-Master!?<end_line>		You're too loud!<end_line>	</ascii>
+	<ascii>
+		M-Master!?<end_line>
+		You're too loud!<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -1083,7 +1154,8 @@
 		ついカッとなっちまって<three_dots><end_line>
 	</sjis>
 	<ascii>
-		Stop looking at me like that.<end_line>		This is all your fault, you know<three_dots><end_line>
+		Stop looking at me like that.<end_line>
+		This is all your fault, you know<three_dots><end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -1137,7 +1209,8 @@
 	<ascii>
 		<three_dots>Anyway,<end_line>
 		you two are in the way.<end_line>
-		Just go and see the Chief already.<end_line>	</ascii>
+		Just go and see the Chief already.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -1160,7 +1233,8 @@
 	<sjis>
 		ジャマじゃと<three_dots><end_line>
 	</sjis>
-	<ascii>		In the way<three_dots><end_line>
+	<ascii>
+		In the way<three_dots><end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -1172,7 +1246,12 @@
 		村長へのあいさつ以外にも<end_line>
 		アンタたちには修行があるだろ<end_line>
 		鍛冶師ってのはヒマじゃないよ<end_line>
-	</sjis>	<ascii>		Even if you didn't need to see him,<end_line>		I'd make you train instead.<end_line>		Craftknights are quite busy.<end_line>	</ascii>
+	</sjis>
+	<ascii>
+		Even if you didn't need to see him,<end_line>
+		I'd make you train instead.<end_line>
+		Craftknights are quite busy.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -1288,7 +1367,10 @@
 		でも<end_line>
 		急に熱だなんて<three_dots><end_line>
 	</sjis>
-  <ascii>    But how could she develop<end_line>    a fever so suddenly<three_dots>?<end_line>  </ascii>
+  <ascii>
+    But how could she develop<end_line>
+    a fever so suddenly<three_dots>?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1300,7 +1382,11 @@
 		相当ムリしてきたみたいだからね<three_dots><end_line>
 		安心したら一気にきたんだろうね<end_line>
 	</sjis>
-  <ascii>    She's been pushing herself so hard<three_dots><end_line>    All of the pent-up stress<end_line>    must have hit her all at once.<end_line>  </ascii>
+  <ascii>
+    She's been pushing herself so hard<three_dots><end_line>
+    All of the pent-up stress<end_line>
+    must have hit her all at once.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1311,7 +1397,10 @@
 		ということで、ココにいても<end_line>
 		アンタたちのやることはないよ<end_line>
 	</sjis>
-	<ascii>    There's nothing you two<end_line>    can do about it.<end_line>	</ascii>
+	<ascii>
+    There's nothing you two<end_line>
+    can do about it.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1337,7 +1426,11 @@
 		アンタは<partner>だけでも<end_line>
 		村長に紹介しといで<end_line>
 	</sjis>
-  <ascii>		Alright, leave this to me.<end_line>		You should go introduce <partner><end_line>		to the Chief.<end_line>	</ascii>
+  <ascii>
+		Alright, leave this to me.<end_line>
+		You should go introduce <partner><end_line>
+		to the Chief.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1348,7 +1441,11 @@
 		近ごろはぐれもふえてきたし<end_line>
 		まちがわれないようにしなきゃね<end_line>
 	</sjis>
-	<ascii>		There've been more strays lately,<end_line>		so we need to make sure<end_line>		<partner> isn't mistaken for one.<end_line>	</ascii>
+	<ascii>
+		There've been more strays lately,<end_line>
+		so we need to make sure<end_line>
+		<partner> isn't mistaken for one.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1359,7 +1456,9 @@
 		でも、紹介って<end_line>
 		なんて言ったらいいんだろ？<end_line>
 	</sjis>
-  <ascii>		What should I even say?<end_line>	</ascii>
+  <ascii>
+		What should I even say?<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1371,7 +1470,11 @@
 		アタシに召喚石をもらったとか<end_line>
 		そんな感じでいいんじゃない？<end_line>
 	</sjis>
-  <ascii>		Say something like,<end_line>		"Master gave me a Summon Stone.<end_line>		This is my new partner."<end_line>	</ascii>
+  <ascii>
+		Say something like,<end_line>
+		"Master gave me a Summonite.<end_line>
+		This is my new partner."<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1381,7 +1484,9 @@
 	<sjis>
 		そんな感じでって<three_dots><end_line>
 	</sjis>
-	<ascii>		That'll totally work<three_dots><end_line>	</ascii>
+	<ascii>
+		That'll totally work<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1405,7 +1510,10 @@
 		いいのかい？<end_line>
 		ミューノはワケありなんだろ？<end_line>
 	</sjis>
-	<ascii>    Or would you rather tell the truth?<end_line>    Murno has her own issues, right?<end_line>	</ascii>
+	<ascii>
+    Or would you rather tell the truth?<end_line>
+    Murno has her own issues, right?<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1439,7 +1547,12 @@
 			わかった、親方<end_line>
 			行こう、<partner><end_line>
 		</sjis>
-	</female>  <ascii>    You're right.<end_line>    Alright, let's go,<end_line>    <partner>.<end_line>  </ascii>
+	</female>
+  <ascii>
+    You're right.<end_line>
+    Alright, let's go,<end_line>
+    <partner>.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1451,7 +1564,8 @@
 		キサマひとりでみるつもりか<three_dots><end_line>
 	</sjis>
 	<ascii>
-		<three_dots><end_line>		Do you intend to take care<end_line>
+		<three_dots><end_line>
+		Do you intend to take care<end_line>
 		of her on your own<three_dots>?<end_line>
 	</ascii>
 </dialogue>
@@ -1479,7 +1593,9 @@
 		ひとりでも十分メンドウみられるよ<end_line>
 		安心して行ってきなって<end_line>
 	</sjis>
-	<ascii>    I'll be perfectly fine on my won.<end_line>    Hurry up and get out of here.<end_line>
+	<ascii>
+    I'll be perfectly fine on my won.<end_line>
+    Hurry up and get out of here.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -1529,7 +1645,9 @@
 		ハッキリ言いな！<end_line>
 	</sjis>
 	<ascii>
-		Huh<three_dots>?<end_line>		What, you got a problem!?<end_line>	</ascii>
+		Huh<three_dots>?<end_line>
+		What, you got a problem!?<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1540,7 +1658,10 @@
 		お、親方！？<end_line>
 		ちょっとしずかに！<end_line>
 	</sjis>
-  <ascii>		M-Master!?<end_line>		You're too loud!<end_line>	</ascii>
+  <ascii>
+		M-Master!?<end_line>
+		You're too loud!<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1560,7 +1681,9 @@
 	<sjis>
 		あ、ごめん<end_line>
 	</sjis>
-	<ascii>		Ah. Sorry.<end_line>	</ascii>
+	<ascii>
+		Ah. Sorry.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1584,7 +1707,10 @@
 		さっきはアンタが変なこというから<end_line>
 		ついカッとなっちまって<three_dots><end_line>
 	</sjis>
-	<ascii>		Stop looking at me like that.<end_line>		This is all your fault, you know<three_dots><end_line>	</ascii>
+	<ascii>
+		Stop looking at me like that.<end_line>
+		This is all your fault, you know<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1618,7 +1744,9 @@
 	<sjis>
 		だから親方<three_dots>！<end_line>
 	</sjis>
-	<ascii>		Master<three_dots>!<end_line>	</ascii>
+	<ascii>
+		Master<three_dots>!<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1630,7 +1758,11 @@
 		アンタ、ジャマだから<end_line>
 		村長のところに行ってくれないか<end_line>
 	</sjis>
-	<ascii>		<three_dots>Anyway,<end_line>		you two are in the way.<end_line>		Just go and see the Chief already.<end_line>	</ascii>
+	<ascii>
+		<three_dots>Anyway,<end_line>
+		you two are in the way.<end_line>
+		Just go and see the Chief already.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1667,7 +1799,12 @@
 		アンタたちには修行があるだろ<end_line>
 		鍛冶師ってのはヒマじゃないよ<end_line>
 	</sjis>
-	<ascii>		Even if you didn't need to see him,<end_line>		I'd make you train instead.<end_line>		Craftknights are quite busy.<end_line>	</ascii></dialogue>
+	<ascii>
+		Even if you didn't need to see him,<end_line>
+		I'd make you train instead.<end_line>
+		Craftknights are quite busy.<end_line>
+	</ascii>
+</dialogue>
 <dialogue>
 	<partner name="killfith">
 	<info box="left">
@@ -1687,7 +1824,11 @@
 			ね、<partner><end_line>
 		</sjis>
 	</female>
-  <ascii>    Alright, Master.<end_line>    We'll be on our way.<end_line>    Okay <partner>?<end_line>  </ascii>
+  <ascii>
+    Alright, Master.<end_line>
+    We'll be on our way.<end_line>
+    Okay <partner>?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1755,7 +1896,8 @@
 		ミューノ様を元気にすることが<end_line>
 		できるのですか？<end_line>
 	</sjis>
-	<ascii>		But what else can I do<end_line>
+	<ascii>
+		But what else can I do<end_line>
 		to make Lady Murno<end_line>
 		feel better?<end_line>
 	</ascii>
@@ -1794,7 +1936,10 @@
 		でも<end_line>
 		急に熱だなんて<three_dots><end_line>
 	</sjis>
-  <ascii>    But how could she develop<end_line>    a fever so suddenly<three_dots>?<end_line>  </ascii>
+  <ascii>
+    But how could she develop<end_line>
+    a fever so suddenly<three_dots>?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1806,7 +1951,11 @@
 		相当ムリしてきたみたいだからね<three_dots><end_line>
 		安心したら一気にきたんだろうね<end_line>
 	</sjis>
-  <ascii>    She's been pushing herself so hard<three_dots><end_line>    All of the pent-up stress<end_line>    must have hit her all at once.<end_line>  </ascii>
+  <ascii>
+    She's been pushing herself so hard<three_dots><end_line>
+    All of the pent-up stress<end_line>
+    must have hit her all at once.<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1831,7 +1980,9 @@
 		そうだね<end_line>
 		わかった<end_line>
 	</sjis>
-  <ascii>		Okay.<end_line>	</ascii>
+  <ascii>
+		Okay.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1843,7 +1994,11 @@
 		アンタは<partner>だけでも<end_line>
 		村長に紹介しといで<end_line>
 	</sjis>
-  <ascii>		Alright, leave this to me.<end_line>		You should go introduce <partner><end_line>		to the Chief.<end_line>	</ascii>
+  <ascii>
+		Alright, leave this to me.<end_line>
+		You should go introduce <partner><end_line>
+		to the Chief.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1854,7 +2009,11 @@
 		近ごろはぐれもふえてきたし<end_line>
 		まちがわれないようにしなきゃね<end_line>
 	</sjis>
-  <ascii>		There've been more strays lately,<end_line>		so we need to make sure<end_line>		<partner> isn't mistaken for one.<end_line>	</ascii>
+  <ascii>
+		There've been more strays lately,<end_line>
+		so we need to make sure<end_line>
+		<partner> isn't mistaken for one.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1865,7 +2024,9 @@
 		でも、紹介って<end_line>
 		なんて言ったらいいんだろ？<end_line>
 	</sjis>
-  <ascii>		What should I even say?<end_line>	</ascii>
+  <ascii>
+		What should I even say?<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1877,7 +2038,11 @@
 		アタシに召喚石をもらったとか<end_line>
 		そんな感じでいいんじゃない？<end_line>
 	</sjis>
-  <ascii>		Say something like,<end_line>		"Master gave me a Summon Stone.<end_line>		This is my new partner."<end_line>	</ascii>
+  <ascii>
+		Say something like,<end_line>
+		"Master gave me a Summonite.<end_line>
+		This is my new partner."<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1887,7 +2052,9 @@
 	<sjis>
 		そんな感じでって<three_dots><end_line>
 	</sjis>
-	<ascii>		That'll totally work<three_dots><end_line>	</ascii>
+	<ascii>
+		That'll totally work<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1914,7 +2081,10 @@
 		いいのかい？<end_line>
 		ミューノはワケありなんだろ？<end_line>
 	</sjis>
-	<ascii>    Or would you rather tell the truth?<end_line>    Murno has her own issues, right?<end_line>	</ascii>
+	<ascii>
+    Or would you rather tell the truth?<end_line>
+    Murno has her own issues, right?<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1925,7 +2095,8 @@
 		たしかに<three_dots><end_line>
 		そうですわ<three_dots><end_line>
 	</sjis>
-	<ascii>		<three_dots>I suppose you're right.<end_line>
+	<ascii>
+		<three_dots>I suppose you're right.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -1947,7 +2118,11 @@
 			行こう、<partner><end_line>
 		</sjis>
 	</female>
-  <ascii>    Alright, Master.<end_line>    We'll be on our way.<end_line>    Okay <partner>?<end_line>  </ascii>
+  <ascii>
+    Alright, Master.<end_line>
+    We'll be on our way.<end_line>
+    Okay <partner>?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1975,7 +2150,8 @@
 		安心しな<end_line>
 	</sjis>
 	<ascii>
-		That's right.<end_line>		I'll be here the whole time,<end_line>
+		That's right.<end_line>
+		I'll be here the whole time,<end_line>
 		so don't worry about it.<end_line>
 	</ascii>
 </dialogue>
@@ -2024,7 +2200,10 @@
 		お、親方！？<end_line>
 		ちょっとしずかに！<end_line>
 	</sjis>
-  <ascii>		M-Master!?<end_line>		You're too loud!<end_line>	</ascii>
+  <ascii>
+		M-Master!?<end_line>
+		You're too loud!<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -2070,7 +2249,10 @@
 		さっきはアンタが変なこというから<end_line>
 		ついカッとなっちまって<three_dots><end_line>
 	</sjis>
-	<ascii>		Stop looking at me like that.<end_line>		This is all your fault, you know<three_dots><end_line>	</ascii>
+	<ascii>
+		Stop looking at me like that.<end_line>
+		This is all your fault, you know<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -2118,7 +2300,11 @@
 		アンタ、ジャマだから<end_line>
 		村長のところに行ってくれないか<end_line>
 	</sjis>
-	<ascii>		<three_dots>Anyway,<end_line>		you two are in the way.<end_line>		Just go and see the Chief already.<end_line>	</ascii>
+	<ascii>
+		<three_dots>Anyway,<end_line>
+		you two are in the way.<end_line>
+		Just go and see the Chief already.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -2154,7 +2340,12 @@
 		村長へのあいさつ以外にも<end_line>
 		アンタたちには修行があるだろ<end_line>
 		鍛冶師ってのはヒマじゃないよ<end_line>
-	</sjis>	<ascii>		Even if you didn't need to see him,<end_line>		I'd make you train instead.<end_line>		Craftknights are quite busy.<end_line>	</ascii>
+	</sjis>
+	<ascii>
+		Even if you didn't need to see him,<end_line>
+		I'd make you train instead.<end_line>
+		Craftknights are quite busy.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -2175,7 +2366,11 @@
 			ね、<partner><end_line>
 		</sjis>
 	</female>
-  <ascii>    Alright, Master.<end_line>    We'll be on our way.<end_line>    Okay <partner>?<end_line>  </ascii>
+  <ascii>
+    Alright, Master.<end_line>
+    We'll be on our way.<end_line>
+    Okay <partner>?<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">

@@ -14,7 +14,8 @@
 			外に行くなら気をつけてな<end_line />
 		</sjis>
 		<ascii>
-			Be careful outside the village.<end_line />
+			Leaving the village now?<end_line />
+			I bid you safe travels.<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -26,7 +27,9 @@
 			と言ったらなっとらん<end_line />
 		</sjis>
 		<ascii>
-			Kids these days<three_dots /><end_line />
+			Young'uns these days are too lax!<end_line />
+			Sigh, nothing I say goes<end_line />
+			past their ears<three_dots /><end_line />
 		</ascii>
 	</dialogue>
 </tl_file>

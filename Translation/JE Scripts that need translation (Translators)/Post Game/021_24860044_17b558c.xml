@@ -15,6 +15,11 @@
 			強い武器は強いマテルと<end_line />
 			良い材料で出来るものだ<end_line />
 		</sjis>
+		<ascii>
+			Weak weapons have no value!<end_line />
+			Strong weapons made with quality<end_line />
+			Shapestones and ores otherwise do!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -24,6 +29,11 @@
 			そのためには日々心の鍛錬も<end_line />
 			鍛冶職人としての修行のひとつだ<end_line />
 		</sjis>
+		<ascii>
+			Strong hearts forge strong weapons!<end_line />
+			Therefore, tempering the heart is<end_line />
+			essential to your training!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -32,5 +42,10 @@
 			ボスタフ親方が留守なんで<end_line />
 			仕事がたまってんだよぉ<end_line />
 		</sjis>
+		<ascii>
+			Master Bostaph is gone right<end_line />
+			now, so we currently have a lotta<end_line />
+			work piling up on us<three_dots /><end_line />
+		</ascii>
 	</dialogue>
 </tl_file>

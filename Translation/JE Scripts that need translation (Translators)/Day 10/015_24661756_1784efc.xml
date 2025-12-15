@@ -13,6 +13,9 @@
 		<sjis>
 			あ〜<end_line />
 		</sjis>
+		<ascii>
+			Sigh<three_dots /><end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />

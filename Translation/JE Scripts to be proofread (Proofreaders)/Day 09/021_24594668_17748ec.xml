@@ -24,9 +24,9 @@
 			飛ぶように売れて嬉しいわ<end_line />
 		</sjis>
 		<ascii>
-			Thanks to those Strays,<end_line />
-			weapons and armor are just<end_line />
-			flying right off the shelves!<end_line />
+			Thanks to the Stray Summon Beast<end_line />
+			incidents, my weapons and armor<end_line />
+			have been selling like hotcakes!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -37,8 +37,9 @@
 			ウロウロしてるらしい<end_line />
 		</sjis>
 		<ascii>
-			It seems the one who beat Red Wing<end_line />
-			is hanging around here.<end_line />
+			Apparently the one who<end_line />
+			fought off the Red Wing was<end_line />
+			spotted around here<three_dots /><end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -49,8 +50,8 @@
 			あぶなくってしょうがない<end_line />
 		</sjis>
 		<ascii>
-			A dangerous person might be here.<end_line />
-			I can't help being scared.<end_line />
+			<three_dots />That kinda person seems dangerous<end_line />
+			I can't help but feel scared.<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>

@@ -21,6 +21,9 @@
 		<sjis>
 			ん？　今日はひとりかい？<end_line />
 		</sjis>
+		<ascii>
+			Oh? You heading out alone today?<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -30,6 +33,11 @@
 			お互いに全力でぶつかり合うのが<end_line />
 			流行らしい<end_line />
 		</sjis>
+		<ascii>
+			Somehow, full-on butting heads<end_line />
+			seems to be super trendy in<end_line />
+			the dating scene lately<three_dots /><end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -39,5 +47,10 @@
 			背後攻撃はとてもキケンです<end_line />
 			　　　　　　　　　背後を守る会<end_line />
 		</sjis>
+		<ascii>
+			Never let your enemy get behind<end_line />
+			you! Back attacks are dangerous!<end_line />
+			　　　　　　　　　Rearguard Support Squad<end_line />
+		</ascii>
 	</dialogue>
 </tl_file>

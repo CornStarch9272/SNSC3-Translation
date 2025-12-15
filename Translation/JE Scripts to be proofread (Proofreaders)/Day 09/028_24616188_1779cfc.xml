@@ -58,7 +58,7 @@
 		<ascii>
 			Don't do today,<end_line />
 			what you can do tomorrow!<end_line />
-			Lazy person<end_line />
+			　　　　　　　　　　-A lazy person<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -70,10 +70,9 @@
 			イタイ目にあいます<end_line />
 		</sjis>
 		<ascii>
-			When hit by a sleep attack,<end_line />
-			you will be unable to move and<end_line />
-			will also recover HP. But it'll<end_line />
-			hurt when are you woken up.<end_line />
+			If you get hit by a sleep attack,<end_line />
+			you become immobile and recover HP!<end_line />
+			But when you awaken, it'll hurt<three_dots /><end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -97,7 +96,7 @@
 			やっぱりだまされたな<end_line />
 		</sjis>
 		<ascii>
-			Like I thought, you tricked me.<end_line />
+			I should've known you'd trick me<three_dots /><end_line />
 		</ascii>
 	</dialogue>
 </tl_file>

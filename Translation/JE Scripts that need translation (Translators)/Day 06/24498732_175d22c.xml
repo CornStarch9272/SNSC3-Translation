@@ -521,8 +521,8 @@
 		</sjis>
 		<ascii>
 			Huh<three_dots />?<end_line />
-			The<three_dots />many kinds of weapons?<end_line />
-			How many were there again?<end_line />
+			How many kinds of weapons<three_dots />?<end_line />
+			How many WERE there, again?<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -535,7 +535,7 @@
 			いくつだったかな？<end_line />
 		</sjis>
 		<ascii>
-			How many were there again?<end_line />
+			How many WERE there again?<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -637,9 +637,9 @@
 			思ワレマス<end_line />
 		</sjis>
 		<ascii>
-			From Those Three,<end_line />
-			You Are Able To Determine The<end_line />
-			Answer From Their Appearance.<end_line />
+			You Will Be Able To Determine<end_line />
+			The Answer From The Appearance<end_line />
+			Of The Three Presented Choices.<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -760,7 +760,7 @@
 		<ascii>
 			Huh<three_dots />?<end_line />
 			The<three_dots />many kinds of weapons?<end_line />
-			How many were there again?<end_line />
+			How many WERE there again?<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -773,7 +773,7 @@
 			いくつだったかな？<end_line />
 		</sjis>
 		<ascii>
-			How many were there again?<end_line />
+			How many WERE there again?<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -1011,6 +1011,11 @@
 			武器の種類って<three_dots /><end_line />
 			いくつだっけ？<end_line />
 		</sjis>
+		<ascii>
+			Huh<three_dots />?<end_line />
+			How many kinds of weapons<three_dots />?<end_line />
+			How many WERE there, again?<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<player gender="female" />
@@ -1022,7 +1027,7 @@
 			いくつだったかな？<end_line />
 		</sjis>
 		<ascii>
-			How many were there again?<end_line />
+			How many WERE there again?<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -1091,6 +1096,10 @@
 			ソードとアクスとナックルって<end_line />
 			どれが重かった？<end_line />
 		</sjis>
+		<ascii>
+			The Sword, or the Knuckle<three_dots /><end_line />
+			Which one is the heaviest?<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<player gender="female" />
@@ -1236,6 +1245,11 @@
 			武器の種類って<three_dots /><end_line />
 			いくつだっけ？<end_line />
 		</sjis>
+		<ascii>
+			Huh<three_dots />?<end_line />
+			How many kinds of weapons<three_dots />?<end_line />
+			How many WERE there, again?<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<player gender="female" />
@@ -1247,7 +1261,7 @@
 			いくつだったかな？<end_line />
 		</sjis>
 		<ascii>
-			How many were there again?<end_line />
+			How many WERE there again?<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -1322,6 +1336,10 @@
 			ソードとアクスとナックルって<end_line />
 			どれが重かった？<end_line />
 		</sjis>
+		<ascii>
+			The Sword, or the Knuckle<three_dots /><end_line />
+			Which one is the heaviest?<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<player gender="female" />
@@ -1687,7 +1705,7 @@
 			な<three_dots />、なんかあったの？<end_line />
 		</sjis>
 		<ascii>
-			Uh<three_dots />, did something happen?<end_line />
+			Uh<three_dots />did something happen?<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>

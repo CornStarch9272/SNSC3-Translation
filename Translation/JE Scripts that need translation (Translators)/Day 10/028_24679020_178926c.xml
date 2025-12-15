@@ -19,6 +19,9 @@
 		<sjis>
 			何らかのメッセージ予定<end_line />
 		</sjis>
+		<ascii>
+			Some kind of message planned.<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -27,6 +30,11 @@
 			門番って誰か立ってて<end_line />
 			休み無しなんだよな<end_line />
 		</sjis>
+		<ascii>
+			Someone always has to take<end_line />
+			over post and guard the gates,<end_line />
+			so we never take any breaks.<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -34,6 +42,10 @@
 		<sjis>
 			今日は休みをもらったんだ<end_line />
 		</sjis>
+		<ascii>
+			I'm finally taking<end_line />
+			the day off!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -41,6 +53,10 @@
 		<sjis>
 			今日は召喚獣連れてないんだな<end_line />
 		</sjis>
+		<ascii>
+			Is your Summon Beast<end_line />
+			not with you today?<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -48,6 +64,11 @@
 		<sjis>
 			　　　<black_dot /><left_arrow />のぞき穴<end_line />
 		</sjis>
+		<ascii>
+			　<end_line />
+			　<end_line />
+			　<black_dot /><left_arrow />Peep hole<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -55,6 +76,10 @@
 		<sjis>
 			こりない人だね<end_line />
 		</sjis>
+		<ascii>
+			You're quite the stubborn<end_line />
+			one, aren't you?<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -63,6 +88,10 @@
 			町はキレイに！<end_line />
 			ゴミのポイ捨てはやめましょう！<end_line />
 		</sjis>
+		<ascii>
+			Make our town beautiful!<end_line />
+			Please stop littering!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -71,6 +100,10 @@
 			　<end_line />
 			　　　　〜教えてください〜<end_line />
 		</sjis>
+		<ascii>
+			　<end_line />
+			　　　　Please let me know!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -80,5 +113,10 @@
 			調べています<end_line />
 			どんなものなのか誰か教えて！<end_line />
 		</sjis>
+		<ascii>
+			I'm trying to know more about this<end_line />
+			food called <quote />curry<quote />! Can anyone<end_line />
+			Tell me what does it taste like!?<end_line />
+		</ascii>
 	</dialogue>
 </tl_file>

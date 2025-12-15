@@ -20,7 +20,7 @@
 			どうしようかと思ってたんですよ<end_line />
 		</sjis>
 		<ascii>
-			Jade! Thank goodness.<end_line />
+			Jade! Thank goodness<three_dots /><end_line />
 			Master Bostaph is away and I<end_line />
 			have no idea what I should do.<end_line />
 		</ascii>
@@ -60,11 +60,17 @@
 			<sjis>
 				なんだってぇ！？<end_line />
 			</sjis>
+			<ascii>
+				What the heck!?<end_line />
+			</ascii>
 		</male>
 		<female>
 			<sjis>
 				そ<three_dots />、そんな！？<end_line />
 			</sjis>
+			<ascii>
+				O-oh no<three_dots />!<end_line />
+			</ascii>
 		</female>
 	</bigtext>
 	<dialogue>
@@ -299,7 +305,7 @@
 		<ascii>
 			Ah, but we haven't gotten permission<end_line />
 			from Master Bostaph, and as members<end_line />
-			of the Gold Faction, we should<three_dots /><end_line />
+			of the Gold Council, we should<three_dots /><end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -338,7 +344,7 @@
 			たしかめることが先決っス<end_line />
 		</sjis>
 		<ascii>
-			Sorry Mr. Velworen, but right now,<end_line />
+			Sorry Mr. Velvoren, but right now,<end_line />
 			finding out what is going on is<end_line />
 			our top priority.<end_line />
 		</ascii>
@@ -470,7 +476,7 @@
 		<ascii>
 			I know how you feel, and you<end_line />
 			are qualified for this,<end_line />
-			but Vee is, you know<three_dots /><end_line />
+			but V.E is, you know<three_dots /><end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -748,7 +754,8 @@
 			我らも急ぐぞ<end_line />
 		</sjis>
 		<ascii>
-			Leave him alone, he's not important.<end_line />
+			Let him be, he's not our<end_line />
+			priority at the moment.<end_line />
 			Let's hurry.<end_line />
 		</ascii>
 	</dialogue>
@@ -762,7 +769,7 @@
 		</sjis>
 		<ascii>
 			Who cares about him?<end_line />
-			Let's hurry.<end_line />
+			Just hurry up.<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -774,7 +781,7 @@
 			私たちも急ぎましょう！<end_line />
 		</sjis>
 		<ascii>
-			Forget about him.<end_line />
+			He'll be alright on his own!<end_line />
 			We have to hurry!<end_line />
 		</ascii>
 	</dialogue>

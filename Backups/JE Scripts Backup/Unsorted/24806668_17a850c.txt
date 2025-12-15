@@ -2,6 +2,9 @@
 	<sjis>
 		ルイーズ村<end_line>
 	</sjis>
+	<ascii>
+		Louise Village<end_line />
+	</ascii>
 </location>
 <location>
 	<sjis>
@@ -15,6 +18,10 @@
 		どっかに景気のいい話、<end_line>
 		落ちてないかな～<end_line>
 	</sjis>
+	<ascii>
+   		I wonder if I'll get any<end_line>
+   		good news for my sales~<end_line>
+  	</ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">

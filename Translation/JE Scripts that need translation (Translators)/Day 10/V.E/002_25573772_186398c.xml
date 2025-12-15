@@ -45,7 +45,7 @@
 		<ascii>
 			Alright, looks good.<end_line />
 			You pass!<end_line />
-			Rob would be proud.<end_line />
+			Rob would be proud of you too.<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -67,11 +67,17 @@
 			<sjis>
 				ぃよっしゃー！！<end_line />
 			</sjis>
+			<ascii>
+				<three_dots />Woohoo!<end_line />
+			</ascii>
 		</male>
 		<female>
 			<sjis>
 				ぃやったーっ！！<end_line />
 			</sjis>
+			<ascii>
+				<three_dots />Yippie!<end_line />
+			</ascii>
 		</female>
 	</bigtext>
 	<dialogue>
@@ -226,7 +232,7 @@
 			準備が出来たらきな<end_line />
 		</sjis>
 		<ascii>
-			Fufu<three_dots /> I see you're taking<end_line />
+			Heheh<three_dots /> I see you're taking<end_line />
 			this seriously. I'll wait outside,<end_line />
 			come out whenever you're ready.<end_line />
 		</ascii>

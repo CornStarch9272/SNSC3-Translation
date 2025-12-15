@@ -12,7 +12,7 @@
 			ルイーズ村　遺跡前<end_line />
 		</sjis>
 		<ascii>
-			Louise Village　Ruins Surroundings<end_line />
+			Louise Village　Ruins Entrance<end_line />
 		</ascii>
 	</location>
 	<dialogue>
@@ -23,9 +23,9 @@
 			強力な武器が必要だと思うんだ<end_line />
 		</sjis>
 		<ascii>
-			I think powerful weapons are<end_line />
-			vital if we want to keep<end_line />
-			protecting our village.<end_line />
+			We need powerful weapons if<end_line />
+			we are to protect this village.<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -36,9 +36,9 @@
 			そっとしてほしいのぉ<end_line />
 		</sjis>
 		<ascii>
-			We tried to lived peacefully<end_line />
-			without bothering anyone<end_line />
-			Please, leave us be.<end_line />
+			We just wish to live out here<end_line />
+			peacefully all on our own.<end_line />
+			Please, leave us alone.<end_line />
 		</ascii>
 	</dialogue>
 </tl_file>

@@ -20,5 +20,10 @@
 			この扉は、武器に対応したスイッチを<end_line />
 			押すことで開く事ができます<end_line />
 		</sjis>
+		<ascii>
+			Open the door by pressing<end_line />
+			the matching switch for<end_line />
+			the weapon shown.<end_line />
+		</ascii>
 	</dialogue>
 </tl_file>

@@ -14,8 +14,7 @@
 			武器を取りに来たのか？<end_line />
 		</sjis>
 		<ascii>
-			Did you come to pick up your<end_line />
-			weapon?<end_line />
+			Here to pick up your weapons?<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -25,8 +24,7 @@
 			武器を預けに来たのか？<end_line />
 		</sjis>
 		<ascii>
-			Are you dropping off<end_line />
-			your weapon here?<end_line />
+			Here to drop off your weapons?<end_line />
 		</ascii>
 	</dialogue>
 	<menu>
@@ -53,10 +51,10 @@
 		<sjis>
 			預けられそうな武器が無いぞ<end_line />
 		</sjis>
-		<ascii>
-			You have no weapons that can<end_line />
-			be dropped off.<end_line />
-		</ascii>
+ 		<ascii>
+    	You don't have any<end_line>
+    	weapons to deposit.<end_line>
+  		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />

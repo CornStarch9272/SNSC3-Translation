@@ -13,5 +13,8 @@
 		<sjis>
 			猫こそいやしじゃ<end_line />
 		</sjis>
+		<ascii>
+			Aren't cats just the best!?<end_line />
+		</ascii>
 	</dialogue>
 </tl_file>

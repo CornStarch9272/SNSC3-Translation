@@ -12,9 +12,9 @@
 			召喚獣トロッコに乗車の際には<end_line />
 			足下に十分ご注意下さい<end_line />
 		</sjis>
-		<ascii>
-			Please watch your step while riding<end_line />
-			the Summon Creature trolley.<end_line />
-		</ascii>
+	<ascii>
+		Please watch your step when you<end_line />
+		board the Summon Beast railway!<end_line />
+	</ascii>
 	</dialogue>
 </tl_file>

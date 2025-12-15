@@ -30,7 +30,7 @@
 			迷いネコを保護した！<end_line />
 		</sjis>
 		<ascii>
-			Found the lost cat!<end_line />
+			You found the lost cat!<end_line />
 		</ascii>
 	</popup>
 	<dialogue>
@@ -42,9 +42,9 @@
 			ああ〜でも村の掟が<three_dots /><end_line />
 		</sjis>
 		<ascii>
-			I want to leave this musty village<end_line />
-			and head to the city.<end_line />
-			Ahh~ but the village laws<three_dots /><end_line />
+			I wanna leave this musty old village<end_line />
+			and head for the big city! But<three_dots /><end_line />
+			Sigh, village rules and all<three_dots /><end_line />
 		</ascii>
 	</dialogue>
 </tl_file>

@@ -17,8 +17,8 @@
 			</sjis>
 			<ascii>
 				Wrong way!<end_line />
-				I need to find Brother<end_line />
-				at the Gold Faction!<end_line />
+				I need to find Bro<end_line />
+				at the Gold Council!<end_line />
 			</ascii>
 		</male>
 		<female>
@@ -39,9 +39,9 @@
 			顔を売っている段階なんだって<end_line />
 		</sjis>
 		<ascii>
-			You know, my mom is a peddler.<end_line />
-			We're trying to make ourselves known<end_line />
-			with Craftknights and blacksmiths.<end_line />
+			My mom and I are peddlers!<end_line />
+			Currently we're acquainting with so<end_line />
+			many Craftknights and artisans!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -67,7 +67,7 @@
 		</sjis>
 		<ascii>
 			You're a Craftknight, aren't you?<end_line />
-			Want to hear about enhancement?<end_line />
+			Wanna hear about enhancement tips?<end_line />
 		</ascii>
 	</dialogue>
 	<choice>
@@ -114,7 +114,7 @@
 		<ascii>
 			And would you look at that,<end_line />
 			I have one such <quote />Ruin Switch<quote /><end_line />
-			available for only 800 Boam~<end_line />
+			available for only<three_dots />800 Boam!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -153,7 +153,7 @@
 			ありがと〜<end_line />
 		</sjis>
 		<ascii>
-			Thank you~<end_line />
+			Thank you for your patronage~<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -165,9 +165,9 @@
 			商談不成立だよ〜<end_line />
 		</sjis>
 		<ascii>
-			Eeeh~<end_line />
-			But you don't have the money~<end_line />
-			Transaction denied.<end_line />
+			Whaaaaaat!? What do you mean<end_line />
+			you don't have enough money!?<end_line />
+			I'm calling this deal off!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -178,9 +178,9 @@
 			ケチ〜<end_line />
 		</sjis>
 		<ascii>
-			Eh~ I tell you all that and<end_line />
-			you don't buy anything?<end_line />
-			Cheapskate~<end_line />
+			Whaaat!? You make me talk a lot<end_line />
+			but you don't want to buy from me?<end_line />
+			Cheapskate!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -191,9 +191,9 @@
 			せっかくのお客さんだと思ったのに〜<end_line />
 		</sjis>
 		<ascii>
-			Eh~ You don't want to listen?<end_line />
-			And I thought I finally had<end_line />
-			a customer~<end_line />
+			Whaaat? You're not interested?!<end_line />
+			Just when I thought<end_line />
+			I finally had a customer<three_dots /><end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -245,11 +245,10 @@
 			ワン魚がいるらしいぞ<end_line />
 		</sjis>
 		<ascii>
-			It's said the Dickell Village Pond<end_line />
+			It's said the Deckell Village Pond<end_line />
 			contains a fish who's cuteness<end_line />
 			cannot be put into words.<end_line />
 		</ascii>
-		# Changed Deikle to Dickell
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -260,9 +259,9 @@
 			毎日抽選！空くじ無し！！<end_line />
 		</sjis>
 		<ascii>
-			Want to try your luck<end_line />
-			at the lottery?<end_line />
-			Every ticket wins!<end_line />
+			Care to try our <quote />Lucky Draw<quote />?<end_line />
+			It's available all day, everyday!<end_line />
+			Guaranteed no losing tickets!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>

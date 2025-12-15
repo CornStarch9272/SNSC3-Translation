@@ -64,7 +64,8 @@
 			見テクダサイ！<end_line />
 		</sjis>
 		<ascii>
-			Look Above You!<end_line />
+			Look!<end_line />
+			Above You!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -89,8 +90,8 @@
 			上だ<end_line />
 		</sjis>
 		<ascii>
-			Tch!<end_line />
-			Look up!<end_line />
+			Tsk!<end_line />
+			Above you!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -102,7 +103,7 @@
 			上です！<end_line />
 		</sjis>
 		<ascii>
-			Aaaaaah<three_dots />!<end_line />
+			Eeek<three_dots />!<end_line />
 			Above you!<end_line />
 		</ascii>
 	</dialogue>

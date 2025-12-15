@@ -11,6 +11,9 @@
 		<sjis>
 			ミシュースの廃墟　広場<end_line />
 		</sjis>
+		<ascii>
+			Mishus Abandoned Site　Plaza<end_line />
+		</ascii>
 	</location>
 	<dialogue>
 		<info box="simple" />
@@ -19,7 +22,8 @@
 			<player_nickname />のはくじょうもの<three_dots /><end_line />
 		</sjis>
 		<ascii>
-			<player_nickname /> is so insensitive<three_dots /><end_line />
+			<player_nickname /><three_dots /><end_line />
+			you're so mean<three_dots /><end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -29,7 +33,7 @@
 			早く町に帰りたい<three_dots /><end_line />
 		</sjis>
 		<ascii>
-			I wanna go home<three_dots /><end_line />
+			I want to go home<three_dots /><end_line />
 		</ascii>
 	</dialogue>
 </tl_file>

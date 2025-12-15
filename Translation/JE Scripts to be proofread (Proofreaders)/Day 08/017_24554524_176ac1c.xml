@@ -62,8 +62,8 @@
 			お通り下さい<end_line />
 		</sjis>
 		<ascii>
-			Those with a membership,<end_line />
-			please step this way.<end_line />
+			Only those with a Membership<end_line />
+			Card may pass.<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -75,8 +75,8 @@
 			いかないな<end_line />
 		</sjis>
 		<ascii>
-			I'm sorry, only those with<end_line />
-			my permission are allowed to pass.<end_line />
+			Sorry, but only VIPs can<end_line />
+			pass through here.<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -87,8 +87,8 @@
 			話は別だがな<end_line />
 		</sjis>
 		<ascii>
-			But if you have a membership card,<end_line />
-			that's a different story.<end_line />
+			But, if you have a Membership<end_line />
+			Card, we might let you in.<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -100,9 +100,9 @@
 			福引きしてみませんか？<end_line />
 		</sjis>
 		<ascii>
-			We offer the best moments<end_line />
-			to select customers.<end_line />
-			Will you play the lottery?<end_line />
+			We offer the best experience<end_line />
+			only to select customers!<end_line />
+			Want to give the lottery a try?<end_line />
 		</ascii>
 	</dialogue>
 </tl_file>

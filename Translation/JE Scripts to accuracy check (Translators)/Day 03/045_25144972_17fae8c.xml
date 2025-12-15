@@ -290,7 +290,7 @@
 			え！？<end_line />
 		</sjis>
 		<ascii>
-			Uhh<three_dots /><end_line />
+			Excuse me!?<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -360,7 +360,7 @@
 				ダメ！　ゼッタイ！<end_line />
 			</sjis>
 			<ascii>
-				No way!<end_line />
+				Nuh uh! No way!<end_line />
 			</ascii>
 		</option>
 	</choice>
@@ -396,7 +396,7 @@
 		</sjis>
 		<ascii>
 			Don't be ridiculous.<end_line />
-			I have no interest in that.<end_line />
+			I'm not interested in that.<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -419,7 +419,7 @@
 			なんで〜！？<end_line />
 		</sjis>
 		<ascii>
-			Ehh~!?<end_line />
+			Whaaat!?<end_line />
 			Whyy?!<end_line />
 		</ascii>
 	</dialogue>
@@ -461,8 +461,8 @@
 			働かなくてはならないのだ<end_line />
 		</sjis>
 		<ascii>
-			What reason do I<end_line />
-			have to help you?<end_line />
+			Just what reason do I<end_line />
+			have to help even you?<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -552,7 +552,7 @@
 			今は、って<three_dots /><end_line />
 		</sjis>
 		<ascii>
-			That's not what I-<three_dots /><end_line />
+			That's not what I<three_dots /><end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -791,7 +791,8 @@
 		</sjis>
 		<ascii>
 			I made a promise with Murno<three_dots /><end_line />
-			Want me to break it?<end_line />
+			What makes you think I'll<end_line />
+			break it for you?<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -804,7 +805,7 @@
 			約束ですから<three_dots /><end_line />
 		</sjis>
 		<ascii>
-			I made a promise with Murno<three_dots /><end_line />
+			I made a promise with Milady<three_dots /><end_line />
 			So<three_dots /><end_line />
 		</ascii>
 	</dialogue>
@@ -873,7 +874,7 @@
 			了解デス<three_dots /><end_line />
 		</sjis>
 		<ascii>
-			Roger<three_dots /><end_line />
+			Affirmative<three_dots /><end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>

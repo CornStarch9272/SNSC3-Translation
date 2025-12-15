@@ -102,7 +102,7 @@
 		</sjis>
 		<ascii>
 			Eh? You're a Craftknight?<end_line />
-			Me? I'm from the Gold Faction.<end_line />
+			Me? I'm from the Gold Council.<end_line />
 			Move along now.<end_line />
 		</ascii>
 	</dialogue>
@@ -114,8 +114,8 @@
 			　　　勇者プロスバンの石像<end_line />
 		</sjis>
 		<ascii>
-			　　The Founder Of This City,<end_line />
-			　　Our Hero Prosban<end_line />
+			　　　The Founder Of This City,<end_line />
+			　　　Our Hero Prosban<end_line />
 		</ascii>
 	</dialogue>
 </tl_file>

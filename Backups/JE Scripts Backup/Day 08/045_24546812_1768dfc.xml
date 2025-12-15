@@ -51,11 +51,11 @@
 		立ち入り禁止！！<end_line>
 		　　　　　　　　　　　ティエ<end_line>
 	</sjis>
-  <ascii>
-    Past here is a maiden's secret<hearth><end_line>
-    No Trespassing!!<end_line>
-                  Tier<end_line>
-  </ascii>
+	<ascii>
+		A lady's secret lies beyond here<hearth /><end_line />
+		NO TRESPASSING!!!<end_line />
+		　　　　　　　　　　　-Tier<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">

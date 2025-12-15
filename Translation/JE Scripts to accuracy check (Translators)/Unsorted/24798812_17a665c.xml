@@ -4,7 +4,7 @@
 			金の派閥　エントランス<end_line />
 		</sjis>
 		<ascii>
-			Gold Faction　Entrance<end_line />
+			Gold Council　Entrance<end_line />
 		</ascii>
 	</location>
 	<dialogue>
@@ -16,9 +16,9 @@
 			これからは無派閥時代ですよね<end_line />
 		</sjis>
 		<ascii>
-			I've left Velworen's side.<end_line />
-			From now on, I'll stick<end_line />
-			with no sides.<end_line />
+			I've left the Velvoren party.<end_line />
+			From now on, I'm no longer<end_line />
+			taking any sides.<end_line />
 		</ascii>
 	</dialogue>
 </tl_file>

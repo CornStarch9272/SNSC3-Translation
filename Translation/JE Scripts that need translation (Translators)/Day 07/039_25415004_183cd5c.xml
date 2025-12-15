@@ -81,6 +81,10 @@
 			あ！<end_line />
 			お前、何を<three_dots />！<end_line />
 		</sjis>
+		<ascii>
+			Wait<end_line />
+			What are you<three_dots />!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<player gender="female" />
@@ -101,7 +105,7 @@
 			行っちまったよ<three_dots /><end_line />
 		</sjis>
 		<ascii>
-			Ah~ah<three_dots /><end_line />
+			Sigh<three_dots /><end_line />
 			There he goes<three_dots /><end_line />
 		</ascii>
 	</dialogue>

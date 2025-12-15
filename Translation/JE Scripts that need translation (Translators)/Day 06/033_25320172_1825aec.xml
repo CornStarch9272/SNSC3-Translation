@@ -22,9 +22,9 @@
 			どういうこと！？<end_line />
 		</sjis>
 		<ascii>
-			Eh!?<end_line />
+			Huh!?<end_line />
 			Wait<three_dots /><end_line />
-			What!?<end_line />
+			What do you mean!?<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -80,7 +80,7 @@
 			トイウコトデス<end_line />
 		</sjis>
 		<ascii>
-			Disappear.<end_line />
+			Disappear. Meaning:<end_line />
 			To Cease To Be Visible.<end_line />
 		</ascii>
 	</dialogue>
@@ -108,7 +108,7 @@
 			どうやって消えたの？<end_line />
 		</sjis>
 		<ascii>
-			How did she disappear?<end_line />
+			HOW did she disappear?<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -120,7 +120,7 @@
 			不明デス<end_line />
 		</sjis>
 		<ascii>
-			Cause Is Unknown.<end_line />
+			Cause: Unknown.<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -451,8 +451,8 @@
 			そうはいきませんよ！<end_line />
 		</sjis>
 		<ascii>
-			E-e-e-even if you try to scare me,<end_line />
-			it won't work!<end_line />
+			E-e-e-even if you try to scare<end_line />
+			me, you'll have to try harder!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>

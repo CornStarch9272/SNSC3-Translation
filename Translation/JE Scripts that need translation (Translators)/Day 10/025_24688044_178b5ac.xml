@@ -21,5 +21,10 @@
 			もちろん鍛冶に最適なアイテムも<end_line />
 			多数取り扱っております<end_line />
 		</sjis>
+		<ascii>
+			We sell Shapestones!<end_line />
+			Of course, we also have ores<end_line />
+			and stuff for smithing in stock!<end_line />
+		</ascii>
 	</dialogue>
 </tl_file>

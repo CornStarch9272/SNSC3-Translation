@@ -36,7 +36,7 @@
 			にゃ〜<end_line />
 		</sjis>
 		<ascii>
-			Meow~<end_line />
+			Meooow~<end_line />
 		<ascii />
 	</dialogue>
 	<dialogue>
@@ -76,7 +76,7 @@
 		<ascii>
 			Care to try our <quote />Lucky Draw<quote />?<end_line />
 			It's available all day, everyday!<end_line />
-			You get a guaranteed prize!<end_line />
+			Guaranteed no losing tickets!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -96,7 +96,7 @@
 		</sjis>
 		<ascii>
 			I heard that a monster fish<end_line />
-			lurks in Dickle Town's very<end_line />
+			lurks in Deckell Town's very<end_line />
 			own fishing spot.<end_line />
 		</ascii>
 	</dialogue>
@@ -110,8 +110,8 @@
 		</sjis>
 		<ascii>
 			My pal who caught it spouted some<end_line />
-			gibberish like <quote />it doesn't fit<end_line />
-			the screen!<quote />, or whatever.<end_line />
+			gibberish like <quote />IT DOESN'T<end_line />
+			FIT THE SCREEN!<quote />, or whatever.<end_line />
 		</ascii>
 	</dialogue>
 </tl_file>

@@ -15,8 +15,8 @@
 			足下に十分ご注意下さい<end_line />
 		</sjis>
 		<ascii>
-			Please watch your step<end_line />
-			when boarding the railcar.<end_line />
+			Please watch your step when you<end_line />
+			board the Summon Beast railway!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -28,9 +28,9 @@
 			と言ったらなっとらん<end_line />
 		</sjis>
 		<ascii>
-			Youngsters these days are<end_line />
-			no good.<end_line />
-			Ah~ No good at all.<end_line />
+			Young'uns these days are too lax!<end_line />
+			Sigh, nothing I say goes<end_line />
+			past their ears<three_dots /><end_line />
 		</ascii>
 	</dialogue>
 </tl_file>

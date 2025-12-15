@@ -14,6 +14,9 @@
 	<sjis>
 		ん？　今日はひとりかい？<end_line>
 	</sjis>
+	<ascii>
+			Oh? You heading out alone today?<end_line />
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">

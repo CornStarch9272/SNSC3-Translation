@@ -52,7 +52,7 @@
 			ソレハ　ドウイウコトデスカ？<end_line />
 		</sjis>
 		<ascii>
-			Like?<end_line />
+			What I Like?<end_line />
 			<three_dots /><end_line />
 			What Do You Mean?<end_line />
 		</ascii>
@@ -171,7 +171,7 @@
 				すぐには決められないなぁ<three_dots /><end_line />
 			</sjis>
 			<ascii>
-				Eh~!<end_line />
+				Whaaat!?<end_line />
 				Hold on<three_dots /><end_line />
 				I can't decide so quickly<three_dots /><end_line />
 			</ascii>
@@ -203,7 +203,7 @@
 			それは、多分<three_dots /><end_line />
 		</sjis>
 		<ascii>
-			Eh<three_dots /><end_line />
+			Erm<three_dots /><end_line />
 			Well, probably<three_dots /><end_line />
 		</ascii>
 	</dialogue>
@@ -220,7 +220,7 @@
 		<ascii>
 			Some Time Ago, Tram Said That You<end_line />
 			Conveyed Your Soul To The Phantom<end_line />
-			Dragon Through a Fight.<end_line />
+			Dragon Through That Fight.<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -236,8 +236,8 @@
 		</sjis>
 		<ascii>
 			Ummm<three_dots /> Yeah.<end_line />
-			If you fight seriously,<end_line />
-			your feelings will be projected.<end_line />
+			If you fight seriously, others will<end_line />
+			see what you truly strive for.<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -267,8 +267,8 @@
 		</sjis>
 		<ascii>
 			Ummm<three_dots /> Yeah.<end_line />
-			If you fight seriously,<end_line />
-			your feelings will be projected.<end_line />
+			If you fight seriously, others will<end_line />
+			see what you truly strive for.<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -397,7 +397,7 @@
 			アリガトウゴザイマス<end_line />
 		</sjis>
 		<ascii>
-			Understood.<end_line />
+			Affirmative.<end_line />
 			Thank You Very Much.<end_line />
 		</ascii>
 	</dialogue>
@@ -625,7 +625,7 @@
 				なんだよ、突然<end_line />
 			</sjis>
 			<ascii>
-				What's this all of a sudden?<end_line />
+				What's with you all of a sudden?<end_line />
 			</ascii>
 		</male>
 		<female>
@@ -633,7 +633,7 @@
 				なによ、突然<end_line />
 			</sjis>
 			<ascii>
-				What's this all of a sudden?<end_line />
+				What's with you all of a sudden?<end_line />
 			</ascii>
 		</female>
 	</dialogue>
@@ -886,8 +886,8 @@
 			ワガハイは工房の前で待っておるぞ<end_line />
 		</sjis>
 		<ascii>
-			Fufufu<three_dots /> Interesting.<end_line />
-			Choose carefully.<end_line />
+			Hmhmhm<three_dots />Interesting.<end_line />
+			Choose your weapon carefully.<end_line />
 			I will be waiting outside.<end_line />
 		</ascii>
 	</dialogue>
@@ -1037,7 +1037,7 @@
 				なんだよ、突然<end_line />
 			</sjis>
 			<ascii>
-				What's this all of a sudden?<end_line />
+				What's with you all of a sudden?<end_line />
 			</ascii>
 		</male>
 		<female>
@@ -1045,7 +1045,7 @@
 				なによ、突然<end_line />
 			</sjis>
 			<ascii>
-				What's this all of a sudden?<end_line />
+				What's with you all of a sudden?<end_line />
 			</ascii>
 		</female>
 	</dialogue>
@@ -1654,11 +1654,17 @@
 			<sjis>
 				ひとつだ！<end_line />
 			</sjis>
+			<ascii>
+				<three_dots />Just one!<end_line />
+			</ascii>
 		</male>
 		<female>
 			<sjis>
 				ひとつよ！<end_line />
 			</sjis>
+			<ascii>
+				<three_dots />Just one!<end_line />
+			</ascii>
 		</female>
 	</bigtext>
 	<dialogue>
@@ -1686,10 +1692,9 @@
 				言ってるんだ<three_dots /><end_line />
 			</sjis>
 			<ascii>
-				I'm saying that using<end>
-					only one weapon will be<end_line />
-					enough to deal with you<three_dots /><end_line />
-				</end>
+				I'm saying that using<end_line />
+				only one weapon will be<end_line />
+				enough to deal with you<three_dots /><end_line />
 			</ascii>
 		</male>
 		<female>
@@ -1699,10 +1704,9 @@
 				言ってるんだよ<three_dots /><end_line />
 			</sjis>
 			<ascii>
-				I'm saying that using<end>
-					only one weapon will be<end_line />
-					enough to deal with you<three_dots /><end_line />
-				</end>
+				I'm saying that using<end_line />
+				only one weapon will be<end_line />
+				enough to deal with you<three_dots /><end_line />
 			</ascii>
 		</female>
 	</dialogue>

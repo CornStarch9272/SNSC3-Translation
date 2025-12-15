@@ -263,9 +263,9 @@
 				アニキには近づかないから！<end_line />
 			</sjis>
 			<ascii>
-				Well, my bad!<end_line />
-				I won't get near<end_line />
-				you again, Brother!<end_line />
+				Well, my bad then!<end_line />
+				I won't hang out with<end_line />
+				you anymore, Bro!<end_line />
 			</ascii>
 		</male>
 		<female>
@@ -275,9 +275,9 @@
 				ムシされてたなんて<three_dots />！<end_line />
 			</sjis>
 			<ascii>
-				Hey!<end_line />
+				Meanie!<end_line />
 				I'm a girl, you know!<end_line />
-				You're terrible<three_dots /><end_line />
+				You're the worst<three_dots /><end_line />
 			</ascii>
 		</female>
 	</dialogue>
@@ -307,9 +307,9 @@
 				少しはわかった？<end_line />
 			</sjis>
 			<ascii>
-				Hehe<three_dots /><end_line />
-				So now do you understand<end_line />
-				my feelings a bit, Brother?<end_line />
+				Ehehe<three_dots /><end_line />
+				Do you understand<end_line />
+				how I feel now, Bro?<end_line />
 			</ascii>
 		</male>
 		<female>
@@ -320,8 +320,8 @@
 			</sjis>
 			<ascii>
 				Ehehe<three_dots /><end_line />
-				So now do you understand<end_line />
-				my feelings a bit, Brother?<end_line />
+				Do you understand<end_line />
+				how I feel now, Bro?<end_line />
 			</ascii>
 		</female>
 	</dialogue>
@@ -337,8 +337,7 @@
 		<ascii>
 			Tch<three_dots />!<end_line />
 			You're becoming more and<end_line />
-			more like V.E by the day.<end_line />
+			more like V.E. by the day.<end_line />
 		</ascii>
-		# Changed Vee to V.E
 	</dialogue>
 </tl_file>

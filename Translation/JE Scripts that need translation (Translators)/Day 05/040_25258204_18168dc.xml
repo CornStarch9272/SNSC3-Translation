@@ -8,6 +8,10 @@
 			ティエ！<end_line />
 			お前<three_dots />！<end_line />
 		</sjis>
+		<ascii>
+			Oh!<end_line />
+			It's Tier!<end_line />
+			There you are<three_dots />!<end_line />
 	</dialogue>
 	<dialogue>
 		<player gender="female" />
@@ -561,8 +565,6 @@
 			You better hurry and<end_line />
 			find Murno fast!<end_line />
 		</ascii>
-		# FOR PROOFREADING
-		# Had to correct grammar, Jade saying 後はまかせたよ！ pertains to himself.
 	</dialogue>
 	<dialogue>
 		<info box="right" />

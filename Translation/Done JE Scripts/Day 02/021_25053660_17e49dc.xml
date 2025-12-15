@@ -216,7 +216,7 @@
 		</sjis>
 		<ascii>
 			Huh!?<end_line />
-			Bro, stop it!<end_line />
+			Bro, wait!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -290,7 +290,7 @@
 		<ascii>
 			Jeez<three_dots /><end_line />
 			It's too late for that<three_dots /><end_line />
-			"Bro" is just fine.<end_line />
+			Just <quote />Bro<quote /> is fine.<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -317,9 +317,9 @@
 			それでも立ち上がったあの日から<end_line />
 		</sjis>
 		<ascii>
-			Not "claiming", it's true!<end_line />
-			Ever since the day I fought Rob,<end_line />
-			I was beaten, yet I stood tall.<end_line />
+			Nah, 'cause it's true! Ever since<end_line />
+			the day I fought Rob, I'm still up<end_line />
+			even if you try to whittle me down!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -331,7 +331,7 @@
 		</sjis>
 		<ascii>
 			From that day forward,<end_line />
-			I became the Invincible Jade.<end_line />
+			I am<three_dots />the Invincible Jade!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -345,7 +345,7 @@
 		</sjis>
 		<ascii>
 			And I threw away the part of<end_line />
-			myself which you called "Bro".<end_line />
+			myself which you called "Bro"!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -356,7 +356,8 @@
 			あんま、かわんないと思うけど<end_line />
 		</sjis>
 		<ascii>
-			You don't seem any different<three_dots /><end_line />
+			<three_dots />I don't think you've<end_line />
+			at all, though<three_dots /><end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>

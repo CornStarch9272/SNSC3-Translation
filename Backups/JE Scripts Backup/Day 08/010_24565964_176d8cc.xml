@@ -3,7 +3,7 @@
 		金の派閥　エントランス<end_line>
 	</sjis>
 	<ascii>
-		Gold Faction　Entrance<end_line>
+		Gold Council　Entrance<end_line>
 	</ascii>
 </location>
 <dialogue>
@@ -15,8 +15,8 @@
 		ベルヴォレン派か、イアナ派か<end_line>
 	</sjis>
   <ascii>
-    Within the Gold Faction, there<end_line>
-    are sub-factions such as the<end_line>
+    Within the Gold Council, there<end_line>
+    are sub-Councils such as the<end_line>
     House Velworen, and House Ianna.<end_line>
   </ascii>
 </dialogue>

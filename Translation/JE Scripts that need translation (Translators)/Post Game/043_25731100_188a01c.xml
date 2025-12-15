@@ -9,7 +9,7 @@
 			専属鍛冶師にしてあげるわ<end_line />
 		</sjis>
 		<ascii>
-			As expected of <player_nickname />, huh.<end_line />
+			Heh, as expected of <player_nickname />!<end_line />
 			I'd love to have you as the Inn's<end_line />
 			exclusive Craftknight.<end_line />
 		</ascii>
@@ -70,7 +70,7 @@
 		</sjis>
 		<ascii>
 			You're working hard today too.<end_line />
-			I want V.E to let you be<end_line />
+			I want V.E. to let you be<end_line />
 			independent soon.<end_line />
 		</ascii>
 	</dialogue>
@@ -116,5 +116,10 @@
 			あ、そう<three_dots /><end_line />
 			じゃあ修行がんばってね！<end_line />
 		</sjis>
+		<ascii>
+			Oh, okay<three_dots /><end_line />
+			Well, good luck with<end_line />
+			training, then!<end_line />
+		</ascii>
 	</dialogue>
 </tl_file>

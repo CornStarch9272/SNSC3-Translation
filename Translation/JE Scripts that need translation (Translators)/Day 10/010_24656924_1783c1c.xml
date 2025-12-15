@@ -22,5 +22,9 @@
 			あら、おかえり<end_line />
 			町はどうだった？<end_line />
 		</sjis>
+		<ascii>
+			My goodness, you're back!<end_line />
+			How's the city life?<end_line />
+		</ascii>
 	</dialogue>
 </tl_file>

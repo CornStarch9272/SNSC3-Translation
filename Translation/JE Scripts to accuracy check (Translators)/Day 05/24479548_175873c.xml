@@ -300,7 +300,7 @@
 			トノコトデシタ<end_line />
 		</sjis>
 		<ascii>
-			According To Brother's Orders,<end_line />
+			According To Bro's Orders,<end_line />
 			We Must Hurry,<end_line />
 			But Do Not Run.<end_line />
 		</ascii>
@@ -580,7 +580,7 @@
 			了解デス<end_line />
 		</sjis>
 		<ascii>
-			Roger.<end_line />
+			Affirmative.<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -2013,7 +2013,7 @@
 			急ギマショウ！<end_line />
 		</sjis>
 		<ascii>
-			Roger.<end_line />
+			Affirmative.<end_line />
 			Let Us Hurry!<end_line />
 		</ascii>
 	</dialogue>

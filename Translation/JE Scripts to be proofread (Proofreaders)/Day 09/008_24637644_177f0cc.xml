@@ -15,10 +15,10 @@
 			村中に避難を呼びかけてたんです<end_line />
 			ホントですよ<end_line />
 		</sjis>
-		<ascii>
-			I didn't run.<end_line />
-			I was telling everyone in<end_line />
-			the village to evacuate. Really!<end_line />
-		</ascii>
+ 		<ascii>
+    		I wasn't running away.<end_line>
+    		I was telling the villagers<end_line>
+    		to evacuate! Really!<end_line>
+  		</ascii>
 	</dialogue>
 </tl_file>

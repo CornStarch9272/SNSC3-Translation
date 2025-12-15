@@ -9,6 +9,11 @@
 				ボスタフ親方がアニスの仲間だった<end_line />
 				なんて<three_dots /><end_line />
 			</sjis>
+			<ascii>
+				Damn it<three_dots /><end_line />
+				Master Bostaph was supposed to<end_line />
+				be Anise's ally, so why<three_dots /><end_line />
+			</ascii>
 		</male>
 		<female>
 			<sjis>
@@ -16,6 +21,11 @@
 				なんて<three_dots /><end_line />
 				なによ、もう<three_dots /><end_line />
 			</sjis>
+			<ascii>
+				Master Bostaph was supposed to<end_line />
+				be Anise's ally, so why<three_dots /><end_line />
+				I don't understand<three_dots />!<end_line />
+			</ascii>
 		</female>
 	</dialogue>
 	<dialogue>
@@ -28,6 +38,11 @@
 			ツレテイッテ　何ヲスルツモリカハ<end_line />
 			ワカリマセンガ<three_dots /><end_line />
 		</sjis>
+		<ascii>
+			I Do Not Comprehend Their<end_line />
+			Objective Of Taking Lady Murno<end_line />
+			To The G※an Ruins. However<three_dots /><end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<partner name="run-dor" />
@@ -37,6 +52,9 @@
 		<sjis>
 			アマリ　時間ハナイモノト　思ワレマス<end_line />
 		</sjis>
+		<ascii>
+			We Do Not Have Much Time Left.<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="left" />
@@ -48,6 +66,11 @@
 				みんなのためにも早く追いついて<end_line />
 				ミューノを取り戻すんだ！<end_line />
 			</sjis>
+			<ascii>
+				Yeah<three_dots /><end_line />
+				We have to tail him fast and<end_line />
+				get Murno back for everyone!<end_line />
+			</ascii>
 		</male>
 		<female>
 			<sjis>
@@ -55,6 +78,11 @@
 				みんなのためにも早く追いついて<end_line />
 				ミューノを取り戻そう！<end_line />
 			</sjis>
+			<ascii>
+				Yeah<three_dots /><end_line />
+				We have to tail him fast and<end_line />
+				get Murno back for everyone!<end_line />
+			</ascii>
 		</female>
 	</dialogue>
 	<dialogue>
@@ -67,6 +95,11 @@
 				ボスタフ親方がアニスの仲間だった<end_line />
 				なんて<three_dots /><end_line />
 			</sjis>
+			<ascii>
+				Damn it<three_dots /><end_line />
+				Master Bostaph was supposed to<end_line />
+				be Anise's ally, so why<three_dots /><end_line />
+			</ascii>
 		</male>
 		<female>
 			<sjis>
@@ -74,6 +107,11 @@
 				なんて<three_dots /><end_line />
 				なによ、もう<three_dots /><end_line />
 			</sjis>
+			<ascii>
+				Master Bostaph was supposed to<end_line />
+				be Anise's ally, so why<three_dots /><end_line />
+				I don't understand<three_dots />!<end_line />
+			</ascii>
 		</female>
 	</dialogue>
 	<dialogue>
@@ -86,6 +124,11 @@
 			連れて行って、何をするつもりかは<end_line />
 			知らぬが<three_dots /><end_line />
 		</sjis>
+		<ascii>
+			I do not understand what they're<end_line />
+			scheming by taking Murno deeper<end_line />
+			into Govan Ruins, however<three_dots /><end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<partner name="enzi" />
@@ -95,6 +138,9 @@
 		<sjis>
 			もはや時間はないようじゃぞ！<end_line />
 		</sjis>
+		<ascii>
+			Let us not waste any more time!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="left" />
@@ -106,6 +152,11 @@
 				みんなのためにも早く追いついて<end_line />
 				ミューノを取り戻すんだ！<end_line />
 			</sjis>
+			<ascii>
+				Yeah<three_dots /><end_line />
+				We have to tail him fast and<end_line />
+				get Murno back for everyone!<end_line />
+			</ascii>
 		</male>
 		<female>
 			<sjis>
@@ -113,6 +164,11 @@
 				みんなのためにも早く追いついて<end_line />
 				ミューノを取り戻そう！<end_line />
 			</sjis>
+			<ascii>
+				Yeah<three_dots /><end_line />
+				We have to tail him fast and<end_line />
+				get Murno back for everyone!<end_line />
+			</ascii>
 		</female>
 	</dialogue>
 	<dialogue>
@@ -125,6 +181,11 @@
 				ボスタフ親方がアニスの仲間だった<end_line />
 				なんて<three_dots /><end_line />
 			</sjis>
+			<ascii>
+				Damn it<three_dots /><end_line />
+				Master Bostaph was supposed to<end_line />
+				be Anise's ally, so why<three_dots /><end_line />
+			</ascii>
 		</male>
 		<female>
 			<sjis>
@@ -132,6 +193,11 @@
 				なんて<three_dots /><end_line />
 				なによ、もう<three_dots /><end_line />
 			</sjis>
+			<ascii>
+				Master Bostaph was supposed to<end_line />
+				be Anise's ally, so why<three_dots /><end_line />
+				I don't understand<three_dots />!<end_line />
+			</ascii>
 		</female>
 	</dialogue>
 	<dialogue>
@@ -144,6 +210,11 @@
 			ゴヴァンの遺跡の奥に連れて行って<end_line />
 			何をするつもりかは知らんが<three_dots /><end_line />
 		</sjis>
+		<ascii>
+			I don't know what they plan to<end_line />
+			do to Murno once they take her<end_line />
+			deeper into Govan Ruins, but<three_dots /><end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<partner name="killfith" />
@@ -154,6 +225,10 @@
 			グズグズしている時間は<end_line />
 			ないようだぞ！<end_line />
 		</sjis>
+		<ascii>
+			This isn't the time for<end_line />
+			us to dawdle! Go, now!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="left" />
@@ -165,6 +240,11 @@
 				みんなのためにも早く追いついて<end_line />
 				ミューノを取り戻すんだ！<end_line />
 			</sjis>
+			<ascii>
+				Yeah<three_dots /><end_line />
+				We have to tail him fast and<end_line />
+				get Murno back for everyone!<end_line />
+			</ascii>
 		</male>
 		<female>
 			<sjis>
@@ -172,6 +252,11 @@
 				みんなのためにも早く追いついて<end_line />
 				ミューノを取り戻そう！<end_line />
 			</sjis>
+			<ascii>
+				Yeah<three_dots /><end_line />
+				We have to tail him fast and<end_line />
+				get Murno back for everyone!<end_line />
+			</ascii>
 		</female>
 	</dialogue>
 	<dialogue>
@@ -184,6 +269,11 @@
 				ボスタフ親方がアニスの仲間だった<end_line />
 				なんて<three_dots /><end_line />
 			</sjis>
+			<ascii>
+				Damn it<three_dots /><end_line />
+				Master Bostaph was supposed to<end_line />
+				be Anise's ally, so why<three_dots /><end_line />
+			</ascii>
 		</male>
 		<female>
 			<sjis>
@@ -191,6 +281,11 @@
 				なんて<three_dots /><end_line />
 				なによ、もう<three_dots /><end_line />
 			</sjis>
+			<ascii>
+				Master Bostaph was supposed to<end_line />
+				be Anise's ally, so why<three_dots /><end_line />
+				I don't understand<three_dots />!<end_line />
+			</ascii>
 		</female>
 	</dialogue>
 	<dialogue>
@@ -203,6 +298,11 @@
 			連れて行って、何をするつもりかは<end_line />
 			知りませんけど<three_dots /><end_line />
 		</sjis>
+		<ascii>
+			I do not know what they plan to do<end_line />
+			Lady Murno once they take her deep<end_line />
+			into Goval Ruins, however<three_dots /><end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<partner name="rufeel" />
@@ -212,6 +312,9 @@
 		<sjis>
 			もう時間がないみたいですわ！<end_line />
 		</sjis>
+		<ascii>
+			We don't have much time anymore!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="left" />
@@ -223,6 +326,11 @@
 				みんなのためにも早く追いついて<end_line />
 				ミューノを取り戻すんだ！<end_line />
 			</sjis>
+			<ascii>
+				Yeah<three_dots /><end_line />
+				We have to tail him fast and<end_line />
+				get Murno back for everyone!<end_line />
+			</ascii>
 		</male>
 		<female>
 			<sjis>
@@ -230,6 +338,11 @@
 				みんなのためにも早く追いついて<end_line />
 				ミューノを取り戻そう！<end_line />
 			</sjis>
+			<ascii>
+				Yeah<three_dots /><end_line />
+				We have to tail him fast and<end_line />
+				get Murno back for everyone!<end_line />
+			</ascii>
 		</female>
 	</dialogue>
 	<dialogue>
@@ -242,6 +355,11 @@
 				アニスのヤツ、まだ何か<end_line />
 				ろくでもないこと企んでいるのか？<end_line />
 			</sjis>
+			<ascii>
+				Our plans are being sabotaged<three_dots /><end_line />
+				Do you think Anise still has<end_line />
+				something else up her sleeve?<end_line />
+			</ascii>
 		</male>
 		<female>
 			<sjis>
@@ -249,6 +367,11 @@
 				アニスったら、まだ何か<end_line />
 				ろくでもないこと企んでいるのかな？<end_line />
 			</sjis>
+			<ascii>
+				Our plans are being sabotaged<three_dots /><end_line />
+				Do you think Anise still has<end_line />
+				something else up her sleeve?<end_line />
+			</ascii>
 		</female>
 	</dialogue>
 	<dialogue>
@@ -261,6 +384,11 @@
 			でーた不足デス<end_line />
 			何ヲ　企ンデイルノカ　ワカリマセン<end_line />
 		</sjis>
+		<ascii>
+			While That May Be A Possibility,<end_line />
+			We Lack Sufficient DATA For Proof.<end_line />
+			We Don't Know What They Plan To Do.<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<player gender="male" />
@@ -273,6 +401,11 @@
 			ゴヴァンの遺跡の奥に向かっている<end_line />
 			<three_dots />ってことだけだ<end_line />
 		</sjis>
+		<ascii>
+			So far, we know that Murno and the<end_line />
+			others went further in the ruins.<end_line />
+			<three_dots />And that's all, I guess.<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<player gender="male" />
@@ -283,6 +416,10 @@
 		<sjis>
 			とにかく先に進むしかないか！<end_line />
 		</sjis>
+		<ascii>
+			We don't have any choice, do we?<end_line />
+			Let's just keep pressing on!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<player gender="female" />
@@ -295,6 +432,11 @@
 			ゴヴァンの遺跡の奥に向かっている<end_line />
 			<three_dots />ってことだけだね<end_line />
 		</sjis>
+		<ascii>
+			So far, we know that Murno and the<end_line />
+			others went further in the ruins.<end_line />
+			<three_dots />And that's all, I guess.<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<player gender="female" />
@@ -305,6 +447,10 @@
 		<sjis>
 			とにかく先に進むしかないよ！<end_line />
 		</sjis>
+		<ascii>
+			We don't have any choice, do we?<end_line />
+			Let's just keep pressing on!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<partner name="run-dor" />
@@ -315,6 +461,10 @@
 			了解デス<end_line />
 			シンチョウニ　進ミマショウ<end_line />
 		</sjis>
+		<ascii>
+			Affirmative.<end_line />
+			Let Us Proceed Onward!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="left" />
@@ -326,6 +476,11 @@
 				アニスのヤツ、まだ何か<end_line />
 				ろくでもないこと企んでいるのか？<end_line />
 			</sjis>
+			<ascii>
+				Our plans are being sabotaged<three_dots /><end_line />
+				Do you think Anise still has<end_line />
+				something else up her sleeve?<end_line />
+			</>
 		</male>
 		<female>
 			<sjis>
@@ -333,6 +488,11 @@
 				アニスったら、まだ何か<end_line />
 				ろくでもないこと企んでいるのかな？<end_line />
 			</sjis>
+			<ascii>
+				Our plans are being sabotaged<three_dots /><end_line />
+				Do you think Anise still has<end_line />
+				something else up her sleeve?<end_line />
+			</ascii>
 		</female>
 	</dialogue>
 	<dialogue>
@@ -345,6 +505,11 @@
 			あやつ、あの状態でこれ以上<end_line />
 			何ができるというんじゃ<three_dots />？<end_line />
 		</sjis>
+		<ascii>
+			Perhaps it is so<three_dots /><end_line />
+			But I feel it is unlikely. Can she<end_line />
+			even fight in her current state<three_dots />?<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<player gender="male" />
@@ -357,6 +522,11 @@
 			ミューノたちがゴヴァンの遺跡の<end_line />
 			奥に向かってるってことだけか<three_dots /><end_line />
 		</sjis>
+		<ascii>
+			So far, we know that Murno and the<end_line />
+			others went further in the ruins.<end_line />
+			That's the gist of it<three_dots /><end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<player gender="male" />
@@ -367,6 +537,10 @@
 		<sjis>
 			とにかく先に進むしかない！<end_line />
 		</sjis>
+		<ascii>
+			We don't have any choice, do we?<end_line />
+			Let's just keep pressing on!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<player gender="female" />
@@ -379,6 +553,11 @@
 			ミューノたちがゴヴァンの遺跡の<end_line />
 			奥に向かってるってことだけね<three_dots /><end_line />
 		</sjis>
+		<ascii>
+			So far, we know that Murno and the<end_line />
+			others went further in the ruins.<end_line />
+			That's the gist of it<three_dots /><end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<player gender="female" />
@@ -389,6 +568,10 @@
 		<sjis>
 			とにかく先に進むしかないよ！<end_line />
 		</sjis>
+		<ascii>
+			We don't have any choice, do we?<end_line />
+			Let's just keep pressing on!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<partner name="enzi" />
@@ -399,6 +582,11 @@
 			承知した<end_line />
 			しかし、シンチョウにの！<end_line />
 		</sjis>
+		<ascii>
+			Indeed!<end_line />
+			No matter how perilous<end_line />
+			our path may be!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="left" />
@@ -410,6 +598,11 @@
 				アニスのヤツ、まだ何か<end_line />
 				ろくでもないこと企んでいるのか？<end_line />
 			</sjis>
+			<ascii>
+				Our plans are being sabotaged<three_dots /><end_line />
+				Do you think Anise still has<end_line />
+				something else up her sleeve?<end_line />
+			</ascii>
 		</male>
 		<female>
 			<sjis>
@@ -417,6 +610,11 @@
 				アニスったら、まだ何か<end_line />
 				ろくでもないこと企んでいるのかな？<end_line />
 			</sjis>
+			<ascii>
+				Our plans are being sabotaged<three_dots /><end_line />
+				Do you think Anise still has<end_line />
+				something else up her sleeve?<end_line />
+			</ascii>
 		</female>
 	</dialogue>
 	<dialogue>
@@ -429,6 +627,11 @@
 			ヤツが何を企んでいようが<end_line />
 			知ったことではない<end_line />
 		</sjis>
+		<ascii>
+			Well, perhaps?<end_line />
+			Either way, I don't care about<end_line />
+			what she's going to do, regardless.<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<player gender="male" />
@@ -441,6 +644,11 @@
 			ミューノたちがゴヴァンの遺跡の奥に<end_line />
 			つれていかれたんだ<end_line />
 		</sjis>
+		<ascii>
+			Sure, if you see it that way<three_dots /><end_line />
+			At least we know that Murno and the<end_line />
+			others went further in the ruins.<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<player gender="male" />
@@ -451,6 +659,10 @@
 		<sjis>
 			とにかく先に進むしかないか！<end_line />
 		</sjis>
+		<ascii>
+			We don't have any choice, do we?<end_line />
+			Let's just keep pressing on!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<player gender="female" />
@@ -463,6 +675,11 @@
 			ミューノたちがゴヴァンの遺跡の奥に<end_line />
 			つれていかれたんだ<end_line />
 		</sjis>
+		<ascii>
+			Sure, if you see it that way<three_dots /><end_line />
+			At least we know that Murno and the<end_line />
+			others went further in the ruins.<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<player gender="female" />
@@ -473,6 +690,10 @@
 		<sjis>
 			とにかく先に進むしかないね！<end_line />
 		</sjis>
+		<ascii>
+			We don't have any choice, do we?<end_line />
+			Let's just keep pressing on!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<partner name="killfith" />
@@ -483,6 +704,10 @@
 			それがわかっているのなら<end_line />
 			グズグズするな<end_line />
 		</sjis>
+		<ascii>
+			If you know what you're gonna do<end_line />
+			next, then at least stop dawdling!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="left" />
@@ -494,6 +719,11 @@
 				アニスのヤツ、まだ何か<end_line />
 				ろくでもないこと企んでいるのか？<end_line />
 			</sjis>
+			<ascii>
+				Our plans are being sabotaged<three_dots /><end_line />
+				Do you think Anise still has<end_line />
+				something else up her sleeve?<end_line />
+			</ascii>
 		</male>
 		<female>
 			<sjis>
@@ -501,6 +731,11 @@
 				アニスったら、まだ何か<end_line />
 				ろくでもないこと企んでいるのかな？<end_line />
 			</sjis>
+			<ascii>
+				Our plans are being sabotaged<three_dots /><end_line />
+				Do you think Anise still has<end_line />
+				something else up her sleeve?<end_line />
+			</ascii>
 		</female>
 	</dialogue>
 	<dialogue>
@@ -513,6 +748,11 @@
 			一体なにをするつもりなんでしょう？<end_line />
 			ちょっとだけコワイですわ<three_dots /><end_line />
 		</sjis>
+		<ascii>
+			Perhaps, from the looks of it<three_dots /><end_line />
+			Just what are they scheming? Just<end_line />
+			thinking about it frightens me<three_dots /><end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<player gender="male" />
@@ -525,6 +765,11 @@
 			ミューノたちがゴヴァンの遺跡の<end_line />
 			奥に向かってるってことだけか<three_dots /><end_line />
 		</sjis>
+		<ascii>
+			All we know right know is<end_line />
+			that Murno and the others<end_line />
+			went further in the ruins<three_dots /><end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<player gender="male" />
@@ -535,6 +780,10 @@
 		<sjis>
 			とにかく先に進むしかない！<end_line />
 		</sjis>
+		<ascii>
+			We don't have any choice, do we?<end_line />
+			Let's just keep pressing on!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<player gender="female" />
@@ -547,6 +796,11 @@
 			ミューノたちがゴヴァンの遺跡の<end_line />
 			奥に向かってるってことだけね<three_dots /><end_line />
 		</sjis>
+		<ascii>
+			All we know right know is<end_line />
+			that Murno and the others<end_line />
+			went further in the ruins<three_dots /><end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<player gender="female" />
@@ -557,6 +811,10 @@
 		<sjis>
 			とにかく先に進むしかないよ！<end_line />
 		</sjis>
+		<ascii>
+			We don't have any choice, do we?<end_line />
+			Let's just keep pressing on!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<partner name="rufeel" />
@@ -567,6 +825,10 @@
 			そうですね<end_line />
 			急ぎましょう！<end_line />
 		</sjis>
+		<ascii>
+			I agree with you.<end_line />
+			We should get going!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<partner name="run-dor" />
@@ -578,6 +840,11 @@
 			強力ナえねるぎーガ　検出サレマシタ<end_line />
 			十分　気ヲツケテ下サイ<end_line />
 		</sjis>
+		<ascii>
+			I Detected A Big Surge Of Energy<end_line />
+			Coming From Deep Within The R※ins.<end_line />
+			Please Exercise Caution.<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="left" />
@@ -589,6 +856,11 @@
 				あるんだな<three_dots /><end_line />
 				多分、ミューノもそこに<three_dots /><end_line />
 			</sjis>
+			<ascii>
+				Look<three_dots />I see something<end_line />
+				huge right over there!<end_line />
+				I think Murno's there too<three_dots /><end_line />
+			</ascii>
 		</male>
 		<female>
 			<sjis>
@@ -596,6 +868,11 @@
 				あるんだね<three_dots /><end_line />
 				多分、ミューノもそこに<three_dots /><end_line />
 			</sjis>
+			<ascii>
+				Look<three_dots />I see something<end_line />
+				huge right over there!<end_line />
+				I think Murno's there too<three_dots /><end_line />
+			</ascii>
 		</female>
 	</dialogue>
 	<dialogue>
@@ -607,6 +884,10 @@
 			ソノ可能性ハ　高イト思ワレマス<end_line />
 			デスカラ<three_dots /><end_line />
 		</sjis>
+		<ascii>
+			The Probability Rating Percentage<end_line />
+			Is Quite High, Yet<three_dots /><end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="left" />
@@ -617,12 +898,20 @@
 				うん！<end_line />
 				気合い入れていくぜ！<end_line />
 			</sjis>
+			<ascii>
+				Gotcha!<end_line />
+				And I'm raring to go!<end_line />
+			</ascii>
 		</male>
 		<female>
 			<sjis>
 				うん！<end_line />
 				気合い入れていくよ！<end_line />
 			</sjis>
+			<ascii>
+				Gotcha!<end_line />
+				I'm ready when you are!<end_line />
+			</ascii>
 		</female>
 	</dialogue>
 	<dialogue>
@@ -635,6 +924,11 @@
 			すさまじい気を感じるぞ<three_dots /><end_line />
 			気をつけるのじゃ<end_line />
 		</sjis>
+		<ascii>
+			I sensed a tremendous surge<end_line />
+			of energy deep within the ruins<end_line />
+			just now<three_dots />be careful!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="left" />
@@ -646,6 +940,11 @@
 				あるんだな<three_dots /><end_line />
 				多分、ミューノもそこに<three_dots /><end_line />
 			</sjis>
+			<ascii>
+				Look<three_dots />I see something<end_line />
+				huge right over there!<end_line />
+				I think Murno's there too<three_dots /><end_line />
+			</ascii>
 		</male>
 		<female>
 			<sjis>
@@ -653,6 +952,11 @@
 				あるんだね<three_dots /><end_line />
 				多分、ミューノもそこに<three_dots /><end_line />
 			</sjis>
+			<ascii>
+				Look<three_dots />I see something<end_line />
+				huge right over there!<end_line />
+				I think Murno's there too<three_dots /><end_line />
+			</ascii>
 		</female>
 	</dialogue>
 	<dialogue>
@@ -665,6 +969,11 @@
 			じゃがその時は、おそらく<end_line />
 			決戦になろう<end_line />
 		</sjis>
+		<ascii>
+			Perhaps you're right<three_dots /><end_line />
+			But if we step forward, we have<end_line />
+			to fight them to get her back.<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="left" />
@@ -675,12 +984,20 @@
 				うん！<end_line />
 				気合い入れていくぜ！<end_line />
 			</sjis>
+			<ascii>
+				Yeah!<end_line />
+				And I'm raring to go!<end_line />
+			</ascii>
 		</male>
 		<female>
 			<sjis>
 				うん！<end_line />
 				気合い入れていくよ！<end_line />
 			</sjis>
+			<ascii>
+				Yeah!<end_line />
+				I'm ready when you are!<end_line />
+			</ascii>
 		</female>
 	</dialogue>
 	<dialogue>
@@ -693,6 +1010,11 @@
 			とてつもなくイヤな気配を<end_line />
 			感じるぞ<three_dots /><end_line />
 		</sjis>
+		<ascii>
+			I just sensed a malicious<end_line />
+			aura coming from deep<end_line />
+			within the Govan Ruins<three_dots /><end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="left" />
@@ -704,6 +1026,11 @@
 				あるんだな<three_dots /><end_line />
 				多分、ミューノもそこに<three_dots /><end_line />
 			</sjis>
+			<ascii>
+				Look<three_dots />I see something<end_line />
+				huge right over there!<end_line />
+				I think Murno's there too<three_dots /><end_line />
+			</ascii>
 		</male>
 		<female>
 			<sjis>
@@ -711,6 +1038,11 @@
 				あるんだね<three_dots /><end_line />
 				多分、ミューノもそこに<three_dots /><end_line />
 			</sjis>
+			<ascii>
+				Look<three_dots />I see something<end_line />
+				huge right over there!<end_line />
+				I think Murno's there too<three_dots /><end_line />
+			</ascii>
 		</female>
 	</dialogue>
 	<dialogue>
@@ -722,6 +1054,11 @@
 			多分、な<end_line />
 			せいぜい覚悟しておくんだな<end_line />
 		</sjis>
+		<ascii>
+			I can see her too, I think<three_dots /><end_line />
+			Just get ready before you<end_line />
+			even think of charging at them.<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="left" />
@@ -732,12 +1069,20 @@
 				うん！<end_line />
 				気合い入れていくぜ！<end_line />
 			</sjis>
+			<ascii>
+				Yeah!<end_line />
+				And I'm raring to go!<end_line />
+			</ascii>
 		</male>
 		<female>
 			<sjis>
 				うん！<end_line />
 				気合い入れていくよ！<end_line />
 			</sjis>
+			<ascii>
+				Yeah!<end_line />
+				I'm ready when you are!<end_line />
+			</ascii>
 		</female>
 	</dialogue>
 	<dialogue>
@@ -750,6 +1095,11 @@
 			すごくイヤな感じがしますわ<end_line />
 			気をつけてくださいね<end_line />
 		</sjis>
+		<ascii>
+			I just sensed a very unpleasant<end_line />
+			aura from deep within the ruins!<end_line />
+			Please be careful<three_dots /><end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="left" />
@@ -761,6 +1111,11 @@
 				あるんだな<three_dots /><end_line />
 				多分、ミューノもそこに<three_dots /><end_line />
 			</sjis>
+			<ascii>
+				Look<three_dots />I see something<end_line />
+				huge right over there!<end_line />
+				I think Murno's there too<three_dots /><end_line />
+			</ascii>
 		</male>
 		<female>
 			<sjis>
@@ -768,6 +1123,11 @@
 				あるんだね<three_dots /><end_line />
 				多分、ミューノもそこに<three_dots /><end_line />
 			</sjis>
+			<ascii>
+				Look<three_dots />I see something<end_line />
+				huge right over there!<end_line />
+				I think Murno's there too<three_dots /><end_line />
+			</ascii>
 		</female>
 	</dialogue>
 	<dialogue>
@@ -780,6 +1140,11 @@
 			でも、そのときは<end_line />
 			ボスタフ親方と<three_dots /><end_line />
 		</sjis>
+		<ascii>
+			I know we're going to face<end_line />
+			Master Bostaph eventually, but<three_dots /><end_line />
+			We need to brace ourselves<end_line /><end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="left" />
@@ -790,12 +1155,20 @@
 				そうだな<three_dots />！<end_line />
 				気合い入れていくぜ！<end_line />
 			</sjis>
+			<ascii>
+				Yeah<three_dots />!<end_line />
+				And I'm raring to go!<end_line />
+			</ascii>
 		</male>
 		<female>
 			<sjis>
 				そうだね<three_dots />！<end_line />
 				気合い入れていこう！<end_line />
 			</sjis>
+			<ascii>
+				Yeah<three_dots />!<end_line />
+				I'm ready when you are!<end_line />
+			</ascii>
 		</female>
 	</dialogue>
 	<dialogue>
@@ -807,6 +1180,11 @@
 			みんな心配してるみたいだし<end_line />
 			みんなのところへ行こう<end_line />
 		</sjis>
+		<ascii>
+			Everyone must be worried about<end_line />
+			us by now! Let's hurry back to<end_line />
+			them as soon as we can!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<partner name="run-dor" />
@@ -818,6 +1196,11 @@
 			可能性ガアリマス<end_line />
 			急ギマショウ<end_line />
 		</sjis>
+		<ascii>
+			It Is Likely Injury Rates Will<end_line />
+			Increase From The Explosion.<end_line />
+			We Must Leave Posthaste.<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<partner name="run-dor" />
@@ -829,6 +1212,11 @@
 			私たちは<partner />のおかげで<end_line />
 			助かったんだもんね<end_line />
 		</sjis>
+		<ascii>
+			You're right<three_dots /><end_line />
+			It's thanks to you that both<end_line />
+			of us are saved, <partner /><end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<partner name="run-dor" />
@@ -838,6 +1226,9 @@
 		<sjis>
 			ありがとう、<partner /><end_line />
 		</sjis>
+		<ascii>
+			Thank you, <partner /><three_dots /><end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<partner name="run-dor" />
@@ -849,6 +1240,11 @@
 			私ノ使命ハ　みゅーの様ヲ<end_line />
 			守ルコトデスカラ<end_line />
 		</sjis>
+		<ascii>
+			You Do Not Need To Thank Me.<end_line />
+			My Primary Objective Has Always<end_line />
+			Been Protecting You, Milady.<end_line /> 
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<partner name="run-dor" />
@@ -859,6 +1255,10 @@
 			なんか<three_dots /><end_line />
 			ちょっとさびしい気がするよ<three_dots /><end_line />
 		</sjis>
+		<ascii>
+			Gee<three_dots /><end_line />
+			Did you leave me out? You're cold<three_dots /><end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<partner name="run-dor" />
@@ -870,6 +1270,11 @@
 			もちろん<player_nickname />も<end_line />
 			ありがとう<end_line />
 		</sjis>
+		<ascii>
+			Oh! Um<three_dots /><end_line />
+			Of course! Thank you,<end_line />
+			<player_nickname /><three_dots /><end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<partner name="enzi" />
@@ -880,6 +1285,11 @@
 			みんな心配してるみたいだし<end_line />
 			みんなのところへ行こう<end_line />
 		</sjis>
+		<ascii>
+			Everyone must be worried about<end_line />
+			us by now! Let's hurry back to<end_line />
+			them as soon as we can!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<partner name="enzi" />
@@ -891,6 +1301,11 @@
 			ケガ人がおるかもしれんしの<end_line />
 			急いだ方が良いじゃろう<end_line />
 		</sjis>
+		<ascii>
+			Hrm<three_dots />It's likely that there a lot<end_line />
+			of lot of casualities from that<end_line />
+			blast. We should flee while we can.<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<partner name="enzi" />
@@ -902,6 +1317,11 @@
 			私たちは<partner />のおかげで<end_line />
 			助かったんだもんね<end_line />
 		</sjis>
+		<ascii>
+			You're right<three_dots /><end_line />
+			It's thanks to you that both<end_line />
+			of us are saved, <partner /><end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<partner name="enzi" />
@@ -911,6 +1331,9 @@
 		<sjis>
 			ありがとう、<partner /><end_line />
 		</sjis>
+		<ascii>
+			Thank you, <partner /><three_dots /><end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<partner name="enzi" />
@@ -922,6 +1345,11 @@
 			じゃからな<end_line />
 			礼にはおよばん<end_line />
 		</sjis>
+		<ascii>
+			You don't need to thank this<end_line />
+			old soul! My mission has always<end_line />
+			been to protect you.<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<partner name="enzi" />
@@ -932,6 +1360,10 @@
 			なんか<three_dots /><end_line />
 			ちょっとさびしい気がするよ<three_dots /><end_line />
 		</sjis>
+		<ascii>
+			Gee<three_dots /><end_line />
+			Did you leave me out? You're cold<three_dots /><end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<partner name="enzi" />
@@ -943,6 +1375,11 @@
 			もちろん<player_nickname />も<end_line />
 			ありがとう<end_line />
 		</sjis>
+		<ascii>
+			Oh! Um<three_dots /><end_line />
+			Of course! Thank you,<end_line />
+			<player_nickname /><three_dots /><end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<partner name="killfith" />
@@ -953,6 +1390,11 @@
 			みんな心配してるみたいだし<end_line />
 			みんなのところへ行こう<end_line />
 		</sjis>
+		<ascii>
+			Everyone must be worried about<end_line />
+			us by now! Let's hurry back to<end_line />
+			them as soon as we can!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<partner name="killfith" />
@@ -964,6 +1406,11 @@
 			結構なものだったからな<three_dots /><end_line />
 			どうなっているか、見物だな<end_line />
 		</sjis>
+		<ascii>
+			Huff<three_dots />that blast just now<end_line />
+			really took a huge toll on me<three_dots /><end_line />
+			Guess I'll see what I can do.<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<partner name="killfith" />
@@ -975,6 +1422,11 @@
 			<partner />がいなかったら<end_line />
 			私たちだって、どうなっていたか<three_dots /><end_line />
 		</sjis>
+		<ascii>
+			I'm concerned about you<three_dots />If you<end_line />
+			weren't here, <partner />, I can't<end_line />
+			imagine what would happen next<three_dots /><end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<partner name="killfith" />
@@ -984,6 +1436,9 @@
 		<sjis>
 			ありがとう、<partner /><end_line />
 		</sjis>
+		<ascii>
+			Thank you, <partner /><three_dots /><end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<partner name="killfith" />
@@ -995,6 +1450,11 @@
 			２度と危ない目にあわないように<end_line />
 			努力するんだな<end_line />
 		</sjis>
+		<ascii>
+			Tsk<three_dots />If you really mean it, then<end_line />
+			you two better not be reckless!<end_line />
+			<three_dots />Promise me that.<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<partner name="killfith" />
@@ -1006,6 +1466,11 @@
 			なぜだかちょっと<end_line />
 			さびしい気がするよ<three_dots /><end_line />
 		</sjis>
+		<ascii>
+			Oh, gee<three_dots /><end_line />
+			I don't know why I feel<end_line />
+			kind of left out right now<three_dots /><end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<partner name="killfith" />
@@ -1017,6 +1482,11 @@
 			もちろん<player_nickname />も<end_line />
 			ありがとう<end_line />
 		</sjis>
+		<ascii>
+			Oh! Um<three_dots /><end_line />
+			Of course! Thank you,<end_line />
+			<player_nickname /><three_dots /><end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<partner name="rufeel" />
@@ -1027,6 +1497,11 @@
 			みんな心配してるみたいだし<end_line />
 			みんなのところへ行こう<end_line />
 		</sjis>
+		<ascii>
+			Everyone must be worried about<end_line />
+			us by now! Let's hurry back to<end_line />
+			them as soon as we can!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<partner name="rufeel" />
@@ -1038,6 +1513,11 @@
 			ケガをした人がいるかもしれませんわ<end_line />
 			急ぎましょう<end_line />
 		</sjis>
+		<ascii>
+			Indeed<three_dots />We're likely to get<end_line />
+			injured from that blast earlier.<end_line />
+			Let's hurry and leave<three_dots /><end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<partner name="rufeel" />
@@ -1049,6 +1529,11 @@
 			私たちは<partner />のおかげで<end_line />
 			助かったんだもんね<end_line />
 		</sjis>
+		<ascii>
+			You're right<three_dots /><end_line />
+			It's thanks to you that both<end_line />
+			of us are saved, <partner /><end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<partner name="rufeel" />
@@ -1058,6 +1543,9 @@
 		<sjis>
 			ありがとう、<partner /><end_line />
 		</sjis>
+		<ascii>
+			Thank you, <partner /><three_dots /><end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<partner name="rufeel" />
@@ -1069,6 +1557,11 @@
 			私の使命はミューノ様を守ること<end_line />
 			なんですから<end_line />
 		</sjis>
+		<ascii>
+			Oh, goodness, me! You don't need<end_line />
+			to thank me! Protecting you is<end_line />
+			my mission after all, Milady!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<partner name="rufeel" />
@@ -1079,6 +1572,10 @@
 			なんか<three_dots /><end_line />
 			ちょっとさびしい気がするよ<three_dots /><end_line />
 		</sjis>
+		<ascii>
+			Gee<three_dots /><end_line />
+			Did you leave me out? You're cold<three_dots /><end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<partner name="rufeel" />
@@ -1090,5 +1587,10 @@
 			もちろん<player_nickname />も<end_line />
 			ありがとう<end_line />
 		</sjis>
+		<ascii>
+			Oh! Um<three_dots /><end_line />
+			Of course! Thank you,<end_line />
+			<player_nickname /><three_dots /><end_line />
+		</ascii>
 	</dialogue>
 </tl_file>

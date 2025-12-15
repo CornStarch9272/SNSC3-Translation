@@ -16,9 +16,9 @@
 			良い材料で出来るものだ<end_line />
 		</sjis>
 		<ascii>
-			A weak weapon has no worth.<end_line />
-			Strong weapons are made with<end_line />
-			strong Shapestones and materials.<end_line />
+			Weak weapons have no value!<end_line />
+			Strong weapons made with quality<end_line />
+			Shapestones and ores otherwise do!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -30,9 +30,9 @@
 			鍛冶職人としての修行のひとつだ<end_line />
 		</sjis>
 		<ascii>
-			A weak heart cannot make a<end_line />
-			strong weapon. A blacksmith<end_line />
-			must train his heart every day.<end_line />
+			Strong hearts forge strong weapons!<end_line />
+			Therefore, tempering the heart is<end_line />
+			essential to your training!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>

@@ -60,7 +60,8 @@
 				どこ行ったんだ？<end_line />
 			</sjis>
 			<ascii>
-				So, where did Anise's buddies go?<end_line />
+				So, where have Anise's<end_line />
+				cronies gone off to?<end_line />
 			</ascii>
 		</male>
 		<female>
@@ -69,7 +70,8 @@
 				どこ行ったの？<end_line />
 			</sjis>
 			<ascii>
-				So, where did Anise's buddies go?<end_line />
+				So, where have Anise's<end_line />
+				cronies gone off to?<end_line />
 			</ascii>
 		</female>
 	</dialogue>
@@ -96,7 +98,7 @@
 			<player_nickname />！<end_line />
 		</sjis>
 		<ascii>
-			Vee!<end_line />
+			V.E!<end_line />
 			<player_nickname />!<end_line />
 		</ascii>
 	</dialogue>
@@ -137,7 +139,7 @@
 		<ascii>
 			Big trouble!<end_line />
 			Master is<three_dots /><end_line />
-			Big sis Murno is<three_dots /><end_line />
+			Miss Murno is<three_dots /><end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -258,7 +260,7 @@
 		</sjis>
 		<ascii>
 			Her father?<end_line />
-			Hostage!?<end_line />
+			He's taken hostage!?<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -273,7 +275,7 @@
 		<ascii>
 			And then,<end_line />
 			Master was<three_dots /><end_line />
-			Master was<three_dots /><end_line />
+			Master was<three_dots />!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -335,12 +337,20 @@
 				わかったよ！<end_line />
 				どうしたらいいんだ<three_dots />？<end_line />
 			</sjis>
+			<ascii>
+				I know! I'm trying to make<end_line />
+				sense of the situation here!<end_line />
+			</ascii>
 		</male>
 		<female>
 			<sjis>
 				わかったよ！<end_line />
 				どうしたらいいの<three_dots />？<end_line />
 			</sjis>
+			<ascii>
+				I know! I'm trying to make<end_line />
+				sense of the situation here!<end_line />
+			</ascii>
 		</female>
 	</choice>
 	<dialogue>
@@ -457,7 +467,7 @@
 			仕方ないな<three_dots /><end_line />
 		</sjis>
 		<ascii>
-			Can't be helped<three_dots /><end_line />
+			Guess I have no choice<three_dots /><end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -471,8 +481,8 @@
 			キサマは工房へ戻っていればいい<end_line />
 		</sjis>
 		<ascii>
-			<player_nickname /> will do something<end_line />
-			about Murno.<end_line />
+			<player_nickname /> will do<end_line />
+			something about Murno.<end_line />
 			You should return to the workshop.<end_line />
 		</ascii>
 	</dialogue>
@@ -500,7 +510,7 @@
 		</sjis>
 		<ascii>
 			Please leave Lady Murno to us!<end_line />
-			Master should hurry back<three_dots /><end_line />
+			You should hurry back, Master<three_dots /><end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -513,8 +523,8 @@
 				それがいいよ！<end_line />
 			</sjis>
 			<ascii>
-				Ah, right,<end_line />
-				that sounds good!<end_line />
+				Ah, right!<end_line />
+				Yeah, you should!<end_line />
 			</ascii>
 		</male>
 		<female>
@@ -523,8 +533,8 @@
 				それがいいよ！<end_line />
 			</sjis>
 			<ascii>
-				Ah, right,<end_line />
-				that sounds good!<end_line />
+				Ah, right!<end_line />
+				Yeah, you should!<end_line />
 			</ascii>
 		</female>
 	</dialogue>
@@ -604,7 +614,7 @@
 			計画はあるの？<end_line />
 		</sjis>
 		<ascii>
-			<three_dots />er, where should we start?<end_line />
+			<three_dots />Er, where should we start?<end_line />
 			Do you have a plan?<end_line />
 		</ascii>
 	</dialogue>

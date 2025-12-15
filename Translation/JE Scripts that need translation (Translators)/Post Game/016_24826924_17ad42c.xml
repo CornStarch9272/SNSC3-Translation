@@ -23,6 +23,11 @@
 			どれ、ボクがあいてをしてやろう<end_line />
 			<three_dots /><end_line />
 		</sjis>
+		<ascii>
+			How's your training so far?<end_line />
+			Come on, I'll be your opponent!<end_line />
+			<three_dots /><end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -30,6 +35,9 @@
 		<sjis>
 			おおきくなったらね<end_line />
 		</sjis>
+		<ascii>
+			<three_dots />I wanna grow up already!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -38,6 +46,11 @@
 			また修行ね<end_line />
 			早く、いちにんまえになりなさいね<end_line />
 		</sjis>
+		<ascii>
+			Still training again?<end_line />
+			You gotta becoming a full-fledged<end_line />
+			Craftknight as soon as possible!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -47,5 +60,10 @@
 			異常に鍛えまくってるみたいだけど<end_line />
 			いったい何がおもしろいのかしら<end_line />
 		</sjis>
+		<ascii>
+			Everyone I know talks of training<end_line />
+			nonstop! It really drives me crazy!<end_line >
+			Just what about training is fun!?<end_line />
+		</ascii>
 	</dialogue>
 </tl_file>

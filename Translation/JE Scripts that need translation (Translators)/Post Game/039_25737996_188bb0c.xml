@@ -8,5 +8,10 @@
 			だからと言って、自分を鍛えることを<end_line />
 			おこたってはいかんぞ<end_line />
 		</sjis>
+		<ascii>
+			I see you've improved quite well!<end_line />
+			However, you should not use your<end_line />
+			progress as a reason to slack off.<end_line />
+		</ascii>
 	</dialogue>
 </tl_file>

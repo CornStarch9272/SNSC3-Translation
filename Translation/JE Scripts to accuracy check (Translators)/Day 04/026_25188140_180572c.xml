@@ -6,7 +6,7 @@
 			ここが、金の派閥<end_line />
 		</sjis>
 		<ascii>
-			So this is the Gold Faction.<end_line />
+			So this is the Gold Council.<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -99,7 +99,7 @@
 			</sjis>
 			<ascii>
 				Hey, <partner />,<end_line />
-				what kind of person is Velworen?<end_line />
+				what kind of person is Velvoren?<end_line />
 			</ascii>
 		</male>
 		<female>
@@ -109,7 +109,7 @@
 			</sjis>
 			<ascii>
 				Hey, <partner />,<end_line />
-				what kind of person is Velworen?<end_line />
+				what kind of person is Velvoren?<end_line />
 			</ascii>
 		</female>
 	</dialogue>

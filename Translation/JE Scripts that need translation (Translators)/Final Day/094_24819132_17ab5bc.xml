@@ -11,6 +11,9 @@
 		<sjis>
 			ミシュースの廃墟　広場<end_line />
 		</sjis>
+		<ascii>
+			Mishus Abandoned Site　Plaza<end_line />
+		</ascii>
 	</location>
 	<dialogue>
 		<info box="simple" />
@@ -18,6 +21,9 @@
 		<sjis>
 			みんなのところに戻らなくちゃ！<end_line />
 		</sjis>
+		<ascii>
+			I have to go back to them!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -27,6 +33,11 @@
 			いけない気がしたんだが<end_line />
 			商売になりそうもないなぁ<three_dots /><end_line />
 		</sjis>
+		<ascii>
+			I managed to scrape some profit<end_line />
+			here and there, but I don't think<end_line />
+			my business will stay afloat<three_dots /><end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -34,27 +45,42 @@
 		<sjis>
 			キミ何か買ってく？<end_line />
 		</sjis>
+		<ascii>
+			Here to buy something?<end_line />
+		</ascii>
 	</dialogue>
 	<menu>
 		<option>
 			<sjis>
 				武器類<end_line />
 			</sjis>
+		<ascii>
+				Weapons<end_line />
+		</ascii>
 		</option>
 		<option>
 			<sjis>
 				道具類<end_line />
 			</sjis>
+		<ascii>
+				Equipment<end_line />
+		</ascii>
 		</option>
 		<option>
 			<sjis>
 				やめる<end_line />
 			</sjis>
+		<ascii>
+				Nevermind<end_line />
+		</ascii>
 		</option>
 	</menu>
 	<location>
 		<sjis>
 			ミシュースの廃墟　広場<end_line />
 		</sjis>
+		<ascii>
+			Mishus Abandoned Site　Plaza<end_line />
+		</ascii>
 	</location>
 </tl_file>

@@ -36,11 +36,11 @@
 			カウンターに店員がいないときには<end_line />
 			勝手に買い物してください<end_line />
 		</sjis>
-		<ascii>
-			Notice from Gallahan Workshop:<end_line />
-			If no one is at the counter,<end_line />
-			feel free to shop anyways.<end_line />
-		</ascii>
+  		<ascii>
+    		A notice From Gallahan's Workshop:<end_line>
+    		When a clerk is not at the counter,<end_line>
+    		please shop at your own convenience.<end_line>
+  		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -50,8 +50,8 @@
 			強力な武器が必要だと思うんだ<end_line />
 		</sjis>
 		<ascii>
-			I think we need strong weapons<end_line />
-			if we are to protect this town.<end_line />
+			We need powerful weapons if<end_line />
+			we are to protect this village.<end_line />
 		</ascii>
 	</dialogue>
 </tl_file>

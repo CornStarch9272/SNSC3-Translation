@@ -24,11 +24,10 @@
 			寂しいな<end_line />
 		</sjis>
 		<ascii>
-			Whenever Zakk is gone<end_line />
-			the village feels quiet and<end_line />
-			lonely.<end_line />
+			Whenever Zakk is gone, the<end_line />
+			village feels a little quieter.<end_line />
+			It's so lonely, I tell you!<end_line />
 		</ascii>
-		# Changed Zack to Zakk
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -47,7 +46,7 @@
 			ゴロゴロ<three_dots /><end_line />
 		</sjis>
 		<ascii>
-			Purrr<three_dots /><end_line />
+			Purr<three_dots /><end_line />
 		</ascii>
 	</dialogue>
 </tl_file>

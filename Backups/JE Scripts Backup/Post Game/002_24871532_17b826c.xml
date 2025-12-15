@@ -15,4 +15,9 @@
 		いつでも遊びに来てください<end_line>
 		特に歓迎はできませんが<end_line>
 	</sjis>
+	<ascii>
+		Feel free to visit anytime!<end_line />
+		Not that we'd be able to give<end_line />
+		you a proper welcome, though<end_line />
+	</ascii>
 </dialogue>

@@ -87,9 +87,9 @@
     つかったどうぐは、ちゃあんと<end_line>
     もとのばしょに　もどしてね！<end_line>
   </sjis>
-  <ascii>
-    <lesser_than>A Request From Elieze<music_note><end_line>
-    Make sure to return the tools you<end_line>
-    use to their proper places!<end_line>
-  </ascii>
+	<ascii>
+		<lesser_than />This is a reminder from Elieze<music_note /><end_line />
+		Please make sure to put the tools<end_line />
+		back where you found them!<end_line />
+	</ascii>
 </dialogue>
