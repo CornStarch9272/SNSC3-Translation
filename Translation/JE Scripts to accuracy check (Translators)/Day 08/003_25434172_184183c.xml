@@ -8,9 +8,10 @@
 			どう？　よく休めた？<end_line />
 		</sjis>
 		<ascii>
-			Ah, <player_nickname /><end_line />
+			Ah, <player_nickname />!<end_line />
 			How are you? Did you rest well?<end_line />
 		</ascii>
+		<!-- Needs some kind of ending punctuation on the first line. I went with ! but . works as well. -Bliz -->
 	</dialogue>
 	<dialogue>
 		<info box="right" />
@@ -207,7 +208,7 @@
 		</sjis>
 		<ascii>
 			Hold on!<end_line />
-			For which statement?<end_line />
+			Which part are you agreeing with?<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -220,8 +221,8 @@
 			悪人ダト　決メテシマウト<three_dots /><end_line />
 		</sjis>
 		<ascii>
-			Deciding If Someone Is Evil Based<end_line />
-			On The Scariness Of Their Face Is<three_dots /><end_line />
+			Deciding If Someone Is Evil Based On<end_line />
+			The Scariness Of Their Face Would Mean<three_dots /><end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -235,8 +236,8 @@
 			決めてしまうと<three_dots /><end_line />
 		</sjis>
 		<ascii>
-			It's true that if one were to<end_line />
-			decide if someone was a villain<end_line />
+			Well, if we were to decide whether<end_line />
+			someone was a villain solely<end_line />
 			based on their face<three_dots /><end_line />
 		</ascii>
 	</dialogue>
@@ -251,7 +252,7 @@
 		</sjis>
 		<ascii>
 			Hm.<end_line />
-			If we base it on appearance<three_dots /><end_line />
+			If we're just basing it on appearance<three_dots /><end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -265,7 +266,7 @@
 		</sjis>
 		<ascii>
 			Well, if we were to decide<end_line />
-			based upon one's appearnace<three_dots /><end_line />
+			just based on appearance<three_dots /><end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -287,8 +288,8 @@
 			<partner />ったら！<end_line />
 		</sjis>
 		<ascii>
-			Oh,<end_line />
-			<partner />, stop it!<end_line />
+			Oh, cut it out,<end_line />
+			<partner />!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -336,7 +337,7 @@
 		</sjis>
 		<ascii>
 			We'll be waiting for you outside.<end_line />
-			don't take too long.<end_line />
+			Don't take too long.<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>

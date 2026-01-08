@@ -50,6 +50,7 @@
 		<ascii>
 			Some kind of message planned.<end_line />
 		</ascii>
+		<!-- Is this debug text? Lol -Bliz -->
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -62,7 +63,7 @@
 		<ascii>
 			The usual gatekeeper caught a cold.<end_line />
 			Now I have to take his place<three_dots /><end_line />
-			What a pain<three_dots /><end_line />
+			What a pain.<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -113,8 +114,8 @@
 		</sjis>
 		<ascii>
 			If your weapon only deals 1 damage,<end_line />
-			you may have encountered an <end_line />
-			opponent you must face with magic.<end_line />
+			it may be an opponent you need to<end_line />
+			take on using magic.<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -124,7 +125,7 @@
 			下を見ろ↓<end_line />
 		</sjis>
 		<ascii>
-			Look down↓<end_line />
+			Look down! ↓<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -135,7 +136,7 @@
 			ＳＴＡＲＴボタン<end_line />
 		</sjis>
 		<ascii>
-			↑When you want to look up<end_line />
+			↑ When you want to look up,<end_line />
 			press the START button.<end_line />
 		</ascii>
 	</dialogue>

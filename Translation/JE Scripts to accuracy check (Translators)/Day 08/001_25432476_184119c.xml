@@ -81,7 +81,7 @@
 			<partner />に言われたくない！<end_line />
 		</sjis>
 		<ascii>
-			<three_dots />hey,<end_line />
+			<three_dots />Hey,<end_line />
 			I don't want to hear that from you!<end_line />
 		</ascii>
 	</dialogue>
@@ -100,6 +100,7 @@
 				We have to prove that<end_line />
 				Anise is after the Demon Stone!<end_line />
 			</ascii>
+			<!-- Are we sure this is saying "we have to prove Anise is after the stone" and not "we have to stop Anise from getting the stone" ? 認める is allow, not prove, per Jisho -Bliz -->
 		</male>
 		<female>
 			<sjis>
@@ -112,6 +113,7 @@
 				We have to prove that<end_line />
 				Anise is after the Demon Stone!<end_line />
 			</ascii>
+			<!-- See above -->
 		</female>
 	</dialogue>
 	<dialogue>
@@ -149,7 +151,7 @@
 			ありがとな！<end_line />
 		</sjis>
 		<ascii>
-			Something about that bothers me,<end_line />
+			Something about that worries me,<end_line />
 			but thanks!<end_line />
 		</ascii>
 	</dialogue>
@@ -179,7 +181,7 @@
 			ありがとね！<end_line />
 		</sjis>
 		<ascii>
-			Something about that bothers me,<end_line />
+			Something about that worries me,<end_line />
 			but thanks!<end_line />
 		</ascii>
 	</dialogue>
@@ -345,7 +347,7 @@
 			<partner />に言われたくない！<end_line />
 		</sjis>
 		<ascii>
-			<three_dots />hey,<end_line />
+			<three_dots />Hey,<end_line />
 			I don't want to hear that from you!<end_line />
 		</ascii>
 	</dialogue>
@@ -364,6 +366,7 @@
 				We have to prove that<end_line />
 				Anise is after the Demon Stone!<end_line />
 			</ascii>
+			<!-- See above -->
 		</male>
 		<female>
 			<sjis>
@@ -376,6 +379,7 @@
 				We have to prove that<end_line />
 				Anise is after the Demon Stone!<end_line />
 			</ascii>
+			<!-- See above -->
 		</female>
 	</dialogue>
 	<dialogue>
@@ -403,7 +407,7 @@
 			ありがとな！<end_line />
 		</sjis>
 		<ascii>
-			Something about that bothers me,<end_line />
+			Something about that worries me,<end_line />
 			but thanks!<end_line />
 		</ascii>
 	</dialogue>
@@ -433,7 +437,7 @@
 			ありがとね！<end_line />
 		</sjis>
 		<ascii>
-			Something about that bothers me,<end_line />
+			Something about that worries me,<end_line />
 			but thanks!<end_line />
 		</ascii>
 	</dialogue>
@@ -465,6 +469,7 @@
 			That's true!<end_line />
 			You are terrible at it!<end_line />
 		</ascii>
+		<!-- I don't understand where this is coming from? I'm assuming the previous line was saying they're terrible? - Bliz -->
 	</dialogue>
 	<dialogue>
 		<info box="left" />
@@ -508,7 +513,8 @@
 		<ascii>
 			We must prove Anise is<end_line />
 			after the Demon Stone!<end_line />
-			It will be troublesome otherwise.<end_line />
+			We'll be in trouble if we don't.<end_line />
+			<!-- See above -->
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -561,7 +567,7 @@
 			私もみならわなくては<three_dots /><end_line />
 		</sjis>
 		<ascii>
-			Just where does that confidence<end_line />
+			Where does that confidence<end_line />
 			of yours spring from?<end_line />
 			I should follow your example<three_dots /><end_line />
 		</ascii>
