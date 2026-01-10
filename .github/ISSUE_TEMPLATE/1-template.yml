@@ -1,0 +1,74 @@
+name: Bug Report
+description: Click this unless you have a really good reason not to use the template :)
+title: "Put some kind of title here (Github won't let it default to blank :/)"
+body:
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: Screenshot
+      description: Please embed the screenshot (you can click "Paste, drop, or click to add files")
+    validations:
+      required: true
+  - type: input
+    id: emulator
+    attributes:
+      label: Emulator
+      description: Include name and version number. Also, use mGBA if you're not on a phone.
+    validations:
+      required: true
+  - type: dropdown
+    id: gender
+    attributes:
+      label: Player Gender
+      multiple: false
+      options:
+        - Boy
+        - Girl
+    validations:
+      required: true
+  - type: dropdown
+    id: partner
+    attributes:
+      label: Partner Character
+      multiple: false
+      options:
+        - Run-Dor
+        - Enzi
+        - Killfith
+        - Rufeel
+    validations:
+      required: true
+  - type: input
+    id: playername
+    attributes:
+      label: Player Character Name
+    validations:
+      required: true
+  - type: input
+    id: beastname
+    attributes:
+      label: Partner Name
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: How did you get this to happen?
+      description: Leave blank if it's just "talk to this NPC"
+    validations:
+      required: false
+  - type: checkboxes
+    id: savestate
+    attributes:
+      label: Please link this issue in the Discord channel "#issue-links", and attach the save state to it
+      options:
+        - label: I will do this.
+          required: true
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Click the "Label" button below to add a label
+      description: Please do this.
+      options:
+        - label: I did this.
+          required: true

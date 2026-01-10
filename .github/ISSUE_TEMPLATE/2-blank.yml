@@ -1,0 +1,19 @@
+name: Blank Template (Do Not Use)
+description: For issues that aren't in the patch itself
+title: "Put some kind of title here (Github won't let it default to blank :/)"
+body:
+  - type: textarea
+    id: stuff
+    attributes:
+      label: Body
+      description: Describe your issue here
+    validations:
+      required: true
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: This is the wrong template to use if you're trying to report an issue with the patch
+      description: Grammar, bugs, etc go through the other template
+      options:
+        - label: Okay
+          required: true
