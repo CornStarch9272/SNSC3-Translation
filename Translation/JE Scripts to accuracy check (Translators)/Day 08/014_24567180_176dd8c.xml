@@ -4,7 +4,7 @@
 			プロスバンの町　民家Ａ<end_line />
 		</sjis>
 		<ascii>
-			Prosban　Villager's House A<end_line />
+			Prosban　Villager's House #1<end_line />
 		</ascii>
 	</location>
 	<dialogue>
@@ -14,7 +14,7 @@
 			何かいい手はないかしら<three_dots /><end_line />
 		</sjis>
 		<ascii>
-			Is there a good way to do this<three_dots /><end_line />
+			Is there a good way to do this<three_dots />?<end_line />
 		</ascii>
 	</dialogue>
 </tl_file>

@@ -62,8 +62,8 @@
 			お通り下さい<end_line />
 		</sjis>
 		<ascii>
-			Only those with a Membership<end_line />
-			Card may pass.<end_line />
+			Only those with a Membership Card<end_line />
+			may pass.<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -87,8 +87,8 @@
 			話は別だがな<end_line />
 		</sjis>
 		<ascii>
-			But, if you have a Membership<end_line />
-			Card, we might let you in.<end_line />
+			But, if you have a Membership Card,<end_line />
+			we might let you in.<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>

@@ -4,7 +4,7 @@
 			プロスバンの町　商店通り<end_line />
 		</sjis>
 		<ascii>
-			Prosban　Shopping Street<end_line />
+			Prosban　Shopping District<end_line />
 		</ascii>
 	</location>
 	<dialogue>
@@ -61,9 +61,9 @@
 			たくさんもらえる時があるらしいぞ<end_line />
 		</sjis>
 		<ascii>
-			If you keep fishing continuously,<end_line />
+			If you keep fishing for a while,<end_line />
 			you may randomly find a fish that<end_line />
-			grants a lot of points.<end_line />
+			grants a lot of points!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -77,7 +77,7 @@
 		<ascii>
 			Care to try our <quote />Lucky Draw<quote />?<end_line />
 			It's available all day, everyday!<end_line />
-			Guaranteed no losing tickets!<end_line />
+			No losing tickets, guaranteed!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -89,9 +89,9 @@
 			道具屋からのお知らせでした<end_line />
 		</sjis>
 		<ascii>
-			Notice from the shop.<end_line />
+			Notice from the shop:<end_line />
 			If you feel your stats are lacking,<end_line />
-			make sure to equip an accessory.<end_line />
+			make sure to equip an accessory!<end_line />
 		</ascii>
 	</dialogue>
 </tl_file>

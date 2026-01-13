@@ -15,9 +15,8 @@
 			攻撃系？回復系？<end_line />
 		</sjis>
 		<ascii>
-			Hey, if you had to choose between<end_line />
-			Attack-type or Heal-type,<end_line />
-			which one would you pick?<end_line />
+			Hey, which do you like more?<end_line />
+			Attack-type, or Heal-type?<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -42,8 +41,8 @@
 			ああ、いやされるよミョータロウ<end_line />
 		</sjis>
 		<ascii>
-			In my case, it'd pick Heal-type.<end_line />
-			Ahh, that's so relaxing, Myoutarou.<end_line />
+			Personally, I'd pick Heal-type.<end_line />
+			Ahh, that's so relaxing, Myoutarou!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -55,8 +54,9 @@
 		</sjis>
 		<ascii>
 			<end_line />
-			Use of the lottery should<end_line />
-			follow procedure!<end_line />
+			You can cash in your lottery tickets<end_line />
+			once the winning numbers are picked!<end_line />
 		</ascii>
+		<!-- Is this actually how the lottery in this game works? I don't understand what this guy is saying, and the original translation wasn't much clearer. -Bliz -->
 	</dialogue>
 </tl_file>
