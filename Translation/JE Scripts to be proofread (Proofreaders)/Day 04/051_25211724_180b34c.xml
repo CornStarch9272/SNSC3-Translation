@@ -78,7 +78,7 @@
 		<ascii>
 			I'm Tier.<end_line />
 			I'm currently dating <player_nickname />,<end_line />
-			with the intention to marry.<end_line />
+			with the intent to marry.<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -439,7 +439,7 @@
 			はぁ<three_dots /><end_line />
 		</sjis>
 		<ascii>
-			I, see<three_dots /><end_line />
+			I see<three_dots /><end_line />
 			Sigh<three_dots /><end_line />
 		</ascii>
 	</dialogue>
