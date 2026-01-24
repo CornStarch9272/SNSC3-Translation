@@ -46,7 +46,7 @@
 		From here on is a maiden's secret<hearth /><end_line />
 		No trespassing!!<end_line />
 		　　　　　　　　　　　　　Tier<end_line />
-	</ascii>
+	</ascii>	
 </dialogue>
 <dialogue>
 	<info box="simple" />
@@ -59,7 +59,7 @@
   <ascii>
     Knuckles let you move rocks.<end_line />
     As for why that is,<end_line />
-    I have no idea.<end_line />
+    I really have no idea.<end_line />
   </ascii>
 </dialogue>
 </tl_file>
