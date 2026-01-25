@@ -161,7 +161,7 @@
 			うん<three_dots /><end_line />
 		</sjis>
 		<ascii>
-			Ah<three_dots />!<end_line />
+			Ah!<end_line />
 			Yeah<three_dots /><end_line />
 		</ascii>
 	</dialogue>
@@ -243,7 +243,7 @@
 			なったとはねぇ<end_line />
 		</sjis>
 		<ascii>
-			Can't tell me, huh<three_dots /><end_line />
+			Can't tell me, huh?<end_line />
 			I never thought you'd have<end_line />
 			something to hide.<end_line />
 		</ascii>

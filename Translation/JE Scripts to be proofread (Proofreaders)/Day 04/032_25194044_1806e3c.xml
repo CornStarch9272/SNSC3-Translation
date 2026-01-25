@@ -46,7 +46,7 @@
 		</sjis>
 		<ascii>
 			Ah<three_dots /><end_line />
-			You'll be at Lute Cave, then.<end_line />
+			You'll be at Lute Cave, then?<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -278,7 +278,7 @@
 		<ascii>
 			Not that, you idiot!<end_line />
 			Our ages!<end_line />
-			They're far too apart, right?<end_line />
+			They're too far apart, right?<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -894,6 +894,10 @@
 			やったぁ！<end_line />
 			ありがとう、おにーちゃん<end_line />
 		</sjis>
+		<ascii>
+			Yay! <end_line />
+			Thanks, Mr. <player_nickname />!<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<player gender="female" />
@@ -904,7 +908,7 @@
 			ありがとう、おねーちゃん<end_line />
 		</sjis>
 		<ascii>
-			Thanks, big sis!<end_line />
+			Thanks, Ms. <player_nickname />!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -917,7 +921,7 @@
 				オレもおにーちゃん、か<three_dots /><end_line />
 			</sjis>
 			<ascii>
-				Big bro, she said<three_dots /><end_line />
+				Mister, she said<three_dots /><end_line />
 			</ascii>
 		</male>
 		<female>
@@ -926,7 +930,7 @@
 				わたしがおねーちゃん、か<three_dots /><end_line />
 			</sjis>
 			<ascii>
-				Big sis, she said<three_dots /><end_line />
+				Miss, she said<three_dots /><end_line />
 			</ascii>
 		</female>
 	</dialogue>

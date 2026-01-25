@@ -172,7 +172,7 @@
 			仲間か？<end_line />
 		</sjis>
 		<ascii>
-			Your friend?<end_line />
+			Is this your friend?<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -184,7 +184,7 @@
 			仲間？<end_line />
 		</sjis>
 		<ascii>
-			Your Friend?<end_line />
+			Your friend?<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -196,7 +196,7 @@
 			な、仲間ですか？<end_line />
 		</sjis>
 		<ascii>
-			Y-your friend?<end_line />
+			I-is this your friend?<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -256,9 +256,9 @@
 			毒爪できりさくぞ！！！<end_line />
 		</sjis>
 		<ascii>
-			Kid or not, insult the great<end_line />
-			and beautiful Gillan,<end_line />
-			and I'll rip you to shreds!!!<end_line />
+			Kid or not, if you insult <end_line />
+			the great and beautiful Gillan,<end_line />
+			I'll rip you to shreds!!!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -296,7 +296,7 @@
 			<player_nickname />！<end_line />
 		</sjis>
 		<ascii>
-			He's serious<three_dots />!<end_line />
+			That guy's serious!<end_line />
 			<player_nickname />!<end_line />
 		</ascii>
 	</dialogue>
@@ -310,7 +310,7 @@
 			<player_nickname />！<end_line />
 		</sjis>
 		<ascii>
-			He's serious<three_dots />!<end_line />
+			This guy's serious!<end_line />
 			<player_nickname />!<end_line />
 		</ascii>
 	</dialogue>
@@ -324,7 +324,7 @@
 			<player_nickname />さん！<end_line />
 		</sjis>
 		<ascii>
-			I-is he serious<three_dots />!?<end_line />
+			I-is he serious!?<end_line />
 			<player_nickname />!<end_line />
 		</ascii>
 	</dialogue>
@@ -602,7 +602,7 @@
 		</sjis>
 		<ascii>
 			What strong presence<three_dots /><end_line />
-			So he is Bostaph<three_dots /><end_line />
+			So he's Bostaph<three_dots /><end_line />
 			To think he's also after Murno<three_dots /><end_line />
 		</ascii>
 	</dialogue>
@@ -689,8 +689,8 @@
 			知り合いなのか<three_dots /><end_line />
 		</sjis>
 		<ascii>
-			A Craftknight<three_dots /><end_line />
-			You know each other<three_dots />?<end_line />
+			A Craftknight!<end_line />
+			You<three_dots /> know each other?<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -768,7 +768,7 @@
 			食い足りない相手だったな<end_line />
 		</sjis>
 		<ascii>
-			Ahh, there were 5 or 6 of em,<end_line />
+			Ahh, there were 5 or 6 of 'em,<end_line />
 			but I took care of them all.<end_line />
 			They were unsatisfying opponents.<end_line />
 		</ascii>

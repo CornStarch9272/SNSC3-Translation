@@ -6,7 +6,7 @@
 			あれ<three_dots />？<end_line />
 		</sjis>
 		<ascii>
-			Huh<three_dots />?<end_line />
+			Huh?<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -18,7 +18,7 @@
 			君はどうしてこんなところに<end_line />
 		</sjis>
 		<ascii>
-			<three_dots />?<end_line />
+			Hrm?<end_line />
 			Why are you here?<end_line />
 		</ascii>
 	</dialogue>
@@ -99,7 +99,7 @@
 			だ、誰が<three_dots />！<end_line />
 		</sjis>
 		<ascii>
-			N-no, I'm not<three_dots />!<end_line />
+			N-no, I'm not!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -206,7 +206,7 @@
 			君たちのためじゃなくて<three_dots /><end_line />
 		</sjis>
 		<ascii>
-			I told you, that was!<end_line />
+			I told you, that wasn't it!<end_line />
 			I wasn't trying to save you<three_dots /><end_line />
 		</ascii>
 	</dialogue>
