@@ -1747,7 +1747,7 @@
 		</sjis>
 		<ascii>
 			Elieze is with us,<end_line />
-			remember<three_dots />?<end_line />
+			remember?<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -1810,7 +1810,7 @@
 		</sjis>
 		<ascii>
 			Elieze is with us,<end_line />
-			remember<three_dots />?<end_line />
+			remember?<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -1875,7 +1875,7 @@
 		</sjis>
 		<ascii>
 			Elieze is with us,<end_line />
-			remember<three_dots />?<end_line />
+			remember?<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -2244,7 +2244,7 @@
 			好きにしろ<three_dots /><end_line />
 		</sjis>
 		<ascii>
-			<three_dots />Do whatever you want.<end_line />
+			Do whatever you want<three_dots /><end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
