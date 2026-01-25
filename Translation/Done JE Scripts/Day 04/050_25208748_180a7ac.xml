@@ -591,7 +591,7 @@
 			</sjis>
 			<ascii>
 				A scary Stray<three_dots /><end_line />
-				Mister<three_dots /><end_line />
+				Mr. <player_nickname /><three_dots /><end_line />
 			</ascii>
 		</male>
 		<female>
@@ -601,7 +601,7 @@
 			</sjis>
 			<ascii>
 				A scary Stray<three_dots /><end_line />
-				Miss<three_dots /><end_line />
+				Ms. <player_nickname /><three_dots /><end_line />
 			</ascii>
 		</female>
 	</dialogue>
