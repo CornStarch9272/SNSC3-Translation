@@ -2,7 +2,7 @@
 	<dialogue>
 		<info box="left" />
 		<portrait_l entry="player" eye="serious" mouth="tense" />
-		<portrait_r entry="elieze" eye="serious" mouth="neutral" />
+		<portrait_r entry="eliez" eye="serious" mouth="neutral" />
 		<sjis>
 			ここからリュート岩窟に<end_line />
 			行けるの？<end_line />
@@ -14,7 +14,7 @@
 	<dialogue>
 		<info box="right" />
 		<portrait_l entry="player" eye="serious" mouth="tense" />
-		<portrait_r entry="elieze" eye="serious" mouth="neutral" />
+		<portrait_r entry="eliez" eye="serious" mouth="neutral" />
 		<sjis>
 			うん！<end_line />
 			いろんなとこをさがすと<end_line />
@@ -29,14 +29,14 @@
 	<dialogue>
 		<info box="simple" />
 		<portrait_l name="gatekeeper" />
-		<portrait_r name="elieze" />
+		<portrait_r name="eliez" />
 		<sjis>
 			エリエちゃん<end_line />
 			今日はみんなで材料集めかい？<end_line />
 			リュート岩窟ならいいんだけど<three_dots /><end_line />
 		</sjis>
 		<ascii>
-			Oh, Elieze!<end_line />
+			Oh, Eliez!<end_line />
 			Going gathering today?<end_line />
 			Lute Cave should be fine but<three_dots /><end_line />
 		</ascii>
@@ -44,7 +44,7 @@
 	<dialogue>
 		<info box="simple" />
 		<portrait_l name="gatekeeper" />
-		<portrait_r name="elieze" />
+		<portrait_r name="eliez" />
 		<sjis>
 			スポート洞窟はこの間の地震で<end_line />
 			あぶなくなっているから<end_line />
@@ -58,7 +58,7 @@
 	</dialogue>
 	<dialogue>
 		<info box="left" />
-		<portrait_l entry="elieze" eye="serious" mouth="talk" />
+		<portrait_l entry="eliez" eye="serious" mouth="talk" />
 		<sjis>
 			はーい！<end_line />
 		</sjis>

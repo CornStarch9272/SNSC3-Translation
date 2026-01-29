@@ -424,7 +424,7 @@
 	</dialogue>
 	<dialogue>
 		<info box="left" />
-		<portrait_l entry="elieze" eye="happy" mouth="neutral" />
+		<portrait_l entry="eliez" eye="happy" mouth="neutral" />
 		<male>
 			<sjis>
 				がんばってね<end_line />
@@ -448,7 +448,7 @@
 	</dialogue>
 	<dialogue>
 		<info box="right" />
-		<portrait_l entry="elieze" eye="happy" mouth="neutral" />
+		<portrait_l entry="eliez" eye="happy" mouth="neutral" />
 		<portrait_r entry="player" eye="happy" mouth="tense" />
 		<sjis>
 			え！？<end_line />
@@ -461,7 +461,7 @@
 	</dialogue>
 	<dialogue>
 		<info box="right" />
-		<portrait_l entry="elieze" eye="happy" mouth="neutral" />
+		<portrait_l entry="eliez" eye="happy" mouth="neutral" />
 		<portrait_r entry="player" eye="decided" mouth="serious" />
 		<male>
 			<sjis>

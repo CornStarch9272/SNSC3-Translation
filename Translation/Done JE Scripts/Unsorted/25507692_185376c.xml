@@ -1,7 +1,7 @@
 <tl_file>
 	<dialogue>
 		<info box="simple" />
-		<portrait_l name="elieze" />
+		<portrait_l name="eliez" />
 		<sjis>
 			おやかた、だいじょうぶかなぁ<end_line />
 		</sjis>
@@ -11,7 +11,7 @@
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
-		<portrait_l name="elieze" />
+		<portrait_l name="eliez" />
 		<sjis>
 			ヴィーさんは親方についてるよ<end_line />
 		</sjis>
@@ -21,7 +21,7 @@
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
-		<portrait_l name="elieze" />
+		<portrait_l name="eliez" />
 		<sjis>
 			ザックならいないぜ<end_line />
 		</sjis>

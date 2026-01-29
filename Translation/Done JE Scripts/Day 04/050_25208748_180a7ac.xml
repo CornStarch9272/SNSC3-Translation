@@ -583,7 +583,7 @@
 	</dialogue>
 	<dialogue>
 		<info box="left" />
-		<portrait_l entry="elieze" eye="sad" mouth="serious" />
+		<portrait_l entry="eliez" eye="sad" mouth="serious" />
 		<male>
 			<sjis>
 				コワいはぐれだって<end_line />
@@ -675,7 +675,7 @@
 		<ascii>
 			What should we do?<end_line />
 			I'm worried about him<three_dots /><end_line />
-			but Elieze<three_dots /><end_line />
+			but Eliez<three_dots /><end_line />
 		</ascii>
 	</dialogue>
 </tl_file>

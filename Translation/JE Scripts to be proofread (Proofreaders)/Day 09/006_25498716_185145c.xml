@@ -2,7 +2,7 @@
 	<dialogue>
 		<info box="right" />
 		<portrait_l entry="player" eye="serious" mouth="neutral" />
-		<portrait_r entry="elieze" eye="serious" mouth="neutral" />
+		<portrait_r entry="eliez" eye="serious" mouth="neutral" />
 		<male>
 			<sjis>
 				あ、おにーちゃん<end_line />
@@ -116,7 +116,7 @@
 	<dialogue>
 		<info box="right" />
 		<portrait_l entry="velworen" eye="sad" mouth="tense" />
-		<portrait_r entry="elieze" eye="decided" mouth="tense" />
+		<portrait_r entry="eliez" eye="decided" mouth="tense" />
 		<sjis>
 			ええ〜<three_dots /><end_line />
 			またリュートがんくつが<end_line />
@@ -132,7 +132,7 @@
 		<player gender="male" />
 		<info box="left" />
 		<portrait_l entry="player" eye="decided" mouth="tense" />
-		<portrait_r entry="elieze" eye="decided" mouth="tense" />
+		<portrait_r entry="eliez" eye="decided" mouth="tense" />
 		<sjis>
 			そうだね<end_line />
 			あぶないから材料集めは<end_line />
@@ -148,7 +148,7 @@
 		<player gender="male" />
 		<info box="left" />
 		<portrait_l entry="player" eye="decided" mouth="neutral" />
-		<portrait_r entry="elieze" eye="decided" mouth="tense" />
+		<portrait_r entry="eliez" eye="decided" mouth="tense" />
 		<sjis>
 			オレたちが悪いヤツらを<end_line />
 			捕まえるまではね！<end_line />
@@ -164,7 +164,7 @@
 		<player gender="female" />
 		<info box="left" />
 		<portrait_l entry="player" eye="decided" mouth="tense" />
-		<portrait_r entry="elieze" eye="decided" mouth="tense" />
+		<portrait_r entry="eliez" eye="decided" mouth="tense" />
 		<sjis>
 			そうだね<end_line />
 			あぶないから材料集めは<end_line />
@@ -180,7 +180,7 @@
 		<player gender="female" />
 		<info box="left" />
 		<portrait_l entry="player" eye="decided" mouth="neutral" />
-		<portrait_r entry="elieze" eye="decided" mouth="tense" />
+		<portrait_r entry="eliez" eye="decided" mouth="tense" />
 		<sjis>
 			わたしたちが悪いヤツらを<end_line />
 			捕まえるまではね！<end_line />
@@ -398,7 +398,7 @@
 	</dialogue>
 	<dialogue>
 		<info box="right" />
-		<portrait_r entry="elieze" eye="serious" mouth="neutral" />
+		<portrait_r entry="eliez" eye="serious" mouth="neutral" />
 		<sjis>
 			いってらっしゃ〜い<end_line />
 		</sjis>

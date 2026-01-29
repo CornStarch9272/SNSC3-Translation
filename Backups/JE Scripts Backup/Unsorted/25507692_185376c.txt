@@ -1,6 +1,6 @@
 <dialogue>
 	<info box="simple">
-	<portrait_l name="elieze">
+	<portrait_l name="eliez">
 	<sjis>
 		おやかた、だいじょうぶかなぁ<end_line>
 	</sjis>

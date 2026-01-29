@@ -1,7 +1,7 @@
 <tl_file>
 	<dialogue>
 		<info box="left" />
-		<portrait_l entry="elieze" eye="surprised" mouth="talk" />
+		<portrait_l entry="eliez" eye="surprised" mouth="talk" />
 		<male>
 			<sjis>
 				あ、ホントだ！<end_line />
@@ -29,14 +29,14 @@
 	</dialogue>
 	<dialogue>
 		<info box="right" />
-		<portrait_l entry="elieze" eye="surprised" mouth="talk" />
+		<portrait_l entry="eliez" eye="surprised" mouth="talk" />
 		<portrait_r entry="murno" eye="happy" mouth="neutral" />
 		<sjis>
 			ただいま<end_line />
 			エリエちゃん<end_line />
 		</sjis>
 		<ascii>
-			Elieze!<end_line />
+			Eliez!<end_line />
 			We're back!<end_line />
 		</ascii>
 	</dialogue>
@@ -241,7 +241,7 @@
 			たのんだぞ<end_line />
 		</sjis>
 		<ascii>
-			Take care of Elieze.<end_line />
+			Take care of Eliez.<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>

@@ -55,20 +55,20 @@
 	<dialogue>
 		<player gender="male" />
 		<info box="left" />
-		<portrait_l entry="elieze" eye="serious" mouth="neutral" />
+		<portrait_l entry="eliez" eye="serious" mouth="neutral" />
 		<portrait_r entry="tier" eye="decided" mouth="serious" />
 		<sjis>
 			こんにちは<end_line />
 			わたしエリエ<end_line />
 		</sjis>
 		<ascii>
-			Hello, my name is Elieze.<end_line />
+			Hello, my name is Eliez.<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
 		<player gender="male" />
 		<info box="right" />
-		<portrait_l entry="elieze" eye="serious" mouth="neutral" />
+		<portrait_l entry="eliez" eye="serious" mouth="neutral" />
 		<portrait_r entry="tier" eye="decided" mouth="neutral" />
 		<sjis>
 			こんにちは、ティエよ<end_line />
@@ -112,20 +112,20 @@
 	<dialogue>
 		<player gender="female" />
 		<info box="left" />
-		<portrait_l entry="elieze" eye="serious" mouth="neutral" />
+		<portrait_l entry="eliez" eye="serious" mouth="neutral" />
 		<portrait_r entry="tier" eye="serious" mouth="serious" />
 		<sjis>
 			こんにちは<end_line />
 			わたしエリエ<end_line />
 		</sjis>
 		<ascii>
-			Hello, my name is Elieze.<end_line />
+			Hello, my name is Eliez.<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
 		<player gender="female" />
 		<info box="right" />
-		<portrait_l entry="elieze" eye="serious" mouth="neutral" />
+		<portrait_l entry="eliez" eye="serious" mouth="neutral" />
 		<portrait_r entry="tier" eye="serious" mouth="neutral" />
 		<sjis>
 			こんにちは、ティエよ<end_line />
@@ -298,7 +298,7 @@
 			</sjis>
 			<ascii>
 				Actually Tier, I need a favor.<end_line />
-				Could you take Elieze<end_line />
+				Could you take Eliez<end_line />
 				back to town for me?<end_line />
 			</ascii>
 		</male>
@@ -310,7 +310,7 @@
 			</sjis>
 			<ascii>
 				Tier, I need a favor.<end_line />
-				Could you take Elieze<end_line />
+				Could you take Eliez<end_line />
 				back to town for me?<end_line />
 			</ascii>
 		</female>
@@ -486,7 +486,7 @@
 	<dialogue>
 		<info box="left" />
 		<portrait_l entry="player" eye="serious" mouth="neutral" />
-		<portrait_r entry="elieze" eye="serious" mouth="neutral" />
+		<portrait_r entry="eliez" eye="serious" mouth="neutral" />
 		<male>
 			<sjis>
 				エリエもあぶないから<end_line />
@@ -511,7 +511,7 @@
 	<dialogue>
 		<info box="right" />
 		<portrait_l entry="player" eye="serious" mouth="neutral" />
-		<portrait_r entry="elieze" eye="happy" mouth="neutral" />
+		<portrait_r entry="eliez" eye="happy" mouth="neutral" />
 		<sjis>
 			はーい！<end_line />
 		</sjis>

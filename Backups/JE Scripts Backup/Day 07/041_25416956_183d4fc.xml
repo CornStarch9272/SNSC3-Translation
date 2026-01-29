@@ -1,6 +1,6 @@
 <dialogue>
   <info box="left">
-  <portrait_l entry="elieze" eye="surprised" mouth="talk">
+  <portrait_l entry="eliez" eye="surprised" mouth="talk">
   <male>
     <sjis>
       あ、ホントだ！<end_line>
@@ -28,14 +28,14 @@
 </dialogue>
 <dialogue>
   <info box="right">
-  <portrait_l entry="elieze" eye="surprised" mouth="talk">
+  <portrait_l entry="eliez" eye="surprised" mouth="talk">
   <portrait_r entry="murno" eye="happy" mouth="neutral">
   <sjis>
     ただいま<end_line>
     エリエちゃん<end_line>
   </sjis>
   <ascii>
-    I'm back, Elieze.<end_line>
+    I'm back, Eliez.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -58,7 +58,7 @@
     エリエ、ザック<end_line>
   </sjis>
   <ascii>
-    Elieze, Zakk<three_dots><end_line>
+    Eliez, Zakk<three_dots><end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -241,7 +241,7 @@
     たのんだぞ<end_line>
   </sjis>
   <ascii>
-    Take care of Elieze.<end_line>
+    Take care of Eliez.<end_line>
   </ascii>
 </dialogue>
 <dialogue>

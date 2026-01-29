@@ -159,7 +159,7 @@
 	</dialogue>
 	<dialogue>
 		<info box="left" />
-		<portrait_l entry="elieze" eye="sad" mouth="serious" />
+		<portrait_l entry="eliez" eye="sad" mouth="serious" />
 		<sjis>
 			ボスタフおやかたは<three_dots /><end_line />
 			あやしいの<three_dots />？<end_line />
@@ -294,7 +294,7 @@
 	</dialogue>
 	<dialogue>
 		<info box="right" />
-		<portrait_l entry="elieze" eye="sad" mouth="serious" />
+		<portrait_l entry="eliez" eye="sad" mouth="serious" />
 		<portrait_r entry="jade" eye="serious" mouth="talk" />
 		<sjis>
 			まあ、そんなわけだから<end_line />
@@ -304,12 +304,12 @@
 		<ascii>
 			Well, we've got nothing to worry<end_line />
 			about on that end.<end_line />
-			Right? Elieze.<end_line />
+			Right? Eliez.<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="left" />
-		<portrait_l entry="elieze" eye="sad" mouth="neutral" />
+		<portrait_l entry="eliez" eye="sad" mouth="neutral" />
 		<portrait_r entry="jade" eye="serious" mouth="talk" />
 		<sjis>
 			<three_dots />うん<end_line />
@@ -342,13 +342,13 @@
 	</dialogue>
 	<dialogue>
 		<info box="left" />
-		<portrait_l entry="elieze" eye="serious" mouth="neutral" />
+		<portrait_l entry="eliez" eye="serious" mouth="neutral" />
 		<sjis>
 			じゃあエリエも<end_line />
 			おつかいにいってきます！<end_line />
 		</sjis>
 		<ascii>
-			Okay, then Elieze will be<end_line />
+			Okay, then Eliez will be<end_line />
 			taking care of errands!<end_line />
 		</ascii>
 	</dialogue>

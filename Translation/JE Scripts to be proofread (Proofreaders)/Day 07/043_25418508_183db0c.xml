@@ -1,7 +1,7 @@
 <tl_file>
 	<dialogue>
 		<info box="left" />
-		<portrait_l entry="elieze" eye="happy" mouth="talk" />
+		<portrait_l entry="eliez" eye="happy" mouth="talk" />
 		<portrait_r entry="benson" eye="serious" mouth="neutral" />
 		<sjis>
 			ただいま！<end_line />
@@ -110,7 +110,7 @@
 	</dialogue>
 	<dialogue>
 		<info box="left" />
-		<portrait_l entry="elieze" eye="serious" mouth="neutral" />
+		<portrait_l entry="eliez" eye="serious" mouth="neutral" />
 		<portrait_r entry="benson" eye="serious" mouth="neutral" />
 		<sjis>
 			おやかた、うれしそう<end_line />
@@ -121,7 +121,7 @@
 	</dialogue>
 	<dialogue>
 		<info box="right" />
-		<portrait_l entry="elieze" eye="serious" mouth="neutral" />
+		<portrait_l entry="eliez" eye="serious" mouth="neutral" />
 		<portrait_r entry="benson" eye="serious" mouth="neutral" />
 		<sjis>
 			ん！？<end_line />

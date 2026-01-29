@@ -105,14 +105,14 @@
 	<dialogue>
 		<info box="left" />
 		<portrait_l entry="player" eye="surprised" mouth="tense" />
-		<portrait_r entry="elieze" eye="sad" mouth="serious" />
+		<portrait_r entry="eliez" eye="sad" mouth="serious" />
 		<male>
 			<sjis>
 				エリエまで<end_line />
 				どうしたんだ！？<end_line />
 			</sjis>
 			<ascii>
-				Elieze!?<end_line />
+				Eliez!?<end_line />
 				What's going on!?<end_line />
 			</ascii>
 		</male>
@@ -122,7 +122,7 @@
 				どうしたの！？<end_line />
 			</sjis>
 			<ascii>
-				Elieze!?<end_line />
+				Eliez!?<end_line />
 				What's going on!?<end_line />
 			</ascii>
 		</female>
@@ -130,7 +130,7 @@
 	<dialogue>
 		<info box="right" />
 		<portrait_l entry="player" eye="surprised" mouth="tense" />
-		<portrait_r entry="elieze" eye="sad" mouth="stressed" />
+		<portrait_r entry="eliez" eye="sad" mouth="stressed" />
 		<sjis>
 			たいへんなの！<end_line />
 			おやかたが<three_dots /><end_line />
@@ -146,7 +146,7 @@
 		<partner name="run-dor" />
 		<info box="left" />
 		<portrait_l entry="partner" eye="surprised" mouth="neutral" />
-		<portrait_r entry="elieze" eye="sad" mouth="stressed" />
+		<portrait_r entry="eliez" eye="sad" mouth="stressed" />
 		<sjis>
 			みゅーの様ニ　何ガ？<end_line />
 		</sjis>
@@ -158,7 +158,7 @@
 		<partner name="enzi" />
 		<info box="left" />
 		<portrait_l entry="partner" eye="surprised" mouth="yell" />
-		<portrait_r entry="elieze" eye="sad" mouth="stressed" />
+		<portrait_r entry="eliez" eye="sad" mouth="stressed" />
 		<sjis>
 			ミューノに何かあったのか！？<end_line />
 		</sjis>
@@ -170,7 +170,7 @@
 		<partner name="killfith" />
 		<info box="left" />
 		<portrait_l entry="partner" eye="special" mouth="yell" />
-		<portrait_r entry="elieze" eye="sad" mouth="stressed" />
+		<portrait_r entry="eliez" eye="sad" mouth="stressed" />
 		<sjis>
 			ミューノに何かあったのか！？<end_line />
 		</sjis>
@@ -182,7 +182,7 @@
 		<partner name="rufeel" />
 		<info box="left" />
 		<portrait_l entry="partner" eye="surprised" mouth="yell" />
-		<portrait_r entry="elieze" eye="sad" mouth="stressed" />
+		<portrait_r entry="eliez" eye="sad" mouth="stressed" />
 		<sjis>
 			ミューノ様に何か<end_line />
 			あったんですか！？<end_line />
@@ -266,7 +266,7 @@
 	<dialogue>
 		<info box="right" />
 		<portrait_l entry="player" eye="surprised" mouth="yell" />
-		<portrait_r entry="elieze" eye="sad" mouth="tense" />
+		<portrait_r entry="eliez" eye="sad" mouth="tense" />
 		<sjis>
 			それで<end_line />
 			おやかたが<three_dots /><end_line />
@@ -281,7 +281,7 @@
 	<dialogue>
 		<info box="left" />
 		<portrait_l entry="vee" eye="decided" mouth="stressed" />
-		<portrait_r entry="elieze" eye="sad" mouth="tense" />
+		<portrait_r entry="eliez" eye="sad" mouth="tense" />
 		<sjis>
 			ベンソンがどうかしたのかい！？<end_line />
 			何かあったのかい？<end_line />
@@ -294,7 +294,7 @@
 	<dialogue>
 		<info box="right" />
 		<portrait_l entry="vee" eye="decided" mouth="stressed" />
-		<portrait_r entry="elieze" eye="sad" mouth="yell" />
+		<portrait_r entry="eliez" eye="sad" mouth="yell" />
 		<sjis>
 			わたし、どうしたらいいか<three_dots />！<end_line />
 		</sjis>

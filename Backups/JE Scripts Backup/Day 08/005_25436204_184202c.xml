@@ -330,7 +330,7 @@
 </dialogue>
 <dialogue>
 	<info box="left">
-	<portrait_l entry="elieze" eye="serious" mouth="talk">
+	<portrait_l entry="eliez" eye="serious" mouth="talk">
 	<sjis>
 		ただいま～！<end_line>
 	</sjis>
@@ -340,7 +340,7 @@
 </dialogue>
 <dialogue>
 	<info box="simple">
-	<portrait_l name="elieze">
+	<portrait_l name="eliez">
 	<sjis>
 		みんなまだ<end_line>
 		かえってきてないの？<end_line>

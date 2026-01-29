@@ -2,7 +2,7 @@
 	<dialogue>
 		<info box="right" />
 		<portrait_l entry="player" eye="sad" mouth="serious" />
-		<portrait_r entry="elieze" eye="serious" mouth="tense" />
+		<portrait_r entry="eliez" eye="serious" mouth="tense" />
 		<sjis>
 			ボスタフおやかたって<end_line />
 			いつかえってくるのかな<three_dots /><end_line />
@@ -15,13 +15,13 @@
 	<dialogue>
 		<info box="right" />
 		<portrait_l entry="player" eye="serious" mouth="neutral" />
-		<portrait_r entry="elieze" eye="serious" mouth="talk" />
+		<portrait_r entry="eliez" eye="serious" mouth="talk" />
 		<sjis>
 			きょうのエリエのおしごとは<end_line />
 			こうぼうのおかたづけなんだよ<end_line />
 		</sjis>
 		<ascii>
-			Elieze's chore today is to<end_line />
+			Eliez's chore today is to<end_line />
 			help clean up the Workshop!<end_line />
 		</ascii>
 	</dialogue>

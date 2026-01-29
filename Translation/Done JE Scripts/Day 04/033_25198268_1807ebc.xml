@@ -1,7 +1,7 @@
 <tl_file>
 	<dialogue>
 		<info box="right" />
-		<portrait_l entry="elieze" eye="serious" mouth="neutral" />
+		<portrait_l entry="eliez" eye="serious" mouth="neutral" />
 		<portrait_r entry="player" eye="serious" mouth="neutral" />
 		<sjis>
 			で、そのリュート岩窟には<end_line />
@@ -14,7 +14,7 @@
 	</dialogue>
 	<dialogue>
 		<info box="left" />
-		<portrait_l entry="elieze" eye="serious" mouth="neutral" />
+		<portrait_l entry="eliez" eye="serious" mouth="neutral" />
 		<portrait_r entry="player" eye="serious" mouth="neutral" />
 		<sjis>
 			えとね<end_line />
@@ -40,7 +40,7 @@
 	<dialogue>
 		<info box="right" />
 		<portrait_l entry="zakk" eye="decided" mouth="yell" />
-		<portrait_r entry="elieze" eye="happy" mouth="neutral" />
+		<portrait_r entry="eliez" eye="happy" mouth="neutral" />
 		<sjis>
 			あ、ザックくん！<end_line />
 			こんにちは<end_line />
@@ -53,7 +53,7 @@
 	<dialogue>
 		<info box="left" />
 		<portrait_l entry="zakk" eye="happy" mouth="neutral" />
-		<portrait_r entry="elieze" eye="happy" mouth="neutral" />
+		<portrait_r entry="eliez" eye="happy" mouth="neutral" />
 		<sjis>
 			あ、ああ、こんにちは<end_line />
 		</sjis>
@@ -64,7 +64,7 @@
 	<dialogue>
 		<info box="left" />
 		<portrait_l entry="zakk" eye="surprised" mouth="yell" />
-		<portrait_r entry="elieze" eye="happy" mouth="neutral" />
+		<portrait_r entry="eliez" eye="happy" mouth="neutral" />
 		<sjis>
 			じゃなくて、<player_nickname />！<end_line />
 			お前ンとこの親方が<three_dots />！<end_line />
@@ -360,7 +360,7 @@
 		<ascii>
 			<three_dots />Wait, no!<end_line />
 			I was only telling you because<end_line />
-			of Elieze<three_dots /><end_line />
+			of Eliez<three_dots /><end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -379,7 +379,7 @@
 	<dialogue>
 		<info box="right" />
 		<portrait_l entry="zakk" eye="serious" mouth="serious" />
-		<portrait_r entry="elieze" eye="serious" mouth="talk" />
+		<portrait_r entry="eliez" eye="serious" mouth="talk" />
 		<sjis>
 			ありがとう<end_line />
 			ザックくん<end_line />
@@ -391,7 +391,7 @@
 	<dialogue>
 		<info box="left" />
 		<portrait_l entry="zakk" eye="neutral_blush" mouth="neutral" />
-		<portrait_r entry="elieze" eye="serious" mouth="talk" />
+		<portrait_r entry="eliez" eye="serious" mouth="talk" />
 		<sjis>
 			ま、まあ<end_line />
 			そんなわけだから<end_line />
@@ -429,7 +429,7 @@
 	</dialogue>
 	<dialogue>
 		<info box="right" />
-		<portrait_l entry="elieze" eye="serious" mouth="neutral" />
+		<portrait_l entry="eliez" eye="serious" mouth="neutral" />
 		<portrait_r entry="player" eye="serious" mouth="tense" />
 		<male>
 			<sjis>
@@ -458,7 +458,7 @@
 	</dialogue>
 	<dialogue>
 		<info box="left" />
-		<portrait_l entry="elieze" eye="happy" mouth="neutral" />
+		<portrait_l entry="eliez" eye="happy" mouth="neutral" />
 		<portrait_r entry="player" eye="serious" mouth="tense" />
 		<sjis>
 			うん！<end_line />

@@ -1,7 +1,7 @@
 <tl_file>
 	<dialogue>
 		<info box="left" />
-		<portrait_l entry="elieze" eye="serious" mouth="neutral" />
+		<portrait_l entry="eliez" eye="serious" mouth="neutral" />
 		<sjis>
 			いってきます<end_line />
 		</sjis>
@@ -11,20 +11,20 @@
 	</dialogue>
 	<dialogue>
 		<info box="right" />
-		<portrait_l entry="elieze" eye="serious" mouth="neutral" />
+		<portrait_l entry="eliez" eye="serious" mouth="neutral" />
 		<portrait_r entry="jade" eye="serious" mouth="talk" />
 		<sjis>
 			お、エリエ<end_line />
 			お使いか？<end_line />
 		</sjis>
 		<ascii>
-			Oh, Elieze.<end_line />
+			Oh, Eliez.<end_line />
 			Running errands?<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
 		<info box="left" />
-		<portrait_l entry="elieze" eye="serious" mouth="neutral" />
+		<portrait_l entry="eliez" eye="serious" mouth="neutral" />
 		<portrait_r entry="jade" eye="serious" mouth="talk" />
 		<sjis>
 			ううん<end_line />
@@ -38,7 +38,7 @@
 	</dialogue>
 	<dialogue>
 		<info box="right" />
-		<portrait_l entry="elieze" eye="serious" mouth="neutral" />
+		<portrait_l entry="eliez" eye="serious" mouth="neutral" />
 		<portrait_r entry="jade" eye="serious" mouth="tense" />
 		<sjis>
 			素材集めって言うと<end_line />
@@ -51,7 +51,7 @@
 	</dialogue>
 	<dialogue>
 		<info box="right" />
-		<portrait_l entry="elieze" eye="serious" mouth="neutral" />
+		<portrait_l entry="eliez" eye="serious" mouth="neutral" />
 		<portrait_r entry="player" eye="serious" mouth="neutral" />
 		<sjis>
 			へぇ<three_dots /><end_line />
@@ -136,7 +136,7 @@
 			ワカレバ　カンタンナ計算デス<end_line />
 		</sjis>
 		<ascii>
-			Subtracting Elieze's Age From<end_line />
+			Subtracting Eliez's Age From<end_line />
 			Yours Is A Simple Operation.<end_line />
 		</ascii>
 	</dialogue>
@@ -197,7 +197,7 @@
 	</dialogue>
 	<dialogue>
 		<info box="left" />
-		<portrait_l entry="elieze" eye="decided" mouth="serious" />
+		<portrait_l entry="eliez" eye="decided" mouth="serious" />
 		<portrait_r entry="jade" eye="happy" mouth="serious" />
 		<sjis>
 			おにーちゃん、ケンカは<end_line />
@@ -350,14 +350,14 @@
 	</dialogue>
 	<dialogue>
 		<info box="right" />
-		<portrait_r entry="elieze" eye="serious" mouth="talk" />
+		<portrait_r entry="eliez" eye="serious" mouth="talk" />
 		<sjis>
 			はじめまして、わたし、エリエ<end_line />
 			このこーぼーで<end_line />
 			おてつだいをしてます<end_line />
 		</sjis>
 		<ascii>
-			Nice to meet you, I'm Elieze.<end_line />
+			Nice to meet you, I'm Eliez.<end_line />
 			I help out<end_line />
 			around the workshop.<end_line />
 		</ascii>
@@ -365,7 +365,7 @@
 	<dialogue>
 		<info box="left" />
 		<portrait_l entry="player" eye="serious" mouth="talk" />
-		<portrait_r entry="elieze" eye="serious" mouth="talk" />
+		<portrait_r entry="eliez" eye="serious" mouth="talk" />
 		<sjis>
 			ああ、こちらこそ、はじめまして<end_line />
 			<player_name />だよ<end_line />
@@ -381,7 +381,7 @@
 		<partner name="run-dor" />
 		<info box="right" />
 		<portrait_l entry="partner" eye="serious" mouth="neutral" />
-		<portrait_r entry="elieze" eye="happy" mouth="neutral" />
+		<portrait_r entry="eliez" eye="happy" mouth="neutral" />
 		<sjis>
 			かわいいね<end_line />
 		</sjis>
@@ -393,7 +393,7 @@
 		<partner name="run-dor" />
 		<info box="left" />
 		<portrait_l entry="partner" eye="special" mouth="neutral" />
-		<portrait_r entry="elieze" eye="happy" mouth="neutral" />
+		<portrait_r entry="eliez" eye="happy" mouth="neutral" />
 		<sjis>
 			ハ<three_dots /><end_line />
 			ハジメテ言ワレマシタ<end_line />
@@ -408,7 +408,7 @@
 		<partner name="run-dor" />
 		<info box="right" />
 		<portrait_l entry="partner" eye="special" mouth="neutral" />
-		<portrait_r entry="elieze" eye="sad" mouth="stressed" />
+		<portrait_r entry="eliez" eye="sad" mouth="stressed" />
 		<sjis>
 			どうして？<end_line />
 			ないちゃダメだよ！<end_line />
@@ -424,7 +424,7 @@
 		<partner name="run-dor" />
 		<info box="left" />
 		<portrait_l entry="partner" eye="special_blush" mouth="neutral" />
-		<portrait_r entry="elieze" eye="sad" mouth="stressed" />
+		<portrait_r entry="eliez" eye="sad" mouth="stressed" />
 		<sjis>
 			原因不明ノ　しすてむえらー<end_line />
 			洗浄液ガ　止マリマセン<end_line />
@@ -440,7 +440,7 @@
 		<partner name="enzi" />
 		<info box="right" />
 		<portrait_l entry="partner" eye="serious" mouth="neutral" />
-		<portrait_r entry="elieze" eye="happy" mouth="neutral" />
+		<portrait_r entry="eliez" eye="happy" mouth="neutral" />
 		<sjis>
 			わあ！　かわいいネ<three_dots /><end_line />
 		</sjis>
@@ -452,7 +452,7 @@
 		<partner name="enzi" />
 		<info box="left" />
 		<portrait_l entry="partner" eye="decided" mouth="serious" />
-		<portrait_r entry="elieze" eye="happy" mouth="neutral" />
+		<portrait_r entry="eliez" eye="happy" mouth="neutral" />
 		<sjis>
 			先に言っておくぞ！<end_line />
 			ワガハイはネコではない<end_line />
@@ -468,7 +468,7 @@
 		<partner name="enzi" />
 		<info box="right" />
 		<portrait_l entry="partner" eye="decided" mouth="serious" />
-		<portrait_r entry="elieze" eye="sad" mouth="tense" />
+		<portrait_r entry="eliez" eye="sad" mouth="tense" />
 		<sjis>
 			そんな<three_dots /><end_line />
 			エリエ、ネコちゃんだいすきなのに<three_dots /><end_line />
@@ -476,7 +476,7 @@
 		</sjis>
 		<ascii>
 			Aww<three_dots /><end_line />
-			But Elieze loves kitties<three_dots /><end_line />
+			But Eliez loves kitties<three_dots /><end_line />
 			Are you sure you're not<three_dots />?<end_line />
 		</ascii>
 	</dialogue>
@@ -484,7 +484,7 @@
 		<partner name="enzi" />
 		<info box="left" />
 		<portrait_l entry="partner" eye="sad" mouth="tense" />
-		<portrait_r entry="elieze" eye="sad" mouth="tense" />
+		<portrait_r entry="eliez" eye="sad" mouth="tense" />
 		<sjis>
 			あ<three_dots />、いや<three_dots /><end_line />
 			そう言われても、の<three_dots /><end_line />
@@ -500,7 +500,7 @@
 		<partner name="killfith" />
 		<info box="right" />
 		<portrait_l entry="partner" eye="serious" mouth="neutral" />
-		<portrait_r entry="elieze" eye="happy" mouth="neutral" />
+		<portrait_r entry="eliez" eye="happy" mouth="neutral" />
 		<sjis>
 			よろしくね<end_line />
 		</sjis>
@@ -512,7 +512,7 @@
 		<partner name="killfith" />
 		<info box="left" />
 		<portrait_l entry="partner" eye="decided" mouth="neutral" />
-		<portrait_r entry="elieze" eye="happy" mouth="neutral" />
+		<portrait_r entry="eliez" eye="happy" mouth="neutral" />
 		<sjis>
 			なれなれしく話しかけるな<end_line />
 			子供はキライだ<end_line />
@@ -526,20 +526,20 @@
 		<partner name="killfith" />
 		<info box="right" />
 		<portrait_l entry="partner" eye="decided" mouth="neutral" />
-		<portrait_r entry="elieze" eye="serious" mouth="talk" />
+		<portrait_r entry="eliez" eye="serious" mouth="talk" />
 		<sjis>
 			エリエは<partner />が<end_line />
 			すきだよ！<end_line />
 		</sjis>
 		<ascii>
-			Elieze likes you, <partner />!<end_line />
+			Eliez likes you, <partner />!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
 		<partner name="killfith" />
 		<info box="left" />
 		<portrait_l entry="partner" eye="surprised_blush" mouth="serious" />
-		<portrait_r entry="elieze" eye="serious" mouth="talk" />
+		<portrait_r entry="eliez" eye="serious" mouth="talk" />
 		<sjis>
 			う<three_dots /><end_line />
 			こういうニンゲンは苦手だ<three_dots /><end_line />
@@ -553,7 +553,7 @@
 		<partner name="rufeel" />
 		<info box="right" />
 		<portrait_l entry="partner" eye="serious" mouth="neutral" />
-		<portrait_r entry="elieze" eye="happy" mouth="neutral" />
+		<portrait_r entry="eliez" eye="happy" mouth="neutral" />
 		<sjis>
 			あ〜！　シッポがある！<end_line />
 			カッコイイ！<end_line />
@@ -567,7 +567,7 @@
 		<partner name="rufeel" />
 		<info box="left" />
 		<portrait_l entry="partner" eye="surprised" mouth="talk" />
-		<portrait_r entry="elieze" eye="happy" mouth="neutral" />
+		<portrait_r entry="eliez" eye="happy" mouth="neutral" />
 		<sjis>
 			シッポがカッコイイなんて<three_dots />！<end_line />
 			はじめて言われましたわ！<end_line />
@@ -583,20 +583,20 @@
 		<partner name="rufeel" />
 		<info box="right" />
 		<portrait_l entry="partner" eye="surprised" mouth="talk" />
-		<portrait_r entry="elieze" eye="serious" mouth="yell" />
+		<portrait_r entry="eliez" eye="serious" mouth="yell" />
 		<sjis>
 			エリエもシッポ<end_line />
 			ほしいなー！<end_line />
 		</sjis>
 		<ascii>
-			Elieze wants a tail too!<end_line />
+			Eliez wants a tail too!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
 		<partner name="rufeel" />
 		<info box="left" />
 		<portrait_l entry="partner" eye="happy" mouth="serious" />
-		<portrait_r entry="elieze" eye="serious" mouth="yell" />
+		<portrait_r entry="eliez" eye="serious" mouth="yell" />
 		<sjis>
 			いたた<three_dots />！<end_line />
 			引っぱらないでください<end_line />
@@ -633,7 +633,7 @@
 	</dialogue>
 	<dialogue>
 		<info box="left" />
-		<portrait_l entry="elieze" eye="serious" mouth="neutral" />
+		<portrait_l entry="eliez" eye="serious" mouth="neutral" />
 		<portrait_r entry="jade" eye="serious" mouth="neutral" />
 		<sjis>
 			じゃあ、わたし<end_line />
@@ -646,7 +646,7 @@
 	</dialogue>
 	<dialogue>
 		<info box="right" />
-		<portrait_l entry="elieze" eye="serious" mouth="neutral" />
+		<portrait_l entry="eliez" eye="serious" mouth="neutral" />
 		<portrait_r entry="jade" eye="sad" mouth="neutral" />
 		<sjis>
 			ああ、ちょっと待った！<end_line />
@@ -661,7 +661,7 @@
 	</dialogue>
 	<dialogue>
 		<info box="left" />
-		<portrait_l entry="elieze" eye="surprised" mouth="stressed" />
+		<portrait_l entry="eliez" eye="surprised" mouth="stressed" />
 		<portrait_r entry="jade" eye="sad" mouth="neutral" />
 		<sjis>
 			ええ！？<end_line />
@@ -674,7 +674,7 @@
 	</dialogue>
 	<dialogue>
 		<info box="right" />
-		<portrait_l entry="elieze" eye="surprised" mouth="stressed" />
+		<portrait_l entry="eliez" eye="surprised" mouth="stressed" />
 		<portrait_r entry="jade" eye="serious" mouth="neutral" />
 		<sjis>
 			最近、本当に凶暴なはぐれが増えたしな<end_line />
@@ -689,7 +689,7 @@
 	</dialogue>
 	<dialogue>
 		<info box="right" />
-		<portrait_l entry="elieze" eye="surprised" mouth="stressed" />
+		<portrait_l entry="eliez" eye="surprised" mouth="stressed" />
 		<portrait_r entry="jade" eye="happy" mouth="neutral" />
 		<sjis>
 			そうだ、リュート岩窟には<end_line />
@@ -715,7 +715,7 @@
 	</dialogue>
 	<dialogue>
 		<info box="left" />
-		<portrait_l entry="elieze" eye="surprised_blush" mouth="talk" />
+		<portrait_l entry="eliez" eye="surprised_blush" mouth="talk" />
 		<portrait_r entry="jade" eye="happy" mouth="neutral" />
 		<sjis>
 			本当！？<end_line />
@@ -726,7 +726,7 @@
 	</dialogue>
 	<dialogue>
 		<info box="right" />
-		<portrait_l entry="elieze" eye="surprised_blush" mouth="talk" />
+		<portrait_l entry="eliez" eye="surprised_blush" mouth="talk" />
 		<portrait_r entry="jade" eye="decided" mouth="talk" />
 		<sjis>
 			ああ、たのむぜ！<end_line />
@@ -751,7 +751,7 @@
 	<dialogue>
 		<info box="right" />
 		<portrait_l entry="player" eye="serious" mouth="tense" />
-		<portrait_r entry="elieze" eye="sad" mouth="neutral" />
+		<portrait_r entry="eliez" eye="sad" mouth="neutral" />
 		<sjis>
 			だめ<three_dots />なの？<end_line />
 		</sjis>
@@ -781,7 +781,7 @@
 	<dialogue>
 		<info box="right" />
 		<portrait_l entry="player" eye="serious" mouth="neutral" />
-		<portrait_r entry="elieze" eye="sad" mouth="tense" />
+		<portrait_r entry="eliez" eye="sad" mouth="tense" />
 		<sjis>
 			だめ<three_dots />なんだ<three_dots /><end_line />
 		</sjis>
@@ -792,7 +792,7 @@
 	<dialogue>
 		<info box="left" />
 		<portrait_l entry="player" eye="sad" mouth="tense" />
-		<portrait_r entry="elieze" eye="sad" mouth="tense" />
+		<portrait_r entry="eliez" eye="sad" mouth="tense" />
 		<sjis>
 			う<three_dots /><end_line />
 			そんなカオされると<three_dots /><end_line />
@@ -814,7 +814,7 @@
 		</sjis>
 		<ascii>
 			Are You Trying<end_line />
-			To Hurt Elieze?<end_line />
+			To Hurt Eliez?<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -889,7 +889,7 @@
 	<dialogue>
 		<info box="right" />
 		<portrait_l entry="player" eye="happy" mouth="stressed" />
-		<portrait_r entry="elieze" eye="happy" mouth="talk" />
+		<portrait_r entry="eliez" eye="happy" mouth="talk" />
 		<sjis>
 			やったぁ！<end_line />
 			ありがとう、おにーちゃん<end_line />
@@ -903,7 +903,7 @@
 		<player gender="female" />
 		<info box="right" />
 		<portrait_l entry="player" eye="happy" mouth="stressed" />
-		<portrait_r entry="elieze" eye="happy" mouth="talk" />
+		<portrait_r entry="eliez" eye="happy" mouth="talk" />
 		<sjis>
 			ありがとう、おねーちゃん<end_line />
 		</sjis>
@@ -914,7 +914,7 @@
 	<dialogue>
 		<info box="left" />
 		<portrait_l entry="player" eye="neutral_blush" mouth="neutral" />
-		<portrait_r entry="elieze" eye="happy" mouth="talk" />
+		<portrait_r entry="eliez" eye="happy" mouth="talk" />
 		<male>
 			<sjis>
 				え、えへへ<three_dots /><end_line />
