@@ -9,8 +9,8 @@
   </sjis>
 </location>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="player">
+  <info box="simple" />
+  <portrait_l name="player" />
   <male>
     <sjis>
       ねらわれてるミューノをつれて<end_line />
@@ -32,7 +32,7 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
+  <info box="simple" />
   <sjis>
     何らかのメッセージ予定<end_line />
   </sjis>
@@ -41,8 +41,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="gatekeeper">
+  <info box="simple" />
+  <portrait_l name="gatekeeper" />
   <sjis>
     いつもの門番がカゼひいたから<end_line />
     今日はオレが代わりだよ<end_line />
@@ -55,8 +55,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="gatekeeper">
+  <info box="simple" />
+  <portrait_l name="gatekeeper" />
   <sjis>
     この先にはアカバネって<end_line />
     コワイはぐれがいるらしいけど<end_line />
@@ -69,7 +69,7 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
+  <info box="simple" />
   <sjis>
     わう！<end_line />
   </sjis>
@@ -78,7 +78,7 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
+  <info box="simple" />
   <sjis>
     この先のスレンジ採掘場には<end_line />
     凶悪なはぐれ召喚獣が出ます！<end_line />
@@ -91,7 +91,7 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
+  <info box="simple" />
   <sjis>
     何度武器で攻撃してもダメージが<end_line />
     １の場合には、魔法しか効かない<end_line />
@@ -104,7 +104,7 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
+  <info box="simple" />
   <sjis>
     下を見ろ↓<end_line />
   </sjis>
@@ -113,7 +113,7 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
+  <info box="simple" />
   <sjis>
     ↑上を見たい時は<end_line />
     ＳＴＡＲＴボタン<end_line />

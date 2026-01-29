@@ -10,7 +10,7 @@
 </location>
 ###Clerk
 <dialogue>
-  <info box="simple">
+  <info box="simple" />
   <sjis>
     ギャラハン工房からのお知らせ<end_line />
     カウンターに店員がいないときには<end_line />
@@ -23,8 +23,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="merchant">
+  <info box="simple" />
+  <portrait_l name="merchant" />
   <sjis>
     どっかに景気のいい話、<end_line />
     落ちてないかな～<end_line />

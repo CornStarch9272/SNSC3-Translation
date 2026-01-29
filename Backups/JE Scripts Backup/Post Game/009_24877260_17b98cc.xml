@@ -9,7 +9,7 @@
 	</sjis>
 </location>
 <dialogue>
-	<info box="simple">
+	<info box="simple" />
 	<sjis>
 		ギャラハン工房からのお知らせ<end_line />
 		カウンターに店員がいないときには<end_line />
@@ -22,7 +22,7 @@
  	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
+	<info box="simple" />
 	<sjis>
 		ゴロゴロ<three_dots /><end_line />
 	</sjis>

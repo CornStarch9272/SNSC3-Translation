@@ -1,6 +1,6 @@
 <dialogue>
-	<info box="simple">
-	<portrait_l name="lumberjack">
+	<info box="simple" />
+	<portrait_l name="lumberjack" />
 	<sjis>
 		マキ割りは簡単なようで奥が深い<end_line />
 	</sjis>
@@ -10,8 +10,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="lumberjack">
+	<info box="simple" />
+	<portrait_l name="lumberjack" />
 	<sjis>
 		マキ割りの基本が身についていれば<end_line />
 		おまえにもマキ割りをさせてやろう<end_line />

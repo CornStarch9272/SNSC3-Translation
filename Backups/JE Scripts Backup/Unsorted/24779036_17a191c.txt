@@ -4,8 +4,8 @@
 	</sjis>
 </location>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="man">
+	<info box="simple" />
+	<portrait_l name="man" />
 	<sjis>
 		外は何だか騒がしいみたいだね<end_line />
 	</sjis>

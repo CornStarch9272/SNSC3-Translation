@@ -1,7 +1,7 @@
 <dialogue>
-  <info box="right">
-  <portrait_l entry="player" eye="decided" mouth="serious">
-  <portrait_r entry="vee" eye="decided" mouth="tense">
+  <info box="right" />
+  <portrait_l entry="player" eye="decided" mouth="serious" />
+  <portrait_r entry="vee" eye="decided" mouth="tense" />
   <sjis>
     それがアンタが鍛冶師になるための<three_ots><end_line />
   </sjis>
@@ -10,9 +10,9 @@
   </ascii>	
 </dialogue>
 <bigtext>
-  <info box="right" effect="big">
-  <portrait_l entry="player" eye="decided" mouth="serious">
-  <portrait_r entry="vee" eye="decided" mouth="yell">
+  <info box="right" effect="big" />
+  <portrait_l entry="player" eye="decided" mouth="serious" />
+  <portrait_r entry="vee" eye="decided" mouth="yell" />
   <sjis>
     最終試験だ！<end_line />
   </sjis>

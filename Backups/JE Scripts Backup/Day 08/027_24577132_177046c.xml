@@ -9,8 +9,8 @@
   </sjis>
 </location>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="gatekeeper">
+  <info box="simple" />
+  <portrait_l name="gatekeeper" />
   <sjis>
     ギャラハンさんの奥さん<end_line />
     若くて、キレイだったよな<three_dots /><end_line />
@@ -23,8 +23,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="gatekeeper">
+  <info box="simple" />
+  <portrait_l name="gatekeeper" />
   <sjis>
     村中から冷やかされてたけど<end_line />
     あんな事になるなんて<three_dots /><end_line />
@@ -36,8 +36,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="child">
+  <info box="simple" />
+  <portrait_l name="child" />
   <sjis>
     ギャラハンさんは怒ると怖いけど<end_line />
     とてもやさしいんだよ<end_line />
@@ -48,8 +48,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="child">
+  <info box="simple" />
+  <portrait_l name="child" />
   <sjis>
     でも時々、ボクを見ながら<end_line />
     すごく、寂しそうな顔をするんだよ<end_line />

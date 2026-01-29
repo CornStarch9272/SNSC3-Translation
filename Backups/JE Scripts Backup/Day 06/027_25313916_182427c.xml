@@ -1,7 +1,7 @@
 <dialogue>
-  <info box="left">
-  <portrait_l entry="player" eye="surprised" mouth="tense">
-  <portrait_r entry="partner" eye="serious" mouth="serious">
+  <info box="left" />
+  <portrait_l entry="player" eye="surprised" mouth="tense" />
+  <portrait_r entry="partner" eye="serious" mouth="serious" />
   <male>
     <sjis>
       ここがヌシさまってヤツがいる<end_line />
@@ -23,10 +23,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="run-dor">
-  <info box="right">
-  <portrait_l entry="player" eye="surprised" mouth="tense">
-  <portrait_r entry="partner" eye="decided" mouth="yell">
+  <partner name="run-dor" />
+  <info box="right" />
+  <portrait_l entry="player" eye="surprised" mouth="tense" />
+  <portrait_r entry="partner" eye="decided" mouth="yell" />
   <sjis>
     みゅーの様ハ　地下ニイルノデ<end_line />
     下ニアル　トビラダト　思ワレマス<end_line />
@@ -39,10 +39,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="enzi">
-  <info box="right">
-  <portrait_l entry="player" eye="surprised" mouth="tense">
-  <portrait_r entry="partner" eye="decided" mouth="yell">
+  <partner name="enzi" />
+  <info box="right" />
+  <portrait_l entry="player" eye="surprised" mouth="tense" />
+  <portrait_r entry="partner" eye="decided" mouth="yell" />
   <sjis>
     ミューノは地下にいるのじゃから<end_line />
     下のトビラじゃろう！<end_line />
@@ -55,10 +55,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="killfith">
-  <info box="right">
-  <portrait_l entry="player" eye="surprised" mouth="tense">
-  <portrait_r entry="partner" eye="decided" mouth="yell">
+  <partner name="killfith" />
+  <info box="right" />
+  <portrait_l entry="player" eye="surprised" mouth="tense" />
+  <portrait_r entry="partner" eye="decided" mouth="yell" />
   <sjis>
     あいつは一番下に<end_line />
     いるんだったな<end_line />
@@ -70,10 +70,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="rufeel">
-  <info box="right">
-  <portrait_l entry="player" eye="surprised" mouth="tense">
-  <portrait_r entry="partner" eye="decided" mouth="yell">
+  <partner name="rufeel" />
+  <info box="right" />
+  <portrait_l entry="player" eye="surprised" mouth="tense" />
+  <portrait_r entry="partner" eye="decided" mouth="yell" />
   <sjis>
     ミューノ様は一番下の階ですから<end_line />
     絶対に下のトビラですわ！<end_line />

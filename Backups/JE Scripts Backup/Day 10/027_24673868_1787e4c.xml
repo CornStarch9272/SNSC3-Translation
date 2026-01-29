@@ -4,7 +4,7 @@
 	</sjis>
 </location>
 <dialogue>
-	<info box="simple">
+	<info box="simple" />
 	<sjis>
 		魔法で攻撃してもダメージが<end_line />
 		１の場合には、魔法が効かない<end_line />

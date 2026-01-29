@@ -9,15 +9,15 @@
 	</sjis>
 </location>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="player">
+	<info box="simple" />
+	<portrait_l name="player" />
 	<sjis>
 		みんなのところに戻らなくちゃ！<end_line />
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="shop_clerk">
+	<info box="simple" />
+	<portrait_l name="shop_clerk" />
 	<sjis>
 		何だかこの辺で仕事しなきゃ<end_line />
 		いけない気がしたんだが<end_line />
@@ -25,8 +25,8 @@
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="shop_clerk">
+	<info box="simple" />
+	<portrait_l name="shop_clerk" />
 	<sjis>
 		キミ何か買ってく？<end_line />
 	</sjis>

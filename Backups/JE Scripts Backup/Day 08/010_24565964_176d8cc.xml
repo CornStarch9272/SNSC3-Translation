@@ -7,8 +7,8 @@
 	</ascii>
 </location>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="man">
+	<info box="simple" />
+	<portrait_l name="man" />
 	<sjis>
 		金の派閥って言うけど<end_line />
 		中には、さらに派閥があるんだよね<end_line />
@@ -21,8 +21,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="man">
+	<info box="simple" />
+	<portrait_l name="man" />
 	<sjis>
 		え？どっちに入ってるかって？<end_line />
 		いちおうベルヴォレン派なんだけど<end_line />

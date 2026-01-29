@@ -4,8 +4,8 @@
   </sjis>
 </location>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="woman">
+  <info box="simple" />
+  <portrait_l name="woman" />
   <sjis>
     何かいい手はないかしら<three_dots /><end_line />
   </sjis>

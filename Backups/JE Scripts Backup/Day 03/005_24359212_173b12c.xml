@@ -9,7 +9,7 @@
 	</sjis>
 </location>
 <dialogue>
-	<info box="special">
+	<info box="special" />
 	<sjis>
 		ポータルはダンジョン内でアイテム<end_line />
 		「ポータルの欠片」を使用すると起動し<end_line />
@@ -22,7 +22,7 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="special">
+	<info box="special" />
 	<sjis>
 		再度ダンジョンへ戻る場合は、起動中の<end_line />
 		ポータルに向かいＡボタンを押すと<end_line />
@@ -35,7 +35,7 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="special">
+	<info box="special" />
 	<sjis>
 		起動中のポータルは一往復することで<end_line />
 		停止しますが村や町の出口から<end_line />
@@ -48,8 +48,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="murno">
+	<info box="simple" />
+	<portrait_l name="murno" />
 	<sjis>
 		プロスバンの町って<end_line />
 		どのくらい遠いのかしら？<end_line />
@@ -59,7 +59,7 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
+	<info box="simple" />
 	<sjis>
 		にゃん？<end_line />
 	</sjis>

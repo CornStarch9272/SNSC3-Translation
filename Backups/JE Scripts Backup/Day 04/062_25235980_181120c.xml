@@ -1,6 +1,6 @@
 <dialogue>
-  <info box="nobox">
-  <portrait_l name="tier">
+  <info box="nobox" />
+  <portrait_l name="tier" />
   <sjis>
     あ、<player_nickname />！<end_line />
   </sjis>
@@ -9,9 +9,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="right">
-  <portrait_l entry="player" eye="serious" mouth="serious">
-  <portrait_r entry="tier" eye="serious" mouth="stressed">
+  <info box="right" />
+  <portrait_l entry="player" eye="serious" mouth="serious" />
+  <portrait_r entry="tier" eye="serious" mouth="stressed" />
   <sjis>
     ここにいたんだ？<end_line />
     さがしたんだよ～！<end_line />
@@ -22,9 +22,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="left">
-  <portrait_l entry="player" eye="sad" mouth="tense">
-  <portrait_r entry="tier" eye="serious" mouth="stressed">
+  <info box="left" />
+  <portrait_l entry="player" eye="sad" mouth="tense" />
+  <portrait_r entry="tier" eye="serious" mouth="stressed" />
   <sjis>
     ああ、うん、ごめん<three_dots /><end_line />
     歩いてたら、なんとなく<end_line />
@@ -37,9 +37,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="right">
-  <portrait_l entry="player" eye="sad" mouth="tense">
-  <portrait_r entry="tier" eye="serious" mouth="tense">
+  <info box="right" />
+  <portrait_l entry="player" eye="sad" mouth="tense" />
+  <portrait_r entry="tier" eye="serious" mouth="tense" />
   <sjis>
     元気ないのね<end_line />
     工房に戻ってからずーっと悩んでる<end_line />
@@ -52,9 +52,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="left">
-  <portrait_l entry="player" eye="sad" mouth="serious">
-  <portrait_r entry="tier" eye="serious" mouth="tense">
+  <info box="left" />
+  <portrait_l entry="player" eye="sad" mouth="serious" />
+  <portrait_r entry="tier" eye="serious" mouth="tense" />
   <sjis>
     それは<three_dots /><end_line />
   </sjis>
@@ -63,9 +63,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="right">
-  <portrait_l entry="player" eye="sad" mouth="serious">
-  <portrait_r entry="tier" eye="sad" mouth="tense">
+  <info box="right" />
+  <portrait_l entry="player" eye="sad" mouth="serious" />
+  <portrait_r entry="tier" eye="sad" mouth="tense" />
   <male>
     <sjis>
       浮気なのね？<end_line />
@@ -84,9 +84,9 @@
   </female>
 </dialogue>
 <dialogue>
-  <info box="left">
-  <portrait_l entry="player" eye="surprised" mouth="yell">
-  <portrait_r entry="tier" eye="sad" mouth="tense">
+  <info box="left" />
+  <portrait_l entry="player" eye="surprised" mouth="yell" />
+  <portrait_r entry="tier" eye="sad" mouth="tense" />
   <sjis>
     はぁ？<end_line />
   </sjis>
@@ -95,9 +95,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="right">
-  <portrait_l entry="player" eye="surprised" mouth="yell">
-  <portrait_r entry="tier" eye="decided" mouth="stressed">
+  <info box="right" />
+  <portrait_l entry="player" eye="surprised" mouth="yell" />
+  <portrait_r entry="tier" eye="decided" mouth="stressed" />
   <sjis>
     とぼけたってダメなんだから！<end_line />
     エリエちゃんでしょ？<end_line />
@@ -108,9 +108,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="left">
-  <portrait_l entry="player" eye="surprised_blush" mouth="stressed">
-  <portrait_r entry="tier" eye="decided" mouth="stressed">
+  <info box="left" />
+  <portrait_l entry="player" eye="surprised_blush" mouth="stressed" />
+  <portrait_r entry="tier" eye="decided" mouth="stressed" />
   <sjis>
     えぇ！？<end_line />
   </sjis>
@@ -119,9 +119,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="right">
-  <portrait_l entry="player" eye="surprised_blush" mouth="stressed">
-  <portrait_r entry="tier" eye="decided" mouth="yell">
+  <info box="right" />
+  <portrait_l entry="player" eye="surprised_blush" mouth="stressed" />
+  <portrait_r entry="tier" eye="decided" mouth="yell" />
   <sjis>
     <player_nickname />はわたしといっしょに<end_line />
     ほほえみ亭で働くのよ<end_line />
@@ -134,9 +134,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="right">
-  <portrait_l entry="player" eye="surprised_blush" mouth="stressed">
-  <portrait_r entry="tier" eye="decided" mouth="serious">
+  <info box="right" />
+  <portrait_l entry="player" eye="surprised_blush" mouth="stressed" />
+  <portrait_r entry="tier" eye="decided" mouth="serious" />
   <sjis>
     あの日の誓いをわすれたなんて<end_line />
     言わせないんだから！<end_line />
@@ -147,9 +147,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="left">
-  <portrait_l entry="player" eye="happy_blush" mouth="yell">
-  <portrait_r entry="tier" eye="decided" mouth="serious">
+  <info box="left" />
+  <portrait_l entry="player" eye="happy_blush" mouth="yell" />
+  <portrait_r entry="tier" eye="decided" mouth="serious" />
   <male>
     <sjis>
       忘れたも何も<end_line />
@@ -169,9 +169,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="right">
-  <portrait_l entry="player" eye="happy_blush" mouth="yell">
-  <portrait_r entry="tier" eye="serious" mouth="talk">
+  <info box="right" />
+  <portrait_l entry="player" eye="happy_blush" mouth="yell" />
+  <portrait_r entry="tier" eye="serious" mouth="talk" />
   <sjis>
     ふふ<three_dots /><end_line />
     そうよ、<player_nickname />は<end_line />
@@ -184,9 +184,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="left">
-  <portrait_l entry="player" eye="surprised" mouth="tense">
-  <portrait_r entry="tier" eye="serious" mouth="talk">
+  <info box="left" />
+  <portrait_l entry="player" eye="surprised" mouth="tense" />
+  <portrait_r entry="tier" eye="serious" mouth="talk" />
   <sjis>
     え？<end_line />
   </sjis>
@@ -195,9 +195,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="right">
-  <portrait_l entry="player" eye="surprised" mouth="tense">
-  <portrait_r entry="tier" eye="happy" mouth="neutral">
+  <info box="right" />
+  <portrait_l entry="player" eye="surprised" mouth="tense" />
+  <portrait_r entry="tier" eye="happy" mouth="neutral" />
   <sjis>
     今みたいな時の方が、ずっと<end_line />
     <player_nickname />らしいってこと！<end_line />
@@ -210,9 +210,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="left">
-  <portrait_l entry="player" eye="serious" mouth="neutral">
-  <portrait_r entry="tier" eye="happy" mouth="neutral">
+  <info box="left" />
+  <portrait_l entry="player" eye="serious" mouth="neutral" />
+  <portrait_r entry="tier" eye="happy" mouth="neutral" />
   <sjis>
     なんかよくわからないけど<end_line />
     気分は軽くなった気がするよ<end_line />

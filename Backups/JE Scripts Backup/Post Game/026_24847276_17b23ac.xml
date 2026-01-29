@@ -4,8 +4,8 @@
 	</sjis>
 </location>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="man">
+	<info box="simple" />
+	<portrait_l name="man" />
 	<sjis>
 		ミミズが釣りエサなんて<end_line />
 		誰が決めたんだ？<end_line />
@@ -13,8 +13,8 @@
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="man">
+	<info box="simple" />
+	<portrait_l name="man" />
 	<sjis>
 		きっと食べたヤツもいる<three_dots /><end_line />
 		<three_dots />いるんじゃないかな<end_line />
@@ -22,27 +22,27 @@
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="simple">
+	<info box="simple" />
 	<sjis>
 		にゃーん<end_line />
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="simple">
+	<info box="simple" />
 	<sjis>
 		最近、とんでもなく大きな召喚獣の<end_line />
 		目撃情報が報告されています<end_line />
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="simple">
+	<info box="simple" />
 	<sjis>
 		ガン<three_dots />とか、ボル<three_dots />とかいう<end_line />
 		召喚獣だそうです<end_line />
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="simple">
+	<info box="simple" />
 	<sjis>
 		「福引き」であなたの運を<end_line />
 		試してみませんか？<end_line />
@@ -50,7 +50,7 @@
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="simple">
+	<info box="simple" />
 	<sjis>
 		何か困った事があっても<end_line />
 		気の持ちようでなんとかなったり<end_line />
@@ -58,7 +58,7 @@
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="simple">
+	<info box="simple" />
 	<sjis>
 		「気合だ！」ってエラい人も<end_line />
 		言ってたような気もするし<end_line />

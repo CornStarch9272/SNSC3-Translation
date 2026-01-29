@@ -1,6 +1,6 @@
 <dialogue>
-  <info box="simple">
-  <portrait_l name="fisherman">
+  <info box="simple" />
+  <portrait_l name="fisherman" />
   <sjis>
     基本は竿！<end_line />
     話はそれからだ<end_line />

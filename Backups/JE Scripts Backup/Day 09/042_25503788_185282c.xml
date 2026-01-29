@@ -1,7 +1,7 @@
 <dialogue>
-  <info box="right">
-  <portrait_l entry="vee" eye="decided" mouth="stressed">
-  <portrait_r entry="player" eye="decided" mouth="yell">
+  <info box="right" />
+  <portrait_l entry="vee" eye="decided" mouth="stressed" />
+  <portrait_r entry="player" eye="decided" mouth="yell" />
   <sjis>
     親方！<end_line />
   </sjis>
@@ -10,9 +10,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="left">
-  <portrait_l entry="vee" eye="decided" mouth="yell">
-  <portrait_r entry="player" eye="decided" mouth="yell">
+  <info box="left" />
+  <portrait_l entry="vee" eye="decided" mouth="yell" />
+  <portrait_r entry="player" eye="decided" mouth="yell" />
   <sjis>
     <player_nickname />！<end_line />
     気をつけな<end_line />
@@ -25,9 +25,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="run-dor">
-  <info box="right">
-  <portrait_r entry="partner" eye="decided" mouth="yell">
+  <partner name="run-dor" />
+  <info box="right" />
+  <portrait_r entry="partner" eye="decided" mouth="yell" />
   <sjis>
     来マス！<end_line />
   </sjis>
@@ -36,9 +36,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="enzi">
-  <info box="right">
-  <portrait_r entry="partner" eye="decided" mouth="yell">
+  <partner name="enzi" />
+  <info box="right" />
+  <portrait_r entry="partner" eye="decided" mouth="yell" />
   <sjis>
     くるぞ！<end_line />
   </sjis>
@@ -47,9 +47,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="killfith">
-  <info box="right">
-  <portrait_r entry="partner" eye="decided" mouth="yell">
+  <partner name="killfith" />
+  <info box="right" />
+  <portrait_r entry="partner" eye="decided" mouth="yell" />
   <sjis>
     きた！<end_line />
   </sjis>
@@ -58,9 +58,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="rufeel">
-  <info box="right">
-  <portrait_r entry="partner" eye="decided" mouth="yell">
+  <partner name="rufeel" />
+  <info box="right" />
+  <portrait_r entry="partner" eye="decided" mouth="yell" />
   <sjis>
     こ、こっちにきましたわ！<end_line />
   </sjis>
@@ -69,8 +69,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="right">
-  <portrait_r entry="player" eye="decided" mouth="yell">
+  <info box="right" />
+  <portrait_r entry="player" eye="decided" mouth="yell" />
   <male>
     <sjis>
       行くぞ！<end_line />

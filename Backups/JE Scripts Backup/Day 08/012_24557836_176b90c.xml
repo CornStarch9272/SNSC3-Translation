@@ -9,8 +9,8 @@
   </sjis>
 </location>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="player">
+  <info box="simple" />
+  <portrait_l name="player" />
   <male>
     <sjis>
       ねらわれてるミューノをつれて<end_line />
@@ -32,8 +32,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="gatekeeper">
+  <info box="simple" />
+  <portrait_l name="gatekeeper" />
   <sjis>
     このあたりも最近<end_line />
     ブッソウになってきたなぁ<three_dots /><end_line />
@@ -44,8 +44,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="man">
+  <info box="simple" />
+  <portrait_l name="man" />
   <sjis>
     召喚獣はやっぱり攻撃重視だよな<end_line />
     ただひたすら攻撃のために召喚する<end_line />
@@ -58,8 +58,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="man">
+  <info box="simple" />
+  <portrait_l name="man" />
   <sjis>
     オマエも、そう思うだろ<end_line />
   </sjis>
@@ -68,7 +68,7 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
+  <info box="simple" />
   <sjis>
     　　　プロスバンの町の創設者<end_line />
     　　　勇者プロスバンの石像<end_line />

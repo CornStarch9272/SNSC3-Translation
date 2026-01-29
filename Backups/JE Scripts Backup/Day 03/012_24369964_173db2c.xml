@@ -9,8 +9,8 @@
 	</sjis>
 </location>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="woman">
+	<info box="simple" />
+	<portrait_l name="woman" />
 	<sjis>
 		あちらこちらに弓矢の的みたいな物を<end_line />
 		付け回っている人がいるみたいだけど<end_line />

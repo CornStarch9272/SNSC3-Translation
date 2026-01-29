@@ -6,8 +6,8 @@
 #not sure if hes actually happy or sarcastically happy
 #considering how he was kinda a douche to the PC before, I'm going with sarcastic. Not 100% on this.
 <dialogue>
-  <info box="simple">
-  <portrait_l name="tram">
+  <info box="simple" />
+  <portrait_l name="tram" />
   <sjis>
     また会いに来てくれたのですね<end_line />
     うれしいなぁ<three_dots /><end_line />

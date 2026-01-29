@@ -9,8 +9,8 @@
 	</sjis>
 </location>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="child">
+	<info box="simple" />
+	<portrait_l name="child" />
 	<sjis>
 		なんか、さいきん<end_line />
 		ギャラハンさんがよく笑うんだ<end_line />
@@ -18,7 +18,7 @@
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="simple">
+	<info box="simple" />
 	<sjis>
 		ゴロゴロ<three_dots /><end_line />
 	</sjis>

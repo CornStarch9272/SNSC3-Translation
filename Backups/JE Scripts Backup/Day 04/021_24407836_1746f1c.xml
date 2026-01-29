@@ -4,7 +4,7 @@
 	</sjis>
 </location>
 <dialogue>
-	<info box="simple">
+	<info box="simple" />
 	<sjis>
 		　<end_line />
 		　　　　　<paw />探しています<paw /><end_line />
@@ -15,7 +15,7 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
+	<info box="simple" />
 	<sjis>
 		しましま模様のしっぽを<end_line />
 		持ったネコを探しています<end_line />

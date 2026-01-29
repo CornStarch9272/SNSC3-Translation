@@ -1,6 +1,6 @@
 <dialogue>
-	<info box="simple">
-	<portrait_r name="man">
+	<info box="simple" />
+	<portrait_r name="man" />
 	<sjis>
 		どうしたんだい？<end_line />
 	</sjis>
@@ -9,8 +9,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="left">
-	<portrait_l entry="player" eye="serious" mouth="tense">
+	<info box="left" />
+	<portrait_l entry="player" eye="serious" mouth="tense" />
 	<sjis>
 		宿屋のティエって子を<end_line />
 		さがしてるんですけど<three_dots /><end_line />
@@ -21,8 +21,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_r name="man">
+	<info box="simple" />
+	<portrait_r name="man" />
 	<sjis>
 		ああ<end_line />
 		ティエならさっきアッチの<end_line />
@@ -35,8 +35,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="left">
-	<portrait_l entry="player" eye="serious" mouth="neutral">
+	<info box="left" />
+	<portrait_l entry="player" eye="serious" mouth="neutral" />
 	<sjis>
 		そうですか<end_line />
 		ありがとう、行ってみます！<end_line />

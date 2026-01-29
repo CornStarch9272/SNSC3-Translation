@@ -1,5 +1,5 @@
 <dialogue>
-  <info box="nobox">
+  <info box="nobox" />
   <sjis>
     　　　ミシュース村で起きたことは　　<end_line />
     　　　金の派閥のエライ人たちと　　　<end_line />
@@ -12,8 +12,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <player gender="male">
-  <info box="nobox">
+  <player gender="male" />
+  <info box="nobox" />
   <sjis>
     　ベルヴォレンさんのリングヴァル家　<end_line />
     　　というところが、今回のコトを　　<end_line />
@@ -26,8 +26,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <player gender="male">
-  <info box="nobox">
+  <player gender="male" />
+  <info box="nobox" />
   <sjis>
     　　おかげで、ミューノたちのことも　<end_line />
     　　　　なんだかウヤムヤのまま　　　<end_line />
@@ -40,8 +40,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <player gender="male">
-  <info box="nobox">
+  <player gender="male" />
+  <info box="nobox" />
   <sjis>
     　　　　　金の派閥の人たちは　　　　<end_line />
     　　　ミシュース村を何度も調べに　　<end_line />
@@ -54,8 +54,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <player gender="male">
-  <info box="nobox">
+  <player gender="male" />
+  <info box="nobox" />
   <sjis>
     　　　　魔石も剣もなくなって　　　　<end_line />
     　遺跡も動かなくなってしまったので　<end_line />
@@ -68,8 +68,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <player gender="female">
-  <info box="nobox">
+  <player gender="female" />
+  <info box="nobox" />
   <sjis>
     　ベルヴォレンさんのリングヴァル家　<end_line />
     　　というところが、今回のコトを　　<end_line />
@@ -82,8 +82,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <player gender="female">
-  <info box="nobox">
+  <player gender="female" />
+  <info box="nobox" />
   <sjis>
     　おかげで、ミューノたちのことも　　<end_line />
     　　　なんだかウヤムヤのまま　　　　<end_line />
@@ -96,8 +96,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <player gender="female">
-  <info box="nobox">
+  <player gender="female" />
+  <info box="nobox" />
   <sjis>
     　　　　金の派閥の人たちは　　　　　<end_line />
     　　ミシュース村を何度も調べに　　　<end_line />
@@ -110,8 +110,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <player gender="female">
-  <info box="nobox">
+  <player gender="female" />
+  <info box="nobox" />
   <sjis>
     　　　　魔石も剣もなくなって　　　　<end_line />
     　遺跡も動かなくなってしまったので　<end_line />
@@ -124,7 +124,7 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="nobox">
+  <info box="nobox" />
   <sjis>
     　　　　まあ、ミューノたちが　　　　<end_line />
     　　　　落ちついてくらせるから　　　<end_line />
@@ -137,7 +137,7 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="nobox">
+  <info box="nobox" />
   <sjis>
     　　　　　　そんなワケで　　　　　　<end_line />
     　　ゴヴァンの魔石をめぐる冒険も　　<end_line />

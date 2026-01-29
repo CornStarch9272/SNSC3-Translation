@@ -4,8 +4,8 @@
   </sjis>
 </location>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="lemmy">
+  <info box="simple" />
+  <portrait_l name="lemmy" />
   <sjis>
     用がすんだのなら<end_line />
     早くどこかへ行ってもらえないかな<end_line />
@@ -16,8 +16,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="zakk">
+  <info box="simple" />
+  <portrait_l name="zakk" />
   <sjis>
     レミィさん<three_dots /><end_line />
   </sjis>
@@ -26,8 +26,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="zakk">
+  <info box="simple" />
+  <portrait_l name="zakk" />
   <sjis>
     <player_nickname />もレミィさんも<end_line />
     勝負だなんて<three_dots /><end_line />
@@ -38,7 +38,7 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
+  <info box="simple" />
   <sjis>
     召喚獣トロッコに乗車の際には<end_line />
     足下に十分ご注意下さい<end_line />

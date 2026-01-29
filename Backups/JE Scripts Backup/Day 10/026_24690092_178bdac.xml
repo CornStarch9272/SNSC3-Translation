@@ -9,7 +9,7 @@
 	</sjis>
 </location>
 <dialogue>
-	<info box="simple">
+	<info box="simple" />
 	<sjis>
 		旅先でケガをした経験はありませんか？<end_line />
 		そんな時にはＦエイド、何でもそろう<end_line />
@@ -22,8 +22,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="peddler's_mother">
+	<info box="simple" />
+	<portrait_l name="peddler's_mother" />
 	<sjis>
 		すごい鍛冶職人を発見したのよ<end_line />
 		この町にボスタフ親方って<end_line />
@@ -31,8 +31,8 @@
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="peddler's_mother">
+	<info box="simple" />
+	<portrait_l name="peddler's_mother" />
 	<sjis>
 		それが、とっても怖い人で<end_line />
 		話すら出来なかったのよね<end_line />
@@ -40,8 +40,8 @@
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="peddler's_mother">
+	<info box="simple" />
+	<portrait_l name="peddler's_mother" />
 	<sjis>
 		どうやら、奥さんがいなくなってから<end_line />
 		人が変わってしまったみたいね<end_line />

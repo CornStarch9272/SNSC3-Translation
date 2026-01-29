@@ -4,7 +4,7 @@
 	</sjis>
 </location>
 <dialogue>
-	<info box="simple">
+	<info box="simple" />
 	<sjis>
 		強くない武器には価値がない<end_line />
 		強い武器は強いマテルと<end_line />
@@ -12,7 +12,7 @@
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="simple">
+	<info box="simple" />
 	<sjis>
 		心が強くなければ強い武器は作れない<end_line />
 		そのためには日々心の鍛錬も<end_line />
@@ -20,8 +20,8 @@
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="man">
+	<info box="simple" />
+	<portrait_l name="man" />
 	<sjis>
 		あんだよ<end_line />
 		忙しいんだ<end_line />

@@ -9,8 +9,8 @@
 	</sjis>
 </location>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="murno">
+	<info box="simple" />
+	<portrait_l name="murno" />
 	<sjis>
 		なんだかまた、大変なことに<end_line />
 		なっちゃったけど<three_dots /><end_line />
@@ -22,8 +22,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="roche">
+	<info box="simple" />
+	<portrait_l name="roche" />
 	<sjis>
 		娘のこと、よろしくおねがいします<end_line />
 	</sjis>
@@ -33,7 +33,7 @@
 </dialogue>
 ###OtomeSecret
 <dialogue>
-	<info box="simple">
+	<info box="simple" />
 	<sjis>
 		ここから先は乙女の秘密<hearth /><end_line />
 		立ち入り禁止！！<end_line />
@@ -46,8 +46,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="peddler's_mother">
+	<info box="simple" />
+	<portrait_l name="peddler's_mother" />
 	<sjis>
 		あら、そのハンマーは鍛冶師ね<end_line />
 		私は鍛冶師や鍛冶職人を相手に会う<end_line />
@@ -60,8 +60,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="peddler's_mother">
+	<info box="simple" />
+	<portrait_l name="peddler's_mother" />
 	<sjis>
 		一人娘と一緒に旅をしてるけど<end_line />
 		今は、娘は何処かに遊びに出ていて<end_line />
@@ -74,8 +74,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="peddler's_mother">
+	<info box="simple" />
+	<portrait_l name="peddler's_mother" />
 	<sjis>
 		鍛冶の事には詳しいから何か<end_line />
 		知りたい事があったら聞いてね<end_line />
@@ -86,7 +86,7 @@
 	</ascii>
 </dialogue>
 <choice>
-	<info box="simple">
+	<info box="simple" />
 	<option>
 		<sjis>
 			作製について教えてほしい<end_line />
@@ -113,8 +113,8 @@
 	</option>
 </choice>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="peddler's_mother">
+	<info box="simple" />
+	<portrait_l name="peddler's_mother" />
 	<sjis>
 		じゃ、特別に良質の武器について<end_line />
 		教えてあげるね<end_line />
@@ -126,8 +126,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="peddler's_mother">
+	<info box="simple" />
+	<portrait_l name="peddler's_mother" />
 	<sjis>
 		作製でたまに、いつもの武器より<end_line />
 		良いものができる時があるの<end_line />
@@ -140,8 +140,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="peddler's_mother">
+	<info box="simple" />
+	<portrait_l name="peddler's_mother" />
 	<sjis>
 		良質の武器は、本来作製できる武器より<end_line />
 		パラメータが高くて、振りが速いとか<end_line />
@@ -154,8 +154,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="peddler's_mother">
+	<info box="simple" />
+	<portrait_l name="peddler's_mother" />
 	<sjis>
 		そうだ、鍛冶ランクを上げるための<end_line />
 		重要なポイントを教えてあげるね<end_line />
@@ -167,8 +167,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="peddler's_mother">
+	<info box="simple" />
+	<portrait_l name="peddler's_mother" />
 	<sjis>
 		鍛冶ランクに重要な鍛冶経験値だけど<end_line />
 		上がるかどうかは武器を作らないと<end_line />
@@ -181,8 +181,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="peddler's_mother">
+	<info box="simple" />
+	<portrait_l name="peddler's_mother" />
 	<sjis>
 		勢いよく大きな火花が出ていれば<end_line />
 		鍛冶経験値が入っているの<end_line />
@@ -195,8 +195,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="peddler's_mother">
+	<info box="simple" />
+	<portrait_l name="peddler's_mother" />
 	<sjis>
 		気が向いたらまた来てね<end_line />
 	</sjis>

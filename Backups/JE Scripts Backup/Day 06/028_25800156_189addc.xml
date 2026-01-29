@@ -9,7 +9,7 @@
   </sjis>
 </location>
 <dialogue>
-  <info box="special">
+  <info box="special" />
   <sjis>
     床にある３種類のスイッチをハンマーで<end_line />
     殴ることで、それぞれのスイッチに<end_line />

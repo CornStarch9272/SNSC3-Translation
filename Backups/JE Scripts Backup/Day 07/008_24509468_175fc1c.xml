@@ -9,8 +9,8 @@
   </sjis>
 </location>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="player">
+  <info box="simple" />
+  <portrait_l name="player" />
   <sjis>
     今はとにかく<end_line />
     アニスを連れてこないと！<end_line />
@@ -21,8 +21,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="player">
+  <info box="simple" />
+  <portrait_l name="player" />
   <sjis>
     今はとにかく<end_line />
     アニスを連れてこないと！<end_line />

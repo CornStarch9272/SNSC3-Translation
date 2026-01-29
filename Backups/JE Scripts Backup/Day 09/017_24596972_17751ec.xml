@@ -9,8 +9,8 @@
   </sjis>
 </location>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="woman">
+  <info box="simple" />
+  <portrait_l name="woman" />
   <sjis>
     あら、おかえり<end_line />
     町はどうだった？<end_line />

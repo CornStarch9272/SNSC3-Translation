@@ -9,7 +9,7 @@
 	</sjis>
 </location>
 <dialogue>
-	<info box="simple">
+	<info box="simple" />
 	<sjis>
 		何らかのメッセージ予定<end_line />
 	</sjis>

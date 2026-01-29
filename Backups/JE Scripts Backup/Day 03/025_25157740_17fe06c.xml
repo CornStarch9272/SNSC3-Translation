@@ -1,6 +1,6 @@
 <dialogue>
-	<info box="left">
-	<portrait_l entry="tier" eye="serious" mouth="neutral">
+	<info box="left" />
+	<portrait_l entry="tier" eye="serious" mouth="neutral" />
 	<sjis>
 		ここの階段を上れば<end_line />
 		地上に出られますよ～！<end_line />

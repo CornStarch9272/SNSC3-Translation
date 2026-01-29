@@ -1,5 +1,5 @@
 <dialogue>
-	<info box="nobox">
+	<info box="nobox" />
 	<sjis>
 		　　　　　　　そのとき　　　　　　　<end_line />
 		　たしかにミューノは笑ったんだけど　<end_line />
@@ -12,8 +12,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<partner name="run-dor">
-	<info box="nobox">
+	<partner name="run-dor" />
+	<info box="nobox" />
 	<sjis>
 		　　　　　なんとなくだけど　　　　　<end_line />
 		　　　　　今、<partner />が<end_line />

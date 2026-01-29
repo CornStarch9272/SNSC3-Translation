@@ -1,7 +1,7 @@
 <dialogue>
-  <info box="right">
-  <portrait_l entry="player" eye="decided" mouth="neutral">
-  <portrait_r entry="lemmy" eye="decided" mouth="talk">
+  <info box="right" />
+  <portrait_l entry="player" eye="decided" mouth="neutral" />
+  <portrait_r entry="lemmy" eye="decided" mouth="talk" />
   <sjis>
     とっておきの武器だったのに<three_dots /><end_line />
     僕ももっと鍛えなくちゃ<three_dots /><end_line />
@@ -12,9 +12,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="right">
-  <portrait_l entry="player" eye="sad" mouth="serious">
-  <portrait_r entry="lemmy" eye="decided" mouth="talk">
+  <info box="right" />
+  <portrait_l entry="player" eye="sad" mouth="serious" />
+  <portrait_r entry="lemmy" eye="decided" mouth="talk" />
   <sjis>
     何度も君には負けていられないよ<end_line />
   </sjis>
@@ -23,9 +23,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="right">
-  <portrait_l entry="player" eye="serious" mouth="neutral">
-  <portrait_r entry="lemmy" eye="serious" mouth="talk">
+  <info box="right" />
+  <portrait_l entry="player" eye="serious" mouth="neutral" />
+  <portrait_r entry="lemmy" eye="serious" mouth="talk" />
   <sjis>
     親方がいなくなって<end_line />
     色々忙しくなってるけど<end_line />
@@ -38,9 +38,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="right">
-  <portrait_l entry="player" eye="serious" mouth="neutral">
-  <portrait_r entry="lemmy" eye="decided" mouth="talk">
+  <info box="right" />
+  <portrait_l entry="player" eye="serious" mouth="neutral" />
+  <portrait_r entry="lemmy" eye="decided" mouth="talk" />
   <sjis>
     勝負の準備はできてるから<end_line />
     いつでも言ってよ<end_line />
@@ -51,9 +51,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="right">
-  <portrait_l entry="player" eye="serious" mouth="neutral">
-  <portrait_r entry="lemmy" eye="serious" mouth="neutral">
+  <info box="right" />
+  <portrait_l entry="player" eye="serious" mouth="neutral" />
+  <portrait_r entry="lemmy" eye="serious" mouth="neutral" />
   <sjis>
     あの<three_dots />、親方がいなくなって<end_line />
     色々忙しくなってるんだけど<end_line />
@@ -66,9 +66,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="right">
-  <portrait_l entry="player" eye="serious" mouth="neutral">
-  <portrait_r entry="lemmy" eye="decided" mouth="talk">
+  <info box="right" />
+  <portrait_l entry="player" eye="serious" mouth="neutral" />
+  <portrait_r entry="lemmy" eye="decided" mouth="talk" />
   <sjis>
     その顔、良い武器ができたみたいだね<end_line />
     僕のとっておきと勝負してみるかい？<end_line />
@@ -79,9 +79,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="right">
-  <portrait_l entry="player" eye="serious" mouth="neutral">
-  <portrait_r entry="lemmy" eye="serious" mouth="tense">
+  <info box="right" />
+  <portrait_l entry="player" eye="serious" mouth="neutral" />
+  <portrait_r entry="lemmy" eye="serious" mouth="tense" />
   <sjis>
     なんだい、その顔<three_dots /><end_line />
     もしかして<three_dots /><end_line />
@@ -92,9 +92,9 @@
   </ascii>
 </dialogue>
 <choice>
-  <info box="left">
-  <portrait_l entry="player" eye="serious" mouth="neutral">
-  <portrait_r entry="lemmy" eye="serious" mouth="tense">
+  <info box="left" />
+  <portrait_l entry="player" eye="serious" mouth="neutral" />
+  <portrait_r entry="lemmy" eye="serious" mouth="tense" />
   <option>
     <sjis>
       勝負しよう<end_line />
@@ -113,8 +113,8 @@
   </option>
 </choice>
 <dialogue>
-  <info box="right">
-  <portrait_r name="lemmy">
+  <info box="right" />
+  <portrait_r name="lemmy" />
   <sjis>
     そう<end_line />
     じゃ、また<end_line />

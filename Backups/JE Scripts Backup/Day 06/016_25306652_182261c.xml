@@ -1,6 +1,6 @@
 <dialogue>
-  <info box="left">
-  <portrait_l entry="player" eye="decided" mouth="yell">
+  <info box="left" />
+  <portrait_l entry="player" eye="decided" mouth="yell" />
   <sjis>#89
     ごめんなさい<end_line />
     こわします！<end_line />
@@ -11,8 +11,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="left">
-  <portrait_l entry="player" eye="serious" mouth="talk">
+  <info box="left" />
+  <portrait_l entry="player" eye="serious" mouth="talk" />
   <male>
     <sjis>
       よし、開いたぞ！<end_line />
@@ -31,9 +31,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="run-dor">
-  <info box="simple">
-  <portrait_r name="partner">
+  <partner name="run-dor" />
+  <info box="simple" />
+  <portrait_r name="partner" />
   <sjis>
     了解デス<end_line />
   </sjis>
@@ -42,9 +42,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="enzi">
-  <info box="simple">
-  <portrait_r name="partner">
+  <partner name="enzi" />
+  <info box="simple" />
+  <portrait_r name="partner" />
   <sjis>
     助かった！<end_line />
   </sjis>
@@ -53,9 +53,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="killfith">
-  <info box="simple">
-  <portrait_r name="partner">
+  <partner name="killfith" />
+  <info box="simple" />
+  <portrait_r name="partner" />
   <sjis>
     おそいぞ<end_line />
   </sjis>
@@ -64,9 +64,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="rufeel">
-  <info box="simple">
-  <portrait_r name="partner">
+  <partner name="rufeel" />
+  <info box="simple" />
+  <portrait_r name="partner" />
   <sjis>
     はい！<end_line />
   </sjis>
@@ -75,9 +75,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="right">
-  <portrait_l entry="partner" eye="serious" mouth="neutral">
-  <portrait_r entry="player" eye="decided" mouth="neutral">
+  <info box="right" />
+  <portrait_l entry="partner" eye="serious" mouth="neutral" />
+  <portrait_r entry="player" eye="decided" mouth="neutral" />
   <male>
     <sjis>
       待ってろ！<end_line />
@@ -96,10 +96,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="run-dor">
-  <info box="left">
-  <portrait_l entry="partner" eye="happy" mouth="neutral">
-  <portrait_r entry="player" eye="decided" mouth="neutral">
+  <partner name="run-dor" />
+  <info box="left" />
+  <portrait_l entry="partner" eye="happy" mouth="neutral" />
+  <portrait_r entry="player" eye="decided" mouth="neutral" />
   <sjis>
     アリガトウゴザイマス<end_line />
   </sjis>
@@ -108,10 +108,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="enzi">
-  <info box="left">
-  <portrait_l entry="partner" eye="happy" mouth="neutral">
-  <portrait_r entry="player" eye="decided" mouth="neutral">
+  <partner name="enzi" />
+  <info box="left" />
+  <portrait_l entry="partner" eye="happy" mouth="neutral" />
+  <portrait_r entry="player" eye="decided" mouth="neutral" />
   <sjis>
     すまぬ！<end_line />
   </sjis>
@@ -120,10 +120,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="killfith">
-  <info box="left">
-  <portrait_l entry="partner" eye="happy" mouth="neutral">
-  <portrait_r entry="player" eye="decided" mouth="neutral">
+  <partner name="killfith" />
+  <info box="left" />
+  <portrait_l entry="partner" eye="happy" mouth="neutral" />
+  <portrait_r entry="player" eye="decided" mouth="neutral" />
   <sjis>
     さっさとしろ！<end_line />
   </sjis>
@@ -132,10 +132,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="rufeel">
-  <info box="left">
-  <portrait_l entry="partner" eye="happy" mouth="neutral">
-  <portrait_r entry="player" eye="decided" mouth="neutral">
+  <partner name="rufeel" />
+  <info box="left" />
+  <portrait_l entry="partner" eye="happy" mouth="neutral" />
+  <portrait_r entry="player" eye="decided" mouth="neutral" />
   <sjis>
     ありがとうございます<end_line />
   </sjis>
@@ -144,9 +144,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="right">
-  <portrait_l entry="partner" eye="serious" mouth="tense">
-  <portrait_r entry="player" eye="decided" mouth="serious">
+  <info box="right" />
+  <portrait_l entry="partner" eye="serious" mouth="tense" />
+  <portrait_r entry="player" eye="decided" mouth="serious" />
   <male>
     <sjis>
       よーし、待ってろ<three_dots /><end_line />
@@ -168,9 +168,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="left">
-  <portrait_l entry="partner" eye="decided" mouth="serious">
-  <portrait_r entry="player" eye="decided" mouth="serious">
+  <info box="left" />
+  <portrait_l entry="partner" eye="decided" mouth="serious" />
+  <portrait_r entry="player" eye="decided" mouth="serious" />
   <sjis>
     <three_dots /><end_line />
   </sjis>
@@ -179,9 +179,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="right">
-  <portrait_l entry="partner" eye="decided" mouth="serious">
-  <portrait_r entry="player" eye="sad" mouth="tense">
+  <info box="right" />
+  <portrait_l entry="partner" eye="decided" mouth="serious" />
+  <portrait_r entry="player" eye="sad" mouth="tense" />
   <sjis>
     ここを<three_dots />こうして<three_dots /><end_line />
     あれ？<end_line />
@@ -194,9 +194,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="left">
-  <portrait_l entry="partner" eye="sad" mouth="tense">
-  <portrait_r entry="player" eye="sad" mouth="tense">
+  <info box="left" />
+  <portrait_l entry="partner" eye="sad" mouth="tense" />
+  <portrait_r entry="player" eye="sad" mouth="tense" />
   <sjis>
     <three_dots /><end_line />
   </sjis>
@@ -205,9 +205,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="right">
-  <portrait_l entry="partner" eye="sad" mouth="tense">
-  <portrait_r entry="player" eye="happy" mouth="yell">
+  <info box="right" />
+  <portrait_l entry="partner" eye="sad" mouth="tense" />
+  <portrait_r entry="player" eye="happy" mouth="yell" />
   <male>
     <sjis>
       あ～！　もういいや<end_line />
@@ -234,10 +234,10 @@
   </female>
 </dialogue>
 <dialogue>
-  <partner name="run-dor">
-  <info box="left">
-  <portrait_l entry="partner" eye="surprised" mouth="yell">
-  <portrait_r entry="player" eye="happy" mouth="yell">
+  <partner name="run-dor" />
+  <info box="left" />
+  <portrait_l entry="partner" eye="surprised" mouth="yell" />
+  <portrait_r entry="player" eye="happy" mouth="yell" />
   <sjis>
     気ヲツケテクダサ<three_dots /><end_line />
   </sjis>
@@ -246,10 +246,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="enzi">
-  <info box="left">
-  <portrait_l entry="partner" eye="surprised" mouth="yell">
-  <portrait_r entry="player" eye="happy" mouth="yell">
+  <partner name="enzi" />
+  <info box="left" />
+  <portrait_l entry="partner" eye="surprised" mouth="yell" />
+  <portrait_r entry="player" eye="happy" mouth="yell" />
   <sjis>
     おい、気をつけて<three_dots /><end_line />
   </sjis>
@@ -258,10 +258,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="killfith">
-  <info box="left">
-  <portrait_l entry="partner" eye="surprised" mouth="yell">
-  <portrait_r entry="player" eye="happy" mouth="yell">
+  <partner name="killfith" />
+  <info box="left" />
+  <portrait_l entry="partner" eye="surprised" mouth="yell" />
+  <portrait_r entry="player" eye="happy" mouth="yell" />
   <sjis>
     おい、気をつけて<three_dots /><end_line />
   </sjis>
@@ -270,10 +270,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="rufeel">
-  <info box="left">
-  <portrait_l entry="partner" eye="surprised" mouth="yell">
-  <portrait_r entry="player" eye="happy" mouth="yell">
+  <partner name="rufeel" />
+  <info box="left" />
+  <portrait_l entry="partner" eye="surprised" mouth="yell" />
+  <portrait_r entry="player" eye="happy" mouth="yell" />
   <sjis>
     気をつけてくださ<three_dots /><end_line />
   </sjis>
@@ -282,9 +282,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="right">
-  <portrait_l entry="partner" eye="surprised" mouth="yell">
-  <portrait_r entry="player" eye="decided" mouth="serious">
+  <info box="right" />
+  <portrait_l entry="partner" eye="surprised" mouth="yell" />
+  <portrait_r entry="player" eye="decided" mouth="serious" />
   <sjis>
     えい！<end_line />
   </sjis>
@@ -293,9 +293,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="right">
-  <portrait_l entry="partner" eye="surprised" mouth="tense">
-  <portrait_r entry="player" eye="serious" mouth="neutral">
+  <info box="right" />
+  <portrait_l entry="partner" eye="surprised" mouth="tense" />
+  <portrait_r entry="player" eye="serious" mouth="neutral" />
   <sjis>
     よっし、やった！<end_line />
   </sjis>
@@ -304,10 +304,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="run-dor">
-  <info box="left">
-  <portrait_l entry="partner" eye="happy" mouth="yell">
-  <portrait_r entry="player" eye="serious" mouth="neutral">
+  <partner name="run-dor" />
+  <info box="left" />
+  <portrait_l entry="partner" eye="happy" mouth="yell" />
+  <portrait_r entry="player" eye="serious" mouth="neutral" />
   <sjis>
     モウ少シ　シンチョウニ<end_line />
     コワシテ欲シカッタデス<end_line />
@@ -318,10 +318,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="enzi">
-  <info box="left">
-  <portrait_l entry="partner" eye="happy" mouth="yell">
-  <portrait_r entry="player" eye="serious" mouth="neutral">
+  <partner name="enzi" />
+  <info box="left" />
+  <portrait_l entry="partner" eye="happy" mouth="yell" />
+  <portrait_r entry="player" eye="serious" mouth="neutral" />
   <sjis>
     おぬし、こわすにしても<end_line />
     もう少しシンチョウにやらんか！<end_line />
@@ -332,10 +332,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="killfith">
-  <info box="left">
-  <portrait_l entry="partner" eye="happy" mouth="yell">
-  <portrait_r entry="player" eye="serious" mouth="neutral">
+  <partner name="killfith" />
+  <info box="left" />
+  <portrait_l entry="partner" eye="happy" mouth="yell" />
+  <portrait_r entry="player" eye="serious" mouth="neutral" />
   <sjis>
     キサマ、こわすにしても<end_line />
     もう少しやり方があるだろう<end_line />
@@ -346,10 +346,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="rufeel">
-  <info box="left">
-  <portrait_l entry="partner" eye="happy" mouth="yell">
-  <portrait_r entry="player" eye="serious" mouth="neutral">
+  <partner name="rufeel" />
+  <info box="left" />
+  <portrait_l entry="partner" eye="happy" mouth="yell" />
+  <portrait_r entry="player" eye="serious" mouth="neutral" />
   <sjis>
     あぶないじゃないですか！<end_line />
     もう少しシンチョウに<end_line />
@@ -362,10 +362,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <player gender="male">
-  <info box="right">
-  <portrait_l entry="partner" eye="happy" mouth="yell">
-  <portrait_r entry="player" eye="decided" mouth="neutral">
+  <player gender="male" />
+  <info box="right" />
+  <portrait_l entry="partner" eye="happy" mouth="yell" />
+  <portrait_r entry="player" eye="decided" mouth="neutral" />
   <sjis>
     そんなことよりミューノは<end_line />
     村はずれにあるレクイの水遺跡の<end_line />
@@ -378,10 +378,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <player gender="male">
-  <info box="right">
-  <portrait_l entry="partner" eye="happy" mouth="yell">
-  <portrait_r entry="player" eye="decided" mouth="yell">
+  <player gender="male" />
+  <info box="right" />
+  <portrait_l entry="partner" eye="happy" mouth="yell" />
+  <portrait_r entry="player" eye="decided" mouth="yell" />
   <sjis>
     急ごう！<end_line />
   </sjis>
@@ -390,10 +390,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <player gender="female">
-  <info box="right">
-  <portrait_l entry="partner" eye="happy" mouth="yell">
-  <portrait_r entry="player" eye="decided" mouth="neutral">
+  <player gender="female" />
+  <info box="right" />
+  <portrait_l entry="partner" eye="happy" mouth="yell" />
+  <portrait_r entry="player" eye="decided" mouth="neutral" />
   <sjis>
     そんなことよりミューノは<end_line />
     村はずれにあるレクイの水遺跡の<end_line />
@@ -406,10 +406,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <player gender="female">
-  <info box="right">
-  <portrait_l entry="partner" eye="happy" mouth="yell">
-  <portrait_r entry="player" eye="decided" mouth="yell">
+  <player gender="female" />
+  <info box="right" />
+  <portrait_l entry="partner" eye="happy" mouth="yell" />
+  <portrait_r entry="player" eye="decided" mouth="yell" />
   <sjis>
     急ぎましょ！<end_line />
   </sjis>

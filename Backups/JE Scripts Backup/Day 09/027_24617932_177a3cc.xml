@@ -9,8 +9,8 @@
   </sjis>
 </location>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="man">
+  <info box="simple" />
+  <portrait_l name="man" />
   <sjis>
     アカバネを倒した子供がいるらしい<end_line />
   </sjis>
@@ -20,8 +20,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="man">
+  <info box="simple" />
+  <portrait_l name="man" />
   <sjis>
     それはもう、鬼のような形相で<end_line />
     とても子供とは思えない凶暴なヤツ<end_line />
@@ -34,7 +34,7 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
+  <info box="simple" />
   <sjis>
     みぃ～<end_line />
   </sjis>
@@ -43,7 +43,7 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
+  <info box="simple" />
   <sjis>
     　　　プロスバンの町の創設者<end_line />
     　　　勇者プロスバンの石像<end_line />

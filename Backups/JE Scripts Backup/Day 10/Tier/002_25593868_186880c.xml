@@ -1,7 +1,7 @@
 <dialogue>
-  <info box="right">
-  <portrait_l entry="player" eye="serious" mouth="tense">
-  <portrait_r entry="tier" eye="serious" mouth="neutral">
+  <info box="right" />
+  <portrait_l entry="player" eye="serious" mouth="tense" />
+  <portrait_r entry="tier" eye="serious" mouth="neutral" />
   <sjis>
     どう<player_nickname />？<end_line />
     勝負の準備はできたの？<end_line />
@@ -12,9 +12,9 @@
   </ascii>
 </dialogue>
 <choice>
-  <info box="left">
-  <portrait_l entry="player" eye="serious" mouth="serious">
-  <portrait_r entry="tier" eye="serious" mouth="neutral">
+  <info box="left" />
+  <portrait_l entry="player" eye="serious" mouth="serious" />
+  <portrait_r entry="tier" eye="serious" mouth="neutral" />
   <male>
     <option>
       <sjis>
@@ -45,9 +45,9 @@
   </option>
 </choice>
 <dialogue>
-  <info box="right">
-  <portrait_l entry="player" eye="serious" mouth="serious">
-  <portrait_r entry="tier" eye="decided" mouth="neutral">
+  <info box="right" />
+  <portrait_l entry="player" eye="serious" mouth="serious" />
+  <portrait_r entry="tier" eye="decided" mouth="neutral" />
   <sjis>
     かくごしなさいよ！<end_line />
   </sjis>
@@ -56,9 +56,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="right">
-  <portrait_l entry="player" eye="serious" mouth="serious">
-  <portrait_r entry="thus" eye="sad" mouth="serious">
+  <info box="right" />
+  <portrait_l entry="player" eye="serious" mouth="serious" />
+  <portrait_r entry="thus" eye="sad" mouth="serious" />
   <male>
     <sjis>
       <player_nickname />くん<three_dots />！<end_line />
@@ -74,9 +74,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="left">
-  <portrait_l entry="player" eye="decided" mouth="serious">
-  <portrait_r entry="thus" eye="sad" mouth="serious">
+  <info box="left" />
+  <portrait_l entry="player" eye="decided" mouth="serious" />
+  <portrait_r entry="thus" eye="sad" mouth="serious" />
   <male>
     <sjis>
       そうだ<three_dots /><end_line />

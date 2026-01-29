@@ -9,8 +9,8 @@
 	</sjis>
 </location>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="gatekeeper">
+	<info box="simple" />
+	<portrait_l name="gatekeeper" />
 	<sjis>
 		ん？　今日はひとりかい？<end_line />
 	</sjis>
@@ -19,8 +19,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="man">
+	<info box="simple" />
+	<portrait_l name="man" />
 	<sjis>
 		なんか最近のデートは<end_line />
 		お互いに全力でぶつかり合うのが<end_line />
@@ -28,7 +28,7 @@
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="simple">
+	<info box="simple" />
 	<sjis>
 		敵に後ろを取られちゃいけない<end_line />
 		背後攻撃はとてもキケンです<end_line />

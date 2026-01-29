@@ -4,8 +4,8 @@
 	</sjis>
 </location>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="murno">
+	<info box="simple" />
+	<portrait_l name="murno" />
 	<sjis>
 		ヴィーさんとの勝負、がんばってね<end_line />
 	</sjis>

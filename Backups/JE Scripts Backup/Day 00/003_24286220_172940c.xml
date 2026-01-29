@@ -11,8 +11,8 @@
 </location>
 #Deckell Village - Plaza
 <dialogue>
-  <info box="simple">
-  <portrait_l name="player">
+  <info box="simple" />
+  <portrait_l name="player" />
   <male>
     <sjis>
       外に行く用はないな<three_dots /><end_line />
@@ -28,8 +28,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="gatekeeper">
+  <info box="simple" />
+  <portrait_l name="gatekeeper" />
   <sjis>
     今日も修行か？<end_line />
     がんばりな！<end_line />
@@ -40,8 +40,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="woman">
+  <info box="simple" />
+  <portrait_l name="woman" />
   <sjis>
     世の中には<end_line />
     ２種類の人がいると思うの<end_line />
@@ -52,8 +52,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="woman">
+  <info box="simple" />
+  <portrait_l name="woman" />
   <sjis>
     猫が好きな人と<end_line />
     そうじゃない人よ<end_line />
@@ -66,8 +66,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="child">
+  <info box="simple" />
+  <portrait_l name="child" />
   <sjis>
     おおきくなったら<end_line />
     けんしになって<end_line />

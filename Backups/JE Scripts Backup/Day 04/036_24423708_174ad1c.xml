@@ -4,14 +4,14 @@
 	</sjis>
 </location>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="player">
+	<info box="simple" />
+	<portrait_l name="player" />
 	<sjis>
 		これは賞品じゃないのかな？<end_line />
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="simple">
+	<info box="simple" />
 	<sjis>
 		当店をご利用のお客様へ<end_line />
 		福引き券１枚につき１回の福引きが<end_line />

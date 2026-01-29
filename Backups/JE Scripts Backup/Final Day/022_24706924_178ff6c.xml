@@ -9,15 +9,15 @@
 	</sjis>
 </location>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="elderly">
+	<info box="simple" />
+	<portrait_l name="elderly" />
 	<sjis>
 		小豆は体にええぞぉ<end_line />
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="child">
+	<info box="simple" />
+	<portrait_l name="child" />
 	<sjis>
 		かじしは、こわいおやかたがいるから<end_line />
 		おおきくなったら<end_line />
@@ -25,13 +25,13 @@
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="simple">
+	<info box="simple" />
 	<sjis>
 		<three_dots /><end_line />
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="simple">
+	<info box="simple" />
 	<sjis>
 		ゴロゴロ<three_dots /><end_line />
 	</sjis>

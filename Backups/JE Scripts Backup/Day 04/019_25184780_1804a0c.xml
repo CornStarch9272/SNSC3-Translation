@@ -1,6 +1,6 @@
 <dialogue>
-  <info box="right">
-  <portrait_r entry="jade" eye="serious" mouth="tense">
+  <info box="right" />
+  <portrait_r entry="jade" eye="serious" mouth="tense" />
   <sjis>
     金の派閥はこの先の突き当たりを<end_line />
     曲がった奥だ<three_dots /><end_line />

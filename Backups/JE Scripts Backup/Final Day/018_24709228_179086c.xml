@@ -9,16 +9,16 @@
 	</sjis>
 </location>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="man">
+	<info box="simple" />
+	<portrait_l name="man" />
 	<sjis>
 		ザックとか言う工房の見習いが<end_line />
 		大けがしたって話だ<end_line />
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="man">
+	<info box="simple" />
+	<portrait_l name="man" />
 	<sjis>
 		ほんと、世の中<end_line />
 		あぶなくってしょうがない<end_line />

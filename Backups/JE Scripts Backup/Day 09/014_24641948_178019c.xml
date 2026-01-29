@@ -9,8 +9,8 @@
 	</sjis>
 </location>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="gallahan">
+	<info box="simple" />
+	<portrait_l name="gallahan" />
 	<sjis>
 		いい鍛冶師になりたいのなら<end_line />
 		迷いは禁物だぞ<end_line />
@@ -24,7 +24,7 @@
 </dialogue>
 ###Clerk
 <dialogue>
-	<info box="simple">
+	<info box="simple" />
 	<sjis>
 		ギャラハン工房からのお知らせ<end_line />
 		カウンターに店員がいないときには<end_line />
@@ -37,8 +37,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="peddler's_mother">
+	<info box="simple" />
+	<portrait_l name="peddler's_mother" />
 	<sjis>
 		私はね、すごい鍛冶師を捜しているの<end_line />
 		そんな鍛冶師と一緒に商売が出来たら<end_line />
@@ -52,8 +52,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="peddler's_mother">
+	<info box="simple" />
+	<portrait_l name="peddler's_mother" />
 	<sjis>
 		娘にも安心して生活がさせて<end_line />
 		あげられると思うの<end_line />
@@ -64,8 +64,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="peddler's_mother">
+	<info box="simple" />
+	<portrait_l name="peddler's_mother" />
 	<sjis>
 		どこかに、すごい鍛冶師はいないかな～<end_line />
 	</sjis>
@@ -75,8 +75,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="merchant">
+	<info box="simple" />
+	<portrait_l name="merchant" />
 	<sjis>
 		どっかに景気のいい話、<end_line />
 		落ちてないかな～<end_line />

@@ -1,5 +1,5 @@
 <dialogue>
-  <info box="special">
+  <info box="special" />
   <sjis>
     ポータルは起動していません<end_line />
   </sjis>

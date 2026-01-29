@@ -1,6 +1,6 @@
 <dialogue>
-  <info box="simple">
-  <portrait_l name="elderly">
+  <info box="simple" />
+  <portrait_l name="elderly" />
   <sjis>
     <weapon_type />が欲しいのう<end_line />
   </sjis>
@@ -9,8 +9,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="elderly">
+  <info box="simple" />
+  <portrait_l name="elderly" />
   <sjis>
     おぬしが持っている<end_line />
     その<weapon_type />と<end_line />
@@ -20,8 +20,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="elderly">
+  <info box="simple" />
+  <portrait_l name="elderly" />
   <sjis>
     <weapon_type />を<end_line />
     交換してくれぬかのう<end_line />
@@ -58,8 +58,8 @@
   </option>
 </menu>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="elderly">
+  <info box="simple" />
+  <portrait_l name="elderly" />
   <sjis>
     ほんに、エエもん、ありがたいのう<end_line />
   </sjis>
@@ -68,8 +68,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="elderly">
+  <info box="simple" />
+  <portrait_l name="elderly" />
   <sjis>
     ほんに、エエもん、ありがたいのう<end_line />
   </sjis>
@@ -78,8 +78,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="child">
+  <info box="simple" />
+  <portrait_l name="child" />
   <sjis>
     <weapon_type />、<end_line />
     <weapon_type /><three_dots /><end_line />
@@ -90,8 +90,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="child">
+  <info box="simple" />
+  <portrait_l name="child" />
   <sjis>
     その<weapon_type />と<end_line />
   </sjis>
@@ -100,8 +100,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="child">
+  <info box="simple" />
+  <portrait_l name="child" />
   <sjis>
     ボクの<weapon_type /><end_line />
     かえっこしない？<end_line />
@@ -137,8 +137,8 @@
   </option>
 </menu>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="child">
+  <info box="simple" />
+  <portrait_l name="child" />
   <sjis>
     いしし<three_dots />、絶対ボクの勝ち<end_line />
   </sjis>
@@ -147,8 +147,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="child">
+  <info box="simple" />
+  <portrait_l name="child" />
   <sjis>
     いしし<three_dots />、絶対ボクの勝ち<end_line />
   </sjis>
@@ -157,8 +157,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="woman">
+  <info box="simple" />
+  <portrait_l name="woman" />
   <sjis>
     どこかに<weapon_type /><end_line />
     持っている人いないかしら<end_line />
@@ -169,8 +169,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="woman">
+  <info box="simple" />
+  <portrait_l name="woman" />
   <sjis>
     ねぇ、きみが持っている<end_line />
     その<weapon_type />と<end_line />
@@ -181,8 +181,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="woman">
+  <info box="simple" />
+  <portrait_l name="woman" />
   <sjis>
     ワタシの<weapon_type />を<end_line />
     交換しない？<end_line />
@@ -218,8 +218,8 @@
   </option>
 </menu>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="woman">
+  <info box="simple" />
+  <portrait_l name="woman" />
   <sjis>
     ちょっと、損した気がするわ<end_line />
   </sjis>
@@ -228,8 +228,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="woman">
+  <info box="simple" />
+  <portrait_l name="woman" />
   <sjis>
     ちょっと、損した気がするわ<end_line />
   </sjis>
@@ -238,8 +238,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="child">
+  <info box="simple" />
+  <portrait_l name="child" />
   <sjis>
     ねぇ、<weapon_type /><end_line />
     持ってない？<end_line />
@@ -249,8 +249,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="child">
+  <info box="simple" />
+  <portrait_l name="child" />
   <sjis>
     ねぇ、その<weapon_type />と<end_line />
   </sjis>
@@ -259,8 +259,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="child">
+  <info box="simple" />
+  <portrait_l name="child" />
   <sjis>
     ワタシの<weapon_type />、<end_line />
     交換してよ？<end_line />
@@ -296,8 +296,8 @@
   </option>
 </menu>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="child">
+  <info box="simple" />
+  <portrait_l name="child" />
   <sjis>
     これが、欲しかったのよ<end_line />
     損してないから<end_line />
@@ -308,8 +308,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="child">
+  <info box="simple" />
+  <portrait_l name="child" />
   <sjis>
     これが、欲しかったのよ<end_line />
     損してないから<end_line />
@@ -320,8 +320,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="gatekeeper">
+  <info box="simple" />
+  <portrait_l name="gatekeeper" />
   <sjis>
     どこかに<weapon_type /><end_line />
     持っている人いないかな<end_line />
@@ -332,8 +332,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="gatekeeper">
+  <info box="simple" />
+  <portrait_l name="gatekeeper" />
   <sjis>
     きみが持っている<end_line />
     その<weapon_type />と<end_line />
@@ -344,8 +344,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="gatekeeper">
+  <info box="simple" />
+  <portrait_l name="gatekeeper" />
   <sjis>
     オレの<weapon_type />を<end_line />
     交換しないか<end_line />
@@ -381,8 +381,8 @@
   </option>
 </menu>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="gatekeeper">
+  <info box="simple" />
+  <portrait_l name="gatekeeper" />
   <sjis>
     この交換、絶対オレの得だと思うね<end_line />
   </sjis>
@@ -392,8 +392,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="gatekeeper">
+  <info box="simple" />
+  <portrait_l name="gatekeeper" />
   <sjis>
     この交換、絶対オレの得だと思うね<end_line />
   </sjis>
@@ -403,8 +403,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="child">
+  <info box="simple" />
+  <portrait_l name="child" />
   <sjis>
     <weapon_type />、<end_line />
     <weapon_type /><three_dots /><end_line />
@@ -415,8 +415,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="child">
+  <info box="simple" />
+  <portrait_l name="child" />
   <sjis>
     その<weapon_type />と<end_line />
   </sjis>
@@ -425,8 +425,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="child">
+  <info box="simple" />
+  <portrait_l name="child" />
   <sjis>
     ボクの<weapon_type /><end_line />
     かえっこしない？<end_line />
@@ -462,8 +462,8 @@
   </option>
 </menu>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="child">
+  <info box="simple" />
+  <portrait_l name="child" />
   <sjis>
     いしし<three_dots />、絶対ボクの勝ち<end_line />
   </sjis>
@@ -472,8 +472,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="child">
+  <info box="simple" />
+  <portrait_l name="child" />
   <sjis>
     いしし<three_dots />、絶対ボクの勝ち<end_line />
   </sjis>
@@ -482,8 +482,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="child">
+  <info box="simple" />
+  <portrait_l name="child" />
   <sjis>
     <weapon_type />、<end_line />
     <weapon_type /><three_dots /><end_line />
@@ -494,8 +494,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="child">
+  <info box="simple" />
+  <portrait_l name="child" />
   <sjis>
     その<weapon_type />と<end_line />
   </sjis>
@@ -504,8 +504,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="child">
+  <info box="simple" />
+  <portrait_l name="child" />
   <sjis>
     ボクの<weapon_type /><end_line />
     かえっこしない？<end_line />
@@ -541,8 +541,8 @@
   </option>
 </menu>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="child">
+  <info box="simple" />
+  <portrait_l name="child" />
   <sjis>
     いしし<three_dots />、絶対ボクの勝ち<end_line />
   </sjis>
@@ -551,8 +551,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="child">
+  <info box="simple" />
+  <portrait_l name="child" />
   <sjis>
     いしし<three_dots />、絶対ボクの勝ち<end_line />
   </sjis>
@@ -561,8 +561,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="shop_clerk">
+  <info box="simple" />
+  <portrait_l name="shop_clerk" />
   <sjis>
     どこかに<weapon_type /><end_line />
     持っている人いないかな<end_line />
@@ -573,8 +573,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="shop_clerk">
+  <info box="simple" />
+  <portrait_l name="shop_clerk" />
   <sjis>
     きみが持っている<end_line />
     その<weapon_type />と<end_line />
@@ -585,8 +585,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="shop_clerk">
+  <info box="simple" />
+  <portrait_l name="shop_clerk" />
   <sjis>
     オレの<weapon_type />を<end_line />
     交換しないか<end_line />
@@ -622,8 +622,8 @@
   </option>
 </menu>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="shop_clerk">
+  <info box="simple" />
+  <portrait_l name="shop_clerk" />
   <sjis>
     この交換、絶対オレの得だと思うね<end_line />
   </sjis>
@@ -633,8 +633,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="shop_clerk">
+  <info box="simple" />
+  <portrait_l name="shop_clerk" />
   <sjis>
     この交換、絶対オレの得だと思うね<end_line />
   </sjis>
@@ -644,8 +644,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="man">
+  <info box="simple" />
+  <portrait_l name="man" />
   <sjis>
     どこかに<weapon_type /><end_line />
     持っている人いないかな<end_line />
@@ -656,8 +656,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="man">
+  <info box="simple" />
+  <portrait_l name="man" />
   <sjis>
     きみが持っている<end_line />
     その<weapon_type />と<end_line />
@@ -668,8 +668,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="man">
+  <info box="simple" />
+  <portrait_l name="man" />
   <sjis>
     オレの<weapon_type />を<end_line />
     交換しないか<end_line />
@@ -705,8 +705,8 @@
   </option>
 </menu>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="man">
+  <info box="simple" />
+  <portrait_l name="man" />
   <sjis>
     この交換、絶対オレの得だと思うね<end_line />
   </sjis>
@@ -716,8 +716,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="man">
+  <info box="simple" />
+  <portrait_l name="man" />
   <sjis>
     この交換、絶対オレの得だと思うね<end_line />
   </sjis>
@@ -727,8 +727,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="chief">
+  <info box="simple" />
+  <portrait_l name="chief" />
   <sjis>
     どこかに<weapon_type />が、<end_line />
     有るといいんだが<end_line />
@@ -739,8 +739,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="chief">
+  <info box="simple" />
+  <portrait_l name="chief" />
   <sjis>
     お前が持っている<end_line />
     その<weapon_type />と<end_line />
@@ -751,8 +751,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="chief">
+  <info box="simple" />
+  <portrait_l name="chief" />
   <sjis>
     オレの<weapon_type />を<end_line />
     交換しないか<end_line />
@@ -788,8 +788,8 @@
   </option>
 </menu>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="chief">
+  <info box="simple" />
+  <portrait_l name="chief" />
   <sjis>
     良い交換だった<end_line />
   </sjis>
@@ -798,8 +798,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="chief">
+  <info box="simple" />
+  <portrait_l name="chief" />
   <sjis>
     良い交換だった<end_line />
   </sjis>
@@ -808,8 +808,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="elderly">
+  <info box="simple" />
+  <portrait_l name="elderly" />
   <sjis>
     どこかに<weapon_type />が、<end_line />
     無いかのう<end_line />
@@ -820,8 +820,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="elderly">
+  <info box="simple" />
+  <portrait_l name="elderly" />
   <sjis>
     おぬしが持っている<end_line />
     その<weapon_type />と<end_line />
@@ -832,8 +832,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="elderly">
+  <info box="simple" />
+  <portrait_l name="elderly" />
   <sjis>
     ワシの<weapon_type />を<end_line />
     交換せぬか<end_line />
@@ -869,8 +869,8 @@
   </option>
 </menu>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="elderly">
+  <info box="simple" />
+  <portrait_l name="elderly" />
   <sjis>
     良い交換じゃった<end_line />
   </sjis>
@@ -879,8 +879,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="elderly">
+  <info box="simple" />
+  <portrait_l name="elderly" />
   <sjis>
     良い交換じゃった<end_line />
   </sjis>

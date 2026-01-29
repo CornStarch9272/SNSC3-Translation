@@ -1,7 +1,7 @@
 <dialogue>
-  <info box="left">
-  <portrait_l entry="player" eye="decided" mouth="neutral">
-  <portrait_r entry="gallahan" eye="serious" mouth="neutral">
+  <info box="left" />
+  <portrait_l entry="player" eye="decided" mouth="neutral" />
+  <portrait_r entry="gallahan" eye="serious" mouth="neutral" />
   <sjis>
     よし、できた！<end_line />
     どう？<end_line />
@@ -12,9 +12,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="right">
-  <portrait_l entry="player" eye="decided" mouth="neutral">
-  <portrait_r entry="gallahan" eye="serious" mouth="serious">
+  <info box="right" />
+  <portrait_l entry="player" eye="decided" mouth="neutral" />
+  <portrait_r entry="gallahan" eye="serious" mouth="serious" />
   <sjis>
     うむ<three_dots /><end_line />
   </sjis>
@@ -23,9 +23,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="right">
-  <portrait_l entry="player" eye="serious" mouth="tense">
-  <portrait_r entry="gallahan" eye="serious" mouth="talk">
+  <info box="right" />
+  <portrait_l entry="player" eye="serious" mouth="tense" />
+  <portrait_r entry="gallahan" eye="serious" mouth="talk" />
   <sjis>
     なるほど<end_line />
     それなりのウデは<end_line />
@@ -37,9 +37,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="left">
-  <portrait_l entry="player" eye="happy" mouth="neutral">
-  <portrait_r entry="gallahan" eye="serious" mouth="talk">
+  <info box="left" />
+  <portrait_l entry="player" eye="happy" mouth="neutral" />
+  <portrait_r entry="gallahan" eye="serious" mouth="talk" />
   <male>
     <sjis>
       そうだろ？<end_line />
@@ -55,9 +55,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="left">
-  <portrait_l entry="player" eye="happy" mouth="neutral">
-  <portrait_r entry="gallahan" eye="serious" mouth="talk">
+  <info box="left" />
+  <portrait_l entry="player" eye="happy" mouth="neutral" />
+  <portrait_r entry="gallahan" eye="serious" mouth="talk" />
   <sjis>
     えへへ～<end_line />
   </sjis>
@@ -66,9 +66,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="right">
-  <portrait_l entry="player" eye="happy" mouth="neutral">
-  <portrait_r entry="gallahan" eye="serious" mouth="neutral">
+  <info box="right" />
+  <portrait_l entry="player" eye="happy" mouth="neutral" />
+  <portrait_r entry="gallahan" eye="serious" mouth="neutral" />
   <sjis>
     まあ、鍛冶師かどうかわからんが<end_line />
     鍛冶職人であることには<end_line />
@@ -81,9 +81,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="left">
-  <portrait_l entry="player" eye="decided" mouth="stressed">
-  <portrait_r entry="gallahan" eye="serious" mouth="neutral">
+  <info box="left" />
+  <portrait_l entry="player" eye="decided" mouth="stressed" />
+  <portrait_r entry="gallahan" eye="serious" mouth="neutral" />
   <sjis>
     鍛冶師だって！<end_line />
   </sjis>
@@ -92,9 +92,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="right">
-  <portrait_l entry="player" eye="decided" mouth="stressed">
-  <portrait_r entry="gallahan" eye="serious" mouth="tense">
+  <info box="right" />
+  <portrait_l entry="player" eye="decided" mouth="stressed" />
+  <portrait_r entry="gallahan" eye="serious" mouth="tense" />
   <sjis>
     とにかく<end_line />
     トラムに話してくるから<end_line />
@@ -107,9 +107,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="left">
-  <portrait_l entry="player" eye="sad" mouth="stressed">
-  <portrait_r entry="gallahan" eye="serious" mouth="tense">
+  <info box="left" />
+  <portrait_l entry="player" eye="sad" mouth="stressed" />
+  <portrait_r entry="gallahan" eye="serious" mouth="tense" />
   <male>
     <sjis>
       え～<end_line />
@@ -128,9 +128,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="right">
-  <portrait_l entry="player" eye="sad" mouth="stressed">
-  <portrait_r entry="gallahan" eye="decided" mouth="neutral">
+  <info box="right" />
+  <portrait_l entry="player" eye="sad" mouth="stressed" />
+  <portrait_r entry="gallahan" eye="decided" mouth="neutral" />
   <sjis>
     いいから<end_line />
     さあハンマーを返せ<end_line />
@@ -143,9 +143,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="both">
-  <portrait_l entry="player" eye="sad" mouth="stressed">
-  <portrait_r entry="partner" eye="sad" mouth="serious">
+  <info box="both" />
+  <portrait_l entry="player" eye="sad" mouth="stressed" />
+  <portrait_r entry="partner" eye="sad" mouth="serious" />
   <sjis>
     <three_dots /><end_line />
   </sjis>

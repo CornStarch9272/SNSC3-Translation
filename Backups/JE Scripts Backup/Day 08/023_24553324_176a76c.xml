@@ -4,8 +4,8 @@
   </sjis>
 </location>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="man">
+  <info box="simple" />
+  <portrait_l name="man" />
   <sjis>
     ねぇキミはどっちかって言うと<end_line />
     攻撃系？回復系？<end_line />
@@ -17,8 +17,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="man">
+  <info box="simple" />
+  <portrait_l name="man" />
   <sjis>
     ん？<end_line />
     ああ、召喚獣を呼ぶ戦略として<end_line />
@@ -31,8 +31,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="man">
+  <info box="simple" />
+  <portrait_l name="man" />
   <sjis>
     ボクの場合は、いやし系だね<end_line />
     ああ、いやされるよミョータロウ<end_line />
@@ -43,7 +43,7 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
+  <info box="simple" />
   <sjis>
     　<end_line />
     　　福引き券のご利用は計画的に！<end_line />

@@ -4,7 +4,7 @@
 	</sjis>
 </location>
 <dialogue>
-	<info box="special">
+	<info box="special" />
 	<sjis>
 		当店をご利用のお客様へ<end_line />
 		当店では福引き券５枚で１回の<end_line />
@@ -12,8 +12,8 @@
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="player">
+	<info box="simple" />
+	<portrait_l name="player" />
 	<male>
 		<sjis>
 			中になにが入ってるんだ？<end_line />
@@ -26,14 +26,14 @@
 	</female>
 </dialogue>
 <dialogue>
-	<info box="special">
+	<info box="special" />
 	<sjis>
 		どんな食材も危険物に変える<end_line />
 		少女が持っていたぬいぐるみ<end_line />
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="simple">
+	<info box="simple" />
 	<sjis>
 		　<end_line />
 	</sjis>

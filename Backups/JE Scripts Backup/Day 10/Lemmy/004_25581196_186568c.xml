@@ -1,7 +1,7 @@
 <dialogue>
-  <info box="right">
-  <portrait_l entry="player" eye="serious" mouth="tense">
-  <portrait_r entry="lemmy" eye="serious" mouth="neutral">
+  <info box="right" />
+  <portrait_l entry="player" eye="serious" mouth="tense" />
+  <portrait_r entry="lemmy" eye="serious" mouth="neutral" />
   <sjis>
     勝負の準備はできた？<end_line />
   </sjis>
@@ -10,9 +10,9 @@
   </ascii>
 </dialogue>
 <choice>
-  <info box="left">
-  <portrait_l entry="player" eye="serious" mouth="serious">
-  <portrait_r entry="lemmy" eye="serious" mouth="neutral">
+  <info box="left" />
+  <portrait_l entry="player" eye="serious" mouth="serious" />
+  <portrait_r entry="lemmy" eye="serious" mouth="neutral" />
   <male>
     <option>
       <sjis>

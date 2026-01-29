@@ -9,16 +9,16 @@
 	</sjis>
 </location>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="child">
+	<info box="simple" />
+	<portrait_l name="child" />
 	<sjis>
 		おおきくなったら<end_line />
 		おとなになるんだ<end_line />
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="child">
+	<info box="simple" />
+	<portrait_l name="child" />
 	<sjis>
 		とりあえず、そこからかんがえるのが<end_line />
 		げんじつてきだって<end_line />

@@ -1,7 +1,7 @@
 <dialogue>
-  <player gender="male">
-  <info box="left">
-  <portrait_l entry="player" eye="serious" mouth="serious">
+  <player gender="male" />
+  <info box="left" />
+  <portrait_l entry="player" eye="serious" mouth="serious" />
   <sjis>
     オレたちがルイーズ村にいる間<end_line />
     アニスの仲間は町に近づかなかったって<end_line />
@@ -14,9 +14,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <player gender="male">
-  <info box="left">
-  <portrait_l entry="player" eye="decided" mouth="tense">
+  <player gender="male" />
+  <info box="left" />
+  <portrait_l entry="player" eye="decided" mouth="tense" />
   <sjis>
     あいつらドコにかくれているんだろう<three_dots /><end_line />
   </sjis>
@@ -25,9 +25,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <player gender="female">
-  <info box="left">
-  <portrait_l entry="player" eye="serious" mouth="serious">
+  <player gender="female" />
+  <info box="left" />
+  <portrait_l entry="player" eye="serious" mouth="serious" />
   <sjis>
     わたしたちがルイーズ村にいる間<end_line />
     アニスの仲間は町に近づかなかったって<end_line />
@@ -40,9 +40,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <player gender="female">
-  <info box="left">
-  <portrait_l entry="player" eye="decided" mouth="tense">
+  <player gender="female" />
+  <info box="left" />
+  <portrait_l entry="player" eye="decided" mouth="tense" />
   <sjis>
     一体ドコにかくれているんだろう<three_dots /><end_line />
   </sjis>
@@ -51,8 +51,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="left">
-  <portrait_l entry="player" eye="serious" mouth="serious">
+  <info box="left" />
+  <portrait_l entry="player" eye="serious" mouth="serious" />
   <sjis>
     あれ？<end_line />
     誰か来たみたいだ<end_line />

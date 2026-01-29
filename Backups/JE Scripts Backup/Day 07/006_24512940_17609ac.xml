@@ -9,8 +9,8 @@
   </sjis>
 </location>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="player">
+  <info box="simple" />
+  <portrait_l name="player" />
   <male>
     <sjis>
       トラムがオレたちとの勝負を<end_line />
@@ -37,8 +37,8 @@
   </female>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="player">
+  <info box="simple" />
+  <portrait_l name="player" />
   <male>
     <sjis>
       ミューノがトラムといっしょに<end_line />
@@ -65,8 +65,8 @@
   </female>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="player">
+  <info box="simple" />
+  <portrait_l name="player" />
   <sjis>
     とにかく今は<end_line />
     マグドラドを何とかしないと！<end_line />

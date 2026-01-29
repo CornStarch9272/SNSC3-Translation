@@ -9,8 +9,8 @@
 	</sjis>
 </location>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="woman">
+	<info box="simple" />
+	<portrait_l name="woman" />
 	<sjis>
 		こんなカビくさい村を出て<end_line />
 		大きな町に行きたいわ<end_line />
@@ -23,8 +23,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="child">
+	<info box="simple" />
+	<portrait_l name="child" />
 	<sjis>
 		ギャラハンさんは怒ると怖いけど<end_line />
 		とてもやさしんんだよ<end_line />
@@ -36,8 +36,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="child">
+	<info box="simple" />
+	<portrait_l name="child" />
 	<sjis>
 		すごく、寂しそうな顔をするんだよ<end_line />
 	</sjis>

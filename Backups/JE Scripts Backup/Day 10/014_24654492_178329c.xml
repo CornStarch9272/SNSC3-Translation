@@ -9,8 +9,8 @@
 	</sjis>
 </location>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="merchant">
+	<info box="simple" />
+	<portrait_l name="merchant" />
 	<sjis>
 		ここ最近のはぐれの<end_line />
 		おかげで武器や防具が<end_line />
@@ -18,16 +18,16 @@
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="man">
+	<info box="simple" />
+	<portrait_l name="man" />
 	<sjis>
 		アカバネを倒したヤツがこの辺を<end_line />
 		ウロウロしてるらしい<end_line />
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="man">
+	<info box="simple" />
+	<portrait_l name="man" />
 	<sjis>
 		そんな危ないヤツがいるかもしれない<end_line />
 		あぶなくってしょうがない<end_line />

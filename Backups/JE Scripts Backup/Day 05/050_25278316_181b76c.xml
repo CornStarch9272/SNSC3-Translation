@@ -1,6 +1,6 @@
 <dialogue>
-  <info box="left">
-  <portrait_l entry="player" eye="sad" mouth="tense">
+  <info box="left" />
+  <portrait_l entry="player" eye="sad" mouth="tense" />
   <male>
     <sjis>
       なんでオレがこんなとこに<end_line />
@@ -22,8 +22,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_r name="unknown">
+  <info box="simple" />
+  <portrait_r name="unknown" />
   <sjis>
     <three_dots /><end_line />
   </sjis>
@@ -32,8 +32,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="left">
-  <portrait_l entry="player" eye="surprised" mouth="tense">
+  <info box="left" />
+  <portrait_l entry="player" eye="surprised" mouth="tense" />
   <sjis>
     え？<end_line />
     今の声、もしかして<three_dots /><end_line />

@@ -9,15 +9,15 @@
 	</sjis>
 </location>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="gallahan">
+	<info box="simple" />
+	<portrait_l name="gallahan" />
 	<sjis>
 		人の心など<end_line />
 		そうカンタンには変わらんものだよ<end_line />
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="simple">
+	<info box="simple" />
 	<sjis>
 		ギャラハン工房からのお知らせ<end_line />
 		カウンターに店員がいないときには<end_line />

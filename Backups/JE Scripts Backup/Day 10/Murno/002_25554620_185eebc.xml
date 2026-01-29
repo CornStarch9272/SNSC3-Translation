@@ -1,7 +1,7 @@
 <dialogue>
-  <info box="right">
-  <portrait_l entry="player" eye="serious" mouth="tense">
-  <portrait_r entry="murno" eye="decided" mouth="neutral">
+  <info box="right" />
+  <portrait_l entry="player" eye="serious" mouth="tense" />
+  <portrait_r entry="murno" eye="decided" mouth="neutral" />
   <sjis>
     どう、<player_nickname />？<end_line />
     武器をひとつ<end_line />
@@ -13,9 +13,9 @@
   </ascii>
 </dialogue>
 <choice>
-  <info box="left">
-  <portrait_l entry="player" eye="serious" mouth="neutral">
-  <portrait_r entry="murno" eye="decided" mouth="neutral">
+  <info box="left" />
+  <portrait_l entry="player" eye="serious" mouth="neutral" />
+  <portrait_r entry="murno" eye="decided" mouth="neutral" />
   <option>
     <sjis>
       うん、決めた！<end_line />
@@ -34,8 +34,8 @@
   </option>
 </choice>
 <dialogue>
-  <info box="right">
-  <portrait_r name="murno">
+  <info box="right" />
+  <portrait_r name="murno" />
   <sjis>
     武器、ひとつじゃ<end_line />
     ないみたいだけど<three_dots /><end_line />
@@ -46,8 +46,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="left">
-  <portrait_l name="player">
+  <info box="left" />
+  <portrait_l name="player" />
   <sjis>
     あ、ホントだ<end_line />
     ちょっと待って<end_line />

@@ -9,8 +9,8 @@
   </sjis>
 </location>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="elderly">
+  <info box="simple" />
+  <portrait_l name="elderly" />
   <sjis>
     小豆は体にええぞぉ<end_line />
   </sjis>
@@ -20,8 +20,8 @@
 </dialogue>
 ###Swordsman
 <dialogue>
-  <info box="simple">
-  <portrait_l name="child">
+  <info box="simple" />
+  <portrait_l name="child" />
   <sjis>
     ゆうしゃもけんしも<end_line />
     なるのはむずかしそうだから<end_line />
@@ -34,8 +34,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="gatekeeper">
+  <info box="simple" />
+  <portrait_l name="gatekeeper" />
   <sjis>
     ま、がんばれ<end_line />
   </sjis>

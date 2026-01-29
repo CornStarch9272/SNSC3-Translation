@@ -4,8 +4,8 @@
 	</sjis>
 </location>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="man">
+	<info box="simple" />
+	<portrait_l name="man" />
 	<sjis>
 		ベルヴォレン派<end_line />
 		抜けちゃいました<end_line />

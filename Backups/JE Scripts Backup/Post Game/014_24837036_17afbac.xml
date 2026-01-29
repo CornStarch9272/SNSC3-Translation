@@ -9,8 +9,8 @@
 	</sjis>
 </location>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="elderly">
+	<info box="simple" />
+	<portrait_l name="elderly" />
 	<sjis>
 		お前さんみたいな若者の時代が<end_line />
 		来たんじゃな<end_line />
@@ -18,8 +18,8 @@
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="elderly">
+	<info box="simple" />
+	<portrait_l name="elderly" />
 	<sjis>
 		いや、まだまだなっとらん<end_line />
 		あ～～なっとらん<end_line />
@@ -27,8 +27,8 @@
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="peddler's_mother">
+	<info box="simple" />
+	<portrait_l name="peddler's_mother" />
 	<sjis>
 		あなたってとっても、すごい<end_line />
 		鍛冶師だったのね～<end_line />
@@ -36,16 +36,16 @@
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="peddler's_mother">
+	<info box="simple" />
+	<portrait_l name="peddler's_mother" />
 	<sjis>
 		でも、何か得意な事を極めてないと<end_line />
 		話にならないからね<end_line />
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="peddler's_mother">
+	<info box="simple" />
+	<portrait_l name="peddler's_mother" />
 	<sjis>
 		どう？<end_line />
 		あなたの鍛冶師としての<end_line />
@@ -53,7 +53,7 @@
 	</sjis>
 </dialogue>
 <choice>
-	<info box="simple">
+	<info box="simple" />
 	<option>
 		<sjis>
 			教える<end_line />
@@ -66,16 +66,16 @@
 	</option>
 </choice>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="peddler's_mother">
+	<info box="simple" />
+	<portrait_l name="peddler's_mother" />
 	<sjis>
 		すご～い、ソード鍛冶ランクが<end_line />
 		最高じゃないの！！<end_line />
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="peddler's_mother">
+	<info box="simple" />
+	<portrait_l name="peddler's_mother" />
 	<sjis>
 		じゃ、これを受け取って<end_line />
 		「ソードの極意書」なんだけど<end_line />
@@ -83,7 +83,7 @@
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="special">
+	<info box="special" />
 	<sjis>
 		「ソードの極意書」を持った状態で<end_line />
 		セーブを行うことで、おまけ条件に<end_line />
@@ -91,16 +91,16 @@
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="peddler's_mother">
+	<info box="simple" />
+	<portrait_l name="peddler's_mother" />
 	<sjis>
 		うっそ～、アクス鍛冶ランクが<end_line />
 		最高じゃないの！！<end_line />
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="peddler's_mother">
+	<info box="simple" />
+	<portrait_l name="peddler's_mother" />
 	<sjis>
 		じゃ、これを受け取って<end_line />
 		「アクスの極意書」なんだけど<end_line />
@@ -108,7 +108,7 @@
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="special">
+	<info box="special" />
 	<sjis>
 		「アクスの極意書」を持った状態で<end_line />
 		セーブを行うことで、おまけ条件に<end_line />
@@ -116,16 +116,16 @@
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="peddler's_mother">
+	<info box="simple" />
+	<portrait_l name="peddler's_mother" />
 	<sjis>
 		おどろいた、スピア鍛冶ランクが<end_line />
 		最高じゃないの！！<end_line />
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="peddler's_mother">
+	<info box="simple" />
+	<portrait_l name="peddler's_mother" />
 	<sjis>
 		じゃ、これを受け取って<end_line />
 		「スピアの極意書」なんだけど<end_line />
@@ -133,7 +133,7 @@
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="special">
+	<info box="special" />
 	<sjis>
 		「スピアの極意書」を持った状態で<end_line />
 		セーブを行うことで、おまけ条件に<end_line />
@@ -141,16 +141,16 @@
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="peddler's_mother">
+	<info box="simple" />
+	<portrait_l name="peddler's_mother" />
 	<sjis>
 		まぁっ、ナックル鍛冶ランクが<end_line />
 		最高じゃないの！！<end_line />
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="peddler's_mother">
+	<info box="simple" />
+	<portrait_l name="peddler's_mother" />
 	<sjis>
 		じゃ、これを受け取って<end_line />
 		「ナックルの極意書」なんだけど<end_line />
@@ -158,7 +158,7 @@
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="special">
+	<info box="special" />
 	<sjis>
 		「ナックルの極意書」を持った状態で<end_line />
 		セーブを行うことで、おまけ条件に<end_line />
@@ -166,16 +166,16 @@
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="peddler's_mother">
+	<info box="simple" />
+	<portrait_l name="peddler's_mother" />
 	<sjis>
 		まっさか～、ドリル鍛冶ランクが<end_line />
 		最高じゃないの！！<end_line />
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="peddler's_mother">
+	<info box="simple" />
+	<portrait_l name="peddler's_mother" />
 	<sjis>
 		じゃ、これを受け取って<end_line />
 		「ドリルの極意書」なんだけど<end_line />
@@ -183,7 +183,7 @@
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="special">
+	<info box="special" />
 	<sjis>
 		「ドリルの極意書」を持った状態で<end_line />
 		セーブを行うことで、おまけ条件に<end_line />
@@ -191,16 +191,16 @@
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="peddler's_mother">
+	<info box="simple" />
+	<portrait_l name="peddler's_mother" />
 	<sjis>
 		えええっ、ボウ鍛冶ランクが<end_line />
 		最高じゃないの！！<end_line />
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="peddler's_mother">
+	<info box="simple" />
+	<portrait_l name="peddler's_mother" />
 	<sjis>
 		じゃ、これを受け取って<end_line />
 		「ボウの極意書」なんだけど<end_line />
@@ -208,7 +208,7 @@
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="special">
+	<info box="special" />
 	<sjis>
 		「ボウの極意書」を持った状態で<end_line />
 		セーブを行うことで、おまけ条件に<end_line />
@@ -216,8 +216,8 @@
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="peddler's_mother">
+	<info box="simple" />
+	<portrait_l name="peddler's_mother" />
 	<sjis>
 		あららっ、何も極めてないのね<end_line />
 		だめよ、ちゃんと鍛錬しないと<end_line />
@@ -225,8 +225,8 @@
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="peddler's_mother">
+	<info box="simple" />
+	<portrait_l name="peddler's_mother" />
 	<sjis>
 		あなたはもっと良い鍛冶師に<end_line />
 		なれるはずだわ<end_line />
@@ -234,8 +234,8 @@
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="peddler's_mother">
+	<info box="simple" />
+	<portrait_l name="peddler's_mother" />
 	<sjis>
 		そう、残念ね<end_line />
 		また気が向いたら教えてね<end_line />

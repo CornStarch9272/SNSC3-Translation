@@ -9,8 +9,8 @@
 	</sjis>
 </location>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="roche">
+	<info box="simple" />
+	<portrait_l name="roche" />
 	<sjis>
 		気をつけて行ってらっしゃいね<end_line />
 	</sjis>
@@ -19,8 +19,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="thuss">
+	<info box="simple" />
+	<portrait_l name="thuss" />
 	<sjis>
 		娘をよろしくたのみます<end_line />
 	</sjis>
@@ -29,7 +29,7 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
+	<info box="simple" />
 	<sjis>
 		ここから先は乙女の秘密<hearth /><end_line />
 		立ち入り禁止！！<end_line />
@@ -42,8 +42,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="man">
+	<info box="simple" />
+	<portrait_l name="man" />
 	<sjis>
 		ナックルがあれば、岩も動かせるんだよ<end_line />
 		なぜ動かせるのかは<end_line />

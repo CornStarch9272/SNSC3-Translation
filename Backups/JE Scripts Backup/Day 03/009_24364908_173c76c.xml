@@ -4,8 +4,8 @@
 	</sjis>
 </location>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="man">
+	<info box="simple" />
+	<portrait_l name="man" />
 	<sjis>
 		武器を取りに来たのか？<end_line />
 	</sjis>
@@ -14,8 +14,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="man">
+	<info box="simple" />
+	<portrait_l name="man" />
 	<sjis>
 		武器を預けに来たのか？<end_line />
 	</sjis>
@@ -42,8 +42,8 @@
 	</option>
 </menu>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="man">
+	<info box="simple" />
+	<portrait_l name="man" />
 	<sjis>
 		預けられそうな武器が無いぞ<end_line />
 	</sjis>
@@ -53,8 +53,8 @@
   	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="child">
+	<info box="simple" />
+	<portrait_l name="child" />
 	<sjis>
 		おおきくなったらゆうしゃになるんだ<end_line />
 		ゆうしゃはけんしより<end_line />

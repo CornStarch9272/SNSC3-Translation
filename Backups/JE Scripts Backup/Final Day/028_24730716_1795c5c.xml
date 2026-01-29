@@ -9,32 +9,32 @@
 	</sjis>
 </location>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="gatekeeper">
+	<info box="simple" />
+	<portrait_l name="gatekeeper" />
 	<sjis>
 		西門の門番がケガしたらしい<end_line />
 		この仕事も危ないなぁ<three_dots /><end_line />
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="child">
+	<info box="simple" />
+	<portrait_l name="child" />
 	<sjis>
 		この町って、ごみごみしてて<end_line />
 		いやよね<end_line />
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="child">
+	<info box="simple" />
+	<portrait_l name="child" />
 	<sjis>
 		どこかに、しずかなところ<end_line />
 		ないかしら<end_line />
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="man">
+	<info box="simple" />
+	<portrait_l name="man" />
 	<sjis>
 		ん～どうして勝てないのかな～<end_line />
 		今日もカケに負けて<end_line />
@@ -42,7 +42,7 @@
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="simple">
+	<info box="simple" />
 	<sjis>
 		　　　プロスバンの町の創設者<end_line />
 		　　　勇者プロスバンの石像<end_line />

@@ -4,50 +4,50 @@
 	</sjis>
 </location>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="man">
+	<info box="simple" />
+	<portrait_l name="man" />
 	<sjis>
 		なんでも例の廃墟の先に<end_line />
 		何かとんでもない物があるらしい<end_line />
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="man">
+	<info box="simple" />
+	<portrait_l name="man" />
 	<sjis>
 		ま、行ったことがないから<end_line />
 		保証はできないけどな<end_line />
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="simple">
+	<info box="simple" />
 	<sjis>
 		フーッ<end_line />
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="simple">
+	<info box="simple" />
 	<sjis>
 		　<end_line />
 		　　　　　～注意しよう！～<end_line />
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="simple">
+	<info box="simple" />
 	<sjis>
 		団体行動の時は<end_line />
 		よく人数を確認しましょう<end_line />
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="simple">
+	<info box="simple" />
 	<sjis>
 		誰かいない人が<end_line />
 		いるかもしれませんよ？<end_line />
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="simple">
+	<info box="simple" />
 	<sjis>
 		ボウタイプが便利ですが<end_line />
 		使いすぎには十分注意してください<end_line />
@@ -55,14 +55,14 @@
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="simple">
+	<info box="simple" />
 	<sjis>
 		　<end_line />
 		　　　　　～情報求む！～<end_line />
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="simple">
+	<info box="simple" />
 	<sjis>
 		タタラの中の炎のように<end_line />
 		燃え上がるような激辛の食べ物を<end_line />
@@ -70,7 +70,7 @@
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="simple">
+	<info box="simple" />
 	<sjis>
 		町の外では多くのはぐれが出る<end_line />
 		遠出する時は準備をおこたるな！<end_line />

@@ -9,8 +9,8 @@
 	</sjis>
 </location>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="child">
+	<info box="simple" />
+	<portrait_l name="child" />
 	<sjis>
 		おかえりなさい<end_line />
 		いつでも帰ってきていいのよ<end_line />
@@ -21,8 +21,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="gatekeeper">
+	<info box="simple" />
+	<portrait_l name="gatekeeper" />
 	<sjis>
 		何かいろいろあるみたいだな<end_line />
 	</sjis>
@@ -31,7 +31,7 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
+	<info box="simple" />
 	<sjis>
 		ゴロゴロ<three_dots /><end_line />
 	</sjis>

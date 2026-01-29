@@ -4,8 +4,8 @@
 	</sjis>
 </location>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="vee">
+	<info box="simple" />
+	<portrait_l name="vee" />
 	<sjis>
 		今はそっとしておいてやりな<end_line />
 	</sjis>

@@ -1,6 +1,6 @@
 <dialogue>
-  <info box="simple">
-  <portrait_l name="unknown">
+  <info box="simple" />
+  <portrait_l name="unknown" />
   <sjis>
     おい！　お前たち！<end_line />
   </sjis>
@@ -9,8 +9,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="right">
-  <portrait_r entry="veirdo_2" eye="serious" mouth="neutral">
+  <info box="right" />
+  <portrait_r entry="veirdo_2" eye="serious" mouth="neutral" />
   <sjis>
     お前たちさぁ<end_line />
     ちょっと聞きたいんだけど<end_line />
@@ -21,9 +21,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="left">
-  <portrait_l entry="player" eye="decided" mouth="serious">
-  <portrait_r entry="veirdo_2" eye="serious" mouth="neutral">
+  <info box="left" />
+  <portrait_l entry="player" eye="decided" mouth="serious" />
+  <portrait_r entry="veirdo_2" eye="serious" mouth="neutral" />
   <male>
     <sjis>
       <three_dots />なんだよ？<end_line />
@@ -39,10 +39,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="run-dor">
-  <info box="left">
-  <portrait_l entry="partner" eye="decided" mouth="serious">
-  <portrait_r entry="veirdo_2" eye="serious" mouth="neutral">
+  <partner name="run-dor" />
+  <info box="left" />
+  <portrait_l entry="partner" eye="decided" mouth="serious" />
+  <portrait_r entry="veirdo_2" eye="serious" mouth="neutral" />
   <sjis>
     ツケテイタノハ<end_line />
     彼ラデスネ<end_line />
@@ -53,10 +53,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="enzi">
-  <info box="left">
-  <portrait_l entry="partner" eye="decided" mouth="serious">
-  <portrait_r entry="veirdo_2" eye="serious" mouth="neutral">
+  <partner name="enzi" />
+  <info box="left" />
+  <portrait_l entry="partner" eye="decided" mouth="serious" />
+  <portrait_r entry="veirdo_2" eye="serious" mouth="neutral" />
   <sjis>
     つけていたのは、こやつらか<three_dots /><end_line />
   </sjis>
@@ -65,10 +65,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="killfith">
-  <info box="left">
-  <portrait_l entry="partner" eye="decided" mouth="serious">
-  <portrait_r entry="veirdo_2" eye="serious" mouth="neutral">
+  <partner name="killfith" />
+  <info box="left" />
+  <portrait_l entry="partner" eye="decided" mouth="serious" />
+  <portrait_r entry="veirdo_2" eye="serious" mouth="neutral" />
   <sjis>
     ちっ<three_dots /><end_line />
     コイツらだったか<three_dots /><end_line />
@@ -79,10 +79,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="rufeel">
-  <info box="left">
-  <portrait_l entry="partner" eye="decided" mouth="serious">
-  <portrait_r entry="veirdo_2" eye="serious" mouth="neutral">
+  <partner name="rufeel" />
+  <info box="left" />
+  <portrait_l entry="partner" eye="decided" mouth="serious" />
+  <portrait_r entry="veirdo_2" eye="serious" mouth="neutral" />
   <sjis>
     跡をつけてたのは<end_line />
     あなたたちだったんですね<end_line />
@@ -93,9 +93,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="left">
-  <portrait_l entry="eliez" eye="sad" mouth="tense">
-  <portrait_r entry="player" eye="decided" mouth="neutral">
+  <info box="left" />
+  <portrait_l entry="eliez" eye="sad" mouth="tense" />
+  <portrait_r entry="player" eye="decided" mouth="neutral" />
   <male>
     <sjis>
       おにーちゃん<three_dots /><end_line />
@@ -114,9 +114,9 @@
   </female>
 </dialogue>
 <dialogue>
-  <info box="left">
-  <portrait_l entry="eliez" eye="sad" mouth="tense">
-  <portrait_r entry="player" eye="decided" mouth="neutral">
+  <info box="left" />
+  <portrait_l entry="eliez" eye="sad" mouth="tense" />
+  <portrait_r entry="player" eye="decided" mouth="neutral" />
   <sjis>
     こわい<three_dots /><end_line />
   </sjis>
@@ -125,9 +125,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="right">
-  <portrait_l entry="eliez" eye="sad" mouth="tense">
-  <portrait_r entry="player" eye="decided" mouth="neutral">
+  <info box="right" />
+  <portrait_l entry="eliez" eye="sad" mouth="tense" />
+  <portrait_r entry="player" eye="decided" mouth="neutral" />
   <male>
     <sjis>
       わかってる<three_dots />！<end_line />
@@ -150,8 +150,8 @@
   </female>
 </dialogue>
 <dialogue>
-  <info box="right">
-  <portrait_r entry="veirdo_2" eye="serious" mouth="neutral">
+  <info box="right" />
+  <portrait_r entry="veirdo_2" eye="serious" mouth="neutral" />
   <sjis>
     キサマが召喚獣の弟子の<end_line />
     <player_name />か？<end_line />
@@ -162,9 +162,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="left">
-  <portrait_l entry="player" eye="decided" mouth="tense">
-  <portrait_r entry="veirdo_2" eye="serious" mouth="neutral">
+  <info box="left" />
+  <portrait_l entry="player" eye="decided" mouth="tense" />
+  <portrait_r entry="veirdo_2" eye="serious" mouth="neutral" />
   <male>
     <sjis>
       そのカッコウ<end_line />
@@ -186,9 +186,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="right">
-  <portrait_l entry="player" eye="decided" mouth="tense">
-  <portrait_r entry="veirdo_2" eye="serious" mouth="serious">
+  <info box="right" />
+  <portrait_l entry="player" eye="decided" mouth="tense" />
+  <portrait_r entry="veirdo_2" eye="serious" mouth="serious" />
   <sjis>
     オレたち、あの女のおかげで<end_line />
     ヒデェ目にあわされたんだよ<end_line />
@@ -200,9 +200,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="left">
-  <portrait_l entry="player" eye="sad" mouth="neutral">
-  <portrait_r entry="veirdo_2" eye="serious" mouth="serious">
+  <info box="left" />
+  <portrait_l entry="player" eye="sad" mouth="neutral" />
+  <portrait_r entry="veirdo_2" eye="serious" mouth="serious" />
   <male>
     <sjis>
       やっぱり<three_dots /><end_line />
@@ -224,9 +224,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="right">
-  <portrait_l entry="player" eye="sad" mouth="neutral">
-  <portrait_r entry="veirdo_2" eye="serious" mouth="yell">
+  <info box="right" />
+  <portrait_l entry="player" eye="sad" mouth="neutral" />
+  <portrait_r entry="veirdo_2" eye="serious" mouth="yell" />
   <sjis>
     ふざけんな！<end_line />
     てめぇも弟子ならこの責任<end_line />
@@ -239,9 +239,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="left">
-  <portrait_l entry="player" eye="serious" mouth="tense">
-  <portrait_r entry="veirdo_2" eye="serious" mouth="yell">
+  <info box="left" />
+  <portrait_l entry="player" eye="serious" mouth="tense" />
+  <portrait_r entry="veirdo_2" eye="serious" mouth="yell" />
   <sjis>
     まあまあ、おちついて<end_line />
     まずは少し話し合いとか<three_dots /><end_line />
@@ -252,9 +252,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="right">
-  <portrait_l entry="player" eye="serious" mouth="tense">
-  <portrait_r entry="veirdo_2" eye="serious" mouth="serious">
+  <info box="right" />
+  <portrait_l entry="player" eye="serious" mouth="tense" />
+  <portrait_r entry="veirdo_2" eye="serious" mouth="serious" />
   <sjis>
     話し合い、だと<three_dots />？<end_line />
   </sjis>
@@ -263,10 +263,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <player gender="male">
-  <info box="left">
-  <portrait_l entry="player" eye="serious" mouth="neutral">
-  <portrait_r entry="veirdo_2" eye="serious" mouth="serious">
+  <player gender="male" />
+  <info box="left" />
+  <portrait_l entry="player" eye="serious" mouth="neutral" />
+  <portrait_r entry="veirdo_2" eye="serious" mouth="serious" />
   <sjis>
     そうそう<end_line />
     ウチの親方の教えでさ<end_line />
@@ -279,10 +279,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <player gender="male">
-  <info box="left">
-  <portrait_l entry="player" eye="serious" mouth="tense">
-  <portrait_r entry="veirdo_2" eye="serious" mouth="serious">
+  <player gender="male" />
+  <info box="left" />
+  <portrait_l entry="player" eye="serious" mouth="tense" />
+  <portrait_r entry="veirdo_2" eye="serious" mouth="serious" />
   <sjis>
     それにコッチには<end_line />
     小さい女の子もいるんだぜ？<end_line />
@@ -295,10 +295,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <player gender="female">
-  <info box="left">
-  <portrait_l entry="player" eye="serious" mouth="neutral">
-  <portrait_r entry="veirdo_2" eye="serious" mouth="serious">
+  <player gender="female" />
+  <info box="left" />
+  <portrait_l entry="player" eye="serious" mouth="neutral" />
+  <portrait_r entry="veirdo_2" eye="serious" mouth="serious" />
   <sjis>
     そうよ<end_line />
     ウチの親方の教えで<end_line />
@@ -311,10 +311,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <player gender="female">
-  <info box="left">
-  <portrait_l entry="player" eye="serious" mouth="tense">
-  <portrait_r entry="veirdo_2" eye="serious" mouth="serious">
+  <player gender="female" />
+  <info box="left" />
+  <portrait_l entry="player" eye="serious" mouth="tense" />
+  <portrait_r entry="veirdo_2" eye="serious" mouth="serious" />
   <sjis>
     それにコッチには<end_line />
     小さい女の子もいるんだよ？<end_line />
@@ -325,9 +325,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="right">
-  <portrait_l entry="player" eye="serious" mouth="tense">
-  <portrait_r entry="veirdo_2" eye="serious" mouth="tense">
+  <info box="right" />
+  <portrait_l entry="player" eye="serious" mouth="tense" />
+  <portrait_r entry="veirdo_2" eye="serious" mouth="tense" />
   <sjis>
     ふ<three_dots /><end_line />
   </sjis>
@@ -336,9 +336,9 @@
   </ascii>
 </dialogue>
 <bigtext>
-  <info box="right" effect="big">
-  <portrait_l entry="player" eye="serious" mouth="tense">
-  <portrait_r entry="veirdo_2" eye="serious" mouth="yell">
+  <info box="right" effect="big" />
+  <portrait_l entry="player" eye="serious" mouth="tense" />
+  <portrait_r entry="veirdo_2" eye="serious" mouth="yell" />
   <sjis>
     ふざけやがって！<end_line />
   </sjis>

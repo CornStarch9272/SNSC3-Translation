@@ -1,24 +1,24 @@
 <dialogue>
-	<info box="special">
+	<info box="special" />
 	<sjis>
 		ウリキレチュウ<three_dots /><end_line />
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="special">
+	<info box="special" />
 	<sjis>
 		近日稼動予定！<end_line />
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="special">
+	<info box="special" />
 	<sjis>
 		おしまいッ！<end_line />
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="player">
+	<info box="simple" />
+	<portrait_l name="player" />
 	<male>
 		<sjis>
 			福引き券が足りない<three_dots /><end_line />
@@ -31,8 +31,8 @@
 	</female>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="player">
+	<info box="simple" />
+	<portrait_l name="player" />
 	<male>
 		<sjis>
 			福引き券持ってない<three_dots /><end_line />

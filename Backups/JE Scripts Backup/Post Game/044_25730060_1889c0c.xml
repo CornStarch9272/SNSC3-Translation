@@ -1,7 +1,7 @@
 <dialogue>
-  <info box="right">
-  <portrait_l entry="player" eye="decided" mouth="neutral">
-  <portrait_r entry="jade" eye="happy" mouth="talk">
+  <info box="right" />
+  <portrait_l entry="player" eye="decided" mouth="neutral" />
+  <portrait_r entry="jade" eye="happy" mouth="talk" />
   <sjis>
     強くなったな<three_dots /><end_line />
     さすがオレのライバルだぜ！<end_line />
@@ -12,9 +12,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="right">
-  <portrait_l entry="player" eye="decided" mouth="neutral">
-  <portrait_r entry="jade" eye="decided" mouth="talk">
+  <info box="right" />
+  <portrait_l entry="player" eye="decided" mouth="neutral" />
+  <portrait_r entry="jade" eye="decided" mouth="talk" />
   <sjis>
     強くなったな<three_dots /><end_line />
     さすがロブの弟子だぜ<end_line />
@@ -25,9 +25,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="right">
-  <portrait_l entry="player" eye="sad" mouth="serious">
-  <portrait_r entry="jade" eye="decided" mouth="yell">
+  <info box="right" />
+  <portrait_l entry="player" eye="sad" mouth="serious" />
+  <portrait_r entry="jade" eye="decided" mouth="yell" />
   <sjis>
     そんなウデではオレはたおせないぜ<end_line />
     なぜならオレは<three_dots /><end_line />
@@ -40,9 +40,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="right">
-  <portrait_l entry="player" eye="serious" mouth="neutral">
-  <portrait_r entry="jade" eye="serious" mouth="neutral">
+  <info box="right" />
+  <portrait_l entry="player" eye="serious" mouth="neutral" />
+  <portrait_r entry="jade" eye="serious" mouth="neutral" />
   <sjis>
     お前がオレに会いにくる理由は<end_line />
     ただ一つ、勝負だな？<end_line />
@@ -55,9 +55,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="right">
-  <portrait_l entry="player" eye="serious" mouth="neutral">
-  <portrait_r entry="jade" eye="decided" mouth="talk">
+  <info box="right" />
+  <portrait_l entry="player" eye="serious" mouth="neutral" />
+  <portrait_r entry="jade" eye="decided" mouth="talk" />
   <sjis>
     オレがお前にとって<end_line />
     宿命のライバルだからだ！<end_line />
@@ -67,9 +67,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="right">
-  <portrait_l entry="player" eye="serious" mouth="neutral">
-  <portrait_r entry="jade" eye="serious" mouth="talk">
+  <info box="right" />
+  <portrait_l entry="player" eye="serious" mouth="neutral" />
+  <portrait_r entry="jade" eye="serious" mouth="talk" />
   <sjis>
     修行、がんばってるみたいだな<end_line />
     いい武器ができたならいつでも<end_line />
@@ -82,9 +82,9 @@
   </ascii>
 </dialogue>
 <choice>
-  <info box="left">
-  <portrait_l entry="player" eye="serious" mouth="neutral">
-  <portrait_r entry="jade" eye="serious" mouth="talk">
+  <info box="left" />
+  <portrait_l entry="player" eye="serious" mouth="neutral" />
+  <portrait_r entry="jade" eye="serious" mouth="talk" />
   <option>
     <sjis>
       勝負する<end_line />
@@ -103,8 +103,8 @@
   </option>
 </choice>
 <dialogue>
-  <info box="right">
-  <portrait_r name="jade">
+  <info box="right" />
+  <portrait_r name="jade" />
   <sjis>
     そっか<end_line />
     じゃあ、気ぃつけてな<end_line />

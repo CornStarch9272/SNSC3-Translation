@@ -9,8 +9,8 @@
 	</sjis>
 </location>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="gatekeeper">
+	<info box="simple" />
+	<portrait_l name="gatekeeper" />
 	<sjis>
 		いつでも遊びに来てください<end_line />
 		特に歓迎はできませんが<end_line />

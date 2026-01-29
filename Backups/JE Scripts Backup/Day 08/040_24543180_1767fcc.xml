@@ -4,8 +4,8 @@
   </sjis>
 </location>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="chief">
+  <info box="simple" />
+  <portrait_l name="chief" />
   <sjis>
     やらなきゃならんことがあるなら<end_line />
     今はそれに全力を注げ<end_line />
@@ -17,8 +17,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="man">
+  <info box="simple" />
+  <portrait_l name="man" />
   <sjis>
     あ～何だ<end_line />
     その～あれだ<end_line />

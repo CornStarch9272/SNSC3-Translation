@@ -1,5 +1,5 @@
 <dialogue>
-	<info box="simple">
+	<info box="simple" />
 	<sjis>
 		現在移動可能な接続先が<end_line />
 		存在しないので使用できません<end_line />

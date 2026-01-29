@@ -10,8 +10,8 @@
 </location>
 ###ElderlyVoijin
 <dialogue>
-  <info box="simple">
-  <portrait_l name="elderly">
+  <info box="simple" />
+  <portrait_l name="elderly" />
   <male>
     <sjis>
       ギャラハンの息子は<end_line />
@@ -30,8 +30,8 @@
   </female>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="elderly">
+  <info box="simple" />
+  <portrait_l name="elderly" />
   <sjis>
     ヴォイジンという男に<end_line />
     殺されたんじゃ<end_line />
@@ -41,8 +41,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="peddler's_daughter">
+  <info box="simple" />
+  <portrait_l name="peddler's_daughter" />
   <sjis>
     最近のお母様は、とにかくすごい<end_line />
     鍛冶師を見つける事だけに<end_line />
@@ -55,8 +55,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="peddler's_daughter">
+  <info box="simple" />
+  <portrait_l name="peddler's_daughter" />
   <sjis>
     まったくお金を儲けてきてくれないから<end_line />
     私が稼がないと泊まるとこにも<end_line />
@@ -69,8 +69,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="peddler's_daughter">
+  <info box="simple" />
+  <portrait_l name="peddler's_daughter" />
   <sjis>
     ところであなたは、鍛冶師みたいだけど<end_line />
     強化の情報を聞いていかない？<end_line />
@@ -82,7 +82,7 @@
   </ascii>
 </dialogue>
 <choice>
-  <info box="simple">
+  <info box="simple" />
   <option>
     <sjis>
       聞いてみる<end_line />
@@ -101,8 +101,8 @@
   </option>
 </choice>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="peddler's_daughter">
+  <info box="simple" />
+  <portrait_l name="peddler's_daughter" />
   <sjis>
     えっとね、強化で「伝説の青竹」を<end_line />
     使うと特殊効果の「中ヒール」が<end_line />
@@ -116,8 +116,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="peddler's_daughter">
+  <info box="simple" />
+  <portrait_l name="peddler's_daughter" />
   <sjis>
     でもって、今回はなんと<end_line />
     「伝説の青竹」を、１５００バームで<end_line />
@@ -130,8 +130,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="peddler's_daughter">
+  <info box="simple" />
+  <portrait_l name="peddler's_daughter" />
   <sjis>
     買ってくれます？<end_line />
   </sjis>
@@ -140,7 +140,7 @@
   </ascii>
 </dialogue>
 <choice>
-  <info box="simple">
+  <info box="simple" />
   <option>
     <sjis>
       買う<end_line />
@@ -159,8 +159,8 @@
   </option>
 </choice>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="peddler's_daughter">
+  <info box="simple" />
+  <portrait_l name="peddler's_daughter" />
   <sjis>
     ありがと～<end_line />
   </sjis>
@@ -169,8 +169,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="peddler's_daughter">
+  <info box="simple" />
+  <portrait_l name="peddler's_daughter" />
   <sjis>
     ええぇ～これじゃ～<end_line />
     お金たりないの～<end_line />
@@ -183,8 +183,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="peddler's_daughter">
+  <info box="simple" />
+  <portrait_l name="peddler's_daughter" />
   <sjis>
     え～聞くだけ聞いて買ってくれないの～<end_line />
     ケチ～<end_line />
@@ -196,8 +196,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="peddler's_daughter">
+  <info box="simple" />
+  <portrait_l name="peddler's_daughter" />
   <sjis>
     え～聞いてくれないの～<end_line />
     せっかくのお客さんだと思ったのに～<end_line />
@@ -209,7 +209,7 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
+  <info box="simple" />
   <sjis>
     <three_dots /><end_line />
   </sjis>

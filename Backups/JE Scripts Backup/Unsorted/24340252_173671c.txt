@@ -4,8 +4,8 @@
 	</sjis>
 </location>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="player">
+	<info box="simple" />
+	<portrait_l name="player" />
 	<male>
 		<sjis>
 			ミューノが心配だ！<end_line />

@@ -9,7 +9,7 @@
 	</sjis>
 </location>
 <dialogue>
-	<info box="simple">
+	<info box="simple" />
 	<sjis>
 		マテルも取り扱っています<end_line />
 		もちろん鍛冶に最適なアイテムも<end_line />
@@ -22,8 +22,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="shop_clerk">
+	<info box="simple" />
+	<portrait_l name="shop_clerk" />
 	<sjis>
 		最近ははぐれのせいでいそがしくてね<end_line />
 	</sjis>

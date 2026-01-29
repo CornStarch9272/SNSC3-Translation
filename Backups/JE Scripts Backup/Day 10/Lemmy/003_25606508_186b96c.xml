@@ -1,7 +1,7 @@
 <dialogue>
-	<info box="left">
-	<portrait_l entry="player" eye="serious" mouth="tense">
-	<portrait_r entry="zakk" eye="serious" mouth="neutral">
+	<info box="left" />
+	<portrait_l entry="player" eye="serious" mouth="tense" />
+	<portrait_r entry="zakk" eye="serious" mouth="neutral" />
 	<male>
 		<sjis>
 			お前、ケガは大丈夫なのか？<end_line />
@@ -17,9 +17,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="right">
-	<portrait_l entry="player" eye="serious" mouth="tense">
-	<portrait_r entry="zakk" eye="decided" mouth="talk">
+	<info box="right" />
+	<portrait_l entry="player" eye="serious" mouth="tense" />
+	<portrait_r entry="zakk" eye="decided" mouth="talk" />
 	<sjis>
 		うん！<end_line />
 		あのくらい、へっちゃらさ<end_line />
@@ -30,9 +30,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="left">
-	<portrait_l entry="player" eye="serious" mouth="talk">
-	<portrait_r entry="zakk" eye="decided" mouth="talk">
+	<info box="left" />
+	<portrait_l entry="player" eye="serious" mouth="talk" />
+	<portrait_r entry="zakk" eye="decided" mouth="talk" />
 	<male>
 		<sjis>
 			良かった<three_dots /><end_line />
@@ -51,9 +51,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="right">
-	<portrait_l entry="player" eye="serious" mouth="talk">
-	<portrait_r entry="zakk" eye="sad" mouth="tense">
+	<info box="right" />
+	<portrait_l entry="player" eye="serious" mouth="talk" />
+	<portrait_r entry="zakk" eye="sad" mouth="tense" />
 	<sjis>
 		あ、うん<three_dots /><end_line />
 		ごめん<three_dots /><end_line />
@@ -64,9 +64,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="left">
-	<portrait_l entry="player" eye="serious" mouth="neutral">
-	<portrait_r entry="zakk" eye="sad" mouth="tense">
+	<info box="left" />
+	<portrait_l entry="player" eye="serious" mouth="neutral" />
+	<portrait_r entry="zakk" eye="sad" mouth="tense" />
 	<male>
 		<sjis>
 			お前があやまることないよ<end_line />
@@ -88,9 +88,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="right">
-	<portrait_l entry="player" eye="serious" mouth="neutral">
-	<portrait_r entry="zakk" eye="decided" mouth="neutral">
+	<info box="right" />
+	<portrait_l entry="player" eye="serious" mouth="neutral" />
+	<portrait_r entry="zakk" eye="decided" mouth="neutral" />
 	<sjis>
 		そっちこそ！<end_line />
 	</sjis>

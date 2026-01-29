@@ -9,8 +9,8 @@
 	</sjis>
 </location>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="woman">
+	<info box="simple" />
+	<portrait_l name="woman" />
 	<sjis>
 		鍛冶師って、刃物だけでなくて<end_line />
 		弓矢やドリルもハンマーで<end_line />
@@ -23,8 +23,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="woman">
+	<info box="simple" />
+	<portrait_l name="woman" />
 	<sjis>
 		そんな面倒くさいことして<end_line />
 		いったい何がおもしろいのかしら<end_line />

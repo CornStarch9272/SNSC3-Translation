@@ -1,7 +1,7 @@
 <dialogue>
-  <info box="right">
-  <portrait_l entry="player" eye="decided" mouth="neutral">
-  <portrait_r entry="weido_1" eye="decided" mouth="serious">
+  <info box="right" />
+  <portrait_l entry="player" eye="decided" mouth="neutral" />
+  <portrait_r entry="weido_1" eye="decided" mouth="serious" />
   <sjis>
     くそう！<end_line />
     今度は負けねぇぞ！<end_line />
@@ -12,9 +12,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="right">
-  <portrait_l entry="player" eye="sad" mouth="serious">
-  <portrait_r entry="weido_1" eye="decided" mouth="talk">
+  <info box="right" />
+  <portrait_l entry="player" eye="sad" mouth="serious" />
+  <portrait_r entry="weido_1" eye="decided" mouth="talk" />
   <sjis>
     どうだ！<end_line />
     オレの修行の成果！<end_line />
@@ -25,9 +25,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="right">
-  <portrait_l entry="player" eye="serious" mouth="neutral">
-  <portrait_r entry="weido_1" eye="decided" mouth="neutral">
+  <info box="right" />
+  <portrait_l entry="player" eye="serious" mouth="neutral" />
+  <portrait_r entry="weido_1" eye="decided" mouth="neutral" />
   <sjis>
     オレも修行して強くなってるんだぜ<end_line />
     どうだ？<end_line />
@@ -40,9 +40,9 @@
   </ascii>
 </dialogue>
 <choice>
-  <info box="left">
-  <portrait_l entry="player" eye="serious" mouth="neutral">
-  <portrait_r entry="weido_1" eye="decided" mouth="neutral">
+  <info box="left" />
+  <portrait_l entry="player" eye="serious" mouth="neutral" />
+  <portrait_r entry="weido_1" eye="decided" mouth="neutral" />
   <option>
     <sjis>
       勝負する<end_line />
@@ -61,8 +61,8 @@
   </option>
 </choice>
 <dialogue>
-  <info box="right">
-  <portrait_r name="serge">
+  <info box="right" />
+  <portrait_r name="serge" />
   <sjis>
     そうか<end_line />
     じゃ、また今度な<end_line />

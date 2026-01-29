@@ -4,8 +4,8 @@
   </sjis>
 </location>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="elderly">
+  <info box="simple" />
+  <portrait_l name="elderly" />
   <sjis>
     わしら誰にも迷惑かけずに<end_line />
     静かに暮らしておるのに<end_line />
@@ -18,8 +18,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="elderly">
+  <info box="simple" />
+  <portrait_l name="elderly" />
   <sjis>
     また、恐ろしいことが<end_line />
     起きなければよいのじゃが<end_line />
@@ -30,8 +30,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="elderly">
+  <info box="simple" />
+  <portrait_l name="elderly" />
   <male>
     <sjis>
       ギャラハンの息子は<end_line />
@@ -50,8 +50,8 @@
   </female>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="elderly">
+  <info box="simple" />
+  <portrait_l name="elderly" />
   <sjis>
     ヴォイジンという男に<end_line />
     殺されたんじゃ<end_line />

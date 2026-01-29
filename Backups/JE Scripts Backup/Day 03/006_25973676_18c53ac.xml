@@ -1,6 +1,6 @@
 ﻿<dialogue>
-	<info box="simple">
-	<portrait_l name="chief">
+	<info box="simple" />
+	<portrait_l name="chief" />
 	<sjis>
 		おお、そうだ<end_line />
 		ミガ石が、きれてるのだが<end_line />
@@ -13,8 +13,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="chief">
+	<info box="simple" />
+	<portrait_l name="chief" />
 	<sjis>
 		おお、それだ、それだ<end_line />
 	</sjis>
@@ -50,8 +50,8 @@
 	</option>
 </menu>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="chief">
+	<info box="simple" />
+	<portrait_l name="chief" />
 	<sjis>
 		お礼に、これを上げよう<end_line />
 	</sjis>
@@ -60,8 +60,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="chief">
+	<info box="simple" />
+	<portrait_l name="chief" />
 	<sjis>
 		がんばれよ<end_line />
 	</sjis>
@@ -70,8 +70,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="chief">
+	<info box="simple" />
+	<portrait_l name="chief" />
 	<sjis>
 		なんだ、渡してくれんのか<end_line />
 	</sjis>
@@ -80,8 +80,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="chief">
+	<info box="simple" />
+	<portrait_l name="chief" />
 	<sjis>
 		ミガ石、持ってきてくれたのか<end_line />
 	</sjis>
@@ -90,8 +90,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="chief">
+	<info box="simple" />
+	<portrait_l name="chief" />
 	<sjis>
 		おお、それだ、それだ<end_line />
 	</sjis>
@@ -127,8 +127,8 @@
 	</option>
 </menu>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="chief">
+	<info box="simple" />
+	<portrait_l name="chief" />
 	<sjis>
 		お礼に、これを上げよう<end_line />
 	</sjis>
@@ -137,8 +137,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="chief">
+	<info box="simple" />
+	<portrait_l name="chief" />
 	<sjis>
 		がんばれよ<end_line />
 	</sjis>
@@ -147,8 +147,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="chief">
+	<info box="simple" />
+	<portrait_l name="chief" />
 	<sjis>
 		なんだ、渡してくれんのか<end_line />
 	</sjis>
@@ -157,8 +157,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="chief">
+	<info box="simple" />
+	<portrait_l name="chief" />
 	<sjis>
 		がんばれよ<end_line />
 	</sjis>
@@ -167,8 +167,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="merchant">
+	<info box="simple" />
+	<portrait_l name="merchant" />
 	<sjis>
 		ねぇ、カティン鉱石<end_line />
 		探してきてくれない<end_line />
@@ -179,8 +179,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="merchant">
+	<info box="simple" />
+	<portrait_l name="merchant" />
 	<sjis>
 		欲しがってるお客さんがいるのよ<end_line />
 		代わりにイイ掘り出し物をあげるから<end_line />
@@ -193,8 +193,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="merchant">
+	<info box="simple" />
+	<portrait_l name="merchant" />
 	<sjis>
 		それ、それ<end_line />
 		ちょーだい<end_line />
@@ -231,8 +231,8 @@
 	</option>
 </menu>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="merchant">
+	<info box="simple" />
+	<portrait_l name="merchant" />
 	<sjis>
 		このくらいでイイかしら<end_line />
 	</sjis>
@@ -241,8 +241,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="merchant">
+	<info box="simple" />
+	<portrait_l name="merchant" />
 	<sjis>
 		けち～<end_line />
 	</sjis>
@@ -251,8 +251,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="merchant">
+	<info box="simple" />
+	<portrait_l name="merchant" />
 	<sjis>
 		ねぇ、カティン鉱石<end_line />
 	</sjis>
@@ -261,8 +261,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="merchant">
+	<info box="simple" />
+	<portrait_l name="merchant" />
 	<sjis>
 		ね？おねがい<end_line />
 	</sjis>
@@ -271,8 +271,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="merchant">
+	<info box="simple" />
+	<portrait_l name="merchant" />
 	<sjis>
 		それ、それ<end_line />
 		ちょーだい<end_line />
@@ -309,8 +309,8 @@
 	</option>
 </menu>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="merchant">
+	<info box="simple" />
+	<portrait_l name="merchant" />
 	<sjis>
 		このくらいでイイかしら<end_line />
 	</sjis>
@@ -319,8 +319,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="merchant">
+	<info box="simple" />
+	<portrait_l name="merchant" />
 	<sjis>
 		またいつかたのむわね<end_line />
 	</sjis>
@@ -329,8 +329,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="merchant">
+	<info box="simple" />
+	<portrait_l name="merchant" />
 	<sjis>
 		けち～<end_line />
 	</sjis>
@@ -339,8 +339,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="merchant">
+	<info box="simple" />
+	<portrait_l name="merchant" />
 	<sjis>
 		またいつかたのむわね<end_line />
 	</sjis>
@@ -349,8 +349,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="elderly">
+	<info box="simple" />
+	<portrait_l name="elderly" />
 	<sjis>
 		どうしてもキッカ薬が、<end_line />
 		欲しいのじゃが<end_line />
@@ -363,8 +363,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="elderly">
+	<info box="simple" />
+	<portrait_l name="elderly" />
 	<sjis>
 		おお、それじゃ、それじゃ<end_line />
 		わしにゆずってくれ<end_line />
@@ -401,8 +401,8 @@
 	</option>
 </menu>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="elderly">
+	<info box="simple" />
+	<portrait_l name="elderly" />
 	<sjis>
 		お礼に、これを上げよう<end_line />
 	</sjis>
@@ -411,8 +411,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="elderly">
+	<info box="simple" />
+	<portrait_l name="elderly" />
 	<sjis>
 		この恩は忘れぬぞ<end_line />
 	</sjis>
@@ -421,8 +421,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="elderly">
+	<info box="simple" />
+	<portrait_l name="elderly" />
 	<sjis>
 		なんじゃ、渡してくれぬのか<end_line />
 	</sjis>
@@ -431,8 +431,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="elderly">
+	<info box="simple" />
+	<portrait_l name="elderly" />
 	<sjis>
 		どこかに<end_line />
 		キッカ薬が、<end_line />
@@ -444,8 +444,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="elderly">
+	<info box="simple" />
+	<portrait_l name="elderly" />
 	<sjis>
 		おお、それじゃ、それじゃ<end_line />
 		わしにゆずってくれ<end_line />
@@ -482,8 +482,8 @@
 	</option>
 </menu>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="elderly">
+	<info box="simple" />
+	<portrait_l name="elderly" />
 	<sjis>
 		お礼に、これを上げよう<end_line />
 	</sjis>
@@ -492,8 +492,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="elderly">
+	<info box="simple" />
+	<portrait_l name="elderly" />
 	<sjis>
 		この恩は忘れぬぞ<end_line />
 	</sjis>
@@ -502,8 +502,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="elderly">
+	<info box="simple" />
+	<portrait_l name="elderly" />
 	<sjis>
 		なんじゃ、渡してくれぬのか<end_line />
 	</sjis>
@@ -512,8 +512,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="elderly">
+	<info box="simple" />
+	<portrait_l name="elderly" />
 	<sjis>
 		この恩は忘れぬぞ<end_line />
 	</sjis>
@@ -522,8 +522,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="man">
+	<info box="simple" />
+	<portrait_l name="man" />
 	<sjis>
 		ああ、そこのキミ<end_line />
 		魔よけのお守りを<end_line />
@@ -536,8 +536,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="man">
+	<info box="simple" />
+	<portrait_l name="man" />
 	<sjis>
 		最近、ホントに身の危険感じるんだよね<end_line />
 		どこかに無いかな～<end_line />
@@ -549,8 +549,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="man">
+	<info box="simple" />
+	<portrait_l name="man" />
 	<sjis>
 		それだよそれそれ<end_line />
 		ボクに譲ってよ<end_line />
@@ -587,8 +587,8 @@
 	</option>
 </menu>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="man">
+	<info box="simple" />
+	<portrait_l name="man" />
 	<sjis>
 		お礼にこれをあげよう<end_line />
 	</sjis>
@@ -597,8 +597,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="man">
+	<info box="simple" />
+	<portrait_l name="man" />
 	<sjis>
 		またいつか<end_line />
 	</sjis>
@@ -607,8 +607,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="man">
+	<info box="simple" />
+	<portrait_l name="man" />
 	<sjis>
 		しょうがない、他を探すよ<end_line />
 	</sjis>
@@ -617,8 +617,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="man">
+	<info box="simple" />
+	<portrait_l name="man" />
 	<sjis>
 		どこかに<end_line />
 		魔よけのお守り、ないかな～<end_line />
@@ -629,8 +629,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="man">
+	<info box="simple" />
+	<portrait_l name="man" />
 	<sjis>
 		それだよそれそれ<end_line />
 		ボクに譲ってよ<end_line />
@@ -667,8 +667,8 @@
 	</option>
 </menu>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="man">
+	<info box="simple" />
+	<portrait_l name="man" />
 	<sjis>
 		お礼にこれをあげよう<end_line />
 	</sjis>
@@ -677,8 +677,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="man">
+	<info box="simple" />
+	<portrait_l name="man" />
 	<sjis>
 		またいつか<end_line />
 	</sjis>
@@ -687,8 +687,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="man">
+	<info box="simple" />
+	<portrait_l name="man" />
 	<sjis>
 		しょうがない、他を探すよ<end_line />
 	</sjis>
@@ -697,8 +697,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="man">
+	<info box="simple" />
+	<portrait_l name="man" />
 	<sjis>
 		またいつか<end_line />
 	</sjis>
@@ -707,8 +707,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="merchant">
+	<info box="simple" />
+	<portrait_l name="merchant" />
 	<sjis>
 		これから、探索かい？<end_line />
 		ついでに、逆光ライト<end_line />
@@ -721,8 +721,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="merchant">
+	<info box="simple" />
+	<portrait_l name="merchant" />
 	<sjis>
 		いまなら、口じゃ言えないくらい<end_line />
 		良いものと交換だ<end_line />
@@ -734,8 +734,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="merchant">
+	<info box="simple" />
+	<portrait_l name="merchant" />
 	<sjis>
 		おお、それだよ、それ<end_line />
 	</sjis>
@@ -770,8 +770,8 @@
 	</option>
 </menu>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="merchant">
+	<info box="simple" />
+	<portrait_l name="merchant" />
 	<sjis>
 		ありがとう<end_line />
 		かわりにコレを受け取ってくれ<end_line />
@@ -782,8 +782,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="merchant">
+	<info box="simple" />
+	<portrait_l name="merchant" />
 	<sjis>
 		え？<end_line />
 		そんなにすごいモンじゃない？<end_line />
@@ -794,8 +794,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="merchant">
+	<info box="simple" />
+	<portrait_l name="merchant" />
 	<sjis>
 		オレは商売が上手いんだよ<end_line />
 		アハハハハ<end_line />
@@ -806,8 +806,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="merchant">
+	<info box="simple" />
+	<portrait_l name="merchant" />
 	<sjis>
 		またいつか<end_line />
 	</sjis>
@@ -816,8 +816,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="merchant">
+	<info box="simple" />
+	<portrait_l name="merchant" />
 	<sjis>
 		あ～あ～<end_line />
 		ほんと、これは良いものなのに<end_line />
@@ -828,8 +828,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="merchant">
+	<info box="simple" />
+	<portrait_l name="merchant" />
 	<sjis>
 		ついででいいから、<end_line />
 		逆光ライト<end_line />
@@ -842,8 +842,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="merchant">
+	<info box="simple" />
+	<portrait_l name="merchant" />
 	<sjis>
 		どこかの町の<end_line />
 		釣りの景品になってるって<end_line />
@@ -855,8 +855,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="merchant">
+	<info box="simple" />
+	<portrait_l name="merchant" />
 	<sjis>
 		おお、それだよ、それ<end_line />
 	</sjis>
@@ -891,8 +891,8 @@
 	</option>
 </menu>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="merchant">
+	<info box="simple" />
+	<portrait_l name="merchant" />
 	<sjis>
 		ありがとう<end_line />
 		かわりにコレを受け取ってくれ<end_line />
@@ -903,8 +903,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="merchant">
+	<info box="simple" />
+	<portrait_l name="merchant" />
 	<sjis>
 		え？<end_line />
 		そんなにすごいモンじゃない？<end_line />
@@ -915,8 +915,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="merchant">
+	<info box="simple" />
+	<portrait_l name="merchant" />
 	<sjis>
 		オレは商売が上手いんだよ<end_line />
 		アハハハハ<end_line />
@@ -927,8 +927,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="merchant">
+	<info box="simple" />
+	<portrait_l name="merchant" />
 	<sjis>
 		あ～あ～<end_line />
 		ほんと、これは良いものなのに<end_line />
@@ -939,8 +939,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="merchant">
+	<info box="simple" />
+	<portrait_l name="merchant" />
 	<sjis>
 		またいつか<end_line />
 	</sjis>
@@ -949,8 +949,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="merchant">
+	<info box="simple" />
+	<portrait_l name="merchant" />
 	<sjis>
 		まだ、しばらく、こっちにいるかい？<end_line />
 	</sjis>
@@ -959,8 +959,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="merchant">
+	<info box="simple" />
+	<portrait_l name="merchant" />
 	<sjis>
 		このあたり、うろつくんなら<end_line />
 		ついでに、黒の鉱石<end_line />
@@ -973,8 +973,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="merchant">
+	<info box="simple" />
+	<portrait_l name="merchant" />
 	<sjis>
 		良いものと交換してやるよ<end_line />
 	</sjis>
@@ -983,8 +983,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="merchant">
+	<info box="simple" />
+	<portrait_l name="merchant" />
 	<sjis>
 		おぉ！、それだよ<end_line />
 		ホント、すまねぇ<end_line />
@@ -1020,8 +1020,8 @@
 	</option>
 </menu>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="merchant">
+	<info box="simple" />
+	<portrait_l name="merchant" />
 	<sjis>
 		ありがとう<end_line />
 		かわりにコレを受け取ってくれ<end_line />
@@ -1032,8 +1032,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="merchant">
+	<info box="simple" />
+	<portrait_l name="merchant" />
 	<sjis>
 		またいつかな<end_line />
 		体に気ぃつけてな<end_line />
@@ -1044,8 +1044,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="merchant">
+	<info box="simple" />
+	<portrait_l name="merchant" />
 	<sjis>
 		とほほ、駄目かい<end_line />
 	</sjis>
@@ -1054,8 +1054,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="merchant">
+	<info box="simple" />
+	<portrait_l name="merchant" />
 	<sjis>
 		先を急ぐんならしょうがない<end_line />
 		黒の鉱石は惜しいが<end_line />
@@ -1067,8 +1067,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="merchant">
+	<info box="simple" />
+	<portrait_l name="merchant" />
 	<sjis>
 		おぉ！、それだよ<end_line />
 		ホント、すまねぇ<end_line />
@@ -1104,8 +1104,8 @@
 	</option>
 </menu>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="merchant">
+	<info box="simple" />
+	<portrait_l name="merchant" />
 	<sjis>
 		ありがとう<end_line />
 		かわりにコレを受け取ってくれ<end_line />
@@ -1116,8 +1116,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="merchant">
+	<info box="simple" />
+	<portrait_l name="merchant" />
 	<sjis>
 		またいつかな<end_line />
 		体に気ぃつけてな<end_line />
@@ -1128,8 +1128,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="merchant">
+	<info box="simple" />
+	<portrait_l name="merchant" />
 	<sjis>
 		とほほ、駄目かい<end_line />
 	</sjis>
@@ -1138,8 +1138,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="merchant">
+	<info box="simple" />
+	<portrait_l name="merchant" />
 	<sjis>
 		またいつかな<end_line />
 		体に気ぃつけてな<end_line />
@@ -1150,8 +1150,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="merchant">
+	<info box="simple" />
+	<portrait_l name="merchant" />
 	<sjis>
 		これから、探索かい？<end_line />
 		ついでに、吸血ポンプ<end_line />
@@ -1164,8 +1164,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="merchant">
+	<info box="simple" />
+	<portrait_l name="merchant" />
 	<sjis>
 		いまなら、口じゃ言えないくらい<end_line />
 		良いものと<end_line />
@@ -1178,8 +1178,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="merchant">
+	<info box="simple" />
+	<portrait_l name="merchant" />
 	<sjis>
 		おお、それだよ、それ<end_line />
 	</sjis>
@@ -1214,8 +1214,8 @@
 	</option>
 </menu>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="merchant">
+	<info box="simple" />
+	<portrait_l name="merchant" />
 	<sjis>
 		ありがとう<end_line />
 		かわりにコレを受け取ってくれ<end_line />
@@ -1226,8 +1226,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="merchant">
+	<info box="simple" />
+	<portrait_l name="merchant" />
 	<sjis>
 		またいつか<end_line />
 	</sjis>
@@ -1236,8 +1236,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="merchant">
+	<info box="simple" />
+	<portrait_l name="merchant" />
 	<sjis>
 		あ～あ～<end_line />
 		ほんと、これは良いものなのに<end_line />
@@ -1248,8 +1248,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="merchant">
+	<info box="simple" />
+	<portrait_l name="merchant" />
 	<sjis>
 		ついででいいから、<end_line />
 		吸血ポンプ<end_line />
@@ -1262,8 +1262,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="merchant">
+	<info box="simple" />
+	<portrait_l name="merchant" />
 	<sjis>
 		おお、それだよ、それ<end_line />
 	</sjis>
@@ -1298,8 +1298,8 @@
 	</option>
 </menu>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="merchant">
+	<info box="simple" />
+	<portrait_l name="merchant" />
 	<sjis>
 		ありがとう<end_line />
 		かわりにコレを受け取ってくれ<end_line />
@@ -1310,8 +1310,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="merchant">
+	<info box="simple" />
+	<portrait_l name="merchant" />
 	<sjis>
 		またいつか<end_line />
 	</sjis>
@@ -1320,8 +1320,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="merchant">
+	<info box="simple" />
+	<portrait_l name="merchant" />
 	<sjis>
 		あ～あ～<end_line />
 		ほんと、これは良いものなのに<end_line />
@@ -1332,8 +1332,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="merchant">
+	<info box="simple" />
+	<portrait_l name="merchant" />
 	<sjis>
 		またいつか<end_line />
 	</sjis>
@@ -1342,8 +1342,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="gatekeeper">
+	<info box="simple" />
+	<portrait_l name="gatekeeper" />
 	<sjis>
 		あ～～無性に、<end_line />
 		卵かけ飯が喰いたい～<end_line />
@@ -1354,8 +1354,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="gatekeeper">
+	<info box="simple" />
+	<portrait_l name="gatekeeper" />
 	<sjis>
 		でも、ここから離れられない～<end_line />
 	</sjis>
@@ -1364,8 +1364,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="gatekeeper">
+	<info box="simple" />
+	<portrait_l name="gatekeeper" />
 	<sjis>
 		はっ！<end_line />
 		この香りはまさかキミ！<end_line />
@@ -1402,8 +1402,8 @@
 	</option>
 </menu>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="gatekeeper">
+	<info box="simple" />
+	<portrait_l name="gatekeeper" />
 	<sjis>
 		ありがとう<end_line />
 		かわりにコレを受け取ってくれ<end_line />
@@ -1414,8 +1414,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="gatekeeper">
+	<info box="simple" />
+	<portrait_l name="gatekeeper" />
 	<sjis>
 		またいつか<end_line />
 	</sjis>
@@ -1424,8 +1424,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="gatekeeper">
+	<info box="simple" />
+	<portrait_l name="gatekeeper" />
 	<sjis>
 		冷やかしかよ<end_line />
 		ちくしょう～～～<end_line />
@@ -1436,8 +1436,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="gatekeeper">
+	<info box="simple" />
+	<portrait_l name="gatekeeper" />
 	<sjis>
 		卵かけ飯<end_line />
 	</sjis>
@@ -1446,8 +1446,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="gatekeeper">
+	<info box="simple" />
+	<portrait_l name="gatekeeper" />
 	<sjis>
 		あ～～～<end_line />
 	</sjis>
@@ -1456,8 +1456,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="gatekeeper">
+	<info box="simple" />
+	<portrait_l name="gatekeeper" />
 	<sjis>
 		はっ！<end_line />
 		この香りはまさかキミ！<end_line />
@@ -1494,8 +1494,8 @@
 	</option>
 </menu>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="gatekeeper">
+	<info box="simple" />
+	<portrait_l name="gatekeeper" />
 	<sjis>
 		ありがとう<end_line />
 		かわりにコレを受け取ってくれ<end_line />
@@ -1506,8 +1506,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="gatekeeper">
+	<info box="simple" />
+	<portrait_l name="gatekeeper" />
 	<sjis>
 		またいつか<end_line />
 	</sjis>
@@ -1516,8 +1516,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="gatekeeper">
+	<info box="simple" />
+	<portrait_l name="gatekeeper" />
 	<sjis>
 		冷やかしかよ<end_line />
 		ちくしょう～～～<end_line />
@@ -1528,8 +1528,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="gatekeeper">
+	<info box="simple" />
+	<portrait_l name="gatekeeper" />
 	<sjis>
 		またいつか<end_line />
 	</sjis>
@@ -1538,8 +1538,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="woman">
+	<info box="simple" />
+	<portrait_l name="woman" />
 	<sjis>
 		ねぇ、キミ<end_line />
 		このあたりで、エールの実を見なかった<end_line />
@@ -1550,8 +1550,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="woman">
+	<info box="simple" />
+	<portrait_l name="woman" />
 	<sjis>
 		あれがあれば、<end_line />
 		なんとかなりそうなんだけど<end_line />
@@ -1562,8 +1562,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="woman">
+	<info box="simple" />
+	<portrait_l name="woman" />
 	<sjis>
 		それよ、ねぇ私に譲ってよ<end_line />
 	</sjis>
@@ -1598,8 +1598,8 @@
 	</option>
 </menu>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="woman">
+	<info box="simple" />
+	<portrait_l name="woman" />
 	<sjis>
 		ありがとう<end_line />
 		お礼と言っちゃなんだけど<end_line />
@@ -1609,8 +1609,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="woman">
+	<info box="simple" />
+	<portrait_l name="woman" />
 	<sjis>
 		ホントに無理言って、<end_line />
 		ごめんなさいね<end_line />
@@ -1621,8 +1621,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="woman">
+	<info box="simple" />
+	<portrait_l name="woman" />
 	<sjis>
 		自分で探すわよ<end_line />
 	</sjis>
@@ -1631,8 +1631,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="woman">
+	<info box="simple" />
+	<portrait_l name="woman" />
 	<sjis>
 		エールの実<end_line />
 		どこかに無いかしら<end_line />
@@ -1643,8 +1643,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="woman">
+	<info box="simple" />
+	<portrait_l name="woman" />
 	<sjis>
 		それよ、ねぇ私に譲ってよ<end_line />
 	</sjis>
@@ -1679,8 +1679,8 @@
 	</option>
 </menu>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="woman">
+	<info box="simple" />
+	<portrait_l name="woman" />
 	<sjis>
 		ありがとう<end_line />
 		お礼と言っちゃなんだけど<end_line />
@@ -1690,8 +1690,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="woman">
+	<info box="simple" />
+	<portrait_l name="woman" />
 	<sjis>
 		ホントに無理言って、<end_line />
 		ごめんなさいね<end_line />
@@ -1702,8 +1702,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="woman">
+	<info box="simple" />
+	<portrait_l name="woman" />
 	<sjis>
 		自分で探すわよ<end_line />
 	</sjis>
@@ -1712,8 +1712,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="woman">
+	<info box="simple" />
+	<portrait_l name="woman" />
 	<sjis>
 		ホントに無理言って、<end_line />
 		ごめんなさいね<end_line />

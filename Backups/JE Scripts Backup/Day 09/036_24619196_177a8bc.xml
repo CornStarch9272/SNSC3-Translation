@@ -10,7 +10,7 @@
 </location>
 ###SomeMessage
 <dialogue>
-  <info box="simple">
+  <info box="simple" />
   <sjis>
     何らかのメッセージ予定<end_line />
   </sjis>
@@ -19,8 +19,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="gatekeeper">
+  <info box="simple" />
+  <portrait_l name="gatekeeper" />
   <sjis>
     アカバネをたおしたんだって？<end_line />
     すごいなぁ<three_dots /><end_line />
@@ -32,8 +32,8 @@
 </dialogue>
 ###VillageChild
 <dialogue>
-  <info box="simple">
-  <portrait_l name="child">
+  <info box="simple" />
+  <portrait_l name="child" />
   <sjis>
     この町って、ごみごみしてて<end_line />
     いやよね<end_line />
@@ -44,8 +44,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="child">
+  <info box="simple" />
+  <portrait_l name="child" />
   <sjis>
     どこかに、しずかなところ<end_line />
     ないかしら<end_line />
@@ -55,7 +55,7 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
+  <info box="simple" />
   <sjis>
     この先のスレンジ採掘場の<end_line />
     凶悪なはぐれ召喚獣アカバネが<end_line />
@@ -68,7 +68,7 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
+  <info box="simple" />
   <sjis>
     しかし、その他のはぐれにも<end_line />
     キケンなものがいるので<end_line />
@@ -82,7 +82,7 @@
 </dialogue>
 ###OnlyMagic
 <dialogue>
-  <info box="simple">
+  <info box="simple" />
   <sjis>
     何度武器で攻撃してもダメージが<end_line />
     １の場合には、魔法しか効かない<end_line />
@@ -95,7 +95,7 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
+  <info box="simple" />
   <sjis>
     下を見ろ↓<end_line />
   </sjis>
@@ -104,7 +104,7 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
+  <info box="simple" />
   <sjis>
     ↑上を見たい時は<end_line />
     ＳＴＡＲＴボタン<end_line />

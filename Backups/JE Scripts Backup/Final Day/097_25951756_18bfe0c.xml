@@ -1,5 +1,5 @@
 <dialogue>
-  <info box="nobox">
+  <info box="nobox" />
   <sjis>
     　　　　　　　　　　　　　　　　　　<end_line />
     　　　　　　何日か経って<three_dots />　　　　　<end_line />
@@ -12,7 +12,7 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="nobox">
+  <info box="nobox" />
   <sjis>
     　　　　　自警団や金の派閥　　　　　<end_line />
     　　なにより町の人たちのおかげで　　<end_line />

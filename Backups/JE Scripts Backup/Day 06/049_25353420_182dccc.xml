@@ -1,7 +1,7 @@
 <dialogue>
-	<player gender="male">
-	<info box="left">
-	<portrait_l entry="player" eye="serious" mouth="tense">
+	<player gender="male" />
+	<info box="left" />
+	<portrait_l entry="player" eye="serious" mouth="tense" />
 	<sjis>
 		それにしてもトラムと<end_line />
 		１対１の勝負になるとは<end_line />
@@ -14,9 +14,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<player gender="male">
-	<info box="left">
-	<portrait_l entry="player" eye="sad" mouth="neutral">
+	<player gender="male" />
+	<info box="left" />
+	<portrait_l entry="player" eye="sad" mouth="neutral" />
 	<sjis>
 		そういえばみんなは<end_line />
 		オレたちがこんなことしてるの<end_line />
@@ -29,9 +29,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<player gender="female">
-	<info box="left">
-	<portrait_l entry="player" eye="serious" mouth="tense">
+	<player gender="female" />
+	<info box="left" />
+	<portrait_l entry="player" eye="serious" mouth="tense" />
 	<sjis>
 		それにしてもトラムと<end_line />
 		１対１の勝負になるとは<end_line />
@@ -44,9 +44,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<player gender="female">
-	<info box="left">
-	<portrait_l entry="player" eye="sad" mouth="neutral">
+	<player gender="female" />
+	<info box="left" />
+	<portrait_l entry="player" eye="sad" mouth="neutral" />
 	<sjis>
 		そういえばみんなは<end_line />
 		わたしたちがこんなことしてるの<end_line />
@@ -59,8 +59,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="left">
-	<portrait_l entry="player" eye="sad" mouth="stressed">
+	<info box="left" />
+	<portrait_l entry="player" eye="sad" mouth="stressed" />
 	<sjis>
 		みんな今ごろ<end_line />
 		何してるんだろ<three_dots /><end_line />
@@ -73,8 +73,8 @@
   </ascii>
 </dialogue>
 <choice>
-	<info box="left">
-	<portrait_l entry="player" eye="sad" mouth="neutral">
+	<info box="left" />
+	<portrait_l entry="player" eye="sad" mouth="neutral" />
 	<option>
 		<sjis>
 			親方のシチューが食べたいなぁ<end_line />
@@ -101,8 +101,8 @@
 	</option>
 </choice>
 <dialogue>
-	<info box="left">
-	<portrait_l entry="player" eye="serious" mouth="tense">
+	<info box="left" />
+	<portrait_l entry="player" eye="serious" mouth="tense" />
 	<sjis>
 		誰かいるのかな<three_dots /><end_line />
 		もしかして<end_line />

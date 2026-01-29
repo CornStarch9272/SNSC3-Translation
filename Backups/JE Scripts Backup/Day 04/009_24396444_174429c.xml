@@ -4,8 +4,8 @@
 	</sjis>
 </location>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="chief">
+	<info box="simple" />
+	<portrait_l name="chief" />
 	<sjis>
 		町での用はもう済んだのか？<end_line />
 	</sjis>
@@ -14,8 +14,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="woman">
+	<info box="simple" />
+	<portrait_l name="woman" />
 	<sjis>
 		薪を割るのにわざわざ空中に<end_line />
 		放り投げる技があるらしいけど<end_line />

@@ -9,7 +9,7 @@
 	</sjis>
 </location>
 <dialogue>
-	<info box="simple">
+	<info box="simple" />
 	<sjis>
 		旅先でケガをした経験はありませんか？<end_line />
 		そんな時にはＦエイド、何でもそろう<end_line />
@@ -17,8 +17,8 @@
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="peddler's_mother">
+	<info box="simple" />
+	<portrait_l name="peddler's_mother" />
 	<sjis>
 		そうそう、この町にはベンソン親方って<end_line />
 		すごい鍛冶職人がいるらしいね<end_line />
@@ -26,8 +26,8 @@
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="peddler's_mother">
+	<info box="simple" />
+	<portrait_l name="peddler's_mother" />
 	<sjis>
 		話をしてくれなかったの<end_line />
 		それと<three_dots />すっごく迫力があって<end_line />
@@ -35,8 +35,8 @@
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="peddler's_mother">
+	<info box="simple" />
+	<portrait_l name="peddler's_mother" />
 	<sjis>
 		また、振り出しにもどってしまった<end_line />
 		感じね<end_line />

@@ -9,8 +9,8 @@
 	</sjis>
 </location>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="roche">
+	<info box="simple" />
+	<portrait_l name="roche" />
 	<sjis>
 		ガケから落ちたそうじゃない<end_line />
 		元気そうでよかったわ<end_line />
@@ -23,8 +23,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="thuss">
+	<info box="simple" />
+	<portrait_l name="thuss" />
 	<sjis>
 		君がいない間、ティエがどれだけ<end_line />
 		心配していたか<three_dots /><end_line />
@@ -35,8 +35,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="thuss">
+	<info box="simple" />
+	<portrait_l name="thuss" />
 	<sjis>
 		あまりムチャはしないようにね<end_line />
 	</sjis>
@@ -45,7 +45,7 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
+	<info box="simple" />
 	<sjis>
 		ここから先は乙女の秘密<hearth /><end_line />
 		立ち入り禁止！！<end_line />
@@ -58,7 +58,7 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
+	<info box="simple" />
 	<sjis>
 		ゴロゴロ<three_dots /><end_line />
 	</sjis>

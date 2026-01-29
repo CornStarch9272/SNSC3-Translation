@@ -4,8 +4,8 @@
   </sjis>
 </location>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="eliez">
+  <info box="simple" />
+  <portrait_l name="eliez" />
   <male>
     <sjis>
       がんばってね！　おにーちゃん<end_line />
@@ -21,8 +21,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="benson">
+  <info box="simple" />
+  <portrait_l name="benson" />
   <sjis>
     ん！<end_line />
   </sjis>
@@ -31,8 +31,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="benson">
+  <info box="simple" />
+  <portrait_l name="benson" />
   <sjis>
     ん<end_line />
   </sjis>
@@ -41,8 +41,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="murno">
+  <info box="simple" />
+  <portrait_l name="murno" />
   <sjis>
     気をつけてね、<player_nickname /><three_dots /><end_line />
   </sjis>
@@ -51,8 +51,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="man">
+  <info box="simple" />
+  <portrait_l name="man" />
   <sjis>
     今日は床掃除なんです<end_line />
   </sjis>
@@ -61,7 +61,7 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
+  <info box="simple" />
   <sjis>
     武器を鍛える前に<end_line />
     まずは己を鍛えるべし<end_line />
@@ -72,7 +72,7 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
+  <info box="simple" />
   <sjis>
     　＜エリエからのおねがい<music_note /><end_line />
     つかったどうぐは、ちゃあんと<end_line />

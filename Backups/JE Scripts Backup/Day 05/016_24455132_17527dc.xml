@@ -4,8 +4,8 @@
 	</sjis>
 </location>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="child">
+	<info box="simple" />
+	<portrait_l name="child" />
 	<sjis>
 		この町って、ごみごみしてて<end_line />
 		いやよね<end_line />
@@ -16,8 +16,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="child">
+	<info box="simple" />
+	<portrait_l name="child" />
 	<sjis>
 		どこかに、しずかなところ<end_line />
 		ないかしら<end_line />
@@ -28,7 +28,7 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
+	<info box="simple" />
 	<sjis>
 		届け物は急ぐだけが能じゃない<end_line />
 		慎重さも大切なんです<end_line />

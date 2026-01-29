@@ -1,7 +1,7 @@
 <dialogue>
-  <info box="right">
-  <portrait_l entry="player" eye="serious" mouth="neutral">
-  <portrait_r entry="jade" eye="serious" mouth="tense">
+  <info box="right" />
+  <portrait_l entry="player" eye="serious" mouth="neutral" />
+  <portrait_r entry="jade" eye="serious" mouth="tense" />
   <sjis>
     おう、<player_nickname /><end_line />
     好きな武器をひとつ<end_line />
@@ -13,9 +13,9 @@
   </ascii>
 </dialogue>
 <choice>
-  <info box="left">
-  <portrait_l entry="player" eye="serious" mouth="tense">
-  <portrait_r entry="jade" eye="serious" mouth="tense">
+  <info box="left" />
+  <portrait_l entry="player" eye="serious" mouth="tense" />
+  <portrait_r entry="jade" eye="serious" mouth="tense" />
   <option>
     <sjis>
       ちゃんと選んできたよ<end_line />
@@ -34,8 +34,8 @@
   </option>
 </choice>
 <dialogue>
-  <info box="right">
-  <portrait_r name="jade">
+  <info box="right" />
+  <portrait_r name="jade" />
   <sjis>
     好きな武器をひとつ選べって<end_line />
     言ってるんだぜ？<end_line />

@@ -9,8 +9,8 @@
   </sjis>
 </location>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="elderly">
+  <info box="simple" />
+  <portrait_l name="elderly" />
   <sjis>
     近頃の若いヤツはなっとらん<end_line />
     ワシがもっと若ければ<end_line />
@@ -23,8 +23,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="elderly">
+  <info box="simple" />
+  <portrait_l name="elderly" />
   <sjis>
     倒しておるワイ<end_line />
   </sjis>

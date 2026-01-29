@@ -9,8 +9,8 @@
   </sjis>
 </location>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="woman">
+  <info box="simple" />
+  <portrait_l name="woman" />
   <sjis>
     あたし見たのよ！<end_line />
     弓矢で的を撃ったら<end_line />
@@ -23,8 +23,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="woman">
+  <info box="simple" />
+  <portrait_l name="woman" />
   <sjis>
     何だったのかしら？<end_line />
   </sjis>

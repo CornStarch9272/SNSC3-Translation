@@ -4,8 +4,8 @@
 	</sjis>
 </location>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="chief">
+	<info box="simple" />
+	<portrait_l name="chief" />
 	<sjis>
 		武器の手入れは<end_line />
 		なまけちゃいかんな<end_line />

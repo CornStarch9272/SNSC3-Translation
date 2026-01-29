@@ -1,7 +1,7 @@
 <dialogue>
-  <info box="right">
-  <portrait_l entry="player" eye="serious" mouth="neutral">
-  <portrait_r entry="vee" eye="serious" mouth="neutral">
+  <info box="right" />
+  <portrait_l entry="player" eye="serious" mouth="neutral" />
+  <portrait_r entry="vee" eye="serious" mouth="neutral" />
   <sjis>
     どうだい、<player_nickname /><end_line />
     イカス武器をひとつ<end_line />
@@ -14,9 +14,9 @@
   </ascii>
 </dialogue>
 <choice>
-  <info box="left">
-  <portrait_l entry="player" eye="serious" mouth="tense">
-  <portrait_r entry="vee" eye="serious" mouth="neutral">
+  <info box="left" />
+  <portrait_l entry="player" eye="serious" mouth="tense" />
+  <portrait_r entry="vee" eye="serious" mouth="neutral" />
   <option>
     <sjis>
       ちゃんと選んできたよ<end_line />
@@ -35,8 +35,8 @@
   </option>
 </choice>
 <dialogue>
-  <info box="right">
-  <portrait_r name="vee">
+  <info box="right" />
+  <portrait_r name="vee" />
   <sjis>
     １本にしぼれって言っただろ！<end_line />
   </sjis>

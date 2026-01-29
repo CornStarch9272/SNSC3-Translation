@@ -9,8 +9,8 @@
 	</sjis>
 </location>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="gatekeeper">
+	<info box="simple" />
+	<portrait_l name="gatekeeper" />
 	<sjis>
 		なんだかこの辺りのはぐれが<end_line />
 		また少しキョウボウになった<end_line />
@@ -18,8 +18,8 @@
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="man">
+	<info box="simple" />
+	<portrait_l name="man" />
 	<sjis>
 		今、まさに世界の行く末を<end_line />
 		決定する戦いが行われている<end_line />
@@ -27,8 +27,8 @@
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="man">
+	<info box="simple" />
+	<portrait_l name="man" />
 	<sjis>
 		こんな時に俺は何をしてるんだ<end_line />
 		おまえもこんな所で油売ってないで<end_line />
@@ -36,8 +36,8 @@
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="man">
+	<info box="simple" />
+	<portrait_l name="man" />
 	<sjis>
 		おい、一体何が起こってんだ<end_line />
 		派閥管理の召喚獣まで<end_line />
@@ -45,13 +45,13 @@
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="simple">
+	<info box="simple" />
 	<sjis>
 		わう？<end_line />
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="simple">
+	<info box="simple" />
 	<sjis>
 		強刃のしすぎで新しい武器を<end_line />
 		鍛えない職人が増えたと<end_line />

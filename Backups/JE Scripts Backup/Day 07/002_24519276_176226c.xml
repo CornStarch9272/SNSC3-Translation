@@ -9,8 +9,8 @@
   </sjis>
 </location>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="gallahan">
+  <info box="simple" />
+  <portrait_l name="gallahan" />
   <sjis>
     魔晶柱のある祭壇までは<end_line />
     強力な召喚獣がたくさんいるから<end_line />
@@ -23,7 +23,7 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
+  <info box="simple" />
   <sjis>
     ギャラハン工房からのお知らせ<end_line />
     カウンターに店員がいないときには<end_line />

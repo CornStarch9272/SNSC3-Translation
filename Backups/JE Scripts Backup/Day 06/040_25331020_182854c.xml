@@ -1,7 +1,7 @@
 <dialogue>
-  <partner name="run-dor">
-  <info box="left">
-  <portrait_l entry="partner" eye="decided" mouth="tense">
+  <partner name="run-dor" />
+  <info box="left" />
+  <portrait_l entry="partner" eye="decided" mouth="tense" />
   <sjis>
     シカシ　彼ラハ　ナゼ<end_line />
     急ニ　処刑ナドト<end_line />
@@ -14,10 +14,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="run-dor">
-  <info box="right">
-  <portrait_l entry="partner" eye="decided" mouth="tense">
-  <portrait_r name="murno">
+  <partner name="run-dor" />
+  <info box="right" />
+  <portrait_l entry="partner" eye="decided" mouth="tense" />
+  <portrait_r name="murno" />
   <sjis>
     なぜって<three_dots /><end_line />
     あなたも私が本物かどうか<end_line />
@@ -30,9 +30,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="run-dor">
-  <info box="left">
-  <portrait_l entry="partner" eye="serious" mouth="neutral">
+  <partner name="run-dor" />
+  <info box="left" />
+  <portrait_l entry="partner" eye="serious" mouth="neutral" />
   <sjis>
     イイエ<end_line />
     タメシテナド　イマセン<end_line />
@@ -43,10 +43,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="run-dor">
-  <info box="right">
-  <portrait_l entry="player" eye="serious" mouth="serious">
-  <portrait_r entry="murno" eye="decided" mouth="tense">
+  <partner name="run-dor" />
+  <info box="right" />
+  <portrait_l entry="player" eye="serious" mouth="serious" />
+  <portrait_r entry="murno" eye="decided" mouth="tense" />
   <sjis>
     気をつけて、<player_nickname /><end_line />
     <partner />こそニセモノかも<end_line />
@@ -59,10 +59,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="run-dor">
-  <info box="left">
-  <portrait_l entry="player" eye="surprised" mouth="tense">
-  <portrait_r entry="murno" eye="decided" mouth="tense">
+  <partner name="run-dor" />
+  <info box="left" />
+  <portrait_l entry="player" eye="surprised" mouth="tense" />
+  <portrait_r entry="murno" eye="decided" mouth="tense" />
   <sjis>
     そんな！？<end_line />
     まさか<three_dots /><end_line />
@@ -72,10 +72,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="run-dor">
-  <info box="left">
-  <portrait_l entry="partner" eye="serious" mouth="neutral">
-  <portrait_r entry="murno" eye="decided" mouth="tense">
+  <partner name="run-dor" />
+  <info box="left" />
+  <portrait_l entry="partner" eye="serious" mouth="neutral" />
+  <portrait_r entry="murno" eye="decided" mouth="tense" />
   <sjis>
     私ハ　本物デス<end_line />
   </sjis>
@@ -84,10 +84,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="run-dor">
-  <info box="right">
-  <portrait_l entry="partner" eye="serious" mouth="neutral">
-  <portrait_r entry="murno" eye="decided" mouth="serious">
+  <partner name="run-dor" />
+  <info box="right" />
+  <portrait_l entry="partner" eye="serious" mouth="neutral" />
+  <portrait_r entry="murno" eye="decided" mouth="serious" />
   <sjis>
     だったらあなたにもわかるでしょう<end_line />
     どうしてあの人たちが<end_line />
@@ -100,10 +100,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="run-dor">
-  <info box="left">
-  <portrait_l entry="partner" eye="serious" mouth="neutral">
-  <portrait_r entry="murno" eye="decided" mouth="serious">
+  <partner name="run-dor" />
+  <info box="left" />
+  <portrait_l entry="partner" eye="serious" mouth="neutral" />
+  <portrait_r entry="murno" eye="decided" mouth="serious" />
   <sjis>
     <three_dots /><end_line />
     ワカリマセン<end_line />
@@ -114,10 +114,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="run-dor">
-  <info box="right">
-  <portrait_l entry="partner" eye="serious" mouth="neutral">
-  <portrait_r entry="murno" eye="sad" mouth="tense">
+  <partner name="run-dor" />
+  <info box="right" />
+  <portrait_l entry="partner" eye="serious" mouth="neutral" />
+  <portrait_r entry="murno" eye="sad" mouth="tense" />
   <sjis>
     本物だったらカンタンにわかる<end_line />
     ことなのに<end_line />
@@ -130,10 +130,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="run-dor">
-  <info box="right">
-  <portrait_l entry="partner" eye="serious" mouth="neutral">
-  <portrait_r entry="murno" eye="decided" mouth="serious">
+  <partner name="run-dor" />
+  <info box="right" />
+  <portrait_l entry="partner" eye="serious" mouth="neutral" />
+  <portrait_r entry="murno" eye="decided" mouth="serious" />
   <sjis>
     バレたのよ<three_dots /><end_line />
   </sjis>
@@ -142,10 +142,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="run-dor">
-  <info box="left">
-  <portrait_l entry="partner" eye="surprised" mouth="neutral">
-  <portrait_r entry="murno" eye="decided" mouth="serious">
+  <partner name="run-dor" />
+  <info box="left" />
+  <portrait_l entry="partner" eye="surprised" mouth="neutral" />
+  <portrait_r entry="murno" eye="decided" mouth="serious" />
   <sjis>
     バレタ<three_dots />？<end_line />
   </sjis>
@@ -154,10 +154,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="run-dor">
-  <info box="right">
-  <portrait_l entry="partner" eye="surprised" mouth="neutral">
-  <portrait_r entry="murno" eye="decided" mouth="yell">
+  <partner name="run-dor" />
+  <info box="right" />
+  <portrait_l entry="partner" eye="surprised" mouth="neutral" />
+  <portrait_r entry="murno" eye="decided" mouth="yell" />
   <sjis>
     私がこの村をメチャクチャにした<end_line />
     ヴォイジンの仲間だったことが<end_line />
@@ -170,10 +170,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="run-dor">
-  <info box="left">
-  <portrait_l entry="player" eye="surprised" mouth="tense">
-  <portrait_r entry="murno" eye="decided" mouth="serious">
+  <partner name="run-dor" />
+  <info box="left" />
+  <portrait_l entry="player" eye="surprised" mouth="tense" />
+  <portrait_r entry="murno" eye="decided" mouth="serious" />
   <male>
     <sjis>
       ミューノが、ヴォイジンの<end_line />
@@ -195,10 +195,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="run-dor">
-  <info box="right">
-  <portrait_l entry="player" eye="surprised" mouth="tense">
-  <portrait_r entry="murno" eye="sad" mouth="tense">
+  <partner name="run-dor" />
+  <info box="right" />
+  <portrait_l entry="player" eye="surprised" mouth="tense" />
+  <portrait_r entry="murno" eye="sad" mouth="tense" />
   <sjis>
     だまっててごめんなさい<end_line />
     でも、本当のことなの<end_line />
@@ -211,10 +211,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="run-dor">
-  <info box="right">
-  <portrait_l entry="player" eye="surprised" mouth="tense">
-  <portrait_r entry="murno" eye="sad" mouth="neutral">
+  <partner name="run-dor" />
+  <info box="right" />
+  <portrait_l entry="player" eye="surprised" mouth="tense" />
+  <portrait_r entry="murno" eye="sad" mouth="neutral" />
   <sjis>
     だけどお宝を横流ししてたのがバレて<end_line />
     うらぎり者としてアニスたちに<end_line />
@@ -227,10 +227,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="run-dor">
-  <info box="left">
-  <portrait_l entry="player" eye="decided" mouth="tense">
-  <portrait_r entry="murno" eye="sad" mouth="neutral">
+  <partner name="run-dor" />
+  <info box="left" />
+  <portrait_l entry="player" eye="decided" mouth="tense" />
+  <portrait_r entry="murno" eye="sad" mouth="neutral" />
   <sjis>
     そんな<three_dots />、ミューノが<three_dots /><end_line />
     あいつらの仲間だったなんて<three_dots /><end_line />
@@ -241,10 +241,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="run-dor">
-  <info box="right">
-  <portrait_l entry="player" eye="decided" mouth="tense">
-  <portrait_r entry="murno" eye="decided" mouth="yell">
+  <partner name="run-dor" />
+  <info box="right" />
+  <portrait_l entry="player" eye="decided" mouth="tense" />
+  <portrait_r entry="murno" eye="decided" mouth="yell" />
   <sjis>
     これでわかったでしょう<end_line />
     はやく逃げましょう！<end_line />
@@ -255,10 +255,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="run-dor">
-  <info box="right">
-  <portrait_l entry="player" eye="decided" mouth="tense">
-  <portrait_r entry="murno" eye="surprised" mouth="neutral">
+  <partner name="run-dor" />
+  <info box="right" />
+  <portrait_l entry="player" eye="decided" mouth="tense" />
+  <portrait_r entry="murno" eye="surprised" mouth="neutral" />
   <sjis>
     ウソデス！<end_line />
     みゅーの様ハ　※ぉいじんノ<end_line />
@@ -271,10 +271,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="run-dor">
-  <info box="right">
-  <portrait_l entry="player" eye="decided" mouth="tense">
-  <portrait_r entry="partner" eye="serious" mouth="neutral">
+  <partner name="run-dor" />
+  <info box="right" />
+  <portrait_l entry="player" eye="decided" mouth="tense" />
+  <portrait_r entry="partner" eye="serious" mouth="neutral" />
   <sjis>
     彼女ハ本物デナイ可能性ガ　高イデス<end_line />
     彼女ニハ　従ワナイ方ガ<end_line />
@@ -287,9 +287,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="enzi">
-  <info box="left">
-  <portrait_l entry="partner" eye="decided" mouth="tense">
+  <partner name="enzi" />
+  <info box="left" />
+  <portrait_l entry="partner" eye="decided" mouth="tense" />
   <sjis>
     じゃがヤツらはなぜ急に<end_line />
     ミューノを処刑だなどと<end_line />
@@ -301,10 +301,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="enzi">
-  <info box="right">
-  <portrait_l entry="partner" eye="decided" mouth="tense">
-  <portrait_r name="murno">
+  <partner name="enzi" />
+  <info box="right" />
+  <portrait_l entry="partner" eye="decided" mouth="tense" />
+  <portrait_r name="murno" />
   <sjis>
     なぜって<three_dots /><end_line />
     あなたも私が本物かどうか<end_line />
@@ -317,9 +317,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="enzi">
-  <info box="left">
-  <portrait_l entry="partner" eye="surprised" mouth="serious">
+  <partner name="enzi" />
+  <info box="left" />
+  <portrait_l entry="partner" eye="surprised" mouth="serious" />
   <sjis>
     ためす？<end_line />
     それは一体どういうことじゃ？<end_line />
@@ -330,10 +330,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="enzi">
-  <info box="right">
-  <portrait_l entry="player" eye="serious" mouth="serious">
-  <portrait_r entry="murno" eye="decided" mouth="tense">
+  <partner name="enzi" />
+  <info box="right" />
+  <portrait_l entry="player" eye="serious" mouth="serious" />
+  <portrait_r entry="murno" eye="decided" mouth="tense" />
   <sjis>
     気をつけて、<player_nickname /><end_line />
     <partner />こそニセモノかも<end_line />
@@ -346,10 +346,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="enzi">
-  <info box="left">
-  <portrait_l entry="player" eye="surprised" mouth="tense">
-  <portrait_r entry="murno" eye="decided" mouth="tense">
+  <partner name="enzi" />
+  <info box="left" />
+  <portrait_l entry="player" eye="surprised" mouth="tense" />
+  <portrait_r entry="murno" eye="decided" mouth="tense" />
   <sjis>
     そんな！？<end_line />
     まさか<three_dots /><end_line />
@@ -359,10 +359,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="enzi">
-  <info box="left">
-  <portrait_l entry="partner" eye="surprised" mouth="yell">
-  <portrait_r entry="murno" eye="decided" mouth="tense">
+  <partner name="enzi" />
+  <info box="left" />
+  <portrait_l entry="partner" eye="surprised" mouth="yell" />
+  <portrait_r entry="murno" eye="decided" mouth="tense" />
   <sjis>
     何を言っておるのじゃ<end_line />
     ミューノ？<end_line />
@@ -372,10 +372,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="enzi">
-  <info box="right">
-  <portrait_l entry="partner" eye="surprised" mouth="yell">
-  <portrait_r entry="murno" eye="decided" mouth="serious">
+  <partner name="enzi" />
+  <info box="right" />
+  <portrait_l entry="partner" eye="surprised" mouth="yell" />
+  <portrait_r entry="murno" eye="decided" mouth="serious" />
   <sjis>
     だって本物ならわかるはずよ<end_line />
     どうしてあの人たちが<end_line />
@@ -388,10 +388,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="enzi">
-  <info box="left">
-  <portrait_l entry="partner" eye="decided" mouth="serious">
-  <portrait_r entry="murno" eye="decided" mouth="serious">
+  <partner name="enzi" />
+  <info box="left" />
+  <portrait_l entry="partner" eye="decided" mouth="serious" />
+  <portrait_r entry="murno" eye="decided" mouth="serious" />
   <sjis>
     なんじゃ？<end_line />
     ゴヴァンの魔石か？<end_line />
@@ -402,10 +402,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="enzi">
-  <info box="right">
-  <portrait_l entry="partner" eye="decided" mouth="serious">
-  <portrait_r entry="murno" eye="sad" mouth="tense">
+  <partner name="enzi" />
+  <info box="right" />
+  <portrait_l entry="partner" eye="decided" mouth="serious" />
+  <portrait_r entry="murno" eye="sad" mouth="tense" />
   <sjis>
     本物だったらカンタンにわかる<end_line />
     ことなのに<end_line />
@@ -418,10 +418,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="enzi">
-  <info box="right">
-  <portrait_l entry="partner" eye="decided" mouth="serious">
-  <portrait_r entry="murno" eye="decided" mouth="serious">
+  <partner name="enzi" />
+  <info box="right" />
+  <portrait_l entry="partner" eye="decided" mouth="serious" />
+  <portrait_r entry="murno" eye="decided" mouth="serious" />
   <sjis>
     バレたのよ<three_dots /><end_line />
   </sjis>
@@ -430,10 +430,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="enzi">
-  <info box="left">
-  <portrait_l entry="partner" eye="decided" mouth="tense">
-  <portrait_r entry="murno" eye="decided" mouth="serious">
+  <partner name="enzi" />
+  <info box="left" />
+  <portrait_l entry="partner" eye="decided" mouth="tense" />
+  <portrait_r entry="murno" eye="decided" mouth="serious" />
   <sjis>
     ばれた<three_dots />？<end_line />
   </sjis>
@@ -442,10 +442,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="enzi">
-  <info box="right">
-  <portrait_l entry="partner" eye="decided" mouth="tense">
-  <portrait_r entry="murno" eye="decided" mouth="yell">
+  <partner name="enzi" />
+  <info box="right" />
+  <portrait_l entry="partner" eye="decided" mouth="tense" />
+  <portrait_r entry="murno" eye="decided" mouth="yell" />
   <sjis>
     私がこの村をメチャクチャにした<end_line />
     ヴォイジンの仲間だったことが<end_line />
@@ -458,10 +458,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="enzi">
-  <info box="left">
-  <portrait_l entry="player" eye="surprised" mouth="tense">
-  <portrait_r entry="murno" eye="decided" mouth="yell">
+  <partner name="enzi" />
+  <info box="left" />
+  <portrait_l entry="player" eye="surprised" mouth="tense" />
+  <portrait_r entry="murno" eye="decided" mouth="yell" />
   <male>
     <sjis>
       ミューノが、ヴォイジンの<end_line />
@@ -482,10 +482,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="enzi">
-  <info box="right">
-  <portrait_l entry="player" eye="surprised" mouth="tense">
-  <portrait_r entry="murno" eye="sad" mouth="tense">
+  <partner name="enzi" />
+  <info box="right" />
+  <portrait_l entry="player" eye="surprised" mouth="tense" />
+  <portrait_r entry="murno" eye="sad" mouth="tense" />
   <sjis>
     だまっててごめんなさい<end_line />
     でも、本当のことなの<end_line />
@@ -498,10 +498,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="enzi">
-  <info box="right">
-  <portrait_l entry="player" eye="surprised" mouth="tense">
-  <portrait_r entry="murno" eye="sad" mouth="neutral">
+  <partner name="enzi" />
+  <info box="right" />
+  <portrait_l entry="player" eye="surprised" mouth="tense" />
+  <portrait_r entry="murno" eye="sad" mouth="neutral" />
   <sjis>
     だけどお宝を横流ししてたのがバレて<end_line />
     うらぎり者としてアニスたちに<end_line />
@@ -514,10 +514,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="enzi">
-  <info box="left">
-  <portrait_l entry="player" eye="decided" mouth="tense">
-  <portrait_r entry="murno" eye="sad" mouth="neutral">
+  <partner name="enzi" />
+  <info box="left" />
+  <portrait_l entry="player" eye="decided" mouth="tense" />
+  <portrait_r entry="murno" eye="sad" mouth="neutral" />
   <sjis>
     そんな<three_dots />、ミューノが<three_dots /><end_line />
     あいつらの仲間だったなんて<three_dots /><end_line />
@@ -528,10 +528,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="enzi">
-  <info box="right">
-  <portrait_l entry="player" eye="decided" mouth="tense">
-  <portrait_r entry="murno" eye="decided" mouth="yell">
+  <partner name="enzi" />
+  <info box="right" />
+  <portrait_l entry="player" eye="decided" mouth="tense" />
+  <portrait_r entry="murno" eye="decided" mouth="yell" />
   <sjis>
     これでわかったでしょう<end_line />
     はやく逃げましょう！<end_line />
@@ -542,10 +542,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="enzi">
-  <info box="right">
-  <portrait_l entry="player" eye="decided" mouth="tense">
-  <portrait_r entry="partner" eye="special" mouth="yell">
+  <partner name="enzi" />
+  <info box="right" />
+  <portrait_l entry="player" eye="decided" mouth="tense" />
+  <portrait_r entry="partner" eye="special" mouth="yell" />
   <sjis>
     だまされるな、<player_nickname /><end_line />
     あやつはニセモノだ！<end_line />
@@ -556,10 +556,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="enzi">
-  <info box="right">
-  <portrait_l entry="player" eye="decided" mouth="tense">
-  <portrait_r entry="partner" eye="decided" mouth="yell">
+  <partner name="enzi" />
+  <info box="right" />
+  <portrait_l entry="player" eye="decided" mouth="tense" />
+  <portrait_r entry="partner" eye="decided" mouth="yell" />
   <sjis>
     このマゲにかけて誓う<end_line />
     ミューノはあの連中の仲間などでは<end_line />
@@ -572,9 +572,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="killfith">
-  <info box="left">
-  <portrait_l entry="partner" eye="decided" mouth="tense">
+  <partner name="killfith" />
+  <info box="left" />
+  <portrait_l entry="partner" eye="decided" mouth="tense" />
   <sjis>
     突然処刑だとは<end_line />
     何があった？<end_line />
@@ -586,10 +586,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="killfith">
-  <info box="right">
-  <portrait_l entry="partner" eye="decided" mouth="tense">
-  <portrait_r name="murno">
+  <partner name="killfith" />
+  <info box="right" />
+  <portrait_l entry="partner" eye="decided" mouth="tense" />
+  <portrait_r name="murno" />
   <sjis>
     何って<three_dots /><end_line />
     あなたも私が本物かどうか<end_line />
@@ -602,9 +602,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="killfith">
-  <info box="left">
-  <portrait_l entry="partner" eye="decided" mouth="serious">
+  <partner name="killfith" />
+  <info box="left" />
+  <portrait_l entry="partner" eye="decided" mouth="serious" />
   <sjis>
     ためす？<end_line />
     どういうことだ<end_line />
@@ -615,10 +615,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="killfith">
-  <info box="right">
-  <portrait_l entry="player" eye="serious" mouth="serious">
-  <portrait_r entry="murno" eye="decided" mouth="tense">
+  <partner name="killfith" />
+  <info box="right" />
+  <portrait_l entry="player" eye="serious" mouth="serious" />
+  <portrait_r entry="murno" eye="decided" mouth="tense" />
   <sjis>
     気をつけて、<player_nickname /><end_line />
     <partner />こそニセモノかも<end_line />
@@ -631,10 +631,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="killfith">
-  <info box="left">
-  <portrait_l entry="player" eye="surprised" mouth="tense">
-  <portrait_r entry="murno" eye="decided" mouth="tense">
+  <partner name="killfith" />
+  <info box="left" />
+  <portrait_l entry="player" eye="surprised" mouth="tense" />
+  <portrait_r entry="murno" eye="decided" mouth="tense" />
   <sjis>
     そんな！？<end_line />
     まさか<three_dots /><end_line />
@@ -644,10 +644,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="killfith">
-  <info box="left">
-  <portrait_l entry="partner" eye="special" mouth="serious">
-  <portrait_r entry="murno" eye="decided" mouth="tense">
+  <partner name="killfith" />
+  <info box="left" />
+  <portrait_l entry="partner" eye="special" mouth="serious" />
+  <portrait_r entry="murno" eye="decided" mouth="tense" />
   <sjis>
     この私がニセモノだと<three_dots /><end_line />
     ふざけたことを言うと<end_line />
@@ -660,10 +660,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="killfith">
-  <info box="right">
-  <portrait_l entry="partner" eye="special" mouth="serious">
-  <portrait_r entry="murno" eye="decided" mouth="serious">
+  <partner name="killfith" />
+  <info box="right" />
+  <portrait_l entry="partner" eye="special" mouth="serious" />
+  <portrait_r entry="murno" eye="decided" mouth="serious" />
   <sjis>
     あなたが本物ならわかるはずよ<end_line />
     どうしてあの人たちが<end_line />
@@ -676,10 +676,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="killfith">
-  <info box="left">
-  <portrait_l entry="partner" eye="surprised" mouth="tense">
-  <portrait_r entry="murno" eye="decided" mouth="serious">
+  <partner name="killfith" />
+  <info box="left" />
+  <portrait_l entry="partner" eye="surprised" mouth="tense" />
+  <portrait_r entry="murno" eye="decided" mouth="serious" />
   <sjis>
     なに<three_dots /><end_line />
     どういうことだ？<end_line />
@@ -689,10 +689,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="killfith">
-  <info box="right">
-  <portrait_l entry="partner" eye="surprised" mouth="tense">
-  <portrait_r entry="murno" eye="sad" mouth="tense">
+  <partner name="killfith" />
+  <info box="right" />
+  <portrait_l entry="partner" eye="surprised" mouth="tense" />
+  <portrait_r entry="murno" eye="sad" mouth="tense" />
   <sjis>
     しかたないわね<three_dots /><end_line />
     わからないようだから<end_line />
@@ -704,10 +704,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="killfith">
-  <info box="right">
-  <portrait_l entry="partner" eye="surprised" mouth="tense">
-  <portrait_r entry="murno" eye="decided" mouth="serious">
+  <partner name="killfith" />
+  <info box="right" />
+  <portrait_l entry="partner" eye="surprised" mouth="tense" />
+  <portrait_r entry="murno" eye="decided" mouth="serious" />
   <sjis>
     バレたのよ<three_dots /><end_line />
   </sjis>
@@ -716,10 +716,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="killfith">
-  <info box="left">
-  <portrait_l entry="partner" eye="special" mouth="serious">
-  <portrait_r entry="murno" eye="decided" mouth="serious">
+  <partner name="killfith" />
+  <info box="left" />
+  <portrait_l entry="partner" eye="special" mouth="serious" />
+  <portrait_r entry="murno" eye="decided" mouth="serious" />
   <sjis>
     バレた<three_dots />？<end_line />
   </sjis>
@@ -728,10 +728,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="killfith">
-  <info box="right">
-  <portrait_l entry="partner" eye="special" mouth="serious">
-  <portrait_r entry="murno" eye="decided" mouth="yell">
+  <partner name="killfith" />
+  <info box="right" />
+  <portrait_l entry="partner" eye="special" mouth="serious" />
+  <portrait_r entry="murno" eye="decided" mouth="yell" />
   <sjis>
     私がこの村をメチャクチャにした<end_line />
     ヴォイジンの仲間だったことが<end_line />
@@ -744,10 +744,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="killfith">
-  <info box="left">
-  <portrait_l entry="player" eye="surprised" mouth="tense">
-  <portrait_r entry="murno" eye="decided" mouth="serious">
+  <partner name="killfith" />
+  <info box="left" />
+  <portrait_l entry="player" eye="surprised" mouth="tense" />
+  <portrait_r entry="murno" eye="decided" mouth="serious" />
   <male>
     <sjis>
       ミューノが、ヴォイジンの<end_line />
@@ -768,10 +768,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="killfith">
-  <info box="right">
-  <portrait_l entry="player" eye="surprised" mouth="tense">
-  <portrait_r entry="murno" eye="sad" mouth="tense">
+  <partner name="killfith" />
+  <info box="right" />
+  <portrait_l entry="player" eye="surprised" mouth="tense" />
+  <portrait_r entry="murno" eye="sad" mouth="tense" />
   <sjis>
     だまっててごめんなさい<end_line />
     でも、本当のことなの<end_line />
@@ -784,10 +784,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="killfith">
-  <info box="right">
-  <portrait_l entry="player" eye="surprised" mouth="tense">
-  <portrait_r entry="murno" eye="sad" mouth="neutral">
+  <partner name="killfith" />
+  <info box="right" />
+  <portrait_l entry="player" eye="surprised" mouth="tense" />
+  <portrait_r entry="murno" eye="sad" mouth="neutral" />
   <sjis>
     だけどお宝を横流ししてたのがバレて<end_line />
     うらぎり者としてアニスたちに<end_line />
@@ -800,10 +800,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="killfith">
-  <info box="left">
-  <portrait_l entry="player" eye="decided" mouth="tense">
-  <portrait_r entry="murno" eye="sad" mouth="neutral">
+  <partner name="killfith" />
+  <info box="left" />
+  <portrait_l entry="player" eye="decided" mouth="tense" />
+  <portrait_r entry="murno" eye="sad" mouth="neutral" />
   <sjis>
     そんな<three_dots />、ミューノが<three_dots /><end_line />
     あいつらの仲間だったなんて<three_dots /><end_line />
@@ -814,10 +814,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="killfith">
-  <info box="right">
-  <portrait_l entry="player" eye="decided" mouth="tense">
-  <portrait_r entry="murno" eye="decided" mouth="yell">
+  <partner name="killfith" />
+  <info box="right" />
+  <portrait_l entry="player" eye="decided" mouth="tense" />
+  <portrait_r entry="murno" eye="decided" mouth="yell" />
   <sjis>
     これでわかったでしょう<end_line />
     はやく逃げましょう！<end_line />
@@ -828,10 +828,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="killfith">
-  <info box="right">
-  <portrait_l entry="player" eye="decided" mouth="tense">
-  <portrait_r entry="partner" eye="decided" mouth="talk">
+  <partner name="killfith" />
+  <info box="right" />
+  <portrait_l entry="player" eye="decided" mouth="tense" />
+  <portrait_r entry="partner" eye="decided" mouth="talk" />
   <sjis>
     自分でボロを出すとはな<end_line />
     そいつはニセモノだ<end_line />
@@ -842,10 +842,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="killfith">
-  <info box="right">
-  <portrait_l entry="player" eye="decided" mouth="tense">
-  <portrait_r entry="partner" eye="decided" mouth="yell">
+  <partner name="killfith" />
+  <info box="right" />
+  <portrait_l entry="player" eye="decided" mouth="tense" />
+  <portrait_r entry="partner" eye="decided" mouth="yell" />
   <sjis>
     ミューノがあいつらの仲間だと<three_dots /><end_line />
     そんなふざけたことクチに出して<end_line />
@@ -858,9 +858,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="rufeel">
-  <info box="left">
-  <portrait_l entry="partner" eye="decided" mouth="tense">
+  <partner name="rufeel" />
+  <info box="left" />
+  <portrait_l entry="partner" eye="decided" mouth="tense" />
   <sjis>
     でも急に処刑って<three_dots /><end_line />
     ミューノ様、一体なにが<end_line />
@@ -872,10 +872,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="rufeel">
-  <info box="right">
-  <portrait_l entry="partner" eye="decided" mouth="tense">
-  portrait_r name="murno">
+  <partner name="rufeel" />
+  <info box="right" />
+  <portrait_l entry="partner" eye="decided" mouth="tense" />
+  portrait_r name="murno" />
   <sjis>
     何って<three_dots /><end_line />
     あなたも私が本物かどうか<end_line />
@@ -888,9 +888,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="rufeel">
-  <info box="left">
-  <portrait_l entry="partner" eye="decided" mouth="serious">
+  <partner name="rufeel" />
+  <info box="left" />
+  <portrait_l entry="partner" eye="decided" mouth="serious" />
   <sjis>
     ためす？<end_line />
     どういうことですか？<end_line />
@@ -901,10 +901,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="rufeel">
-  <info box="right">
-  <portrait_l entry="player" eye="serious" mouth="serious">
-  <portrait_r entry="murno" eye="decided" mouth="tense">
+  <partner name="rufeel" />
+  <info box="right" />
+  <portrait_l entry="player" eye="serious" mouth="serious" />
+  <portrait_r entry="murno" eye="decided" mouth="tense" />
   <sjis>
     気をつけて、<player_nickname /><end_line />
     <partner />こそニセモノかも<end_line />
@@ -917,10 +917,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="rufeel">
-  <info box="left">
-  <portrait_l entry="player" eye="surprised" mouth="tense">
-  <portrait_r entry="murno" eye="decided" mouth="tense">
+  <partner name="rufeel" />
+  <info box="left" />
+  <portrait_l entry="player" eye="surprised" mouth="tense" />
+  <portrait_r entry="murno" eye="decided" mouth="tense" />
   <sjis>
     そんな！？<end_line />
     まさか<three_dots /><end_line />
@@ -930,10 +930,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="rufeel">
-  <info box="left">
-  <portrait_l entry="partner" eye="decided" mouth="yell">
-  <portrait_r entry="murno" eye="decided" mouth="tense">
+  <partner name="rufeel" />
+  <info box="left" />
+  <portrait_l entry="partner" eye="decided" mouth="yell" />
+  <portrait_r entry="murno" eye="decided" mouth="tense" />
   <sjis>
     なにを言っているんですか<end_line />
     ミューノ様<end_line />
@@ -945,10 +945,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="rufeel">
-  <info box="right">
-  <portrait_l entry="partner" eye="decided" mouth="yell">
-  <portrait_r entry="murno" eye="decided" mouth="serious">
+  <partner name="rufeel" />
+  <info box="right" />
+  <portrait_l entry="partner" eye="decided" mouth="yell" />
+  <portrait_r entry="murno" eye="decided" mouth="serious" />
   <sjis>
     それならわかるはずでしょ<end_line />
     どうしてあの人たちが<end_line />
@@ -961,10 +961,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="rufeel">
-  <info box="left">
-  <portrait_l entry="partner" eye="surprised" mouth="tense">
-  <portrait_r entry="murno" eye="decided" mouth="serious">
+  <partner name="rufeel" />
+  <info box="left" />
+  <portrait_l entry="partner" eye="surprised" mouth="tense" />
+  <portrait_r entry="murno" eye="decided" mouth="serious" />
   <sjis>
     え<three_dots />？<end_line />
     どうしてですか？<end_line />
@@ -975,10 +975,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="rufeel">
-  <info box="right">
-  <portrait_l entry="partner" eye="surprised" mouth="tense">
-  <portrait_r entry="murno" eye="sad" mouth="tense">
+  <partner name="rufeel" />
+  <info box="right" />
+  <portrait_l entry="partner" eye="surprised" mouth="tense" />
+  <portrait_r entry="murno" eye="sad" mouth="tense" />
   <sjis>
     本物だったらカンタンにわかる<end_line />
     ことなのに<end_line />
@@ -991,10 +991,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="rufeel">
-  <info box="right">
-  <portrait_l entry="partner" eye="surprised" mouth="tense">
-  <portrait_r entry="murno" eye="serious" mouth="neutral">
+  <partner name="rufeel" />
+  <info box="right" />
+  <portrait_l entry="partner" eye="surprised" mouth="tense" />
+  <portrait_r entry="murno" eye="serious" mouth="neutral" />
   <sjis>
     バレたのよ<three_dots /><end_line />
   </sjis>
@@ -1003,10 +1003,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="rufeel">
-  <info box="left">
-  <portrait_l entry="partner" eye="surprised" mouth="tense">
-  <portrait_r entry="murno" eye="decided" mouth="serious">
+  <partner name="rufeel" />
+  <info box="left" />
+  <portrait_l entry="partner" eye="surprised" mouth="tense" />
+  <portrait_r entry="murno" eye="decided" mouth="serious" />
   <sjis>
     バレた<three_dots />？<end_line />
   </sjis>
@@ -1015,10 +1015,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="rufeel">
-  <info box="right">
-  <portrait_l entry="partner" eye="surprised" mouth="tense">
-  <portrait_r entry="murno" eye="decided" mouth="yell">
+  <partner name="rufeel" />
+  <info box="right" />
+  <portrait_l entry="partner" eye="surprised" mouth="tense" />
+  <portrait_r entry="murno" eye="decided" mouth="yell" />
   <sjis>
     私がこの村をメチャクチャにした<end_line />
     ヴォイジンの仲間だったことが<end_line />
@@ -1031,10 +1031,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="rufeel">
-  <info box="left">
-  <portrait_l entry="player" eye="surprised" mouth="tense">
-  <portrait_r entry="partner" eye="decided" mouth="serious">
+  <partner name="rufeel" />
+  <info box="left" />
+  <portrait_l entry="player" eye="surprised" mouth="tense" />
+  <portrait_r entry="partner" eye="decided" mouth="serious" />
   <male>
     <sjis>
       ミューノが、ヴォイジンの<end_line />
@@ -1055,10 +1055,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="rufeel">
-  <info box="left">
-  <portrait_l entry="player" eye="surprised" mouth="tense">
-  <portrait_r entry="murno" eye="sad" mouth="tense">
+  <partner name="rufeel" />
+  <info box="left" />
+  <portrait_l entry="player" eye="surprised" mouth="tense" />
+  <portrait_r entry="murno" eye="sad" mouth="tense" />
   <sjis>
     だまっててごめんなさい<end_line />
     でも、本当のことなの<end_line />
@@ -1071,10 +1071,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="rufeel">
-  <info box="right">
-  <portrait_l entry="player" eye="surprised" mouth="tense">
-  <portrait_r entry="murno" eye="sad" mouth="neutral">
+  <partner name="rufeel" />
+  <info box="right" />
+  <portrait_l entry="player" eye="surprised" mouth="tense" />
+  <portrait_r entry="murno" eye="sad" mouth="neutral" />
   <sjis>
     だけどお宝を横流ししてたのがバレて<end_line />
     うらぎり者としてアニスたちに<end_line />
@@ -1087,10 +1087,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="rufeel">
-  <info box="left">
-  <portrait_l entry="player" eye="decided" mouth="tense">
-  <portrait_r entry="partner" eye="sad" mouth="neutral">
+  <partner name="rufeel" />
+  <info box="left" />
+  <portrait_l entry="player" eye="decided" mouth="tense" />
+  <portrait_r entry="partner" eye="sad" mouth="neutral" />
   <sjis>
     そんな<three_dots />、ミューノが<three_dots /><end_line />
     あいつらの仲間だったなんて<three_dots /><end_line />
@@ -1101,10 +1101,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="rufeel">
-  <info box="right">
-  <portrait_l entry="player" eye="decided" mouth="tense">
-  <portrait_r entry="partner" eye="decided" mouth="yell">
+  <partner name="rufeel" />
+  <info box="right" />
+  <portrait_l entry="player" eye="decided" mouth="tense" />
+  <portrait_r entry="partner" eye="decided" mouth="yell" />
   <sjis>
     これでわかったでしょう<end_line />
     はやく逃げましょう！<end_line />
@@ -1115,10 +1115,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="rufeel">
-  <info box="right">
-  <portrait_l entry="player" eye="decided" mouth="tense">
-  <portrait_r entry="partner" eye="decided" mouth="serious">
+  <partner name="rufeel" />
+  <info box="right" />
+  <portrait_l entry="player" eye="decided" mouth="tense" />
+  <portrait_r entry="partner" eye="decided" mouth="serious" />
   <sjis>
     ダマされないでください！<end_line />
     その人はミューノ様じゃありません！<end_line />
@@ -1131,10 +1131,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="rufeel">
-  <info box="right">
-  <portrait_l entry="player" eye="decided" mouth="tense">
-  <portrait_r entry="partner" eye="decided" mouth="yell">
+  <partner name="rufeel" />
+  <info box="right" />
+  <portrait_l entry="player" eye="decided" mouth="tense" />
+  <portrait_r entry="partner" eye="decided" mouth="yell" />
   <sjis>
     ミューノ様があの人たちの仲間だなんて<end_line />
     そんなヒドイウソをつく人は<end_line />

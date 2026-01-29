@@ -1,5 +1,5 @@
 <dialogue>
-  <info box="nobox">
+  <info box="nobox" />
   <sjis>
     　　　　　　なんだかんだで　　　　　<end_line />
     　明日トラムと勝負をすることになった<end_line />
@@ -10,7 +10,7 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="nobox">
+  <info box="nobox" />
   <sjis>
     　　　　　　　それから　　　　　　　<end_line />
     　ギャラハンさん家に泊まることにも　<end_line />
@@ -23,7 +23,7 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="nobox">
+  <info box="nobox" />
   <sjis>
     　　　なっちゃったもんは仕方ない　　<end_line />
     　　　　　　　とにかく　　　　　　　<end_line />

@@ -9,8 +9,8 @@
 	</sjis>
 </location>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="elderly">
+	<info box="simple" />
+	<portrait_l name="elderly" />
 	<sjis>
 		小豆は体にええぞぉ<end_line />
 	</sjis>

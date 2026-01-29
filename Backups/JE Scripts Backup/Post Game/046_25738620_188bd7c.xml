@@ -1,7 +1,7 @@
 <dialogue>
-  <info box="right">
-  <portrait_l entry="player" eye="serious" mouth="neutral">
-  <portrait_r entry="wellman" eye="serious" mouth="neutral">
+  <info box="right" />
+  <portrait_l entry="player" eye="serious" mouth="neutral" />
+  <portrait_r entry="wellman" eye="serious" mouth="neutral" />
   <sjis>
     君には本当に世話になったね<end_line />
     ありがとう、<player_nickname />くん<end_line />

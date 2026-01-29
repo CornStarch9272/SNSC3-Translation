@@ -1,6 +1,6 @@
 <dialogue>
-  <info box="left">
-  <portrait_l entry="player" eye="sad" mouth="tense">
+  <info box="left" />
+  <portrait_l entry="player" eye="sad" mouth="tense" />
   <male>
     <sjis>
       <three_dots />って、こんなところにいたって<end_line />
@@ -22,8 +22,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="left">
-  <portrait_l entry="player" eye="serious" mouth="tense">
+  <info box="left" />
+  <portrait_l entry="player" eye="serious" mouth="tense" />
   <male>
     <sjis>
       ん？<end_line />

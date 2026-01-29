@@ -1,6 +1,6 @@
 <dialogue>
-  <info box="left">
-  <portrait_l entry="player" eye="serious" mouth="serious">
+  <info box="left" />
+  <portrait_l entry="player" eye="serious" mouth="serious" />
   <sjis>
     魔石を戻すって言っても<end_line />
     イアナさんは詳しく調べたい<end_line />
@@ -13,8 +13,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="left">
-  <portrait_l entry="player" eye="serious" mouth="tense">
+  <info box="left" />
+  <portrait_l entry="player" eye="serious" mouth="tense" />
   <sjis>
     ウェルマンさんのこともあるし<end_line />
     すぐ返しに行くってワケには<end_line />
@@ -27,9 +27,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <player gender="male">
-  <info box="left">
-  <portrait_l entry="player" eye="decided" mouth="tense">
+  <player gender="male" />
+  <info box="left" />
+  <portrait_l entry="player" eye="decided" mouth="tense" />
   <sjis>
     まあ、ミシュース村までは<end_line />
     遠くて結構あぶないみたいだから<end_line />
@@ -42,9 +42,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <player gender="female">
-  <info box="left">
-  <portrait_l entry="player" eye="decided" mouth="tense">
+  <player gender="female" />
+  <info box="left" />
+  <portrait_l entry="player" eye="decided" mouth="tense" />
   <sjis>
     まあ、ミシュース村までは<end_line />
     遠くて結構あぶないみたいだから<end_line />
@@ -57,8 +57,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="left">
-  <portrait_l entry="player" eye="serious" mouth="tense">
+  <info box="left" />
+  <portrait_l entry="player" eye="serious" mouth="tense" />
   <sjis>
     あれ？<end_line />
     誰だろう<three_dots />？<end_line />

@@ -4,8 +4,8 @@
   </sjis>
 </location>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="zakk">
+  <info box="simple" />
+  <portrait_l name="zakk" />
   <sjis>
     みんなにメイワクかけた分<end_line />
     ちゃんとはたらかなくっちゃ！<end_line />
@@ -18,7 +18,7 @@
 </dialogue>
 ###WeakWeapons
 <dialogue>
-  <info box="simple">
+  <info box="simple" />
   <sjis>
     強くない武器には価値がない<end_line />
     強い武器は強いマテルと<end_line />
@@ -31,7 +31,7 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
+  <info box="simple" />
   <sjis>
     心が強くなければ強い武器は作れない<end_line />
     そのためには日々心の鍛錬も<end_line />
@@ -45,8 +45,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="man">
+  <info box="simple" />
+  <portrait_l name="man" />
   <sjis>
     あ～っ！<end_line />
     仕事がおわんねぇ！<end_line />

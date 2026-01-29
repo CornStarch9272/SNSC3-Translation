@@ -12,8 +12,8 @@
   </ascii>
 </popup>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="vee">
+  <info box="simple" />
+  <portrait_l name="vee" />
   <sjis>
     アタシの斧<end_line />
     ちゃんと修理しておくれよ<end_line />

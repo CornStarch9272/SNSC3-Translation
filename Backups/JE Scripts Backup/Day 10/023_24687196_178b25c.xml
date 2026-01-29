@@ -4,8 +4,8 @@
 	</sjis>
 </location>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="elderly">
+	<info box="simple" />
+	<portrait_l name="elderly" />
 	<sjis>
 		猫こそいやしじゃ<end_line />
 	</sjis>

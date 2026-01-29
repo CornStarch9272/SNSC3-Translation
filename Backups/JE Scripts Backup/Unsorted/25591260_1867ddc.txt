@@ -1,15 +1,15 @@
 <dialogue>
-	<info box="right">
-	<portrait_l entry="player" eye="serious" mouth="neutral">
-	<portrait_r entry="tier" eye="serious" mouth="neutral">
+	<info box="right" />
+	<portrait_l entry="player" eye="serious" mouth="neutral" />
+	<portrait_r entry="tier" eye="serious" mouth="neutral" />
 	<sjis>
 		早くほほえみ亭に向かいましょ<end_line />
 	</sjis>
 </dialogue>
 <choice>
-	<info box="left">
-	<portrait_l entry="player" eye="serious" mouth="neutral">
-	<portrait_r entry="tier" eye="serious" mouth="neutral">
+	<info box="left" />
+	<portrait_l entry="player" eye="serious" mouth="neutral" />
+	<portrait_r entry="tier" eye="serious" mouth="neutral" />
 	<option>
 		<sjis>
 			じゃあ出発しよう<end_line />
@@ -22,9 +22,9 @@
 	</option>
 </choice>
 <dialogue>
-	<info box="left">
-	<portrait_l entry="player" eye="serious" mouth="neutral">
-	<portrait_r entry="tier" eye="serious" mouth="neutral">
+	<info box="left" />
+	<portrait_l entry="player" eye="serious" mouth="neutral" />
+	<portrait_r entry="tier" eye="serious" mouth="neutral" />
 	<male>
 		<sjis>
 			準備するから<end_line />
@@ -39,16 +39,16 @@
 	</female>
 </dialogue>
 <dialogue>
-	<info box="right">
-	<portrait_l entry="player" eye="serious" mouth="neutral">
-	<portrait_r entry="tier" eye="serious" mouth="tense">
+	<info box="right" />
+	<portrait_l entry="player" eye="serious" mouth="neutral" />
+	<portrait_r entry="tier" eye="serious" mouth="tense" />
 	<sjis>
 		じゃあここで待ってるから<end_line />
 		早くしてね<end_line />
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="nobox">
+	<info box="nobox" />
 	<male>
 		<sjis>
 			わかった<end_line />

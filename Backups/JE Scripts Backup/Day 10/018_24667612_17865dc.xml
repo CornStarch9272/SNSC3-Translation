@@ -9,8 +9,8 @@
 	</sjis>
 </location>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="roche">
+	<info box="simple" />
+	<portrait_l name="roche" />
 	<male>
 		<sjis>
 			<player_nickname />くん、ごめんなさいね<end_line />
@@ -23,21 +23,21 @@
 	</female>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="roche">
+	<info box="simple" />
+	<portrait_l name="roche" />
 	<sjis>
 		あのコ、一度言い出したらきかないの<end_line />
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="roche">
+	<info box="simple" />
+	<portrait_l name="roche" />
 	<sjis>
 		うちのコ、迷惑かけてない？<end_line />
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="simple">
+	<info box="simple" />
 	<sjis>
 		ここから先は乙女の秘密<hearth /><end_line />
 		立ち入り禁止！！<end_line />

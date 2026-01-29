@@ -1,5 +1,5 @@
 <dialogue>
-	<info box="nobox">
+	<info box="nobox" />
 	<male>
 		<sjis>
 			　　　　　　そんなわけで　　　　　　<end_line />
@@ -16,7 +16,7 @@
 	</female>
 </dialogue>
 <dialogue>
-	<info box="nobox">
+	<info box="nobox" />
 	<male>
 		<sjis>
 			　　レミィが話してくれたおかげで　　<end_line />
@@ -33,7 +33,7 @@
 	</female>
 </dialogue>
 <dialogue>
-	<info box="nobox">
+	<info box="nobox" />
 	<sjis>
 		　これでミューノのうたがいも晴れて　<end_line />
 		　　　ゴヴァンの魔石を守るために　　<end_line />
@@ -41,7 +41,7 @@
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="nobox">
+	<info box="nobox" />
 	<male>
 		<sjis>
 			これで一気に決着、といきたいんだけど<end_line />

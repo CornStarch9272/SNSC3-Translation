@@ -4,8 +4,8 @@
   </sjis>
 </location>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="chief">
+  <info box="simple" />
+  <portrait_l name="chief" />
   <sjis>
     <player_nickname />にも召喚獣か<end_line />
     よかったな！<end_line />
@@ -16,8 +16,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="woman">
+  <info box="simple" />
+  <portrait_l name="woman" />
   <sjis>
     魚釣りなんて、何がおもしろいのかしら<end_line />
     おまけに偏屈なおじさんに<end_line />
@@ -30,8 +30,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="woman">
+  <info box="simple" />
+  <portrait_l name="woman" />
   <sjis>
     釣りをする資格がないって<end_line />
     仕切られちゃうし<three_dots /><end_line />

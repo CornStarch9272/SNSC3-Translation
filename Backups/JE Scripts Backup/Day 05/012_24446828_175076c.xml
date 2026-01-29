@@ -4,8 +4,8 @@
 	</sjis>
 </location>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="woman">
+	<info box="simple" />
+	<portrait_l name="woman" />
 	<sjis>
 		木の切り株は、斧でこわせるわ<end_line />
 		中からミミズが出てきてたりして<end_line />
@@ -18,8 +18,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="woman">
+	<info box="simple" />
+	<portrait_l name="woman" />
 	<male>
 		<sjis>
 			え？　いただき？<end_line />
@@ -38,8 +38,8 @@
 	</female>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="woman">
+	<info box="simple" />
+	<portrait_l name="woman" />
 	<sjis>
 		<three_dots />あなた変わってるわね<end_line />
 	</sjis>

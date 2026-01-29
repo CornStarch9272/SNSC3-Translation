@@ -4,8 +4,8 @@
 	</sjis>
 </location>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="man">
+	<info box="simple" />
+	<portrait_l name="man" />
 	<sjis>
 		は～くたびれた～<end_line />
 		今日は召喚獣の散歩の当番というか<end_line />
@@ -18,8 +18,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="man">
+	<info box="simple" />
+	<portrait_l name="man" />
 	<sjis>
 		さすがに、この数つれてると<end_line />
 		ホント、くたびれるね<end_line />
@@ -32,7 +32,7 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
+	<info box="simple" />
 	<sjis>
 		金の派閥では緊急のはぐれ被害を<end_line />
 		解決していただける方を<end_line />
@@ -45,7 +45,7 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
+	<info box="simple" />
 	<sjis>
 		「福引き」であなたの運を<end_line />
 		試してみませんか？<end_line />
@@ -58,7 +58,7 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
+	<info box="simple" />
 	<sjis>
 		はぐれが出たことを知らせる警報が<end_line />
 		聞こえたらすみやかに町の中に避難し<end_line />

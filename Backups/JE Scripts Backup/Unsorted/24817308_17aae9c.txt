@@ -4,8 +4,8 @@
 	</sjis>
 </location>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="elderly">
+	<info box="simple" />
+	<portrait_l name="elderly" />
 	<sjis>
 		わしら誰にも迷惑かけずに<end_line />
 		静かに暮らしておるんじゃ<end_line />

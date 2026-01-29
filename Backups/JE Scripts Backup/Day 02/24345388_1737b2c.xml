@@ -9,8 +9,8 @@
 	</sjis>
 </location>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="peddler's_mother">
+	<info box="simple" />
+	<portrait_l name="peddler's_mother" />
 	<sjis>
 		あら、そのハンマーは鍛冶師ね<end_line />
 		今、鍛冶師や鍛冶職人に会うために<end_line />
@@ -23,8 +23,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="peddler's_mother">
+	<info box="simple" />
+	<portrait_l name="peddler's_mother" />
 	<sjis>
 		将来は大きな店をもって娘と２人で<end_line />
 		暮らすためにお得意さんを<end_line />
@@ -37,8 +37,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="peddler's_mother">
+	<info box="simple" />
+	<portrait_l name="peddler's_mother" />
 	<sjis>
 		鍛冶の事には詳しいから何か<end_line />
 		知りたいことがあったら聞いてね<end_line />
@@ -49,7 +49,7 @@
   </ascii>
 </dialogue>
 <choice>
-	<info box="simple">
+	<info box="simple" />
 	<option>
 		<sjis>
 			作製について教えてほしい<end_line />
@@ -76,8 +76,8 @@
 	</option>
 </choice>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="peddler's_mother">
+	<info box="simple" />
+	<portrait_l name="peddler's_mother" />
 	<sjis>
 		作製で重要な武器マテルについて<end_line />
 		説明してあげるね<end_line />
@@ -88,8 +88,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="peddler's_mother">
+	<info box="simple" />
+	<portrait_l name="peddler's_mother" />
 	<sjis>
 		武器マテルは全部で６種類あるの<end_line />
 		それぞれに出来上がる武器が決まって<end_line />
@@ -102,8 +102,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="peddler's_mother">
+	<info box="simple" />
+	<portrait_l name="peddler's_mother" />
 	<sjis>
 		全く違う武器が完成するのよ<end_line />
 		とにかく見つけたらまずは作って<end_line />
@@ -116,8 +116,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="peddler's_mother">
+	<info box="simple" />
+	<portrait_l name="peddler's_mother" />
 	<sjis>
 		鍛冶ランクの上げ方について<end_line />
 		教えてあげるね<end_line />
@@ -128,8 +128,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="peddler's_mother">
+	<info box="simple" />
+	<portrait_l name="peddler's_mother" />
 	<sjis>
 		武器作製コマンドの修理以外を<end_line />
 		繰り返すと、鍛冶経験値がたまって<end_line />
@@ -142,8 +142,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="peddler's_mother">
+	<info box="simple" />
+	<portrait_l name="peddler's_mother" />
 	<sjis>
 		だから頑張っていっぱい武器を<end_line />
 		作って鍛冶ランクを上げて<end_line />
@@ -155,8 +155,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="peddler's_mother">
+	<info box="simple" />
+	<portrait_l name="peddler's_mother" />
 	<sjis>
 		気が向いたらまた来てね<end_line />
 	</sjis>

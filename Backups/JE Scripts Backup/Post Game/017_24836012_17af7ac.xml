@@ -4,8 +4,8 @@
 	</sjis>
 </location>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="man">
+	<info box="simple" />
+	<portrait_l name="man" />
 	<sjis>
 		ザックの野郎、ケガが治って<end_line />
 		実家から帰ってきたそうそう<end_line />
@@ -13,16 +13,16 @@
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="man">
+	<info box="simple" />
+	<portrait_l name="man" />
 	<sjis>
 		いつも通り、キズだらけだって<end_line />
 		いうじゃねぇか<end_line />
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="man">
+	<info box="simple" />
+	<portrait_l name="man" />
 	<sjis>
 		今は、プロスバンの工房本部に<end_line />
 		いるはずだぜ<end_line />

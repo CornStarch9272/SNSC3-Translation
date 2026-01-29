@@ -10,7 +10,7 @@
 </location>
 ###AlsoMaterials
 <dialogue>
-	<info box="simple">
+	<info box="simple" />
 	<sjis>
 		マテルも取り扱っています<end_line />
 		もちろん鍛冶に最適なアイテムも<end_line />

@@ -9,7 +9,7 @@
   </sjis>
 </location>
 <dialogue>
-  <info box="simple">
+  <info box="simple" />
   <sjis>
     旅先でケガをした経験はありませんか？<end_line />
     そんな時にはＦエイド、何でもそろう<end_line />

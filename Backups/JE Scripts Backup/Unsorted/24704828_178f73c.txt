@@ -1,7 +1,7 @@
 <dialogue>
-	<info box="special">
-	<portrait_l entry="partner" eye="serious" mouth="neutral">
-	<portrait_r entry="player" eye="serious" mouth="neutral">
+	<info box="special" />
+	<portrait_l entry="partner" eye="serious" mouth="neutral" />
+	<portrait_r entry="player" eye="serious" mouth="neutral" />
 	<sjis>
 		この護衛獣会話は１０話のもの<end_line />
 		主人公<player_name /><end_line />

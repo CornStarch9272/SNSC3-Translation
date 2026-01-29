@@ -16,8 +16,8 @@
 </location>
 ###ElderlyVoijin
 <dialogue>
-  <info box="simple">
-  <portrait_l name="elderly">
+  <info box="simple" />
+  <portrait_l name="elderly" />
   <male>
     <sjis>
       ギャラハンの息子は<end_line />
@@ -36,8 +36,8 @@
   </female>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="elderly">
+  <info box="simple" />
+  <portrait_l name="elderly" />
   <sjis>
     ヴォイジンという男に<end_line />
     殺されたんじゃ<end_line />

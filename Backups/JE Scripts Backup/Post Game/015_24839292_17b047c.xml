@@ -4,16 +4,16 @@
 	</sjis>
 </location>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="chief">
+	<info box="simple" />
+	<portrait_l name="chief" />
 	<sjis>
 		ウデを上げたようだな<end_line />
 		今度はお前に修理を頼むとするか<end_line />
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="man">
+	<info box="simple" />
+	<portrait_l name="man" />
 	<sjis>
 		最近、めっきり平和だね<end_line />
 		何が危ないって<end_line />
@@ -21,8 +21,8 @@
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="man">
+	<info box="simple" />
+	<portrait_l name="man" />
 	<sjis>
 		すごく強かったりするから<end_line />
 		気をつけろよ<end_line />

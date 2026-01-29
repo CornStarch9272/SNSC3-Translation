@@ -1,7 +1,7 @@
 <dialogue>
-  <info box="right">
-  <portrait_l entry="player" eye="decided" mouth="neutral">
-  <portrait_r entry="tram" eye="happy" mouth="talk">
+  <info box="right" />
+  <portrait_l entry="player" eye="decided" mouth="neutral" />
+  <portrait_r entry="tram" eye="happy" mouth="talk" />
   <sjis>
     強くなりましたね<end_line />
     また勝負してください<end_line />
@@ -12,9 +12,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="right">
-  <portrait_l entry="player" eye="sad" mouth="serious">
-  <portrait_r entry="tram" eye="serious" mouth="neutral">
+  <info box="right" />
+  <portrait_l entry="player" eye="sad" mouth="serious" />
+  <portrait_r entry="tram" eye="serious" mouth="neutral" />
   <sjis>
     まだまだですね<end_line />
     もっと修行してから<end_line />
@@ -27,9 +27,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="right">
-  <portrait_l entry="player" eye="serious" mouth="tense">
-  <portrait_r entry="tram" eye="serious" mouth="tense">
+  <info box="right" />
+  <portrait_l entry="player" eye="serious" mouth="tense" />
+  <portrait_r entry="tram" eye="serious" mouth="tense" />
   <sjis>
     幻龍鬼があんなことをするなんて<end_line />
     大変なことになっていた様ですね<three_dots /><end_line />
@@ -40,9 +40,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="left">
-  <portrait_l entry="player" eye="serious" mouth="serious">
-  <portrait_r entry="tram" eye="serious" mouth="tense">
+  <info box="left" />
+  <portrait_l entry="player" eye="serious" mouth="serious" />
+  <portrait_r entry="tram" eye="serious" mouth="tense" />
   <sjis>
     そうなんだ、実は<three_dots /><end_line />
   </sjis>
@@ -51,9 +51,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="right">
-  <portrait_l entry="player" eye="serious" mouth="serious">
-  <portrait_r entry="tram" eye="serious" mouth="serious">
+  <info box="right" />
+  <portrait_l entry="player" eye="serious" mouth="serious" />
+  <portrait_r entry="tram" eye="serious" mouth="serious" />
   <sjis>
     そんなことが<three_dots /><end_line />
   </sjis>
@@ -62,9 +62,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="right">
-  <portrait_l entry="player" eye="serious" mouth="tense">
-  <portrait_r entry="tram" eye="serious" mouth="neutral">
+  <info box="right" />
+  <portrait_l entry="player" eye="serious" mouth="tense" />
+  <portrait_r entry="tram" eye="serious" mouth="neutral" />
   <sjis>
     でもまだ私はどこかで<end_line />
     アニスが生きているような<end_line />
@@ -77,9 +77,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="right">
-  <portrait_l entry="player" eye="serious" mouth="neutral">
-  <portrait_r entry="tram" eye="serious" mouth="neutral">
+  <info box="right" />
+  <portrait_l entry="player" eye="serious" mouth="neutral" />
+  <portrait_r entry="tram" eye="serious" mouth="neutral" />
   <sjis>
     どうやらあなたはずいぶん<end_line />
     強くなったみたいですね<three_dots /><end_line />
@@ -92,9 +92,9 @@
   </ascii>
 </dialogue>
 <choice>
-  <info box="left">
-  <portrait_l entry="player" eye="serious" mouth="neutral">
-  <portrait_r entry="tram" eye="serious" mouth="neutral">
+  <info box="left" />
+  <portrait_l entry="player" eye="serious" mouth="neutral" />
+  <portrait_r entry="tram" eye="serious" mouth="neutral" />
   <option>
 		<sjis>
 			勝負する<end_line />
@@ -113,8 +113,8 @@
 	</option>
 </choice>
 <dialogue>
-  <info box="right">
-  <portrait_r name="tram">
+  <info box="right" />
+  <portrait_r name="tram" />
   <sjis>
     そうですか<end_line />
     いつでもお相手しますよ<end_line />

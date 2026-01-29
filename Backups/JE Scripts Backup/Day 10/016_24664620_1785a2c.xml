@@ -9,15 +9,15 @@
 	</sjis>
 </location>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="thuss">
+	<info box="simple" />
+	<portrait_l name="thuss" />
 	<sjis>
 		たのんだよ<end_line />
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="thuss">
+	<info box="simple" />
+	<portrait_l name="thuss" />
 	<male>
 		<sjis>
 			<player_nickname />くん<end_line />
@@ -30,14 +30,14 @@
 	</female>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="man">
+	<info box="simple" />
+	<portrait_l name="man" />
 	<sjis>
 		猫って自由だよね<three_dots /><end_line />
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="simple">
+	<info box="simple" />
 	<sjis>
 		ゴロゴロ<three_dots /><end_line />
 	</sjis>

@@ -4,8 +4,8 @@
 	</sjis>
 </location>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="fisherman">
+	<info box="simple" />
+	<portrait_l name="fisherman" />
 	<sjis>
 		釣りとは人生そのもの<end_line />
 		釣る側と釣られる側の<end_line />
@@ -18,8 +18,8 @@
 	</ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="fisherman">
+	<info box="simple" />
+	<portrait_l name="fisherman" />
 	<sjis>
 		人生、釣る側にならなければのぉ<end_line />
 		お主も、釣る側になるよう<end_line />

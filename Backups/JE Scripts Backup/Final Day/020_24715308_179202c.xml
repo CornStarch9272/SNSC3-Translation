@@ -9,8 +9,8 @@
 	</sjis>
 </location>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="merchant">
+	<info box="simple" />
+	<portrait_l name="merchant" />
 	<sjis>
 		ここ最近のはぐれの<end_line />
 		おかげで武器や防具が<end_line />

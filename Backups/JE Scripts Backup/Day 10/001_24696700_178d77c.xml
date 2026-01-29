@@ -7,8 +7,8 @@
   </ascii>
 </location>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="jailer">
+  <info box="simple" />
+  <portrait_l name="jailer" />
   <sjis>
     逃げたんじゃないです<end_line />
     村中に避難を呼びかけてたんです<end_line />

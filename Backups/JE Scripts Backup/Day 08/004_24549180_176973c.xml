@@ -9,8 +9,8 @@
 	</sjis>
 </location>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="player">
+	<info box="simple" />
+	<portrait_l name="player" />
 	<male>
 		<sjis>
 			ねらわれてるミューノをつれて<end_line />
@@ -32,8 +32,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="gatekeeper">
+	<info box="simple" />
+	<portrait_l name="gatekeeper" />
 	<sjis>
 		ひさしぶりですね<end_line />
 	</sjis>
@@ -42,8 +42,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="man">
+	<info box="simple" />
+	<portrait_l name="man" />
 	<sjis>
 		金の派閥がはぐれを何とか<end_line />
 		してくれないかなぁ<end_line />
@@ -54,8 +54,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="man">
+	<info box="simple" />
+	<portrait_l name="man" />
 	<sjis>
 		プロスバンの西には<end_line />
 		スレンジ採掘場があるんだ<end_line />
@@ -66,8 +66,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="man">
+	<info box="simple" />
+	<portrait_l name="man" />
 	<sjis>
 		でも、アカバネって恐ろしい<end_line />
 		はぐれ召喚獣がでるってうわさで<end_line />
@@ -80,7 +80,7 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
+	<info box="simple" />
 	<sjis>
 		良質な武器の完成には<end_line />
 		パートナーも大きく影響していると<end_line />
@@ -93,7 +93,7 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
+	<info box="simple" />
 	<sjis>
 		しかし、彼は一言も語らないので<end_line />
 		真意は定かではない<three_dots /><end_line />

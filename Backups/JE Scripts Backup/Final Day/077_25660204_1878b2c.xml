@@ -1,6 +1,6 @@
 <dialogue>
-  <info box="right">
-  <portrait_r entry="player" eye="surprised" mouth="yell">
+  <info box="right" />
+  <portrait_r entry="player" eye="surprised" mouth="yell" />
   <male>
     <sjis>
       どうしたんだよ<end_line />
@@ -21,10 +21,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="run-dor">
-  <info box="left">
-  <portrait_l entry="partner" eye="sad" mouth="serious">
-  <portrait_r entry="player" eye="surprised" mouth="yell">
+  <partner name="run-dor" />
+  <info box="left" />
+  <portrait_l entry="partner" eye="sad" mouth="serious" />
+  <portrait_r entry="player" eye="surprised" mouth="yell" />
   <sjis>
     コノ奥カラ　強力ナえねるぎーヲ<end_line />
     検知シテイマス<three_dots /><end_line />
@@ -37,10 +37,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="enzi">
-  <info box="left">
-  <portrait_l entry="partner" eye="sad" mouth="serious">
-  <portrait_r entry="player" eye="surprised" mouth="yell">
+  <partner name="enzi" />
+  <info box="left" />
+  <portrait_l entry="partner" eye="sad" mouth="serious" />
+  <portrait_r entry="player" eye="surprised" mouth="yell" />
   <sjis>
     なんじゃ、この気の量は<three_dots /><end_line />
     この奥には何かあるぞ<end_line />
@@ -53,10 +53,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="killfith">
-  <info box="left">
-  <portrait_l entry="partner" eye="sad" mouth="serious">
-  <portrait_r entry="player" eye="surprised" mouth="yell">
+  <partner name="killfith" />
+  <info box="left" />
+  <portrait_l entry="partner" eye="sad" mouth="serious" />
+  <portrait_r entry="player" eye="surprised" mouth="yell" />
   <sjis>
     なんてイヤなフンイキだ<three_dots /><end_line />
     この奥には何かあるぞ<end_line />
@@ -69,10 +69,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="rufeel">
-  <info box="left">
-  <portrait_l entry="partner" eye="sad" mouth="serious">
-  <portrait_r entry="player" eye="surprised" mouth="yell">
+  <partner name="rufeel" />
+  <info box="left" />
+  <portrait_l entry="partner" eye="sad" mouth="serious" />
+  <portrait_r entry="player" eye="surprised" mouth="yell" />
   <sjis>
     うぅ<three_dots />、この感じ<three_dots /><end_line />
     この奥には絶対何かありますわ<end_line />
@@ -85,9 +85,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="right">
-  <portrait_l entry="partner" eye="sad" mouth="serious">
-  <portrait_r entry="player" eye="decided" mouth="serious">
+  <info box="right" />
+  <portrait_l entry="partner" eye="sad" mouth="serious" />
+  <portrait_r entry="player" eye="decided" mouth="serious" />
   <male>
     <sjis>
       お、おう<three_dots /><end_line />

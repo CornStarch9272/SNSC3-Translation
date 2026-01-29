@@ -4,13 +4,13 @@
 	</sjis>
 </location>
 <dialogue>
-	<info box="nobox">
+	<info box="nobox" />
 	<sjis>
 		　<end_line />
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="nobox">
+	<info box="nobox" />
 	<sjis>
 		　　　そんな<player_nickname />が、大好きなの<three_dots />　　　<end_line />
 	</sjis>
@@ -19,7 +19,7 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="nobox">
+	<info box="nobox" />
 	<sjis>
 		　　　そんな<player_nickname />が、大好きなの　　　<end_line />
 	</sjis>
@@ -28,7 +28,7 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="nobox">
+	<info box="nobox" />
 	<sjis>
 		　　そんな<player_nickname />が、大好きなの<three_dots />　　<end_line />
 	</sjis>
@@ -37,7 +37,7 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="nobox">
+	<info box="nobox" />
 	<sjis>
 		　　そんな<player_nickname />が、大好きなの　　<end_line />
 	</sjis>
@@ -46,7 +46,7 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="nobox">
+	<info box="nobox" />
 	<sjis>
 		　そんな<player_nickname />が、大好きなの<three_dots />　<end_line />
 	</sjis>
@@ -55,7 +55,7 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="nobox">
+	<info box="nobox" />
 	<sjis>
 		　そんな<player_nickname />が、大好きなの　<end_line />
 	</sjis>
@@ -64,7 +64,7 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="nobox">
+	<info box="nobox" />
 	<sjis>
 		　<end_line />
 	</sjis>
@@ -73,8 +73,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<partner name="run-dor">
-	<info box="nobox">
+	<partner name="run-dor" />
+	<info box="nobox" />
 	<sjis>
 		　<end_line />
 		　　　　私モ　ウレシイデス<three_dots />　　　　<end_line />
@@ -87,8 +87,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<partner name="enzi">
-	<info box="nobox">
+	<partner name="enzi" />
+	<info box="nobox" />
 	<sjis>
 		　　　　　　これからも　　　　　　　<end_line />
 		　　　　よろしくたのむぞ<three_dots />　　　　　<end_line />
@@ -99,8 +99,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<partner name="enzi">
-	<info box="nobox">
+	<partner name="enzi" />
+	<info box="nobox" />
 	<sjis>
 		　　　　　　　　<player_nickname />　　　　　　　　<end_line />
 	</sjis>
@@ -109,7 +109,7 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="nobox">
+	<info box="nobox" />
 	<sjis>
 		　　　　　　　<player_nickname />　　　　　　　　<end_line />
 	</sjis>
@@ -118,7 +118,7 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="nobox">
+	<info box="nobox" />
 	<sjis>
 		　　　　　　　<player_nickname />　　　　　　　<end_line />
 	</sjis>
@@ -127,7 +127,7 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="nobox">
+	<info box="nobox" />
 	<sjis>
 		　　　　　　　<player_nickname />　　　　　　<end_line />
 	</sjis>
@@ -136,7 +136,7 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="nobox">
+	<info box="nobox" />
 	<sjis>
 		　　　　　　<player_nickname />　　　　　　<end_line />
 	</sjis>
@@ -145,7 +145,7 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="nobox">
+	<info box="nobox" />
 	<sjis>
 		　　　　　　<player_nickname />　　　　　<end_line />
 	</sjis>
@@ -154,8 +154,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<partner name="killfith">
-	<info box="nobox">
+	<partner name="killfith" />
+	<info box="nobox" />
 	<sjis>
 		　　　　その借りを返すまでは　　　　<end_line />
 		　　　　　そばにいてやる<three_dots />　　　　　<end_line />
@@ -168,8 +168,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<partner name="rufeel">
-	<info box="nobox">
+	<partner name="rufeel" />
+	<info box="nobox" />
 	<sjis>
 		　　　　　これからも私に　　　　　　<end_line />
 		　　　勇気をわけてくださいね　　　　<end_line />
@@ -180,7 +180,7 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="nobox">
+	<info box="nobox" />
 	<sjis>
 		　アンタにはまだ少し、早いようだね　<end_line />
 		　もう少し、アタシのそばで修行だよ　<end_line />
@@ -192,7 +192,7 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="nobox">
+	<info box="nobox" />
 	<sjis>
 		　　　　　　ありがとう、<player_nickname />　　　　　<end_line />
 	</sjis>
@@ -201,7 +201,7 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="nobox">
+	<info box="nobox" />
 	<sjis>
 		　　　　　ありがとう、<player_nickname />　　　　　<end_line />
 	</sjis>
@@ -210,7 +210,7 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="nobox">
+	<info box="nobox" />
 	<sjis>
 		　　　　ありがとう、<player_nickname /><three_dots />　　　　<end_line />
 	</sjis>
@@ -219,7 +219,7 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="nobox">
+	<info box="nobox" />
 	<sjis>
 		　　　　ありがとう、<player_nickname />　　　　<end_line />
 	</sjis>
@@ -228,7 +228,7 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="nobox">
+	<info box="nobox" />
 	<sjis>
 		　　　ありがとう、<player_nickname /><three_dots />　　　<end_line />
 	</sjis>
@@ -237,7 +237,7 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="nobox">
+	<info box="nobox" />
 	<sjis>
 		　　　ありがとう、<player_nickname />　　　<end_line />
 	</sjis>
@@ -246,7 +246,7 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="nobox">
+	<info box="nobox" />
 	<sjis>
 		　　　　こんなに楽しい気持ち　　　　<end_line />
 		　　　　　　ひさしぶりだよ　　　　　<end_line />
@@ -257,7 +257,7 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="nobox">
+	<info box="nobox" />
 	<sjis>
 		　　　　オレも自分を鍛え直して　　　<end_line />
 		　　　ずっとお前のライバルとして　　<end_line />
@@ -270,7 +270,7 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="nobox">
+	<info box="nobox" />
 	<sjis>
 		　　　　わたしといっしょに　　　　　<end_line />
 		　　ユメをかなえるまでは、ね<three_dots />　　　<end_line />
@@ -281,7 +281,7 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="nobox">
+	<info box="nobox" />
 	<sjis>
 		　　　　　　　　<player_nickname />　　　　　　　　<end_line />
 	</sjis>
@@ -290,7 +290,7 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="nobox">
+	<info box="nobox" />
 	<sjis>
 		　　　　　　　<player_nickname />　　　　　　　　<end_line />
 	</sjis>
@@ -299,7 +299,7 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="nobox">
+	<info box="nobox" />
 	<sjis>
 		　　　　　　　<player_nickname />　　　　　　　<end_line />
 	</sjis>
@@ -308,7 +308,7 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="nobox">
+	<info box="nobox" />
 	<sjis>
 		　　　　　　　<player_nickname />　　　　　　<end_line />
 	</sjis>
@@ -317,7 +317,7 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="nobox">
+	<info box="nobox" />
 	<sjis>
 		　　　　　　<player_nickname />　　　　　　<end_line />
 	</sjis>
@@ -326,7 +326,7 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="nobox">
+	<info box="nobox" />
 	<sjis>
 		　　　　　　<player_nickname />　　　　　<end_line />
 	</sjis>
@@ -341,8 +341,8 @@
 	</sjis>
 </location>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="gatekeeper">
+	<info box="simple" />
+	<portrait_l name="gatekeeper" />
 	<sjis>
 		はぐれがまたあばれはじめたぞ<end_line />
 		こういうときこそ<end_line />
@@ -350,8 +350,8 @@
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="peddler's_daughter">
+	<info box="simple" />
+	<portrait_l name="peddler's_daughter" />
 	<sjis>
 		お母様は、とうとうベンソン親方にまで<end_line />
 		声をかけはじめたの<end_line />
@@ -359,8 +359,8 @@
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="peddler's_daughter">
+	<info box="simple" />
+	<portrait_l name="peddler's_daughter" />
 	<sjis>
 		もうすこしかっこいい人がいいな～<end_line />
 		お仕事であったりするときに<end_line />
@@ -368,15 +368,15 @@
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="peddler's_daughter">
+	<info box="simple" />
+	<portrait_l name="peddler's_daughter" />
 	<sjis>
 		ところであなたは、鍛冶師みたいだけど<end_line />
 		強化の情報を聞いていかない？<end_line />
 	</sjis>
 </dialogue>
 <choice>
-	<info box="simple">
+	<info box="simple" />
 	<option>
 		<sjis>
 			聞いてみる<end_line />
@@ -389,8 +389,8 @@
 	</option>
 </choice>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="peddler's_daughter">
+	<info box="simple" />
+	<portrait_l name="peddler's_daughter" />
 	<sjis>
 		えっとね、強化で「古びた砥石」を<end_line />
 		３個使うと特殊効果の「中リペア」が<end_line />
@@ -398,8 +398,8 @@
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="peddler's_daughter">
+	<info box="simple" />
+	<portrait_l name="peddler's_daughter" />
 	<sjis>
 		でもって、今回はなんと<end_line />
 		「古びた砥石」３個を<end_line />
@@ -407,14 +407,14 @@
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="peddler's_daughter">
+	<info box="simple" />
+	<portrait_l name="peddler's_daughter" />
 	<sjis>
 		買ってくれます？<end_line />
 	</sjis>
 </dialogue>
 <choice>
-	<info box="simple">
+	<info box="simple" />
 	<option>
 		<sjis>
 			買う<end_line />
@@ -427,15 +427,15 @@
 	</option>
 </choice>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="peddler's_daughter">
+	<info box="simple" />
+	<portrait_l name="peddler's_daughter" />
 	<sjis>
 		ありがと～<end_line />
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="peddler's_daughter">
+	<info box="simple" />
+	<portrait_l name="peddler's_daughter" />
 	<sjis>
 		ええぇ～これじゃ～<end_line />
 		お金たりないの～<end_line />
@@ -443,23 +443,23 @@
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="peddler's_daughter">
+	<info box="simple" />
+	<portrait_l name="peddler's_daughter" />
 	<sjis>
 		え～聞くだけ聞いて買ってくれないの～<end_line />
 		ケチ～<end_line />
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="peddler's_daughter">
+	<info box="simple" />
+	<portrait_l name="peddler's_daughter" />
 	<sjis>
 		え～聞いてくれないの～<end_line />
 		せっかくのお客さんだと思ったのに～<end_line />
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="simple">
+	<info box="simple" />
 	<sjis>
 		　　　プロスバンの町の創設者<end_line />
 		　　　勇者プロスバンの石像<end_line />

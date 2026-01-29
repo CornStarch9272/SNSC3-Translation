@@ -1,7 +1,7 @@
 <dialogue>
-  <info box="right">
-  <portrait_l entry="murno" eye="serious" mouth="serious">
-  <portrait_r entry="player" eye="serious" mouth="tense">
+  <info box="right" />
+  <portrait_l entry="murno" eye="serious" mouth="serious" />
+  <portrait_r entry="player" eye="serious" mouth="tense" />
   <sjis>
     どう、ミューノ？<end_line />
     なんかわかった？<end_line />
@@ -12,9 +12,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="left">
-  <portrait_l entry="murno" eye="serious" mouth="tense">
-  <portrait_r entry="player" eye="serious" mouth="tense">
+  <info box="left" />
+  <portrait_l entry="murno" eye="serious" mouth="tense" />
+  <portrait_r entry="player" eye="serious" mouth="tense" />
   <sjis>
     この魔晶柱<three_dots /><end_line />
     やっぱり私の村にあったのと<end_line />
@@ -27,10 +27,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="run-dor">
-  <info box="right">
-  <portrait_l entry="murno" eye="serious" mouth="tense">
-  <portrait_r entry="partner" eye="sad" mouth="serious">
+  <partner name="run-dor" />
+  <info box="right" />
+  <portrait_l entry="murno" eye="serious" mouth="tense" />
+  <portrait_r entry="partner" eye="sad" mouth="serious" />
   <sjis>
     魔晶柱カラ　波動ヲ　検知シテイマス<end_line />
     ご※ぁんノ魔石ノ影響ヲ<end_line />
@@ -43,10 +43,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="run-dor">
-  <info box="left">
-  <portrait_l entry="murno" eye="decided" mouth="tense">
-  <portrait_r entry="partner" eye="sad" mouth="serious">
+  <partner name="run-dor" />
+  <info box="left" />
+  <portrait_l entry="murno" eye="decided" mouth="tense" />
+  <portrait_r entry="partner" eye="sad" mouth="serious" />
   <sjis>
     魔石の<three_dots />？<end_line />
   </sjis>
@@ -55,10 +55,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="run-dor">
-  <info box="right">
-  <portrait_l entry="murno" eye="decided" mouth="tense">
-  <portrait_r entry="partner" eye="serious" mouth="neutral">
+  <partner name="run-dor" />
+  <info box="right" />
+  <portrait_l entry="murno" eye="decided" mouth="tense" />
+  <portrait_r entry="partner" eye="serious" mouth="neutral" />
   <sjis>
     私タチガ　村カラ<end_line />
     逃ゲテキタ時ニ　検知シタ波動ト<end_line />
@@ -70,9 +70,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="run-dor">
-  <info box="right">
-  <portrait_r entry="player" eye="decided" mouth="tense">
+  <partner name="run-dor" />
+  <info box="right" />
+  <portrait_r entry="player" eye="decided" mouth="tense" />
   <sjis>
     え<three_dots />？<end_line />
     わかんないよ<end_line />
@@ -83,9 +83,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="run-dor">
-  <info box="right">
-  <portrait_r entry="player" eye="decided" mouth="tense">
+  <partner name="run-dor" />
+  <info box="right" />
+  <portrait_r entry="player" eye="decided" mouth="tense" />
   <male>
     <sjis>
       どういうことだよ？<end_line />
@@ -101,9 +101,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <partner name="run-dor">
-  <info box="left">
-  <portrait_l entry="murno" eye="decided" mouth="serious">
+  <partner name="run-dor" />
+  <info box="left" />
+  <portrait_l entry="murno" eye="decided" mouth="serious" />
   <sjis>
     魔石に、何か<three_dots /><end_line />
   </sjis>
@@ -112,9 +112,9 @@
   </ascii>
 </dialogue>
 <bigtext>
-  <partner name="run-dor">
-  <info box="simple" effect="big">
-  <portrait_l name="magdrad">
+  <partner name="run-dor" />
+  <info box="simple" effect="big" />
+  <portrait_l name="magdrad" />
   <sjis>
     グゥァアアア！！<end_line />
   </sjis>

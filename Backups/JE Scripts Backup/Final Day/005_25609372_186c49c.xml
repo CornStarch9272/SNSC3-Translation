@@ -1,6 +1,6 @@
 <dialogue>
-	<info box="right">
-	<portrait_r entry="vee" eye="decided" mouth="tense">
+	<info box="right" />
+	<portrait_r entry="vee" eye="decided" mouth="tense" />
 	<sjis>
 		そっちはどうだった？<end_line />
 		ミューノはいたかい？<end_line />
@@ -11,9 +11,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="left">
-	<portrait_l entry="jade" eye="decided" mouth="tense">
-	<portrait_r entry="vee" eye="decided" mouth="tense">
+	<info box="left" />
+	<portrait_l entry="jade" eye="decided" mouth="tense" />
+	<portrait_r entry="vee" eye="decided" mouth="tense" />
 	<sjis>
 		いや、ウェルマンさんもいない<end_line />
 		やっぱ工房の中には<end_line />
@@ -26,8 +26,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="right">
-	<portrait_r entry="player" eye="decided" mouth="tense">
+	<info box="right" />
+	<portrait_r entry="player" eye="decided" mouth="tense" />
 	<male>
 		<sjis>
 			<three_dots />ってことは<end_line />
@@ -49,9 +49,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="left">
-	<portrait_l entry="tier" eye="serious" mouth="tense">
-	<portrait_r entry="player" eye="decided" mouth="tense">
+	<info box="left" />
+	<portrait_l entry="tier" eye="serious" mouth="tense" />
+	<portrait_r entry="player" eye="decided" mouth="tense" />
 	<sjis>
 		もしかして<end_line />
 		お父さんとふたりで<end_line />
@@ -64,10 +64,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<partner name="run-dor">
-	<info box="right">
-	<portrait_l entry="tier" eye="serious" mouth="tense">
-	<portrait_r entry="partner" eye="decided" mouth="serious">
+	<partner name="run-dor" />
+	<info box="right" />
+	<portrait_l entry="tier" eye="serious" mouth="tense" />
+	<portrait_r entry="partner" eye="decided" mouth="serious" />
 	<sjis>
 		ソノ可能性ハ　キワメテ低イト<end_line />
 		思ワレマス<end_line />
@@ -80,10 +80,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<partner name="enzi">
-	<info box="right">
-	<portrait_l entry="tier" eye="serious" mouth="tense">
-	<portrait_r entry="partner" eye="decided" mouth="serious">
+	<partner name="enzi" />
+	<info box="right" />
+	<portrait_l entry="tier" eye="serious" mouth="tense" />
+	<portrait_r entry="partner" eye="decided" mouth="serious" />
 	<sjis>
 		ワガハイに黙って帰るなど<end_line />
 		あるわけないではないか！<end_line />
@@ -96,10 +96,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<partner name="killfith">
-	<info box="right">
-	<portrait_l entry="tier" eye="serious" mouth="tense">
-	<portrait_r entry="partner" eye="decided" mouth="serious">
+	<partner name="killfith" />
+	<info box="right" />
+	<portrait_l entry="tier" eye="serious" mouth="tense" />
+	<portrait_r entry="partner" eye="decided" mouth="serious" />
 	<sjis>
 		ふざけるな<end_line />
 		あいつらが黙って帰るなど<end_line />
@@ -112,10 +112,10 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<partner name="rufeel">
-	<info box="right">
-	<portrait_l entry="tier" eye="serious" mouth="tense">
-	<portrait_r entry="partner" eye="decided" mouth="serious">
+	<partner name="rufeel" />
+	<info box="right" />
+	<portrait_l entry="tier" eye="serious" mouth="tense" />
+	<portrait_r entry="partner" eye="decided" mouth="serious" />
 	<sjis>
 		私に黙ってだなんて<end_line />
 		絶対にありませんわ<end_line />
@@ -128,9 +128,9 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="left">
-	<portrait_l entry="player" eye="decided" mouth="serious">
-	<portrait_r entry="partner" eye="decided" mouth="serious">
+	<info box="left" />
+	<portrait_l entry="player" eye="decided" mouth="serious" />
+	<portrait_r entry="partner" eye="decided" mouth="serious" />
 	<male>
 		<sjis>
 			そうだな<end_line />
@@ -149,8 +149,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="right">
-	<portrait_r entry="vee" eye="decided" mouth="neutral">
+	<info box="right" />
+	<portrait_r entry="vee" eye="decided" mouth="neutral" />
 	<sjis>
 		んじゃ、みんなで手分けして<end_line />
 		さがすとするかね<end_line />

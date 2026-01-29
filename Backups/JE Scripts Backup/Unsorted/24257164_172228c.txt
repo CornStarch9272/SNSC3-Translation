@@ -1,5 +1,5 @@
 <dialogue>
-	<info box="special">
+	<info box="special" />
 	<sjis>
 		けいこく！<end_line />
 		このままダンジョンへ出ると<end_line />

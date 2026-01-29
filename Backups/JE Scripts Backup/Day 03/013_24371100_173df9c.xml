@@ -4,8 +4,8 @@
 	</sjis>
 </location>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="chief">
+	<info box="simple" />
+	<portrait_l name="chief" />
 	<sjis>
 		外に行くなら気をつけてな<end_line />
 	</sjis>
@@ -15,8 +15,8 @@
 </dialogue>
 ###Youngsters
 <dialogue>
-	<info box="simple">
-	<portrait_l name="elderly">
+	<info box="simple" />
+	<portrait_l name="elderly" />
 	<sjis>
 		近頃の若いヤツはなっとらん<end_line />
 		あ～～なっとらん<end_line />

@@ -4,8 +4,8 @@
 	</sjis>
 </location>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="man">
+	<info box="simple" />
+	<portrait_l name="man" />
 	<sjis>
 		強力な武器ばかり求めていたけど<end_line />
 		自分自身が強くないと意味が無い<end_line />

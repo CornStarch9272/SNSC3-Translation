@@ -5,7 +5,7 @@
 </location>
 #Rob's Workshop - Workshop (proper)
 <dialogue>
-  <info box="special">
+  <info box="special" />
   <sjis>
     セーブポイントでは、アイテムの<end_line />
     「思い出日記」を消費することなく<end_line />
@@ -18,7 +18,7 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="special">
+  <info box="special" />
   <sjis>
     セーブポイントに向かいＡボタンを<end_line />
     押すとセーブする事ができます<end_line />
@@ -29,7 +29,7 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="special">
+  <info box="special" />
   <sjis>
     ベッドでは、体力と魔法の使用回数を<end_line />
     何度でも回復する事ができます<end_line />
@@ -40,7 +40,7 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="special">
+  <info box="special" />
   <sjis>
     ベッドに入り、Ａボタンを押すと<end_line />
     回復する事ができます<end_line />
@@ -51,8 +51,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="vee">
+  <info box="simple" />
+  <portrait_l name="vee" />
   <sjis>
     まだ修行の途中だよ<end_line />
     ドコにいくつもりだい？<end_line />
@@ -72,7 +72,7 @@
   </ascii>
 </popup>
 <dialogue>
-  <info box="special">
+  <info box="special" />
   <sjis>
     セーブポイントでは、アイテムの<end_line />
     「思い出日記」を消費することなく<end_line />
@@ -85,7 +85,7 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="special">
+  <info box="special" />
   <sjis>
     セーブポイントに向かいＡボタンを<end_line />
     押すとセーブする事ができます<end_line />
@@ -96,7 +96,7 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="special">
+  <info box="special" />
   <sjis>
     ベッドでは、体力と魔法の使用回数を<end_line />
     何度でも回復する事ができます<end_line />
@@ -107,7 +107,7 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="special">
+  <info box="special" />
   <sjis>
     ベッドに入り、Ａボタンを押すと<end_line />
     回復する事ができます<end_line />
@@ -118,8 +118,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="vee">
+  <info box="simple" />
+  <portrait_l name="vee" />
   <sjis>
     気合い入れていくよ！<end_line />
   </sjis>

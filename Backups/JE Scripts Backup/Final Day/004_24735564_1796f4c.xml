@@ -4,8 +4,8 @@
 	</sjis>
 </location>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="tier">
+	<info box="simple" />
+	<portrait_l name="tier" />
 	<sjis>
 		何かあったら知らせに行くから<end_line />
 		<player_nickname />たちもがんばってね<end_line />
@@ -16,8 +16,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="eliez">
+	<info box="simple" />
+	<portrait_l name="eliez" />
 	<sjis>
 		ミューノおねーちゃんは<end_line />
 		ドコにいったのかな？<end_line />
@@ -28,8 +28,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="man">
+	<info box="simple" />
+	<portrait_l name="man" />
 	<sjis>
 		ベンソン親方はかなり良くなったけど<end_line />
 		まだムリはさせない方がいいよ<end_line />
@@ -41,7 +41,7 @@
 </dialogue>
 ###GoForgeYourself
 <dialogue>
-  <info box="simple">
+  <info box="simple" />
   <sjis>
     武器を鍛える前に<end_line />
     まずは己を鍛えるべし<end_line />
@@ -53,7 +53,7 @@
 </dialogue>
 ###EliezTools
 <dialogue>
-  <info box="simple">
+  <info box="simple" />
   <sjis>
     　＜エリエからのおねがい<music_note /><end_line />
     つかったどうぐは、ちゃあんと<end_line />

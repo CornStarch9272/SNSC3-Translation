@@ -4,8 +4,8 @@
 	</sjis>
 </location>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="child">
+	<info box="simple" />
+	<portrait_l name="child" />
 	<sjis>
 		ねぇアカバネごっこしようよ<end_line />
 		ボクがアカバネをたいじするから<end_line />
@@ -18,7 +18,7 @@
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="simple">
+	<info box="simple" />
 	<sjis>
 		　<end_line />
 		　　福引き券のご利用は計画的に！<end_line />

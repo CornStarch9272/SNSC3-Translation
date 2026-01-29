@@ -1,6 +1,6 @@
 <dialogue>
-  <info box="simple">
-  <portrait_l name="cat lover">
+  <info box="simple" />
+  <portrait_l name="cat lover" />
   <sjis>
     猫エラー<end_line />
     ＰＯＳ＿ＴＥＭＰが<end_line />
@@ -12,8 +12,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="cat lover">
+  <info box="simple" />
+  <portrait_l name="cat lover" />
   <sjis>
     シロちゃんが<end_line />
     いなくなったの<end_line />
@@ -25,8 +25,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="cat lover">
+  <info box="simple" />
+  <portrait_l name="cat lover" />
   <sjis>
     あの猫からは、強い意志を感じたわ<end_line />
     使命を持ってどこかへ旅立った<three_dots /><end_line />
@@ -39,8 +39,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="cat lover">
+  <info box="simple" />
+  <portrait_l name="cat lover" />
   <sjis>
     それに、お友達を<end_line />
     紹介してくれたみたい<end_line />
@@ -53,8 +53,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="cat lover">
+  <info box="simple" />
+  <portrait_l name="cat lover" />
   <sjis>
     どこかにかわいい猫いないかしら<end_line />
   </sjis>
@@ -63,8 +63,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="cat lover">
+  <info box="simple" />
+  <portrait_l name="cat lover" />
   <sjis>
     世の中には<end_line />
     ２種類の人がいると思うの<end_line />
@@ -75,8 +75,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="cat lover">
+  <info box="simple" />
+  <portrait_l name="cat lover" />
   <sjis>
     猫が好きな人と<end_line />
     そうじゃない人よ<end_line />
@@ -87,8 +87,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="cat lover">
+  <info box="simple" />
+  <portrait_l name="cat lover" />
   <sjis>
     あなたはどっち？<end_line />
   </sjis>
@@ -97,8 +97,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="cat lover">
+  <info box="simple" />
+  <portrait_l name="cat lover" />
   <sjis>
     シロがボクの前から<end_line />
     居なくなってしまった<end_line />
@@ -108,8 +108,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="cat lover">
+  <info box="simple" />
+  <portrait_l name="cat lover" />
   <sjis>
     だけど、あの時のシロの後ろ姿には<end_line />
     旅立つ決意を感じたんだ<end_line />
@@ -119,8 +119,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="cat lover">
+  <info box="simple" />
+  <portrait_l name="cat lover" />
   <sjis>
     シロと別れたことは、<end_line />
     つらいけど<end_line />
@@ -131,8 +131,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="cat lover">
+  <info box="simple" />
+  <portrait_l name="cat lover" />
   <sjis>
     代わりに居ついた<end_line />
     こいつと仲良くしていくよ<end_line />
@@ -143,8 +143,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="cat lover">
+  <info box="simple" />
+  <portrait_l name="cat lover" />
   <sjis>
     どこかにかわいい猫いませんか<end_line />
   </sjis>
@@ -153,8 +153,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="cat lover">
+  <info box="simple" />
+  <portrait_l name="cat lover" />
   <sjis>
     シロは、どこへいって<end_line />
     しまったのじゃろう<end_line />
@@ -164,8 +164,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="cat lover">
+  <info box="simple" />
+  <portrait_l name="cat lover" />
   <sjis>
     不思議と安心じゃ<end_line />
     どこかで元気にしている気がするんじゃ<end_line />
@@ -176,8 +176,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="cat lover">
+  <info box="simple" />
+  <portrait_l name="cat lover" />
   <sjis>
     それに、お友達を<end_line />
     紹介してくれたみたいじゃの<end_line />
@@ -190,8 +190,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="cat lover">
+  <info box="simple" />
+  <portrait_l name="cat lover" />
   <sjis>
     どこかにかわいい猫いないかの<end_line />
     さびしいわい<end_line />
@@ -202,8 +202,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="cat lover">
+  <info box="simple" />
+  <portrait_l name="cat lover" />
   <sjis>
     ふらっとウチに来て、<end_line />
     ふらっと、どこかへいっちゃった<end_line />
@@ -214,8 +214,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="cat lover">
+  <info box="simple" />
+  <portrait_l name="cat lover" />
   <sjis>
     不思議ね、<partner />は<end_line />
     どこかで元気にやってる気がするの<end_line />
@@ -226,8 +226,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="cat lover">
+  <info box="simple" />
+  <portrait_l name="cat lover" />
   <sjis>
     かわりに、お友達をつれて<end_line />
     きてくれたみたい<end_line />
@@ -238,8 +238,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="cat lover">
+  <info box="simple" />
+  <portrait_l name="cat lover" />
   <sjis>
     どこかにかわいい猫いないかな<end_line />
   </sjis>
@@ -248,8 +248,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="cat lover">
+  <info box="simple" />
+  <portrait_l name="cat lover" />
   <sjis>
     ねぇ、どこかで、白い猫を<end_line />
     見なかった？<end_line />
@@ -260,8 +260,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="cat lover">
+  <info box="simple" />
+  <portrait_l name="cat lover" />
   <sjis>
     どこかで、助けを求めて<end_line />
     鳴いているような気がするの<end_line />
@@ -272,8 +272,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="cat lover">
+  <info box="simple" />
+  <portrait_l name="cat lover" />
   <sjis>
     おかえり～<end_line />
     シロちゃん<end_line />
@@ -283,8 +283,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="cat lover">
+  <info box="simple" />
+  <portrait_l name="cat lover" />
   <sjis>
     あら、ごめんなさい<end_line />
     うれしくって、つい夢中になっちゃった<end_line />
@@ -296,8 +296,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="cat lover">
+  <info box="simple" />
+  <portrait_l name="cat lover" />
   <sjis>
     お礼に、これをあげるわ<end_line />
   </sjis>
@@ -306,8 +306,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="cat lover">
+  <info box="simple" />
+  <portrait_l name="cat lover" />
   <sjis>
     もう、危ないところにいっちゃだめよ～<end_line />
   </sjis>
@@ -316,8 +316,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="cat lover">
+  <info box="simple" />
+  <portrait_l name="cat lover" />
   <sjis>
     もう、危ないところにいっちゃだめよ～<end_line />
   </sjis>
@@ -326,8 +326,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="cat lover">
+  <info box="simple" />
+  <portrait_l name="cat lover" />
   <sjis>
     シロちゃんが<end_line />
     いなくなったの<end_line />
@@ -339,8 +339,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="cat lover">
+  <info box="simple" />
+  <portrait_l name="cat lover" />
   <sjis>
     あの猫からは、強い意志を感じたわ<end_line />
     使命を持ってどこかへ旅立った<three_dots /><end_line />
@@ -353,8 +353,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="cat lover">
+  <info box="simple" />
+  <portrait_l name="cat lover" />
   <sjis>
     それに、お友達を<end_line />
     紹介してくれたみたい<end_line />
@@ -367,8 +367,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="cat lover">
+  <info box="simple" />
+  <portrait_l name="cat lover" />
   <sjis>
     どこかにかわいい猫いないかしら<end_line />
   </sjis>
@@ -377,8 +377,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="cat lover">
+  <info box="simple" />
+  <portrait_l name="cat lover" />
   <sjis>
     世の中には<end_line />
     ２種類の人がいると思うの<end_line />
@@ -389,8 +389,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="cat lover">
+  <info box="simple" />
+  <portrait_l name="cat lover" />
   <sjis>
     猫が好きな人と<end_line />
     そうじゃない人よ<end_line />
@@ -401,8 +401,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="cat lover">
+  <info box="simple" />
+  <portrait_l name="cat lover" />
   <sjis>
     あなたはどっち？<end_line />
   </sjis>
@@ -411,8 +411,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="man">
+  <info box="simple" />
+  <portrait_l name="man" />
   <sjis>
     なぁ、どこかで、白い猫を<end_line />
     見なかったか？<end_line />
@@ -423,8 +423,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="man">
+  <info box="simple" />
+  <portrait_l name="man" />
   <sjis>
     どこかで、助けを求めて<end_line />
     鳴いているような気がするんだ<end_line />
@@ -435,8 +435,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="man">
+  <info box="simple" />
+  <portrait_l name="man" />
   <sjis>
     おお～シロや～～<end_line />
   </sjis>
@@ -445,8 +445,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="man">
+  <info box="simple" />
+  <portrait_l name="man" />
   <sjis>
     あっ<end_line />
   </sjis>
@@ -455,8 +455,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="man">
+  <info box="simple" />
+  <portrait_l name="man" />
   <sjis>
     お礼といっちゃなんだが<end_line />
     これを受け取ってくれ<end_line />
@@ -467,8 +467,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="man">
+  <info box="simple" />
+  <portrait_l name="man" />
   <sjis>
     もう、<end_line />
     危ないところにいっちゃだめだよ～<end_line />
@@ -480,8 +480,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="man">
+  <info box="simple" />
+  <portrait_l name="man" />
   <sjis>
     もう、<end_line />
     危ないところにいっちゃだめだよ～<end_line />
@@ -493,8 +493,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="cat lover">
+  <info box="simple" />
+  <portrait_l name="cat lover" />
   <sjis>
     シロがボクの前から<end_line />
     居なくなってしまった<end_line />
@@ -504,8 +504,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="cat lover">
+  <info box="simple" />
+  <portrait_l name="cat lover" />
   <sjis>
     だけど、あの時のシロの後ろ姿には<end_line />
     旅立つ決意を感じたんだ<end_line />
@@ -515,8 +515,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="cat lover">
+  <info box="simple" />
+  <portrait_l name="cat lover" />
   <sjis>
     シロと別れたことは、<end_line />
     つらいけど<end_line />
@@ -527,8 +527,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="cat lover">
+  <info box="simple" />
+  <portrait_l name="cat lover" />
   <sjis>
     代わりに居ついた<end_line />
     こいつと仲良くしていくよ<end_line />
@@ -539,8 +539,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="cat lover">
+  <info box="simple" />
+  <portrait_l name="cat lover" />
   <sjis>
     どこかにかわいい猫いませんか<end_line />
   </sjis>
@@ -549,8 +549,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="cat lover">
+  <info box="simple" />
+  <portrait_l name="cat lover" />
   <sjis>
     ねぇ、どこかで、白い猫を<end_line />
     見なかったかい？<end_line />
@@ -561,8 +561,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="cat lover">
+  <info box="simple" />
+  <portrait_l name="cat lover" />
   <sjis>
     ついこの間、帰ってきたばかりなのに<end_line />
     また、居なくなってしまったんじゃ<end_line />
@@ -573,8 +573,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="cat lover">
+  <info box="simple" />
+  <portrait_l name="cat lover" />
   <sjis>
     どこかで、助けを求めて<end_line />
     鳴いているような気がするんじゃ<end_line />
@@ -585,8 +585,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="cat lover">
+  <info box="simple" />
+  <portrait_l name="cat lover" />
   <sjis>
     おお、よしよし<end_line />
   </sjis>
@@ -595,8 +595,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="cat lover">
+  <info box="simple" />
+  <portrait_l name="cat lover" />
   <sjis>
     すまないねぇ、<end_line />
     お礼といっちゃなんだけど<end_line />
@@ -609,8 +609,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="cat lover">
+  <info box="simple" />
+  <portrait_l name="cat lover" />
   <sjis>
     もう、危ないところに<end_line />
     いくんじゃないよ<end_line />
@@ -620,8 +620,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="cat lover">
+  <info box="simple" />
+  <portrait_l name="cat lover" />
   <sjis>
     もう、危ないところに<end_line />
     いくんじゃないよ<end_line />
@@ -631,8 +631,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="cat lover">
+  <info box="simple" />
+  <portrait_l name="cat lover" />
   <sjis>
     シロは、どこへいって<end_line />
     しまったのじゃろう<end_line />
@@ -642,8 +642,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="cat lover">
+  <info box="simple" />
+  <portrait_l name="cat lover" />
   <sjis>
     不思議と安心じゃ<end_line />
     どこかで元気にしている気がするんじゃ<end_line />
@@ -654,8 +654,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="cat lover">
+  <info box="simple" />
+  <portrait_l name="cat lover" />
   <sjis>
     それに、お友達を<end_line />
     紹介してくれたみたいじゃの<end_line />
@@ -668,8 +668,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="cat lover">
+  <info box="simple" />
+  <portrait_l name="cat lover" />
   <sjis>
     どこかにかわいい猫いないかの<end_line />
     さびしいわい<end_line />
@@ -680,8 +680,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="cat lover">
+  <info box="simple" />
+  <portrait_l name="cat lover" />
   <sjis>
     ねぇ、どこかで、白い猫を<end_line />
     見なかった？<end_line />
@@ -692,8 +692,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="cat lover">
+  <info box="simple" />
+  <portrait_l name="cat lover" />
   <sjis>
     どこかで、助けを求めて<end_line />
     鳴いているような気がするの<end_line />
@@ -704,8 +704,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="cat lover">
+  <info box="simple" />
+  <portrait_l name="cat lover" />
   <sjis>
     おかえり～<end_line />
     <partner /><end_line />
@@ -715,8 +715,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="cat lover">
+  <info box="simple" />
+  <portrait_l name="cat lover" />
   <sjis>
     ん？<end_line />
     <partner />って、なまえ<end_line />
@@ -729,8 +729,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="cat lover">
+  <info box="simple" />
+  <portrait_l name="cat lover" />
   <sjis>
     お礼に、これをあげるね<end_line />
   </sjis>
@@ -739,8 +739,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="cat lover">
+  <info box="simple" />
+  <portrait_l name="cat lover" />
   <sjis>
     もう、危ないところにいっちゃだめよ～<end_line />
   </sjis>
@@ -749,8 +749,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="cat lover">
+  <info box="simple" />
+  <portrait_l name="cat lover" />
   <sjis>
     もう、危ないところにいっちゃだめよ～<end_line />
   </sjis>
@@ -759,8 +759,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="cat lover">
+  <info box="simple" />
+  <portrait_l name="cat lover" />
   <sjis>
     ふらっとウチに来て、<end_line />
     ふらっと、どこかへいっちゃった<end_line />
@@ -771,8 +771,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="cat lover">
+  <info box="simple" />
+  <portrait_l name="cat lover" />
   <sjis>
     不思議ね、<partner />は<end_line />
     どこかで元気にやってる気がするの<end_line />
@@ -783,8 +783,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="cat lover">
+  <info box="simple" />
+  <portrait_l name="cat lover" />
   <sjis>
     かわりに、お友達をつれて<end_line />
     きてくれたみたい<end_line />
@@ -795,8 +795,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="cat lover">
+  <info box="simple" />
+  <portrait_l name="cat lover" />
   <sjis>
     どこかにかわいい猫いないかな<end_line />
   </sjis>
@@ -805,8 +805,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="cat lover">
+  <info box="simple" />
+  <portrait_l name="cat lover" />
   <sjis>
     あなた、本物の猫好きの人ね<end_line />
     見れば分かるわ<end_line />
@@ -817,8 +817,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="cat lover">
+  <info box="simple" />
+  <portrait_l name="cat lover" />
   <sjis>
     猫好きの人に悪い人は<end_line />
     いないわ<end_line />
@@ -828,8 +828,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="cat lover">
+  <info box="simple" />
+  <portrait_l name="cat lover" />
   <sjis>
     そんな、あなたには<end_line />
     これをプレゼントします<end_line />
@@ -840,8 +840,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="cat lover">
+  <info box="simple" />
+  <portrait_l name="cat lover" />
   <sjis>
     シロちゃんが、またたくさんお友達を<end_line />
     連れて帰ってきたの<end_line />
@@ -854,8 +854,8 @@
   </ascii>
 </dialogue>
 <dialogue>
-  <info box="simple">
-  <portrait_l name="cat lover">
+  <info box="simple" />
+  <portrait_l name="cat lover" />
   <sjis>
     にゃー、にゃー<end_line />
   </sjis>

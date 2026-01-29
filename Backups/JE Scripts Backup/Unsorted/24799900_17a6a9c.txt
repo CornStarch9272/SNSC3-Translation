@@ -4,16 +4,16 @@
 	</sjis>
 </location>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="man">
+	<info box="simple" />
+	<portrait_l name="man" />
 	<sjis>
 		むこうからあやまってくるとは<end_line />
 		思ってもなかったよ<end_line />
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="man">
+	<info box="simple" />
+	<portrait_l name="man" />
 	<sjis>
 		しかも、ぼくたちの思い出の<end_line />
 		アレを探してくるなんて<end_line />
@@ -21,8 +21,8 @@
 	</sjis>
 </dialogue>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="woman">
+	<info box="simple" />
+	<portrait_l name="woman" />
 	<sjis>
 		なんとか仲直りできたわ<end_line />
 		なんだかんだ言ったって<end_line />
