@@ -4,14 +4,14 @@
   <portrait_l entry="player" eye="serious" mouth="neutral">
   <portrait_r entry="partner" eye="decided" mouth="yell">
   <sjis>
-    コレ以上進ムト　橋ガ<end_line>
-    クズレル可能性ガ　高イデス<end_line>
-    戻ルコトヲ　オススメシマス<end_line>
+    コレ以上進ムト　橋ガ<end_line />
+    クズレル可能性ガ　高イデス<end_line />
+    戻ルコトヲ　オススメシマス<end_line />
   </sjis>
   <ascii>
-    If We Continue, There Is A High<end_line>
-    Chance The Bridge Will Crumble.<end_line>
-    I Recommend Turning Back.<end_line>
+    If We Continue, There Is A High<end_line />
+    Chance The Bridge Will Crumble.<end_line />
+    I Recommend Turning Back.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -20,12 +20,12 @@
   <portrait_l entry="player" eye="serious" mouth="tense">
   <portrait_r entry="partner" eye="decided" mouth="yell">
   <sjis>
-    そっか？<end_line>
-    じゃあ<three_dots><end_line>
+    そっか？<end_line />
+    じゃあ<three_dots /><end_line />
   </sjis>
   <ascii>
-    Really?<end_line>
-    Well then<three_dots><end_line>
+    Really?<end_line />
+    Well then<three_dots /><end_line />
   </ascii>
 </dialogue>
 <bigtext>
@@ -33,10 +33,10 @@
   <info box="left" effect="big">
   <portrait_l entry="player" eye="surprised" mouth="yell">
   <sjis>
-    うっわぁっ！？<end_line>
+    うっわぁっ！？<end_line />
   </sjis>
   <ascii>
-    Uwah!?<end_line>
+    Uwah!?<end_line />
   </ascii>
 </bigtext>
 <dialogue>
@@ -45,12 +45,12 @@
   <portrait_l entry="player" eye="serious" mouth="neutral">
   <portrait_r entry="partner" eye="decided" mouth="yell">
   <sjis>
-    これ以上進むと<end_line>
-    橋が落ちるぞ<end_line>
+    これ以上進むと<end_line />
+    橋が落ちるぞ<end_line />
   </sjis>
   <ascii>
-    If you go any further,<end_line>
-    the bridge will fall!<end_line>
+    If you go any further,<end_line />
+    the bridge will fall!<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -59,12 +59,12 @@
   <portrait_l entry="player" eye="serious" mouth="tense">
   <portrait_r entry="partner" eye="decided" mouth="yell">
   <sjis>
-    そっか？<end_line>
-    じゃあ<three_dots><end_line>
+    そっか？<end_line />
+    じゃあ<three_dots /><end_line />
   </sjis>
   <ascii>
-    Really?<end_line>
-    Well then<three_dots><end_line>
+    Really?<end_line />
+    Well then<three_dots /><end_line />
   </ascii>
 </dialogue>
 <bigtext>
@@ -72,10 +72,10 @@
   <info box="left" effect="big">
   <portrait_l entry="player" eye="surprised" mouth="yell">
   <sjis>
-    うっわぁっ！？<end_line>
+    うっわぁっ！？<end_line />
   </sjis>
   <ascii>
-    Uwah!?<end_line>
+    Uwah!?<end_line />
   </ascii>
 </bigtext>
 <dialogue>
@@ -84,12 +84,12 @@
   <portrait_l entry="player" eye="serious" mouth="neutral">
   <portrait_r entry="partner" eye="decided" mouth="yell">
   <sjis>
-    どうやらキサマ<end_line>
-    運がなかったようだな<end_line>
+    どうやらキサマ<end_line />
+    運がなかったようだな<end_line />
   </sjis>
   <ascii>
-    Looks like<end_line>
-    you were unlucky.<end_line>
+    Looks like<end_line />
+    you were unlucky.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -98,12 +98,12 @@
   <portrait_l entry="player" eye="serious" mouth="tense">
   <portrait_r entry="partner" eye="decided" mouth="yell">
   <sjis>
-    え？<end_line>
-    それってどういう<three_dots><end_line>
+    え？<end_line />
+    それってどういう<three_dots /><end_line />
   </sjis>
   <ascii>
-    Eh?<end_line>
-    What do you mea<three_dots><end_line>
+    Eh?<end_line />
+    What do you mea<three_dots /><end_line />
   </ascii>
 </dialogue>
 <bigtext>
@@ -111,10 +111,10 @@
   <info box="left" effect="big">
   <portrait_l entry="player" eye="surprised" mouth="yell">
   <sjis>
-    うっわぁっ！？<end_line>
+    うっわぁっ！？<end_line />
   </sjis>
   <ascii>
-    Uwah!?<end_line>
+    Uwah!?<end_line />
   </ascii>
 </bigtext>
 <dialogue>
@@ -122,14 +122,14 @@
   <info box="right">
   <portrait_r name="partner">
   <sjis>
-    ダメです！<end_line>
-    これ以上進むと<end_line>
-    絶対に橋が落ちます<end_line>
+    ダメです！<end_line />
+    これ以上進むと<end_line />
+    絶対に橋が落ちます<end_line />
   </sjis>
   <ascii>
-    Stop!<end_line>
-    If we continue any further,<end_line>
-    the bridge will definitely fall.<end_line>
+    Stop!<end_line />
+    If we continue any further,<end_line />
+    the bridge will definitely fall.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -137,12 +137,12 @@
   <info box="left">
   <portrait_l name="player">
   <sjis>
-    そっか？<end_line>
-    じゃあ<three_dots><end_line>
+    そっか？<end_line />
+    じゃあ<three_dots /><end_line />
   </sjis>
   <ascii>
-    Really?<end_line>
-    Well then<three_dots><end_line>
+    Really?<end_line />
+    Well then<three_dots /><end_line />
   </ascii>
 </dialogue>
 <bigtext>
@@ -150,9 +150,9 @@
   <info box="left" effect="big">
   <portrait_l entry="player" eye="surprised" mouth="yell">
   <sjis>
-    うっわぁっ！？<end_line>
+    うっわぁっ！？<end_line />
   </sjis>
   <ascii>
-    Uwah!?<end_line>
+    Uwah!?<end_line />
   </ascii>
 </bigtext>

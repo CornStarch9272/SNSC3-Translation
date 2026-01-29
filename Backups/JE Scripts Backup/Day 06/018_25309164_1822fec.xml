@@ -3,30 +3,30 @@
   <portrait_l entry="player" eye="serious" mouth="tense">
   <male>
     <sjis>
-      村って、たしかコッチだったな<three_dots><end_line>
+      村って、たしかコッチだったな<three_dots /><end_line />
     </sjis>
   </male>
   <female>
     <sjis>
-      村って<end_line>
-      たしかコッチだったよね<three_dots><end_line>
+      村って<end_line />
+      たしかコッチだったよね<three_dots /><end_line />
     </sjis>
   </female>
   <ascii>
-    If I remember correctly,<end_line>
-    the village is this way<three_dots><end_line>
+    If I remember correctly,<end_line />
+    the village is this way<three_dots /><end_line />
   </ascii>
 </dialogue>
 <dialogue>
   <info box="left">
   <portrait_l entry="player" eye="decided" mouth="serious">
   <sjis>
-    よし！<end_line>
-    急ごう！<end_line>
+    よし！<end_line />
+    急ごう！<end_line />
   </sjis>
   <ascii>
-    Okay!<end_line>
-    Let's go!<end_line>
+    Okay!<end_line />
+    Let's go!<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -34,10 +34,10 @@
   <portrait_l entry="player" eye="serious" mouth="neutral">
   <portrait_r entry="partner" eye="decided" mouth="serious">
   <sjis>
-    <three_dots><end_line>
+    <three_dots /><end_line />
   </sjis>
   <ascii>
-    <three_dots><end_line>
+    <three_dots /><end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -46,16 +46,16 @@
   <portrait_r entry="partner" eye="decided" mouth="serious">
   <male>
     <sjis>
-      なんだよ？<end_line>
+      なんだよ？<end_line />
     </sjis>
   </male>
   <female>
     <sjis>
-      なによ？<end_line>
+      なによ？<end_line />
     </sjis>
   </female>
   <ascii>
-    What?<end_line>
+    What?<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -64,12 +64,12 @@
   <portrait_l entry="player" eye="serious" mouth="tense">
   <portrait_r entry="partner" eye="decided" mouth="tense">
   <sjis>
-    ココカラ先ハ　見ツカラナイヨウニ<end_line>
-    シンチョウニ　行動シテクダサイ<end_line>
+    ココカラ先ハ　見ツカラナイヨウニ<end_line />
+    シンチョウニ　行動シテクダサイ<end_line />
   </sjis>
   <ascii>
-    Please Be Cautious To<end_line>
-    Avoid Being Discovered.<end_line>
+    Please Be Cautious To<end_line />
+    Avoid Being Discovered.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -79,16 +79,16 @@
   <portrait_r entry="partner" eye="decided" mouth="tense">
   <male>
     <sjis>
-      わかってるって！<end_line>
+      わかってるって！<end_line />
     </sjis>
   </male>
   <female>
     <sjis>
-      わかってるわよ！<end_line>
+      わかってるわよ！<end_line />
     </sjis>
   </female>
   <ascii>
-    I know, I know!<end_line>
+    I know, I know!<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -97,12 +97,12 @@
   <portrait_l entry="player" eye="decided" mouth="neutral">
   <portrait_r entry="partner" eye="sad" mouth="neutral">
   <sjis>
-    理解シテイルノハ　ワカリマシタカラ<end_line>
-    チャント行動ヲ　シテクダサイ<end_line>
+    理解シテイルノハ　ワカリマシタカラ<end_line />
+    チャント行動ヲ　シテクダサイ<end_line />
   </sjis>
   <ascii>
-    Your Actions Do Not<end_line>
-    Reflect Your Words.<end_line>
+    Your Actions Do Not<end_line />
+    Reflect Your Words.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -111,12 +111,12 @@
   <portrait_l entry="player" eye="serious" mouth="tense">
   <portrait_r entry="partner" eye="decided" mouth="tense">
   <sjis>
-    うかつに動くではないぞ<end_line>
-    見つかっては元も子もないからな<end_line>
+    うかつに動くではないぞ<end_line />
+    見つかっては元も子もないからな<end_line />
   </sjis>
   <ascii>
-    Do not move carelessly.<end_line>
-    It's all over if we are discovered.<end_line>
+    Do not move carelessly.<end_line />
+    It's all over if we are discovered.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -126,16 +126,16 @@
   <portrait_r entry="partner" eye="decided" mouth="tense">
   <male>
     <sjis>
-      わかってるって！<end_line>
+      わかってるって！<end_line />
     </sjis>
   </male>
   <female>
     <sjis>
-      わかってるわよ！<end_line>
+      わかってるわよ！<end_line />
     </sjis>
   </female>
   <ascii>
-    I know, I know!<end_line>
+    I know, I know!<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -144,11 +144,11 @@
   <portrait_l entry="player" eye="decided" mouth="neutral">
   <portrait_r entry="partner" eye="decided" mouth="yell">
   <sjis>
-    わかっているのなら行動しろと<end_line>
-    言っておるのじゃ！<end_line>
+    わかっているのなら行動しろと<end_line />
+    言っておるのじゃ！<end_line />
   </sjis>
   <ascii>
-    Then act like it!<end_line>
+    Then act like it!<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -157,12 +157,12 @@
   <portrait_l entry="player" eye="serious" mouth="tense">
   <portrait_r entry="partner" eye="decided" mouth="tense">
   <sjis>
-    ボーッとするな<end_line>
-    見つかりたいのか<end_line>
+    ボーッとするな<end_line />
+    見つかりたいのか<end_line />
   </sjis>
   <ascii>
-    Pay attention.<end_line>
-    Do you want to get caught again?<end_line>
+    Pay attention.<end_line />
+    Do you want to get caught again?<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -172,19 +172,19 @@
   <portrait_r entry="partner" eye="decided" mouth="tense">
   <male>
     <sjis>
-      なんだよ<end_line>
-      ボーッとなんかしてないだろ！？<end_line>
+      なんだよ<end_line />
+      ボーッとなんかしてないだろ！？<end_line />
     </sjis>
   </male>
   <female>
     <sjis>
-      なによ<end_line>
-      ボーッとなんかしてないでしょ！<end_line>
+      なによ<end_line />
+      ボーッとなんかしてないでしょ！<end_line />
     </sjis>
   </female>
   <ascii>
-    What?<end_line>
-    I'm totally focused!<end_line>
+    What?<end_line />
+    I'm totally focused!<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -193,12 +193,12 @@
   <portrait_l entry="player" eye="decided" mouth="stressed">
   <portrait_r entry="partner" eye="decided" mouth="serious">
   <sjis>
-    でかい声をだすな<end_line>
-    見つかりたいのか<end_line>
+    でかい声をだすな<end_line />
+    見つかりたいのか<end_line />
   </sjis>
   <ascii>
-    Don't shout.<end_line>
-    Do you want to get caught again?<end_line>
+    Don't shout.<end_line />
+    Do you want to get caught again?<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -207,12 +207,12 @@
   <portrait_l entry="player" eye="decided" mouth="stressed">
   <portrait_r entry="partner" eye="decided" mouth="serious">
   <sjis>
-    ここから先は見つからないように<end_line>
-    シンチョウに行動してくださいね<end_line>
+    ここから先は見つからないように<end_line />
+    シンチョウに行動してくださいね<end_line />
   </sjis>
   <ascii>
-    Please be careful.<end_line>
-    We mustn't let them find us.<end_line>
+    Please be careful.<end_line />
+    We mustn't let them find us.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -222,16 +222,16 @@
   <portrait_r entry="partner" eye="decided" mouth="serious">
   <male>
     <sjis>
-      なんだよ、コワイのか？<end_line>
+      なんだよ、コワイのか？<end_line />
     </sjis>
   </male>
   <female>
     <sjis>
-      なによ、コワイの？<end_line>
+      なによ、コワイの？<end_line />
     </sjis>
   </female>
   <ascii>
-    What, are you scared?<end_line>
+    What, are you scared?<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -240,14 +240,14 @@
   <portrait_l entry="player" eye="sad" mouth="neutral">
   <portrait_r entry="partner" eye="surprised" mouth="stressed">
   <sjis>
-    ちっ、ちがいますわ！<end_line>
-    今、見つかったら<end_line>
-    また牢に逆戻りなんですから<end_line>
+    ちっ、ちがいますわ！<end_line />
+    今、見つかったら<end_line />
+    また牢に逆戻りなんですから<end_line />
   </sjis>
   <ascii>
-    I-I am not!<end_line>
-    They'll imprison us again<end_line>
-    if we're found out.<end_line>
+    I-I am not!<end_line />
+    They'll imprison us again<end_line />
+    if we're found out.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -256,12 +256,12 @@
   <portrait_l entry="player" eye="sad" mouth="neutral">
   <portrait_r entry="partner" eye="decided" mouth="serious">
   <sjis>
-    いつもみたいにいいかげんなことは<end_line>
-    やめてくださいってことです<end_line>
+    いつもみたいにいいかげんなことは<end_line />
+    やめてくださいってことです<end_line />
   </sjis>
   <ascii>
-    Please refrain from your<end_line>
-    usual reckless actions.<end_line>
+    Please refrain from your<end_line />
+    usual reckless actions.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -270,18 +270,18 @@
   <portrait_r entry="partner" eye="decided" mouth="serious">
   <male>
     <sjis>
-      <three_dots><end_line>
-      わかりましたよ<end_line>
+      <three_dots /><end_line />
+      わかりましたよ<end_line />
     </sjis>
   </male>
   <female>
     <sjis>
-      <three_dots><end_line>
-      わかったわよ<end_line>
+      <three_dots /><end_line />
+      わかったわよ<end_line />
     </sjis>
   </female>
   <ascii>
-    <three_dots><end_line>
-    I know, I know.<end_line>
+    <three_dots /><end_line />
+    I know, I know.<end_line />
   </ascii>
 </dialogue>

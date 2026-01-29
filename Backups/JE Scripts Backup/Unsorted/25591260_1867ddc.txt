@@ -3,7 +3,7 @@
 	<portrait_l entry="player" eye="serious" mouth="neutral">
 	<portrait_r entry="tier" eye="serious" mouth="neutral">
 	<sjis>
-		早くほほえみ亭に向かいましょ<end_line>
+		早くほほえみ亭に向かいましょ<end_line />
 	</sjis>
 </dialogue>
 <choice>
@@ -12,12 +12,12 @@
 	<portrait_r entry="tier" eye="serious" mouth="neutral">
 	<option>
 		<sjis>
-			じゃあ出発しよう<end_line>
+			じゃあ出発しよう<end_line />
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			まだ準備ができてないよ<end_line>
+			まだ準備ができてないよ<end_line />
 		</sjis>
 	</option>
 </choice>
@@ -27,14 +27,14 @@
 	<portrait_r entry="tier" eye="serious" mouth="neutral">
 	<male>
 		<sjis>
-			準備するから<end_line>
-			ちょっと待っててくれよ<end_line>
+			準備するから<end_line />
+			ちょっと待っててくれよ<end_line />
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			準備するから<end_line>
-			ちょっと待ってて<end_line>
+			準備するから<end_line />
+			ちょっと待ってて<end_line />
 		</sjis>
 	</female>
 </dialogue>
@@ -43,22 +43,22 @@
 	<portrait_l entry="player" eye="serious" mouth="neutral">
 	<portrait_r entry="tier" eye="serious" mouth="tense">
 	<sjis>
-		じゃあここで待ってるから<end_line>
-		早くしてね<end_line>
+		じゃあここで待ってるから<end_line />
+		早くしてね<end_line />
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="nobox">
 	<male>
 		<sjis>
-			わかった<end_line>
-			行くよ<end_line>
+			わかった<end_line />
+			行くよ<end_line />
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			それじゃあ<end_line>
-			行こっか<end_line>
+			それじゃあ<end_line />
+			行こっか<end_line />
 		</sjis>
 	</female>
 </dialogue>

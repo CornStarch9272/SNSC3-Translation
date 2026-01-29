@@ -1,6 +1,6 @@
 <location>
   <sjis>
-    ルイーズ村<end_line>
+    ルイーズ村<end_line />
   </sjis>
   <ascii>
     Louise Village<end_line />
@@ -8,7 +8,7 @@
 </location>
 <location>
   <sjis>
-    ルイーズ村　住宅地<end_line>
+    ルイーズ村　住宅地<end_line />
   </sjis>
    <ascii>
     Louise Village　Residential Area<end_line />
@@ -20,18 +20,18 @@
   <portrait_l name="elderly">
   <male>
     <sjis>
-      ギャラハンの息子は<end_line>
+      ギャラハンの息子は<end_line />
     </sjis>
     <ascii>
-      Gallahan's son<three_dots><end_line>
+      Gallahan's son<three_dots /><end_line />
     </ascii>
   </male>
   <female>
     <sjis>
-      ギャラハンの娘は<end_line>
+      ギャラハンの娘は<end_line />
     </sjis>
     <ascii>
-      Gallahan's daughter<three_dots><end_line>
+      Gallahan's daughter<three_dots /><end_line />
     </ascii>
   </female>
 </dialogue>
@@ -39,10 +39,10 @@
   <info box="simple">
   <portrait_l name="elderly">
   <sjis>
-    ヴォイジンという男に<end_line>
-    殺されたんじゃ<end_line>
+    ヴォイジンという男に<end_line />
+    殺されたんじゃ<end_line />
   </sjis>
   <ascii>
-    Was killed by a man named Voijin.<end_line>
+    Was killed by a man named Voijin.<end_line />
   </ascii>
 </dialogue>

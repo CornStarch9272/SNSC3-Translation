@@ -1,6 +1,6 @@
 <location>
   <sjis>
-    ルイーズ村　村長の家<end_line>
+    ルイーズ村　村長の家<end_line />
   </sjis>
 </location>
 #not sure if hes actually happy or sarcastically happy
@@ -9,13 +9,13 @@
   <info box="simple">
   <portrait_l name="tram">
   <sjis>
-    また会いに来てくれたのですね<end_line>
-    うれしいなぁ<three_dots><end_line>
-    もしかして、忘れ物でもしました？<end_line>
+    また会いに来てくれたのですね<end_line />
+    うれしいなぁ<three_dots /><end_line />
+    もしかして、忘れ物でもしました？<end_line />
   </sjis>
   <ascii>
-    You came to see me again.<end_line>
-    Oh I am sooooo happy<three_dots><end_line>
-    What, did you forget something here?<end_line>
+    You came to see me again.<end_line />
+    Oh I am sooooo happy<three_dots /><end_line />
+    What, did you forget something here?<end_line />
   </ascii>
 </dialogue>

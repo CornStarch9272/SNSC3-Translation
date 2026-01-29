@@ -5,16 +5,16 @@
 	<portrait_r entry="partner" eye="decided" mouth="neutral">
 	<male>
 		<sjis>
-			いよいよトラムとの勝負だぜ<end_line>
+			いよいよトラムとの勝負だぜ<end_line />
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			いよいよトラムとの勝負だね<end_line>
+			いよいよトラムとの勝負だね<end_line />
 		</sjis>
 	</female>
   <ascii>
-    It's time for our match with Tram.<end_line>
+    It's time for our match with Tram.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -23,12 +23,12 @@
 	<portrait_l entry="player" eye="decided" mouth="neutral">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<sjis>
-		勝利シテクダサイ<end_line>
-		みゅーの様ノタメニ<end_line>
+		勝利シテクダサイ<end_line />
+		みゅーの様ノタメニ<end_line />
 	</sjis>
   <ascii>
-    Please Win.<end_line>
-    For Lady Murno's Sake.<end_line>
+    Please Win.<end_line />
+    For Lady Murno's Sake.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -38,22 +38,22 @@
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
 		<sjis>
-			おう！<end_line>
-			行くぜ！<end_line>
+			おう！<end_line />
+			行くぜ！<end_line />
 		</sjis>
     <ascii>
-      Yeah!<end_line>
-      Let's go!<end_line>
+      Yeah!<end_line />
+      Let's go!<end_line />
     </ascii>
 	</male>
 	<female>
 		<sjis>
-			うん！<end_line>
-			行こう！<end_line>
+			うん！<end_line />
+			行こう！<end_line />
 		</sjis>
     <ascii>
-      I will!<end_line>
-      Let's go!<end_line>
+      I will!<end_line />
+      Let's go!<end_line />
     </ascii>
 	</female>
 </dialogue>
@@ -64,16 +64,16 @@
 	<portrait_r entry="partner" eye="decided" mouth="neutral">
 	<male>
 		<sjis>
-			いよいよトラムとの勝負だぜ<end_line>
+			いよいよトラムとの勝負だぜ<end_line />
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			いよいよトラムとの勝負だね<end_line>
+			いよいよトラムとの勝負だね<end_line />
 		</sjis>
 	</female>
   <ascii>
-    It's time for our match with Tram.<end_line>
+    It's time for our match with Tram.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -82,14 +82,14 @@
 	<portrait_l entry="player" eye="decided" mouth="neutral">
 	<portrait_r entry="partner" eye="decided" mouth="talk">
 	<sjis>
-		ミューノのためにも<end_line>
-		この勝負必ず勝つと<end_line>
-		ワガハイのマゲに誓うのじゃ！<end_line>
+		ミューノのためにも<end_line />
+		この勝負必ず勝つと<end_line />
+		ワガハイのマゲに誓うのじゃ！<end_line />
 	</sjis>
   <ascii>
-    Say it with me!<end_line>
-    I swear upon my topknot,<end_line>
-    we will win this match! For Murno!<end_line>
+    Say it with me!<end_line />
+    I swear upon my topknot,<end_line />
+    we will win this match! For Murno!<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -99,23 +99,23 @@
 	<portrait_r entry="partner" eye="decided" mouth="talk">
 	<male>
 		<sjis>
-			おう！<end_line>
-			誓うぜ！<end_line>
+			おう！<end_line />
+			誓うぜ！<end_line />
 		</sjis>
     <ascii>
-      Yeah!<end_line>
-      I swear!<end_line>
+      Yeah!<end_line />
+      I swear!<end_line />
     </ascii>
 	</male>
 	<female>
 		<sjis>
-			うん！<end_line>
-			誓うわ！<end_line>
+			うん！<end_line />
+			誓うわ！<end_line />
 		</sjis>
 	</female>
     <ascii>
-      I will!<end_line>
-      I swear!<end_line>
+      I will!<end_line />
+      I swear!<end_line />
     </ascii>
 </dialogue>
 <dialogue>
@@ -125,16 +125,16 @@
 	<portrait_r entry="partner" eye="decided" mouth="neutral">
 	<male>
 		<sjis>
-			いよいよトラムとの勝負だぜ<end_line>
+			いよいよトラムとの勝負だぜ<end_line />
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			いよいよトラムとの勝負だね<end_line>
+			いよいよトラムとの勝負だね<end_line />
 		</sjis>
 	</female>
   <ascii>
-    It's time for our match with Tram.<end_line>
+    It's time for our match with Tram.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -143,12 +143,12 @@
 	<portrait_l entry="player" eye="decided" mouth="neutral">
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<sjis>
-		メンドウなことにならないように<end_line>
-		必ず勝て<end_line>
+		メンドウなことにならないように<end_line />
+		必ず勝て<end_line />
 	</sjis>
   <ascii>
-    It'll be troublesome if<end_line>
-    you don't win this.<end_line>
+    It'll be troublesome if<end_line />
+    you don't win this.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -158,19 +158,19 @@
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<male>
 		<sjis>
-			はいはい、ミューノのためだろ？<end_line>
-			がんばるよ<end_line>
+			はいはい、ミューノのためだろ？<end_line />
+			がんばるよ<end_line />
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			はいはい、ミューノのためでしょ？<end_line>
-			がんばるよ<end_line>
+			はいはい、ミューノのためでしょ？<end_line />
+			がんばるよ<end_line />
 		</sjis>
 	</female>
   <ascii>
-    For Murno, right? I know, I know.<end_line>
-    I'll do my best.<end_line>
+    For Murno, right? I know, I know.<end_line />
+    I'll do my best.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -179,16 +179,16 @@
 	<portrait_l name="player">
 	<male>
 		<sjis>
-			いよいよトラムとの勝負だぜ<end_line>
+			いよいよトラムとの勝負だぜ<end_line />
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			いよいよトラムとの勝負だね<end_line>
+			いよいよトラムとの勝負だね<end_line />
 		</sjis>
 	</female>
   <ascii>
-    It's time for our match with Tram.<end_line>
+    It's time for our match with Tram.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -196,12 +196,12 @@
 	<info box="right">
 	<portrait_r name="partner">
 	<sjis>
-		絶対に勝ってくださいね<end_line>
-		ミューノ様のためにも！<end_line>
+		絶対に勝ってくださいね<end_line />
+		ミューノ様のためにも！<end_line />
 	</sjis>
   <ascii>
-    You must win!<end_line>
-    Lady Murno is counting on you!<end_line>
+    You must win!<end_line />
+    Lady Murno is counting on you!<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -210,23 +210,23 @@
 	<portrait_l name="player">
 	<male>
 		<sjis>
-			おう！<end_line>
-			行くぜ！<end_line>
+			おう！<end_line />
+			行くぜ！<end_line />
 		</sjis>
     <ascii>
-      Yeah!<end_line>
-      Let's go!<end_line>
+      Yeah!<end_line />
+      Let's go!<end_line />
     </ascii>
 	</male>
 	<female>
 		<sjis>
-			うん！<end_line>
-			行こう！<end_line>
+			うん！<end_line />
+			行こう！<end_line />
 		</sjis>
 	</female>
     <ascii>
-      I will!<end_line>
-      Let's go!<end_line>
+      I will!<end_line />
+      Let's go!<end_line />
     </ascii>
 </dialogue>
 <dialogue>
@@ -236,22 +236,22 @@
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<male>
 		<sjis>
-			トラムとの勝負の準備を調えて<end_line>
-			遺跡前の広場に行こう<end_line>
-			みんな待ってるぞ<end_line>
+			トラムとの勝負の準備を調えて<end_line />
+			遺跡前の広場に行こう<end_line />
+			みんな待ってるぞ<end_line />
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			トラムとの勝負の準備を調えて<end_line>
-			遺跡前の広場に行こう<end_line>
-			みんな待ってるよ<end_line>
+			トラムとの勝負の準備を調えて<end_line />
+			遺跡前の広場に行こう<end_line />
+			みんな待ってるよ<end_line />
 		</sjis>
 	</female>
   <ascii>
-    Everyone's waiting at the<end_line>
-    plaza in front of the ruins.<end_line>
-    I have to make sure I'm ready.<end_line>
+    Everyone's waiting at the<end_line />
+    plaza in front of the ruins.<end_line />
+    I have to make sure I'm ready.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -260,14 +260,14 @@
 	<portrait_l entry="player" eye="decided" mouth="neutral">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<sjis>
-		遺跡ノ中ニアル　魔晶柱ヲ見ル<end_line>
-		許可ヲ　得ルタメニ<end_line>
-		遺跡ノ中デ　勝負スルヨウデスガ<three_dots><end_line>
+		遺跡ノ中ニアル　魔晶柱ヲ見ル<end_line />
+		許可ヲ　得ルタメニ<end_line />
+		遺跡ノ中デ　勝負スルヨウデスガ<three_dots /><end_line />
 	</sjis>
   <ascii>
-    In Order To Obtain A Chance To<end_line>
-    See The Crystal Pillar In The Ruins,<end_line>
-    You Must Fight<three_dots><end_line>
+    In Order To Obtain A Chance To<end_line />
+    See The Crystal Pillar In The Ruins,<end_line />
+    You Must Fight<three_dots /><end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -277,19 +277,19 @@
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
 		<sjis>
-			いきおいで決まった勝負だ<end_line>
-			細かいことは気にするな！<end_line>
+			いきおいで決まった勝負だ<end_line />
+			細かいことは気にするな！<end_line />
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			いきおいで決まった勝負だよ<end_line>
-			細かいことは気にしちゃダメ！<end_line>
+			いきおいで決まった勝負だよ<end_line />
+			細かいことは気にしちゃダメ！<end_line />
 		</sjis>
 	</female>
   <ascii>
-    Well, that was decided for us.<end_line>
-    Nothing we can do about it now!<end_line>
+    Well, that was decided for us.<end_line />
+    Nothing we can do about it now!<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -299,22 +299,22 @@
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<male>
 		<sjis>
-			トラムとの勝負の準備を調えて<end_line>
-			遺跡前の広場に行こう<end_line>
-			みんな待ってるぞ<end_line>
+			トラムとの勝負の準備を調えて<end_line />
+			遺跡前の広場に行こう<end_line />
+			みんな待ってるぞ<end_line />
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			トラムとの勝負の準備を調えて<end_line>
-			遺跡前の広場に行こう<end_line>
-			みんな待ってるよ<end_line>
+			トラムとの勝負の準備を調えて<end_line />
+			遺跡前の広場に行こう<end_line />
+			みんな待ってるよ<end_line />
 		</sjis>
 	</female>
   <ascii>
-    Everyone's waiting at the<end_line>
-    plaza in front of the ruins.<end_line>
-    I have to make sure I'm ready.<end_line>
+    Everyone's waiting at the<end_line />
+    plaza in front of the ruins.<end_line />
+    I have to make sure I'm ready.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -323,14 +323,14 @@
 	<portrait_l entry="player" eye="decided" mouth="neutral">
 	<portrait_r entry="partner" eye="decided" mouth="tense">
 	<sjis>
-		しかし、遺跡の中にある魔晶柱を<end_line>
-		見るために、遺跡の中で勝負をする<end_line>
-		ということになっておる様じゃが<three_dots><end_line>
+		しかし、遺跡の中にある魔晶柱を<end_line />
+		見るために、遺跡の中で勝負をする<end_line />
+		ということになっておる様じゃが<three_dots /><end_line />
 	</sjis>
   <ascii>
-    We fight within the ruins,<end_line>
-    so that we may see the<end_line>
-    Crystal Pillar further within<three_dots><end_line>
+    We fight within the ruins,<end_line />
+    so that we may see the<end_line />
+    Crystal Pillar further within<three_dots /><end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -340,19 +340,19 @@
 	<portrait_r entry="partner" eye="decided" mouth="tense">
 	<male>
 		<sjis>
-			いきおいで決まった勝負だ<end_line>
-			細かいことは気にするな！<end_line>
+			いきおいで決まった勝負だ<end_line />
+			細かいことは気にするな！<end_line />
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			いきおいで決まった勝負だよ<end_line>
-			細かいことは気にしちゃダメ！<end_line>
+			いきおいで決まった勝負だよ<end_line />
+			細かいことは気にしちゃダメ！<end_line />
 		</sjis>
 	</female>
   <ascii>
-    Well, that was decided for us.<end_line>
-    Nothing we can do about it now!<end_line>
+    Well, that was decided for us.<end_line />
+    Nothing we can do about it now!<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -362,22 +362,22 @@
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<male>
 		<sjis>
-			トラムとの勝負の準備を調えて<end_line>
-			遺跡前の広場に行こう<end_line>
-			みんな待ってるぞ<end_line>
+			トラムとの勝負の準備を調えて<end_line />
+			遺跡前の広場に行こう<end_line />
+			みんな待ってるぞ<end_line />
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			トラムとの勝負の準備を調えて<end_line>
-			遺跡前の広場に行こう<end_line>
-			みんな待ってるよ<end_line>
+			トラムとの勝負の準備を調えて<end_line />
+			遺跡前の広場に行こう<end_line />
+			みんな待ってるよ<end_line />
 		</sjis>
 	</female>
   <ascii>
-    Everyone's waiting at the<end_line>
-    plaza in front of the ruins.<end_line>
-    I have to make sure I'm ready.<end_line>
+    Everyone's waiting at the<end_line />
+    plaza in front of the ruins.<end_line />
+    I have to make sure I'm ready.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -386,14 +386,14 @@
 	<portrait_l entry="player" eye="decided" mouth="neutral">
 	<portrait_r entry="partner" eye="decided" mouth="tense">
 	<sjis>
-		キサマ、気がついているか？<end_line>
-		遺跡の中の魔晶柱を見るために<end_line>
-		遺跡の中で勝負するようだぞ<end_line>
+		キサマ、気がついているか？<end_line />
+		遺跡の中の魔晶柱を見るために<end_line />
+		遺跡の中で勝負するようだぞ<end_line />
 	</sjis>
   <ascii>
-    Have you noticed?<end_line>
-    We are forced to fight in the ruins,<end_line>
-    to view the Pillar within it.<end_line>
+    Have you noticed?<end_line />
+    We are forced to fight in the ruins,<end_line />
+    to view the Pillar within it.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -403,19 +403,19 @@
 	<portrait_r entry="partner" eye="decided" mouth="tense">
 	<male>
 		<sjis>
-			いきおいで決まった勝負だ<end_line>
-			細かいことは気にするな！<end_line>
+			いきおいで決まった勝負だ<end_line />
+			細かいことは気にするな！<end_line />
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			いきおいで決まった勝負だよ<end_line>
-			細かいことは気にしちゃダメ！<end_line>
+			いきおいで決まった勝負だよ<end_line />
+			細かいことは気にしちゃダメ！<end_line />
 		</sjis>
 	</female>
   <ascii>
-    Well, that was decided for us.<end_line>
-    Nothing we can do about it now!<end_line>
+    Well, that was decided for us.<end_line />
+    Nothing we can do about it now!<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -424,22 +424,22 @@
 	<portrait_l name="player">
 	<male>
 		<sjis>
-			トラムとの勝負の準備を調えて<end_line>
-			遺跡前の広場に行こう<end_line>
-			みんな待ってるぞ<end_line>
+			トラムとの勝負の準備を調えて<end_line />
+			遺跡前の広場に行こう<end_line />
+			みんな待ってるぞ<end_line />
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			トラムとの勝負の準備を調えて<end_line>
-			遺跡前の広場に行こう<end_line>
-			みんな待ってるよ<end_line>
+			トラムとの勝負の準備を調えて<end_line />
+			遺跡前の広場に行こう<end_line />
+			みんな待ってるよ<end_line />
 		</sjis>
 	</female>
   <ascii>
-    Everyone's waiting at the<end_line>
-    plaza in front of the ruins.<end_line>
-    I have to make sure I'm ready.<end_line>
+    Everyone's waiting at the<end_line />
+    plaza in front of the ruins.<end_line />
+    I have to make sure I'm ready.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -447,14 +447,14 @@
 	<info box="right">
 	<portrait_r name="partner">
 	<sjis>
-		そういえば裁きの間って遺跡の中<end_line>
-		なんですよね<three_dots><end_line>
-		ミューノ様の調べたい魔晶柱も<three_dots><end_line>
+		そういえば裁きの間って遺跡の中<end_line />
+		なんですよね<three_dots /><end_line />
+		ミューノ様の調べたい魔晶柱も<three_dots /><end_line />
 	</sjis>
   <ascii>
-    How odd<three_dots> I believe this<end_line>
-    Room of Judgment is in the ruins<three_dots><end_line>
-    As well as the Crystal Pillar<three_dots><end_line>
+    How odd<three_dots /> I believe this<end_line />
+    Room of Judgment is in the ruins<three_dots /><end_line />
+    As well as the Crystal Pillar<three_dots /><end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -463,19 +463,19 @@
 	<portrait_l name="player">
 	<male>
 		<sjis>
-			いきおいで決まった勝負だ<end_line>
-			細かいことは気にするな！<end_line>
+			いきおいで決まった勝負だ<end_line />
+			細かいことは気にするな！<end_line />
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			いきおいで決まった勝負だよ<end_line>
-			細かいことは気にしちゃダメ！<end_line>
+			いきおいで決まった勝負だよ<end_line />
+			細かいことは気にしちゃダメ！<end_line />
 		</sjis>
 	</female>
   <ascii>
-    Well, that was decided for us.<end_line>
-    Nothing we can do about it now!<end_line>
+    Well, that was decided for us.<end_line />
+    Nothing we can do about it now!<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -484,12 +484,12 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<sjis>
-		グマグの炎遺跡にある<end_line>
-		裁きの間に<three_dots><end_line>
+		グマグの炎遺跡にある<end_line />
+		裁きの間に<three_dots /><end_line />
 	</sjis>
   <ascii>
-    The Room of Judgment<end_line>
-    within the Gumag Flame Ruins<three_dots><end_line>
+    The Room of Judgment<end_line />
+    within the Gumag Flame Ruins<three_dots /><end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -498,12 +498,12 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="surprised" mouth="neutral">
 	<sjis>
-		話シテイル場合デハ　アリマセン<end_line>
-		みゅーの様ヲ　追イカケマス<end_line>
+		話シテイル場合デハ　アリマセン<end_line />
+		みゅーの様ヲ　追イカケマス<end_line />
 	</sjis>
   <ascii>
-    Now Is Not The Time For Idle Talk.<end_line>
-    We Must Pursue Lady Murno.<end_line>
+    Now Is Not The Time For Idle Talk.<end_line />
+    We Must Pursue Lady Murno.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -513,16 +513,16 @@
 	<portrait_r entry="partner" eye="surprised" mouth="neutral">
 	<male>
 		<sjis>
-			お、おう<end_line>
+			お、おう<end_line />
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			う、うん<end_line>
+			う、うん<end_line />
 		</sjis>
 	</female>
   <ascii>
-    R-right.<end_line>
+    R-right.<end_line />
   </ascii> 
 </dialogue>
 <dialogue>
@@ -531,12 +531,12 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<sjis>
-		グマグの炎遺跡にある<end_line>
-		裁きの間に<three_dots><end_line>
+		グマグの炎遺跡にある<end_line />
+		裁きの間に<three_dots /><end_line />
 	</sjis>
   <ascii>
-    The Room of Judgment<end_line>
-    within the Gumag Flame Ruins<three_dots><end_line>
+    The Room of Judgment<end_line />
+    within the Gumag Flame Ruins<three_dots /><end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -545,12 +545,12 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="decided" mouth="yell">
 	<sjis>
-		何をしておる！<end_line>
-		早くミューノを追いかけるぞ！<end_line>
+		何をしておる！<end_line />
+		早くミューノを追いかけるぞ！<end_line />
 	</sjis>
   <ascii>
-    What are you doing!<end_line>
-    We must go after Murno!<end_line>
+    What are you doing!<end_line />
+    We must go after Murno!<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -560,16 +560,16 @@
 	<portrait_r entry="partner" eye="decided" mouth="yell">
 	<male>
 		<sjis>
-			お、おう<end_line>
+			お、おう<end_line />
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			う、うん<end_line>
+			う、うん<end_line />
 		</sjis>
 	</female>
   <ascii>
-    R-right.<end_line>
+    R-right.<end_line />
   </ascii> 
 </dialogue>
 <dialogue>
@@ -578,12 +578,12 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<sjis>
-		グマグの炎遺跡にある<end_line>
-		裁きの間に<three_dots><end_line>
+		グマグの炎遺跡にある<end_line />
+		裁きの間に<three_dots /><end_line />
 	</sjis>
   <ascii>
-    The Room of Judgment<end_line>
-    within the Gumag Flame Ruins<three_dots><end_line>
+    The Room of Judgment<end_line />
+    within the Gumag Flame Ruins<three_dots /><end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -592,12 +592,12 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="special" mouth="serious">
 	<sjis>
-		グズグズするな！<end_line>
-		おいていくぞ<end_line>
+		グズグズするな！<end_line />
+		おいていくぞ<end_line />
 	</sjis>
   <ascii>
-    Quick wasting time!<end_line>
-    After them!<end_line>
+    Quick wasting time!<end_line />
+    After them!<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -607,19 +607,19 @@
 	<portrait_r entry="partner" eye="special" mouth="serious">
 	<male>
 		<sjis>
-			ミューノのことになると<end_line>
-			やっぱちがうなぁ<three_dots><end_line>
+			ミューノのことになると<end_line />
+			やっぱちがうなぁ<three_dots /><end_line />
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			ミューノのことになると<end_line>
-			やっぱちがうなぁ<three_dots><end_line>
+			ミューノのことになると<end_line />
+			やっぱちがうなぁ<three_dots /><end_line />
 		</sjis>
 	</female>
   <ascii>
-    He really is different<end_line>
-    when it comes to Murno<three_dots><end_line>
+    He really is different<end_line />
+    when it comes to Murno<three_dots /><end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -627,12 +627,12 @@
 	<info box="left">
 	<portrait_l name="player">
 	<sjis>
-		グマグの炎遺跡にある<end_line>
-		裁きの間に<three_dots><end_line>
+		グマグの炎遺跡にある<end_line />
+		裁きの間に<three_dots /><end_line />
 	</sjis>
   <ascii>
-    The Room of Judgment<end_line>
-    within the Gumag Flame Ruins<three_dots><end_line>
+    The Room of Judgment<end_line />
+    within the Gumag Flame Ruins<three_dots /><end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -640,12 +640,12 @@
 	<info box="right">
 	<portrait_r name="partner">
 	<sjis>
-		何をしてるんですの？<end_line>
-		早くミューノ様を追いかけないと！<end_line>
+		何をしてるんですの？<end_line />
+		早くミューノ様を追いかけないと！<end_line />
 	</sjis>
   <ascii>
-    What are you doing?<end_line>
-    We must not fall behind!<end_line>
+    What are you doing?<end_line />
+    We must not fall behind!<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -654,16 +654,16 @@
 	<portrait_l name="player">
 	<male>
 		<sjis>
-			お、おう<end_line>
+			お、おう<end_line />
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			う、うん<end_line>
+			う、うん<end_line />
 		</sjis>
 	</female>
   <ascii>
-    R-right.<end_line>
+    R-right.<end_line />
   </ascii> 
 </dialogue>
 <dialogue>
@@ -673,22 +673,22 @@
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
 		<sjis>
-			裁きの間まで行かなきゃならないけど<end_line>
-			グマグの炎遺跡ってすごく暑いぞ<end_line>
-			<partner>、大丈夫か？<end_line>
+			裁きの間まで行かなきゃならないけど<end_line />
+			グマグの炎遺跡ってすごく暑いぞ<end_line />
+			<partner />、大丈夫か？<end_line />
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			裁きの間まで行かなきゃならないけど<end_line>
-			グマグの炎遺跡ってすごく暑いよ<end_line>
-			<partner>、大丈夫？<end_line>
+			裁きの間まで行かなきゃならないけど<end_line />
+			グマグの炎遺跡ってすごく暑いよ<end_line />
+			<partner />、大丈夫？<end_line />
 		</sjis>
 	</female>
   <ascii>
-    Do we really have to go in there?<end_line>
-    Those ruins are ridiculously hot<three_dots><end_line>
-    <partner>, how are you doing?<end_line>
+    Do we really have to go in there?<end_line />
+    Those ruins are ridiculously hot<three_dots /><end_line />
+    <partner />, how are you doing?<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -697,14 +697,14 @@
 	<portrait_l entry="player" eye="decided" mouth="tense">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<sjis>
-		冷却しすてむガ　稼動シマスカラ<end_line>
-		問題アリマセンガ<end_line>
-		装甲ノ表面温度ガ　高クナリマス<end_line>
+		冷却しすてむガ　稼動シマスカラ<end_line />
+		問題アリマセンガ<end_line />
+		装甲ノ表面温度ガ　高クナリマス<end_line />
 	</sjis>
   <ascii>
-    Internal Cooling System Is<end_line>
-    Operating At Maximum Efficiency.<end_line>
-    However, Surface Temperature Is Up.<end_line>
+    Internal Cooling System Is<end_line />
+    Operating At Maximum Efficiency.<end_line />
+    However, Surface Temperature Is Up.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -713,10 +713,10 @@
 	<portrait_l entry="player" eye="surprised" mouth="neutral">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<sjis>
-		私ニ触ルト　ヤケドシマスヨ<end_line>
+		私ニ触ルト　ヤケドシマスヨ<end_line />
 	</sjis>
   <ascii>
-    You May Be Burnt If You Touch Me.<end_line>
+    You May Be Burnt If You Touch Me.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -725,12 +725,12 @@
 	<portrait_l entry="player" eye="decided" mouth="tense">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<sjis>
-		な、なんか<end_line>
-		カッコイイ<three_dots><end_line>
+		な、なんか<end_line />
+		カッコイイ<three_dots /><end_line />
 	</sjis>
   <ascii>
-    W-wow.<end_line>
-    That's kinda awesome<three_dots><end_line>
+    W-wow.<end_line />
+    That's kinda awesome<three_dots /><end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -740,22 +740,22 @@
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
 		<sjis>
-			裁きの間まで行かなきゃならないけど<end_line>
-			グマグの炎遺跡ってすごく暑いぞ<end_line>
-			<partner>、大丈夫か？<end_line>
+			裁きの間まで行かなきゃならないけど<end_line />
+			グマグの炎遺跡ってすごく暑いぞ<end_line />
+			<partner />、大丈夫か？<end_line />
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			裁きの間まで行かなきゃならないけど<end_line>
-			グマグの炎遺跡ってすごく暑いよ<end_line>
-			<partner>、大丈夫？<end_line>
+			裁きの間まで行かなきゃならないけど<end_line />
+			グマグの炎遺跡ってすごく暑いよ<end_line />
+			<partner />、大丈夫？<end_line />
 		</sjis>
 	</female>
   <ascii>
-    Do we really have to go in there?<end_line>
-    Those ruins are ridiculously hot<three_dots><end_line>
-    <partner>, how are you doing?<end_line>
+    Do we really have to go in there?<end_line />
+    Those ruins are ridiculously hot<three_dots /><end_line />
+    <partner />, how are you doing?<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -764,14 +764,14 @@
 	<portrait_l entry="player" eye="decided" mouth="tense">
 	<portrait_r entry="partner" eye="decided" mouth="neutral">
 	<sjis>
-		心頭滅却すれば火もまた涼し<end_line>
-		と言っての、ワガハイほどになれば<end_line>
-		この程度の暑さなど気にならんのじゃ<end_line>
+		心頭滅却すれば火もまた涼し<end_line />
+		と言っての、ワガハイほどになれば<end_line />
+		この程度の暑さなど気にならんのじゃ<end_line />
 	</sjis>
   <ascii>
-    With proper mental training,<end_line>
-    heat and cold are one and the same.<end_line>
-    I do not notice.<end_line>
+    With proper mental training,<end_line />
+    heat and cold are one and the same.<end_line />
+    I do not notice.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -781,22 +781,22 @@
 	<portrait_r entry="partner" eye="decided" mouth="neutral">
 	<male>
 		<sjis>
-			へぇ、スゴイな<end_line>
-			<partner>ってモサモサしてるから<end_line>
-			暑いのには弱いかと思った<end_line>
+			へぇ、スゴイな<end_line />
+			<partner />ってモサモサしてるから<end_line />
+			暑いのには弱いかと思った<end_line />
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			へぇ、スゴイね<end_line>
-			<partner>ってモサモサしてるから<end_line>
-			暑いのには弱いかと思った<end_line>
+			へぇ、スゴイね<end_line />
+			<partner />ってモサモサしてるから<end_line />
+			暑いのには弱いかと思った<end_line />
 		</sjis>
 	</female>
   <ascii>
-    Huh, that's cool.<end_line>
-    You're really hairy,<end_line>
-    so I thought you'd be weak to heat.<end_line>
+    Huh, that's cool.<end_line />
+    You're really hairy,<end_line />
+    so I thought you'd be weak to heat.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -805,10 +805,10 @@
 	<portrait_l entry="player" eye="serious" mouth="neutral">
 	<portrait_r entry="partner" eye="surprised" mouth="tense">
 	<sjis>
-		も<three_dots>モサモサじゃと！<end_line>
+		も<three_dots />モサモサじゃと！<end_line />
 	</sjis>
   <ascii>
-    H<three_dots> Hairy, you say!?<end_line>
+    H<three_dots /> Hairy, you say!?<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -818,22 +818,22 @@
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
 		<sjis>
-			裁きの間まで行かなきゃならないけど<end_line>
-			グマグの炎遺跡ってすごく暑いぞ<end_line>
-			<partner>、大丈夫か？<end_line>
+			裁きの間まで行かなきゃならないけど<end_line />
+			グマグの炎遺跡ってすごく暑いぞ<end_line />
+			<partner />、大丈夫か？<end_line />
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			裁きの間まで行かなきゃならないけど<end_line>
-			グマグの炎遺跡ってすごく暑いよ<end_line>
-			<partner>、大丈夫？<end_line>
+			裁きの間まで行かなきゃならないけど<end_line />
+			グマグの炎遺跡ってすごく暑いよ<end_line />
+			<partner />、大丈夫？<end_line />
 		</sjis>
 	</female>
   <ascii>
-    Do we really have to go in there?<end_line>
-    Those ruins are ridiculously hot<three_dots><end_line>
-    <partner>, how are you doing?<end_line>
+    Do we really have to go in there?<end_line />
+    Those ruins are ridiculously hot<three_dots /><end_line />
+    <partner />, how are you doing?<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -842,14 +842,14 @@
 	<portrait_l entry="player" eye="decided" mouth="tense">
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<sjis>
-		<three_dots><end_line>
-		<three_dots><three_dots><three_dots><end_line>
-		<three_dots><three_dots><three_dots><three_dots><three_dots><three_dots><three_dots><three_dots><three_dots><end_line>
+		<three_dots /><end_line />
+		<three_dots /><three_dots /><three_dots /><end_line />
+		<three_dots /><three_dots /><three_dots /><three_dots /><three_dots /><three_dots /><three_dots /><three_dots /><three_dots /><end_line />
 	</sjis>
   <ascii>
-		<three_dots><end_line>
-		<three_dots><three_dots><three_dots><end_line>
-		<three_dots><three_dots><three_dots><three_dots><three_dots><three_dots><three_dots><three_dots><three_dots><end_line>
+		<three_dots /><end_line />
+		<three_dots /><three_dots /><three_dots /><end_line />
+		<three_dots /><three_dots /><three_dots /><three_dots /><three_dots /><three_dots /><three_dots /><three_dots /><three_dots /><end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -859,19 +859,19 @@
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<male>
 		<sjis>
-			ちょっと、<partner><three_dots>？<end_line>
-			お前、ホント大丈夫か？<end_line>
+			ちょっと、<partner /><three_dots />？<end_line />
+			お前、ホント大丈夫か？<end_line />
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			ちょっと、<partner><three_dots>？<end_line>
-			あなた、ホントに大丈夫？<end_line>
+			ちょっと、<partner /><three_dots />？<end_line />
+			あなた、ホントに大丈夫？<end_line />
 		</sjis>
 	</female>
   <ascii>
-    Umm, <partner><three_dots>?<end_line>
-    Are you okay?<end_line>
+    Umm, <partner /><three_dots />?<end_line />
+    Are you okay?<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -880,14 +880,14 @@
 	<portrait_l entry="player" eye="surprised" mouth="stressed">
 	<portrait_r entry="partner" eye="special" mouth="serious">
 	<sjis>
-		<three_dots><end_line>
-		ただでさえ暑いんだ<three_dots><end_line>
-		それ以上さわるな<end_line>
+		<three_dots /><end_line />
+		ただでさえ暑いんだ<three_dots /><end_line />
+		それ以上さわるな<end_line />
 	</sjis>
   <ascii>
-    <three_dots><end_line>
-    It's already way too hot<three_dots><end_line>
-    Stop bothering<three_dots><end_line>
+    <three_dots /><end_line />
+    It's already way too hot<three_dots /><end_line />
+    Stop bothering<three_dots /><end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -896,12 +896,12 @@
 	<portrait_l entry="player" eye="happy" mouth="serious">
 	<portrait_r entry="partner" eye="special" mouth="serious">
 	<sjis>
-		（コ<three_dots>、コワ～<three_dots><end_line>
-		　こっちはすずしくなったよ）<end_line>
+		（コ<three_dots />、コワ～<three_dots /><end_line />
+		　こっちはすずしくなったよ）<end_line />
 	</sjis>
   <ascii>
-    (S<three_dots> Scary<three_dots><end_line>
-    Now I'm chilled to the bone<three_dots>)<end_line>
+    (S<three_dots /> Scary<three_dots /><end_line />
+    Now I'm chilled to the bone<three_dots />)<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -910,22 +910,22 @@
 	<portrait_l name="player">
 	<male>
 		<sjis>
-			裁きの間まで行かなきゃならないけど<end_line>
-			グマグの炎遺跡ってすごく暑いぞ<end_line>
-			<partner>、大丈夫か？<end_line>
+			裁きの間まで行かなきゃならないけど<end_line />
+			グマグの炎遺跡ってすごく暑いぞ<end_line />
+			<partner />、大丈夫か？<end_line />
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			裁きの間まで行かなきゃならないけど<end_line>
-			グマグの炎遺跡ってすごく暑いよ<end_line>
-			<partner>、大丈夫？<end_line>
+			裁きの間まで行かなきゃならないけど<end_line />
+			グマグの炎遺跡ってすごく暑いよ<end_line />
+			<partner />、大丈夫？<end_line />
 		</sjis>
 	</female>
   <ascii>
-    Do we really have to go in there?<end_line>
-    Those ruins are ridiculously hot<three_dots><end_line>
-    <partner>, how are you doing?<end_line>
+    Do we really have to go in there?<end_line />
+    Those ruins are ridiculously hot<three_dots /><end_line />
+    <partner />, how are you doing?<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -933,14 +933,14 @@
 	<info box="right">
 	<portrait_r name="partner">
 	<sjis>
-		たしかにすごく暑いですけど<end_line>
-		大丈夫ですわ<end_line>
-		いざとなったら脱ぎますから<end_line>
+		たしかにすごく暑いですけど<end_line />
+		大丈夫ですわ<end_line />
+		いざとなったら脱ぎますから<end_line />
 	</sjis>
   <ascii>
-    It is incredibly uncomfortable,<end_line>
-    but I am fine.<end_line>
-    I can always take something off.<end_line>
+    It is incredibly uncomfortable,<end_line />
+    but I am fine.<end_line />
+    I can always take something off.<end_line />
   </ascii>
 </dialogue>
 <bigtext>
@@ -948,10 +948,10 @@
 	<info box="left" effect="big">
 	<portrait_l name="player">
 	<sjis>
-		脱ぐ？　何を！？<end_line>
+		脱ぐ？　何を！？<end_line />
 	</sjis>
   <ascii>
-    Take something off? You mean<three_dots>!?<end_line>
+    Take something off? You mean<three_dots />!?<end_line />
   </ascii>
 </bigtext>
 <dialogue>
@@ -959,12 +959,12 @@
 	<info box="right">
 	<portrait_r name="partner">
 	<sjis>
-		帽子ですけど<three_dots>？<end_line>
-		ダメなんですか？<end_line>
+		帽子ですけど<three_dots />？<end_line />
+		ダメなんですか？<end_line />
 	</sjis>
   <ascii>
-    My hat<three_dots>?<end_line>
-    Am I not allowed to?<end_line>
+    My hat<three_dots />?<end_line />
+    Am I not allowed to?<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -972,10 +972,10 @@
 	<info box="left">
 	<portrait_l name="player">
 	<sjis>
-		ああ、いや、いいよ、全然<end_line>
+		ああ、いや、いいよ、全然<end_line />
 	</sjis>
   <ascii>
-    Ah, uhh, no, that's fine.<end_line>
+    Ah, uhh, no, that's fine.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -985,22 +985,22 @@
 	<portrait_r entry="partner" eye="decided" mouth="neutral">
 	<male>
 		<sjis>
-			いよいよトラムと１対１の勝負だ！<end_line>
-			最強の武器をひとつ<end_line>
-			バッチリ装備して行くぜ！<end_line>
+			いよいよトラムと１対１の勝負だ！<end_line />
+			最強の武器をひとつ<end_line />
+			バッチリ装備して行くぜ！<end_line />
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			いよいよトラムと１対１の勝負だ！<end_line>
-			最強の武器をひとつ<end_line>
-			シッカリ装備して行かなきゃ！<end_line>
+			いよいよトラムと１対１の勝負だ！<end_line />
+			最強の武器をひとつ<end_line />
+			シッカリ装備して行かなきゃ！<end_line />
 		</sjis>
 	</female>
   <ascii>
-    Time for my one on one with Tram!<end_line>
-    Gotta make sure I've got<end_line>
-    my best weapon ready to go!<end_line>
+    Time for my one on one with Tram!<end_line />
+    Gotta make sure I've got<end_line />
+    my best weapon ready to go!<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -1009,12 +1009,12 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<sjis>
-		ガンバッテクダサイ<end_line>
-		ぱーとなー<end_line>
+		ガンバッテクダサイ<end_line />
+		ぱーとなー<end_line />
 	</sjis>
   <ascii>
-    Do Your Best,<end_line>
-    Partner.<end_line>
+    Do Your Best,<end_line />
+    Partner.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -1024,22 +1024,22 @@
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
 		<sjis>
-			おう！<end_line>
-			<partner>が応援してくれるんだ<end_line>
-			絶対に勝つぜ！<end_line>
+			おう！<end_line />
+			<partner />が応援してくれるんだ<end_line />
+			絶対に勝つぜ！<end_line />
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			うん！<end_line>
-			<partner>が応援してくれるんだ<end_line>
-			絶対に勝つよ！<end_line>
+			うん！<end_line />
+			<partner />が応援してくれるんだ<end_line />
+			絶対に勝つよ！<end_line />
 		</sjis>
 	</female>
   <ascii>
-    Yeah!<end_line>
-    With you cheering me on,<end_line>
-    I'm sure to win!<end_line>
+    Yeah!<end_line />
+    With you cheering me on,<end_line />
+    I'm sure to win!<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -1049,22 +1049,22 @@
 	<portrait_r entry="partner" eye="decided" mouth="neutral">
 	<male>
 		<sjis>
-			いよいよトラムと１対１の勝負だ！<end_line>
-			最強の武器をひとつ<end_line>
-			バッチリ装備して行くぜ！<end_line>
+			いよいよトラムと１対１の勝負だ！<end_line />
+			最強の武器をひとつ<end_line />
+			バッチリ装備して行くぜ！<end_line />
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			いよいよトラムと１対１の勝負だ！<end_line>
-			最強の武器をひとつ<end_line>
-			シッカリ装備して行かなきゃ！<end_line>
+			いよいよトラムと１対１の勝負だ！<end_line />
+			最強の武器をひとつ<end_line />
+			シッカリ装備して行かなきゃ！<end_line />
 		</sjis>
 	</female>
   <ascii>
-    Time for my one on one with Tram!<end_line>
-    Gotta make sure I've got<end_line>
-    my best weapon ready to go!<end_line>
+    Time for my one on one with Tram!<end_line />
+    Gotta make sure I've got<end_line />
+    my best weapon ready to go!<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -1073,14 +1073,14 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="decided" mouth="talk">
 	<sjis>
-		ワガハイにできるのは<end_line>
-		おぬしを応援することぐらいじゃが<end_line>
-		がんばるのじゃぞ！<end_line>
+		ワガハイにできるのは<end_line />
+		おぬしを応援することぐらいじゃが<end_line />
+		がんばるのじゃぞ！<end_line />
 	</sjis>
   <ascii>
-    All I can do now is<end_line>
-    to urge you onwards.<end_line>
-    Do your best!<end_line>
+    All I can do now is<end_line />
+    to urge you onwards.<end_line />
+    Do your best!<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -1090,22 +1090,22 @@
 	<portrait_r entry="partner" eye="decided" mouth="talk">
 	<male>
 		<sjis>
-			おう！<end_line>
-			<partner>が応援してくれるんだ<end_line>
-			絶対に勝つぜ！<end_line>
+			おう！<end_line />
+			<partner />が応援してくれるんだ<end_line />
+			絶対に勝つぜ！<end_line />
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			うん！<end_line>
-			<partner>が応援してくれるんだ<end_line>
-			絶対に勝つよ！<end_line>
+			うん！<end_line />
+			<partner />が応援してくれるんだ<end_line />
+			絶対に勝つよ！<end_line />
 		</sjis>
 	</female>
   <ascii>
-    Yeah!<end_line>
-    With you cheering me on,<end_line>
-    I'm sure to win!<end_line>
+    Yeah!<end_line />
+    With you cheering me on,<end_line />
+    I'm sure to win!<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -1115,22 +1115,22 @@
 	<portrait_r entry="partner" eye="decided" mouth="neutral">
 	<male>
 		<sjis>
-			いよいよトラムと１対１の勝負だ！<end_line>
-			最強の武器をひとつ<end_line>
-			バッチリ装備して行くぜ！<end_line>
+			いよいよトラムと１対１の勝負だ！<end_line />
+			最強の武器をひとつ<end_line />
+			バッチリ装備して行くぜ！<end_line />
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			いよいよトラムと１対１の勝負だ！<end_line>
-			最強の武器をひとつ<end_line>
-			シッカリ装備して行かなきゃ！<end_line>
+			いよいよトラムと１対１の勝負だ！<end_line />
+			最強の武器をひとつ<end_line />
+			シッカリ装備して行かなきゃ！<end_line />
 		</sjis>
 	</female>
   <ascii>
-    Time for my one on one with Tram!<end_line>
-    Gotta make sure I've got<end_line>
-    my best weapon ready to go!<end_line>
+    Time for my one on one with Tram!<end_line />
+    Gotta make sure I've got<end_line />
+    my best weapon ready to go!<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -1139,14 +1139,14 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="decided" mouth="tense">
 	<sjis>
-		ここまで来たんだ<end_line>
-		ここでキサマが負けたとしても<end_line>
-		私がヤツらをたおせばどうとでもなる<end_line>
+		ここまで来たんだ<end_line />
+		ここでキサマが負けたとしても<end_line />
+		私がヤツらをたおせばどうとでもなる<end_line />
 	</sjis>
   <ascii>
-    We're almost there.<end_line>
-    If you do lose, I'll<end_line>
-    just take him out myself.<end_line>
+    We're almost there.<end_line />
+    If you do lose, I'll<end_line />
+    just take him out myself.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -1155,10 +1155,10 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="decided" mouth="talk">
 	<sjis>
-		適当にサッサと終わらせろ<end_line>
+		適当にサッサと終わらせろ<end_line />
 	</sjis>
   <ascii>
-    So do whatever you want.<end_line>
+    So do whatever you want.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -1168,22 +1168,22 @@
 	<portrait_r entry="partner" eye="decided" mouth="talk">
 	<male>
 		<sjis>
-			言ってることはブッソウだけど<end_line>
-			オレを心配してくれていると<end_line>
-			思いたい！<end_line>
+			言ってることはブッソウだけど<end_line />
+			オレを心配してくれていると<end_line />
+			思いたい！<end_line />
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			言ってることはブッソウだけど<end_line>
-			わたしを心配してくれていると<end_line>
-			思いたい！<end_line>
+			言ってることはブッソウだけど<end_line />
+			わたしを心配してくれていると<end_line />
+			思いたい！<end_line />
 		</sjis>
 	</female>
   <ascii>
-    What you're saying is disturbing,<end_line>
-    so I'll just take it as your<end_line>
-    way of worrying about me!<end_line>
+    What you're saying is disturbing,<end_line />
+    so I'll just take it as your<end_line />
+    way of worrying about me!<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -1192,22 +1192,22 @@
 	<portrait_l name="player">
 	<male>
 		<sjis>
-			いよいよトラムと１対１の勝負だ！<end_line>
-			最強の武器をひとつ<end_line>
-			バッチリ装備して行くぜ！<end_line>
+			いよいよトラムと１対１の勝負だ！<end_line />
+			最強の武器をひとつ<end_line />
+			バッチリ装備して行くぜ！<end_line />
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			いよいよトラムと１対１の勝負だ！<end_line>
-			最強の武器をひとつ<end_line>
-			シッカリ装備して行かなきゃ！<end_line>
+			いよいよトラムと１対１の勝負だ！<end_line />
+			最強の武器をひとつ<end_line />
+			シッカリ装備して行かなきゃ！<end_line />
 		</sjis>
 	</female>
   <ascii>
-    Time for my one on one with Tram!<end_line>
-    Gotta make sure I've got<end_line>
-    my best weapon ready to go!<end_line>
+    Time for my one on one with Tram!<end_line />
+    Gotta make sure I've got<end_line />
+    my best weapon ready to go!<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -1215,14 +1215,14 @@
 	<info box="right">
 	<portrait_r name="partner">
 	<sjis>
-		がんばるのはいいですけど<end_line>
-		ムチャなことだけは<end_line>
-		絶対しないでくださいね！<end_line>
+		がんばるのはいいですけど<end_line />
+		ムチャなことだけは<end_line />
+		絶対しないでくださいね！<end_line />
 	</sjis>
   <ascii>
-    I would like you to do your best,<end_line>
-    but remember not to<end_line>
-    push yourself too hard!<end_line>
+    I would like you to do your best,<end_line />
+    but remember not to<end_line />
+    push yourself too hard!<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -1231,19 +1231,19 @@
 	<portrait_l name="player">
 	<male>
 		<sjis>
-			あ、うん<end_line>
-			ありがとう、わかったよ<end_line>
+			あ、うん<end_line />
+			ありがとう、わかったよ<end_line />
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			あ、うん<end_line>
-			ありがとう、わかった<end_line>
+			あ、うん<end_line />
+			ありがとう、わかった<end_line />
 		</sjis>
 	</female>
   <ascii>
-    Ah, right.<end_line>
-    Thanks, I got it.<end_line>
+    Ah, right.<end_line />
+    Thanks, I got it.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -1252,14 +1252,14 @@
 	<portrait_l entry="player" eye="serious" mouth="serious">
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<sjis>
-		みゅーの様ハ　ぐまぐノ炎遺跡内<end_line>
-		魔晶柱ノアル場所ヘ　向カイマシタ<end_line>
-		追イカケマショウ！<end_line>
+		みゅーの様ハ　ぐまぐノ炎遺跡内<end_line />
+		魔晶柱ノアル場所ヘ　向カイマシタ<end_line />
+		追イカケマショウ！<end_line />
 	</sjis>
   <ascii>
-    Lady Murno Is Going Deeper Into<end_line>
-    The Ruins, Where The Pillar Is.<end_line>
-    Let's Follow!<end_line>
+    Lady Murno Is Going Deeper Into<end_line />
+    The Ruins, Where The Pillar Is.<end_line />
+    Let's Follow!<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -1269,22 +1269,22 @@
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<male>
 		<sjis>
-			いいけどさ、よく考えたら<end_line>
-			オレが行っても魔晶柱を調べるのに<end_line>
-			ジャマになったりしないかな<three_dots><end_line>
+			いいけどさ、よく考えたら<end_line />
+			オレが行っても魔晶柱を調べるのに<end_line />
+			ジャマになったりしないかな<three_dots /><end_line />
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			いいけどさ、よく考えたら<end_line>
-			わたしが行っても魔晶柱を調べるのに<end_line>
-			ジャマになったりしないかな<three_dots><end_line>
+			いいけどさ、よく考えたら<end_line />
+			わたしが行っても魔晶柱を調べるのに<end_line />
+			ジャマになったりしないかな<three_dots /><end_line />
 		</sjis>
 	</female>
   <ascii>
-    I'm all for it, but really,<end_line>
-    won't we just be getting<end_line>
-    in the way if we do<three_dots><end_line>
+    I'm all for it, but really,<end_line />
+    won't we just be getting<end_line />
+    in the way if we do<three_dots /><end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -1293,10 +1293,10 @@
 	<portrait_l entry="player" eye="sad" mouth="serious">
 	<portrait_r entry="partner" eye="decided" mouth="neutral">
 	<sjis>
-		<three_dots><end_line>
+		<three_dots /><end_line />
 	</sjis>
   <ascii>
-    <three_dots><end_line>
+    <three_dots /><end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -1305,12 +1305,12 @@
 	<portrait_l entry="player" eye="surprised" mouth="stressed">
 	<portrait_r entry="partner" eye="decided" mouth="neutral">
 	<sjis>
-		わ、わかった！<end_line>
-		急いで行こう！<end_line>
+		わ、わかった！<end_line />
+		急いで行こう！<end_line />
 	</sjis>
   <ascii>
-    Okay, okay!<end_line>
-    Let's go then!<end_line>
+    Okay, okay!<end_line />
+    Let's go then!<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -1319,14 +1319,14 @@
 	<portrait_l entry="player" eye="serious" mouth="serious">
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<sjis>
-		ミューノはグマグの炎遺跡にある<end_line>
-		奇妙な魔晶柱を見に行ったぞ<end_line>
-		我らも急ぐのじゃ！<end_line>
+		ミューノはグマグの炎遺跡にある<end_line />
+		奇妙な魔晶柱を見に行ったぞ<end_line />
+		我らも急ぐのじゃ！<end_line />
 	</sjis>
   <ascii>
-    Murno is going deeper into<end_line>
-    the ruins, where the pillar is.<end_line>
-    Let's follow!<end_line>
+    Murno is going deeper into<end_line />
+    the ruins, where the pillar is.<end_line />
+    Let's follow!<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -1336,22 +1336,22 @@
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<male>
 		<sjis>
-			いいけどさ、よく考えたら<end_line>
-			オレが行っても魔晶柱を調べるのに<end_line>
-			ジャマになったりしないかな<three_dots><end_line>
+			いいけどさ、よく考えたら<end_line />
+			オレが行っても魔晶柱を調べるのに<end_line />
+			ジャマになったりしないかな<three_dots /><end_line />
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			いいけどさ、よく考えたら<end_line>
-			わたしが行っても魔晶柱を調べるのに<end_line>
-			ジャマになったりしないかな<three_dots><end_line>
+			いいけどさ、よく考えたら<end_line />
+			わたしが行っても魔晶柱を調べるのに<end_line />
+			ジャマになったりしないかな<three_dots /><end_line />
 		</sjis>
 	</female>
   <ascii>
-    I'm all for it, but really,<end_line>
-    won't we just be getting<end_line>
-    in the way if we do<three_dots><end_line>
+    I'm all for it, but really,<end_line />
+    won't we just be getting<end_line />
+    in the way if we do<three_dots /><end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -1360,14 +1360,14 @@
 	<portrait_l entry="player" eye="sad" mouth="serious">
 	<portrait_r entry="partner" eye="decided" mouth="tense">
 	<sjis>
-		突然なにを言い出すのじゃ？<end_line>
-		なんじゃ？　ミューノがつれていかれて<end_line>
-		スネておるのか？<end_line>
+		突然なにを言い出すのじゃ？<end_line />
+		なんじゃ？　ミューノがつれていかれて<end_line />
+		スネておるのか？<end_line />
 	</sjis>
   <ascii>
-    What's this now?<end_line>
-    Are you pouting because<end_line>
-    you're separated from Murno?<end_line>
+    What's this now?<end_line />
+    Are you pouting because<end_line />
+    you're separated from Murno?<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -1377,22 +1377,22 @@
 	<portrait_r entry="partner" eye="decided" mouth="tense">
 	<male>
 		<sjis>
-			そんなことあるか！<end_line>
-			行くぞ！<end_line>
+			そんなことあるか！<end_line />
+			行くぞ！<end_line />
 		</sjis>
     <ascii>
-      O-of course not!<end_line>
-      Let's go!<end_line>
+      O-of course not!<end_line />
+      Let's go!<end_line />
     </ascii>
 	</male>
 	<female>
 		<sjis>
-			なに言ってるのよ！<end_line>
-			もう、行くわよ！<end_line>
+			なに言ってるのよ！<end_line />
+			もう、行くわよ！<end_line />
 		</sjis>
     <ascii>
-      What's that mean!?<end_line>
-      Ugh, let's just go!<end_line>
+      What's that mean!?<end_line />
+      Ugh, let's just go!<end_line />
     </ascii>
 	</female>
 </dialogue>
@@ -1402,14 +1402,14 @@
 	<portrait_l entry="player" eye="serious" mouth="serious">
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<sjis>
-		ミューノはグマグの炎遺跡にある<end_line>
-		魔晶柱を見に行ったぞ<end_line>
-		キサマも急がなくていいのか？<end_line>
+		ミューノはグマグの炎遺跡にある<end_line />
+		魔晶柱を見に行ったぞ<end_line />
+		キサマも急がなくていいのか？<end_line />
 	</sjis>
   <ascii>
-    Murno is going deeper into<end_line>
-    the ruins, where the pillar is.<end_line>
-    Aren't you going to follow her?<end_line>
+    Murno is going deeper into<end_line />
+    the ruins, where the pillar is.<end_line />
+    Aren't you going to follow her?<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -1419,22 +1419,22 @@
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<male>
 		<sjis>
-			でもさ、よく考えたら<end_line>
-			オレが行っても魔晶柱を調べるのに<end_line>
-			ジャマになったりしないかな<three_dots><end_line>
+			でもさ、よく考えたら<end_line />
+			オレが行っても魔晶柱を調べるのに<end_line />
+			ジャマになったりしないかな<three_dots /><end_line />
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			でも、よく考えたら<end_line>
-			わたしが行っても魔晶柱を調べるのに<end_line>
-			ジャマになったりしないかな<three_dots><end_line>
+			でも、よく考えたら<end_line />
+			わたしが行っても魔晶柱を調べるのに<end_line />
+			ジャマになったりしないかな<three_dots /><end_line />
 		</sjis>
 	</female>
   <ascii>
-    Now that I think about it,<end_line>
-    won't we just be getting<end_line>
-    in the way if we do<three_dots><end_line>
+    Now that I think about it,<end_line />
+    won't we just be getting<end_line />
+    in the way if we do<three_dots /><end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -1443,10 +1443,10 @@
 	<portrait_l entry="player" eye="sad" mouth="serious">
 	<portrait_r entry="partner" eye="special" mouth="serious">
 	<sjis>
-		<three_dots>ちっ<end_line>
+		<three_dots />ちっ<end_line />
 	</sjis>
   <ascii>
-    <three_dots>Tch.<end_line>
+    <three_dots />Tch.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -1455,12 +1455,12 @@
 	<portrait_l entry="player" eye="happy" mouth="talk">
 	<portrait_r entry="partner" eye="special" mouth="serious">
 	<sjis>
-		ああ、ウソウソ<end_line>
-		急ごう！<end_line>
+		ああ、ウソウソ<end_line />
+		急ごう！<end_line />
 	</sjis>
   <ascii>
-    Uhh, nevermind!<end_line>
-    Let's go!<end_line>
+    Uhh, nevermind!<end_line />
+    Let's go!<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -1468,14 +1468,14 @@
 	<info box="right">
 	<portrait_r name="partner">
 	<sjis>
-		ミューノ様はグマグの炎遺跡にある<end_line>
-		魔晶柱を見に行きましたわ！<end_line>
-		私たちも急ぎましょう！<end_line>
+		ミューノ様はグマグの炎遺跡にある<end_line />
+		魔晶柱を見に行きましたわ！<end_line />
+		私たちも急ぎましょう！<end_line />
 	</sjis>
   <ascii>
-    Lady Murno is heading deeper into<end_line>
-    the ruins to see the Pillar!<end_line>
-    We must follow her!<end_line>
+    Lady Murno is heading deeper into<end_line />
+    the ruins to see the Pillar!<end_line />
+    We must follow her!<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -1484,22 +1484,22 @@
 	<portrait_l name="player">
 	<male>
 		<sjis>
-			いいけどさ、よく考えたら<end_line>
-			オレが行っても魔晶柱を調べるのに<end_line>
-			ジャマになったりしないかな<three_dots><end_line>
+			いいけどさ、よく考えたら<end_line />
+			オレが行っても魔晶柱を調べるのに<end_line />
+			ジャマになったりしないかな<three_dots /><end_line />
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			いいけどさ、よく考えたら<end_line>
-			わたしが行っても魔晶柱を調べるのに<end_line>
-			ジャマになったりしないかな<three_dots><end_line>
+			いいけどさ、よく考えたら<end_line />
+			わたしが行っても魔晶柱を調べるのに<end_line />
+			ジャマになったりしないかな<three_dots /><end_line />
 		</sjis>
 	</female>
   <ascii>
-    I'm all for it, but really,<end_line>
-    won't we just be getting<end_line>
-    in the way if we do<three_dots><end_line>
+    I'm all for it, but really,<end_line />
+    won't we just be getting<end_line />
+    in the way if we do<three_dots /><end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -1507,14 +1507,14 @@
 	<info box="right">
 	<portrait_r name="partner">
 	<sjis>
-		なに弱気になってるんですか！<end_line>
-		<player_nickname>さんはジャマなくらいで<end_line>
-		ちょうどいいんですよ！<end_line>
+		なに弱気になってるんですか！<end_line />
+		<player_nickname />さんはジャマなくらいで<end_line />
+		ちょうどいいんですよ！<end_line />
 	</sjis>
   <ascii>
-    Why are you backing down now?<end_line>
-    Being bothersome is what<end_line>
-    you're best at!<end_line>
+    Why are you backing down now?<end_line />
+    Being bothersome is what<end_line />
+    you're best at!<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -1523,22 +1523,22 @@
 	<portrait_l name="player">
 	<male>
 		<sjis>
-			うっわ！<end_line>
-			ヒデェ！<end_line>
+			うっわ！<end_line />
+			ヒデェ！<end_line />
 		</sjis>
     <ascii>
-      Uwah!<end_line>
-      That hurts!<end_line>
+      Uwah!<end_line />
+      That hurts!<end_line />
     </ascii>
 	</male>
 	<female>
 		<sjis>
-			なにそれ！<end_line>
-			ひっどーい！<end_line>
+			なにそれ！<end_line />
+			ひっどーい！<end_line />
 		</sjis>
     <ascii>
-      What!?<end_line>
-      You're terrible!<end_line>
+      What!?<end_line />
+      You're terrible!<end_line />
     </ascii>
 	</female>
 </dialogue>
@@ -1549,22 +1549,22 @@
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<male>
 		<sjis>
-			アニスの仲間たちって<end_line>
-			本当にヒドイことを<end_line>
-			やってたんだな<three_dots><end_line>
+			アニスの仲間たちって<end_line />
+			本当にヒドイことを<end_line />
+			やってたんだな<three_dots /><end_line />
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			アニスの仲間たちって<end_line>
-			本当にヒドイことを<end_line>
-			やってたんだね<three_dots><end_line>
+			アニスの仲間たちって<end_line />
+			本当にヒドイことを<end_line />
+			やってたんだね<three_dots /><end_line />
 		</sjis>
 	</female>
   <ascii>
-    Anise and her goons<end_line>
-    are really terrible<end_line>
-    aren't they<three_dots><end_line>
+    Anise and her goons<end_line />
+    are really terrible<end_line />
+    aren't they<three_dots /><end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -1573,14 +1573,14 @@
 	<portrait_l entry="player" eye="sad" mouth="tense">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<sjis>
-		私タチハ　アノ者タチカラ<end_line>
-		みゅーの様ヲ　守ラナケレバ<end_line>
-		ナラナイノデス<end_line>
+		私タチハ　アノ者タチカラ<end_line />
+		みゅーの様ヲ　守ラナケレバ<end_line />
+		ナラナイノデス<end_line />
 	</sjis>
   <ascii>
-    We Must Protect<end_line>
-    Lady Murno From<end_line>
-    Those People.<end_line>
+    We Must Protect<end_line />
+    Lady Murno From<end_line />
+    Those People.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -1590,22 +1590,22 @@
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
 		<sjis>
-			そうだな<three_dots><end_line>
-			今はとにかく遺跡の奥の<end_line>
-			魔晶柱を調べに行こう<three_dots><end_line>
+			そうだな<three_dots /><end_line />
+			今はとにかく遺跡の奥の<end_line />
+			魔晶柱を調べに行こう<three_dots /><end_line />
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			そうだね<three_dots><end_line>
-			今はとにかく遺跡の奥の<end_line>
-			魔晶柱を調べに行こう<three_dots><end_line>
+			そうだね<three_dots /><end_line />
+			今はとにかく遺跡の奥の<end_line />
+			魔晶柱を調べに行こう<three_dots /><end_line />
 		</sjis>
 	</female>
   <ascii>
-    Right<three_dots><end_line>
-    For now we still need to find<end_line>
-    the Crystal Pillar in the ruins.<end_line>
+    Right<three_dots /><end_line />
+    For now we still need to find<end_line />
+    the Crystal Pillar in the ruins.<end_line />
   </ascii> 
 </dialogue>
 <dialogue>
@@ -1615,22 +1615,22 @@
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<male>
 		<sjis>
-			アニスの仲間たちって<end_line>
-			本当にヒドイことを<end_line>
-			やってたんだな<three_dots><end_line>
+			アニスの仲間たちって<end_line />
+			本当にヒドイことを<end_line />
+			やってたんだな<three_dots /><end_line />
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			アニスの仲間たちって<end_line>
-			本当にヒドイことを<end_line>
-			やってたんだね<three_dots><end_line>
+			アニスの仲間たちって<end_line />
+			本当にヒドイことを<end_line />
+			やってたんだね<three_dots /><end_line />
 		</sjis>
 	</female>
   <ascii>
-    Anise and her goons<end_line>
-    are really terrible<end_line>
-    aren't they<three_dots><end_line>
+    Anise and her goons<end_line />
+    are really terrible<end_line />
+    aren't they<three_dots /><end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -1639,14 +1639,14 @@
 	<portrait_l entry="player" eye="sad" mouth="tense">
 	<portrait_r entry="partner" eye="decided" mouth="tense">
 	<sjis>
-		しっかりするのじゃ<end_line>
-		その連中からミューノを守るのが<end_line>
-		我らの役目ぞ<end_line>
+		しっかりするのじゃ<end_line />
+		その連中からミューノを守るのが<end_line />
+		我らの役目ぞ<end_line />
 	</sjis>
   <ascii>
-    Don't lose focus.<end_line>
-    Remember, it is our duty to protect<end_line>
-    Murno from the likes of them.<end_line>
+    Don't lose focus.<end_line />
+    Remember, it is our duty to protect<end_line />
+    Murno from the likes of them.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -1656,22 +1656,22 @@
 	<portrait_r entry="partner" eye="decided" mouth="tense">
 	<male>
 		<sjis>
-			そうだな<three_dots><end_line>
-			今はとにかく遺跡の奥の<end_line>
-			魔晶柱を調べに行こう<three_dots><end_line>
+			そうだな<three_dots /><end_line />
+			今はとにかく遺跡の奥の<end_line />
+			魔晶柱を調べに行こう<three_dots /><end_line />
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			そうだね<three_dots><end_line>
-			今はとにかく遺跡の奥の<end_line>
-			魔晶柱を調べに行こう<three_dots><end_line>
+			そうだね<three_dots /><end_line />
+			今はとにかく遺跡の奥の<end_line />
+			魔晶柱を調べに行こう<three_dots /><end_line />
 		</sjis>
 	</female>
   <ascii>
-    Right<three_dots><end_line>
-    For now we still need to find<end_line>
-    the Crystal Pillar in the ruins.<end_line>
+    Right<three_dots /><end_line />
+    For now we still need to find<end_line />
+    the Crystal Pillar in the ruins.<end_line />
   </ascii> 
 </dialogue>
 <dialogue>
@@ -1681,22 +1681,22 @@
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<male>
 		<sjis>
-			アニスの仲間たちって<end_line>
-			本当にヒドイことを<end_line>
-			やってたんだな<three_dots><end_line>
+			アニスの仲間たちって<end_line />
+			本当にヒドイことを<end_line />
+			やってたんだな<three_dots /><end_line />
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			アニスの仲間たちって<end_line>
-			本当にヒドイことを<end_line>
-			やってたんだね<three_dots><end_line>
+			アニスの仲間たちって<end_line />
+			本当にヒドイことを<end_line />
+			やってたんだね<three_dots /><end_line />
 		</sjis>
 	</female>
   <ascii>
-    Anise and her goons<end_line>
-    are really terrible<end_line>
-    aren't they<three_dots><end_line>
+    Anise and her goons<end_line />
+    are really terrible<end_line />
+    aren't they<three_dots /><end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -1705,14 +1705,14 @@
 	<portrait_l entry="player" eye="sad" mouth="tense">
 	<portrait_r entry="partner" eye="decided" mouth="talk">
 	<sjis>
-		ふ<three_dots>、怖じ気づいたのか？<end_line>
-		その連中からミューノを守るのが<end_line>
-		キサマの役目なんだぞ<end_line>
+		ふ<three_dots />、怖じ気づいたのか？<end_line />
+		その連中からミューノを守るのが<end_line />
+		キサマの役目なんだぞ<end_line />
 	</sjis>
   <ascii>
-    Hmph<three_dots> Losing your nerve?<end_line>
-    It's your job to<end_line>
-    protect Murno, you know.<end_line>
+    Hmph<three_dots /> Losing your nerve?<end_line />
+    It's your job to<end_line />
+    protect Murno, you know.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -1722,22 +1722,22 @@
 	<portrait_r entry="partner" eye="decided" mouth="talk">
 	<male>
 		<sjis>
-			そうだな<three_dots><end_line>
-			今はとにかく遺跡の奥の<end_line>
-			魔晶柱を調べに行こう<three_dots><end_line>
+			そうだな<three_dots /><end_line />
+			今はとにかく遺跡の奥の<end_line />
+			魔晶柱を調べに行こう<three_dots /><end_line />
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			そうだね<three_dots><end_line>
-			今はとにかく遺跡の奥の<end_line>
-			魔晶柱を調べに行こう<three_dots><end_line>
+			そうだね<three_dots /><end_line />
+			今はとにかく遺跡の奥の<end_line />
+			魔晶柱を調べに行こう<three_dots /><end_line />
 		</sjis>
 	</female>
   <ascii>
-    Right<three_dots><end_line>
-    For now we still need to find<end_line>
-    the Crystal Pillar in the ruins.<end_line>
+    Right<three_dots /><end_line />
+    For now we still need to find<end_line />
+    the Crystal Pillar in the ruins.<end_line />
   </ascii> 
 </dialogue>
 <dialogue>
@@ -1746,22 +1746,22 @@
 	<portrait_l name="player">
 	<male>
 		<sjis>
-			アニスの仲間たちって<end_line>
-			本当にヒドイことを<end_line>
-			やってたんだな<three_dots><end_line>
+			アニスの仲間たちって<end_line />
+			本当にヒドイことを<end_line />
+			やってたんだな<three_dots /><end_line />
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			アニスの仲間たちって<end_line>
-			本当にヒドイことを<end_line>
-			やってたんだね<three_dots><end_line>
+			アニスの仲間たちって<end_line />
+			本当にヒドイことを<end_line />
+			やってたんだね<three_dots /><end_line />
 		</sjis>
 	</female>
   <ascii>
-    Anise and her goons<end_line>
-    are really terrible<end_line>
-    aren't they<three_dots><end_line>
+    Anise and her goons<end_line />
+    are really terrible<end_line />
+    aren't they<three_dots /><end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -1769,14 +1769,14 @@
 	<info box="right">
 	<portrait_r name="partner">
 	<sjis>
-		そうですよ<end_line>
-		でも、そんな人たちからミューノ様を<end_line>
-		お守りするのが私たちの役目ですわ<end_line>
+		そうですよ<end_line />
+		でも、そんな人たちからミューノ様を<end_line />
+		お守りするのが私たちの役目ですわ<end_line />
 	</sjis>
   <ascii>
-    I agree.<end_line>
-    But that is why we are here,<end_line>
-    to protect Lady Murno.<end_line>
+    I agree.<end_line />
+    But that is why we are here,<end_line />
+    to protect Lady Murno.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -1785,21 +1785,21 @@
 	<portrait_l name="player">
 	<male>
 		<sjis>
-			そうだな<three_dots><end_line>
-			今はとにかく遺跡の奥の<end_line>
-			魔晶柱を調べに行こう<three_dots><end_line>
+			そうだな<three_dots /><end_line />
+			今はとにかく遺跡の奥の<end_line />
+			魔晶柱を調べに行こう<three_dots /><end_line />
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			そうだね<three_dots><end_line>
-			今はとにかく遺跡の奥の<end_line>
-			魔晶柱を調べに行こう<three_dots><end_line>
+			そうだね<three_dots /><end_line />
+			今はとにかく遺跡の奥の<end_line />
+			魔晶柱を調べに行こう<three_dots /><end_line />
 		</sjis>
 	</female>
   <ascii>
-    Right<three_dots><end_line>
-    For now we still need to find<end_line>
-    the Crystal Pillar in the ruins.<end_line>
+    Right<three_dots /><end_line />
+    For now we still need to find<end_line />
+    the Crystal Pillar in the ruins.<end_line />
   </ascii> 
 </dialogue>

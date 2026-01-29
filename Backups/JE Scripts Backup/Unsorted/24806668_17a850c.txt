@@ -1,6 +1,6 @@
 <location>
 	<sjis>
-		ルイーズ村<end_line>
+		ルイーズ村<end_line />
 	</sjis>
 	<ascii>
 		Louise Village<end_line />
@@ -8,24 +8,24 @@
 </location>
 <location>
 	<sjis>
-		ルイーズ村　遺跡前<end_line>
+		ルイーズ村　遺跡前<end_line />
 	</sjis>
 </location>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="merchant">
 	<sjis>
-		どっかに景気のいい話、<end_line>
-		落ちてないかな～<end_line>
+		どっかに景気のいい話、<end_line />
+		落ちてないかな～<end_line />
 	</sjis>
 	<ascii>
-   		I wonder if I'll get any<end_line>
-   		good news for my sales~<end_line>
+   		I wonder if I'll get any<end_line />
+   		good news for my sales~<end_line />
   	</ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<sjis>
-		ふみゃ～<end_line>
+		ふみゃ～<end_line />
 	</sjis>
 </dialogue>

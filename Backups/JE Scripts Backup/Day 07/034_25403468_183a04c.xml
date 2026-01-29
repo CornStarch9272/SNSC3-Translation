@@ -4,26 +4,26 @@
   <portrait_r entry="partner" eye="surprised" mouth="serious">
   <male>
     <sjis>
-      へぇ！<end_line>
-      こんな場所に出るのか<three_dots><end_line>
-      おどろいた<three_dots><end_line>
+      へぇ！<end_line />
+      こんな場所に出るのか<three_dots /><end_line />
+      おどろいた<three_dots /><end_line />
     </sjis>
     <ascii>
-      Huh!<end_line>
-      So we can get out here<three_dots><end_line>
-      How surprising<three_dots><end_line>
+      Huh!<end_line />
+      So we can get out here<three_dots /><end_line />
+      How surprising<three_dots /><end_line />
     </ascii>
   </male>
   <female>
     <sjis>
-      わっ！<end_line>
-      こんな場所に出るんだ<three_dots><end_line>
-      おどろいた<three_dots><end_line>
+      わっ！<end_line />
+      こんな場所に出るんだ<three_dots /><end_line />
+      おどろいた<three_dots /><end_line />
     </sjis>
     <ascii>
-      Wah!<end_line>
-      So we can get out here<three_dots><end_line>
-      How surprising<three_dots><end_line>
+      Wah!<end_line />
+      So we can get out here<three_dots /><end_line />
+      How surprising<three_dots /><end_line />
     </ascii>
   </female>
 </dialogue>
@@ -33,12 +33,12 @@
   <portrait_l entry="player" eye="surprised" mouth="stressed">
   <portrait_r entry="partner" eye="serious" mouth="tense">
   <sjis>
-    デハ　コレカラ<end_line>
-    ドコニ　向カイマスカ？<end_line>
+    デハ　コレカラ<end_line />
+    ドコニ　向カイマスカ？<end_line />
   </sjis>
   <ascii>
-    Well Then, What Is Our<end_line>
-    Next Objective?<end_line>
+    Well Then, What Is Our<end_line />
+    Next Objective?<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -48,22 +48,22 @@
   <portrait_r entry="partner" eye="serious" mouth="tense">
   <male>
     <sjis>
-      どこって<three_dots><end_line>
-      ミューノの村じゃないのか？<end_line>
-      魔石を戻しに行くんだろ？<end_line>
+      どこって<three_dots /><end_line />
+      ミューノの村じゃないのか？<end_line />
+      魔石を戻しに行くんだろ？<end_line />
     </sjis>
   </male>
   <female>
     <sjis>
-      どこって<three_dots><end_line>
-      ミューノの村じゃないの？<end_line>
-      魔石を戻しに行くんでしょ？<end_line>
+      どこって<three_dots /><end_line />
+      ミューノの村じゃないの？<end_line />
+      魔石を戻しに行くんでしょ？<end_line />
     </sjis>
   </female>
   <ascii>
-    Where<three_dots><end_line>
-    Murno's village, right?<end_line>
-    Aren't we returning the Demon Stone?<end_line>
+    Where<three_dots /><end_line />
+    Murno's village, right?<end_line />
+    Aren't we returning the Demon Stone?<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -72,14 +72,14 @@
   <portrait_l entry="player" eye="serious" mouth="tense">
   <portrait_r entry="partner" eye="serious" mouth="neutral">
   <sjis>
-    あにすノ仲間ノコトモ　アリマス<end_line>
-    ウカツニ村ニ　近ヅクコトハ<end_line>
-    サケタホウガ良イト　思ワレマス<end_line>
+    あにすノ仲間ノコトモ　アリマス<end_line />
+    ウカツニ村ニ　近ヅクコトハ<end_line />
+    サケタホウガ良イト　思ワレマス<end_line />
   </sjis>
   <ascii>
-    Anise Is Still A Concern.<end_line>
-    We Should Not Be Approaching<end_line>
-    The Village So Carelessly.<end_line>
+    Anise Is Still A Concern.<end_line />
+    We Should Not Be Approaching<end_line />
+    The Village So Carelessly.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -88,12 +88,12 @@
   <portrait_l entry="player" eye="surprised" mouth="stressed">
   <portrait_r entry="partner" eye="serious" mouth="tense">
   <sjis>
-    さて<end_line>
-    これからドコへ向かうのじゃ？<end_line>
+    さて<end_line />
+    これからドコへ向かうのじゃ？<end_line />
   </sjis>
   <ascii>
-    Now then,<end_line>
-    where shall we go now?<end_line>
+    Now then,<end_line />
+    where shall we go now?<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -103,22 +103,22 @@
   <portrait_r entry="partner" eye="serious" mouth="tense">
   <male>
     <sjis>
-      どこって<three_dots><end_line>
-      ミューノの村じゃないのか？<end_line>
-      魔石を戻しに行くんだろ？<end_line>
+      どこって<three_dots /><end_line />
+      ミューノの村じゃないのか？<end_line />
+      魔石を戻しに行くんだろ？<end_line />
     </sjis>
   </male>
   <female>
     <sjis>
-      どこって<three_dots><end_line>
-      ミューノの村じゃないの？<end_line>
-      魔石を戻しに行くんでしょ？<end_line>
+      どこって<three_dots /><end_line />
+      ミューノの村じゃないの？<end_line />
+      魔石を戻しに行くんでしょ？<end_line />
     </sjis>
   </female>
   <ascii>
-    Where<three_dots><end_line>
-    Murno's village, right?<end_line>
-    Aren't we returning the Demon Stone?<end_line>
+    Where<three_dots /><end_line />
+    Murno's village, right?<end_line />
+    Aren't we returning the Demon Stone?<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -127,14 +127,14 @@
   <portrait_l entry="player" eye="serious" mouth="tense">
   <portrait_r entry="partner" eye="decided" mouth="serious">
   <sjis>
-    その前に魔石を狙う<end_line>
-    アニスたちを<end_line>
-    何とかしなくてはならんぞ<end_line>
+    その前に魔石を狙う<end_line />
+    アニスたちを<end_line />
+    何とかしなくてはならんぞ<end_line />
   </sjis>
   <ascii>
-    Before that,<end_line>
-    we have to do something<end_line>
-    about Anise.<end_line>
+    Before that,<end_line />
+    we have to do something<end_line />
+    about Anise.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -143,12 +143,12 @@
   <portrait_l entry="player" eye="surprised" mouth="stressed">
   <portrait_r entry="partner" eye="serious" mouth="tense">
   <sjis>
-    で<end_line>
-    これからどうするつもりなんだ？<end_line>
+    で<end_line />
+    これからどうするつもりなんだ？<end_line />
   </sjis>
   <ascii>
-    So,<end_line>
-    what are you planning to do now?<end_line>
+    So,<end_line />
+    what are you planning to do now?<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -158,22 +158,22 @@
   <portrait_r entry="partner" eye="serious" mouth="tense">
   <male>
     <sjis>
-      どうするって<three_dots><end_line>
-      ミューノの村じゃないのか？<end_line>
-      魔石を戻しに行くんだろ？<end_line>
+      どうするって<three_dots /><end_line />
+      ミューノの村じゃないのか？<end_line />
+      魔石を戻しに行くんだろ？<end_line />
     </sjis>
   </male>
   <female>
     <sjis>
-      どうするって<three_dots><end_line>
-      ミューノの村じゃないの？<end_line>
-      魔石を戻しに行くんでしょ？<end_line>
+      どうするって<three_dots /><end_line />
+      ミューノの村じゃないの？<end_line />
+      魔石を戻しに行くんでしょ？<end_line />
     </sjis>
   </female>
   <ascii>
-    What<three_dots><end_line>
-    Murno's village, right?<end_line>
-    Aren't we returning the Demon Stone?<end_line>
+    What<three_dots /><end_line />
+    Murno's village, right?<end_line />
+    Aren't we returning the Demon Stone?<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -182,12 +182,12 @@
   <portrait_l entry="player" eye="serious" mouth="tense">
   <portrait_r entry="partner" eye="sad" mouth="serious">
   <sjis>
-    アニスの連中が片づいてないんだ<end_line>
-    もう少し考えろ<end_line>
+    アニスの連中が片づいてないんだ<end_line />
+    もう少し考えろ<end_line />
   </sjis>
   <ascii>
-    We still need to deal with Anise.<end_line>
-    Think a bit more.<end_line>
+    We still need to deal with Anise.<end_line />
+    Think a bit more.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -196,12 +196,12 @@
   <portrait_l entry="player" eye="serious" mouth="tense">
   <portrait_r entry="partner" eye="sad" mouth="serious">
   <sjis>
-    それで<three_dots><end_line>
-    これからどうしましょう？<end_line>
+    それで<three_dots /><end_line />
+    これからどうしましょう？<end_line />
   </sjis>
   <ascii> 
-    So then<three_dots><end_line>
-    What shall we do now?<end_line>
+    So then<three_dots /><end_line />
+    What shall we do now?<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -211,22 +211,22 @@
   <portrait_r entry="partner" eye="sad" mouth="serious">
   <male>
     <sjis>
-      どうするって<three_dots><end_line>
-      ミューノの村じゃないのか？<end_line>
-      魔石を戻しに行くんだろ？<end_line>
+      どうするって<three_dots /><end_line />
+      ミューノの村じゃないのか？<end_line />
+      魔石を戻しに行くんだろ？<end_line />
     </sjis>
   </male>
   <female>
     <sjis>
-      どうするって<three_dots><end_line>
-      ミューノの村じゃないの？<end_line>
-      魔石を戻しに行くんでしょ？<end_line>
+      どうするって<three_dots /><end_line />
+      ミューノの村じゃないの？<end_line />
+      魔石を戻しに行くんでしょ？<end_line />
     </sjis>
   </female>
   <ascii>
-    What<three_dots><end_line>
-    Murno's village, right?<end_line>
-    Aren't we returning the Demon Stone?<end_line>
+    What<three_dots /><end_line />
+    Murno's village, right?<end_line />
+    Aren't we returning the Demon Stone?<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -235,13 +235,13 @@
   <portrait_l entry="player" eye="serious" mouth="tense">
   <portrait_r entry="partner" eye="decided" mouth="tense">
   <sjis>
-    アニスさんたちのことは<end_line>
-    どうするんです？<end_line>
-    今戻ってもあぶないですよ<end_line>
+    アニスさんたちのことは<end_line />
+    どうするんです？<end_line />
+    今戻ってもあぶないですよ<end_line />
   </sjis>
   <ascii>
-    What will we do about Anise?<end_line>
-    It would be dangerous to go now.<end_line>
+    What will we do about Anise?<end_line />
+    It would be dangerous to go now.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -249,14 +249,14 @@
   <portrait_l entry="player" eye="serious" mouth="tense">
   <portrait_r entry="murno" eye="serious" mouth="tense">
   <sjis>
-    そうね<three_dots><end_line>
-    ミシュース村の場所は<end_line>
-    アニスたちには知られているし<three_dots><end_line>
+    そうね<three_dots /><end_line />
+    ミシュース村の場所は<end_line />
+    アニスたちには知られているし<three_dots /><end_line />
   </sjis>
   <ascii>
-    Right<three_dots><end_line>
-    Anise knows where<end_line>
-    Mishus Village is too<three_dots><end_line>
+    Right<three_dots /><end_line />
+    Anise knows where<end_line />
+    Mishus Village is too<three_dots /><end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -264,12 +264,12 @@
   <portrait_l entry="player" eye="serious" mouth="tense">
   <portrait_r entry="murno" eye="serious" mouth="serious">
   <sjis>
-    それにヴィーさんたちも<end_line>
-    心配していると思うわ<end_line>
+    それにヴィーさんたちも<end_line />
+    心配していると思うわ<end_line />
   </sjis>
   <ascii>
-    And I'm sure Vee and<end_line>
-    the others are worried.<end_line>
+    And I'm sure Vee and<end_line />
+    the others are worried.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -277,14 +277,14 @@
   <portrait_l entry="player" eye="decided" mouth="serious">
   <portrait_r entry="murno" eye="serious" mouth="serious">
   <sjis>
-    たしかに<three_dots>、でも町には<end_line>
-    アニスがいるかもしれないし<end_line>
-    親方には絶対怒られるだろうし<three_dots><end_line>
+    たしかに<three_dots />、でも町には<end_line />
+    アニスがいるかもしれないし<end_line />
+    親方には絶対怒られるだろうし<three_dots /><end_line />
   </sjis>
   <ascii>
-    True<three_dots> but Anise may still<end_line>
-    be in town. Master's definitely<end_line>
-    going to be angry<three_dots><end_line>
+    True<three_dots /> but Anise may still<end_line />
+    be in town. Master's definitely<end_line />
+    going to be angry<three_dots /><end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -292,10 +292,10 @@
   <portrait_l entry="player" eye="happy" mouth="tense">
   <portrait_r entry="murno" eye="serious" mouth="serious">
   <sjis>
-    やっぱ、帰りたくないな<three_dots><end_line>
+    やっぱ、帰りたくないな<three_dots /><end_line />
   </sjis>
   <ascii>
-    I really don't want to go back<three_dots><end_line>
+    I really don't want to go back<three_dots /><end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -303,10 +303,10 @@
   <portrait_l entry="player" eye="happy" mouth="tense">
   <portrait_r entry="murno" eye="sad" mouth="neutral">
   <sjis>
-    でも、このままってワケには<three_dots><end_line>
+    でも、このままってワケには<three_dots /><end_line />
   </sjis>
   <ascii>
-    But staying here is<three_dots><end_line>
+    But staying here is<three_dots /><end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -314,10 +314,10 @@
   <portrait_l entry="player" eye="decided" mouth="serious">
   <portrait_r entry="murno" eye="sad" mouth="neutral">
   <sjis>
-    うう～<three_dots>ん<three_dots><end_line>
+    うう～<three_dots />ん<three_dots /><end_line />
   </sjis>
   <ascii>
-    Hmm<three_dots>mm<three_dots><end_line>
+    Hmm<three_dots />mm<three_dots /><end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -325,14 +325,14 @@
   <portrait_l entry="player" eye="decided" mouth="neutral">
   <portrait_r entry="murno" eye="sad" mouth="neutral">
   <sjis>
-    じゃあ<three_dots><end_line>
-    とにかく、町の近くまで行こう<end_line>
-    行ってから考えよう<end_line>
+    じゃあ<three_dots /><end_line />
+    とにかく、町の近くまで行こう<end_line />
+    行ってから考えよう<end_line />
   </sjis>
   <ascii>
-    How about this<three_dots><end_line>
-    For now, let's head to the village.<end_line>
-    We'll think about the rest later.<end_line>
+    How about this<three_dots /><end_line />
+    For now, let's head to the village.<end_line />
+    We'll think about the rest later.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -340,10 +340,10 @@
   <portrait_l entry="player" eye="surprised" mouth="serious">
   <portrait_r entry="murno" eye="happy" mouth="neutral">
   <sjis>
-    うふふ<three_dots><end_line>
+    うふふ<three_dots /><end_line />
   </sjis>
   <ascii>
-    Ufufu<three_dots><end_line>
+    Ufufu<three_dots /><end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -351,10 +351,10 @@
   <portrait_l entry="player" eye="surprised" mouth="tense">
   <portrait_r entry="murno" eye="happy" mouth="neutral">
   <sjis>
-    え！？<end_line>
+    え！？<end_line />
   </sjis>
   <ascii>
-    Eh!?<end_line>
+    Eh!?<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -363,16 +363,16 @@
   <portrait_r entry="murno" eye="happy" mouth="neutral">
   <male>
     <sjis>
-      オレ、なんかヘンなこと言った？<end_line>
+      オレ、なんかヘンなこと言った？<end_line />
     </sjis>
   </male>
   <female>
     <sjis>
-      わたし、なんかヘンなこと言った？<end_line>
+      わたし、なんかヘンなこと言った？<end_line />
     </sjis>
   </female>
   <ascii>
-    Did I say something strange?<end_line>
+    Did I say something strange?<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -380,13 +380,13 @@
   <portrait_l entry="player" eye="surprised" mouth="tense">
   <portrait_r entry="murno" eye="serious" mouth="talk">
   <sjis>
-    ううん<end_line>
-    とっても<player_nickname>らしい<end_line>
+    ううん<end_line />
+    とっても<player_nickname />らしい<end_line />
   </sjis>
   <ascii>
-    No,<end_line>
-    I was thinking,<end_line>
-    that's just like you, <player_nickname>.<end_line>
+    No,<end_line />
+    I was thinking,<end_line />
+    that's just like you, <player_nickname />.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -395,12 +395,12 @@
   <portrait_l entry="player" eye="surprised" mouth="tense">
   <portrait_r entry="partner" eye="serious" mouth="neutral">
   <sjis>
-    タシカニ<end_line>
-    アナタラシイ　結論デス<end_line>
+    タシカニ<end_line />
+    アナタラシイ　結論デス<end_line />
   </sjis>
   <ascii>
-    Certainly,<end_line>
-    That Is Just Like You.<end_line>
+    Certainly,<end_line />
+    That Is Just Like You.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -409,10 +409,10 @@
   <portrait_l entry="player" eye="happy_blush" mouth="talk">
   <portrait_r entry="partner" eye="serious" mouth="neutral">
   <sjis>
-    えへへ<end_line>
+    えへへ<end_line />
   </sjis>
   <ascii>
-    Ehehe.<end_line>
+    Ehehe.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -422,16 +422,16 @@
   <portrait_r entry="partner" eye="serious" mouth="neutral">
   <male>
     <sjis>
-      そんなにほめるなよ～<end_line>
+      そんなにほめるなよ～<end_line />
     </sjis>
   </male>
   <female>
     <sjis>
-      そんなにほめないでよ～<end_line>
+      そんなにほめないでよ～<end_line />
     </sjis>
   </female>
   <ascii>
-    Don't praise me so much~<end_line>
+    Don't praise me so much~<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -440,10 +440,10 @@
   <portrait_l entry="player" eye="happy_blush" mouth="talk">
   <portrait_r entry="partner" eye="serious" mouth="neutral">
   <sjis>
-    誰カ　ホメマシタカ？<end_line>
+    誰カ　ホメマシタカ？<end_line />
   </sjis>
   <ascii>
-    Who's Praising You?<end_line>
+    Who's Praising You?<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -452,12 +452,12 @@
   <portrait_l entry="player" eye="surprised" mouth="tense">
   <portrait_r entry="partner" eye="serious" mouth="neutral">
   <sjis>
-    たしかに<end_line>
-    おぬしらしい答えじゃな<end_line>
+    たしかに<end_line />
+    おぬしらしい答えじゃな<end_line />
   </sjis>
   <ascii>
-    Certainly,<end_line>
-    that answer fits you.<end_line>
+    Certainly,<end_line />
+    that answer fits you.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -466,10 +466,10 @@
   <portrait_l entry="player" eye="happy_blush" mouth="talk">
   <portrait_r entry="partner" eye="serious" mouth="neutral">
   <sjis>
-    えへへ<end_line>
+    えへへ<end_line />
   </sjis>
   <ascii>
-    Ehehe.<end_line>
+    Ehehe.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -479,16 +479,16 @@
   <portrait_r entry="partner" eye="serious" mouth="neutral">
   <male>
     <sjis>
-      そんなにほめるなよ～<end_line>
+      そんなにほめるなよ～<end_line />
     </sjis>
   </male>
   <female>
     <sjis>
-      そんなにほめないでよ～<end_line>
+      そんなにほめないでよ～<end_line />
     </sjis>
   </female>
   <ascii>
-    Don't praise me so much~<end_line>
+    Don't praise me so much~<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -497,10 +497,10 @@
   <portrait_l entry="player" eye="happy_blush" mouth="talk">
   <portrait_r entry="partner" eye="surprised" mouth="serious">
   <sjis>
-    誰もほめてなんかおらんぞ！？<end_line>
+    誰もほめてなんかおらんぞ！？<end_line />
   </sjis>
   <ascii>
-    Who's praising you!?<end_line>
+    Who's praising you!?<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -509,12 +509,12 @@
   <portrait_l entry="player" eye="surprised" mouth="tense">
   <portrait_r entry="partner" eye="serious" mouth="neutral">
   <sjis>
-    たしかに<end_line>
-    キサマらしい答えだ<end_line>
+    たしかに<end_line />
+    キサマらしい答えだ<end_line />
   </sjis>
   <ascii>
-    Certainly,<end_line>
-    that answer fits you.<end_line>
+    Certainly,<end_line />
+    that answer fits you.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -523,10 +523,10 @@
   <portrait_l entry="player" eye="happy_blush" mouth="talk">
   <portrait_r entry="partner" eye="serious" mouth="neutral">
   <sjis>
-    えへへ<end_line>
+    えへへ<end_line />
   </sjis>
   <ascii>
-    Ehehe.<end_line>
+    Ehehe.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -536,16 +536,16 @@
   <portrait_r entry="partner" eye="serious" mouth="neutral">
   <male>
     <sjis>
-      そんなにほめるなよ～<end_line>
+      そんなにほめるなよ～<end_line />
     </sjis>
   </male>
   <female>
     <sjis>
-      そんなにほめないでよ～<end_line>
+      そんなにほめないでよ～<end_line />
     </sjis>
   </female>
   <ascii>
-    Don't praise me so much~<end_line>
+    Don't praise me so much~<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -554,10 +554,10 @@
   <portrait_l entry="player" eye="happy_blush" mouth="talk">
   <portrait_r entry="partner" eye="sad" mouth="talk">
   <sjis>
-    本当に幸せなヤツだ<end_line>
+    本当に幸せなヤツだ<end_line />
   </sjis>
   <ascii>
-    Ignorance is bliss, they say.<end_line>
+    Ignorance is bliss, they say.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -566,12 +566,12 @@
   <portrait_l entry="player" eye="happy_blush" mouth="talk">
   <portrait_r entry="partner" eye="sad" mouth="talk">
   <sjis>
-    たしかに<player_nickname>さんらしい<end_line>
-    答えですわね<end_line>
+    たしかに<player_nickname />さんらしい<end_line />
+    答えですわね<end_line />
   </sjis>
   <ascii>
-    That answer is certainly fitting<end_line>
-    for you, <player_nickname><end_line>
+    That answer is certainly fitting<end_line />
+    for you, <player_nickname /><end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -580,10 +580,10 @@
   <portrait_l entry="player" eye="happy_blush" mouth="talk">
   <portrait_r entry="partner" eye="sad" mouth="talk">
   <sjis>
-    えへへ<end_line>
+    えへへ<end_line />
   </sjis>
   <ascii>
-    Ehehe.<end_line>
+    Ehehe.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -593,16 +593,16 @@
   <portrait_r entry="partner" eye="sad" mouth="talk">
   <male>
     <sjis>
-      そんなにほめるなよ～<end_line>
+      そんなにほめるなよ～<end_line />
     </sjis>
   </male>
   <female>
     <sjis>
-      そんなにほめないでよ～<end_line>
+      そんなにほめないでよ～<end_line />
     </sjis>
   </female>
   <ascii>
-    Don't praise me so much~<end_line>
+    Don't praise me so much~<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -611,10 +611,10 @@
   <portrait_l entry="player" eye="happy_blush" mouth="talk">
   <portrait_r entry="partner" eye="happy" mouth="tense">
   <sjis>
-    あまりほめてはいないですけど<end_line>
+    あまりほめてはいないですけど<end_line />
   </sjis>
   <ascii>
-    I'm really not, though.<end_line>
+    I'm really not, though.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -622,10 +622,10 @@
   <portrait_l entry="player" eye="happy_blush" mouth="talk">
   <portrait_r entry="murno" eye="serious" mouth="neutral">
   <sjis>
-    とにかく町に<end_line>
-    向かいましょう<end_line>
+    とにかく町に<end_line />
+    向かいましょう<end_line />
   </sjis>
   <ascii>
-    Anyway, let's head into town.<end_line>
+    Anyway, let's head into town.<end_line />
   </ascii>
 </dialogue>

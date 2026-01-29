@@ -2,10 +2,10 @@
 	<info box="left">
 	<portrait_l entry="player" eye="serious" mouth="neutral">
 	<sjis>
-		外に出ろって<three_dots><end_line>
+		外に出ろって<three_dots /><end_line />
 	</sjis>
   <ascii>
-    Step outside<three_dots>?<end_line>
+    Step outside<three_dots />?<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -13,16 +13,16 @@
 	<portrait_l entry="player" eye="serious" mouth="neutral">
 	<male>
 		<sjis>
-			なんなんだよ<three_dots><end_line>
+			なんなんだよ<three_dots /><end_line />
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			なんなのよ<three_dots><end_line>
+			なんなのよ<three_dots /><end_line />
 		</sjis>
 	</female>
   <ascii>
-    I wonder what he wants<three_dots><end_line>
+    I wonder what he wants<three_dots /><end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -32,22 +32,22 @@
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
 		<sjis>
-			あのおっちゃんに<end_line>
-			オレたちのウデを<end_line>
-			見せつけてやろうぜ！<end_line>
+			あのおっちゃんに<end_line />
+			オレたちのウデを<end_line />
+			見せつけてやろうぜ！<end_line />
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			あのおじさんに<end_line>
-			わたしたちのウデを<end_line>
-			見せつけよう！<end_line>
+			あのおじさんに<end_line />
+			わたしたちのウデを<end_line />
+			見せつけよう！<end_line />
 		</sjis>
 	</female>
   <ascii>
-    Let's show off our<end_line>
-    real strength to<end_line>
-    that old man!<end_line>
+    Let's show off our<end_line />
+    real strength to<end_line />
+    that old man!<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -56,12 +56,12 @@
 	<portrait_l entry="player" eye="decided" mouth="neutral">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<sjis>
-		イエ<end_line>
-		コノ隙ニ　脱出シマショウ！<end_line>
+		イエ<end_line />
+		コノ隙ニ　脱出シマショウ！<end_line />
 	</sjis>
   <ascii>
-    No, Let Us Use This<end_line>
-    Opportunity to Escape!<end_line>
+    No, Let Us Use This<end_line />
+    Opportunity to Escape!<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -70,12 +70,12 @@
 	<portrait_l entry="player" eye="serious" mouth="neutral">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<sjis>
-		って言われても<three_dots><end_line>
-		<partner>、それつけたままだと<end_line>
+		って言われても<three_dots /><end_line />
+		<partner />、それつけたままだと<end_line />
 	</sjis>
   <ascii>
-    That's great and all but<three_dots><end_line>
-    <partner>, you can't use magic with<end_line>
+    That's great and all but<three_dots /><end_line />
+    <partner />, you can't use magic with<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -85,16 +85,16 @@
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
 		<sjis>
-			魔法使えないんだろ？<end_line>
+			魔法使えないんだろ？<end_line />
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			魔法使えないんでしょ？<end_line>
+			魔法使えないんでしょ？<end_line />
 		</sjis>
 	</female>
   <ascii>
-    those bracelets on, right?<end_line>
+    those bracelets on, right?<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -103,12 +103,12 @@
 	<portrait_l entry="player" eye="serious" mouth="neutral">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<sjis>
-		<three_dots><end_line>
-		ソウデシタ<end_line>
+		<three_dots /><end_line />
+		ソウデシタ<end_line />
 	</sjis>
   <ascii>
-    <three_dots><end_line>
-    That Is Correct.<end_line>
+    <three_dots /><end_line />
+    That Is Correct.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -118,16 +118,16 @@
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
 		<sjis>
-			オレたちのウデを見せれば<end_line>
+			オレたちのウデを見せれば<end_line />
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			わたしたちのウデを見せれば<end_line>
+			わたしたちのウデを見せれば<end_line />
 		</sjis>
 	</female>
   <ascii>
-    If we show him what we can do,<end_line>
+    If we show him what we can do,<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -136,12 +136,12 @@
 	<portrait_l entry="player" eye="serious" mouth="neutral">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<sjis>
-		わかってもらえるだろうから<end_line>
-		とりあえず、がんばろう<end_line>
+		わかってもらえるだろうから<end_line />
+		とりあえず、がんばろう<end_line />
 	</sjis>
   <ascii>
-    I'm sure he'll understand.<end_line>
-    We just have to try.<end_line>
+    I'm sure he'll understand.<end_line />
+    We just have to try.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -151,22 +151,22 @@
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
 		<sjis>
-			あのおっちゃんに<end_line>
-			オレたちのウデを<end_line>
-			見せつけてやろうぜ！<end_line>
+			あのおっちゃんに<end_line />
+			オレたちのウデを<end_line />
+			見せつけてやろうぜ！<end_line />
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			あのおじさんに<end_line>
-			わたしたちのウデを<end_line>
-			見せつけよう！<end_line>
+			あのおじさんに<end_line />
+			わたしたちのウデを<end_line />
+			見せつけよう！<end_line />
 		</sjis>
 	</female>
   <ascii>
-    Let's show off our<end_line>
-    real strength to<end_line>
-    that old man!<end_line>
+    Let's show off our<end_line />
+    real strength to<end_line />
+    that old man!<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -175,14 +175,14 @@
 	<portrait_l entry="player" eye="decided" mouth="neutral">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<sjis>
-		<three_dots><end_line>
-		この隙に脱出するのも<end_line>
-		一つの手かもしれんのう<three_dots><end_line>
+		<three_dots /><end_line />
+		この隙に脱出するのも<end_line />
+		一つの手かもしれんのう<three_dots /><end_line />
 	</sjis>
   <ascii>
-    <three_dots><end_line>
-    We may also use this<end_line>
-    opportunity to escape<three_dots><end_line>
+    <three_dots /><end_line />
+    We may also use this<end_line />
+    opportunity to escape<three_dots /><end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -191,12 +191,12 @@
 	<portrait_l entry="player" eye="serious" mouth="neutral">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<sjis>
-		って言われても<three_dots><end_line>
-		<partner>、それつけたままだと<end_line>
+		って言われても<three_dots /><end_line />
+		<partner />、それつけたままだと<end_line />
 	</sjis>
   <ascii>
-    That's great and all but<three_dots><end_line>
-    <partner>, you can't use magic with<end_line>
+    That's great and all but<three_dots /><end_line />
+    <partner />, you can't use magic with<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -206,16 +206,16 @@
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
 		<sjis>
-			魔法使えないんだろ？<end_line>
+			魔法使えないんだろ？<end_line />
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			魔法使えないんでしょ？<end_line>
+			魔法使えないんでしょ？<end_line />
 		</sjis>
 	</female>
   <ascii>
-    those bracelets on, right?<end_line>
+    those bracelets on, right?<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -224,12 +224,12 @@
 	<portrait_l entry="player" eye="serious" mouth="neutral">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<sjis>
-		<three_dots>うむむ<end_line>
-		そうじゃった<end_line>
+		<three_dots />うむむ<end_line />
+		そうじゃった<end_line />
 	</sjis>
   <ascii>
-    <three_dots>Mm-mm.<end_line>
-    You're right.<end_line>
+    <three_dots />Mm-mm.<end_line />
+    You're right.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -239,16 +239,16 @@
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
 		<sjis>
-			オレたちのウデを見せれば<end_line>
+			オレたちのウデを見せれば<end_line />
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			わたしたちのウデを見せれば<end_line>
+			わたしたちのウデを見せれば<end_line />
 		</sjis>
 	</female>
   <ascii>
-    If we show him what we can do,<end_line>
+    If we show him what we can do,<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -257,12 +257,12 @@
 	<portrait_l entry="player" eye="serious" mouth="neutral">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<sjis>
-		わかってもらえるだろうから<end_line>
-		とりあえず、がんばろう<end_line>
+		わかってもらえるだろうから<end_line />
+		とりあえず、がんばろう<end_line />
 	</sjis>
   <ascii>
-    I'm sure he'll understand.<end_line>
-    We just have to try.<end_line>
+    I'm sure he'll understand.<end_line />
+    We just have to try.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -272,22 +272,22 @@
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
 		<sjis>
-			あのおっちゃんに<end_line>
-			オレたちのウデを<end_line>
-			見せつけてやろうぜ！<end_line>
+			あのおっちゃんに<end_line />
+			オレたちのウデを<end_line />
+			見せつけてやろうぜ！<end_line />
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			あのおじさんに<end_line>
-			わたしたちのウデを<end_line>
-			見せつけよう！<end_line>
+			あのおじさんに<end_line />
+			わたしたちのウデを<end_line />
+			見せつけよう！<end_line />
 		</sjis>
 	</female>
   <ascii>
-    Let's show off our<end_line>
-    real strength to<end_line>
-    that old man!<end_line>
+    Let's show off our<end_line />
+    real strength to<end_line />
+    that old man!<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -296,12 +296,12 @@
 	<portrait_l entry="player" eye="decided" mouth="neutral">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<sjis>
-		<three_dots>おい<end_line>
-		今のうちに逃げるぞ！<end_line>
+		<three_dots />おい<end_line />
+		今のうちに逃げるぞ！<end_line />
 	</sjis>
   <ascii>
-    <three_dots>Hey,<end_line>
-    we should be running!<end_line>
+    <three_dots />Hey,<end_line />
+    we should be running!<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -310,12 +310,12 @@
 	<portrait_l entry="player" eye="serious" mouth="neutral">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<sjis>
-		って言われても<three_dots><end_line>
-		<partner>、それつけたままだと<end_line>
+		って言われても<three_dots /><end_line />
+		<partner />、それつけたままだと<end_line />
 	</sjis>
   <ascii>
-    That's great and all but<three_dots><end_line>
-    <partner>, you can't use magic with<end_line>
+    That's great and all but<three_dots /><end_line />
+    <partner />, you can't use magic with<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -325,16 +325,16 @@
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
 		<sjis>
-			魔法使えないんだろ？<end_line>
+			魔法使えないんだろ？<end_line />
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			魔法使えないんでしょ？<end_line>
+			魔法使えないんでしょ？<end_line />
 		</sjis>
 	</female>
   <ascii>
-    those bracelets on, right?<end_line>
+    those bracelets on, right?<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -343,12 +343,12 @@
 	<portrait_l entry="player" eye="serious" mouth="neutral">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<sjis>
-		<three_dots>くっ<end_line>
-		いまいましい<three_dots><end_line>
+		<three_dots />くっ<end_line />
+		いまいましい<three_dots /><end_line />
 	</sjis>
   <ascii>
-    <three_dots>Ugh.<end_line>
-    How annoying<three_dots><end_line>
+    <three_dots />Ugh.<end_line />
+    How annoying<three_dots /><end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -358,16 +358,16 @@
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
 		<sjis>
-			オレたちのウデを見せれば<end_line>
+			オレたちのウデを見せれば<end_line />
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			わたしたちのウデを見せれば<end_line>
+			わたしたちのウデを見せれば<end_line />
 		</sjis>
 	</female>
   <ascii>
-    If we show him what we can do,<end_line>
+    If we show him what we can do,<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -376,12 +376,12 @@
 	<portrait_l entry="player" eye="serious" mouth="neutral">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<sjis>
-		わかってもらえるだろうから<end_line>
-		とりあえず、がんばろう<end_line>
+		わかってもらえるだろうから<end_line />
+		とりあえず、がんばろう<end_line />
 	</sjis>
   <ascii>
-    I'm sure he'll understand.<end_line>
-    We just have to try.<end_line>
+    I'm sure he'll understand.<end_line />
+    We just have to try.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -390,22 +390,22 @@
 	<portrait_l name="player">
 	<male>
 		<sjis>
-			あのおっちゃんに<end_line>
-			オレたちのウデを<end_line>
-			見せつけてやろうぜ！<end_line>
+			あのおっちゃんに<end_line />
+			オレたちのウデを<end_line />
+			見せつけてやろうぜ！<end_line />
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			あのおじさんに<end_line>
-			わたしたちのウデを<end_line>
-			見せつけよう！<end_line>
+			あのおじさんに<end_line />
+			わたしたちのウデを<end_line />
+			見せつけよう！<end_line />
 		</sjis>
 	</female>
   <ascii>
-    Let's show off our<end_line>
-    real strength to<end_line>
-    that old man!<end_line>
+    Let's show off our<end_line />
+    real strength to<end_line />
+    that old man!<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -413,12 +413,12 @@
 	<info box="right">
 	<portrait_r name="partner">
 	<sjis>
-		あの、今のうちに<end_line>
-		ここから逃げれないでしょうか？<end_line>
+		あの、今のうちに<end_line />
+		ここから逃げれないでしょうか？<end_line />
 	</sjis>
   <ascii>
-    Umm, are you sure we<end_line>
-    shouldn't be escaping right now?<end_line>
+    Umm, are you sure we<end_line />
+    shouldn't be escaping right now?<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -426,12 +426,12 @@
 	<info box="left">
 	<portrait_l name="player">
 	<sjis>
-		って言われても<three_dots><end_line>
-		<partner>、それつけたままだと<end_line>
+		って言われても<three_dots /><end_line />
+		<partner />、それつけたままだと<end_line />
 	</sjis>
   <ascii>
-    That's great and all but<three_dots><end_line>
-    <partner>, you can't use magic with<end_line>
+    That's great and all but<three_dots /><end_line />
+    <partner />, you can't use magic with<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -440,16 +440,16 @@
 	<portrait_l name="player">
 	<male>
 		<sjis>
-			魔法使えないんだろ？<end_line>
+			魔法使えないんだろ？<end_line />
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			魔法使えないんでしょ？<end_line>
+			魔法使えないんでしょ？<end_line />
 		</sjis>
 	</female>
   <ascii>
-    those bracelets on, right?<end_line>
+    those bracelets on, right?<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -457,10 +457,10 @@
 	<info box="right">
 	<portrait_r name="partner">
 	<sjis>
-		たしかに、そうでしたね<three_dots><end_line>
+		たしかに、そうでしたね<three_dots /><end_line />
 	</sjis>
   <ascii>
-    That is true<three_dots><end_line>
+    That is true<three_dots /><end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -469,16 +469,16 @@
 	<portrait_l name="player">
 	<male>
 		<sjis>
-			オレたちのウデを見せれば<end_line>
+			オレたちのウデを見せれば<end_line />
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			わたしたちのウデを見せれば<end_line>
+			わたしたちのウデを見せれば<end_line />
 		</sjis>
 	</female>
   <ascii>
-    If we show him what we can do,<end_line>
+    If we show him what we can do,<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -486,12 +486,12 @@
 	<info box="left">
 	<portrait_l name="player">
 	<sjis>
-		わかってもらえるだろうから<end_line>
-		とりあえず、がんばろう<end_line>
+		わかってもらえるだろうから<end_line />
+		とりあえず、がんばろう<end_line />
 	</sjis>
   <ascii>
-    I'm sure he'll understand.<end_line>
-    We just have to try.<end_line>
+    I'm sure he'll understand.<end_line />
+    We just have to try.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -500,12 +500,12 @@
 	<portrait_l entry="player" eye="serious" mouth="tense">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<sjis>
-		あれ<three_dots>？<end_line>
-		武器の種類って<three_dots><end_line>
+		あれ<three_dots />？<end_line />
+		武器の種類って<three_dots /><end_line />
 	</sjis>
   <ascii>
-    Huh<three_dots>?<end_line>
-    Weapon types<three_dots><end_line>
+    Huh<three_dots />?<end_line />
+    Weapon types<three_dots /><end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -515,16 +515,16 @@
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
 		<sjis>
-			いくつだっけ？<end_line>
+			いくつだっけ？<end_line />
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			いくつだったかな？<end_line>
+			いくつだったかな？<end_line />
 		</sjis>
 	</female>
   <ascii>
-    How many were there again?<end_line>
+    How many were there again?<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -533,14 +533,14 @@
 	<portrait_l entry="player" eye="serious" mouth="tense">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<sjis>
-		<three_dots><end_line>
-		はんまーハ　チャント<end_line>
-		数ニ入レテイマスカ？<end_line>
+		<three_dots /><end_line />
+		はんまーハ　チャント<end_line />
+		数ニ入レテイマスカ？<end_line />
 	</sjis>
   <ascii>
-    <three_dots><end_line>
-    Did You Remember To<end_line>
-    Include Your Hammer?<end_line>
+    <three_dots /><end_line />
+    Did You Remember To<end_line />
+    Include Your Hammer?<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -549,10 +549,10 @@
 	<portrait_l entry="player" eye="surprised" mouth="serious">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<sjis>
-		ハンマー<three_dots><end_line>
+		ハンマー<three_dots /><end_line />
 	</sjis>
   <ascii>
-    Right, the hammer<three_dots><end_line>
+    Right, the hammer<three_dots /><end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -562,16 +562,16 @@
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
 		<sjis>
-			わ、忘れるわけないだろー？<end_line>
+			わ、忘れるわけないだろー？<end_line />
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			わ、忘れてたわけじゃないよ？<end_line>
+			わ、忘れてたわけじゃないよ？<end_line />
 		</sjis>
 	</female>
   <ascii>
-    I-I mean, of course not!<end_line>
+    I-I mean, of course not!<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -580,71 +580,20 @@
 	<portrait_l entry="player" eye="decided" mouth="tense">
 	<portrait_r entry="partner" eye="sad" mouth="neutral">
 	<sjis>
-		<three_dots><end_line>
+		<three_dots /><end_line />
 	</sjis>
   <ascii>
-    <three_dots><end_line>
+    <three_dots /><end_line />
   </ascii>
 </dialogue>
 <dialogue>
 	<info box="left">
 	<portrait_l name="player">
 	<sjis>
-		ソードとアクスとナックルって<end_line>
+		ソードとアクスとナックルって<end_line />
 	</sjis>
   <ascii>
-    Swords, axes, and knuckles<three_dots><end_line>
-  </ascii>
-</dialogue>
-<dialogue>
-	<info box="left">
-	<portrait_l name="player">
-	<male>
-		<sjis>
-			どれが重かった？<end_line>
-		</sjis>
-	</male>
-	<female>
-		<sjis>
-			どれが重かったかな？<end_line>
-		</sjis>
-	</female>
-  <ascii>
-    Which one is the heaviest?<end_line>
-  </ascii>
-</dialogue>
-<dialogue>
-	<info box="right">
-	<portrait_r name="partner">
-	<sjis>
-		ソノ３種類ノ武器　でーたニ　関シテハ<end_line>
-		見タ目カラデモ　判断デキルト<end_line>
-		思ワレマス<end_line>
-	</sjis>
-  <ascii>
-    From Those Three,<end_line>
-    You Are Able To Determine The<end_line>
-    Answer From Their Appearance.<end_line>
-  </ascii>
-</dialogue>
-<dialogue>
-	<info box="left">
-	<portrait_l name="player">
-	<sjis>
-		ああ、なるほど<end_line>
-	</sjis>
-  <ascii>
-    Ahh, right.<end_line>
-  </ascii>
-</dialogue>
-<dialogue>
-	<info box="left">
-	<portrait_l name="player">
-	<sjis>
-		武器作製で最も大切なものって<end_line>
-	</sjis>
-  <ascii>
-    The most vital thing in crafting.<end_line>
+    Swords, axes, and knuckles<three_dots /><end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -652,40 +601,50 @@
 	<portrait_l name="player">
 	<male>
 		<sjis>
-			なんだった？<end_line>
+			どれが重かった？<end_line />
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			なんだったかな？<end_line>
+			どれが重かったかな？<end_line />
 		</sjis>
 	</female>
   <ascii>
-    I wonder what it is?<end_line>
+    Which one is the heaviest?<end_line />
   </ascii>
 </dialogue>
 <dialogue>
 	<info box="right">
 	<portrait_r name="partner">
 	<sjis>
-		ソレハ　私ガ答エラレル<end_line>
-		内容デハ　アリマセン<end_line>
+		ソノ３種類ノ武器　でーたニ　関シテハ<end_line />
+		見タ目カラデモ　判断デキルト<end_line />
+		思ワレマス<end_line />
 	</sjis>
   <ascii>
-    That Is Not a Question<end_line>
-    I Am Able To Answer.<end_line>
+    From Those Three,<end_line />
+    You Are Able To Determine The<end_line />
+    Answer From Their Appearance.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="right">
-	<portrait_r name="partner">
+	<info box="left">
+	<portrait_l name="player">
 	<sjis>
-		アナタ自身デ　考エル<end_line>
-		ベキカト　判断シマス<end_line>
+		ああ、なるほど<end_line />
 	</sjis>
   <ascii>
-    You Must Come Up With<end_line>
-    Your Own Solution.<end_line>
+    Ahh, right.<end_line />
+  </ascii>
+</dialogue>
+<dialogue>
+	<info box="left">
+	<portrait_l name="player">
+	<sjis>
+		武器作製で最も大切なものって<end_line />
+	</sjis>
+  <ascii>
+    The most vital thing in crafting.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -693,29 +652,70 @@
 	<portrait_l name="player">
 	<male>
 		<sjis>
-			そうだな<three_dots><end_line>
-			これは自分自身で答える問題だな<end_line>
+			なんだった？<end_line />
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			そうだね<three_dots><end_line>
-			これは自分自身で答える問題よね<end_line>
+			なんだったかな？<end_line />
 		</sjis>
 	</female>
   <ascii>
-    You're right<three_dots><end_line>
-    I'll have to think about it.<end_line>
+    I wonder what it is?<end_line />
   </ascii>
 </dialogue>
 <dialogue>
 	<info box="right">
 	<portrait_r name="partner">
 	<sjis>
-		期待シテイマス<end_line>
+		ソレハ　私ガ答エラレル<end_line />
+		内容デハ　アリマセン<end_line />
 	</sjis>
   <ascii>
-    I Am Anticipating Your Response.<end_line>
+    That Is Not a Question<end_line />
+    I Am Able To Answer.<end_line />
+  </ascii>
+</dialogue>
+<dialogue>
+	<info box="right">
+	<portrait_r name="partner">
+	<sjis>
+		アナタ自身デ　考エル<end_line />
+		ベキカト　判断シマス<end_line />
+	</sjis>
+  <ascii>
+    You Must Come Up With<end_line />
+    Your Own Solution.<end_line />
+  </ascii>
+</dialogue>
+<dialogue>
+	<info box="left">
+	<portrait_l name="player">
+	<male>
+		<sjis>
+			そうだな<three_dots /><end_line />
+			これは自分自身で答える問題だな<end_line />
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			そうだね<three_dots /><end_line />
+			これは自分自身で答える問題よね<end_line />
+		</sjis>
+	</female>
+  <ascii>
+    You're right<three_dots /><end_line />
+    I'll have to think about it.<end_line />
+  </ascii>
+</dialogue>
+<dialogue>
+	<info box="right">
+	<portrait_r name="partner">
+	<sjis>
+		期待シテイマス<end_line />
+	</sjis>
+  <ascii>
+    I Am Anticipating Your Response.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -724,12 +724,12 @@
 	<portrait_l entry="player" eye="serious" mouth="tense">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<sjis>
-		あれ<three_dots>？<end_line>
-		武器の種類って<three_dots><end_line>
+		あれ<three_dots />？<end_line />
+		武器の種類って<three_dots /><end_line />
 	</sjis>
   <ascii>
-    Huh<three_dots>?<end_line>
-    Weapon types<three_dots><end_line>
+    Huh<three_dots />?<end_line />
+    Weapon types<three_dots /><end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -739,16 +739,16 @@
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
 		<sjis>
-			いくつだっけ？<end_line>
+			いくつだっけ？<end_line />
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			いくつだったかな？<end_line>
+			いくつだったかな？<end_line />
 		</sjis>
 	</female>
   <ascii>
-    How many were there again?<end_line>
+    How many were there again?<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -757,12 +757,12 @@
 	<portrait_l entry="player" eye="serious" mouth="tense">
 	<portrait_r entry="partner" eye="sad" mouth="serious">
 	<sjis>
-		なんじゃと？<end_line>
-		ちゃんと数えたのか！？<end_line>
+		なんじゃと？<end_line />
+		ちゃんと数えたのか！？<end_line />
 	</sjis>
   <ascii>
-    Are you serious?<end_line>
-    Can you count!?<end_line>
+    Are you serious?<end_line />
+    Can you count!?<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -771,14 +771,14 @@
 	<portrait_l entry="player" eye="serious" mouth="tense">
 	<portrait_r entry="partner" eye="sad" mouth="tense">
 	<sjis>
-		ギャラハン殿も言っておったから<end_line>
-		よもやハンマーを忘れてはおらぬと<end_line>
-		思うが<three_dots><end_line>
+		ギャラハン殿も言っておったから<end_line />
+		よもやハンマーを忘れてはおらぬと<end_line />
+		思うが<three_dots /><end_line />
 	</sjis>
   <ascii>
-    Gallahan already mentioned it,<end_line>
-    so I'm sure you would not have<end_line>
-    forgotten your hammer<end_line>
+    Gallahan already mentioned it,<end_line />
+    so I'm sure you would not have<end_line />
+    forgotten your hammer<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -787,10 +787,10 @@
 	<portrait_l entry="player" eye="surprised" mouth="serious">
 	<portrait_r entry="partner" eye="sad" mouth="tense">
 	<sjis>
-		ハンマー<three_dots><end_line>
+		ハンマー<three_dots /><end_line />
 	</sjis>
   <ascii>
-    Right, the hammer<three_dots><end_line>
+    Right, the hammer<three_dots /><end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -800,16 +800,16 @@
 	<portrait_r entry="partner" eye="sad" mouth="tense">
 	<male>
 		<sjis>
-			わ、忘れるわけないだろー？<end_line>
+			わ、忘れるわけないだろー？<end_line />
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			わ、忘れてたわけじゃないよ？<end_line>
+			わ、忘れてたわけじゃないよ？<end_line />
 		</sjis>
 	</female>
   <ascii>
-    I-I mean, of course not!<end_line>
+    I-I mean, of course not!<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -818,71 +818,20 @@
 	<portrait_l entry="player" eye="decided" mouth="tense">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<sjis>
-		やれやれ<three_dots>、世話がやけるのぉ<end_line>
+		やれやれ<three_dots />、世話がやけるのぉ<end_line />
 	</sjis>
   <ascii>
-    My goodness<three_dots> How troublesome.<end_line>
+    My goodness<three_dots /> How troublesome.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
 	<info box="left">
 	<portrait_l name="player">
 	<sjis>
-		ソードとアクスとナックルって<end_line>
+		ソードとアクスとナックルって<end_line />
 	</sjis>
   <ascii>
-    Swords, axes, and knuckles<three_dots><end_line>
-  </ascii>
-</dialogue>
-<dialogue>
-	<info box="left">
-	<portrait_l name="player">
-	<male>
-		<sjis>
-			どれが重かった？<end_line>
-		</sjis>
-	</male>
-	<female>
-		<sjis>
-			どれが重かったかな？<end_line>
-		</sjis>
-	</female>
-  <ascii>
-    Which one is the heaviest?<end_line>
-  </ascii>
-</dialogue>
-<dialogue>
-	<info box="right">
-	<portrait_r name="partner">
-	<sjis>
-		なんじゃ<three_dots>？<end_line>
-		その３種類であれば見た目からでも<end_line>
-		判断はできるであろう？<end_line>
-	</sjis>
-  <ascii>
-    What<three_dots>?<end_line>
-    It should be obvious by simply<end_line>
-    looking at them, is it not?<end_line>
-  </ascii>
-</dialogue>
-<dialogue>
-	<info box="left">
-	<portrait_l name="player">
-	<sjis>
-		ああ、そういえば<three_dots><end_line>
-	</sjis>
-  <ascii>
-    Ahh, now that I think about it<three_dots><end_line>
-  </ascii>
-</dialogue>
-<dialogue>
-	<info box="left">
-	<portrait_l name="player">
-	<sjis>
-		武器作製で最も大切なものって<end_line>
-	</sjis>
-  <ascii>
-    The most vital thing in crafting.<end_line>
+    Swords, axes, and knuckles<three_dots /><end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -890,42 +839,50 @@
 	<portrait_l name="player">
 	<male>
 		<sjis>
-			なんだった？<end_line>
+			どれが重かった？<end_line />
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			なんだったかな？<end_line>
+			どれが重かったかな？<end_line />
 		</sjis>
 	</female>
   <ascii>
-    I wonder what it is?<end_line>
+    Which one is the heaviest?<end_line />
   </ascii>
 </dialogue>
 <dialogue>
 	<info box="right">
 	<portrait_r name="partner">
 	<sjis>
-		悪いがこの問題は<end_line>
-		ワシが答えても<end_line>
-		仕方ないな<end_line>
+		なんじゃ<three_dots />？<end_line />
+		その３種類であれば見た目からでも<end_line />
+		判断はできるであろう？<end_line />
 	</sjis>
   <ascii>
-    My apologies,<end_line>
-    but I cannot answer<end_line>
-    that for you.<end_line>
+    What<three_dots />?<end_line />
+    It should be obvious by simply<end_line />
+    looking at them, is it not?<end_line />
   </ascii>
 </dialogue>
 <dialogue>
-	<info box="right">
-	<portrait_r name="partner">
+	<info box="left">
+	<portrait_l name="player">
 	<sjis>
-		おぬし自身で<end_line>
-		答えを導き出すのじゃ<end_line>
+		ああ、そういえば<three_dots /><end_line />
 	</sjis>
   <ascii>
-    You yourself must<end_line>
-    derive the answer.<end_line>
+    Ahh, now that I think about it<three_dots /><end_line />
+  </ascii>
+</dialogue>
+<dialogue>
+	<info box="left">
+	<portrait_l name="player">
+	<sjis>
+		武器作製で最も大切なものって<end_line />
+	</sjis>
+  <ascii>
+    The most vital thing in crafting.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -933,29 +890,72 @@
 	<portrait_l name="player">
 	<male>
 		<sjis>
-			そうだな<three_dots><end_line>
-			これは自分自身で答える問題だな<end_line>
+			なんだった？<end_line />
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			そうだね<three_dots><end_line>
-			これは自分自身で答える問題よね<end_line>
+			なんだったかな？<end_line />
 		</sjis>
 	</female>
   <ascii>
-    You're right<three_dots><end_line>
-    I'll have to think about it.<end_line>
+    I wonder what it is?<end_line />
   </ascii>
 </dialogue>
 <dialogue>
 	<info box="right">
 	<portrait_r name="partner">
 	<sjis>
-		期待しておるぞ<end_line>
+		悪いがこの問題は<end_line />
+		ワシが答えても<end_line />
+		仕方ないな<end_line />
 	</sjis>
   <ascii>
-    I look forward to your response.<end_line>
+    My apologies,<end_line />
+    but I cannot answer<end_line />
+    that for you.<end_line />
+  </ascii>
+</dialogue>
+<dialogue>
+	<info box="right">
+	<portrait_r name="partner">
+	<sjis>
+		おぬし自身で<end_line />
+		答えを導き出すのじゃ<end_line />
+	</sjis>
+  <ascii>
+    You yourself must<end_line />
+    derive the answer.<end_line />
+  </ascii>
+</dialogue>
+<dialogue>
+	<info box="left">
+	<portrait_l name="player">
+	<male>
+		<sjis>
+			そうだな<three_dots /><end_line />
+			これは自分自身で答える問題だな<end_line />
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			そうだね<three_dots /><end_line />
+			これは自分自身で答える問題よね<end_line />
+		</sjis>
+	</female>
+  <ascii>
+    You're right<three_dots /><end_line />
+    I'll have to think about it.<end_line />
+  </ascii>
+</dialogue>
+<dialogue>
+	<info box="right">
+	<portrait_r name="partner">
+	<sjis>
+		期待しておるぞ<end_line />
+	</sjis>
+  <ascii>
+    I look forward to your response.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -964,12 +964,12 @@
 	<portrait_l entry="player" eye="serious" mouth="tense">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<sjis>
-		あれ<three_dots>？<end_line>
-		武器の種類って<three_dots><end_line>
+		あれ<three_dots />？<end_line />
+		武器の種類って<three_dots /><end_line />
 	</sjis>
   <ascii>
-    Huh<three_dots>?<end_line>
-    Weapon types<three_dots><end_line>
+    Huh<three_dots />?<end_line />
+    Weapon types<three_dots /><end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -979,16 +979,16 @@
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
 		<sjis>
-			いくつだっけ？<end_line>
+			いくつだっけ？<end_line />
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			いくつだったかな？<end_line>
+			いくつだったかな？<end_line />
 		</sjis>
 	</female>
   <ascii>
-    How many were there again?<end_line>
+    How many were there again?<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -997,14 +997,14 @@
 	<portrait_l entry="player" eye="serious" mouth="tense">
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<sjis>
-		ちっ<three_dots><end_line>
-		そんなことは自分で<end_line>
-		何とかしろ<end_line>
+		ちっ<three_dots /><end_line />
+		そんなことは自分で<end_line />
+		何とかしろ<end_line />
 	</sjis>
   <ascii>
-    Tch<three_dots><end_line>
-    You can figure it<end_line>
-    out yourself.<end_line>
+    Tch<three_dots /><end_line />
+    You can figure it<end_line />
+    out yourself.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -1014,22 +1014,22 @@
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<male>
 		<sjis>
-			わかったよ<three_dots><end_line>
-			え～っと、おっちゃんも言ってた通り<end_line>
-			ハンマーを入れると<three_dots><end_line>
+			わかったよ<three_dots /><end_line />
+			え～っと、おっちゃんも言ってた通り<end_line />
+			ハンマーを入れると<three_dots /><end_line />
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			わかったわよ<three_dots><end_line>
-			え～っと、おじさんも言ってた通り<end_line>
-			ハンマーを入れると<three_dots><end_line>
+			わかったわよ<three_dots /><end_line />
+			え～っと、おじさんも言ってた通り<end_line />
+			ハンマーを入れると<three_dots /><end_line />
 		</sjis>
 	</female>
   <ascii>
-    I know<three_dots><end_line>
-    Umm, so if I include my hammer<end_line>
-    like he said<three_dots><end_line>
+    I know<three_dots /><end_line />
+    Umm, so if I include my hammer<end_line />
+    like he said<three_dots /><end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -1038,20 +1038,20 @@
 	<portrait_l entry="player" eye="decided" mouth="tense">
 	<portrait_r entry="partner" eye="sad" mouth="neutral">
 	<sjis>
-		やれやれ<three_dots><end_line>
+		やれやれ<three_dots /><end_line />
 	</sjis>
   <ascii>
-    You're hopeless<three_dots><end_line>
+    You're hopeless<three_dots /><end_line />
   </ascii>
 </dialogue>
 <dialogue>
 	<info box="left">
 	<portrait_l name="player">
 	<sjis>
-		ソードとアクスとナックルって<end_line>
+		ソードとアクスとナックルって<end_line />
 	</sjis>
   <ascii>
-    Swords, axes, and knuckles<three_dots><end_line>
+    Swords, axes, and knuckles<three_dots /><end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -1059,30 +1059,30 @@
 	<portrait_l name="player">
 	<male>
 		<sjis>
-			どれが重かった？<end_line>
+			どれが重かった？<end_line />
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			どれが重かったかな？<end_line>
+			どれが重かったかな？<end_line />
 		</sjis>
 	</female>
   <ascii>
-    Which one is the heaviest?<end_line>
+    Which one is the heaviest?<end_line />
   </ascii>
 </dialogue>
 <dialogue>
 	<info box="right">
 	<portrait_r name="partner">
 	<sjis>
-		ちっ<three_dots><end_line>
-		そんなことは自分で<end_line>
-		何とかしろ<end_line>
+		ちっ<three_dots /><end_line />
+		そんなことは自分で<end_line />
+		何とかしろ<end_line />
 	</sjis>
   <ascii>
-    Tch<three_dots><end_line>
-    You can figure it<end_line>
-    out yourself.<end_line>
+    Tch<three_dots /><end_line />
+    You can figure it<end_line />
+    out yourself.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -1090,32 +1090,32 @@
 	<portrait_l name="player">
 	<male>
 		<sjis>
-			わかったよ<three_dots><end_line>
-			え～っと、こういう時は見た目の<end_line>
-			大きさから考えてみるかな<three_dots><end_line>
+			わかったよ<three_dots /><end_line />
+			え～っと、こういう時は見た目の<end_line />
+			大きさから考えてみるかな<three_dots /><end_line />
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			わかったわよ<three_dots><end_line>
-			え～っと、こういう時は見た目の<end_line>
-			大きさから考えてみようかな<three_dots><end_line>
+			わかったわよ<three_dots /><end_line />
+			え～っと、こういう時は見た目の<end_line />
+			大きさから考えてみようかな<three_dots /><end_line />
 		</sjis>
 	</female>
   <ascii>
-    I know<three_dots><end_line>
-    Umm, maybe I can just look<end_line>
-    at them and find out that way<three_dots><end_line>
+    I know<three_dots /><end_line />
+    Umm, maybe I can just look<end_line />
+    at them and find out that way<three_dots /><end_line />
   </ascii>
 </dialogue>
 <dialogue>
 	<info box="left">
 	<portrait_l name="player">
 	<sjis>
-		武器作製で最も大切なものって<end_line>
+		武器作製で最も大切なものって<end_line />
 	</sjis>
   <ascii>
-    The most vital thing in crafting.<end_line>
+    The most vital thing in crafting.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -1123,30 +1123,30 @@
 	<portrait_l name="player">
 	<male>
 		<sjis>
-			なんだった？<end_line>
+			なんだった？<end_line />
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			なんだったかな？<end_line>
+			なんだったかな？<end_line />
 		</sjis>
 	</female>
   <ascii>
-    I wonder what it is?<end_line>
+    I wonder what it is?<end_line />
   </ascii>
 </dialogue>
 <dialogue>
 	<info box="right">
 	<portrait_r name="partner">
 	<sjis>
-		そんな問題を<end_line>
-		私に聞いてどうするんだ？<end_line>
-		自分で何とかしろ！<end_line>
+		そんな問題を<end_line />
+		私に聞いてどうするんだ？<end_line />
+		自分で何とかしろ！<end_line />
 	</sjis>
   <ascii>
-    You're seriously going<end_line>
-    ask me again?<end_line>
-    Figure it out yourself!<end_line>
+    You're seriously going<end_line />
+    ask me again?<end_line />
+    Figure it out yourself!<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -1154,29 +1154,29 @@
 	<portrait_l name="player">
 	<male>
 		<sjis>
-			そうだな<three_dots><end_line>
-			これは自分自身で答える問題だな<end_line>
+			そうだな<three_dots /><end_line />
+			これは自分自身で答える問題だな<end_line />
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			そうだね<three_dots><end_line>
-			これは自分自身で答える問題よね<end_line>
+			そうだね<three_dots /><end_line />
+			これは自分自身で答える問題よね<end_line />
 		</sjis>
 	</female>
   <ascii>
-    You're right<three_dots><end_line>
-    This one I have to answer myself.<end_line>
+    You're right<three_dots /><end_line />
+    This one I have to answer myself.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
 	<info box="right">
 	<portrait_r name="partner">
 	<sjis>
-		やれやれだ<three_dots><end_line>
+		やれやれだ<three_dots /><end_line />
 	</sjis>
   <ascii>
-    Give me a break<three_dots><end_line>
+    Give me a break<three_dots /><end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -1184,56 +1184,12 @@
 	<info box="left">
 	<portrait_l name="player">
 	<sjis>
-		あれ<three_dots>？<end_line>
-		武器の種類って<three_dots><end_line>
+		あれ<three_dots />？<end_line />
+		武器の種類って<three_dots /><end_line />
 	</sjis>
   <ascii>
-    Huh<three_dots>?<end_line>
-    Weapon types<three_dots><end_line>
-  </ascii>
-</dialogue>
-<dialogue>
-	<partner name="rufeel">
-	<info box="left">
-	<portrait_l name="player">
-	<male>
-		<sjis>
-			いくつだっけ？<end_line>
-		</sjis>
-	</male>
-	<female>
-		<sjis>
-			いくつだったかな？<end_line>
-		</sjis>
-	</female>
-  <ascii>
-    How many were there again?<end_line>
-  </ascii>
-</dialogue>
-<dialogue>
-	<partner name="rufeel">
-	<info box="right">
-	<portrait_r name="partner">
-	<sjis>
-		ギャラハンさんも言ってましたから<end_line>
-		ハンマーを忘れるようなことは<end_line>
-		ありませんわね<three_dots>？<end_line>
-	</sjis>
-  <ascii>
-    Gallahan mentioned to include<end_line>
-    you hammer in that number.<end_line>
-    You haven't forgotten, have you?<end_line>
-  </ascii>
-</dialogue>
-<dialogue>
-	<partner name="rufeel">
-	<info box="left">
-	<portrait_l name="player">
-	<sjis>
-		ハンマー<three_dots><end_line>
-	</sjis>
-  <ascii>
-    Right, the hammer<three_dots><end_line>
+    Huh<three_dots />?<end_line />
+    Weapon types<three_dots /><end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -1242,17 +1198,16 @@
 	<portrait_l name="player">
 	<male>
 		<sjis>
-			わ、忘れるわけないだろー？<end_line>
+			いくつだっけ？<end_line />
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			や、やだなぁ<end_line>
-			忘れるわけないでしょー？<end_line>
+			いくつだったかな？<end_line />
 		</sjis>
 	</female>
   <ascii>
-    I-I mean, of course not!<end_line>
+    How many were there again?<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -1260,20 +1215,65 @@
 	<info box="right">
 	<portrait_r name="partner">
 	<sjis>
-		忘れてたんですね<three_dots><end_line>
+		ギャラハンさんも言ってましたから<end_line />
+		ハンマーを忘れるようなことは<end_line />
+		ありませんわね<three_dots />？<end_line />
 	</sjis>
   <ascii>
-    So you did<three_dots><end_line>
+    Gallahan mentioned to include<end_line />
+    you hammer in that number.<end_line />
+    You haven't forgotten, have you?<end_line />
+  </ascii>
+</dialogue>
+<dialogue>
+	<partner name="rufeel">
+	<info box="left">
+	<portrait_l name="player">
+	<sjis>
+		ハンマー<three_dots /><end_line />
+	</sjis>
+  <ascii>
+    Right, the hammer<three_dots /><end_line />
+  </ascii>
+</dialogue>
+<dialogue>
+	<partner name="rufeel">
+	<info box="left">
+	<portrait_l name="player">
+	<male>
+		<sjis>
+			わ、忘れるわけないだろー？<end_line />
+		</sjis>
+	</male>
+	<female>
+		<sjis>
+			や、やだなぁ<end_line />
+			忘れるわけないでしょー？<end_line />
+		</sjis>
+	</female>
+  <ascii>
+    I-I mean, of course not!<end_line />
+  </ascii>
+</dialogue>
+<dialogue>
+	<partner name="rufeel">
+	<info box="right">
+	<portrait_r name="partner">
+	<sjis>
+		忘れてたんですね<three_dots /><end_line />
+	</sjis>
+  <ascii>
+    So you did<three_dots /><end_line />
   </ascii>
 </dialogue>
 <dialogue>
 	<info box="left">
 	<portrait_l name="player">
 	<sjis>
-		ソードとアクスとナックルって<end_line>
+		ソードとアクスとナックルって<end_line />
 	</sjis>
   <ascii>
-    Swords, axes, and knuckles<three_dots><end_line>
+    Swords, axes, and knuckles<three_dots /><end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -1281,50 +1281,50 @@
 	<portrait_l name="player">
 	<male>
 		<sjis>
-			どれが重かった？<end_line>
+			どれが重かった？<end_line />
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			どれが重かったかな？<end_line>
+			どれが重かったかな？<end_line />
 		</sjis>
 	</female>
   <ascii>
-    Which one is the heaviest?<end_line>
+    Which one is the heaviest?<end_line />
   </ascii>
 </dialogue>
 <dialogue>
 	<info box="right">
 	<portrait_r name="partner">
 	<sjis>
-		どれって<three_dots><end_line>
-		その３種類なら見た目からでも<end_line>
-		わかると思いますよ<end_line>
+		どれって<three_dots /><end_line />
+		その３種類なら見た目からでも<end_line />
+		わかると思いますよ<end_line />
 	</sjis>
   <ascii>
-    Which one<three_dots><end_line>
-    I think you should be able to<end_line>
-    tell simply by looking at them.<end_line>
+    Which one<three_dots /><end_line />
+    I think you should be able to<end_line />
+    tell simply by looking at them.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
 	<info box="left">
 	<portrait_l name="player">
 	<sjis>
-		ああ、なるほど<end_line>
+		ああ、なるほど<end_line />
 	</sjis>
   <ascii>
-    Ahh, now that I think about it<three_dots><end_line>
+    Ahh, now that I think about it<three_dots /><end_line />
   </ascii>
 </dialogue>
 <dialogue>
 	<info box="left">
 	<portrait_l name="player">
 	<sjis>
-		武器作製で最も大切なものって<end_line>
+		武器作製で最も大切なものって<end_line />
 	</sjis>
   <ascii>
-    The most vital thing in crafting.<end_line>
+    The most vital thing in crafting.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -1332,42 +1332,42 @@
 	<portrait_l name="player">
 	<male>
 		<sjis>
-			なんだった？<end_line>
+			なんだった？<end_line />
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			なんだったかな？<end_line>
+			なんだったかな？<end_line />
 		</sjis>
 	</female>
   <ascii>
-    I wonder what it is?<end_line>
+    I wonder what it is?<end_line />
   </ascii>
 </dialogue>
 <dialogue>
 	<info box="right">
 	<portrait_r name="partner">
 	<sjis>
-		<player_nickname>さん<end_line>
-		鍛冶師なら、この問題は<end_line>
-		ひとに聞いちゃダメですわ<end_line>
+		<player_nickname />さん<end_line />
+		鍛冶師なら、この問題は<end_line />
+		ひとに聞いちゃダメですわ<end_line />
 	</sjis>
   <ascii>
-    <player_nickname>,<end_line>
-    a Craftknight should not ask<end_line>
-    others for that answer.<end_line>
+    <player_nickname />,<end_line />
+    a Craftknight should not ask<end_line />
+    others for that answer.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
 	<info box="right">
 	<portrait_r name="partner">
 	<sjis>
-		あなた自身で<end_line>
-		答えを導き出すべきです！<end_line>
+		あなた自身で<end_line />
+		答えを導き出すべきです！<end_line />
 	</sjis>
   <ascii>
-    You must find<end_line>
-    the answer within yourself!<end_line>
+    You must find<end_line />
+    the answer within yourself!<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -1375,29 +1375,29 @@
 	<portrait_l name="player">
 	<male>
 		<sjis>
-			そうだな<three_dots><end_line>
-			これは自分自身で答える問題だな<end_line>
+			そうだな<three_dots /><end_line />
+			これは自分自身で答える問題だな<end_line />
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			そうだね<three_dots><end_line>
-			これは自分自身で答える問題よね<end_line>
+			そうだね<three_dots /><end_line />
+			これは自分自身で答える問題よね<end_line />
 		</sjis>
 	</female>
   <ascii>
-    You're right<three_dots><end_line>
-    I'll have to think about it.<end_line>
+    You're right<three_dots /><end_line />
+    I'll have to think about it.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
 	<info box="right">
 	<portrait_r name="partner">
 	<sjis>
-		期待していますわ<end_line>
+		期待していますわ<end_line />
 	</sjis>
   <ascii>
-    I look forward to your response.<end_line>
+    I look forward to your response.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -1407,22 +1407,22 @@
 	<portrait_r entry="partner" eye="serious" mouth="serious">
 	<male>
 		<sjis>
-			よっし！<end_line>
-			この武器をちゃんと修理して<end_line>
-			鍛冶師だってみとめさせるぜ！<end_line>
+			よっし！<end_line />
+			この武器をちゃんと修理して<end_line />
+			鍛冶師だってみとめさせるぜ！<end_line />
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			よーし！<end_line>
-			この武器をちゃんと修理して<end_line>
-			鍛冶師だってみとめさせるんだから！<end_line>
+			よーし！<end_line />
+			この武器をちゃんと修理して<end_line />
+			鍛冶師だってみとめさせるんだから！<end_line />
 		</sjis>
 	</female>
   <ascii>
-    Alright!<end_line>
-    Now all that's left is<end_line>
-    to repair this weapon!<end_line>
+    Alright!<end_line />
+    Now all that's left is<end_line />
+    to repair this weapon!<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -1431,14 +1431,14 @@
 	<portrait_l entry="player" eye="decided" mouth="neutral">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<sjis>
-		ソウデスネ<end_line>
-		現在ノ装備デハ　ぎゃらはんサンノ<end_line>
-		撃退ハ　ムズカシイト思ワレマス<end_line>
+		ソウデスネ<end_line />
+		現在ノ装備デハ　ぎゃらはんサンノ<end_line />
+		撃退ハ　ムズカシイト思ワレマス<end_line />
 	</sjis>
   <ascii>
-    Correct. With Our Current<end_line>
-    Equipment, Defeating Gallahan<end_line>
-    Would Be Difficult.<end_line>
+    Correct. With Our Current<end_line />
+    Equipment, Defeating Gallahan<end_line />
+    Would Be Difficult.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -1447,12 +1447,12 @@
 	<portrait_l entry="player" eye="happy" mouth="serious">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<sjis>
-		あんましコワイことは<end_line>
-		考えないように！<end_line>
+		あんましコワイことは<end_line />
+		考えないように！<end_line />
 	</sjis> 
   <ascii>
-    Please stop thinking<end_line>
-    about things like that!<end_line>
+    Please stop thinking<end_line />
+    about things like that!<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -1462,22 +1462,22 @@
 	<portrait_r entry="partner" eye="serious" mouth="serious">
 	<male>
 		<sjis>
-			よっし！<end_line>
-			この武器をちゃんと修理して<end_line>
-			鍛冶師だってみとめさせるぜ！<end_line>
+			よっし！<end_line />
+			この武器をちゃんと修理して<end_line />
+			鍛冶師だってみとめさせるぜ！<end_line />
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			よーし！<end_line>
-			この武器をちゃんと修理して<end_line>
-			鍛冶師だってみとめさせるんだから！<end_line>
+			よーし！<end_line />
+			この武器をちゃんと修理して<end_line />
+			鍛冶師だってみとめさせるんだから！<end_line />
 		</sjis>
 	</female>
   <ascii>
-    Alright!<end_line>
-    Now all that's left is<end_line>
-    to repair this weapon!<end_line>
+    Alright!<end_line />
+    Now all that's left is<end_line />
+    to repair this weapon!<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -1486,14 +1486,14 @@
 	<portrait_l entry="player" eye="decided" mouth="neutral">
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<sjis>
-		そうじゃのう<three_dots><end_line>
-		鍛冶師としてはそれが正しい<end_line>
-		実力行使の仕方かもしれんのう<three_dots><end_line>
+		そうじゃのう<three_dots /><end_line />
+		鍛冶師としてはそれが正しい<end_line />
+		実力行使の仕方かもしれんのう<three_dots /><end_line />
 	</sjis>
   <ascii>
-    Yes<three_dots><end_line>
-    That is our way. We must be<end_line>
-    ready if it comes to blows<three_dots><end_line>
+    Yes<three_dots /><end_line />
+    That is our way. We must be<end_line />
+    ready if it comes to blows<three_dots /><end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -1502,14 +1502,14 @@
 	<portrait_l entry="player" eye="decided" mouth="tense">
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<sjis>
-		実力行使って<three_dots><end_line>
-		なんかアブナイこと<end_line>
-		考えてなかった？<end_line>
+		実力行使って<three_dots /><end_line />
+		なんかアブナイこと<end_line />
+		考えてなかった？<end_line />
 	</sjis>
   <ascii>
-    Comes to blows<three_dots><end_line>
-    We're not going to <end_line>
-    have to fight, are we?<end_line>
+    Comes to blows<three_dots /><end_line />
+    We're not going to <end_line />
+    have to fight, are we?<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -1519,22 +1519,22 @@
 	<portrait_r entry="partner" eye="serious" mouth="serious">
 	<male>
 		<sjis>
-			よっし！<end_line>
-			この武器をちゃんと修理して<end_line>
-			鍛冶師だってみとめさせるぜ！<end_line>
+			よっし！<end_line />
+			この武器をちゃんと修理して<end_line />
+			鍛冶師だってみとめさせるぜ！<end_line />
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			よーし！<end_line>
-			この武器をちゃんと修理して<end_line>
-			鍛冶師だってみとめさせるんだから！<end_line>
+			よーし！<end_line />
+			この武器をちゃんと修理して<end_line />
+			鍛冶師だってみとめさせるんだから！<end_line />
 		</sjis>
 	</female>
   <ascii>
-    Alright!<end_line>
-    Now all that's left is<end_line>
-    to repair this weapon!<end_line>
+    Alright!<end_line />
+    Now all that's left is<end_line />
+    to repair this weapon!<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -1543,14 +1543,14 @@
 	<portrait_l entry="player" eye="decided" mouth="neutral">
 	<portrait_r entry="partner" eye="decided" mouth="talk">
 	<sjis>
-		そうだな<three_dots><end_line>
-		とりあえず武器でも手に入れば<end_line>
-		あの男を<three_dots><end_line>
+		そうだな<three_dots /><end_line />
+		とりあえず武器でも手に入れば<end_line />
+		あの男を<three_dots /><end_line />
 	</sjis>
   <ascii>
-    Right<three_dots><end_line>
-    As long as we have a weapon,<end_line>
-    we can take him down<three_dots><end_line>
+    Right<three_dots /><end_line />
+    As long as we have a weapon,<end_line />
+    we can take him down<three_dots /><end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -1559,12 +1559,12 @@
 	<portrait_l entry="player" eye="happy" mouth="tense">
 	<portrait_r entry="partner" eye="decided" mouth="talk">
 	<sjis>
-		こ、コワイことは<end_line>
-		考えないように！<end_line>
+		こ、コワイことは<end_line />
+		考えないように！<end_line />
 	</sjis>
   <ascii>
-    H-hey, that's not what<end_line>
-    we're using this for!<end_line>
+    H-hey, that's not what<end_line />
+    we're using this for!<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -1573,22 +1573,22 @@
 	<portrait_l name="player">
 	<male>
 		<sjis>
-			よっし！<end_line>
-			この武器をちゃんと修理して<end_line>
-			鍛冶師だってみとめさせるぜ！<end_line>
+			よっし！<end_line />
+			この武器をちゃんと修理して<end_line />
+			鍛冶師だってみとめさせるぜ！<end_line />
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			よーし！<end_line>
-			この武器をちゃんと修理して<end_line>
-			鍛冶師だってみとめさせるんだから！<end_line>
+			よーし！<end_line />
+			この武器をちゃんと修理して<end_line />
+			鍛冶師だってみとめさせるんだから！<end_line />
 		</sjis>
 	</female>
   <ascii>
-    Alright!<end_line>
-    Now all that's left is<end_line>
-    to repair this weapon!<end_line>
+    Alright!<end_line />
+    Now all that's left is<end_line />
+    to repair this weapon!<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -1596,14 +1596,14 @@
 	<info box="right">
 	<portrait_r name="partner">
 	<sjis>
-		そ、そうですね<three_dots><end_line>
-		ギャラハンさんには逆らわない方が<end_line>
-		いいかもしれませんよ<three_dots><end_line>
+		そ、そうですね<three_dots /><end_line />
+		ギャラハンさんには逆らわない方が<end_line />
+		いいかもしれませんよ<three_dots /><end_line />
 	</sjis>
   <ascii>
-    Y-yes<three_dots><end_line>
-    It might be better if we follow<end_line>
-    Gallahan's instructions<three_dots><end_line>
+    Y-yes<three_dots /><end_line />
+    It might be better if we follow<end_line />
+    Gallahan's instructions<three_dots /><end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -1611,20 +1611,20 @@
 	<info box="left">
 	<portrait_l name="player">
 	<sjis>
-		な<three_dots>、なんかあったの？<end_line>
+		な<three_dots />、なんかあったの？<end_line />
 	</sjis>
   <ascii>
-    Uh<three_dots>, did something happen?<end_line>
+    Uh<three_dots />, did something happen?<end_line />
   </ascii>
 </dialogue>
 <dialogue>
 	<info box="left">
 	<portrait_l entry="player" eye="serious" mouth="neutral">
 	<sjis>
-		ミューノがエサに<three_dots><end_line>
+		ミューノがエサに<three_dots /><end_line />
 	</sjis>
   <ascii>
-    Using Murno as food<three_dots><end_line>
+    Using Murno as food<three_dots /><end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -1632,26 +1632,26 @@
 	<portrait_l entry="player" eye="serious" mouth="neutral">
 	<male>
 		<sjis>
-			させるかよ！<end_line>
+			させるかよ！<end_line />
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			させるもんか！<end_line>
+			させるもんか！<end_line />
 		</sjis>
 	</female>
   <ascii>
-    I won't let that happen!<end_line>
+    I won't let that happen!<end_line />
   </ascii>
 </dialogue>
 <dialogue>
 	<info box="left">
 	<portrait_l entry="player" eye="serious" mouth="neutral">
 	<sjis>
-		<partner>を助けないと<three_dots><end_line>
+		<partner />を助けないと<three_dots /><end_line />
 	</sjis>
   <ascii>
-    I have to save <partner><three_dots><end_line>
+    I have to save <partner /><three_dots /><end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -1660,12 +1660,12 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<sjis>
-		ミューノを召喚獣のエサになんか<end_line>
-		させるもんか！<end_line>
+		ミューノを召喚獣のエサになんか<end_line />
+		させるもんか！<end_line />
 	</sjis>
   <ascii>
-    I won't let this Phantom Dragon<end_line>
-    eat Murno!<end_line>
+    I won't let this Phantom Dragon<end_line />
+    eat Murno!<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -1675,16 +1675,16 @@
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<male>
 		<sjis>
-			急ぐぞ、<partner>！<end_line>
+			急ぐぞ、<partner />！<end_line />
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			急ぐよ、<partner>！<end_line>
+			急ぐよ、<partner />！<end_line />
 		</sjis>
 	</female>
   <ascii>
-    Let's hurry, <partner>!<end_line>
+    Let's hurry, <partner />!<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -1693,14 +1693,14 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<sjis>
-		村ハズレノ　れくいノ水遺跡トイウ<end_line>
-		地下宮殿ガ　目的地デス<end_line>
-		発見サレナイヨウ　注意シテクダサイ<end_line>
+		村ハズレノ　れくいノ水遺跡トイウ<end_line />
+		地下宮殿ガ　目的地デス<end_line />
+		発見サレナイヨウ　注意シテクダサイ<end_line />
 	</sjis>
   <ascii>
-    Murno Is Located In An Underground<end_line>
-    Palace Outside The Village<end_line>
-    Called The Rekui Water Ruins.<end_line>
+    Murno Is Located In An Underground<end_line />
+    Palace Outside The Village<end_line />
+    Called The Rekui Water Ruins.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -1709,10 +1709,10 @@
 	<portrait_l entry="player" eye="decided" mouth="neutral">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<sjis>
-		わかってるって！<end_line>
+		わかってるって！<end_line />
 	</sjis>
   <ascii>
-    I know that!<end_line>
+    I know that!<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -1721,12 +1721,12 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<sjis>
-		ミューノを召喚獣のエサになんか<end_line>
-		させるもんか！<end_line>
+		ミューノを召喚獣のエサになんか<end_line />
+		させるもんか！<end_line />
 	</sjis>
   <ascii>
-    I won't let this Phantom Dragon<end_line>
-    eat Murno!<end_line>
+    I won't let this Phantom Dragon<end_line />
+    eat Murno!<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -1736,16 +1736,16 @@
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<male>
 		<sjis>
-			急ぐぞ、<partner>！<end_line>
+			急ぐぞ、<partner />！<end_line />
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			急ぐよ、<partner>！<end_line>
+			急ぐよ、<partner />！<end_line />
 		</sjis>
 	</female>
   <ascii>
-    Let's hurry, <partner>!<end_line>
+    Let's hurry, <partner />!<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -1754,14 +1754,14 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="decided" mouth="tense">
 	<sjis>
-		村はずれのレクイの水遺跡という<end_line>
-		地下宮殿にミューノはいるようじゃぞ<end_line>
-		助け出すまで捕まってはならんぞ<end_line>
+		村はずれのレクイの水遺跡という<end_line />
+		地下宮殿にミューノはいるようじゃぞ<end_line />
+		助け出すまで捕まってはならんぞ<end_line />
 	</sjis>
   <ascii>
-    Murno is in the underground palace<end_line>
-    outside the village known as<end_line>
-    Rekui Water Ruins. Let's move.<end_line>
+    Murno is in the underground palace<end_line />
+    outside the village known as<end_line />
+    Rekui Water Ruins. Let's move.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -1770,7 +1770,7 @@
 	<portrait_l entry="player" eye="decided" mouth="neutral">
 	<portrait_r entry="partner" eye="decided" mouth="tense">
 	<sjis>
-		わかってるって！<end_line>
+		わかってるって！<end_line />
 	</sjis>
 </dialogue>
 <dialogue>
@@ -1779,12 +1779,12 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<sjis>
-		ミューノを召喚獣のエサになんか<end_line>
-		させるもんか！<end_line>
+		ミューノを召喚獣のエサになんか<end_line />
+		させるもんか！<end_line />
 	</sjis>
   <ascii>
-    I won't let this Phantom Dragon<end_line>
-    eat Murno!<end_line>
+    I won't let this Phantom Dragon<end_line />
+    eat Murno!<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -1794,16 +1794,16 @@
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<male>
 		<sjis>
-			急ぐぞ、<partner>！<end_line>
+			急ぐぞ、<partner />！<end_line />
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			急ぐよ、<partner>！<end_line>
+			急ぐよ、<partner />！<end_line />
 		</sjis>
 	</female>
   <ascii>
-    Let's hurry, <partner>!<end_line>
+    Let's hurry, <partner />!<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -1812,14 +1812,14 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="decided" mouth="neutral">
 	<sjis>
-		村はずれのレクイの水遺跡という<end_line>
-		地下宮殿にミューノはいるようようだが<end_line>
-		捕まらずにそこまでたどりつけるか？<end_line>
+		村はずれのレクイの水遺跡という<end_line />
+		地下宮殿にミューノはいるようようだが<end_line />
+		捕まらずにそこまでたどりつけるか？<end_line />
 	</sjis>
   <ascii>
-    Murno is in the Rekui Water Ruins,<end_line>
-    located outside the village.<end_line>
-    Can you make it unseen?<end_line>
+    Murno is in the Rekui Water Ruins,<end_line />
+    located outside the village.<end_line />
+    Can you make it unseen?<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -1829,16 +1829,16 @@
 	<portrait_r entry="partner" eye="decided" mouth="neutral">
 	<male>
 		<sjis>
-			まかせとけって！<end_line>
+			まかせとけって！<end_line />
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			まかせといてよ！<end_line>
+			まかせといてよ！<end_line />
 		</sjis>
 	</female>
   <ascii>
-    Leave it to me!<end_line>
+    Leave it to me!<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -1846,12 +1846,12 @@
 	<info box="left">
 	<portrait_l name="player">
 	<sjis>
-		ミューノを召喚獣のエサになんか<end_line>
-		させるもんか！<end_line>
+		ミューノを召喚獣のエサになんか<end_line />
+		させるもんか！<end_line />
 	</sjis>
   <ascii>
-    I won't let this Phantom Dragon<end_line>
-    eat Murno!<end_line>
+    I won't let this Phantom Dragon<end_line />
+    eat Murno!<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -1860,16 +1860,16 @@
 	<portrait_l name="player">
 	<male>
 		<sjis>
-			急ぐぞ、<partner>！<end_line>
+			急ぐぞ、<partner />！<end_line />
 		</sjis>
 	</male>
 	<female>
 		<sjis>
-			急ぐよ、<partner>！<end_line>
+			急ぐよ、<partner />！<end_line />
 		</sjis>
 	</female>
   <ascii>
-    Let's hurry, <partner>!<end_line>
+    Let's hurry, <partner />!<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -1877,14 +1877,14 @@
 	<info box="right">
 	<portrait_r name="partner">
 	<sjis>
-		村はずれのレクイの水遺跡という<end_line>
-		地下宮殿にミューノ様はいるそうです<end_line>
-		村人に見つからないように行きますよ<end_line>
+		村はずれのレクイの水遺跡という<end_line />
+		地下宮殿にミューノ様はいるそうです<end_line />
+		村人に見つからないように行きますよ<end_line />
 	</sjis>
   <ascii>
-    Lady Murno must be at this Rekui<end_line>
-    Water Ruins outside the village.<end_line>
-    We must move carefully.<end_line>
+    Lady Murno must be at this Rekui<end_line />
+    Water Ruins outside the village.<end_line />
+    We must move carefully.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -1892,9 +1892,9 @@
 	<info box="left">
 	<portrait_l name="player">
 	<sjis>
-		わかってるって！<end_line>
+		わかってるって！<end_line />
 	</sjis>
   <ascii>
-    I know that!<end_line>
+    I know that!<end_line />
   </ascii>
 </dialogue>

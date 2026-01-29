@@ -52,8 +52,8 @@
 			預けられそうな武器が無いぞ<end_line />
 		</sjis>
  		<ascii>
-    		You don't have any<end_line>
-    		weapons to store.<end_line>
+    		You don't have any<end_line />
+    		weapons to store.<end_line />
   		</ascii>
 	</dialogue>
 	<dialogue>

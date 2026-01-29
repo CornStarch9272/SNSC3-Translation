@@ -579,6 +579,6 @@ Found 1527 missing EN translations. Below are the results:
 
 
 	<ascii>
-		<three_dots><end_line>
+		<three_dots /><end_line />
 	</ascii>
 |　|

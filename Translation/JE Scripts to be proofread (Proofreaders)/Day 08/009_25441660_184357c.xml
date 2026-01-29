@@ -535,7 +535,7 @@
 				オレだって！<end_line />
 			</sjis>
 			<ascii>
-				Wha<three_dots>?<end_line />
+				Wha<three_dots />?<end_line />
 				Why me?!<end_line />
 			</ascii>
 			<!-- This should probably be "Whaー?" but idk how to insert an emdash. I'm assuming we can since it's already a character commonly used in Japanese. -Bliz -->
@@ -546,7 +546,7 @@
 				わたしだって！<end_line />
 			</sjis>
 			<ascii>
-				Wha<three_dots>?
+				Wha<three_dots />?
 				Why me?!<end_line />
 			</ascii>
 		</female>

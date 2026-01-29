@@ -3,12 +3,12 @@
   <portrait_l entry="player" eye="serious" mouth="tense">
   <portrait_r entry="partner" eye="serious" mouth="tense">
   <sjis>
-    ギャラハンさんの工房か<three_dots><end_line>
-    使えると助かるんだけどなぁ<end_line>
+    ギャラハンさんの工房か<three_dots /><end_line />
+    使えると助かるんだけどなぁ<end_line />
   </sjis>
   <ascii>
-    Gallahan's workshop<three_dots><end_line>
-    I wish we could use it.<end_line>
+    Gallahan's workshop<three_dots /><end_line />
+    I wish we could use it.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -17,12 +17,12 @@
   <portrait_l entry="player" eye="serious" mouth="tense">
   <portrait_r entry="partner" eye="serious" mouth="neutral">
   <sjis>
-    ココカラデハ<end_line>
-    中ノ様子ハ　カクニンデキマセン<end_line>
+    ココカラデハ<end_line />
+    中ノ様子ハ　カクニンデキマセン<end_line />
   </sjis>
   <ascii>
-    I Cannot Infer The State<end_line>
-    Of The Interior From Here.<end_line>
+    I Cannot Infer The State<end_line />
+    Of The Interior From Here.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -31,12 +31,12 @@
   <portrait_l entry="player" eye="serious" mouth="tense">
   <portrait_r entry="partner" eye="serious" mouth="neutral">
   <sjis>
-    中に人の気配は<end_line>
-    なさそうじゃが<three_dots><end_line>
+    中に人の気配は<end_line />
+    なさそうじゃが<three_dots /><end_line />
   </sjis>
   <ascii>
-    I can't sense any<end_line>
-    presence inside<three_dots><end_line>
+    I can't sense any<end_line />
+    presence inside<three_dots /><end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -45,12 +45,12 @@
   <portrait_l entry="player" eye="serious" mouth="tense">
   <portrait_r entry="partner" eye="serious" mouth="neutral">
   <sjis>
-    家の中にニンゲンの気配は<end_line>
-    しないようだが<three_dots><end_line>
+    家の中にニンゲンの気配は<end_line />
+    しないようだが<three_dots /><end_line />
   </sjis>
   <ascii>
-    I can't sense<end_line>
-    any humans inside<three_dots><end_line>
+    I can't sense<end_line />
+    any humans inside<three_dots /><end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -59,12 +59,12 @@
   <portrait_l entry="player" eye="serious" mouth="tense">
   <portrait_r entry="partner" eye="serious" mouth="neutral">
   <sjis>
-    中に人はいないと思いますよ<end_line>
-    カンですけど<end_line>
+    中に人はいないと思いますよ<end_line />
+    カンですけど<end_line />
   </sjis>
   <ascii>
-    There's no one inside<three_dots><end_line>
-    That's just my intuition though.<end_line>
+    There's no one inside<three_dots /><end_line />
+    That's just my intuition though.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -73,15 +73,15 @@
   <portrait_r entry="partner" eye="serious" mouth="neutral">
   <male>
     <sjis>
-      少しのぞいてみるか？<end_line>
+      少しのぞいてみるか？<end_line />
     </sjis>
   </male>
   <female>
     <sjis>
-      少しのぞいてみよっか？<end_line>
+      少しのぞいてみよっか？<end_line />
     </sjis>
   </female>
   <ascii>
-    Shall we have a look?<end_line>
+    Shall we have a look?<end_line />
   </ascii>
 </dialogue>

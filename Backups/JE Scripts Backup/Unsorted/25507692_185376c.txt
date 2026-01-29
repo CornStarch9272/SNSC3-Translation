@@ -2,18 +2,18 @@
 	<info box="simple">
 	<portrait_l name="eliez">
 	<sjis>
-		おやかた、だいじょうぶかなぁ<end_line>
+		おやかた、だいじょうぶかなぁ<end_line />
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<sjis>
-		ヴィーさんは親方についてるよ<end_line>
+		ヴィーさんは親方についてるよ<end_line />
 	</sjis>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<sjis>
-		ザックならいないぜ<end_line>
+		ザックならいないぜ<end_line />
 	</sjis>
 </dialogue>

@@ -3,18 +3,18 @@
   <portrait_r entry="eliez" eye="serious" mouth="neutral">
   <male>
     <sjis>
-      おにーちゃん<end_line>
+      おにーちゃん<end_line />
     </sjis>
     <ascii>
-      Big Bro,<end_line>
+      Big Bro,<end_line />
     </ascii>
   </male>
   <female>
     <sjis>
-      おねーちゃん<end_line>
+      おねーちゃん<end_line />
     </sjis>
     <ascii>
-      Big Sis,<end_line>
+      Big Sis,<end_line />
     </ascii>
   </female>
 </dialogue>
@@ -22,11 +22,11 @@
   <info box="right">
   <portrait_r entry="eliez" eye="serious" mouth="neutral">
   <sjis>
-    そざいあつめのばしょは<end_line>
-    こっちだよ<end_line>
+    そざいあつめのばしょは<end_line />
+    こっちだよ<end_line />
   </sjis>
   <ascii>
-    It's this way!<end_line>
+    It's this way!<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -34,10 +34,10 @@
   <portrait_l entry="player" eye="serious" mouth="neutral">
   <portrait_r entry="eliez" eye="serious" mouth="neutral">
   <sjis>
-    うん<end_line>
-    わかった！<end_line>
+    うん<end_line />
+    わかった！<end_line />
   </sjis>
   <ascii>
-    Oh, right.<end_line>
+    Oh, right.<end_line />
   </ascii>
 </dialogue>

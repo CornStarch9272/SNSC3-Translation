@@ -1,20 +1,20 @@
 <location>
 	<sjis>
-		村長の家　道具屋<end_line>
+		村長の家　道具屋<end_line />
 	</sjis>
 </location>
 <location>
 	<sjis>
-		村長の家　道具屋<end_line>
+		村長の家　道具屋<end_line />
 	</sjis>
 </location>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="elderly">
 	<sjis>
-		小豆は体にええぞぉ<end_line>
+		小豆は体にええぞぉ<end_line />
 	</sjis>
   <ascii>
-    Azuki beans are good for the body.<end_line>
+    Azuki beans are good for the body.<end_line />
   </ascii>
 </dialogue>

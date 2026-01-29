@@ -841,7 +841,7 @@
 			いけるぞ！<end_line />
 		</sjis>
 		<ascii>
-			I get it now<three_dots>!<end_line />
+			I get it now<three_dots />!<end_line />
 			Yeah, that works!<end_line />
 		</ascii>
 	</dialogue>

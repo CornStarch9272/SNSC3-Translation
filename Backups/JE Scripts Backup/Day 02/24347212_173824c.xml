@@ -1,53 +1,53 @@
 <location>
 	<sjis>
-		村長の家　広間<end_line>
+		村長の家　広間<end_line />
 	</sjis>
 </location>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="vee">
 	<sjis>
-		アタシの見事な設定に<end_line>
-		村長も号泣間違いナシだね！<end_line>
+		アタシの見事な設定に<end_line />
+		村長も号泣間違いナシだね！<end_line />
 	</sjis>
   <ascii>
-    I've no doubt he'll be<end_line>
-    moved by my brilliant setting!<end_line>
+    I've no doubt he'll be<end_line />
+    moved by my brilliant setting!<end_line />
   </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="vee">
 	<sjis>
-		ところで修行はどうしたんだい？<end_line>
+		ところで修行はどうしたんだい？<end_line />
 	</sjis>
   <ascii>
-    By the way, aren't you<end_line>
-    supposed to be training?<end_line>
+    By the way, aren't you<end_line />
+    supposed to be training?<end_line />
   </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="murno">
 	<sjis>
-		村長さんがいい人そうでよかった<three_dots><end_line>
+		村長さんがいい人そうでよかった<three_dots /><end_line />
 	</sjis>
   <ascii>
-    He's seems nice<three_dots><end_line>
-    What a relief<three_dots><end_line>
+    He's seems nice<three_dots /><end_line />
+    What a relief<three_dots /><end_line />
   </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="chief">
 	<sjis>
-		<partner>といい、この子といい<end_line>
-		ヴィーねえさんとこもにぎやかに<end_line>
-		なったもんだ<end_line>
+		<partner />といい、この子といい<end_line />
+		ヴィーねえさんとこもにぎやかに<end_line />
+		なったもんだ<end_line />
 	</sjis>
   <ascii>
-    First <partner>, now this girl!<end_line>
-    Things have gotten lively<end_line>
-    at Vee's place.<end_line>
+    First <partner />, now this girl!<end_line />
+    Things have gotten lively<end_line />
+    at Vee's place.<end_line />
   </ascii>
 </dialogue>
