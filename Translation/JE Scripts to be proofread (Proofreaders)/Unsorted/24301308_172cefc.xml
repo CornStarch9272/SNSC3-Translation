@@ -13,7 +13,6 @@
 			Protagonist, <player_name />.<end_line />
 			Guardian Beast, <partner />.<end_line />
 		</ascii>
-		# First line was waaay too long so I shortened it a lot.
 	</dialogue>
 	<dialogue>
 		<info box="both" />
