@@ -26,10 +26,10 @@
 <menu>
 	<title>
 		<sjis>
-			<weapon_type>を渡しますか<end_line />
+			<weapon_type />を渡しますか<end_line />
 		</sjis>
 		<ascii>
-			Will you hand over <weapon_type>?<end_line />
+			Will you hand over <weapon_type />?<end_line />
 		</ascii>
 	</title>
 	<option>
@@ -103,10 +103,10 @@
 <menu>
 	<title>
 		<sjis>
-			<weapon_type>を渡しますか<end_line />
+			<weapon_type />を渡しますか<end_line />
 		</sjis>
 		<ascii>
-			Hand over <weapon_type>?<end_line />
+			Hand over <weapon_type />?<end_line />
 		</ascii>
 	</title>
 	<option>
@@ -207,10 +207,10 @@
 <menu>
 	<title>
 		<sjis>
-			<weapon_type>を渡しますか<end_line />
+			<weapon_type />を渡しますか<end_line />
 		</sjis>
 		<ascii>
-			Hand over <weapon_type>?<end_line />
+			Hand over <weapon_type />?<end_line />
 		</ascii>
 	</title>
 	<option>
@@ -285,10 +285,10 @@
 <menu>
 	<title>
 		<sjis>
-			<weapon_type>を渡しますか<end_line />
+			<weapon_type />を渡しますか<end_line />
 		</sjis>
 		<ascii>
-			Hand over<weapon_type>?<end_line />
+			Hand over<weapon_type />?<end_line />
 		</ascii>
 	</title>
 	<option>
@@ -377,10 +377,10 @@
 <menu>
 	<title>
 		<sjis>
-			<weapon_type>を渡しますか<end_line />
+			<weapon_type />を渡しますか<end_line />
 		</sjis>
 		<ascii>
-			Hand over <weapon_type>?<end_line />
+			Hand over <weapon_type />?<end_line />
 		</ascii>
 	</title>
 	<option>
@@ -458,10 +458,10 @@
 <menu>
 	<title>
 		<sjis>
-			<weapon_type>を渡しますか<end_line />
+			<weapon_type />を渡しますか<end_line />
 		</sjis>
 		<ascii>
-			Hand over <weapon_type>?<end_line />
+			Hand over <weapon_type />?<end_line />
 		</ascii>
 	</title>
 	<option>
@@ -563,10 +563,10 @@
 <menu>
 	<title>
 		<sjis>
-			<weapon_type>を渡しますか<end_line />
+			<weapon_type />を渡しますか<end_line />
 		</sjis>
 		<ascii>
-			Hand over <weapon_type>?<end_line />
+			Hand over <weapon_type />?<end_line />
 		</ascii>
 	</title>
 	<option>
@@ -643,10 +643,10 @@
 <menu>
 	<title>
 		<sjis>
-			<weapon_type>を渡しますか<end_line />
+			<weapon_type />を渡しますか<end_line />
 		</sjis>
 		<ascii>
-			Hand over <weapon_type>?<end_line />
+			Hand over <weapon_type />?<end_line />
 		</ascii>
 	</title>
 	<option>
@@ -746,10 +746,10 @@
 <menu>
 	<title>
 		<sjis>
-			<weapon_type>を渡しますか<end_line />
+			<weapon_type />を渡しますか<end_line />
 		</sjis>
 		<ascii>
-			Hand over <weapon_type>?<end_line />
+			Hand over <weapon_type />?<end_line />
 		</ascii>
 	</title>
 	<option>
@@ -867,10 +867,10 @@
 <menu>
 	<title>
 		<sjis>
-			<weapon_type>を渡しますか<end_line />
+			<weapon_type />を渡しますか<end_line />
 		</sjis>
 		<ascii>
-			Hand over <weapon_type>?<end_line />
+			Hand over <weapon_type />?<end_line />
 		</ascii>
 	</title>
 	<option>
@@ -996,10 +996,10 @@
 <menu>
 	<title>
 		<sjis>
-			<weapon_type>を渡しますか<end_line />
+			<weapon_type />を渡しますか<end_line />
 		</sjis>
 		<ascii>
-			Hand over <weapon_type>?<end_line />
+			Hand over <weapon_type />?<end_line />
 		</ascii>
 	</title>
 	<option>
@@ -1080,10 +1080,10 @@
 <menu>
 	<title>
 		<sjis>
-			<weapon_type>を渡しますか<end_line />
+			<weapon_type />を渡しますか<end_line />
 		</sjis>
 		<ascii>
-			Hand over <weapon_type>?<end_line />
+			Hand over <weapon_type />?<end_line />
 		</ascii>
 	</title>
 	<option>
@@ -1190,10 +1190,10 @@
 <menu>
 	<title>
 		<sjis>
-			<weapon_type>を渡しますか<end_line />
+			<weapon_type />を渡しますか<end_line />
 		</sjis>
 		<ascii>
-			Hand over <weapon_type>?<end_line />
+			Hand over <weapon_type />?<end_line />
 		</ascii>
 	</title>
 	<option>
@@ -1274,10 +1274,10 @@
 <menu>
 	<title>
 		<sjis>
-			<weapon_type>を渡しますか<end_line />
+			<weapon_type />を渡しますか<end_line />
 		</sjis>
 		<ascii>
-			Hand over <weapon_type>?<end_line />
+			Hand over <weapon_type />?<end_line />
 		</ascii>
 	</title>
 	<option>
@@ -1378,10 +1378,10 @@
 <menu>
 	<title>
 		<sjis>
-			<weapon_type>を渡しますか<end_line />
+			<weapon_type />を渡しますか<end_line />
 		</sjis>
 		<ascii>
-			Hand over <weapon_type>?<end_line />
+			Hand over <weapon_type />?<end_line />
 		</ascii>
 	</title>
 	<option>
@@ -1470,10 +1470,10 @@
 <menu>
 	<title>
 		<sjis>
-			<weapon_type>を渡しますか<end_line />
+			<weapon_type />を渡しますか<end_line />
 		</sjis>
 		<ascii>
-			Hand over <weapon_type>?<end_line />
+			Hand over <weapon_type />?<end_line />
 		</ascii>
 	</title>
 	<option>
@@ -1574,10 +1574,10 @@
 <menu>
 	<title>
 		<sjis>
-			<weapon_type>を渡しますか<end_line />
+			<weapon_type />を渡しますか<end_line />
 		</sjis>
 		<ascii>
-			Hand over <weapon_type>?<end_line />
+			Hand over <weapon_type />?<end_line />
 		</ascii>
 	</title>
 	<option>
@@ -1655,10 +1655,10 @@
 <menu>
 	<title>
 		<sjis>
-			<weapon_type>を渡しますか<end_line />
+			<weapon_type />を渡しますか<end_line />
 		</sjis>
 		<ascii>
-			Hand over <weapon_type>?<end_line />
+			Hand over <weapon_type />?<end_line />
 		</ascii>
 	</title>
 	<option>
@@ -1726,10 +1726,10 @@
 <menu>
 	<title>
 		<sjis>
-			<weapon_type>を渡しますか<end_line />
+			<weapon_type />を渡しますか<end_line />
 		</sjis>
 		<ascii>
-			Hand over <weapon_type>?<end_line />
+			Hand over <weapon_type />?<end_line />
 		</ascii>
 	</title>
 	<option>

@@ -2,10 +2,10 @@
   <info box="simple">
   <portrait_l name="elderly">
   <sjis>
-    <weapon_type>が欲しいのう<end_line />
+    <weapon_type />が欲しいのう<end_line />
   </sjis>
   <ascii>
-    I'd love to have a <weapon_type>.<end_line />
+    I'd love to have a <weapon_type />.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -13,22 +13,22 @@
   <portrait_l name="elderly">
   <sjis>
     おぬしが持っている<end_line />
-    その<weapon_type>と<end_line />
+    その<weapon_type />と<end_line />
   </sjis>
   <ascii>
-    That <weapon_type> you have,<end_line />
+    That <weapon_type /> you have,<end_line />
   </ascii>
 </dialogue>
 <dialogue>
   <info box="simple">
   <portrait_l name="elderly">
   <sjis>
-    <weapon_type>を<end_line />
+    <weapon_type />を<end_line />
     交換してくれぬかのう<end_line />
   </sjis>
   <ascii>
     will you trade it<end_line />
-    for this <weapon_type>?<end_line />
+    for this <weapon_type />?<end_line />
   </ascii>
 </dialogue>
 <menu>
@@ -81,33 +81,33 @@
   <info box="simple">
   <portrait_l name="child">
   <sjis>
-    <weapon_type>、<end_line />
-    <weapon_type><three_dots /><end_line />
+    <weapon_type />、<end_line />
+    <weapon_type /><three_dots /><end_line />
   </sjis>
   <ascii>
-    <weapon_type>,<end_line />
-    <weapon_type><three_dots /><end_line />
+    <weapon_type />,<end_line />
+    <weapon_type /><three_dots /><end_line />
   </ascii>
 </dialogue>
 <dialogue>
   <info box="simple">
   <portrait_l name="child">
   <sjis>
-    その<weapon_type>と<end_line />
+    その<weapon_type />と<end_line />
   </sjis>
   <ascii>
-    Will you trade your<weapon_type><end_line />
+    Will you trade your<weapon_type /><end_line />
   </ascii>
 </dialogue>
 <dialogue>
   <info box="simple">
   <portrait_l name="child">
   <sjis>
-    ボクの<weapon_type><end_line />
+    ボクの<weapon_type /><end_line />
     かえっこしない？<end_line />
   </sjis>
   <ascii>
-    for my <weapon_type>?<end_line />
+    for my <weapon_type />?<end_line />
   </ascii>
 </dialogue>
 <menu>
@@ -160,12 +160,12 @@
   <info box="simple">
   <portrait_l name="woman">
   <sjis>
-    どこかに<weapon_type><end_line />
+    どこかに<weapon_type /><end_line />
     持っている人いないかしら<end_line />
   </sjis>
   <ascii>
     I wonder if there's anyone<end_line />
-    with <weapon_type> around.<end_line />
+    with <weapon_type /> around.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -173,22 +173,22 @@
   <portrait_l name="woman">
   <sjis>
     ねぇ、きみが持っている<end_line />
-    その<weapon_type>と<end_line />
+    その<weapon_type />と<end_line />
   </sjis>
   <ascii>
     Hey, would you like to trade<end_line />
-    your <weapon_type><end_line />
+    your <weapon_type /><end_line />
   </ascii>
 </dialogue>
 <dialogue>
   <info box="simple">
   <portrait_l name="woman">
   <sjis>
-    ワタシの<weapon_type>を<end_line />
+    ワタシの<weapon_type />を<end_line />
     交換しない？<end_line />
   </sjis>
   <ascii>
-    for my <weapon_type>?<end_line />
+    for my <weapon_type />?<end_line />
   </ascii>
 </dialogue>
 <menu>
@@ -241,32 +241,32 @@
   <info box="simple">
   <portrait_l name="child">
   <sjis>
-    ねぇ、<weapon_type><end_line />
+    ねぇ、<weapon_type /><end_line />
     持ってない？<end_line />
   </sjis>
   <ascii>
-    Hey, do you have <weapon_type>?<end_line />
+    Hey, do you have <weapon_type />?<end_line />
   </ascii>
 </dialogue>
 <dialogue>
   <info box="simple">
   <portrait_l name="child">
   <sjis>
-    ねぇ、その<weapon_type>と<end_line />
+    ねぇ、その<weapon_type />と<end_line />
   </sjis>
   <ascii>
-    Wanna trade your <weapon_type><end_line />
+    Wanna trade your <weapon_type /><end_line />
   </ascii>
 </dialogue>
 <dialogue>
   <info box="simple">
   <portrait_l name="child">
   <sjis>
-    ワタシの<weapon_type>、<end_line />
+    ワタシの<weapon_type />、<end_line />
     交換してよ？<end_line />
   </sjis>
   <ascii>
-    for my <weapon_type>?<end_line />
+    for my <weapon_type />?<end_line />
   </ascii>
 </dialogue>
 <menu>
@@ -323,12 +323,12 @@
   <info box="simple">
   <portrait_l name="gatekeeper">
   <sjis>
-    どこかに<weapon_type><end_line />
+    どこかに<weapon_type /><end_line />
     持っている人いないかな<end_line />
   </sjis>
     <ascii>
     I wonder if there's anyone<end_line />
-    with a <weapon_type> around.<end_line />
+    with a <weapon_type /> around.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -336,22 +336,22 @@
   <portrait_l name="gatekeeper">
   <sjis>
     きみが持っている<end_line />
-    その<weapon_type>と<end_line />
+    その<weapon_type />と<end_line />
   </sjis>
   <ascii>
     Would you like to trade<end_line />
-    your <weapon_type><end_line />
+    your <weapon_type /><end_line />
   </ascii>
 </dialogue>
 <dialogue>
   <info box="simple">
   <portrait_l name="gatekeeper">
   <sjis>
-    オレの<weapon_type>を<end_line />
+    オレの<weapon_type />を<end_line />
     交換しないか<end_line />
   </sjis>
   <ascii>
-    for my <weapon_type>?<end_line />
+    for my <weapon_type />?<end_line />
   </ascii>
 </dialogue>
 <menu>
@@ -406,33 +406,33 @@
   <info box="simple">
   <portrait_l name="child">
   <sjis>
-    <weapon_type>、<end_line />
-    <weapon_type><three_dots /><end_line />
+    <weapon_type />、<end_line />
+    <weapon_type /><three_dots /><end_line />
   </sjis>
   <ascii>
-    <weapon_type>,<end_line />
-    <weapon_type><three_dots /><end_line />
+    <weapon_type />,<end_line />
+    <weapon_type /><three_dots /><end_line />
   </ascii>
 </dialogue>
 <dialogue>
   <info box="simple">
   <portrait_l name="child">
   <sjis>
-    その<weapon_type>と<end_line />
+    その<weapon_type />と<end_line />
   </sjis>
   <ascii>
-    Wanna trade your <weapon_type><end_line />
+    Wanna trade your <weapon_type /><end_line />
   </ascii>
 </dialogue>
 <dialogue>
   <info box="simple">
   <portrait_l name="child">
   <sjis>
-    ボクの<weapon_type><end_line />
+    ボクの<weapon_type /><end_line />
     かえっこしない？<end_line />
   </sjis>
   <ascii>
-    for my <weapon_type>?<end_line />
+    for my <weapon_type />?<end_line />
   </ascii>
 </dialogue>
 <menu>
@@ -485,33 +485,33 @@
   <info box="simple">
   <portrait_l name="child">
   <sjis>
-    <weapon_type>、<end_line />
-    <weapon_type><three_dots /><end_line />
+    <weapon_type />、<end_line />
+    <weapon_type /><three_dots /><end_line />
   </sjis>
   <ascii>
-    <weapon_type>,<end_line />
-    <weapon_type><three_dots /><end_line />
+    <weapon_type />,<end_line />
+    <weapon_type /><three_dots /><end_line />
   </ascii>
 </dialogue>
 <dialogue>
   <info box="simple">
   <portrait_l name="child">
   <sjis>
-    その<weapon_type>と<end_line />
+    その<weapon_type />と<end_line />
   </sjis>
   <ascii>
-    Wanna trade your <weapon_type><end_line />
+    Wanna trade your <weapon_type /><end_line />
   </ascii>
 </dialogue>
 <dialogue>
   <info box="simple">
   <portrait_l name="child">
   <sjis>
-    ボクの<weapon_type><end_line />
+    ボクの<weapon_type /><end_line />
     かえっこしない？<end_line />
   </sjis>
   <ascii>
-    for my <weapon_type>?<end_line />
+    for my <weapon_type />?<end_line />
   </ascii>
 </dialogue>
 <menu>
@@ -564,12 +564,12 @@
   <info box="simple">
   <portrait_l name="shop_clerk">
   <sjis>
-    どこかに<weapon_type><end_line />
+    どこかに<weapon_type /><end_line />
     持っている人いないかな<end_line />
   </sjis>
   <ascii>
     I wonder if there's anyone<end_line />
-    with <weapon_type> around.<end_line />
+    with <weapon_type /> around.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -577,22 +577,22 @@
   <portrait_l name="shop_clerk">
   <sjis>
     きみが持っている<end_line />
-    その<weapon_type>と<end_line />
+    その<weapon_type />と<end_line />
   </sjis>
   <ascii>
     Would like to trade<end_line />
-    your <weapon_type><end_line />
+    your <weapon_type /><end_line />
   </ascii>
 </dialogue>
 <dialogue>
   <info box="simple">
   <portrait_l name="shop_clerk">
   <sjis>
-    オレの<weapon_type>を<end_line />
+    オレの<weapon_type />を<end_line />
     交換しないか<end_line />
   </sjis>
   <ascii>
-    for my <weapon_type>?<end_line />
+    for my <weapon_type />?<end_line />
   </ascii>
 </dialogue>
 <menu>
@@ -647,12 +647,12 @@
   <info box="simple">
   <portrait_l name="man">
   <sjis>
-    どこかに<weapon_type><end_line />
+    どこかに<weapon_type /><end_line />
     持っている人いないかな<end_line />
   </sjis>
   <ascii>
     I wonder if there's anyone<end_line />
-    with <weapon_type> around.<end_line />
+    with <weapon_type /> around.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -660,22 +660,22 @@
   <portrait_l name="man">
   <sjis>
     きみが持っている<end_line />
-    その<weapon_type>と<end_line />
+    その<weapon_type />と<end_line />
   </sjis>
   <ascii>
     Would like to trade<end_line />
-    your <weapon_type><end_line />
+    your <weapon_type /><end_line />
   </ascii>
 </dialogue>
 <dialogue>
   <info box="simple">
   <portrait_l name="man">
   <sjis>
-    オレの<weapon_type>を<end_line />
+    オレの<weapon_type />を<end_line />
     交換しないか<end_line />
   </sjis>
   <ascii>
-    for my <weapon_type>?<end_line />
+    for my <weapon_type />?<end_line />
   </ascii>
 </dialogue>
 <menu>
@@ -730,12 +730,12 @@
   <info box="simple">
   <portrait_l name="chief">
   <sjis>
-    どこかに<weapon_type>が、<end_line />
+    どこかに<weapon_type />が、<end_line />
     有るといいんだが<end_line />
   </sjis>
   <ascii>
     I wonder if there's anyone<end_line />
-    with <weapon_type> around.<end_line />
+    with <weapon_type /> around.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -743,22 +743,22 @@
   <portrait_l name="chief">
   <sjis>
     お前が持っている<end_line />
-    その<weapon_type>と<end_line />
+    その<weapon_type />と<end_line />
   </sjis>
   <ascii>
     Would like to trade<end_line />
-    your <weapon_type><end_line />
+    your <weapon_type /><end_line />
   </ascii>
 </dialogue>
 <dialogue>
   <info box="simple">
   <portrait_l name="chief">
   <sjis>
-    オレの<weapon_type>を<end_line />
+    オレの<weapon_type />を<end_line />
     交換しないか<end_line />
   </sjis>
   <ascii>
-    for my <weapon_type>?<end_line />
+    for my <weapon_type />?<end_line />
   </ascii>
 </dialogue>
 <menu>
@@ -811,12 +811,12 @@
   <info box="simple">
   <portrait_l name="elderly">
   <sjis>
-    どこかに<weapon_type>が、<end_line />
+    どこかに<weapon_type />が、<end_line />
     無いかのう<end_line />
   </sjis>
   <ascii>
     I wonder if there's anyone<end_line />
-    with <weapon_type> around.<end_line />
+    with <weapon_type /> around.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -824,22 +824,22 @@
   <portrait_l name="elderly">
   <sjis>
     おぬしが持っている<end_line />
-    その<weapon_type>と<end_line />
+    その<weapon_type />と<end_line />
   </sjis>
   <ascii>
     Would like to trade<end_line />
-    your <weapon_type><end_line />
+    your <weapon_type /><end_line />
   </ascii>
 </dialogue>
 <dialogue>
   <info box="simple">
   <portrait_l name="elderly">
   <sjis>
-    ワシの<weapon_type>を<end_line />
+    ワシの<weapon_type />を<end_line />
     交換せぬか<end_line />
   </sjis>
   <ascii>
-    for my <weapon_type>?<end_line />
+    for my <weapon_type />?<end_line />
   </ascii>
 </dialogue>
 <menu>

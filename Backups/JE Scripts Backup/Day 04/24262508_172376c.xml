@@ -127,10 +127,10 @@
 </dialogue>
 <popup>
 	<sjis>
-		<weapon_type>をもらった！<end_line />
+		<weapon_type />をもらった！<end_line />
 	</sjis>
   <ascii>
-    Got <weapon_type>!<end_line />
+    Got <weapon_type />!<end_line />
   </ascii>
 </popup>
 <dialogue>
@@ -179,10 +179,10 @@
 </dialogue>
 <popup>
 	<sjis>
-		<weapon_type>をもらった！<end_line />
+		<weapon_type />をもらった！<end_line />
 	</sjis>
   <ascii>
-    Got <weapon_type>!<end_line />
+    Got <weapon_type />!<end_line />
   </ascii>
 </popup>
 <dialogue>

@@ -193,10 +193,10 @@
   <info box="right">
   <portrait_r name="ianna">
   <sjis>
-    <option_2>　<option_1>体<end_line />
+    <option_2 />　<option_1 />体<end_line />
   </sjis>
   <ascii>
-    <option_2> and　<option_1><end_line />
+    <option_2 /> and　<option_1 /><end_line />
   </ascii>
 </dialogue>
 <dialogue>

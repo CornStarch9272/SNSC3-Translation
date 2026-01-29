@@ -16,22 +16,22 @@
   <portrait_l name="wanted man">
   <sjis>
     きみ、<end_line />
-    <weapon_type>、持ってない？<end_line />
+    <weapon_type />、持ってない？<end_line />
   </sjis>
   <ascii>
     Hey, <end_line />
-    do you have any <weapon_type>s?<end_line />
+    do you have any <weapon_type />s?<end_line />
   </ascii>
 </dialogue>
 <dialogue>
   <info box="simple">
   <portrait_l name="wanted man">
   <sjis>
-    ボクは、<weapon_type>が<end_line />
+    ボクは、<weapon_type />が<end_line />
     大好物でね、<end_line />
   </sjis>
   <ascii>
-    You know, <weapon_type><end_line />
+    You know, <weapon_type /><end_line />
     is my favorite.<end_line />
   </ascii>
 </dialogue>
@@ -40,12 +40,12 @@
   <portrait_l name="wanted man">
   <sjis>
     この世の<end_line />
-    全ての<weapon_type>を<end_line />
+    全ての<weapon_type />を<end_line />
     独占したいんだよ<end_line />
   </sjis>
   <ascii>
     I want to own every<end_line />
-    <weapon_type> in the world.<end_line />
+    <weapon_type /> in the world.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -53,11 +53,11 @@
   <portrait_l name="wanted man">
   <sjis>
     きみの持っている<end_line />
-    <weapon_type>、全部買う<end_line />
+    <weapon_type />、全部買う<end_line />
     売ってくれ<end_line />
   </sjis>
   <ascii>
-    I'll buy any <weapon_type>s<end_line />
+    I'll buy any <weapon_type />s<end_line />
     you have.<end_line />
     Sell 'em to me.<end_line />
   </ascii>
@@ -67,11 +67,11 @@
   <portrait_l name="wanted man">
   <sjis>
     きみ、<end_line />
-    <weapon_type>持ってない？<end_line />
+    <weapon_type />持ってない？<end_line />
   </sjis>
   <ascii>
     Hey,<end_line />
-    do you have any <weapon_type>s?<end_line />
+    do you have any <weapon_type />s?<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -118,7 +118,7 @@
   <portrait_l name="wanted man">
   <sjis>
     きみの持っている<end_line />
-    <weapon_type>、全部買う<end_line />
+    <weapon_type />、全部買う<end_line />
     売ってくれ<end_line />
   </sjis>
 </dialogue>
@@ -127,23 +127,23 @@
   <portrait_l name="wanted man">
   <sjis>
     きみ、<end_line />
-    <weapon_type>、持ってない？<end_line />
+    <weapon_type />、持ってない？<end_line />
   </sjis>
   <ascii>
     Hey,<end_line />
-    do you have a <weapon_type>?<end_line />
+    do you have a <weapon_type />?<end_line />
   </ascii>
 </dialogue>
 <dialogue>
   <info box="simple">
   <portrait_l name="wanted man">
   <sjis>
-    <weapon_type>って、<end_line />
+    <weapon_type />って、<end_line />
     あの手触り、たまらないよね<end_line />
     ハァハァだよね<end_line />
   </sjis>
   <ascii>
-    <weapon_type> you know,<end_line />
+    <weapon_type /> you know,<end_line />
     the way they feel is irresistable.<end_line />
     It'l take your breath away.<end_line />
   </ascii>
@@ -153,11 +153,11 @@
   <portrait_l name="wanted man">
   <sjis>
     きみの持っている<end_line />
-    <weapon_type>、ハァハァ<end_line />
+    <weapon_type />、ハァハァ<end_line />
     売ってくれ<end_line />
   </sjis>
   <ascii>
-    I'll buy any <weapon_type>s<end_line />
+    I'll buy any <weapon_type />s<end_line />
     you have. *pant*<end_line />
     Sell 'em to me.<end_line />
   </ascii>
@@ -167,11 +167,11 @@
   <portrait_l name="wanted man">
   <sjis>
     きみ、<end_line />
-    <weapon_type>、持ってない？<end_line />
+    <weapon_type />、持ってない？<end_line />
   </sjis>
   <ascii>
     Hey,<end_line />
-    do you have any <weapon_type>?<end_line />
+    do you have any <weapon_type />?<end_line />
   </ascii>
 </dialogue>
 <dialogue>
@@ -204,11 +204,11 @@
   <portrait_l name="wanted man">
   <sjis>
     きみの持っている<end_line />
-    <weapon_type>、全部買う<end_line />
+    <weapon_type />、全部買う<end_line />
     売ってくれ<end_line />
   </sjis>
   <ascii>
-    I'll buy every <weapon_type><end_line />
+    I'll buy every <weapon_type /><end_line />
     you have. <end_line />
     Sell 'em to me.<end_line />
   </ascii>

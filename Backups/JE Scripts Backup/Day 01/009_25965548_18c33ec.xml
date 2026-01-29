@@ -29,11 +29,11 @@
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		<weapon_type>っていう、<end_line />
+		<weapon_type />っていう、<end_line />
 		スピアが欲しいんだけど<three_dots /><end_line />
 	</sjis>
   <ascii>
-    I want this spear, <weapon_type>,<end_line />
+    I want this spear, <weapon_type />,<end_line />
     but<three_dots /><end_line />
   </ascii>
 </dialogue>
@@ -41,10 +41,10 @@
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		<weapon_type>が必要らしい<end_line />
+		<weapon_type />が必要らしい<end_line />
 	</sjis>
   <ascii>
-    It seems you need <weapon_type> for it.<end_line />
+    It seems you need <weapon_type /> for it.<end_line />
   </ascii>
 </dialogue>
 <menu>
@@ -99,21 +99,21 @@
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		<weapon_type>っていう<end_line />
+		<weapon_type />っていう<end_line />
 		スピア、欲しいなぁ<three_dots /><end_line />
 	</sjis>
   <ascii>
-    I really want that <weapon_type> spear<three_dots /><end_line />
+    I really want that <weapon_type /> spear<three_dots /><end_line />
   </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		<weapon_type>が必要らしいけど<end_line />
+		<weapon_type />が必要らしいけど<end_line />
 	</sjis>
   <ascii>
-    It seems you need <weapon_type> though.<end_line />
+    It seems you need <weapon_type /> though.<end_line />
   </ascii>
 </dialogue>
 <menu>
@@ -224,24 +224,24 @@
 	<portrait_l name="elderly">
 	<sjis>
 		そうじゃ、お前、つくってくれぬか<end_line />
-		<weapon_type>といふ、<end_line />
+		<weapon_type />といふ、<end_line />
 		ドリルが欲しいんじゃあ<end_line />
 	</sjis>
   <ascii>
     I know, why don't you make me one?<end_line />
     I've been thinking about getting<end_line />
-    a <weapon_type> drill,<end_line />
+    a <weapon_type /> drill,<end_line />
   </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="elderly">
 	<sjis>
-		<weapon_type>といふ<end_line />
+		<weapon_type />といふ<end_line />
 		ものが必要らしい<end_line />
 	</sjis>
   <ascii>
-    but it seems I need <weapon_type>.<end_line />
+    but it seems I need <weapon_type />.<end_line />
   </ascii>
 </dialogue>
 <menu>
@@ -294,22 +294,22 @@
 	<info box="simple">
 	<portrait_l name="elderly">
 	<sjis>
-		<weapon_type>といふ、ドリル<end_line />
+		<weapon_type />といふ、ドリル<end_line />
 		作れるようになったか？<end_line />
 	</sjis>
   <ascii>
     Do you think you can<end_line />
-    make a <weapon_type> drill?<end_line />
+    make a <weapon_type /> drill?<end_line />
   </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="elderly">
 	<sjis>
-		<weapon_type>といふものが必要じゃ<end_line />
+		<weapon_type />といふものが必要じゃ<end_line />
 	</sjis>
   <ascii>
-    You'll need <weapon_type>.<end_line />
+    You'll need <weapon_type />.<end_line />
   </ascii>
 </dialogue>
 <menu>
@@ -416,20 +416,20 @@
 	<info box="simple">
 	<portrait_l name="woman">
 	<sjis>
-		<weapon_type>っていうボウ<end_line />
+		<weapon_type />っていうボウ<end_line />
 	</sjis>
   <ascii>
-    A <weapon_type> bow.<end_line />
+    A <weapon_type /> bow.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="woman">
 	<sjis>
-		<weapon_type>がいるらしいのよ<end_line />
+		<weapon_type />がいるらしいのよ<end_line />
 	</sjis>
   <ascii>
-    You'll need a <weapon_type><end_line />
+    You'll need a <weapon_type /><end_line />
     to craft it.<end_line />
   </ascii>
 </dialogue>
@@ -486,20 +486,20 @@
 	<info box="simple">
 	<portrait_l name="woman">
 	<sjis>
-		<weapon_type>っていうボウ<end_line />
+		<weapon_type />っていうボウ<end_line />
 	</sjis>
   <ascii>
-    So, about that <weapon_type> bow.<end_line />
+    So, about that <weapon_type /> bow.<end_line />
   </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="woman">
 	<sjis>
-		<weapon_type>がいるらしいのよ<end_line />
+		<weapon_type />がいるらしいのよ<end_line />
 	</sjis>
   <ascii>
-    You'll need <weapon_type> to make it.<end_line />
+    You'll need <weapon_type /> to make it.<end_line />
   </ascii>
 </dialogue>
 <menu>
@@ -617,11 +617,11 @@
 	<info box="simple">
 	<portrait_l name="woman">
 	<sjis>
-		<weapon_type>っていう、ナックル<end_line />
+		<weapon_type />っていう、ナックル<end_line />
 		ちょっと、ぶん殴りたい男が居るのよ<end_line />
 	</sjis>
   <ascii>
-    A <weapon_type> knuckle.<end_line />
+    A <weapon_type /> knuckle.<end_line />
     There's a man I'd like to use it on.<end_line />
   </ascii>
 </dialogue>
@@ -629,10 +629,10 @@
 	<info box="simple">
 	<portrait_l name="woman">
 	<sjis>
-		<weapon_type>がいるらしいわ<end_line />
+		<weapon_type />がいるらしいわ<end_line />
 	</sjis>
   <ascii>
-    You'll need <weapon_type> to make it.<end_line />
+    You'll need <weapon_type /> to make it.<end_line />
   </ascii>
 </dialogue>
 <menu>
@@ -698,22 +698,22 @@
 	<info box="simple">
 	<portrait_l name="woman">
 	<sjis>
-		<weapon_type>っていう、ナックル<end_line />
+		<weapon_type />っていう、ナックル<end_line />
 		やっぱり、できない？<end_line />
 	</sjis>
   <ascii>
     Can you make me a<end_line />
-    <weapon_type> knuckle?<end_line />
+    <weapon_type /> knuckle?<end_line />
   </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="woman">
 	<sjis>
-		<weapon_type>がいるらしいわ<end_line />
+		<weapon_type />がいるらしいわ<end_line />
 	</sjis>
   <ascii>
-    You'll need <weapon_type>.<end_line />
+    You'll need <weapon_type />.<end_line />
   </ascii>
 </dialogue>
 <menu>
@@ -832,11 +832,11 @@
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		<weapon_type>っていう<end_line />
+		<weapon_type />っていう<end_line />
 		ソードが欲しいんだけど<three_dots /><end_line />
 	</sjis>
   <ascii>
-    I'd like the <weapon_type><end_line />
+    I'd like the <weapon_type /><end_line />
     sword, but<three_dots /><end_line />
   </ascii>
 </dialogue>
@@ -844,10 +844,10 @@
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		<weapon_type>がいるらしいよ<end_line />
+		<weapon_type />がいるらしいよ<end_line />
 	</sjis>
   <ascii>
-    It seems you'll need <weapon_type>.<end_line />
+    It seems you'll need <weapon_type />.<end_line />
   </ascii>
 </dialogue>
 <menu>
@@ -891,11 +891,11 @@
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		<weapon_type>っていう<end_line />
+		<weapon_type />っていう<end_line />
 		ソードだけど<three_dots />やっぱり、できない？<end_line />
 	</sjis>
   <ascii>
-    About the <weapon_type> sword<three_dots /><end_line />
+    About the <weapon_type /> sword<three_dots /><end_line />
     Can you do it?<end_line />
   </ascii>
 </dialogue>
@@ -903,7 +903,7 @@
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		<weapon_type>がいるらしいよ<end_line />
+		<weapon_type />がいるらしいよ<end_line />
 	</sjis>
 </dialogue>
 <menu>
@@ -1012,21 +1012,21 @@
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		<weapon_type>っていう<end_line />
+		<weapon_type />っていう<end_line />
 		アクスが欲しいんだけど<three_dots /><end_line />
 	</sjis>
   <ascii>
-    I'd like the <weapon_type> axe, but<three_dots /><end_line />
+    I'd like the <weapon_type /> axe, but<three_dots /><end_line />
   </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		<weapon_type>がいるらしいよ<end_line />
+		<weapon_type />がいるらしいよ<end_line />
 	</sjis>
   <ascii>
-    It seems you'll need <weapon_type><end_line />
+    It seems you'll need <weapon_type /><end_line />
   </ascii>
 </dialogue>
 <menu>
@@ -1070,12 +1070,12 @@
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		<weapon_type>っていう<end_line />
+		<weapon_type />っていう<end_line />
 		アクスだけど<three_dots /><end_line />
 		やっぱり、できない？<end_line />
 	</sjis>
   <ascii>
-    About the <weapon_type> axe<three_dots /><end_line />
+    About the <weapon_type /> axe<three_dots /><end_line />
     Can you do it?<end_line />
   </ascii>
 </dialogue>
@@ -1083,10 +1083,10 @@
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		<weapon_type>がいるらしいよ<end_line />
+		<weapon_type />がいるらしいよ<end_line />
 	</sjis>
   <ascii>
-    It seems you'll need <weapon_type><end_line />
+    It seems you'll need <weapon_type /><end_line />
   </ascii>
 </dialogue>
 <menu>
@@ -1199,21 +1199,21 @@
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		<weapon_type>っていう<end_line />
+		<weapon_type />っていう<end_line />
 		ソードが欲しいんだけど<three_dots /><end_line />
 	</sjis>
   <ascii>
-    I'd like the <weapon_type> sword, but<three_dots /><end_line />
+    I'd like the <weapon_type /> sword, but<three_dots /><end_line />
   </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		<weapon_type>がいるらしいよ<end_line />
+		<weapon_type />がいるらしいよ<end_line />
 	</sjis>
   <ascii>
-    It seems you'll need <weapon_type>.<end_line />
+    It seems you'll need <weapon_type />.<end_line />
   </ascii>
 </dialogue>
 <menu>
@@ -1257,12 +1257,12 @@
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		<weapon_type>っていう<end_line />
+		<weapon_type />っていう<end_line />
 		ソードだけど<three_dots /><end_line />
 		やっぱり、できない？<end_line />
 	</sjis>
   <ascii>
-    About the <weapon_type> sword<three_dots /><end_line />
+    About the <weapon_type /> sword<three_dots /><end_line />
     Can you do it?<end_line />
   </ascii>
 </dialogue>
@@ -1270,7 +1270,7 @@
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		<weapon_type>がいるらしいよ<end_line />
+		<weapon_type />がいるらしいよ<end_line />
 	</sjis>
 </dialogue>
 <menu>
@@ -1365,21 +1365,21 @@
 	<info box="simple">
 	<portrait_l name="woman">
 	<sjis>
-		<weapon_type>っていうスピアが<end_line />
+		<weapon_type />っていうスピアが<end_line />
 		欲しいんだけど<three_dots /><end_line />
 	</sjis>
   <ascii>
-    I'd like the <weapon_type> spear, but<three_dots /><end_line />
+    I'd like the <weapon_type /> spear, but<three_dots /><end_line />
   </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="woman">
 	<sjis>
-		<weapon_type>が必要よ<end_line />
+		<weapon_type />が必要よ<end_line />
 	</sjis>
   <ascii>
-    You need <weapon_type>.<end_line />
+    You need <weapon_type />.<end_line />
   </ascii>
 </dialogue>
 <menu>
@@ -1423,11 +1423,11 @@
 	<info box="simple">
 	<portrait_l name="woman">
 	<sjis>
-		<weapon_type>っていう、だけど<three_dots /><end_line />
+		<weapon_type />っていう、だけど<three_dots /><end_line />
 		やっぱり、できない？<end_line />
 	</sjis>
   <ascii>
-    About the <weapon_type><three_dots /><end_line />
+    About the <weapon_type /><three_dots /><end_line />
     Can you do it?<end_line />
   </ascii>
 </dialogue>
@@ -1435,10 +1435,10 @@
 	<info box="simple">
 	<portrait_l name="woman">
 	<sjis>
-		<weapon_type>が必要よ<end_line />
+		<weapon_type />が必要よ<end_line />
 	</sjis>
   <ascii>
-    You'll need <weapon_type>.<end_line />
+    You'll need <weapon_type />.<end_line />
   </ascii>
 </dialogue>
 <menu>
@@ -1547,21 +1547,21 @@
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		<weapon_type>っていう<end_line />
+		<weapon_type />っていう<end_line />
 		ドリルが欲しいんだけど<three_dots /><end_line />
 	</sjis>
   <ascii>
-    I'd like the <weapon_type> drill, but<three_dots /><end_line />
+    I'd like the <weapon_type /> drill, but<three_dots /><end_line />
   </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		<weapon_type>がいるらしいよ<end_line />
+		<weapon_type />がいるらしいよ<end_line />
 	</sjis>
   <ascii>
-    It seems you'll need <weapon_type>.<end_line />
+    It seems you'll need <weapon_type />.<end_line />
   </ascii>
 </dialogue>
 <menu>
@@ -1605,12 +1605,12 @@
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		<weapon_type>っていう<end_line />
+		<weapon_type />っていう<end_line />
 		ドリルだけど<three_dots /><end_line />
 		やっぱり、できない？<end_line />
 	</sjis>
   <ascii>
-    About the <weapon_type> drill<three_dots /><end_line />
+    About the <weapon_type /> drill<three_dots /><end_line />
     Can you do it?<end_line />
   </ascii>
 </dialogue>
@@ -1618,7 +1618,7 @@
 	<info box="simple">
 	<portrait_l name="man">
 	<sjis>
-		<weapon_type>がいるらしいよ<end_line />
+		<weapon_type />がいるらしいよ<end_line />
 	</sjis>
 </dialogue>
 <menu>

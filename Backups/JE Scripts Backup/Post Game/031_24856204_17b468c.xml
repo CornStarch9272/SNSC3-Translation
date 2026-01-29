@@ -67,7 +67,7 @@
 	<info box="simple">
 	<sjis>
 		　<end_line />
-		　　<black_dot><left_arrow>のぞき穴<end_line />
+		　　<black_dot /><left_arrow />のぞき穴<end_line />
 		　<end_line />
 	</sjis>
 </dialogue>
