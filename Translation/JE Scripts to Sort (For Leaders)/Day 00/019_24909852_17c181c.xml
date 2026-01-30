@@ -639,7 +639,7 @@
 			<three_dots />っ！<end_line />
 		</sjis>
 		<ascii>
-			<three_dots />!<end_line />
+			<three_dots /> !<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -738,7 +738,7 @@
 			<three_dots />っ！<end_line />
 		</sjis>
 		<ascii>
-			<three_dots />!<end_line />
+			<three_dots /> !<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -852,7 +852,7 @@
 			<three_dots />っ！<end_line />
 		</sjis>
 		<ascii>
-			<three_dots />!<end_line />
+			<three_dots /> !<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -866,7 +866,7 @@
 			<three_dots />って、今の声<end_line />
 		</sjis>
 		<ascii>
-			<three_dots />!<end_line />
+			<three_dots /> !<end_line />
 			Why are YOU yelling first<three_dots />!<end_line />
 			<three_dots />Wait, that voice just now<three_dots /><end_line />
 		</ascii>
