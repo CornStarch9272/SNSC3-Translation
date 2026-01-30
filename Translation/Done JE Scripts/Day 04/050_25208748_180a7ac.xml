@@ -51,7 +51,7 @@
 			はぐれ<three_dots />！？<end_line />
 		</sjis>
 		<ascii>
-			A Stray<three_dots />!?<end_line />
+			A Stray!?<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -366,8 +366,8 @@
 				悪いのかよ<three_dots />！<end_line />
 			</sjis>
 			<ascii>
-				W-what of it!?<end_line />
-				Got a problem<three_dots />!<end_line />
+				W-what of it?<end_line />
+				Got a problem!?<end_line />
 			</ascii>
 		</male>
 		<female>

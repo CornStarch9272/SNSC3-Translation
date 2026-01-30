@@ -24,7 +24,7 @@
 			はぐれ召喚獣のところに<three_dots /><end_line />
 		</sjis>
 		<ascii>
-			I thought so<three_dots />!<end_line />
+			I thought so!<end_line />
 			That's where the Strays are!<end_line />
 		</ascii>
 	</dialogue>
@@ -88,7 +88,7 @@
 			あの子が<three_dots />！？<end_line />
 		</sjis>
 		<ascii>
-			That girl is<three_dots />!?<end_line />
+			That girl is <three_dots /> !?<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>

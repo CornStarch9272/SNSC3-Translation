@@ -574,7 +574,7 @@
 			ありがとうございます！<end_line />
 		</sjis>
 		<ascii>
-			My tail is<three_dots />!<end_line />
+			My tail is<three_dots /> !<end_line />
 			That's the first time anyone's<end_line />
 			said that! Thank you very much!<end_line />
 		</ascii>
@@ -602,7 +602,7 @@
 			引っぱらないでください<end_line />
 		</sjis>
 		<ascii>
-			Ah, ow<three_dots />!<end_line />
+			Ah, ow!<end_line />
 			Please don't pull on it<three_dots /><end_line />
 		</ascii>
 	</dialogue>
@@ -868,7 +868,7 @@
 				つれていけばいいんだろ！<end_line />
 			</sjis>
 			<ascii>
-				Ugh<three_dots />!<end_line />
+				Ugh<three_dots /> !<end_line />
 				Alright, okay!<end_line />
 				I'll come with you!<end_line />
 			</ascii>
@@ -880,7 +880,7 @@
 				つれていけばいいんでしょ！<end_line />
 			</sjis>
 			<ascii>
-				Ugh<three_dots />!<end_line />
+				Ugh<three_dots /> !<end_line />
 				Alright, okay!<end_line />
 				I'll come with you!<end_line />
 			</ascii>

@@ -115,7 +115,7 @@
 		<ascii>
 			You know each other<three_dots />?<end_line />
 			Just my luck<three_dots /><end_line />
-			Everyone keeps getting in my way<three_dots />!<end_line />
+			Everyone keeps getting in my way!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -321,7 +321,7 @@
 		<ascii>
 			No<three_dots /><end_line />
 			What misfortune?<end_line />
-			I'm<three_dots />!<end_line />
+			I'm— !<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -335,7 +335,7 @@
 		</sjis>
 		<ascii>
 			What misfortune?<end_line />
-			I'm<three_dots />!<end_line />
+			I'm— !<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -363,7 +363,7 @@
 			どういう<three_dots />？<end_line />
 		</sjis>
 		<ascii>
-			<three_dots />!?<end_line />
+			<three_dots /> !?<end_line />
 			What<three_dots /><end_line />
 			do you mean<three_dots />?<end_line />
 		</ascii>

@@ -7,7 +7,7 @@
 			ちょっと、大丈夫！？<end_line />
 		</sjis>
 		<ascii>
-			Everyone<three_dots />!<end_line />
+			Everyone!<end_line />
 			Hey, are you alright!?<end_line />
 		</ascii>
 	</dialogue>
@@ -310,7 +310,7 @@
 		</sjis>
 		<ascii>
 			Bro,<end_line />
-			you're so cool<three_dots />!<end_line />
+			you're so cool!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -624,7 +624,7 @@
 			<three_dots />！<end_line />
 		</sjis>
 		<ascii>
-			<three_dots />!<end_line />
+			<three_dots /> !<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>

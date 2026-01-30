@@ -291,8 +291,8 @@
 			返せ<three_dots />っ！！！<end_line />
 		</sjis>
 		<ascii>
-			Give it back<three_dots />!<end_line />
-			Give it<three_dots />!!!<end_line />
+			Give it back!<end_line />
+			Give it!!!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -305,7 +305,7 @@
 		</sjis>
 		<ascii>
 			What's with you!?<end_line />
-			Lemme go<three_dots />!<end_line />
+			Lemme go!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -362,7 +362,7 @@
 				きっさま<three_dots />！<end_line />
 			</sjis>
 			<ascii>
-				Hey<three_dots />!<end_line />
+				Hey!<end_line />
 			</ascii>
 		</male>
 		<female>
@@ -370,7 +370,7 @@
 				あんたねぇ<three_dots />！<end_line />
 			</sjis>
 			<ascii>
-				Hey<three_dots />!<end_line />
+				Hey!<end_line />
 			</ascii>
 		</female>
 	</dialogue>
@@ -510,7 +510,7 @@
 			く<three_dots />っ！<end_line />
 		</sjis>
 		<ascii>
-			Urgh<three_dots />!<end_line />
+			Urgh!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -550,7 +550,7 @@
 		</sjis>
 		<ascii>
 			Just<three_dots /> Please!<end_line />
-			If you don't, misfortune will<three_dots />!<end_line />
+			If you don't, misfortune will!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -587,7 +587,7 @@
 		</sjis>
 		<ascii>
 			Damn it all!<end_line />
-			Those guys<three_dots />!<end_line />
+			Those guys!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -615,7 +615,7 @@
 		<ascii>
 			How could they!<end_line />
 			Now I'm really mad<three_dots /><end_line />
-			They're gonna get it<three_dots />!<end_line />
+			They're gonna get it!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -1220,8 +1220,8 @@
 		</sjis>
 		<ascii>
 			But<three_dots /><end_line />
-			I have to<three_dots /><end_line />
-			If I don't guard it<three_dots />!<end_line />
+			I have to! <three_dots /><end_line />
+			If I don't guard it<three_dots /><end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>

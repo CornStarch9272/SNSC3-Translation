@@ -1104,7 +1104,7 @@
 		</sjis>
 		<ascii>
 			Ahh<three_dots /><end_line />
-			How refreshing<three_dots />!<end_line />
+			How refreshing!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -1632,7 +1632,7 @@
 		</sjis>
 		<ascii>
 			Crap<three_dots /><end_line />
-			I could get addicted to this<three_dots />!<end_line />
+			I could get addicted to this!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>

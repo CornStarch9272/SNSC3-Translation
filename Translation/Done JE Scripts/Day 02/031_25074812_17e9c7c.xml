@@ -22,7 +22,7 @@
 				ミューノの大切なものみたいなんだ<end_line />
 			</sjis>
 			<ascii>
-				Please<three_dots />!<end_line />
+				Please!<end_line />
 				Give back that stone!<end_line />
 				It's really important<three_dots /><end_line />
 			</ascii>
@@ -34,7 +34,7 @@
 				ミューノの大切なものみたいなの<end_line />
 			</sjis>
 			<ascii>
-				Please<three_dots />!<end_line />
+				Please!<end_line />
 				Give back that stone!<end_line />
 				It's really important<three_dots /><end_line />
 			</ascii>
@@ -402,7 +402,7 @@
 			なっ、土下座じゃと<three_dots /><end_line />
 		</sjis>
 		<ascii>
-			No<three_dots />!<end_line />
+			No!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -861,7 +861,7 @@
 		</sjis>
 		<ascii>
 			Bastard<three_dots /><end_line />
-			Wait<three_dots />!<end_line />
+			Wait!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>

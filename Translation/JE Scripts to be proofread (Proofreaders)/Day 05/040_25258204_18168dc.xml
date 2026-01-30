@@ -11,7 +11,7 @@
 		<ascii>
 			Oh!<end_line />
 			It's Tier!<end_line />
-			There you are<three_dots />!<end_line />
+			There you are!<end_line />
 	</dialogue>
 	<dialogue>
 		<player gender="female" />
@@ -22,7 +22,7 @@
 			あなた<three_dots />！<end_line />
 		</sjis>
 		<ascii>
-			There you are<three_dots />!<end_line />
+			There you are!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -87,7 +87,7 @@
 		<ascii>
 			You Don't Know!?<end_line />
 			What Does That Mean?<end_line />
-			Wasn't She With You<three_dots />!?<end_line />
+			Wasn't She With You!?<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -102,8 +102,8 @@
 		</sjis>
 		<ascii>
 			You don't know!?<end_line />
-			What is the meaning of this!<end_line />
-			Wasn't she with you<three_dots />!?<end_line />
+			What is the meaning of this!?<end_line />
+			Wasn't she with you!?<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -174,7 +174,7 @@
 		<ascii>
 			I knew it was dangerous,<end_line />
 			but Murno insisted<three_dots /><end_line />
-			I wanted to help so<three_dots />!<end_line />
+			I wanted to help! So<three_dots /><end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -240,7 +240,7 @@
 			いたっ<three_dots />！<end_line />
 		</sjis>
 		<ascii>
-			Ow<three_dots />!<end_line />
+			Ow!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -261,7 +261,7 @@
 			あなた、ケガして<three_dots />！？<end_line />
 		</sjis>
 		<ascii>
-			Are you hurt<three_dots />!?<end_line />
+			Are you hurt!?<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -313,7 +313,7 @@
 			許せない！<end_line />
 		</sjis>
 		<ascii>
-			They hurt Tier<three_dots />!<end_line />
+			They hurt Tier!<end_line />
 			Unforgivable!<end_line />
 		</ascii>
 	</dialogue>

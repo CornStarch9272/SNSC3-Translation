@@ -558,7 +558,7 @@
 			</sjis>
 			<ascii>
 				Alright! Let's do it!<end_line />
-				No way<three_dots />! I can't fight!<end_line />
+				No way! I can't fight!<end_line />
 			</ascii>
 		</male>
 		<female>
@@ -568,7 +568,7 @@
 			</sjis>
 			<ascii>
 				Alright! Let's do it!<end_line />
-				No way<three_dots />! I can't fight!<end_line />
+				No way! I can't fight!<end_line />
 			</ascii>
 		</female>
 	</choice>
@@ -728,7 +728,7 @@
 				もう、仕方ないか！<end_line />
 			</sjis>
 			<ascii>
-				Ugh<three_dots />!<end_line />
+				Ugh<three_dots /> !<end_line />
 				Well alright, let's do it then!<end_line />
 			</ascii>
 		</male>
@@ -738,7 +738,7 @@
 				もう、仕方ないわ！<end_line />
 			</sjis>
 			<ascii>
-				Ugh<three_dots />!<end_line />
+				Ugh<three_dots /> !<end_line />
 				Well alright, let's do it then!<end_line />
 			</ascii>
 		</female>

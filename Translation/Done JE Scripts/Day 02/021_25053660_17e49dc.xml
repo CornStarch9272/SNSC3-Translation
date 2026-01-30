@@ -57,7 +57,7 @@
 			気配が読めなんだとは！<end_line />
 		</sjis>
 		<ascii>
-			When did you<three_dots />!<end_line />
+			When did you!?<end_line />
 			How did I<three_dots /><end_line />
 			How could I not notice!?<end_line />
 		</ascii>
@@ -75,7 +75,7 @@
 		<ascii>
 			You<three_dots /><end_line />
 			When did you<three_dots /><end_line />
-			Who are you<three_dots />!<end_line />
+			Who are you!?<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -89,7 +89,7 @@
 			いきなり<three_dots />！<end_line />
 		</sjis>
 		<ascii>
-			Eek<three_dots />!<end_line />
+			Eek!<end_line />
 			Who is this person!?<end_line />
 			He came out of nowhere!<end_line />
 		</ascii>
@@ -149,7 +149,7 @@
 		</sjis>
 		<ascii>
 			This person<three_dots /><end_line />
-			An enemy<three_dots />!?<end_line />
+			An enemy!?<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -410,8 +410,8 @@
 			敵じゃないのか<three_dots /><end_line />
 		</sjis>
 		<ascii>
-			"Bro"<three_dots />!?<end_line />
-			So he's not an enemy<three_dots />?<end_line />
+			"Bro"!?<end_line />
+			So he's<three_dots /> not an enemy?<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -823,7 +823,7 @@
 			キ、キサマのように、だと<three_dots /><end_line />
 		</sjis>
 		<ascii>
-			L-Like you<three_dots />!?<end_line />
+			L-Like you!?<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>

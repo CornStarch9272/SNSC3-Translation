@@ -21,7 +21,7 @@
 			どうする？<end_line />
 		</sjis>
 		<ascii>
-			Tch<three_dots />!<end_line />
+			Tch!<end_line />
 			What do we do now?<end_line />
 		</ascii>
 	</dialogue>
@@ -314,7 +314,7 @@
 			ええ〜！？<end_line />
 		</sjis>
 		<ascii>
-			Whaa<three_dots />!?<end_line />
+			Whaa— !?<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>

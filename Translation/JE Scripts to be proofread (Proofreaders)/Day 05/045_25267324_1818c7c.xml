@@ -95,7 +95,7 @@
 		<ascii>
 			Oh<three_dots /><end_line />
 			No<three_dots /><end_line />
-			Stay away<three_dots /><three_dots />!<end_line />
+			Stay away!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -206,7 +206,7 @@
 			ロブってムカつく鍛冶師野郎に！<end_line />
 		</sjis>
 		<ascii>
-			That bastard Rob<three_dots />!<end_line />
+			That bastard Rob!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -220,9 +220,9 @@
 				親方のこと<three_dots />！？<end_line />
 			</sjis>
 			<ascii>
-				Wha<three_dots /> Rob<three_dots />!?<end_line />
-				H<three_dots /> How do you<end_line />
-				know him<three_dots />!?<end_line />
+				Wha— Rob!?<end_line />
+				H—How do you<end_line />
+				know him!?<end_line />
 			</ascii>
 		</male>
 		<female>
@@ -232,9 +232,9 @@
 				親方のこと<three_dots />！？<end_line />
 			</sjis>
 			<ascii>
-				Wha<three_dots /> Rob<three_dots />!?<end_line />
-				H<three_dots /> How do you<end_line />
-				know him<three_dots />!?<end_line />
+				Wha— Rob!?<end_line />
+				H—How do you<end_line />
+				know him!?<end_line />
 			</ascii>
 		</female>
 	</dialogue>
@@ -297,7 +297,7 @@
 		</sjis>
 		<ascii>
 			That's<three_dots /><end_line />
-			Magdrad<three_dots />!?<end_line />
+			Magdrad!?<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -338,7 +338,7 @@
 		<ascii>
 			No, it's not!<end_line />
 			She Summoned it<end_line />
-			all on her own<three_dots />!<end_line />
+			all on her own!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -440,7 +440,7 @@
 			気持ち悪い<three_dots /><end_line />
 		</sjis>
 		<ascii>
-			Ugh<three_dots />!<end_line />
+			Ugh<three_dots /> !<end_line />
 			You're creeping me out<three_dots /><end_line />
 		</ascii>
 	</dialogue>
@@ -841,7 +841,7 @@
 			いけるぞ！<end_line />
 		</sjis>
 		<ascii>
-			I get it now<three_dots />!<end_line />
+			I get it now!<end_line />
 			Yeah, that works!<end_line />
 		</ascii>
 	</dialogue>
@@ -886,7 +886,7 @@
 			やれるよ<three_dots />！<end_line />
 		</sjis>
 		<ascii>
-			We can do it<three_dots />!<end_line />
+			We can do it!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -1018,7 +1018,7 @@
 			わかりましたわ<end_line />
 		</sjis>
 		<ascii>
-			I see<three_dots />!<end_line />
+			I see!<end_line />
 			That's brilliant!<end_line />
 			Understood.<end_line />
 		</ascii>
@@ -1047,8 +1047,8 @@
 			わかりまし<three_dots />！<end_line />
 		</sjis>
 		<ascii>
-			I<three_dots />!<end_line />
-			Okay, I'll<three_dots />!<end_line />
+			I<three_dots /><end_line />
+			Okay, I'll— !<end_line />
 		</ascii>
 	</dialogue>
 	<bigtext>
@@ -1234,7 +1234,7 @@
 			こ<three_dots />こいつ<three_dots />！？<end_line />
 		</sjis>
 		<ascii>
-			Wh<three_dots /> what the<three_dots />!?<end_line />
+			Wh—what the!?<end_line />
 		</ascii>
 	</dialogue>
 	<bigtext>

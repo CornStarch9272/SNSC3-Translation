@@ -304,7 +304,7 @@
 			<three_dots />！<end_line />
 		</sjis>
 		<ascii>
-			!!!<end_line />
+			<three_dots /> !<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -328,7 +328,7 @@
 			なに<three_dots />！<end_line />
 		</sjis>
 		<ascii>
-			Why you<three_dots />!<end_line />
+			What the hell!?<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>

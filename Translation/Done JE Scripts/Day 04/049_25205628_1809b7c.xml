@@ -8,7 +8,7 @@
 		</sjis>
 		<ascii>
 			Damn<three_dots /><end_line />
-			They're<three_dots /> strong<three_dots />!<end_line />
+			They're<three_dots /> strong!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -104,8 +104,8 @@
 			テメェら<three_dots />！<end_line />
 		</sjis>
 		<ascii>
-			What!<end_line />
-			You<three_dots />!<end_line />
+			What!?<end_line />
+			You!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>

@@ -318,7 +318,8 @@
 				あなた、まだその話を<three_dots />！？<end_line />
 			</sjis>
 			<ascii>
-				bring this up again<three_dots />!?<end_line />
+				You're still going on<end_line />
+				about that!?<end_line />
 			</ascii>
 		</female>
 	</dialogue>
@@ -804,7 +805,7 @@
 			ヤ<three_dots />っ！？<end_line />
 		</sjis>
 		<ascii>
-			Jea<three_dots />!?<end_line />
+			Jea— !?<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -964,7 +965,7 @@
 			そんな、だれが<three_dots />！<end_line />
 		</sjis>
 		<ascii>
-			No, I<three_dots />!<end_line />
+			No, I— !<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -1373,7 +1374,7 @@
 		</sjis>
 		<ascii>
 			Ohhh<three_dots /><end_line />
-			That's a fire quote, alright!<three_dots />!<end_line />
+			That's a fire quote, alright!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
