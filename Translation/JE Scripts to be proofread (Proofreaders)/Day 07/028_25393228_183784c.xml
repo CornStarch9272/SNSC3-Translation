@@ -345,7 +345,7 @@
 			あったぞ、召喚石！<end_line />
 		</sjis>
 		<ascii>
-			Tch!<end_line />
+			<three_dots /> Tsk!<end_line />
 			Found the Summonite!<end_line />
 		</ascii>
 	</dialogue>

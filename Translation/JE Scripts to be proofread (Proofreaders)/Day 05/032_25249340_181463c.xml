@@ -527,7 +527,7 @@
 			ちっ<three_dots />！<end_line />
 		</sjis>
 		<ascii>
-			Tch!<end_line />
+			<three_dots /> Tsk!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>

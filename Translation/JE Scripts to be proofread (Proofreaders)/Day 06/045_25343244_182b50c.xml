@@ -548,7 +548,7 @@
 			守ろうなどと<three_dots />！<end_line />
 		</sjis>
 		<ascii>
-			Tch!<end_line />
+			<three_dots /> Tsk!<end_line />
 			A kid like you,<end_line />
 			protecting me!<end_line />
 		</ascii>
