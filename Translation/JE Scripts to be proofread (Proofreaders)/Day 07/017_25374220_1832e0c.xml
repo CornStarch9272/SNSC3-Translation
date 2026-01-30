@@ -536,7 +536,7 @@
 			え、ちょ<three_dots />っ！<end_line />
 		</sjis>
 		<ascii>
-			What!? Wait<three_dots />!<end_line />
+			What!? Wait!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -651,7 +651,7 @@
 			我らも急ぐぞ！<end_line />
 		</sjis>
 		<ascii>
-			Once again he's<three_dots />!<end_line />
+			Once again she's<three_dots /><end_line />
 			What are you doing, <player_nickname />!<end_line />
 			We must hurry!<end_line />
 		</ascii>

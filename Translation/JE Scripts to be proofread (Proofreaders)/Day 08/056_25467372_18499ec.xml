@@ -52,7 +52,7 @@
 		<ascii>
 			More importantly,<end_line />
 			you people have been<end_line />
-			deceiving Master Bostaph<three_dots />!<end_line />
+			deceiving Master Bostaph!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -151,8 +151,8 @@
 			これでは、アカバネが！<end_line />
 		</sjis>
 		<ascii>
-			Shit<three_dots />!<end_line />
-			Red Wing is<three_dots />!<end_line />
+			Shit!<end_line />
+			Red Wing is<three_dots /><end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -188,7 +188,7 @@
 			おい、お前たち<three_dots />！<end_line />
 		</sjis>
 		<ascii>
-			Hey, wait<three_dots />!<end_line />
+			Hey, wait!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -321,7 +321,7 @@
 				<partner />が<three_dots /><end_line />
 			</sjis>
 			<ascii>
-				No<three_dots />!<end_line />
+				No!<end_line />
 				<partner /> is<three_dots /><end_line />
 			</ascii>
 		</male>
@@ -331,7 +331,7 @@
 				<partner />が<three_dots /><end_line />
 			</sjis>
 			<ascii>
-				No<three_dots />!<end_line />
+				No!<end_line />
 				<partner /> is<three_dots /><end_line />
 			</ascii>
 		</female>
@@ -346,9 +346,9 @@
 			アカバネが<three_dots />！<end_line />
 		</sjis>
 		<ascii>
-			Why now<three_dots />!?<end_line />
+			Why now!?<end_line />
 			If we don't escape,<end_line />
-			Red Wing will<three_dots />!<end_line />
+			Red Wing will<three_dots /><end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -384,7 +384,7 @@
 			アイツは僕がなんとかするよ<end_line />
 		</sjis>
 		<ascii>
-			Unbelievable<three_dots />!<end_line />
+			Unbelievable!<end_line />
 			Then do what you need to do.<end_line />
 			I'll take care of this one.<end_line />
 		</ascii>

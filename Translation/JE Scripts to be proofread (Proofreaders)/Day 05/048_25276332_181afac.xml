@@ -21,7 +21,7 @@
 			ミューノ！？<end_line />
 		</sjis>
 		<ascii>
-			<partner /><three_dots />!?<end_line />
+			<partner />!?<end_line />
 			Murno!?<end_line />
 		</ascii>
 	</dialogue>
@@ -37,7 +37,7 @@
 		<ascii>
 			Huh?<end_line />
 			My weapon's gone?<end_line />
-			What about<three_dots />!?<end_line />
+			What about <three_dots /> !?<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -75,7 +75,7 @@
 			ミューノ！？<end_line />
 		</sjis>
 		<ascii>
-			<partner /><three_dots />!?<end_line />
+			<partner />!?<end_line />
 			Murno!?<end_line />
 		</ascii>
 	</dialogue>
@@ -91,7 +91,7 @@
 		<ascii>
 			Huh?<end_line />
 			My weapon's gone?<end_line />
-			What about<three_dots />!?<end_line />
+			What about <three_dots /> !?<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>

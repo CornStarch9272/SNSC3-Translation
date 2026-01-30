@@ -296,7 +296,7 @@
 		<ascii>
 			Where have I felt this before<three_dots /><end_line />
 			<three_dots />Indeed, I recognized its aura<end_line />
-			from when we fleed our village<three_dots />!<end_line />
+			from when we fleed our village!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -526,7 +526,7 @@
 		<ascii>
 			This feeling<three_dots />I remember now!<end_line />
 			Last I felt this malice was when<end_line />
-			when we fleed from the village<three_dots />!<end_line />
+			when we fleed from the village!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -628,7 +628,7 @@
 			イヤな感じが強くなった<end_line />
 		</sjis>
 		<ascii>
-			Tch<three_dots />!<end_line />
+			Tch!<end_line />
 			I can feel its malice<end_line />
 			grow even stronger!<end_line />
 		</ascii>
@@ -756,7 +756,7 @@
 		<ascii>
 			This feeling<three_dots />indeed, it is<three_dots /><end_line />
 			This was the very same thing I<end_line />
-			felt when we fled the village<three_dots />!<end_line />
+			felt when we fled the village!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -955,7 +955,7 @@
 			言うことをきかない<three_dots />！<end_line />
 		</sjis>
 		<ascii>
-			Impossible<three_dots />!<end_line />
+			Impossible!<end_line />
 			It won't listen to what I say!<end_line />
 		</ascii>
 	</dialogue>

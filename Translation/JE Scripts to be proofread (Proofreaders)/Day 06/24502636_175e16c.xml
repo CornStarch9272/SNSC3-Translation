@@ -1656,7 +1656,7 @@
 		<ascii>
 			At The Bottom Of The Ruins!<end_line />
 			If We Do Not Hurry,<end_line />
-			Lady Murno Will<three_dots />!<end_line />
+			Lady Murno Will<three_dots /><end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -1711,7 +1711,7 @@
 		<ascii>
 			At the lowest point in the ruins!<end_line />
 			If we do not hurry,<end_line />
-			Murno might be<three_dots />!<end_line />
+			Murno might be<three_dots /><end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>

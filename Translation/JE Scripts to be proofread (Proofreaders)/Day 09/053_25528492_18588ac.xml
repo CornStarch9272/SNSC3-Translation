@@ -85,7 +85,7 @@
 			くっ<three_dots />！<end_line />
 		</sjis>
 		<ascii>
-			Ku<three_dots />!<end_line />
+			Ku<three_dots /> !<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -270,7 +270,7 @@
 			こいつ、まだ<three_dots /><end_line />
 		</sjis>
 		<ascii>
-			Hyaa<three_dots />!<end_line />
+			Hyaa!<end_line />
 			It's still<three_dots /><end_line />
 		</ascii>
 	</dialogue>
@@ -308,7 +308,7 @@
 		<ascii>
 			I-I'm okay<three_dots /><end_line />
 			But this is a bit<three_dots /><end_line />
-			Hurry<three_dots />!<end_line />
+			Hurry!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>

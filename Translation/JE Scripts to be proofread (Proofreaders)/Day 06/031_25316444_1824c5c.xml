@@ -126,7 +126,7 @@
 		</sjis>
 		<ascii>
 			Help me<three_dots /><end_line />
-			I can't stand this place anymore<three_dots />!<end_line />
+			I can't stand this place anymore!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -273,7 +273,7 @@
 			おねがい、戻りましょ！<end_line />
 		</sjis>
 		<ascii>
-			No<three_dots />!<end_line />
+			No!<end_line />
 			I don't wanna stay here<three_dots /><end_line />
 			Please, let's go back!<end_line />
 		</ascii>

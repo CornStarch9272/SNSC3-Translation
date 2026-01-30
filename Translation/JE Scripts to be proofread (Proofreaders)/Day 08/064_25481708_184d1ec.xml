@@ -182,7 +182,7 @@
 				絶対に捕まえてやる<three_dots />！<end_line />
 			</sjis>
 			<ascii>
-				We'll catch them<three_dots />!<end_line />
+				We'll catch them!<end_line />
 			</ascii>
 		</male>
 		<female>
@@ -221,7 +221,7 @@
 			絶対に捕まえるんだから<three_dots />！<end_line />
 		</sjis>
 		<ascii>
-			We'll catch them<three_dots />!<end_line />
+			We'll catch them!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>

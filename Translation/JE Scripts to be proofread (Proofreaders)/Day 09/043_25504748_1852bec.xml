@@ -232,7 +232,7 @@
 		</sjis>
 		<ascii>
 			But Benson was at the workshop,<end_line />
-			it should have been safe<three_dots />!<end_line />
+			it should have been safe!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -275,7 +275,7 @@
 		<ascii>
 			And then,<end_line />
 			Master was<three_dots /><end_line />
-			Master was<three_dots />!<end_line />
+			Master was— !<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -299,7 +299,7 @@
 			わたし、どうしたらいいか<three_dots />！<end_line />
 		</sjis>
 		<ascii>
-			I didn't know what I<three_dots />!<end_line />
+			I didn't know what I<three_dots /><end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>

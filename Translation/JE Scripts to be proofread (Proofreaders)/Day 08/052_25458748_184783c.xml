@@ -21,7 +21,7 @@
 			</sjis>
 			<ascii>
 				Ugh<three_dots /><end_line />
-				Y<three_dots />You guys<three_dots />!<end_line />
+				Y<three_dots />You guys!<end_line />
 			</ascii>
 		</male>
 		<female>
@@ -31,7 +31,7 @@
 			</sjis>
 			<ascii>
 				Ugh<three_dots /><end_line />
-				Y<three_dots />You guys<three_dots />!<end_line />
+				Y<three_dots />You guys!<end_line />
 			</ascii>
 		</female>
 	</dialogue>

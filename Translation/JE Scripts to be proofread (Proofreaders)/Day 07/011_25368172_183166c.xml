@@ -10,7 +10,7 @@
 				今度は暑いなぁ<end_line />
 			</sjis>
 			<ascii>
-				Woah<three_dots />!<end_line />
+				Woah!<end_line />
 				What the<three_dots />?<end_line />
 				It's so hot in here.<end_line />
 			</ascii>
@@ -22,7 +22,7 @@
 				今度は暑いなぁ<end_line />
 			</sjis>
 			<ascii>
-				Woah<three_dots />!<end_line />
+				Woah!<end_line />
 				What the<three_dots />?<end_line />
 				It's so hot in here.<end_line />
 			</ascii>
@@ -454,7 +454,7 @@
 				じゃ、オレたちも行こうぜ！<end_line />
 			</sjis>
 			<ascii>
-				Alright<three_dots />!<end_line />
+				Alright!<end_line />
 				Let's get going!<end_line />
 			</ascii>
 		</male>
@@ -464,7 +464,7 @@
 				じゃ、わたしたちも行こっ！<end_line />
 			</sjis>
 			<ascii>
-				Alright<three_dots />!<end_line />
+				Alright!<end_line />
 				Let's get going!<end_line />
 			</ascii>
 		</female>

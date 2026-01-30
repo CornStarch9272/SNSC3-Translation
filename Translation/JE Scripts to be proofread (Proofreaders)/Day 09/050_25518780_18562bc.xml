@@ -36,7 +36,7 @@
 		</sjis>
 		<ascii>
 			You brat<three_dots /><end_line />
-			So arrogant<three_dots />!<end_line />
+			So arrogant!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -237,7 +237,7 @@
 			あ<three_dots />！<end_line />
 		</sjis>
 		<ascii>
-			Ah<three_dots />!<end_line />
+			Ah!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -265,7 +265,7 @@
 		<ascii>
 			Y-you!<end_line />
 			What did you do!?<end_line />
-			Did you just kick his<three_dots />!?<end_line />
+			Did you just kick his <three_dots /> !?<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -339,7 +339,7 @@
 			う<three_dots />！<end_line />
 		</sjis>
 		<ascii>
-			Ugh<three_dots />!<end_line />
+			Ugh<three_dots /> !<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>

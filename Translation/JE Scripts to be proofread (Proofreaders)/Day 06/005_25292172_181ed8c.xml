@@ -111,7 +111,7 @@
 				お前<three_dots />！<end_line />
 			</sjis>
 			<ascii>
-				Anise<three_dots />!<end_line />
+				Anise!<end_line />
 			</ascii>
 		</male>
 		<female>
@@ -119,7 +119,7 @@
 				あんた<three_dots />！<end_line />
 			</sjis>
 			<ascii>
-				Anise<three_dots />!<end_line />
+				Anise!<end_line />
 			</ascii>
 		</female>
 	</dialogue>
@@ -131,7 +131,7 @@
 			どうしてここに<three_dots />！<end_line />
 		</sjis>
 		<ascii>
-			Why are you<three_dots />!<end_line />
+			Why are you!?<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -223,7 +223,7 @@
 			</sjis>
 			<ascii>
 				What!?<end_line />
-				You're working together<three_dots />!<end_line />
+				You're working together!<end_line />
 			</ascii>
 		</male>
 		<female>
@@ -233,7 +233,7 @@
 			</sjis>
 			<ascii>
 				What!?<end_line />
-				You're working together<three_dots />!<end_line />
+				You're working together!<end_line />
 			</ascii>
 		</female>
 	</dialogue>
@@ -693,7 +693,7 @@
 			<three_dots />っ！<end_line />
 		</sjis>
 		<ascii>
-			<three_dots />!<end_line />
+			<three_dots /> !<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -1141,7 +1141,7 @@
 			く<three_dots />！<end_line />
 		</sjis>
 		<ascii>
-			Ku<three_dots />!<end_line />
+			Ku— !<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
