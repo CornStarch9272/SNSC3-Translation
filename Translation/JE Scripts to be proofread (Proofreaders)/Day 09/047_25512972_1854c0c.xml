@@ -61,7 +61,7 @@
 			</sjis>
 			<ascii>
 				Wait<three_dots /><end_line />
-				Why are you still<three_dots />!?<end_line />
+				Why are you still!?<end_line />
 			</ascii>
 		</female>
 	</dialogue>
@@ -324,7 +324,7 @@
 			ぐえ<three_dots />っ！<end_line />
 		</sjis>
 		<ascii>
-			Gueh<three_dots />!<end_line />
+			Gueh!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -387,7 +387,7 @@
 			あの、親方<three_dots />！<end_line />
 		</sjis>
 		<ascii>
-			Um, Master<three_dots />!<end_line />
+			Um, Master<three_dots /><end_line />
 		</ascii>
 	</dialogue>
 	<bigtext>

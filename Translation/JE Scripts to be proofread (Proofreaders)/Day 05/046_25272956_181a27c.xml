@@ -308,7 +308,7 @@
 			<three_dots />！<end_line />
 		</sjis>
 		<ascii>
-			<three_dots />!<end_line />
+			<three_dots /> !<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -333,7 +333,7 @@
 		</sjis>
 		<ascii>
 			Let me go!<end_line />
-			The Stone<three_dots /> The Demon Stone<three_dots />!<end_line />
+			The Stone<three_dots /> The Demon Stone!<end_line />
 			Give it to me!!<end_line />
 		</ascii>
 	</dialogue>
@@ -523,7 +523,7 @@
 			あ<three_dots />！<end_line />
 		</sjis>
 		<ascii>
-			Ah<three_dots />!<end_line />
+			Ah!<end_line />
 		</ascii>
 	</bigtext>
 	<bigtext>

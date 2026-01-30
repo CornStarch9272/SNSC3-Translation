@@ -633,8 +633,8 @@
 			それに、ミューノ様をねらってる？<end_line />
 		</sjis>
 		<ascii>
-			Th-that person<end_line />
-			is Bostaph<three_dots />?<end_line />
+			Th-that person<three_dots /><end_line />
+			is Bostaph?<end_line />
 			And he's after Murno?<end_line />
 		</ascii>
 	</dialogue>

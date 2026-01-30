@@ -239,7 +239,7 @@
 			あなたまでダマされて<three_dots />！<end_line />
 		</sjis>
 		<ascii>
-			You're all being deceived<three_dots />!<end_line />
+			You're all being deceived!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -503,7 +503,7 @@
 			トラム<three_dots />！<end_line />
 		</sjis>
 		<ascii>
-			Tram<three_dots />!<end_line />
+			Tram!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -618,9 +618,9 @@
 			どれだけ<player_nickname />たちが<three_dots />！<end_line />
 		</sjis>
 		<ascii>
-			Anise<three_dots />!<end_line />
+			Anise!<end_line />
 			Do you know how much <player_nickname /><end_line />
-			has suffered because of you<three_dots />!<end_line />
+			has suffered because of you!?<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -1223,7 +1223,7 @@
 		<ascii>
 			Please wait!<end_line />
 			The Room of Judgment is<end_line />
-			inside the ruins<three_dots />!<end_line />
+			inside the ruins!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
