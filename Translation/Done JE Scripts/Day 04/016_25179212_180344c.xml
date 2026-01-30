@@ -117,7 +117,7 @@
 			油断した！<end_line />
 		</sjis>
 		<ascii>
-			Tch!<end_line />
+			<three_dots /> Tsk!<end_line />
 			I let my guard down!<end_line />
 		</ascii>
 	</dialogue>

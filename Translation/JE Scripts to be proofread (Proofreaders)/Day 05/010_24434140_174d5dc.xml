@@ -38,7 +38,7 @@
 		<ascii>
 			<three_dots />What?<end_line />
 		</ascii>
-		# Changed from "Hmwhat?".
+		<!--  Changed from "Hmwhat?".-->
 	</dialogue>
 	<dialogue>
 		<info box="simple" />

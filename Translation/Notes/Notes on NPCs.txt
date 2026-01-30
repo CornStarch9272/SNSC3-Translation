@@ -53,7 +53,7 @@ Final Day dialogue branches:
   
   Char. specific files:   vs. partner       final in prosban
   Partner:                187c19c.          18c0acc_ut
-  Vee:                    187cf5c.          18c1b8c.
+  V.E:                    187cf5c.          18c1b8c.
   Murno:                  187b91c.          18c053c.
   Lemmy:                  187d9ac.          18c20cc.
   Jade:                   187e21c.          18c269c.

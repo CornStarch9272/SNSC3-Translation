@@ -1229,7 +1229,7 @@
 			We must find her as thoroughly<end_line />
 			as we would needles in hay!<end_line />
 		</ascii>
-	# Localizing the blades of grass idiom to needles in hay
+	<!--  Localizing the blades of grass idiom to needles in hay-->
 	</dialogue>
 	<dialogue>
 		<info box="left" />
@@ -1533,7 +1533,7 @@
 			Though We Are Approaching The G※an<end_line />
 			Ruins, The Demon Stone's Origin.<end_line />  
 		</ascii>
-		# Attempted a glitch effect here in line with original dialogue. This is intentional.
+		<!--  Attempted a glitch effect here in line with original dialogue. This is intentional.-->
 	</dialogue>
 	<dialogue>
 		<partner name="run-dor" />

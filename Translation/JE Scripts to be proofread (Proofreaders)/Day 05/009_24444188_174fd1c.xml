@@ -17,7 +17,7 @@
 		</sjis>
 		<ascii>
 			It's been lonely around here,<end_line />
-			with both you and Vee<end_line />
+			with both you and V.E<end_line />
 			out of town.<end_line />
 		</ascii>
 	</dialogue>
@@ -32,6 +32,5 @@
 			Welcome back.<end_line />
 			Come by any time you want.<end_line />
 		</ascii>
-		# Shortened second line
 	</dialogue>
 </tl_file>

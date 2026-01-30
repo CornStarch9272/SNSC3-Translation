@@ -297,7 +297,7 @@
 			<three_dots />！<end_line />
 		</sjis>
 		<ascii>
-			<three_dots />!<end_line />
+			<three_dots /> !<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -511,7 +511,7 @@
 				エリエのせいじゃなくて<end_line />
 			</sjis>
 			<ascii>
-				<three_dots />!<end_line />
+				<three_dots /> !<end_line />
 				I'm not saying it's your fault.<end_line />
 			</ascii>
 		</female>

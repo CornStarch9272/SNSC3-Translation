@@ -293,8 +293,8 @@
 			T-The<three_dots />S-Summonite</three_dots /><end_line />
 			Where<three_dots /><end_line />
 		</ascii>
-		# 召喚石 is also called サモナイト石
-		# Corrected to maintain accuracy to mainseries canon. DO NOT CHANGE.
+		<!--  召喚石 is also called サモナイト石-->
+		<!--  Corrected to maintain accuracy to mainseries canon. DO NOT CHANGE.-->
 	</dialogue>
 	<dialogue>
 		<info box="right" />
@@ -345,7 +345,7 @@
 			あったぞ、召喚石！<end_line />
 		</sjis>
 		<ascii>
-			Tch!<end_line />
+			<three_dots /> Tsk!<end_line />
 			Found the Summonite!<end_line />
 		</ascii>
 	</dialogue>

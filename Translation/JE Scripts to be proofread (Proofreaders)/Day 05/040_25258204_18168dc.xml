@@ -340,7 +340,7 @@
 			ティエをつれて町へ戻れ<end_line />
 		</sjis>
 		<ascii>
-			<three_dots /> So, Vee!<end_line />
+			<three_dots /> So, V.E!<end_line />
 			Go back to town with Tier.<end_line />
 		</ascii>
 	</dialogue>
@@ -513,8 +513,8 @@
 			I'll watch over <player_nickname /><end_line />
 			and the <partner /> for ya.<end_line />
 		</ascii>
-		# FOR PROOFREADING
-		# Jade sounds more lax here, had to tweak it a little.
+		<!--  FOR PROOFREADING-->
+		<!--  Jade sounds more lax here, had to tweak it a little.-->
 	</dialogue>
 	<dialogue>
 		<info box="left" />

@@ -167,8 +167,8 @@
 			Currently we're acquainting with so<end_line />
 			many Craftknights and artisans!<end_line />
 		</ascii>
-# Someone translated this as "Craftknights and blacksmiths"
-# ...........................why.
+<!--  Someone translated this as "Craftknights and blacksmiths"-->
+<!--  ...........................why.-->
 	</dialogue>
 	<dialogue>
 		<info box="simple" />

@@ -24,7 +24,7 @@
 		<ascii>
 			<partner /><three_dots />Murno<three_dots /><end_line />
 			I<three_dots /><end_line />
-			I<three_dots />!<end_line />
+			I<three_dots /><end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -37,7 +37,7 @@
 		</sjis>
 		<ascii>
 			I<three_dots /><end_line />
-			I<three_dots />!<end_line />
+			I<three_dots /><end_line />
 		</ascii>
 	</dialogue>
 	<choice>
@@ -47,7 +47,7 @@
 				ミューノを信じる<end_line />
 			</sjis>
 			<ascii>
-				Believe Murno<end_line />
+				Believe Murno!<end_line />
 			</ascii>
 		</option>
 		<option>
@@ -55,7 +55,7 @@
 				<partner />を信じる<end_line />
 			</sjis>
 			<ascii>
-				Believe <partner /><end_line />
+				Believe <partner />!<end_line />
 			</ascii>
 		</option>
 	</choice>
@@ -225,7 +225,7 @@
 			</sjis>
 			<ascii>
 				You're<three_dots />!?<end_line />
-				Wha<three_dots /> What's going on<three_dots />!<end_line />
+				Wha—What's going on<three_dots />!<end_line />
 			</ascii>
 		</male>
 		<female>
@@ -235,7 +235,7 @@
 			</sjis>
 			<ascii>
 				You're<three_dots />!?<end_line />
-				Wha<three_dots /> What's going on<three_dots />!<end_line />
+				Wha—What's going on!?<end_line />
 			</ascii>
 		</female>
 	</dialogue>

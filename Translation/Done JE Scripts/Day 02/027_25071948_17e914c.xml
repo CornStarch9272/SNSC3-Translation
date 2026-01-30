@@ -77,7 +77,7 @@
 		</sjis>
 		<ascii>
 			It feels like we're being watched.<end_line />
-			Tch!<end_line />
+			<three_dots /> Tsk!<end_line />
 			It's pissing me off<three_dots /><end_line />
 		</ascii>
 	</dialogue>

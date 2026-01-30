@@ -20,7 +20,7 @@
 		</ascii>
 	</dialogue>
 	<dialogue>
-	# ....Is this the same guy?
+	<!--  ....Is this the same guy?-->
 		<sjis>
 			りゆうなんていらない<end_line />
 			のはらをかけぬけ　かわをこえ<end_line />

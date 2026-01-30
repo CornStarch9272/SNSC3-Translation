@@ -109,7 +109,7 @@
 			consult with Tram.<end_line />
 			It's back to prison for you.<end_line />
 		</ascii>
-		# Shortened line 3. Removed "For now" from the beginning.
+		<!--  Shortened line 3. Removed "For now" from the beginning.-->
 	</dialogue>
 	<dialogue>
 		<info box="left" />

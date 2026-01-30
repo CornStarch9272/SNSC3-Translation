@@ -73,9 +73,9 @@
 			fine, but to string a truly strong<end_line />
 			bow calls for fellowship.<end_line />
 		</ascii>
-		# Blizi notes that this bit of advice is (verbatim) a literal explanation of how bows work.
-		# He also noted how this is difficult to localize since JP uses a different count modifier than English.
-		# ^ So I decided to turn this literal advice into a metaphorical one using what KishiAri made and proposed using.
+		<!--  Blizi notes that this bit of advice is (verbatim) a literal explanation of how bows work.-->
+		<!--  He also noted how this is difficult to localize since JP uses a different count modifier than English.-->
+		<!--  ^ So I decided to turn this literal advice into a metaphorical one using what KishiAri made and proposed using.-->
 	</dialogue>
 	<dialogue>
 		<info box="simple" />

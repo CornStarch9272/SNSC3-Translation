@@ -1039,7 +1039,7 @@
 			</sjis>
 			<ascii>
 				Bracelets<three_dots />?<end_line />
-				Damn<three_dots />!<end_line />
+				Damn!<end_line />
 			</ascii>
 		</male>
 		<female>
@@ -1049,7 +1049,7 @@
 			</sjis>
 			<ascii>
 				Bracelets<three_dots />?<end_line />
-				That's horrible<three_dots />!<end_line />
+				That's horrible!<end_line />
 			</ascii>
 		</female>
 	</dialogue>
@@ -1686,7 +1686,7 @@
 			礼など言うな<end_line />
 		</sjis>
 		<ascii>
-			Tch<three_dots />!<end_line />
+			<three_dots /> Tsk!<end_line />
 			Not like I wanted to do it.<end_line />
 			Don't thank me.<end_line />
 		</ascii>

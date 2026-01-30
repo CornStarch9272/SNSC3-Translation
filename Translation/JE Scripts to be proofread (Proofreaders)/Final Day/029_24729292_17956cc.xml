@@ -26,10 +26,10 @@
 			I'm looking for dorsal fin meat<three_dots /><end_line />
 			Do you know where I can buy some?<end_line />
 		</ascii>
-		# Enagawa usually pertains to dorssal fin muscle meat of flatfish,
-		# But a sushi specialist site claims that it's more a generic term for
-		# dorsal fin meat rather than flatfish specifically.
-		# Link: https://sushiuniversity.jp/sushiblog/what-is-engawa/
+		<!--  Enagawa usually pertains to dorssal fin muscle meat of flatfish,-->
+		<!--  But a sushi specialist site claims that it's more a generic term for-->
+		<!--  dorsal fin meat rather than flatfish specifically.-->
+		<!--  Link: https://sushiuniversity.jp/sushiblog/what-is-engawa/-->
 	</dialogue>
 	<dialogue>
 		<sjis>

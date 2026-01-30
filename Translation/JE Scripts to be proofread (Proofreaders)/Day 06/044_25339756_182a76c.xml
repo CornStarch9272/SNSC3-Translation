@@ -63,7 +63,7 @@
 				ミューノを返せ！<end_line />
 			</sjis>
 			<ascii>
-				You<three_dots />!<end_line />
+				You!<end_line />
 				Give Murno back!<end_line />
 			</ascii>
 		</male>
@@ -73,7 +73,7 @@
 				ミューノを返して！<end_line />
 			</sjis>
 			<ascii>
-				You<three_dots />!<end_line />
+				You!<end_line />
 				Give Murno back!<end_line />
 			</ascii>
 		</female>
@@ -129,7 +129,7 @@
 			私たちが<three_dots />？<end_line />
 		</sjis>
 		<ascii>
-			Feed her to master<three_dots />!<end_line />
+			Feed her to master!<end_line />
 			Why would we<three_dots />?<end_line />
 		</ascii>
 	</dialogue>
@@ -195,7 +195,7 @@
 			</sjis>
 			<ascii>
 				<three_dots /> What are you talking about!?<end_line />
-				Where's Murno<three_dots />!?<end_line />
+				Where's Murno!?<end_line />
 			</ascii>
 		</male>
 		<female>
@@ -205,7 +205,7 @@
 			</sjis>
 			<ascii>
 				<three_dots /> What are you talking about!?<end_line />
-				Where's Murno<three_dots />!?<end_line />
+				Where's Murno!?<end_line />
 			</ascii>
 		</female>
 	</dialogue>
@@ -561,7 +561,7 @@
 			道が<three_dots />！<end_line />
 		</sjis>
 		<ascii>
-			The bridge<three_dots />!<end_line />
+			The bridge!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -607,7 +607,7 @@
 				でかい<three_dots />！<end_line />
 			</sjis>
 			<ascii>
-				It's huge<three_dots />!<end_line />
+				It's huge!<end_line />
 			</ascii>
 		</male>
 		<female>
@@ -615,7 +615,7 @@
 				おっきい<three_dots />！<end_line />
 			</sjis>
 			<ascii>
-				It's huge<three_dots />!<end_line />
+				It's huge!<end_line />
 			</ascii>
 		</female>
 	</dialogue>
@@ -634,8 +634,6 @@
 			This Beast Is The Town's<end_line />
 			Guardian Beast<three_dots /><end_line />
 		</ascii>
-		# Whoever translated 召喚獣 as Guardian Spirit:
-		# NOT a canon term in Summon Night lore. Edited for consistency.
 	</dialogue>
 	<dialogue>
 		<info box="left" />
