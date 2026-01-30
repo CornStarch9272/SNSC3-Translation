@@ -112,7 +112,7 @@
 			マーネイル宿場の辺りまで、たのむぜ<end_line />
 		</sjis>
 		<ascii>
-			Vee, take Lute Cave, and<end_line />
+			V.E, take Lute Cave, and<end_line />
 			<player_nickname /> can go from <end_line />
 			Pubick Forest to Marneil Station, okay?<end_line />
 		</ascii>
@@ -482,7 +482,7 @@
 		<ascii>
 			Then let's go!<end_line />
 			Everyone, be careful.<end_line />
-			Especially Vee. Don't get lost.<end_line />
+			Especially V.E. Don't get lost.<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
