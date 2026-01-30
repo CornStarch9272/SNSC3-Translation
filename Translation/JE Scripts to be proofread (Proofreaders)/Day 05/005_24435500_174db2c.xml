@@ -4,7 +4,7 @@
 			ディックル村　駅<end_line />
 		</sjis>
 		<ascii>
-			Mayor's House　Second-hand Shop<end_line />
+			Deckell Village　Station<end_line />
 		</ascii>
 	</location>
 	<dialogue>
@@ -29,8 +29,8 @@
 		</sjis>
 		<ascii>
 			Young'uns these days are too lax!<end_line />
-			Sigh, nothing I say goes<end_line />
-			past their ears<three_dots /><end_line />
+			Hmph, and when I say they ain't<end_line />
+			worth squat I really mean it<end_line />
 		</ascii>
 	</dialogue>
 </tl_file>
