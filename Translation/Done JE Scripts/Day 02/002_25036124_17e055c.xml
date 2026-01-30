@@ -105,7 +105,7 @@
 			She's made a full recovery!<end_line />
 			All thanks to your medicine!<end_line />
 		</ascii>
-		# Previous translation didn't line up with all above partner lines.
+		<!--  Previous translation didn't line up with all above partner lines.-->
 	</dialogue>
 	<dialogue>
 		<info box="left" />

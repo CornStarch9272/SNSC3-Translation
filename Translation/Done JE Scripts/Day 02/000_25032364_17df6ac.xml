@@ -14,6 +14,6 @@
 		<ascii>
 			Letter of complaint delivered!<end_line />
 		</ascii>
-		# Could also be "received"
+		<!--  Could also be "received"-->
 	</popup>
 </tl_file>

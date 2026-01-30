@@ -19,8 +19,8 @@
 			<quotes />Every cloud has a silver lining.<quotes /><end_line />
 			<three_dots />Or something?<end_line />
 		</ascii>
-		# 雨降って地固 English equivalent is likely ^
-		# Cited from EnglishStackExchange
+		<!--  雨降って地固 English equivalent is likely ^-->
+		<!--  Cited from EnglishStackExchange-->
 	</dialogue>
 	<dialogue>
 		<info box="simple" />

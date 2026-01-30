@@ -301,7 +301,7 @@
 				If you're no longer my Bro, then<three_dots /><end_line />
 				What do I call you now<three_dots /><end_line />
 			</ascii>
-			#If Brother isn't Brother, then = too literal
+			<!-- If Brother isn't Brother, then = too literal-->
 		</female>
 	</dialogue>
 	<dialogue>

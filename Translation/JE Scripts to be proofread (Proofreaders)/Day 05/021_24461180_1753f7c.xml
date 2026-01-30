@@ -156,7 +156,7 @@
 		<ascii>
 			Look down<end_line />
 		</ascii>
-		# Removed ↓
+		<!--  Removed ↓-->
 	</dialogue>
 	<dialogue>
 		<info box="simple" />

@@ -151,7 +151,6 @@
 			Your investigation is tomorrow.<end_line />
 			Now be quiet!<end_line />
 		</ascii>
-		# Shortened second line. Changed happens to is.
 	</dialogue>
 	<dialogue>
 		<info box="left" />

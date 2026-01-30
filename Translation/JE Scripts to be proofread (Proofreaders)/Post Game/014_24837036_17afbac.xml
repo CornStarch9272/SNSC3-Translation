@@ -143,9 +143,9 @@
 			in your inventory while saving lets<end_line />
 			you unlock<quote />Lemmy<quote /> in Bonus Mode!<end_line />
 		</ascii>
-		# I think this is a prequisite to unlocking a special Bonus Mode
-		# with Lemmy, by keeping it in your inventory while saving.
-		# Tweaked my own translation to make it make sense.
+		<!--  I think this is a prequisite to unlocking a special Bonus Mode-->
+		<!--  with Lemmy, by keeping it in your inventory while saving.-->
+		<!--  Tweaked my own translation to make it make sense.-->
 	</dialogue>
 	<dialogue>
 		<info box="simple" />
@@ -278,8 +278,8 @@
 			This is a shocker! Your Drill<end_line />
 			Rank is the highest there is!<end_line />
 		</ascii>
-		# Haha, shock, drill, get it?
-		# No? Nvm ig lol.
+		<!--  Haha, shock, drill, get it?-->
+		<!--  No? Nvm ig lol.-->
 	</dialogue>
 	<dialogue>
 		<info box="simple" />

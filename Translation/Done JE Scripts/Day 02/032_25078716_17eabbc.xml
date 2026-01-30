@@ -572,7 +572,7 @@
 			</ascii>
 		</female>
 	</choice>
-	# problem ^^
+	<!--  problem ^^-->
 	<dialogue>
 		<info box="right" />
 		<portrait_l entry="weido_1" eye="decided" mouth="serious" />

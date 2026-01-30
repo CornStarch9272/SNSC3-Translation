@@ -561,7 +561,7 @@
 			more people would have died.<end_line />
 			We'd suffered enough already<three_dots /><end_line />
 		</ascii>
-		# "There's already enough suffering" is really awkard in context of a past decision.
+		<!--  "There's already enough suffering" is really awkard in context of a past decision.-->
 	</dialogue>
 	<dialogue>
 		<info box="right" />
@@ -577,7 +577,6 @@
 			their existance, eventually<end_line />
 			they would've killed everyone.<end_line />
 		</ascii>
-		# Grammar was awkward because of space limits per line. This should fit better.
 	</dialogue>
 	<dialogue>
 		<info box="left" />
