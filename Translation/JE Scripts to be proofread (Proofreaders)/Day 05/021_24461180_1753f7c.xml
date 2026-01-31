@@ -59,7 +59,7 @@
 		</sjis>
 		<ascii>
 			South of Prosban is<end_line />
-			Flaad Cave, and past<end_line />
+			Flard Grotto, and past<end_line />
 			that is Beleet Forest.<end_line />
 		</ascii>
 	</dialogue>
@@ -72,7 +72,7 @@
 		</sjis>
 		<ascii>
 			I heard there's an underground<end_line />
-			river flowing in Flaad Cave.<end_line />
+			river flowing in Flard Grotto.<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -107,7 +107,7 @@
 			聞いてる？オマエ？<end_line />
 		</sjis>
 		<ascii>
-			I'm a member of the Gold Council.<end_line />
+			I'm a member of the Gold Faction.<end_line />
 			Hey, are you listening?<end_line />
 		</ascii>
 	</dialogue>

@@ -4,7 +4,7 @@
 			金の派閥　エントランス<end_line />
 		</sjis>
 		<ascii>
-			Gold Council　Entrance<end_line />
+			Gold Faction　Entrance<end_line />
 		</ascii>
 	</location>
 	<dialogue>
@@ -16,11 +16,11 @@
 			ベルヴォレン派か、イアナ派か<end_line />
 		</sjis>
 		<ascii>
-			It's called the Gold Council, but<end_line />
+			It's called the Gold Faction, but<end_line />
 			there are subgroups within it. Ianna<end_line />
 			and Velvoren have their own camps.<end_line />
 		</ascii>
-		<!-- It is not clear to me if they're talking about a formal organization ("The Velvoren Working Group of The Gold Council") or informal alliances. -Bliz -->
+		<!-- It is not clear to me if they're talking about a formal organization ("The Velvoren Working Group of The Gold Faction") or informal alliances. -Bliz -->
 		<!-- I'm assuming it's the latter, but if not I would change "camps" to something like "groups" or "factions." -->
 	</dialogue>
 	<dialogue>

@@ -73,8 +73,8 @@
 			</sjis>
 			<ascii>
 				Oh, that's right, my master is<end_line />
-				heading over to your place,<end_line />
-				take care of her will you?<end_line />
+				heading over to your place.<end_line />
+				Take care of her, will you?<end_line />
 			</ascii>
 		</male>
 		<female>
@@ -85,8 +85,8 @@
 			</sjis>
 			<ascii>
 				Oh, that's right, my master is<end_line />
-				heading over to your place,<end_line />
-				take care of her will you?<end_line />
+				heading over to your place.<end_line />
+				Take care of her, will you?<end_line />
 			</ascii>
 		</female>
 	</dialogue>

@@ -10,8 +10,8 @@
 		</sjis>
 		<ascii>
 			Oh yeah, <player_nickname />!<end_line />
-			Feel like taking<end_line />
-			on some weaponry orders?<end_line />
+			Feel like taking on<end_line />
+			some weaponry orders?<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -73,7 +73,7 @@
 			お前のウデをみせてくれ<end_line />
 		</sjis>
 		<ascii>
-			I enlisted the order on this<end_line />
+			I accepted the order on this<end_line />
 			order form right here.<end_line />
 			Show me what you've got, kid.<end_line />
 		</ascii>
@@ -102,7 +102,7 @@
 			お前のウデをみせてくれ<end_line />
 		</sjis>
 		<ascii>
-			I enlisted the order on this<end_line />
+			I accepted the order on this<end_line />
 			order form right here.<end_line />
 			Show me what you've got, kid.<end_line />
 		</ascii>
