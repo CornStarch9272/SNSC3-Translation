@@ -18,7 +18,7 @@
 			<ascii>
 				Wrong way!<end_line />
 				I need to find Bro<end_line />
-				at the Gold Council!<end_line />
+				at the Gold Faction!<end_line />
 			</ascii>
 		</male>
 		<female>
@@ -40,8 +40,8 @@
 		</sjis>
 		<ascii>
 			My mom and I are peddlers!<end_line />
-			Currently we're acquainting with so<end_line />
-			many Craftknights and artisans!<end_line />
+			Currently we're getting to know<end_line />
+			lots of Craftknights and artisans!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -219,7 +219,7 @@
 			ボクの召喚獣、ミョータロウだよ<end_line />
 		</sjis>
 		<ascii>
-			Oh, you have Summon Beast too.<end_line />
+			Oh, you have a Summon Beast too.<end_line />
 			Nice to meet you. This is<end_line />
 			my Summon Beast, Myoutarou.<end_line />
 		</ascii>
@@ -246,7 +246,7 @@
 		</sjis>
 		<ascii>
 			It's said the Deckell Village Pond<end_line />
-			contains a fish who's cuteness<end_line />
+			contains a fish whose cuteness<end_line />
 			cannot be put into words.<end_line />
 		</ascii>
 	</dialogue>

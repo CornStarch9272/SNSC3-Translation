@@ -84,7 +84,7 @@
 				強刃について教えてほしい<end_line />
 			</sjis>
 			<ascii>
-				About quenching<three_dots /><end_line />
+				About refining<three_dots /><end_line />
 			</ascii>
 		</option>
 		<option>
@@ -147,7 +147,7 @@
 			読むから注意してね<end_line />
 		</sjis>
 		<ascii>
-			About quenching then.<end_line />
+			About refining then.<end_line />
 			You might know it as Toughening,<end_line />
 			pay attention to that.<end_line />
 		</ascii>
@@ -161,7 +161,7 @@
 			振り分けることが出来るのよ<end_line />
 		</sjis>
 		<ascii>
-			You're able to quench any<end_line />
+			You're able to refine any<end_line />
 			weapon with max TEC and<end_line />
 			increase its effectiveness.<end_line />
 		</ascii>

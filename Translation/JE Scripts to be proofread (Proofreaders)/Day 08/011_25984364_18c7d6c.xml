@@ -38,7 +38,7 @@
 		</sjis>
 		<ascii>
 			You may not know this, but<end_line />
-			we, the Gold Council, control all<end_line />
+			we, the Gold Faction, control all<end_line />
 			Summoning affairs in this area.<end_line />
 		</ascii>
 	</dialogue>
@@ -668,7 +668,7 @@
 			退治してくれるか？<end_line />
 		</sjis>
 		<ascii>
-			can be found in Slenj Mine.<end_line />
+			can be found in Surange Mine.<end_line />
 			Will you eliminate them?<end_line />
 		</ascii>
 	</dialogue>
@@ -742,7 +742,7 @@
 			スレンジ採掘場で確認されてるわ<end_line />
 		</sjis>
 		<ascii>
-			have been found in Slenj Mine.<end_line />
+			have been found in Surange Mine.<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -754,7 +754,7 @@
 		</sjis>
 		<ascii>
 			are out of control in<end_line />
-			Slenj Mine.<end_line />
+			Surange Mine.<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>

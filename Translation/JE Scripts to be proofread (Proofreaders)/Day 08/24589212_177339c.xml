@@ -28,7 +28,7 @@
 		<ascii>
 			Our Search Area<end_line />
 			Is North From Here<end_line />
-			Until Marneil Station.<end_line />
+			Until Marnail Station.<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -88,7 +88,7 @@
 		</sjis>
 		<ascii>
 			We are to search from here<end_line />
-			until Marneil Station,<end_line />
+			until Marnail Station,<end_line />
 			where the Smile Inn is.<end_line />
 		</ascii>
 	</dialogue>
@@ -149,7 +149,7 @@
 		</sjis>
 		<ascii>
 			Our area is from here<end_line />
-			until Marneil Station.<end_line />
+			until Marnail Station.<end_line />
 			I'll leave it to you.<end_line />
 		</ascii>
 	</dialogue>
@@ -210,7 +210,7 @@
 		</sjis>
 		<ascii>
 			Our search area is from here to<end_line />
-			Marneil Station's Smile Inn.<end_line />
+			Marnail Station's Smile Inn.<end_line />
 			Let's do our best!<end_line />
 		</ascii>
 	</dialogue>
@@ -255,7 +255,7 @@
 			</sjis>
 			<ascii>
 				Anise seems to be hiding<end_line />
-				somewhere in Slenj Mine.<end_line />
+				somewhere in Surange Mine.<end_line />
 				Let's check it out!<end_line />
 			</ascii>
 		</male>
@@ -267,7 +267,7 @@
 			</sjis>
 			<ascii>
 				Anise seems to be hiding<end_line />
-				somewhere in Slenj Mine.<end_line />
+				somewhere in Surange Mine.<end_line />
 				Let's check it out!<end_line />
 			</ascii>
 		</female>
@@ -312,7 +312,7 @@
 			</sjis>
 			<ascii>
 				Anise seems to be hiding<end_line />
-				somewhere in Slenj Mine.<end_line />
+				somewhere in Surange Mine.<end_line />
 				Let's check it out!<end_line />
 			</ascii>
 		</male>
@@ -324,7 +324,7 @@
 			</sjis>
 			<ascii>
 				Anise seems to be hiding<end_line />
-				somewhere in Slenj Mine.<end_line />
+				somewhere in Surange Mine.<end_line />
 				Let's check it out!<end_line />
 			</ascii>
 		</female>
@@ -397,7 +397,7 @@
 			</sjis>
 			<ascii>
 				Anise seems to be hiding<end_line />
-				somewhere in Slenj Mine.<end_line />
+				somewhere in Surange Mine.<end_line />
 				Let's check it out!<end_line />
 			</ascii>
 		</male>
@@ -409,7 +409,7 @@
 			</sjis>
 			<ascii>
 				Anise seems to be hiding<end_line />
-				somewhere in Slenj Mine.<end_line />
+				somewhere in Surange Mine.<end_line />
 				Let's check it out!<end_line />
 			</ascii>
 		</female>
@@ -454,7 +454,7 @@
 			</sjis>
 			<ascii>
 				Anise seems to be hiding<end_line />
-				somewhere in Slenj Mine.<end_line />
+				somewhere in Surange Mine.<end_line />
 				Let's check it out!<end_line />
 			</ascii>
 		</male>
@@ -466,7 +466,7 @@
 			</sjis>
 			<ascii>
 				Anise seems to be hiding<end_line />
-				somewhere in Slenj Mine.<end_line />
+				somewhere in Surange Mine.<end_line />
 				Let's check it out!<end_line />
 			</ascii>
 		</female>
@@ -511,7 +511,7 @@
 			</sjis>
 			<ascii>
 				Anise seems to be hiding<end_line />
-				somewhere in Slenj Mine.<end_line />
+				somewhere in Surange Mine.<end_line />
 				Let's check it out!<end_line />
 			</ascii>
 		</male>
@@ -523,7 +523,7 @@
 			</sjis>
 			<ascii>
 				Anise seems to be hiding<end_line />
-				somewhere in Slenj Mine.<end_line />
+				somewhere in Surange Mine.<end_line />
 				Let's check it out!<end_line />
 			</ascii>
 		</female>
@@ -568,7 +568,7 @@
 			</sjis>
 			<ascii>
 				Anise seems to be hiding<end_line />
-				somewhere in Slenj Mine.<end_line />
+				somewhere in Surange Mine.<end_line />
 				Let's check it out!<end_line />
 			</ascii>
 		</male>
@@ -580,7 +580,7 @@
 			</sjis>
 			<ascii>
 				Anise seems to be hiding<end_line />
-				somewhere in Slenj Mine.<end_line />
+				somewhere in Surange Mine.<end_line />
 				Let's check it out!<end_line />
 			</ascii>
 		</female>
@@ -653,7 +653,7 @@
 			</sjis>
 			<ascii>
 				Anise seems to be hiding<end_line />
-				somewhere in Slenj Mine.<end_line />
+				somewhere in Surange Mine.<end_line />
 				Let's check it out!<end_line />
 			</ascii>
 		</male>
@@ -665,7 +665,7 @@
 			</sjis>
 			<ascii>
 				Anise seems to be hiding<end_line />
-				somewhere in Slenj Mine.<end_line />
+				somewhere in Surange Mine.<end_line />
 				Let's check it out!<end_line />
 			</ascii>
 		</female>
@@ -710,7 +710,7 @@
 			</sjis>
 			<ascii>
 				Anise seems to be hiding<end_line />
-				somewhere in Slenj Mine.<end_line />
+				somewhere in Surange Mine.<end_line />
 				Let's check it out!<end_line />
 			</ascii>
 		</male>
@@ -722,7 +722,7 @@
 			</sjis>
 			<ascii>
 				Anise seems to be hiding<end_line />
-				somewhere in Slenj Mine.<end_line />
+				somewhere in Surange Mine.<end_line />
 				Let's check it out!<end_line />
 			</ascii>
 		</female>
@@ -767,7 +767,7 @@
 			</sjis>
 			<ascii>
 				So Anise was hiding in<end_line />
-				Slenj Mine after all.<end_line />
+				Surange Mine after all.<end_line />
 				Let's check inside!<end_line />
 			</ascii>
 		</male>
@@ -779,7 +779,7 @@
 			</sjis>
 			<ascii>
 				So Anise was hiding in<end_line />
-				Slenj Mine after all.<end_line />
+				Surange Mine after all.<end_line />
 				Let's check inside!<end_line />
 			</ascii>
 		</female>
@@ -835,7 +835,7 @@
 			</sjis>
 			<ascii>
 				So Anise was hiding in<end_line />
-				Slenj Mine after all.<end_line />
+				Surange Mine after all.<end_line />
 				Let's check inside!<end_line />
 			</ascii>
 		</male>
@@ -847,7 +847,7 @@
 			</sjis>
 			<ascii>
 				So Anise was hiding in<end_line />
-				Slenj Mine after all.<end_line />
+				Surange Mine after all.<end_line />
 				Let's check inside!<end_line />
 			</ascii>
 		</female>
@@ -905,7 +905,7 @@
 			</sjis>
 			<ascii>
 				So Anise was hiding in<end_line />
-				Slenj Mine after all.<end_line />
+				Surange Mine after all.<end_line />
 				Let's check inside!<end_line />
 			</ascii>
 		</male>
@@ -917,7 +917,7 @@
 			</sjis>
 			<ascii>
 				So Anise was hiding in<end_line />
-				Slenj Mine after all.<end_line />
+				Surange Mine after all.<end_line />
 				Let's check inside!<end_line />
 			</ascii>
 		</female>
@@ -964,7 +964,7 @@
 			</sjis>
 			<ascii>
 				So Anise was hiding in<end_line />
-				Slenj Mine after all.<end_line />
+				Surange Mine after all.<end_line />
 				Let's check inside!<end_line />
 			</ascii>
 		</male>
@@ -976,7 +976,7 @@
 			</sjis>
 			<ascii>
 				So Anise was hiding in<end_line />
-				Slenj Mine after all.<end_line />
+				Surange Mine after all.<end_line />
 				Let's check inside!<end_line />
 			</ascii>
 		</female>
@@ -1034,7 +1034,7 @@
 			</sjis>
 			<ascii>
 				So Anise was hiding in<end_line />
-				Slenj Mine after all.<end_line />
+				Surange Mine after all.<end_line />
 				Let's check inside!<end_line />
 			</ascii>
 		</male>
@@ -1046,7 +1046,7 @@
 			</sjis>
 			<ascii>
 				So Anise was hiding in<end_line />
-				Slenj Mine after all.<end_line />
+				Surange Mine after all.<end_line />
 				Let's check inside!<end_line />
 			</ascii>
 		</female>
@@ -1093,7 +1093,7 @@
 			</sjis>
 			<ascii>
 				So Anise was hiding in<end_line />
-				Slenj Mine after all.<end_line />
+				Surange Mine after all.<end_line />
 				Let's check inside!<end_line />
 			</ascii>
 		</male>
@@ -1105,7 +1105,7 @@
 			</sjis>
 			<ascii>
 				So Anise was hiding in<end_line />
-				Slenj Mine after all.<end_line />
+				Surange Mine after all.<end_line />
 				Let's check inside!<end_line />
 			</ascii>
 		</female>
@@ -1167,7 +1167,7 @@
 			</sjis>
 			<ascii>
 				So Anise was hiding in<end_line />
-				Slenj Mine after all.<end_line />
+				Surange Mine after all.<end_line />
 				Let's check inside!<end_line />
 			</ascii>
 		</male>
@@ -1179,7 +1179,7 @@
 			</sjis>
 			<ascii>
 				So Anise was hiding in<end_line />
-				Slenj Mine after all.<end_line />
+				Surange Mine after all.<end_line />
 				Let's check inside!<end_line />
 			</ascii>
 		</female>
@@ -1238,7 +1238,7 @@
 			</sjis>
 			<ascii>
 				So Anise was hiding in<end_line />
-				Slenj Mine after all.<end_line />
+				Surange Mine after all.<end_line />
 				Let's check inside!<end_line />
 			</ascii>
 		</male>
@@ -1250,7 +1250,7 @@
 			</sjis>
 			<ascii>
 				So Anise was hiding in<end_line />
-				Slenj Mine after all.<end_line />
+				Surange Mine after all.<end_line />
 				Let's check inside!<end_line />
 			</ascii>
 		</female>
@@ -1312,7 +1312,7 @@
 			</sjis>
 			<ascii>
 				So Anise was hiding in<end_line />
-				Slenj Mine after all.<end_line />
+				Surange Mine after all.<end_line />
 				Let's check inside!<end_line />
 			</ascii>
 		</male>
@@ -1324,7 +1324,7 @@
 			</sjis>
 			<ascii>
 				So Anise was hiding in<end_line />
-				Slenj Mine after all.<end_line />
+				Surange Mine after all.<end_line />
 				Let's check inside!<end_line />
 			</ascii>
 		</female>
@@ -1371,7 +1371,7 @@
 			</sjis>
 			<ascii>
 				So Anise was hiding in<end_line />
-				Slenj Mine after all.<end_line />
+				Surange Mine after all.<end_line />
 				Let's check inside!<end_line />
 			</ascii>
 		</male>
@@ -1383,7 +1383,7 @@
 			</sjis>
 			<ascii>
 				So Anise was hiding in<end_line />
-				Slenj Mine after all.<end_line />
+				Surange Mine after all.<end_line />
 				Let's check inside!<end_line />
 			</ascii>
 		</female>
@@ -1453,7 +1453,7 @@
 			</sjis>
 			<ascii>
 				So Anise was hiding in<end_line />
-				Slenj Mine after all.<end_line />
+				Surange Mine after all.<end_line />
 				Let's check inside!<end_line />
 			</ascii>
 		</male>
@@ -1465,7 +1465,7 @@
 			</sjis>
 			<ascii>
 				So Anise was hiding in<end_line />
-				Slenj Mine after all.<end_line />
+				Surange Mine after all.<end_line />
 				Let's check inside!<end_line />
 			</ascii>
 		</female>
@@ -1533,7 +1533,7 @@
 			</sjis>
 			<ascii>
 				So Anise was hiding in<end_line />
-				Slenj Mine after all.<end_line />
+				Surange Mine after all.<end_line />
 				Let's check inside!<end_line />
 			</ascii>
 		</male>
@@ -1545,7 +1545,7 @@
 			</sjis>
 			<ascii>
 				So Anise was hiding in<end_line />
-				Slenj Mine after all.<end_line />
+				Surange Mine after all.<end_line />
 				Let's check inside!<end_line />
 			</ascii>
 		</female>

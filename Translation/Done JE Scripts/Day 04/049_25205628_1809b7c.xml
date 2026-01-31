@@ -529,7 +529,7 @@
 			<ascii>
 				I was, uh, free, since Master's<end_line />
 				at your place, and Murno's<end_line />
-				at the Gold Council<three_dots /><end_line />
+				at the Gold Faction<three_dots /><end_line />
 			</ascii>
 		</male>
 		<female>
@@ -541,7 +541,7 @@
 			<ascii>
 				I was, uh, free, since Master's<end_line />
 				at your place, and Murno's<end_line />
-				at the Gold Council<three_dots /><end_line />
+				at the Gold Faction<three_dots /><end_line />
 			</ascii>
 		</female>
 	</dialogue>
@@ -554,7 +554,7 @@
 			あんなところに何の用が<three_dots />？<end_line />
 		</sjis>
 		<ascii>
-			Gold Council?<end_line />
+			Gold Faction?<end_line />
 			What business does she have?<end_line />
 		</ascii>
 	</dialogue>

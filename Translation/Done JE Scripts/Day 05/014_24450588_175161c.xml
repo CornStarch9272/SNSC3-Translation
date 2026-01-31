@@ -51,8 +51,8 @@
 		</sjis>
 		<ascii>
 			My mom and I are peddlers!<end_line />
-			Currently we're acquainting with so<end_line />
-			many Craftknights and artisans!<end_line />
+			Currently we're getting to know<end_line />
+			lots of Craftknights and artisans!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -114,7 +114,7 @@
 		</sjis>
 		<ascii>
 			Let's see<three_dots />Using a <quote />Legendary Iron<end_line />
-			 Skewer<quote /> to enhance your weapon will<end_line />
+			Skewer<quote /> to enhance your weapon will<end_line />
 			give it the <quote />Piercing<quote /> effect.<end_line />
 		</ascii>
 	</dialogue>
