@@ -219,9 +219,9 @@
 			このままでは良い仕事はできんのでな<end_line />
 		</sjis>
 		<ascii>
-			Before that, won't you<end_line />
+			Before that, can't you<end_line />
 			remove these bindings?<end_line />
-			I cannot do good work like this.<end_line />
+			I can't do a good job like this.<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -249,7 +249,7 @@
 			どうにも動き辛くって<end_line />
 		</sjis>
 		<ascii>
-			Um, then can you please<end_line />
+			Um, then could you please<end_line />
 			remove these bindings?<end_line />
 			It is very hard to move.<end_line />
 		</ascii>
@@ -289,7 +289,7 @@
 			外すことができるのか？<end_line />
 		</sjis>
 		<ascii>
-			You can remove them?<end_line />
+			Can you remove them?<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
