@@ -326,7 +326,7 @@
 			</sjis>
 			<ascii>
 				Ugh<three_dots /><end_line />
-				That's just make it worse<three_dots /><end_line />
+				That just makes it worse<three_dots /><end_line />
 			</ascii>
 		</male>
 		<female>
@@ -336,7 +336,7 @@
 			</sjis>
 			<ascii>
 				Ugh<three_dots /><end_line />
-				That's just make it worse<three_dots /><end_line />
+				That just makes it worse<three_dots /><end_line />
 			</ascii>
 		</female>
 	</dialogue>

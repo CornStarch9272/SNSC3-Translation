@@ -630,8 +630,8 @@
 			ソードが欲しいんだけど<three_dots /><end_line />
 		</sjis>
 		<ascii>
-			I'd like the <weapon_type /><end_line />
-			sword, but<three_dots /><end_line />
+			I'd like a sword.<end_line />
+			The <weapon_type />, but<three_dots /><end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -761,7 +761,8 @@
 			アクスが欲しいんだけど<three_dots /><end_line />
 		</sjis>
 		<ascii>
-			I'd like the <weapon_type /> axe, but<three_dots /><end_line />
+			I'd like an axe.<end_line />
+			The <weapon_type />, but<three_dots /><end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -896,8 +897,8 @@
 			ソードが欲しいんだけど<three_dots /><end_line />
 		</sjis>
 		<ascii>
-			I'd like the <weapon_type /><end_line />
-			sword, but<three_dots /><end_line />
+			I'd like a sword.<end_line />
+			The <weapon_type />, but<three_dots /><end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -1014,7 +1015,8 @@
 			欲しいんだけど<three_dots /><end_line />
 		</sjis>
 		<ascii>
-			I'd like the <weapon_type /> spear, but<three_dots /><end_line />
+			I'd like a spear.<end_line />
+			The <weapon_type />, but<three_dots /><end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -1144,7 +1146,8 @@
 			ドリルが欲しいんだけど<three_dots /><end_line />
 		</sjis>
 		<ascii>
-			I'd like the <weapon_type /> drill, but<three_dots /><end_line />
+			I'd like a drill.<end_line />
+			The <weapon_type />, but<three_dots /><end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>

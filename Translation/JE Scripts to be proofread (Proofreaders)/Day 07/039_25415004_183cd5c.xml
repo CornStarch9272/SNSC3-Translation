@@ -22,8 +22,8 @@
 		</sjis>
 		<ascii>
 			After fighting <player_nickname />,<end_line />
-			you should know better than anyone.<end_line />
-			That they wouldn't lie.<end_line />
+			you should know better than anyone<end_line />
+			that they wouldn't lie.<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>

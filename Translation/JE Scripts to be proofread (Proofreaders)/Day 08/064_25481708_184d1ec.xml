@@ -30,7 +30,7 @@
 			信じてくれたみたいで<three_dots /><end_line />
 		</sjis>
 		<ascii>
-			Thanks to you, <player_nickname /><end_line />
+			Thanks to you, <player_nickname />,<end_line />
 			the townspeople can believe me<three_dots /><end_line />
 		</ascii>
 	</dialogue>

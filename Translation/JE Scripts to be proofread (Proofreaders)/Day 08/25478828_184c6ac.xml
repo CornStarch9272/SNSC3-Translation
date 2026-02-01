@@ -8,9 +8,9 @@
 				　　　　　　色々説明した　　　　　　<end_line />
 			</sjis>
 			<ascii>
-				　　　　　　　And so　　　　　　　　<end_line />
+				　　　　　　　And so,　　　　　　　<end_line />
 				　　We went to the Gold Faction 　　<end_line />
-				　　　And told them everything　　　<end_line />
+				　　　and told them everything　　　<end_line />
 			</ascii>
 		</male>
 		<female>
@@ -20,9 +20,9 @@
 				　　　　　　色々説明した　　　　　　<end_line />
 			</sjis>
 			<ascii>
-				　　　　　　　And so　　　　　　　　<end_line />
+				　　　　　　　And so,　　　　　　　<end_line />
 				　　We went to the Gold Faction　　<end_line />
-				　　　And told them everything　　　<end_line />
+				　　　and told them everything　　　<end_line />
 			</ascii>
 		</female>
 	</dialogue>
@@ -35,7 +35,7 @@
 				　　　　信じてくれたみたいだ　　　　<end_line />
 			</sjis>
 			<ascii>
-				　　Thanks to Remy's explanation　　<end_line />
+				　　Thanks to Remy's explanation.　<end_line />
 				　　Master Bostaph believes that　　<end_line />
 				　　　Anise is the bad guy now　　　<end_line />
 			</ascii>
@@ -47,9 +47,9 @@
 				　　　　　信じてくれたみたい　　　　<end_line />
 			</sjis>
 			<ascii>
-				　　Thanks to Remy's explanation　　<end_line />
+				　　Thanks to Remy's explanation.　<end_line />
 				　　Master Bostaph believes that　　<end_line />
-				　　　Anise is the bad guy now　　　<end_line />
+				　　　Anise is the bad guy now.　　<end_line />
 			</ascii>
 		</female>
 	</dialogue>
@@ -61,9 +61,9 @@
 			アニスたちを捕まえることになったんだ<end_line />
 		</sjis>
 		<ascii>
-			　　　We cleared Murno's name 　　　<end_line />
+			　　　We cleared Murno's name.　　　<end_line />
 			Now, to protect Govan's Magic Stone<end_line />
-			　　　We need to catch Anise　　　　<end_line />
+			　　　We need to catch Anise.　　　<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -77,7 +77,7 @@
 			<ascii>
 				　　　I'd like to settle this 　　　<end_line />
 				　　　　once and for all, but 　　　<end_line />
-				　I'm still stuck on what Anise said<end_line />
+				　I'm stuck on what Anise said...<end_line />
 			</ascii>
 		</male>
 		<female>

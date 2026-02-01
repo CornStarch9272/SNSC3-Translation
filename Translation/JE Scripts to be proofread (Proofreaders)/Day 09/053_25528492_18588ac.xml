@@ -10,7 +10,7 @@
 			</sjis>
 			<ascii>
 				Now,<end_line />
-				still still!<end_line />
+				hold still!<end_line />
 			</ascii>
 		</male>
 		<female>
@@ -20,7 +20,7 @@
 			</sjis>
 			<ascii>
 				Now,<end_line />
-				still still!<end_line />
+				hold still!<end_line />
 			</ascii>
 		</female>
 	</dialogue>
@@ -57,7 +57,7 @@
 			そうですよね？<end_line />
 		</sjis>
 		<ascii>
-			And it we've caught<end_line />
+			And we've caught<end_line />
 			your comrades already.<end_line />
 			Isn't that right?<end_line />
 		</ascii>

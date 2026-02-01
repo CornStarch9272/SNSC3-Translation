@@ -1427,7 +1427,7 @@
 			私は変身できたんです<end_line />
 		</sjis>
 		<ascii>
-			At that time, <player_nickname /><end_line />
+			At that time, <player_nickname />, you<end_line />
 			helped me remember it.<end_line />
 			That's why I could transform.<end_line />
 		</ascii>
