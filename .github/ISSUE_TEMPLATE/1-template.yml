@@ -6,14 +6,21 @@ body:
     id: screenshot
     attributes:
       label: Screenshot
-      description: Please embed the screenshot (you can click "Paste, drop, or click to add files")
+      description: Please embed the screenshot (you can click "Paste, drop, or click to add files").
     validations:
       required: true
   - type: input
     id: emulator
     attributes:
       label: Emulator
-      description: Include name and version number. Also, use mGBA if you're not on a phone.
+      description: Include name and version number. Also, use mGBA if you're not on a phone; VBA-M is generally less accurate.
+    validations:
+      required: true
+  - type: input
+    id: patchversion
+    attributes:
+      label: Patch Version
+      description: Which version of the patch were you using (including the date)?
     validations:
       required: true
   - type: dropdown
@@ -60,15 +67,15 @@ body:
   - type: checkboxes
     id: savestate
     attributes:
-      label: Please link this issue in the Discord channel "#issue-links", and attach the save state to it
+      label: Please link this issue in the Discord channel "#issue-links", and if necessary, attach the save state to it
       options:
         - label: I will do this.
           required: true
   - type: checkboxes
     id: terms
     attributes:
-      label: Click the "Label" button below to add a label
-      description: Please do this.
+      label: Click the "Label" button below to add a label. Zoom out or search if you can't see them!
+      description: Please do this!!!
       options:
         - label: I did this.
           required: true
