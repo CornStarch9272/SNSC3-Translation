@@ -249,6 +249,10 @@
 			あれ？<end_line />
 			おっちゃんも来るの？<end_line />
 		</sjis>
+		<ascii>
+			Oh?<end_line />
+			You're coming too?<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<player gender="female" />
