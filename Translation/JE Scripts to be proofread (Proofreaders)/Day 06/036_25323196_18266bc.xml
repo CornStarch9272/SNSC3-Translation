@@ -78,6 +78,10 @@
 			オレたちは大丈夫だけど<end_line />
 			ミューノが<three_dots /><end_line />
 		</sjis>
+		<ascii>
+			Y-yeah<three_dots /><end_line />
+			We're fine, but Murno is<three_dots /><end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<player gender="female" />
