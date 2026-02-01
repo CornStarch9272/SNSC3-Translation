@@ -324,7 +324,7 @@
 			<three_dots />！<end_line />
 		</sjis>
 		<ascii>
-			<player_nickname />!<end_line />
+			<three_dots />!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -436,11 +436,17 @@
 			<sjis>
 				いぃってぇえ！<end_line />
 			</sjis>
+			<ascii>
+				That hurts!<end_line />
+			</ascii>
 		</male>
 		<female>
 			<sjis>
 				いぃったぁい！<end_line />
 			</sjis>
+			<ascii>
+				That huuurts!<end_line />
+			</ascii>
 		</female>
 	</bigtext>
 	<dialogue>
