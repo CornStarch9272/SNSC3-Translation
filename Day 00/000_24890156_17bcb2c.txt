@@ -72,7 +72,7 @@ code0309
 call            @Func_0fca
 call            @Func_1000
 code0479        1, 2, 16
-dialogtxt       "δ"
+dialogtxt       "[NAME 0]"
 dialogtxt       "You brought your hammer, right?"
 code0309        
 call            @Func_1036
