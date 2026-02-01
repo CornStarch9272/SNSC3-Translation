@@ -225,11 +225,17 @@
 			<sjis>
 				なんだって！？<end_line />
 			</sjis>
+			<ascii>
+				What do you mean, execute!?<end_line />
+			</ascii>
 		</male>
 		<female>
 			<sjis>
 				なによそれ！？<end_line />
 			</sjis>
+			<ascii>
+				What do you mean, execute!?<end_line />
+			</ascii>
 		</female>
 	</bigtext>
 	<dialogue>
