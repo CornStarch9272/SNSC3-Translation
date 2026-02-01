@@ -16,6 +16,13 @@ body:
       description: Include name and version number. Also, use mGBA if you're not on a phone.
     validations:
       required: true
+  - type: input
+    id: patchversion
+    attributes:
+      label: Patch Version
+      description: Which version of the patch were you using (including the date)?
+    validations:
+      required: true
   - type: dropdown
     id: gender
     attributes:
