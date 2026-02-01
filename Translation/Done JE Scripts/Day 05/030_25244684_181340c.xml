@@ -105,6 +105,11 @@
 			もしかしてまたあの連中が<end_line />
 			出てくるかもしれないな<three_dots /><end_line />
 		</sjis>
+		<ascii>
+			A stray summon<three_dots /><end_line />
+			Those guys might<end_line />
+			show up again<three_dots /><end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<player gender="female" />

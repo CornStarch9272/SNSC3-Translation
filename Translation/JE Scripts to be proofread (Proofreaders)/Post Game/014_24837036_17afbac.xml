@@ -111,7 +111,6 @@
 			最高じゃないの！！<end_line />
 		</sjis>
 		<ascii>
-		</ascii>
 			Oh, my goodness! Your Sword<end_line />
 			Rank is the highest there is!<end_line />
 		</ascii>
@@ -154,7 +153,7 @@
 			うっそ〜、アクス鍛冶ランクが<end_line />
 			最高じゃないの！！<end_line />
 		</sjis>
-		</ascii>
+		<ascii>
 			Oh, my goodness! Your Axe<end_line />
 			Rank is the highest there is!<end_line />
 		</ascii>
@@ -194,7 +193,7 @@
 			おどろいた、スピア鍛冶ランクが<end_line />
 			最高じゃないの！！<end_line />
 		</sjis>
-		</ascii>
+		<ascii>
 			This is shocking! Your Spear<end_line />
 			Rank is the highest there is!<end_line />
 		</ascii>
@@ -234,7 +233,7 @@
 			まぁっ、ナックル鍛冶ランクが<end_line />
 			最高じゃないの！！<end_line />
 		</sjis>
-		</ascii>
+		<ascii>
 			How wonderful! Your Knuckles<end_line />
 			Rank is the highest there is!<end_line />
 		</ascii>
@@ -274,7 +273,7 @@
 			まっさか〜、ドリル鍛冶ランクが<end_line />
 			最高じゃないの！！<end_line />
 		</sjis>
-		</ascii>
+		<ascii>
 			This is a shocker! Your Drill<end_line />
 			Rank is the highest there is!<end_line />
 		</ascii>
@@ -316,7 +315,7 @@
 			えええっ、ボウ鍛冶ランクが<end_line />
 			最高じゃないの！！<end_line />
 		</sjis>
-		</ascii>
+		<ascii>
 			Whaaaat!? Your Bow<end_line />
 			Rank is the highest there is!<end_line />
 		</ascii>

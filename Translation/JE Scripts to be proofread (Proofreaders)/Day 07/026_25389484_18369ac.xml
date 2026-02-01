@@ -55,6 +55,10 @@
 			逃げたぁ！？<end_line />
 			なんだよそれ！<end_line />
 		</sjis>
+		<ascii>
+			They ran!?<end_line />
+			What the heck!?<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<player gender="female" />

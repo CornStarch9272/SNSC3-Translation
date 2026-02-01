@@ -200,6 +200,11 @@
 			シンチョウにはこんでくれたんだな<end_line />
 			見込みのある男だ<end_line />
 		</sjis>
+		<ascii>
+			You're a little late, but<end_line />
+			But you handled it with care.<end_line />
+			You've got potential, lad.<end_line />
+		</ascii>
 	</dialogue>
 	<dialogue>
 		<player gender="female" />
