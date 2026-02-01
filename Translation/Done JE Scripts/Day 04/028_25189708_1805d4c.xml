@@ -222,7 +222,7 @@
 		</sjis>
 		<ascii>
 			Eh<three_dots />?<end_line />
-			Ehhh<three_dots />!?<end_line />
+			Ehhh!?<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -601,7 +601,7 @@
 			話を聞いて下さい！<end_line />
 		</sjis>
 		<ascii>
-			Ahh<three_dots />!<end_line />
+			Ahh!<end_line />
 			Miss Ianna, yes?<end_line />
 			We need to talk!<end_line />
 		</ascii>
@@ -696,7 +696,7 @@
 			あ<three_dots />あの<three_dots />！<end_line />
 		</sjis>
 		<ascii>
-			Ah<three_dots /> um<three_dots />!<end_line />
+			Ah<three_dots /> um!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -741,7 +741,7 @@
 		<ascii>
 			Um<three_dots /><end_line />
 			What?<end_line />
-			Wait<three_dots />!<end_line />
+			Wait!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>

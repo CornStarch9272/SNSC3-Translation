@@ -451,7 +451,7 @@
 		<ascii>
 			Don't be silly!<end_line />
 			I believe the militia is<end_line />
-			funded by the Gold Council<three_dots /><end_line />
+			funded by the Gold Faction<three_dots /><end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -475,7 +475,7 @@
 			たしか、召喚師の一派<three_dots /><end_line />
 		</sjis>
 		<ascii>
-			Gold Council<three_dots /><end_line />
+			Gold Faction<three_dots /><end_line />
 			They're a branch of Summoners<three_dots /><end_line />
 		</ascii>
 	</dialogue>
@@ -528,7 +528,7 @@
 			お前も知ってるだろう？<end_line />
 		</sjis>
 		<ascii>
-			And you know the Gold Council<end_line />
+			And you know the Gold Faction<end_line />
 			is very stingy, right?<end_line />
 			It's unlikely you'll get anything.<end_line />
 		</ascii>
@@ -570,7 +570,7 @@
 			<three_dots />っ！<end_line />
 		</sjis>
 		<ascii>
-			<three_dots />!<end_line />
+			<three_dots /> !<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -596,7 +596,7 @@
 			町にいるんですか！？<end_line />
 		</sjis>
 		<ascii>
-			Could this Velwvren be of<end_line />
+			Could this Velvoren be of<end_line />
 			the Ringvald House?<end_line />
 			He's in this town!?<end_line />
 		</ascii>
@@ -653,7 +653,7 @@
 		</sjis>
 		<ascii>
 			That's perfect then!<end_line />
-			To the Gold Council we go!<end_line />
+			To the Gold Faction we go!<end_line />
 			It's negotiation time!<end_line />
 		</ascii>
 	</dialogue>

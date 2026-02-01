@@ -470,7 +470,7 @@
 		</sjis>
 		<ascii>
 			<partner /><three_dots /><end_line />
-			We have to hurry and save him!<end_line/>
+			We have to hurry and save him!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -859,7 +859,7 @@
 		</sjis>
 		<ascii>
 			Pike and Master are heading<end_line />
-			deeper into Spoat Grotto.<end_line/>
+			deeper into Spoat Grotto.<end_line />
 			Let's hurry and catch up to them!<end_line />
 		</ascii>
 	</dialogue>
@@ -891,7 +891,7 @@
 			<ascii>
 				Master<three_dots /><end_line />
 				I beg of you please, don't do<end_line />
-				anything too rash<three_dots />!<end_line  />
+				anything too rash!<end_line  />
 			</ascii>
 		</male>
 		<female>
@@ -902,7 +902,7 @@
 			<ascii>
 				Master<three_dots /><end_line />
 				I beg of you please, don't do<end_line />
-				anything too rash<three_dots />!<end_line  />
+				anything too rash!<end_line  />
 			</ascii>
 		</female>
 	</dialogue>
@@ -918,7 +918,7 @@
 		</sjis>
 		<ascii>
 			Pike and Master are heading<end_line />
-			deeper into Spoat Grotto.<end_line/>
+			deeper into Spoat Grotto.<end_line />
 			Let's hurry and catch up to them!<end_line />
 		</ascii>
 	</dialogue>
@@ -933,7 +933,7 @@
 			生きてるうちに、追いつこうぞ<end_line />
 		</sjis>
 		<ascii>
-			I loathe to admit, but he's the only<end_line/>
+			I loathe to admit, but he's the only<end_line />
 			one who knows Murno's whereabouts.<end_line />
 			Let's get to him while he's awake.<end_line />
 		</ascii>
@@ -950,7 +950,7 @@
 			<ascii>
 				Master<three_dots /><end_line />
 				I beg of you please, don't do<end_line />
-				anything too rash<three_dots />!<end_line  />
+				anything too rash!<end_line  />
 			</ascii>
 		</male>
 		<female>
@@ -961,7 +961,7 @@
 			<ascii>
 				Master<three_dots /><end_line />
 				I beg of you please, don't do<end_line />
-				anything too rash<three_dots />!<end_line  />
+				anything too rash!<end_line  />
 			</ascii>
 		</female>
 	</dialogue>
@@ -977,7 +977,7 @@
 		</sjis>
 		<ascii>
 			Pike and Master are heading<end_line />
-			deeper into the Spoat Grotto.<end_line/>
+			deeper into the Spoat Grotto.<end_line />
 			Let's hurry and catch up to them!<end_line />
 		</ascii>
 	</dialogue>
@@ -1038,7 +1038,7 @@
 		</sjis>
 		<ascii>
 			Pike and Master are heading<end_line />
-			deeper into Spoat Grotto.<end_line/>
+			deeper into Spoat Grotto.<end_line />
 			Let's hurry and catch up to them!<end_line />
 		</ascii>
 	</dialogue>
@@ -1070,7 +1070,7 @@
 			<ascii>
 				Master<three_dots /><end_line />
 				I beg of you please, don't do<end_line />
-				anything too rash<three_dots />!<end_line  />
+				anything too rash!<end_line  />
 			</ascii>
 		</male>
 		<female>
@@ -1081,7 +1081,7 @@
 			<ascii>
 				Master<three_dots /><end_line />
 				I beg of you please, don't do<end_line />
-				anything too rash<three_dots />!<end_line  />
+				anything too rash!<end_line  />
 			</ascii>
 		</female>
 	</dialogue>

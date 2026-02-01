@@ -174,7 +174,7 @@
 		</sjis>
 		<ascii>
 			I do know!<end_line />
-			They're somewhere in Slenj Mine!<end_line />
+			They're somewhere in Surange Mine!<end_line />
 			Near the west gate!<end_line />
 		</ascii>
 	</dialogue>
@@ -295,7 +295,7 @@
 			いいんじゃないの？<end_line />
 		</sjis>
 		<ascii>
-			Shouldn't we ask Vee and<end_line />
+			Shouldn't we ask V.E and<end_line />
 			the others to come too?<end_line />
 			That place is dangerous.<end_line />
 		</ascii>
@@ -337,7 +337,7 @@
 			ムリしちゃダメよ<end_line />
 		</sjis>
 		<ascii>
-			We'll let Vee and Jade know.<end_line />
+			We'll let V.E and Jade know.<end_line />
 			Be careful, you two.<end_line />
 		</ascii>
 	</dialogue>

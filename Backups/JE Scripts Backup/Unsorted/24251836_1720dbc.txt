@@ -1,595 +1,595 @@
 <menu>
 	<option>
 		<sjis>
-			本編<end_line>
+			本編<end_line />
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			自由行動<end_line>
+			自由行動<end_line />
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			サウンドテスト<end_line>
+			サウンドテスト<end_line />
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			おまけ<end_line>
+			おまけ<end_line />
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			通信<end_line>
-		</sjis>
-	</option>
-</menu>
-<menu>
-	<option>
-		<sjis>
-			０話<end_line>
-		</sjis>
-	</option>
-	<option>
-		<sjis>
-			１話<end_line>
-		</sjis>
-	</option>
-	<option>
-		<sjis>
-			２話<end_line>
-		</sjis>
-	</option>
-	<option>
-		<sjis>
-			３話<end_line>
-		</sjis>
-	</option>
-	<option>
-		<sjis>
-			４話<end_line>
-		</sjis>
-	</option>
-	<option>
-		<sjis>
-			次へ<end_line>
+			通信<end_line />
 		</sjis>
 	</option>
 </menu>
 <menu>
 	<option>
 		<sjis>
-			５話<end_line>
+			０話<end_line />
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			６話<end_line>
+			１話<end_line />
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			７話<end_line>
+			２話<end_line />
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			８話<end_line>
+			３話<end_line />
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			９話<end_line>
+			４話<end_line />
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			次へ<end_line>
-		</sjis>
-	</option>
-</menu>
-<menu>
-	<option>
-		<sjis>
-			１０話<end_line>
-		</sjis>
-	</option>
-	<option>
-		<sjis>
-			１１話<end_line>
-		</sjis>
-	</option>
-	<option>
-		<sjis>
-			１２話<end_line>
-		</sjis>
-	</option>
-	<option>
-		<sjis>
-			エンディング<end_line>
-		</sjis>
-	</option>
-	<option>
-		<sjis>
-			ＥＸ<end_line>
-		</sjis>
-	</option>
-	<option>
-		<sjis>
-			戻る<end_line>
+			次へ<end_line />
 		</sjis>
 	</option>
 </menu>
 <menu>
 	<option>
 		<sjis>
-			Ｅ０１<end_line>
+			５話<end_line />
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			Ｅ０２<end_line>
+			６話<end_line />
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			Ｅ０３<end_line>
+			７話<end_line />
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			Ｅ０４<end_line>
+			８話<end_line />
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			Ｅ０５<end_line>
+			９話<end_line />
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			次へ<end_line>
-		</sjis>
-	</option>
-</menu>
-<menu>
-	<option>
-		<sjis>
-			Ｅ０６<end_line>
-		</sjis>
-	</option>
-	<option>
-		<sjis>
-			Ｅ０７<end_line>
-		</sjis>
-	</option>
-	<option>
-		<sjis>
-			Ｅ０８<end_line>
-		</sjis>
-	</option>
-	<option>
-		<sjis>
-			Ｅ０９<end_line>
-		</sjis>
-	</option>
-	<option>
-		<sjis>
-			Ｅ１０<end_line>
-		</sjis>
-	</option>
-	<option>
-		<sjis>
-			次へ<end_line>
+			次へ<end_line />
 		</sjis>
 	</option>
 </menu>
 <menu>
 	<option>
 		<sjis>
-			Ｅ１１<end_line>
+			１０話<end_line />
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			Ｅ１２<end_line>
+			１１話<end_line />
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			Ｅ１３<end_line>
+			１２話<end_line />
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			Ｅ１４<end_line>
+			エンディング<end_line />
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			Ｅ１５<end_line>
+			ＥＸ<end_line />
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			次へ<end_line>
-		</sjis>
-	</option>
-</menu>
-<menu>
-	<option>
-		<sjis>
-			Ｅ１６<end_line>
-		</sjis>
-	</option>
-	<option>
-		<sjis>
-			Ｅ１７<end_line>
-		</sjis>
-	</option>
-	<option>
-		<sjis>
-			Ｅ１８<end_line>
-		</sjis>
-	</option>
-	<option>
-		<sjis>
-			Ｅ１９<end_line>
-		</sjis>
-	</option>
-	<option>
-		<sjis>
-			Ｅ２０<end_line>
-		</sjis>
-	</option>
-	<option>
-		<sjis>
-			次へ<end_line>
+			戻る<end_line />
 		</sjis>
 	</option>
 </menu>
 <menu>
 	<option>
 		<sjis>
-			Ｅ２１<end_line>
+			Ｅ０１<end_line />
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			戻る<end_line>
-		</sjis>
-	</option>
-</menu>
-<menu>
-	<option>
-		<sjis>
-			Ｅ００<end_line>
+			Ｅ０２<end_line />
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			Ｅ０１<end_line>
+			Ｅ０３<end_line />
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			Ｅ０２<end_line>
+			Ｅ０４<end_line />
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			Ｅ０３<end_line>
+			Ｅ０５<end_line />
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			Ｅ０４<end_line>
-		</sjis>
-	</option>
-	<option>
-		<sjis>
-			次へ<end_line>
+			次へ<end_line />
 		</sjis>
 	</option>
 </menu>
 <menu>
 	<option>
 		<sjis>
-			Ｅ０５<end_line>
+			Ｅ０６<end_line />
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			Ｅ０６<end_line>
+			Ｅ０７<end_line />
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			Ｅ０７<end_line>
+			Ｅ０８<end_line />
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			Ｅ０８<end_line>
+			Ｅ０９<end_line />
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			Ｅ０９<end_line>
+			Ｅ１０<end_line />
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			次へ<end_line>
-		</sjis>
-	</option>
-</menu>
-<menu>
-	<option>
-		<sjis>
-			Ｅ１０<end_line>
-		</sjis>
-	</option>
-	<option>
-		<sjis>
-			Ｅ１１<end_line>
-		</sjis>
-	</option>
-	<option>
-		<sjis>
-			Ｅ１２<end_line>
-		</sjis>
-	</option>
-	<option>
-		<sjis>
-			Ｅ１３<end_line>
-		</sjis>
-	</option>
-	<option>
-		<sjis>
-			Ｅ１４<end_line>
-		</sjis>
-	</option>
-	<option>
-		<sjis>
-			次へ<end_line>
+			次へ<end_line />
 		</sjis>
 	</option>
 </menu>
 <menu>
 	<option>
 		<sjis>
-			Ｅ１５<end_line>
+			Ｅ１１<end_line />
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			Ｅ１６<end_line>
+			Ｅ１２<end_line />
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			Ｅ１７<end_line>
+			Ｅ１３<end_line />
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			Ｅ１８<end_line>
+			Ｅ１４<end_line />
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			Ｅ１９<end_line>
+			Ｅ１５<end_line />
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			次へ<end_line>
-		</sjis>
-	</option>
-</menu>
-<menu>
-	<option>
-		<sjis>
-			Ｅ２０<end_line>
-		</sjis>
-	</option>
-	<option>
-		<sjis>
-			Ｅ２１<end_line>
-		</sjis>
-	</option>
-	<option>
-		<sjis>
-			Ｅ２２<end_line>
-		</sjis>
-	</option>
-	<option>
-		<sjis>
-			Ｅ２３<end_line>
-		</sjis>
-	</option>
-	<option>
-		<sjis>
-			Ｅ２４<end_line>
-		</sjis>
-	</option>
-	<option>
-		<sjis>
-			次へ<end_line>
+			次へ<end_line />
 		</sjis>
 	</option>
 </menu>
 <menu>
 	<option>
 		<sjis>
-			Ｅ２５<end_line>
+			Ｅ１６<end_line />
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			Ｅ２６<end_line>
+			Ｅ１７<end_line />
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			Ｅ２７<end_line>
+			Ｅ１８<end_line />
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			Ｅ２８<end_line>
+			Ｅ１９<end_line />
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			Ｅ２９<end_line>
+			Ｅ２０<end_line />
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			次へ<end_line>
-		</sjis>
-	</option>
-</menu>
-<menu>
-	<option>
-		<sjis>
-			Ｅ３０<end_line>
-		</sjis>
-	</option>
-	<option>
-		<sjis>
-			戻る<end_line>
+			次へ<end_line />
 		</sjis>
 	</option>
 </menu>
 <menu>
 	<option>
 		<sjis>
-			ミューノ<end_line>
+			Ｅ２１<end_line />
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			護衛獣<end_line>
-		</sjis>
-	</option>
-	<option>
-		<sjis>
-			ヴィー<end_line>
-		</sjis>
-	</option>
-	<option>
-		<sjis>
-			レミィ<end_line>
-		</sjis>
-	</option>
-	<option>
-		<sjis>
-			ジェイド<end_line>
-		</sjis>
-	</option>
-	<option>
-		<sjis>
-			ティエ<end_line>
+			戻る<end_line />
 		</sjis>
 	</option>
 </menu>
 <menu>
 	<option>
 		<sjis>
-			ミューノ<end_line>
+			Ｅ００<end_line />
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			護衛獣<end_line>
+			Ｅ０１<end_line />
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			ヴィー<end_line>
+			Ｅ０２<end_line />
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			レミィ<end_line>
+			Ｅ０３<end_line />
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			ジェイド<end_line>
+			Ｅ０４<end_line />
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			ティエ<end_line>
-		</sjis>
-	</option>
-</menu>
-<menu>
-	<option>
-		<sjis>
-			ミューノ<end_line>
-		</sjis>
-	</option>
-	<option>
-		<sjis>
-			護衛獣<end_line>
-		</sjis>
-	</option>
-	<option>
-		<sjis>
-			ヴィー<end_line>
-		</sjis>
-	</option>
-	<option>
-		<sjis>
-			レミィ<end_line>
-		</sjis>
-	</option>
-	<option>
-		<sjis>
-			ジェイド<end_line>
-		</sjis>
-	</option>
-	<option>
-		<sjis>
-			ティエ<end_line>
+			次へ<end_line />
 		</sjis>
 	</option>
 </menu>
 <menu>
 	<option>
 		<sjis>
-			ミューノ<end_line>
+			Ｅ０５<end_line />
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			護衛獣<end_line>
+			Ｅ０６<end_line />
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			ヴィー<end_line>
+			Ｅ０７<end_line />
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			レミィ<end_line>
+			Ｅ０８<end_line />
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			ジェイド<end_line>
+			Ｅ０９<end_line />
 		</sjis>
 	</option>
 	<option>
 		<sjis>
-			ティエ<end_line>
+			次へ<end_line />
+		</sjis>
+	</option>
+</menu>
+<menu>
+	<option>
+		<sjis>
+			Ｅ１０<end_line />
+		</sjis>
+	</option>
+	<option>
+		<sjis>
+			Ｅ１１<end_line />
+		</sjis>
+	</option>
+	<option>
+		<sjis>
+			Ｅ１２<end_line />
+		</sjis>
+	</option>
+	<option>
+		<sjis>
+			Ｅ１３<end_line />
+		</sjis>
+	</option>
+	<option>
+		<sjis>
+			Ｅ１４<end_line />
+		</sjis>
+	</option>
+	<option>
+		<sjis>
+			次へ<end_line />
+		</sjis>
+	</option>
+</menu>
+<menu>
+	<option>
+		<sjis>
+			Ｅ１５<end_line />
+		</sjis>
+	</option>
+	<option>
+		<sjis>
+			Ｅ１６<end_line />
+		</sjis>
+	</option>
+	<option>
+		<sjis>
+			Ｅ１７<end_line />
+		</sjis>
+	</option>
+	<option>
+		<sjis>
+			Ｅ１８<end_line />
+		</sjis>
+	</option>
+	<option>
+		<sjis>
+			Ｅ１９<end_line />
+		</sjis>
+	</option>
+	<option>
+		<sjis>
+			次へ<end_line />
+		</sjis>
+	</option>
+</menu>
+<menu>
+	<option>
+		<sjis>
+			Ｅ２０<end_line />
+		</sjis>
+	</option>
+	<option>
+		<sjis>
+			Ｅ２１<end_line />
+		</sjis>
+	</option>
+	<option>
+		<sjis>
+			Ｅ２２<end_line />
+		</sjis>
+	</option>
+	<option>
+		<sjis>
+			Ｅ２３<end_line />
+		</sjis>
+	</option>
+	<option>
+		<sjis>
+			Ｅ２４<end_line />
+		</sjis>
+	</option>
+	<option>
+		<sjis>
+			次へ<end_line />
+		</sjis>
+	</option>
+</menu>
+<menu>
+	<option>
+		<sjis>
+			Ｅ２５<end_line />
+		</sjis>
+	</option>
+	<option>
+		<sjis>
+			Ｅ２６<end_line />
+		</sjis>
+	</option>
+	<option>
+		<sjis>
+			Ｅ２７<end_line />
+		</sjis>
+	</option>
+	<option>
+		<sjis>
+			Ｅ２８<end_line />
+		</sjis>
+	</option>
+	<option>
+		<sjis>
+			Ｅ２９<end_line />
+		</sjis>
+	</option>
+	<option>
+		<sjis>
+			次へ<end_line />
+		</sjis>
+	</option>
+</menu>
+<menu>
+	<option>
+		<sjis>
+			Ｅ３０<end_line />
+		</sjis>
+	</option>
+	<option>
+		<sjis>
+			戻る<end_line />
+		</sjis>
+	</option>
+</menu>
+<menu>
+	<option>
+		<sjis>
+			ミューノ<end_line />
+		</sjis>
+	</option>
+	<option>
+		<sjis>
+			護衛獣<end_line />
+		</sjis>
+	</option>
+	<option>
+		<sjis>
+			ヴィー<end_line />
+		</sjis>
+	</option>
+	<option>
+		<sjis>
+			レミィ<end_line />
+		</sjis>
+	</option>
+	<option>
+		<sjis>
+			ジェイド<end_line />
+		</sjis>
+	</option>
+	<option>
+		<sjis>
+			ティエ<end_line />
+		</sjis>
+	</option>
+</menu>
+<menu>
+	<option>
+		<sjis>
+			ミューノ<end_line />
+		</sjis>
+	</option>
+	<option>
+		<sjis>
+			護衛獣<end_line />
+		</sjis>
+	</option>
+	<option>
+		<sjis>
+			ヴィー<end_line />
+		</sjis>
+	</option>
+	<option>
+		<sjis>
+			レミィ<end_line />
+		</sjis>
+	</option>
+	<option>
+		<sjis>
+			ジェイド<end_line />
+		</sjis>
+	</option>
+	<option>
+		<sjis>
+			ティエ<end_line />
+		</sjis>
+	</option>
+</menu>
+<menu>
+	<option>
+		<sjis>
+			ミューノ<end_line />
+		</sjis>
+	</option>
+	<option>
+		<sjis>
+			護衛獣<end_line />
+		</sjis>
+	</option>
+	<option>
+		<sjis>
+			ヴィー<end_line />
+		</sjis>
+	</option>
+	<option>
+		<sjis>
+			レミィ<end_line />
+		</sjis>
+	</option>
+	<option>
+		<sjis>
+			ジェイド<end_line />
+		</sjis>
+	</option>
+	<option>
+		<sjis>
+			ティエ<end_line />
+		</sjis>
+	</option>
+</menu>
+<menu>
+	<option>
+		<sjis>
+			ミューノ<end_line />
+		</sjis>
+	</option>
+	<option>
+		<sjis>
+			護衛獣<end_line />
+		</sjis>
+	</option>
+	<option>
+		<sjis>
+			ヴィー<end_line />
+		</sjis>
+	</option>
+	<option>
+		<sjis>
+			レミィ<end_line />
+		</sjis>
+	</option>
+	<option>
+		<sjis>
+			ジェイド<end_line />
+		</sjis>
+	</option>
+	<option>
+		<sjis>
+			ティエ<end_line />
 		</sjis>
 	</option>
 </menu>

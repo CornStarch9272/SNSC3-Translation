@@ -62,7 +62,7 @@
 			<ascii>
 				The match is already over.<end_line />
 				If you still want to fight,<end_line />
-				I'll be the one<three_dots />!<end_line />
+				I'll be the one!<end_line />
 			</ascii>
 		</male>
 		<female>
@@ -74,7 +74,7 @@
 			<ascii>
 				The match is already over.<end_line />
 				If you still want to fight,<end_line />
-				I'll be the one<three_dots />!<end_line />
+				I'll be the one!<end_line />
 			</ascii>
 		</female>
 	</dialogue>
@@ -86,7 +86,7 @@
 			グルルル<three_dots />、グルルルルル<three_dots />！<end_line />
 		</sjis>
 		<ascii>
-			Grrr<three_dots />, grrrrrr<three_dots />!<end_line />
+			Grrr<three_dots /> Grrrrrr!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -98,7 +98,7 @@
 			くっ<three_dots /><end_line />
 		</sjis>
 		<ascii>
-			Magdrad<three_dots />!<end_line />
+			Magdrad!<end_line />
 			<three_dots /><end_line />
 			Ku<three_dots /><end_line />
 		</ascii>
@@ -112,7 +112,7 @@
 			大丈夫なの？<end_line />
 		</sjis>
 		<ascii>
-			Father<three_dots />!?<end_line />
+			Father!?<end_line />
 			Are you okay?<end_line />
 		</ascii>
 	</dialogue>
@@ -192,7 +192,7 @@
 		<ascii>
 			Hah! Relationship<three_dots /><end_line />
 			That guy killed my precious person.<end_line />
-			He's just an enemy<three_dots />!<end_line />
+			He's just an enemy!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -334,7 +334,7 @@
 			く、くるし<three_dots />い<three_dots /><end_line />
 		</sjis>
 		<ascii>
-			Hey<three_dots />!<end_line />
+			Hey!<end_line />
 			That<three_dots /> hurts<three_dots /><end_line />
 		</ascii>
 	</dialogue>
@@ -537,7 +537,7 @@
 			何もしてないから<end_line />
 		</sjis>
 		<ascii>
-			Wha<three_dots />!<end_line />
+			Wha— !<end_line />
 			I haven't done anything<end_line />
 			to deserve your thanks.<end_line />
 		</ascii>
@@ -754,7 +754,7 @@
 			</sjis>
 			<ascii>
 				Eh!?<end_line />
-				Wh-why<three_dots />!?<end_line />
+				Wh—Why!?<end_line />
 				Did I say something wrong!?<end_line />
 			</ascii>
 		</male>
@@ -766,7 +766,7 @@
 			</sjis>
 			<ascii>
 				Eh!?<end_line />
-				Wh-why<three_dots />!?<end_line />
+				Wh—Why!?<end_line />
 				Did I say something wrong!?<end_line />
 			</ascii>
 		</female>

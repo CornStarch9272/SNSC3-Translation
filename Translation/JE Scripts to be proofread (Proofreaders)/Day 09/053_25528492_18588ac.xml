@@ -10,7 +10,7 @@
 			</sjis>
 			<ascii>
 				Now,<end_line />
-				still still!<end_line />
+				hold still!<end_line />
 			</ascii>
 		</male>
 		<female>
@@ -20,7 +20,7 @@
 			</sjis>
 			<ascii>
 				Now,<end_line />
-				still still!<end_line />
+				hold still!<end_line />
 			</ascii>
 		</female>
 	</dialogue>
@@ -57,7 +57,7 @@
 			そうですよね？<end_line />
 		</sjis>
 		<ascii>
-			And it we've caught<end_line />
+			And we've caught<end_line />
 			your comrades already.<end_line />
 			Isn't that right?<end_line />
 		</ascii>
@@ -85,7 +85,7 @@
 			くっ<three_dots />！<end_line />
 		</sjis>
 		<ascii>
-			Ku<three_dots />!<end_line />
+			Ku<three_dots /> !<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -270,7 +270,7 @@
 			こいつ、まだ<three_dots /><end_line />
 		</sjis>
 		<ascii>
-			Hyaa<three_dots />!<end_line />
+			Hyaa!<end_line />
 			It's still<three_dots /><end_line />
 		</ascii>
 	</dialogue>
@@ -308,7 +308,7 @@
 		<ascii>
 			I-I'm okay<three_dots /><end_line />
 			But this is a bit<three_dots /><end_line />
-			Hurry<three_dots />!<end_line />
+			Hurry!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>

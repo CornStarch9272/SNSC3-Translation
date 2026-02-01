@@ -97,9 +97,9 @@
 			話し合いになるとは思うが<three_dots /><end_line />
 		</sjis>
 		<ascii>
-			With Bostaph and Velworen involved,<end_line />
+			With Bostaph and Velvoren involved,<end_line />
 			I'm sure we'll end up meeting<end_line />
-			with the Gold Council too.<end_line />
+			with the Gold Faction too.<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -549,7 +549,7 @@
 		</sjis>
 		<ascii>
 			I mean, you haven't reached<end_line />
-			the sales quota Miss Vee<end_line />
+			the sales quota Miss V.E<end_line />
 			set for you yet, right<three_dots /><end_line />
 		</ascii>
 	</dialogue>
@@ -774,7 +774,7 @@
 			<player_nickname />のパートナーだもの<end_line />
 		</sjis>
 		<ascii>
-			Of course! Until Miss Vee says<end_line />
+			Of course! Until Miss V.E says<end_line />
 			otherwise, <partner /> is<end_line />
 			your partner, <player_nickname />.<end_line />
 		</ascii>
@@ -1112,7 +1112,7 @@
 		</sjis>
 		<ascii>
 			Ah!<end_line />
-			Miss Vee, these clothes<three_dots />!<end_line />
+			Miss V.E, these clothes<three_dots />!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -1139,7 +1139,7 @@
 			大事にします<three_dots /><end_line />
 		</sjis>
 		<ascii>
-			Miss Vee<three_dots /><end_line />
+			Miss V.E<three_dots /><end_line />
 			I'll take good care of them<three_dots /><end_line />
 		</ascii>
 	</dialogue>

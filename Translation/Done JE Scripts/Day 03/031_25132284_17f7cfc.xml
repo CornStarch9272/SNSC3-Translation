@@ -219,7 +219,7 @@
 			あ、いたっ<three_dots />！<end_line />
 		</sjis>
 		<ascii>
-			Ah, oww<three_dots />!<end_line />
+			Ah, oww!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -654,7 +654,7 @@
 		</sjis>
 		<ascii>
 			Eh?<end_line />
-			Y-Yeah<three_dots />!<end_line />
+			Y-Yeah<three_dots /><end_line />
 			C'mon, let's go already!<end_line />
 		</ascii>
 	</dialogue>

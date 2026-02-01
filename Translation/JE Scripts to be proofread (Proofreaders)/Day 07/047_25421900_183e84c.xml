@@ -638,7 +638,7 @@
 			やはり<three_dots />！<end_line />
 		</sjis>
 		<ascii>
-			As I thought<three_dots />!<end_line />
+			As I thought!<end_line />
 		</ascii>
 	</dialogue>
 	<bigtext>
@@ -980,7 +980,7 @@
 			やっぱり<three_dots />！<end_line />
 		</sjis>
 		<ascii>
-			I thought so<three_dots />!<end_line />
+			I thought so!<end_line />
 		</ascii>
 	</dialogue>
 	<bigtext>
@@ -1053,7 +1053,7 @@
 				そんなにイヤなのか<three_dots /><end_line />
 			</sjis>
 			<ascii>
-				Eh<three_dots />!?<end_line />
+				Eh!?<end_line />
 				<partner /> is begging me<three_dots /><end_line />
 				Do you hate it that much<three_dots />?<end_line />
 			</ascii>
@@ -1065,7 +1065,7 @@
 				そんなにイヤなの<three_dots /><end_line />
 			</sjis>
 			<ascii>
-				Eh<three_dots />!?<end_line />
+				Eh!?<end_line />
 				<partner /> is begging me<three_dots /><end_line />
 				Do you hate it that much<three_dots />?<end_line />
 			</ascii>
@@ -1143,7 +1143,7 @@
 		</sjis>
 		<ascii>
 			For Lady Murno's sake,<end_line />
-			we must be extra cautious<three_dots />!<end_line />
+			we must be extra cautious!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -1223,7 +1223,7 @@
 			おまかせください！<end_line />
 		</sjis>
 		<ascii>
-			Leave to me!<end_line />
+			Leave it to me!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -1307,7 +1307,7 @@
 			やっぱり<three_dots />！<end_line />
 		</sjis>
 		<ascii>
-			I thought so<three_dots />!<end_line />
+			I thought so!<end_line />
 		</ascii>
 	</dialogue>
 	<bigtext>

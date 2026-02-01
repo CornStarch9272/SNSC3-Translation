@@ -208,8 +208,8 @@
 			<partner /><three_dots />！<end_line />
 		</sjis>
 		<ascii>
-			<player_nickname /><three_dots />!<end_line />
-			<partner /><three_dots />!<end_line />
+			<player_nickname />!<end_line />
+			<partner />!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -321,7 +321,7 @@
 			ザックまで<three_dots />！？<end_line />
 		</sjis>
 		<ascii>
-			Even Zakk<three_dots />!?<end_line />
+			Even Zakk!?<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -718,7 +718,7 @@
 			金の派閥へ<end_line />
 		</sjis>
 		<ascii>
-			Let's hurry to the Gold Council.<end_line />
+			Let's hurry to the Gold Faction.<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -732,7 +732,7 @@
 			</sjis>
 			<ascii>
 				Hey, wait!<end_line />
-				M-mother<three_dots />!?<end_line />
+				M-mother!?<end_line />
 			</ascii>
 		</male>
 		<female>
@@ -742,7 +742,7 @@
 			</sjis>
 			<ascii>
 				Hey, wait!<end_line />
-				M-mother<three_dots />!?<end_line />
+				M-mother!?<end_line />
 			</ascii>
 		</female>
 	</dialogue>

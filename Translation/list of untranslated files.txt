@@ -440,6 +440,6 @@ file: [D:\Projects\SwordcraftStory_3_loc_proj\repos\SNSC3-Translation\Post Game\
 
 
 	<ascii>
-		<three_dots><end_line>
+		<three_dots /><end_line />
 	</ascii>
 |　|

@@ -51,7 +51,7 @@
 			<player_nickname />、ヴィーさん<three_dots /><end_line />
 		</sjis>
 		<ascii>
-			<player_nickname />, Vee<three_dots /><end_line />
+			<player_nickname />, V.E<three_dots /><end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -205,7 +205,7 @@
 		<ascii>
 			He hasn't fully healed yet,<end_line />
 			but he was called upon<end_line />
-			by the Gold Council<three_dots /><end_line />
+			by the Gold Faction<three_dots /><end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -244,7 +244,7 @@
 		</sjis>
 		<ascii>
 			Today's the day for our<end_line />
-			meeting with the Gold Council.<end_line />
+			meeting with the Gold Faction.<end_line />
 			I'll do my best!<end_line />
 		</ascii>
 	</dialogue>
@@ -259,7 +259,7 @@
 		</sjis>
 		<ascii>
 			Today's the day for our<end_line />
-			meeting with the Gold Council.<end_line />
+			meeting with the Gold Faction.<end_line />
 			I'll do my best!<end_line />
 		</ascii>
 	</dialogue>

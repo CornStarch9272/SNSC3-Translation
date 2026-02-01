@@ -287,7 +287,7 @@
 			ちがうのに<three_dots /><end_line />
 		</sjis>
 		<ascii>
-			N-No, that's not<three_dots />!<end_line />
+			N-No, that's not <three_dots /> !<end_line />
 			This is different<three_dots /><end_line />
 		</ascii>
 	</dialogue>

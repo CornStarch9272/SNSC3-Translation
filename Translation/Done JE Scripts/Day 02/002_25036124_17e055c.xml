@@ -105,7 +105,7 @@
 			She's made a full recovery!<end_line />
 			All thanks to your medicine!<end_line />
 		</ascii>
-		# Previous translation didn't line up with all above partner lines.
+		<!--  Previous translation didn't line up with all above partner lines.-->
 	</dialogue>
 	<dialogue>
 		<info box="left" />
@@ -636,7 +636,7 @@
 			</sjis>
 			<ascii>
 				Ow!<end_line />
-				You don't have to hit me<three_dots />!<end_line />
+				You don't have to hit me!<end_line />
 			</ascii>
 		</male>
 		<female>
@@ -716,7 +716,7 @@
 		</sjis>
 		<ascii>
 			Oww!<end_line />
-			You don't have to hit me<three_dots />!<end_line />
+			You don't have to hit me!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>

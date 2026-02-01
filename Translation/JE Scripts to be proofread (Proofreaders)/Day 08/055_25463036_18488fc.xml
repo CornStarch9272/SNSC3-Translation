@@ -236,7 +236,7 @@
 			</sjis>
 			<ascii>
 				Shut up<three_dots /><end_line />
-				Of course I'm not<three_dots />!<end_line />
+				Of course I'm not!<end_line />
 			</ascii>
 		</male>
 		<female>
@@ -246,7 +246,7 @@
 			</sjis>
 			<ascii>
 				Shut up<three_dots /><end_line />
-				Of course I'm not<three_dots />!<end_line />
+				Of course I'm not!<end_line />
 			</ascii>
 		</female>
 	</dialogue>
@@ -379,7 +379,7 @@
 			</sjis>
 			<ascii>
 				Damn<three_dots />you<three_dots /><end_line />
-				Unforgivable<three_dots />!<end_line />
+				Unforgivable!<end_line />
 			</ascii>
 		</male>
 		<female>
@@ -389,7 +389,7 @@
 			</sjis>
 			<ascii>
 				Damn<three_dots />you<three_dots /><end_line />
-				Unforgivable<three_dots />!<end_line />
+				Unforgivable!<end_line />
 			</ascii>
 		</female>
 	</dialogue>
@@ -546,7 +546,7 @@
 			ひ<three_dots />と<three_dots />！？<end_line />
 		</sjis>
 		<ascii>
-			Mur<three_dots />der<three_dots />!?<end_line />
+			Mur<three_dots />derer!?<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -586,7 +586,7 @@
 			親方がそんなことするワケない？<end_line />
 		</sjis>
 		<ascii>
-			Hah<three_dots />! What's with that face?<end_line />
+			Hah! <three_dots /> What's with that face?<end_line />
 			You want to say that's unbelievable?<end_line />
 			That your Master isn't like that?<end_line />
 		</ascii>
@@ -599,7 +599,7 @@
 			<three_dots />っ！<end_line />
 		</sjis>
 		<ascii>
-			<three_dots />!<end_line />
+			<three_dots /> !<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -697,7 +697,7 @@
 			<three_dots />っ！<end_line />
 		</sjis>
 		<ascii>
-			<three_dots />!<end_line />
+			<three_dots /> !<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -861,7 +861,7 @@
 			召喚獣のせいで<three_dots />！<end_line />
 		</sjis>
 		<ascii>
-			Because of Summons<three_dots />!?<end_line />
+			Because of Summons!?<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>

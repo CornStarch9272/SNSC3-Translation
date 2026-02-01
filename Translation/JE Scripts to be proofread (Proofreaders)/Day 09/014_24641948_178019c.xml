@@ -38,9 +38,9 @@
 			勝手に買い物してください<end_line />
 		</sjis>
   		<ascii>
-    		A notice From Gallahan's Workshop:<end_line>
-    		When a clerk is not at the counter,<end_line>
-    		please shop at your own convenience.<end_line>
+    		A notice From Gallahan's Workshop:<end_line />
+    		When a clerk is not at the counter,<end_line />
+    		please shop at your own convenience.<end_line />
   		</ascii>
 	</dialogue>
 	<dialogue>
@@ -89,8 +89,8 @@
 			落ちてないかな〜<end_line />
 		</sjis>
   		<ascii>
-    		I wonder if I'll get any<end_line>
-    		good news for my sales~<end_line>
+    		I wonder if I'll get any<end_line />
+    		good news for my sales~<end_line />
   		</ascii>
 	</dialogue>
 </tl_file>

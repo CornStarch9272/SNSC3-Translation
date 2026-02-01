@@ -36,7 +36,7 @@
 			Red beans are simply the best.<end_line />
 			Can't get enough.<end_line />
 		</ascii>
-		# Changed Azuki beans to red beans.
+		<!--  Changed Azuki beans to red beans.-->
 	</dialogue>
 	<dialogue>
 		<info box="simple" />

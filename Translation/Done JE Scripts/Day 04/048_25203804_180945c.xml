@@ -99,7 +99,7 @@
 	</dialogue>
 	<dialogue>
 		<info box="left" />
-		<portrait_l entry="elieze" eye="sad" mouth="tense" />
+		<portrait_l entry="eliez" eye="sad" mouth="tense" />
 		<portrait_r entry="player" eye="decided" mouth="neutral" />
 		<male>
 			<sjis>
@@ -120,7 +120,7 @@
 	</dialogue>
 	<dialogue>
 		<info box="left" />
-		<portrait_l entry="elieze" eye="sad" mouth="tense" />
+		<portrait_l entry="eliez" eye="sad" mouth="tense" />
 		<portrait_r entry="player" eye="decided" mouth="neutral" />
 		<sjis>
 			こわい<three_dots /><end_line />
@@ -131,7 +131,7 @@
 	</dialogue>
 	<dialogue>
 		<info box="right" />
-		<portrait_l entry="elieze" eye="sad" mouth="tense" />
+		<portrait_l entry="eliez" eye="sad" mouth="tense" />
 		<portrait_r entry="player" eye="decided" mouth="neutral" />
 		<male>
 			<sjis>

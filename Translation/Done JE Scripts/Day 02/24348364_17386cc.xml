@@ -1511,7 +1511,7 @@
 			ちゃんと話を聞け！<end_line />
 		</sjis>
 		<ascii>
-			Tch<three_dots />!<end_line />
+			<three_dots /> Tsk!<end_line />
 			Hey, listen to me!<end_line />
 		</ascii>
 	</dialogue>

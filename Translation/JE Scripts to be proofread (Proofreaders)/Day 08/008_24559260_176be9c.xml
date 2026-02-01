@@ -1,0 +1,143 @@
+<tl_file>
+	<location>
+		<sjis>
+			プロスバンの町<end_line />
+		</sjis>
+		<ascii>
+			Prosban<end_line />
+		</ascii>
+	</location>
+	<location>
+		<sjis>
+			プロスバンの町　西門<end_line />
+		</sjis>
+		<ascii>
+			Prosban　West Gate<end_line />
+		</ascii>
+	</location>
+	<dialogue>
+		<info box="simple" />
+		<portrait_l name="player" />
+		<male>
+			<sjis>
+				ねらわれてるミューノをつれて<end_line />
+				あまりウロウロしない方がいいな<three_dots /><end_line />
+				とにかく工房に行こう<end_line />
+			</sjis>
+			<ascii>
+				I shouldn't wander around while<end_line />
+				Murno is still in danger<three_dots /><end_line />
+				Let's head to the workshop.<end_line />
+			</ascii>
+		</male>
+		<female>
+			<sjis>
+				ねらわれてるミューノをつれて<end_line />
+				あまりウロウロしない方がいいよね<three_dots /><end_line />
+				とにかく工房に行こう<end_line />
+			</sjis>
+			<ascii>
+				I shouldn't wander around while<end_line />
+				Murno is still in danger<three_dots /><end_line />
+				Let's head to the workshop.<end_line />
+			</ascii>
+		</female>
+	</dialogue>
+	<dialogue>
+		<sjis>
+			何らかのメッセージ予定<end_line />
+		</sjis>
+		<ascii>
+			Some kind of message planned.<end_line />
+		</ascii>
+		<!-- Is this debug text? Lol -Bliz -->
+	</dialogue>
+	<dialogue>
+		<info box="simple" />
+		<portrait_l name="gatekeeper" />
+		<sjis>
+			いつもの門番がカゼひいたから<end_line />
+			今日はオレが代わりだよ<end_line />
+			メンドウだなぁ<three_dots /><end_line />
+		</sjis>
+		<ascii>
+			The usual gatekeeper caught a cold.<end_line />
+			Now I have to take his place<three_dots /><end_line />
+			What a pain.<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<info box="simple" />
+		<portrait_l name="gatekeeper" />
+		<sjis>
+			この先にはアカバネって<end_line />
+			コワイはぐれがいるらしいけど<end_line />
+			行きたいなら止めないぜ<end_line />
+		</sjis>
+		<ascii>
+			Just ahead is a really scary Stray<end_line />
+			called Red Wing. If you really want<end_line />
+			to go, I won't stop you.<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<info box="simple" />
+		<portrait_l name="gatekeeper" />
+		<sjis>
+			わう！<end_line />
+		</sjis>
+		<ascii>
+			Woof!<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<info box="simple" />
+		<portrait_l name="gatekeeper" />
+		<sjis>
+			この先のスレンジ採掘場には<end_line />
+			凶悪なはぐれ召喚獣が出ます！<end_line />
+			お出かけの時にはご注意ください<end_line />
+		</sjis>
+		<ascii>
+			There are some really tough<end_line />
+			strays in Surange Mine!<end_line />
+			Be careful outside of town.<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<info box="simple" />
+		<portrait_l name="gatekeeper" />
+		<sjis>
+			何度武器で攻撃してもダメージが<end_line />
+			１の場合には、魔法しか効かない<end_line />
+			恐ろしい相手の可能性があります<end_line />
+		</sjis>
+		<ascii>
+			If your weapon only deals 1 damage,<end_line />
+			it may be an opponent you need to<end_line />
+			take on using magic.<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<info box="simple" />
+		<portrait_l name="gatekeeper" />
+		<sjis>
+			下を見ろ↓<end_line />
+		</sjis>
+		<ascii>
+			Look down! ↓<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<info box="simple" />
+		<portrait_l name="gatekeeper" />
+		<sjis>
+			↑上を見たい時は<end_line />
+			ＳＴＡＲＴボタン<end_line />
+		</sjis>
+		<ascii>
+			↑ When you want to look up,<end_line />
+			press the START button.<end_line />
+		</ascii>
+	</dialogue>
+</tl_file>

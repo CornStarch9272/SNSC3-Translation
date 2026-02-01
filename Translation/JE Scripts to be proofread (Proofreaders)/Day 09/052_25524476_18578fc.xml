@@ -102,7 +102,7 @@
 			ふざけるな！<end_line />
 		</sjis>
 		<ascii>
-			You guys<three_dots />!<end_line />
+			You guys!<end_line />
 			Stop screwing around!<end_line />
 		</ascii>
 	</dialogue>
@@ -456,7 +456,7 @@
 		</sjis>
 		<ascii>
 			No choice<three_dots /><end_line />
-			I have to<three_dots />!<end_line />
+			I have to!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>

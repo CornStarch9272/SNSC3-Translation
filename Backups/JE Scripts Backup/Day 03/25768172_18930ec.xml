@@ -1,36 +1,36 @@
 <location>
 	<sjis>
-		コンシールの森<end_line>
+		コンシールの森<end_line />
 	</sjis>
 </location>
 <location>
 	<sjis>
-		コンシールの森　エリア３<end_line>
+		コンシールの森　エリア３<end_line />
 	</sjis>
 </location>
 <popup>
 	<sjis>
-		元気になった！<end_line>
+		元気になった！<end_line />
 	</sjis>
 	<ascii>
-		You feel refreshed!<end_line>
+		You feel refreshed!<end_line />
 	</ascii>
 </popup>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="stray_cat">
+	<info box="simple" />
+	<portrait_l name="stray_cat" />
 	<sjis>
-		にゃ？<end_line>
+		にゃ？<end_line />
 	</sjis>
 	<ascii>
-		Meow?<end_line>
+		Meow?<end_line />
 	</ascii>
 </dialogue>
 <popup>
 	<sjis>
-		迷いネコを保護した！<end_line>
+		迷いネコを保護した！<end_line />
 	</sjis>
 	<ascii>
-		Found the lost cat!<end_line>
+		Found the lost cat!<end_line />
 	</ascii>
 </popup>

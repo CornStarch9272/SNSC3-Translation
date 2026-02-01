@@ -439,7 +439,7 @@
 			そんなことを<three_dots />！<end_line />
 		</sjis>
 		<ascii>
-			How do you know<three_dots />!?<end_line />
+			How do you know!?<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -762,9 +762,9 @@
 			なめた口をきくと<three_dots /><end_line />
 		</sjis>
 		<ascii>
-			<three_dots />!?<end_line />
+			<three_dots /> !?<end_line />
 			As if!<end_line />
-			You fool<three_dots />!<end_line />
+			You fool!<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>

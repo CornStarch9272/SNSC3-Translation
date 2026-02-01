@@ -324,7 +324,7 @@
 		</sjis>
 		<ascii>
 			(This might just work!<end_line />
-			　Just a bit more<three_dots />!)<end_line />
+			　Just a bit more!)<end_line />
 		</ascii>
 	</dialogue>
 	<dialogue>
@@ -376,7 +376,7 @@
 			スルドイわね<end_line />
 		</sjis>
 		<ascii>
-			Tch<three_dots />!<end_line />
+			Tch!<end_line />
 			Well, aren't you sharp?<end_line />
 		</ascii>
 	</dialogue>

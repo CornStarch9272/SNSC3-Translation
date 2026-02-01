@@ -1,17 +1,17 @@
 <location>
 	<sjis>
-		村長の家　広間<end_line>
+		村長の家　広間<end_line />
 	</sjis>
 </location>
 <dialogue>
-	<info box="simple">
-	<portrait_l name="chief">
+	<info box="simple" />
+	<portrait_l name="chief" />
 	<sjis>
-		武器の手入れは<end_line>
-		なまけちゃいかんな<end_line>
+		武器の手入れは<end_line />
+		なまけちゃいかんな<end_line />
 	</sjis>
 	<ascii>
-		Don't be careless,<end_line>
-		take care of your weapons.<end_line>
+		Don't be careless,<end_line />
+		take care of your weapons.<end_line />
 	</ascii>
 </dialogue>
