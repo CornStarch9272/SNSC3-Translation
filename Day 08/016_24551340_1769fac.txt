@@ -10,7 +10,7 @@ code0412        4, 1
 code0418        2
 setvar          $b075, 1
 setvar          $b072, 0
-placetxt        "Prosban　Shopping Street"
+placetxt        "Prosban　Shopping District"
 code040c        1, @Label_0658
 code040c        2, @Label_064e
 call            @Func_0df4
@@ -440,27 +440,27 @@ code0301        8, 7
 dialogtxt       "　"
 dialogtxt       "　　　Fishing Friends Paper, No. 2"
 code0309        
-dialogtxt       "If you keep fishing continuously,"
+dialogtxt       "If you keep fishing for a while,"
 dialogtxt       "you may randomly find a fish that"
-dialogtxt       "grants a lot of points."
+dialogtxt       "grants a lot of points!"
 code0309        
 code0302        7
 code040b        
 
 @Event_1354:
 code0301        8, 7
-dialogtxt       "Care to try our Lucky Draw?"
+dialogtxt       "Care to try our \"Lucky Draw\"?"
 dialogtxt       "It's available all day, everyday!"
-dialogtxt       "Guaranteed no losing tickets!"
+dialogtxt       "No losing tickets, guaranteed!"
 code0309        
 code0302        7
 code040b        
 
 @Event_13bc:
 code0301        8, 7
-dialogtxt       "Notice from the shop."
+dialogtxt       "Notice from the shop:"
 dialogtxt       "If you feel your stats are lacking,"
-dialogtxt       "make sure to equip an accessory."
+dialogtxt       "make sure to equip an accessory!"
 code0309        
 code0302        7
 code040b        

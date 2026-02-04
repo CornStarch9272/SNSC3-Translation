@@ -455,7 +455,7 @@ code040b
 
 @Event_133e:
 code0301        8, 7
-dialogtxt       "Care to try our Lucky Draw?"
+dialogtxt       "Care to try our \"Lucky Draw\"?"
 dialogtxt       "It's available all day, everyday!"
 dialogtxt       "Guaranteed no losing tickets!"
 code0309        
@@ -466,7 +466,7 @@ code040b
 code0301        8, 7
 dialogtxt       "The Almighty Jade◎Support Squad"
 dialogtxt       "has been officially formed!"
-dialogtxt       "Currently recruiting members!"
+dialogtxt       "We're looking for members!"
 code0309        
 code0302        7
 code040b        

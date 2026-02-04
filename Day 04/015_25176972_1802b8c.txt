@@ -35,7 +35,7 @@ code0479        0, 4, 12
 code047d        0, 0
 call            @Func_171c
 call            @Func_1644
-dialogtxt       "Master…Murno…"
+dialogtxt       "Master… Murno…"
 dialogtxt       "I'm so glad you were able"
 dialogtxt       "to follow the road properly."
 code047b        

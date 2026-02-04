@@ -120,7 +120,7 @@ goto            @Cond_048c
 
 @Cond_048c:
 jumpz           @Cond_04ba, ($b003 == 3)
-dialogtxt       "Eeek…!"
+dialogtxt       "Eeek!"
 dialogtxt       "Above you!"
 goto            @Cond_04ba
 
@@ -204,7 +204,7 @@ code0479        0, 2, 14
 code047d        0, 135
 call            @Func_3034
 call            @Func_2f5c
-dialogtxt       "Magdrad…!"
+dialogtxt       "Magdrad!"
 dialogtxt       "Anise!"
 code047b        
 code0309        
@@ -365,8 +365,8 @@ code033e        221
 code043e        4, 0, 0
 call            @Func_3034
 call            @Func_2f5c
-dialogtxt       "No…!"
-dialogtxt       "Stop…!"
+dialogtxt       "No!"
+dialogtxt       "Stop!"
 dialogtxt       "Magdrad!"
 code047b        
 code0309        
@@ -563,8 +563,8 @@ code0309
 call            @Func_2fb0
 code0479        1, 2, 16
 call            @Func_2fe6
-dialogtxt       "The Summonite…!?"
-dialogtxt       "Did you lose it…!?"
+dialogtxt       "The Summonite!?"
+dialogtxt       "Did you lose it!?"
 code0309        
 call            @Func_30b6
 call            @Func_3004
@@ -619,7 +619,7 @@ goto            @Cond_1e22
 
 @Cond_1e22:
 jumpz           @Cond_1e56, ($b003 == 2)
-dialogtxt       "Tch!"
+dialogtxt       "… Tsk!"
 dialogtxt       "Found the Summonite!"
 goto            @Cond_1e56
 
@@ -660,8 +660,8 @@ code047d        1, 0
 code0479        1, 2, 14
 call            @Func_304a
 call            @Func_2fc8
-dialogtxt       "Agh…!"
-dialogtxt       "It's spweing fire again…!"
+dialogtxt       "Agh!"
+dialogtxt       "It's spewing fire again!"
 code047b        
 code0309        
 call            @Func_301c
@@ -670,8 +670,8 @@ code0479        0, 2, 15
 code047d        0, 135
 call            @Func_3034
 call            @Func_2f7a
-dialogtxt       "Its name…!"
-dialogtxt       "Call out our master's name…!"
+dialogtxt       "Its name!"
+dialogtxt       "Call out our master's name!"
 code047b        
 code0309        
 call            @Func_30b6
@@ -704,7 +704,7 @@ code047d        0, 0
 call            @Func_3034
 code0479        0, 2, 15
 call            @Func_2f5c
-dialogbig       24, 116, 1, 0, 0, "Pha…, Phantom Dragon!"
+dialogbig       24, 116, 1, 0, 0, "Pha—Phantom Dragon!"
 code030c        
 call            @Func_308a
 call            @Func_2f98
@@ -780,8 +780,8 @@ code0479        0, 5, 17
 code047d        0, 0
 call            @Func_3034
 call            @Func_2f5c
-dialogtxt       "Uwah…!?"
-dialogtxt       "It worked…!?"
+dialogtxt       "Uwah!?"
+dialogtxt       "It worked!?"
 code047b        
 code0309        
 call            @Func_308a
@@ -813,7 +813,7 @@ code0479        0, 0, 14
 code047d        0, 135
 call            @Func_3060
 call            @Func_2f5c
-dialogtxt       "Do not, worry…"
+dialogtxt       "Do not worry…"
 dialogtxt       "Our master has…"
 dialogtxt       "recognized your strength…"
 code047b        
@@ -860,8 +860,8 @@ code0309
 call            @Func_2fb0
 code0479        1, 2, 14
 call            @Func_2fe6
-dialogtxt       "…!"
-dialogtxt       "Okay…!"
+dialogtxt       "… !"
+dialogtxt       "Okay!"
 code0309        
 code0479        1, 2, 15
 dialogbig       24, 116, 1, 0, 0, "Let's do this!"

@@ -405,7 +405,6 @@ call            @Func_2282
 dialogtxt       "No, it's not okay!"
 goto            @Label_142c
 
-
 @Label_142c:
 code0309        
 call            @Func_22b8

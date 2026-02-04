@@ -390,11 +390,11 @@ code0301        8, 7
 code047d        0, 120
 code047e        0, 1
 dialogtxt       "South of Prosban is"
-dialogtxt       "Flaad Cave, and past"
+dialogtxt       "Flard Grotto, and past"
 dialogtxt       "that is Beleet Forest."
 code0309        
 dialogtxt       "I heard there's an underground"
-dialogtxt       "river flowing in Flaad Cave."
+dialogtxt       "river flowing in Flard Grotto."
 code0309        
 code047e        0, 0
 code0302        7
@@ -410,7 +410,7 @@ code0309
 dialogtxt       "You'd think we'd at least"
 dialogtxt       "get a bonus sometimes."
 code0309        
-dialogtxt       "I'm a member of the Gold Council."
+dialogtxt       "I'm a member of the Gold Faction."
 dialogtxt       "Hey, are you listening?"
 code0309        
 code047e        0, 0

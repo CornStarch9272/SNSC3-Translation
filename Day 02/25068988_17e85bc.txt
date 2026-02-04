@@ -88,7 +88,7 @@ code0479        0, 5, 17
 code047d        0, 0
 call            @Func_0d6c
 call            @Func_0cb2
-dialogtxt       "No…!"
+dialogtxt       "No!"
 dialogtxt       "We don't!"
 code047b        
 code0309        
@@ -120,14 +120,14 @@ call            @Func_0d6c
 call            @Func_0c94
 jumpz           @Cond_0538, ($b002 == 0)
 dialogtxt       "Ah, hey!"
-dialogtxt       "That's…!"
-dialogtxt       "Lemmy…!"
+dialogtxt       "That's…"
+dialogtxt       "Lemmy!"
 goto            @Label_056a
 
 @Cond_0538:
 dialogtxt       "Ah, hey!"
-dialogtxt       "That's…!"
-dialogtxt       "Lemmy…!"
+dialogtxt       "That's…"
+dialogtxt       "Lemmy!"
 goto            @Label_056a
 
 @Label_056a:

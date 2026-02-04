@@ -14,7 +14,7 @@ code047d        0, 0
 call            @Func_196c
 call            @Func_18d4
 dialogtxt       "Are you ready to speak"
-dialogtxt       "with the Gold Council?"
+dialogtxt       "with the Gold Faction?"
 code047b        
 code0309        
 call            @Func_1928

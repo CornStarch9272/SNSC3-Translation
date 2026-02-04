@@ -15,13 +15,13 @@ code047d        1, 132
 call            @Func_141c
 call            @Func_1318
 jumpz           @Cond_010c, ($b002 == 0)
-dialogtxt       "Br… bro…!"
+dialogtxt       "Br—Bro!"
 dialogtxt       "Such a precious weapon, yet…"
 dialogtxt       "Sorry…, I…"
 goto            @Label_014e
 
 @Cond_010c:
-dialogtxt       "Br… bro…!"
+dialogtxt       "Br—Bro!"
 dialogtxt       "Such a precious weapon, yet…"
 dialogtxt       "Sorry…, I…"
 goto            @Label_014e

@@ -121,7 +121,7 @@ call            @Func_18ae
 code0479        0, 2, 15
 call            @Func_180c
 dialogtxt       "I do know!"
-dialogtxt       "They're somewhere in Slenj Mine!"
+dialogtxt       "They're somewhere in Surange Mine!"
 dialogtxt       "Near the west gate!"
 code0309        
 call            @Func_1948
@@ -225,7 +225,7 @@ code0479        0, 2, 16
 code047d        0, 109
 call            @Func_18c6
 call            @Func_180c
-dialogtxt       "Shouldn't we ask Vee and"
+dialogtxt       "Shouldn't we ask V.E and"
 dialogtxt       "the others to come too?"
 dialogtxt       "That place is dangerous."
 code047b        
@@ -243,7 +243,7 @@ dialogtxt       "Geez, this is so annoying."
 dialogtxt       "Fine."
 code0309        
 code0479        0, 2, 12
-dialogtxt       "We'll let Vee and Jade know."
+dialogtxt       "We'll let V.E and Jade know."
 dialogtxt       "Be careful, you two."
 code0309        
 call            @Func_1948

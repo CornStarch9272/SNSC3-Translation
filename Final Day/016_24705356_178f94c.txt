@@ -413,7 +413,7 @@ code047d        0, 118
 code047e        0, 1
 dialogtxt       "Whenever Zakk is gone, the"
 dialogtxt       "village feels a little quieter."
-dialogtxt       "And a little more lonely."
+dialogtxt       "It's so lonely, I tell you!"
 code0309        
 code047e        0, 0
 code0302        7

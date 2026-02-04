@@ -114,9 +114,9 @@ code0479        1, 3, 12
 code047d        1, 109
 call            @Func_1946
 call            @Func_18c4
-dialogtxt       "(Wait…!"
+dialogtxt       "(Wait!"
 dialogtxt       "　If I beat the Stray…"
-dialogtxt       "　Maybe I'll get a bonus…!)"
+dialogtxt       "　Maybe I'll get a bonus!)"
 code047b        
 code0309        
 code0479        1, 1, 12

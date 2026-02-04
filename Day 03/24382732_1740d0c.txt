@@ -345,7 +345,7 @@ code0479        0, 5, 17
 code047d        0, 107
 call            @Func_2274
 call            @Func_21ba
-dialogtxt       "Ah, slow down…!"
+dialogtxt       "Ah, slow down!"
 dialogtxt       "Are you feeling okay?"
 code047b        
 code0309        
@@ -591,7 +591,7 @@ call            @Func_225c
 code0479        0, 5, 16
 call            @Func_21ba
 dialogtxt       "Eh, ah…"
-dialogtxt       "Wait, what…!?"
+dialogtxt       "Wait, what!?"
 code0309        
 call            @Func_21f0
 code0479        1, 0, 13

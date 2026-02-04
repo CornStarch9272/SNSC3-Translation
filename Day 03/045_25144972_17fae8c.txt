@@ -14,7 +14,7 @@ code0309
 call            @Func_22ce
 code0479        1, 0, 14
 call            @Func_2304
-dialogtxt       "Tch…!"
+dialogtxt       "Tch!"
 dialogtxt       "What do we do now?"
 code0309        
 call            @Func_233a
@@ -230,7 +230,7 @@ code0446        -1
 code0479        0, 5, 17
 call            @Func_237e
 call            @Func_227a
-dialogtxt       "Whaa…!?"
+dialogtxt       "Whaa— !?"
 code047b        
 code0309        
 call            @Func_22ce

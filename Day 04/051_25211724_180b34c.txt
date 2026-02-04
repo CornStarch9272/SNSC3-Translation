@@ -64,7 +64,7 @@ code0479        0, 0, 12
 code047d        0, 138
 call            @Func_1adc
 call            @Func_1a22
-dialogtxt       "Hello, my name is Elieze."
+dialogtxt       "Hello, my name is Eliez."
 code047b        
 code0309        
 call            @Func_1a58
@@ -72,7 +72,7 @@ code0479        1, 2, 12
 call            @Func_1a8e
 dialogtxt       "I'm Tier."
 dialogtxt       "I'm currently dating [NAME 2],"
-dialogtxt       "with the intention to marry."
+dialogtxt       "with the intent to marry."
 code0309        
 call            @Func_1b32
 call            @Func_1ac4
@@ -100,7 +100,7 @@ code0479        0, 0, 12
 code047d        0, 138
 call            @Func_1adc
 call            @Func_1a22
-dialogtxt       "Hello, my name is Elieze."
+dialogtxt       "Hello, my name is Eliez."
 code047b        
 code0309        
 call            @Func_1a58
@@ -222,13 +222,13 @@ call            @Func_1adc
 call            @Func_1a22
 jumpz           @Cond_0a2a, ($b002 == 0)
 dialogtxt       "Actually Tier, I need a favor."
-dialogtxt       "Could you take Elieze"
+dialogtxt       "Could you take Eliez"
 dialogtxt       "back to town for me?"
 goto            @Label_0a78
 
 @Cond_0a2a:
 dialogtxt       "Tier, I need a favor."
-dialogtxt       "Could you take Elieze"
+dialogtxt       "Could you take Eliez"
 dialogtxt       "back to town for me?"
 goto            @Label_0a78
 
@@ -320,7 +320,7 @@ code0309
 call            @Func_1a58
 code0479        1, 0, 14
 call            @Func_1a8e
-dialogtxt       "I, see…"
+dialogtxt       "I see…"
 dialogtxt       "Sigh…"
 code0309        
 code0479        1, 4, 12

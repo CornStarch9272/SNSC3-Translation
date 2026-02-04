@@ -126,7 +126,7 @@ code0309
 call            @Func_14f4
 code0479        0, 1, 15
 call            @Func_1452
-dialogtxt       "I don't want a definition!"
+dialogtxt       "I didn't ask for the definition!"
 jumpz           @Cond_055a, ($b002 == 0)
 dialogtxt       "HOW did she disappear?"
 goto            @Label_0576

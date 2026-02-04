@@ -521,7 +521,7 @@ dialogtxt       "back for you as well."
 code0309        
 code0479        1, 2, 13
 dialogtxt       "They will regret their existance."
-dialogtxt       "I will grant them wonderful agony…!"
+dialogtxt       "I will grant them wonderful agony!"
 code0309        
 call            @Func_2744
 code0479        0, 1, 14
@@ -567,7 +567,7 @@ dialogtxt       "Of course I'm not okay!"
 code0309        
 code0479        1, 2, 15
 dialogtxt       "This anger, next we meet,"
-dialogtxt       "I will return three times over!"
+dialogtxt       "I will return it three times over!"
 code0309        
 code0479        0, 0, 16
 code0479        1, 0, 16
@@ -672,7 +672,7 @@ code0479        1, 2, 14
 call            @Func_270e
 dialogtxt       "No, I won't force you."
 dialogtxt       "I know those people are terrible."
-dialogtxt       "I will never for give them!"
+dialogtxt       "I will never forgive them!"
 code0309        
 code0479        0, 5, 14
 code0479        1, 2, 15

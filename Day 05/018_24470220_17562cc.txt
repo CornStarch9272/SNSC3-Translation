@@ -347,7 +347,7 @@ dialogtxt       "so feel free to ask anything."
 code0309        
 code047e        0, 0
 choicetxt       @Choice_0f52, "About enhancing…"
-choicetxt       @Choice_1098, "About quenching…"
+choicetxt       @Choice_1098, "About refining…"
 choicetxt       @Choice_11a4, "Nothing"
 choicewait      
 
@@ -369,11 +369,11 @@ goto            @Label_11ce
 
 @Choice_1098:
 code047e        0, 1
-dialogtxt       "About quenching then."
+dialogtxt       "About refining then."
 dialogtxt       "You might know it as Toughening,"
-dialogtxt       "so pay attention to that."
+dialogtxt       "pay attention to that."
 code0309        
-dialogtxt       "You're able to quench any"
+dialogtxt       "You're able to refine any"
 dialogtxt       "weapon with max TEC and"
 dialogtxt       "increase its effectiveness."
 code0309        

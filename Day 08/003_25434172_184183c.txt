@@ -13,7 +13,7 @@ code0479        1, 0, 12
 code047d        1, 0
 call            @Func_15f2
 call            @Func_14ee
-dialogtxt       "Ah, [NAME 2]"
+dialogtxt       "Ah, [NAME 2]!"
 dialogtxt       "How are you? Did you rest well?"
 code047b        
 code0309        
@@ -132,7 +132,7 @@ call            @Func_15ae
 code0479        1, 5, 16
 call            @Func_150c
 dialogtxt       "Hold on!"
-dialogtxt       "For which statement?"
+dialogtxt       "Which part are you agreeing with?"
 code0309        
 call            @Func_1632
 call            @Func_1542
@@ -161,27 +161,28 @@ code047d        1, 2
 call            @Func_15dc
 call            @Func_1578
 jumpz           @Cond_0844, ($b003 == 0)
-dialogtxt       "Deciding If Someone Is Evil Based"
-dialogtxt       "On The Scariness Of Their Face Is…"
+dialogtxt       "Deciding If Someone Is Evil Based On"
+dialogtxt       "The Their Face Would Mean…"
 goto            @Cond_0844
 
 @Cond_0844:
 jumpz           @Cond_0892, ($b003 == 1)
-dialogtxt       "It's true that if one were to"
-dialogtxt       "decide if someone was a villain"
+dialogtxt       "Well, if we were to decide whether"
+dialogtxt       "someone was a villain solely"
 dialogtxt       "based on their face…"
 goto            @Cond_0892
 
 @Cond_0892:
 jumpz           @Cond_08d0, ($b003 == 2)
 dialogtxt       "Hm."
-dialogtxt       "If we base it on appearance…"
+dialogtxt       "If we're just basing it"
+dialogtxt       "on appearance…"
 goto            @Cond_08d0
 
 @Cond_08d0:
 jumpz           @Cond_0918, ($b003 == 3)
 dialogtxt       "Well, if we were to decide"
-dialogtxt       "based upon one's appearnace…"
+dialogtxt       "just based on appearance…"
 goto            @Cond_0918
 
 @Cond_0918:
@@ -222,8 +223,8 @@ code0479        0, 1, 17
 code047d        0, 107
 call            @Func_15f2
 call            @Func_14ee
-dialogtxt       "Oh,"
-dialogtxt       "[NAME 1], stop it!"
+dialogtxt       "Oh, cut it out,"
+dialogtxt       "[NAME 1]!"
 code047b        
 code0309        
 call            @Func_1648
@@ -239,7 +240,7 @@ call            @Func_15f2
 call            @Func_155a
 dialogtxt       "Well, we've got nothing to worry"
 dialogtxt       "about on that end."
-dialogtxt       "Right? Elieze."
+dialogtxt       "Right? Eliez."
 code047b        
 code0309        
 call            @Func_15ae
@@ -278,7 +279,7 @@ code047d        0, 132
 call            @Func_15c6
 call            @Func_14ee
 dialogtxt       "We'll be waiting for you outside."
-dialogtxt       "don't take too long."
+dialogtxt       "Don't take too long."
 code047b        
 code0309        
 call            @Func_161c
@@ -290,7 +291,7 @@ code047d        0, 138
 call            @Func_15c6
 code043c        6, 4
 call            @Func_14ee
-dialogtxt       "Okay, then Elieze will be"
+dialogtxt       "Okay, then Eliez will be"
 dialogtxt       "taking care of errands!"
 code047b        
 code0309        

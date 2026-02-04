@@ -369,11 +369,11 @@ jumpz           @Cond_110c, ($h135 == 9 && $f1260 == 0)
 setvar          $f1260, 1
 code0301        8, 7
 code047e        0, 1
-dialogtxt       "Wow! Your sword crafting rank"
-dialogtxt       "is at the highest possible tier!!"
+dialogtxt       "Oh, my goodness! Your Sword"
+dialogtxt       "Rank is the highest there is!"
 code0309        
 dialogtxt       "Here! This is for you, the"
-dialogtxt       "Ultimate Sword Manual!"
+dialogtxt       "\"Ultimate Sword Manual\"!"
 dialogtxt       "Please put it to good use!"
 code0309        
 code047e        0, 0
@@ -382,9 +382,9 @@ code0366        526, 1
 code0367        
 code0301        0, 7
 code0305        1
-dialogtxt       "Having the Ultimate Sword Manual"
+dialogtxt       "Having the \"Ultimate Sword Manual\""
 dialogtxt       "in your inventory while saving lets"
-dialogtxt       "you unlock Lemmy in Bonus Mode!"
+dialogtxt       "you unlock \"Lemmy\" in Bonus Mode!"
 code0309        
 code0302        7
 goto            @Cond_110c
@@ -395,11 +395,11 @@ jumpz           @Cond_129e, ($h135 == 9 && $f1261 == 0)
 setvar          $f1261, 1
 code0301        8, 7
 code047e        0, 1
-dialogtxt       "Wow! Your axe crafting rank"
-dialogtxt       "is at the highest possible tier!!"
+dialogtxt       "Oh, my goodness! Your Axe"
+dialogtxt       "Rank is the highest there is!"
 code0309        
 dialogtxt       "Here! This is for you, the"
-dialogtxt       "Ultimate Axe Manual!"
+dialogtxt       "\"Ultimate Axe Manual\"!"
 dialogtxt       "Please put it to good use!"
 code0309        
 code047e        0, 0
@@ -408,9 +408,9 @@ code0366        524, 1
 code0367        
 code0301        0, 7
 code0305        1
-dialogtxt       "Having the Ultimate Axe Manual"
+dialogtxt       "Having the \"Ultimate Axe Manual\""
 dialogtxt       "in your inventory while saving lets"
-dialogtxt       "you unlock V.E in Bonus Mode!"
+dialogtxt       "you unlock \"V.E\" in Bonus Mode!"
 code0309        
 code0302        7
 goto            @Cond_129e
@@ -421,11 +421,11 @@ jumpz           @Cond_1432, ($h135 == 9 && $f1262 == 0)
 setvar          $f1262, 1
 code0301        8, 7
 code047e        0, 1
-dialogtxt       "Wow! Your spear crafting rank"
-dialogtxt       "is at the highest possible tier!!"
+dialogtxt       "This is shocking! Your Spear"
+dialogtxt       "Rank is the highest there is!"
 code0309        
 dialogtxt       "Here! This is for you, the"
-dialogtxt       "Ultimate Spear Manual!"
+dialogtxt       "\"Ultimate Spear Manual\"!"
 dialogtxt       "Please put it to good use!"
 code0309        
 code047e        0, 0
@@ -434,9 +434,9 @@ code0366        528, 1
 code0367        
 code0301        0, 7
 code0305        1
-dialogtxt       "Having the Ultimate Spear Manual"
+dialogtxt       "Having the \"Ultimate Spear Manual\""
 dialogtxt       "in your inventory while saving lets"
-dialogtxt       "you unlock Anise in Bonus Mode!"
+dialogtxt       "you unlock \"Anise\" in Bonus Mode!"
 code0309        
 code0302        7
 goto            @Cond_1432
@@ -447,11 +447,11 @@ jumpz           @Cond_15ca, ($h135 == 9 && $f1263 == 0)
 setvar          $f1263, 1
 code0301        8, 7
 code047e        0, 1
-dialogtxt       "Wow! Your knuckle crafting rank"
-dialogtxt       "is at the highest possible tier!!"
+dialogtxt       "How wonderful! Your Knuckles"
+dialogtxt       "Rank is the highest there is!"
 code0309        
 dialogtxt       "Here! This is for you, the"
-dialogtxt       "Ultimate Knuckle Manual!"
+dialogtxt       "\"Ultimate Knuckle Manual\"!"
 dialogtxt       "Please put it to good use!"
 code0309        
 code047e        0, 0
@@ -460,9 +460,9 @@ code0366        525, 1
 code0367        
 code0301        0, 7
 code0305        1
-dialogtxt       "Having the Ultimate Knuckle Manual"
+dialogtxt       "Having the \"Ultimate Knuckle Manual\""
 dialogtxt       "in your inventory while saving lets"
-dialogtxt       "you unlock Jade in Bonus Mode!"
+dialogtxt       "you unlock \"Jade\" in Bonus Mode!"
 code0309        
 code0302        7
 goto            @Cond_15ca
@@ -473,11 +473,11 @@ jumpz           @Cond_1760, ($h135 == 9 && $f1264 == 0)
 setvar          $f1264, 1
 code0301        8, 7
 code047e        0, 1
-dialogtxt       "Wow! Your drill crafting rank"
-dialogtxt       "is at the highest possible tier!!"
+dialogtxt       "This is a shocker! Your Drill"
+dialogtxt       "Rank is the highest there is!"
 code0309        
 dialogtxt       "Here! This is for you, the"
-dialogtxt       "Ultimate Drill Manual!"
+dialogtxt       "\"Ultimate Drill Manual\"!"
 dialogtxt       "Please put it to good use!"
 code0309        
 code047e        0, 0
@@ -486,9 +486,9 @@ code0366        530, 1
 code0367        
 code0301        0, 7
 code0305        1
-dialogtxt       "Having the Ultimate Drill Manual"
+dialogtxt       "Having the \"Ultimate Drill Manual\""
 dialogtxt       "in your inventory while saving lets"
-dialogtxt       "you unlock Bostaph in Bonus Mode!"
+dialogtxt       "you unlock \"Bostaph\" in Bonus Mode!"
 code0309        
 code0302        7
 goto            @Cond_1760
@@ -499,11 +499,11 @@ jumpz           @Cond_18ec, ($h135 == 9 && $f1265 == 0)
 setvar          $f1265, 1
 code0301        8, 7
 code047e        0, 1
-dialogtxt       "Wow! Your bow crafting rank"
-dialogtxt       "is at the highest possible tier!!"
+dialogtxt       "Whaaaat!? Your Bow"
+dialogtxt       "Rank is the highest there is!"
 code0309        
 dialogtxt       "Here! This is for you, the"
-dialogtxt       "Ultimate Bow Manual!"
+dialogtxt       "\"Ultimate Bow Manual\"!"
 dialogtxt       "Please put it to good use!"
 code0309        
 code047e        0, 0
@@ -512,9 +512,9 @@ code0366        527, 1
 code0367        
 code0301        0, 7
 code0305        1
-dialogtxt       "Having the Ultimate Bow Manual"
+dialogtxt       "Having the \"Ultimate Bow Manual\""
 dialogtxt       "in your inventory while saving lets"
-dialogtxt       "you unlock Tier in Bonus Mode!"
+dialogtxt       "you unlock \"Tier\" in Bonus Mode!"
 code0309        
 code0302        7
 goto            @Cond_18ec

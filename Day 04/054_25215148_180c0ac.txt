@@ -196,17 +196,17 @@ goto            @Cond_073c
 
 @Cond_073c:
 jumpz           @Cond_075c, ($b003 == 1)
-dialogtxt       "Your friend?"
+dialogtxt       "Is this your friend?"
 goto            @Cond_075c
 
 @Cond_075c:
 jumpz           @Cond_077a, ($b003 == 2)
-dialogtxt       "Your Friend?"
+dialogtxt       "Your friend?"
 goto            @Cond_077a
 
 @Cond_077a:
 jumpz           @Cond_07a2, ($b003 == 3)
-dialogtxt       "Y-your friend?"
+dialogtxt       "I-is this your friend?"
 goto            @Cond_07a2
 
 @Cond_07a2:
@@ -242,9 +242,9 @@ dialogtxt       "You should watch your words~"
 code0309        
 code0479        1, 2, 15
 code047d        1, 116
-dialogtxt       "Kid or not, insult the great"
-dialogtxt       "and beautiful Gillan,"
-dialogtxt       "and I'll rip you to shreds!!!"
+dialogtxt       "Kid or not, if you insult "
+dialogtxt       "the great and beautiful Gillan,"
+dialogtxt       "I'll rip you to shreds!!!"
 code0309        
 call            @Func_3986
 code0479        0, 2, 16
@@ -284,19 +284,19 @@ goto            @Cond_0a6c
 
 @Cond_0a6c:
 jumpz           @Cond_0aa0, ($b003 == 1)
-dialogtxt       "He's serious…!"
+dialogtxt       "That guy's serious!"
 dialogtxt       "[NAME 2]!"
 goto            @Cond_0aa0
 
 @Cond_0aa0:
 jumpz           @Cond_0ad2, ($b003 == 2)
-dialogtxt       "He's serious…!"
+dialogtxt       "This guy's serious!"
 dialogtxt       "[NAME 2]!"
 goto            @Cond_0ad2
 
 @Cond_0ad2:
 jumpz           @Cond_0b0e, ($b003 == 3)
-dialogtxt       "I-is he serious…!?"
+dialogtxt       "I-is he serious!?"
 dialogtxt       "[NAME 2]!"
 goto            @Cond_0b0e
 
@@ -404,7 +404,7 @@ code0479        0, 5, 17
 code047d        0, 0
 call            @Func_399e
 call            @Func_38e4
-dialogtxt       "Wha…!"
+dialogtxt       "Wha— !"
 code047b        
 code0309        
 call            @Func_3a20
@@ -604,7 +604,7 @@ goto            @Cond_18ac
 @Cond_18ac:
 jumpz           @Cond_190c, ($b003 == 1)
 dialogtxt       "What strong presence…"
-dialogtxt       "So he is Bostaph…"
+dialogtxt       "So he's Bostaph…"
 dialogtxt       "To think he's also after Murno…"
 goto            @Cond_190c
 
@@ -617,8 +617,8 @@ goto            @Cond_196c
 
 @Cond_196c:
 jumpz           @Cond_19d0, ($b003 == 3)
-dialogtxt       "Th-that person"
-dialogtxt       "is Bostaph…?"
+dialogtxt       "Th-that person…"
+dialogtxt       "is Bostaph?"
 dialogtxt       "And he's after Murno?"
 goto            @Cond_19d0
 
@@ -656,8 +656,8 @@ code0479        0, 0, 16
 code047d        0, 134
 call            @Func_399e
 call            @Func_38e4
-dialogtxt       "A Craftknight…"
-dialogtxt       "You know each other…?"
+dialogtxt       "A Craftknight!"
+dialogtxt       "You… know each other?"
 code047b        
 code0309        
 call            @Func_391a
@@ -714,7 +714,7 @@ call            @Func_3986
 code0479        0, 0, 12
 call            @Func_399e
 call            @Func_38e4
-dialogtxt       "Ahh, there were 5 or 6 of em,"
+dialogtxt       "Ahh, there were 5 or 6 of 'em,"
 dialogtxt       "but I took care of them all."
 dialogtxt       "They were unsatisfying opponents."
 code047b        

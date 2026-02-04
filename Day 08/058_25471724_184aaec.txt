@@ -32,7 +32,7 @@ code043c        0, 3
 code033e        172
 code047e        0, 0
 code0301        8, 3
-dialogtxt       "Kikikikikiki…!"
+dialogtxt       "Kikikikikiki!"
 code0309        
 code0302        3
 code048d        3, 3
@@ -328,13 +328,13 @@ code0479        0, 2, 16
 jumpz           @Cond_0f08, ($b002 == 0)
 dialogtxt       "I can't do it…"
 dialogtxt       "Running at a time like this…"
-dialogtxt       "Like I could be so pathetic…!"
+dialogtxt       "Like I could be so pathetic!"
 goto            @Label_0f56
 
 @Cond_0f08:
 dialogtxt       "I can't do it…"
 dialogtxt       "Running at a time like this…"
-dialogtxt       "Like I could be so pathetic…!"
+dialogtxt       "Like I could be so pathetic!"
 goto            @Label_0f56
 
 @Label_0f56:

@@ -264,7 +264,7 @@ code0309
 call            @Func_2106
 code0479        1, 5, 17
 call            @Func_213c
-dialogtxt       "How do you know…!?"
+dialogtxt       "How do you know!?"
 code0309        
 call            @Func_2172
 code0479        0, 0, 13
@@ -431,9 +431,9 @@ code0309
 call            @Func_2106
 code0479        1, 11, 14
 call            @Func_213c
-dialogtxt       "…!?"
+dialogtxt       "… !?"
 dialogtxt       "As if!"
-dialogtxt       "You fool…!"
+dialogtxt       "You fool!"
 code0309        
 call            @Func_2172
 code0479        0, 1, 12

@@ -400,7 +400,7 @@ goto            @Label_11d2
 
 @Label_11d2:
 call            @Func_277e
-dialogtxt       "[NAME 2]!"
+dialogtxt       "…!"
 code0309        
 call            @Func_28ba
 call            @Func_279c
@@ -544,11 +544,11 @@ code0479        0, 1, 15
 call            @Func_2838
 call            @Func_2760
 jumpz           @Cond_187c, ($b002 == 0)
-dialogbig       36, 116, 1, 0, 0, "Aaargh!"
+dialogbig       36, 116, 1, 0, 0, "That hurts!"
 goto            @Label_18b0
 
 @Cond_187c:
-dialogbig       36, 116, 1, 0, 0, "Kyaaa!"
+dialogbig       36, 116, 1, 0, 0, "That huuurts!"
 goto            @Label_18b0
 
 @Label_18b0:

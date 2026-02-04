@@ -188,12 +188,12 @@ code0334
 code046e        37, 256, 1
 code0479        0, 2, 15
 jumpz           @Cond_0712, ($b002 == 0)
-dialogbig       36, 116, 1, 0, 0, "What?!"
+dialogbig       36, 116, 1, 0, 0, "What do you mean, execute!?"
 code030c        
 goto            @Label_0748
 
 @Cond_0712:
-dialogbig       36, 116, 1, 0, 0, "What?!"
+dialogbig       36, 116, 1, 0, 0, "What do you mean, execute!?"
 code030c        
 goto            @Label_0748
 
@@ -237,15 +237,15 @@ code0479        0, 2, 16
 call            @Func_14a8
 call            @Func_13ee
 jumpz           @Cond_08e2, ($b002 == 0)
-dialogtxt       "What…!?"
+dialogtxt       "What!?"
 goto            @Label_08f6
 
 @Cond_08e2:
-dialogtxt       "What…!?"
+dialogtxt       "What!?"
 goto            @Label_08f6
 
 @Label_08f6:
-dialogtxt       "Why are you…!?"
+dialogtxt       "Why are you!?"
 code047b        
 code0309        
 call            @Func_14fe
@@ -265,8 +265,8 @@ code0302        7
 code0479        0, 2, 14
 call            @Func_14a8
 call            @Func_13ee
-dialogtxt       "Master…!?"
-dialogtxt       "Feed…!?"
+dialogtxt       "Master!?"
+dialogtxt       "Feed!?"
 code047b        
 code0309        
 call            @Func_14fe
@@ -317,8 +317,7 @@ code0302        7
 code0479        0, 0, 13
 call            @Func_14a8
 call            @Func_13ee
-dialogtxt       "Th…!"
-dialogtxt       "Thanks!"
+dialogtxt       "Th—Thanks!"
 code047b        
 code0309        
 call            @Func_14fe

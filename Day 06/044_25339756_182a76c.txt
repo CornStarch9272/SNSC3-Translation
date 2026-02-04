@@ -55,19 +55,19 @@ call            @Func_2984
 call            @Func_28ec
 dialogtxt       "You surpassed the illusions…"
 dialogtxt       "I knew it, you're no"
-dialogtxt       "no ordinary person."
+dialogtxt       "ordinary person."
 code047b        
 code0309        
 call            @Func_2940
 code0479        0, 2, 15
 call            @Func_289e
 jumpz           @Cond_02ca, ($b002 == 0)
-dialogtxt       "You…!"
+dialogtxt       "You!"
 dialogtxt       "Give Murno back!"
 goto            @Label_02f2
 
 @Cond_02ca:
-dialogtxt       "You…!"
+dialogtxt       "You!"
 dialogtxt       "Give Murno back!"
 goto            @Label_02f2
 
@@ -99,7 +99,7 @@ code0309
 call            @Func_28d4
 code0479        1, 2, 14
 call            @Func_290a
-dialogtxt       "Feed her to master…!"
+dialogtxt       "Feed her to master!"
 dialogtxt       "Why would we…?"
 code0309        
 call            @Func_29c4
@@ -140,12 +140,12 @@ code0479        0, 2, 16
 call            @Func_289e
 jumpz           @Cond_05e8, ($b002 == 0)
 dialogtxt       "… What are you talking about!?"
-dialogtxt       "Where's Murno…!?"
+dialogtxt       "Where's Murno!?"
 goto            @Label_061c
 
 @Cond_05e8:
 dialogtxt       "… What are you talking about!?"
-dialogtxt       "Where's Murno…!?"
+dialogtxt       "Where's Murno!?"
 goto            @Label_061c
 
 @Label_061c:
@@ -460,7 +460,7 @@ code040d        15
 code0479        0, 5, 17
 call            @Func_2958
 call            @Func_2880
-dialogtxt       "The bridge…!"
+dialogtxt       "The bridge!"
 code0309        
 call            @Func_28bc
 call            @Func_29ae
@@ -584,11 +584,11 @@ code047d        0, 0
 call            @Func_2958
 call            @Func_2880
 jumpz           @Cond_19c4, ($b002 == 0)
-dialogtxt       "It's huge…!"
+dialogtxt       "It's huge!"
 goto            @Label_19d8
 
 @Cond_19c4:
-dialogtxt       "It's huge…!"
+dialogtxt       "It's huge!"
 goto            @Label_19d8
 
 @Label_19d8:

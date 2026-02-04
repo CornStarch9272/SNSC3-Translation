@@ -9,12 +9,12 @@ call            @Func_21fa
 call            @Func_20f6
 jumpz           @Cond_00a0, ($b002 == 0)
 dialogtxt       "Now,"
-dialogtxt       "still still!"
+dialogtxt       "hold still!"
 goto            @Label_00c4
 
 @Cond_00a0:
 dialogtxt       "Now,"
-dialogtxt       "still still!"
+dialogtxt       "hold still!"
 goto            @Label_00c4
 
 @Label_00c4:
@@ -70,7 +70,7 @@ code0479        0, 0, 12
 code047d        0, 110
 call            @Func_21ce
 call            @Func_2114
-dialogtxt       "And it we've caught"
+dialogtxt       "And we've caught"
 dialogtxt       "your comrades already."
 dialogtxt       "Isn't that right?"
 code047b        
@@ -111,7 +111,7 @@ code0309
 call            @Func_21b6
 code0479        0, 3, 14
 call            @Func_2114
-dialogtxt       "Ku…!"
+dialogtxt       "Ku… !"
 code0309        
 call            @Func_2250
 call            @Func_2132
@@ -331,7 +331,7 @@ code0479        0, 5, 17
 code047d        0, 109
 call            @Func_21ce
 call            @Func_20f6
-dialogtxt       "Hyaa…!"
+dialogtxt       "Hyaa!"
 dialogtxt       "It's still…"
 code047b        
 code0309        
@@ -429,7 +429,7 @@ call            @Func_21ce
 call            @Func_2114
 dialogtxt       "I-I'm okay…"
 dialogtxt       "But this is a bit…"
-dialogtxt       "Hurry…!"
+dialogtxt       "Hurry!"
 code047b        
 code0309        
 call            @Func_2250

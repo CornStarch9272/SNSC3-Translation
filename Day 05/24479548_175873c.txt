@@ -964,7 +964,7 @@ call            @Func_4abc
 jumpz           @Cond_269c, ($b003 == 0)
 call            @Func_49b8
 dialogtxt       "Murno might have gone"
-dialogtxt       "after the Strays…!"
+dialogtxt       "after the Strays!"
 code047b        
 code0309        
 call            @Func_4a0c
@@ -988,7 +988,7 @@ goto            @Cond_269c
 jumpz           @Cond_2786, ($b003 == 1)
 call            @Func_49b8
 dialogtxt       "Murno might have gone"
-dialogtxt       "after the Strays…!"
+dialogtxt       "after the Strays!"
 code047b        
 code0309        
 call            @Func_4a0c
@@ -1012,7 +1012,7 @@ goto            @Cond_2786
 jumpz           @Cond_2870, ($b003 == 2)
 call            @Func_49b8
 dialogtxt       "Murno might have gone"
-dialogtxt       "after the Strays…!"
+dialogtxt       "after the Strays!"
 code047b        
 code0309        
 call            @Func_4a0c
@@ -1036,7 +1036,7 @@ goto            @Cond_2870
 jumpz           @Cond_2964, ($b003 == 3)
 call            @Func_49b8
 dialogtxt       "Murno might have gone"
-dialogtxt       "after the Strays…!"
+dialogtxt       "after the Strays!"
 code047b        
 code0309        
 call            @Func_4a0c
@@ -1123,7 +1123,7 @@ code0479        1, 2, 16
 call            @Func_4a42
 dialogtxt       "She may be trying"
 dialogtxt       "to get into Murno's"
-dialogtxt       "purse again…!"
+dialogtxt       "purse again!"
 code0309        
 call            @Func_4a78
 code0479        0, 2, 14
@@ -1179,7 +1179,7 @@ code0479        1, 2, 16
 call            @Func_4a42
 dialogtxt       "She may be using Murno"
 dialogtxt       "for another of her money"
-dialogtxt       "making schemes…!"
+dialogtxt       "making schemes!"
 code0309        
 code0479        1, 4, 16
 dialogtxt       "Uu…"
@@ -1561,8 +1561,8 @@ code0309
 call            @Func_4a0c
 code0479        1, 2, 16
 call            @Func_4a42
-dialogtxt       "Lady Murno…!"
-dialogtxt       "Please be unharmed…!"
+dialogtxt       "Lady Murno!"
+dialogtxt       "Please… be unharmed!"
 code0309        
 call            @Func_4b12
 call            @Func_4a60
@@ -1604,13 +1604,13 @@ call            @Func_49b8
 jumpz           @Cond_4104, ($b002 == 0)
 dialogtxt       "So the trio doesn't care what"
 dialogtxt       "happens to Murno as long as"
-dialogtxt       "they can get the Demon Stone…!"
+dialogtxt       "they can get the Demon Stone!"
 goto            @Label_4160
 
 @Cond_4104:
 dialogtxt       "So the trio doesn't care what"
 dialogtxt       "happens to Murno as long as"
-dialogtxt       "they can get the Demon Stone…!"
+dialogtxt       "they can get the Demon Stone!"
 goto            @Label_4160
 
 @Label_4160:
@@ -1654,13 +1654,13 @@ call            @Func_49b8
 jumpz           @Cond_4324, ($b002 == 0)
 dialogtxt       "So the trio doesn't care what"
 dialogtxt       "happens to Murno as long as"
-dialogtxt       "they can get the Demon Stone…!"
+dialogtxt       "they can get the Demon Stone!"
 goto            @Label_4380
 
 @Cond_4324:
 dialogtxt       "So the trio doesn't care what"
 dialogtxt       "happens to Murno as long as"
-dialogtxt       "they can get the Demon Stone…!"
+dialogtxt       "they can get the Demon Stone!"
 goto            @Label_4380
 
 @Label_4380:
@@ -1704,13 +1704,13 @@ call            @Func_49b8
 jumpz           @Cond_453a, ($b002 == 0)
 dialogtxt       "So the trio doesn't care what"
 dialogtxt       "happens to Murno as long as"
-dialogtxt       "they can get the Demon Stone…!"
+dialogtxt       "they can get the Demon Stone!"
 goto            @Label_4596
 
 @Cond_453a:
 dialogtxt       "So the trio doesn't care what"
 dialogtxt       "happens to Murno as long as"
-dialogtxt       "they can get the Demon Stone…!"
+dialogtxt       "they can get the Demon Stone!"
 goto            @Label_4596
 
 @Label_4596:
@@ -1754,13 +1754,13 @@ call            @Func_49b8
 jumpz           @Cond_4754, ($b002 == 0)
 dialogtxt       "So the trio doesn't care what"
 dialogtxt       "happens to Murno as long as"
-dialogtxt       "they can get the Demon Stone…!"
+dialogtxt       "they can get the Demon Stone!"
 goto            @Label_47b0
 
 @Cond_4754:
 dialogtxt       "So the trio doesn't care what"
 dialogtxt       "happens to Murno as long as"
-dialogtxt       "they can get the Demon Stone…!"
+dialogtxt       "they can get the Demon Stone!"
 goto            @Label_47b0
 
 @Label_47b0:

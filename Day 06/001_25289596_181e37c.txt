@@ -94,7 +94,7 @@ call            @Func_0a5e
 call            @Func_09a4
 jumpz           @Cond_037e, ($b002 == 0)
 dialogtxt       "Wai-…"
-dialogtxt       "Dammit… fine…"
+dialogtxt       "Crap… fine…"
 goto            @Label_03a0
 
 @Cond_037e:

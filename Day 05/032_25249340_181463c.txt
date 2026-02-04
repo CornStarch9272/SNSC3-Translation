@@ -48,7 +48,7 @@ code0479        1, 2, 14
 code047d        1, 0
 call            @Func_1bbe
 call            @Func_1b3c
-dialogtxt       "Ah, that's…!"
+dialogtxt       "Ah, that's…"
 code047b        
 code0309        
 call            @Func_1c14
@@ -69,7 +69,7 @@ code0479        0, 2, 14
 code047d        0, 0
 call            @Func_1ba8
 call            @Func_1ad0
-dialogtxt       "Ah, that's…!"
+dialogtxt       "Ah, that's…"
 code047b        
 code0309        
 call            @Func_1bfe
@@ -99,7 +99,7 @@ code0479        1, 0, 12
 code047d        1, 112
 call            @Func_1ba8
 call            @Func_1ad0
-dialogtxt       "Um! Excuse me…!"
+dialogtxt       "Um! Excuse me!"
 code047b        
 code0309        
 call            @Func_1b24
@@ -224,7 +224,7 @@ call            @Func_1b90
 code0333        2, 30
 code0479        0, 2, 14
 call            @Func_1aee
-dialogtxt       "Responsibility…!?"
+dialogtxt       "Responsibility!?"
 code0309        
 call            @Func_1bfe
 call            @Func_1b24
@@ -392,7 +392,7 @@ call            @Func_1b24
 code0479        1, 5, 15
 call            @Func_1b5a
 dialogtxt       "W-well, as I said,"
-dialogtxt       "it's just a possibility…!"
+dialogtxt       "it's just a possibility!"
 code0309        
 call            @Func_1c14
 call            @Func_1b90
@@ -458,7 +458,7 @@ goto            @Cond_1470
 
 @Cond_1470:
 jumpz           @Cond_1490, ($b003 == 2)
-dialogtxt       "Tch…!"
+dialogtxt       "… Tsk!"
 goto            @Cond_1490
 
 @Cond_1490:

@@ -543,7 +543,7 @@ code0479        1, 0, 16
 call            @Func_432c
 dialogtxt       "I am not the legitimate successor."
 dialogtxt       "It was my wife,"
-dialogtxt       "the girls mother…"
+dialogtxt       "the girl's mother…"
 code0309        
 call            @Func_43d0
 call            @Func_4362
@@ -943,22 +943,22 @@ code047d        0, 2
 call            @Func_437a
 call            @Func_42a2
 jumpz           @Cond_2d5a, ($b003 == 0)
-dialogtxt       "…!"
+dialogtxt       "… !"
 goto            @Cond_2d5a
 
 @Cond_2d5a:
 jumpz           @Cond_2d78, ($b003 == 1)
-dialogtxt       "…!"
+dialogtxt       "… !"
 goto            @Cond_2d78
 
 @Cond_2d78:
 jumpz           @Cond_2d96, ($b003 == 2)
-dialogtxt       "…!"
+dialogtxt       "… !"
 goto            @Cond_2d96
 
 @Cond_2d96:
 jumpz           @Cond_2db4, ($b003 == 3)
-dialogtxt       "…!"
+dialogtxt       "… !"
 goto            @Cond_2db4
 
 @Cond_2db4:

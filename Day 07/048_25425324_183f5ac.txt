@@ -212,12 +212,12 @@ code0479        0, 1, 16
 call            @Func_110a
 jumpz           @Cond_0b1a, ($b002 == 0)
 dialogtxt       "Ugh…"
-dialogtxt       "That's just make it worse…"
+dialogtxt       "That just makes it worse…"
 goto            @Label_0b4c
 
 @Cond_0b1a:
 dialogtxt       "Ugh…"
-dialogtxt       "That's just make it worse…"
+dialogtxt       "That just makes it worse…"
 goto            @Label_0b4c
 
 @Label_0b4c:

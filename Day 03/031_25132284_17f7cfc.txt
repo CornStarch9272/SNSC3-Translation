@@ -156,7 +156,7 @@ code0309
 call            @Func_1baa
 code0479        0, 1, 17
 call            @Func_1b08
-dialogtxt       "Ah, oww…!"
+dialogtxt       "Ah, oww!"
 code0309        
 call            @Func_1c44
 call            @Func_1b26
@@ -508,7 +508,7 @@ code043c        2, 3
 code0479        0, 1, 12
 call            @Func_1b08
 dialogtxt       "Eh?"
-dialogtxt       "Y-Yeah…!"
+dialogtxt       "Y-Yeah…"
 dialogtxt       "C'mon, let's go already!"
 code0309        
 call            @Func_1c44

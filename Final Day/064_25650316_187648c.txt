@@ -48,7 +48,7 @@ code047d        1, 2
 call            @Func_15d0
 call            @Func_14f8
 jumpz           @Cond_0258, ($b002 == 0)
-dialogtxt       "Is… isthis it?"
+dialogtxt       "Is… Is this it?"
 dialogtxt       "It doesn't seem any"
 dialogtxt       "different from before…"
 goto            @Label_029e

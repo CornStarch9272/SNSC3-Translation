@@ -42,7 +42,7 @@ call            @Func_1eb4
 call            @Func_1e50
 dialogtxt       "And something like this"
 dialogtxt       "was hidden in Mishus Village,"
-dialogtxt       "of all places…!"
+dialogtxt       "of all places!"
 code047b        
 code0309        
 call            @Func_1e86
@@ -51,7 +51,7 @@ code0479        0, 0, 12
 code047d        0, 132
 call            @Func_1e9e
 call            @Func_1de4
-dialogtxt       "Was the Gold Council aware"
+dialogtxt       "Was the Gold Faction aware"
 dialogtxt       "of the village's existance?"
 code047b        
 code0309        
@@ -156,7 +156,7 @@ code0479        0, 2, 16
 code047d        0, 108
 call            @Func_1eca
 call            @Func_1dc6
-dialogtxt       "Wait, you…!?"
+dialogtxt       "Wait, you!?"
 code047b        
 code0309        
 call            @Func_1e1a
@@ -293,7 +293,7 @@ goto            @Label_0d06
 
 @Label_0d06:
 call            @Func_1de4
-dialogtxt       "…!"
+dialogtxt       "…！"
 code0309        
 call            @Func_1f20
 call            @Func_1e02
@@ -318,7 +318,7 @@ code0479        0, 2, 16
 code047d        0, 0
 call            @Func_1e9e
 call            @Func_1de4
-dialogtxt       "But…!"
+dialogtxt       "But!"
 code047b        
 code0309        
 call            @Func_1e1a
@@ -362,7 +362,7 @@ code0479        1, 2, 16
 code047d        1, 108
 call            @Func_1eb4
 call            @Func_1e32
-dialogtxt       "Hold it…!"
+dialogtxt       "Hold it!"
 code047b        
 code0309        
 call            @Func_1e86
@@ -400,7 +400,7 @@ code047d        1, 130
 call            @Func_1eb4
 call            @Func_1e50
 dialogtxt       "Do not forget your duties as a"
-dialogtxt       "memeber of the Vigilante Corp."
+dialogtxt       "member of the Vigilante Corp."
 dialogtxt       "Injuries from Strays are up."
 code047b        
 code0309        

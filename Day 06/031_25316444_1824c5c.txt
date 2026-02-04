@@ -25,7 +25,7 @@ call            @Func_1622
 code0479        1, 4, 12
 call            @Func_16bc
 call            @Func_1658
-dialogtxt       "[NAME 2]!"
+dialogtxt       "[NAME 2]！"
 code047b        
 code0309        
 call            @Func_1728
@@ -135,7 +135,7 @@ goto            @Label_0516
 code0479        1, 4, 16
 call            @Func_1658
 dialogtxt       "Help me…"
-dialogtxt       "I can't stand this place anymore…!"
+dialogtxt       "I can't stand this place anymore!"
 code047b        
 code0309        
 call            @Func_168e
@@ -241,7 +241,7 @@ code0479        1, 4, 14
 code047d        1, 109
 call            @Func_16bc
 call            @Func_1658
-dialogtxt       "No…!"
+dialogtxt       "No!"
 dialogtxt       "I don't wanna stay here…"
 dialogtxt       "Please, let's go back!"
 code047b        

@@ -453,7 +453,7 @@ code040b
 
 @Event_1210:
 code0301        8, 7
-dialogtxt       "Care to try our Lucky Draw?"
+dialogtxt       "Care to try our \"Lucky Draw\"?"
 dialogtxt       "It's available all day, everyday!"
 dialogtxt       "Guaranteed no losing tickets!"
 code0309        

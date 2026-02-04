@@ -41,7 +41,7 @@ goto            @Label_01a2
 code047d        1, 2
 call            @Func_0b02
 call            @Func_09fe
-dialogtxt       "That's…!"
+dialogtxt       "That's…"
 code047b        
 code0309        
 call            @Func_0a52

@@ -214,7 +214,7 @@ call            @Func_2ab0
 code0479        0, 2, 15
 call            @Func_2a0e
 dialogtxt       "We won't know until we"
-dialogtxt       "今はtry it, for sure!"
+dialogtxt       "try it, for sure!"
 jumpz           @Cond_08cc, ($b002 == 0)
 dialogtxt       "We have to!"
 goto            @Label_08e8
@@ -257,7 +257,7 @@ call            @Func_2ab0
 code0479        0, 2, 15
 call            @Func_2a0e
 dialogtxt       "We won't know until we"
-dialogtxt       "今はtry it, for sure!"
+dialogtxt       "try it, for sure!"
 jumpz           @Cond_0a84, ($b002 == 0)
 dialogtxt       "We have to!"
 goto            @Label_0aa0
@@ -820,7 +820,7 @@ goto            @Cond_1f40
 jumpz           @Cond_1fa2, ($b003 == 3)
 dialogtxt       "P-perhaps it is our Master!"
 dialogtxt       "She's going to be so mad when"
-dialogtxt       "she finds us…!"
+dialogtxt       "she finds us!"
 goto            @Cond_1fa2
 
 @Cond_1fa2:
@@ -925,7 +925,7 @@ goto            @Cond_23ae
 jumpz           @Cond_2414, ($b003 == 3)
 dialogtxt       "Don't let your guard down!"
 dialogtxt       "Master Benson is waiting for us"
-dialogtxt       "at the workshop…!"
+dialogtxt       "at the workshop!"
 goto            @Cond_2414
 
 @Cond_2414:

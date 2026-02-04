@@ -354,7 +354,7 @@ dialogtxt       "Hey, hey, let's play pretend!"
 dialogtxt       "I'll be the Craftknight hero…"
 dialogtxt       "And you'll be my Master!"
 code0309        
-dialogtxt       "\"There is nothing I can teach you!\""
+dialogtxt       "\"There is nothing I can teach you!\"!"
 dialogtxt       "…Well!? How did I do!?"
 code0309        
 code047e        0, 0
@@ -401,7 +401,7 @@ code040b
 code0301        8, 7
 dialogtxt       "　"
 dialogtxt       "　"
-dialogtxt       "　● ← Peep hole"
+dialogtxt       "　●←Peep hole"
 code0309        
 dialogtxt       "…Sorry, can't you let"
 dialogtxt       "this slide just one time?"

@@ -84,19 +84,19 @@ goto            @Cond_035e
 @Cond_035e:
 jumpz           @Cond_0392, ($b003 == 1)
 dialogtxt       "That's…"
-dialogtxt       "Lord Wellman…!"
+dialogtxt       "Lord Wellman!"
 goto            @Cond_0392
 
 @Cond_0392:
 jumpz           @Cond_03c4, ($b003 == 2)
 dialogtxt       "That's…"
-dialogtxt       "Wellman…!"
+dialogtxt       "Wellman!"
 goto            @Cond_03c4
 
 @Cond_03c4:
 jumpz           @Cond_03f8, ($b003 == 3)
 dialogtxt       "That's…"
-dialogtxt       "Master Wellman…!"
+dialogtxt       "Master Wellman!"
 goto            @Cond_03f8
 
 @Cond_03f8:
@@ -249,7 +249,7 @@ code0479        0, 2, 14
 code047d        0, 0
 call            @Func_2490
 call            @Func_23b8
-dialogtxt       "…!"
+dialogtxt       "… !"
 code047b        
 code0309        
 call            @Func_24e6
@@ -478,17 +478,17 @@ goto            @Cond_13c6
 
 @Cond_13c6:
 jumpz           @Cond_13e4, ($b003 == 1)
-dialogtxt       "[NAME 2]…!"
+dialogtxt       "[NAME 2]!"
 goto            @Cond_13e4
 
 @Cond_13e4:
 jumpz           @Cond_1402, ($b003 == 2)
-dialogtxt       "[NAME 2]…!"
+dialogtxt       "[NAME 2]!"
 goto            @Cond_1402
 
 @Cond_1402:
 jumpz           @Cond_1424, ($b003 == 3)
-dialogtxt       "[NAME 2]…!"
+dialogtxt       "[NAME 2]!"
 goto            @Cond_1424
 
 @Cond_1424:
@@ -548,7 +548,7 @@ code0479        0, 5, 14
 code047d        0, 129
 call            @Func_2490
 call            @Func_23b8
-dialogtxt       "…!"
+dialogtxt       "… !"
 code047b        
 code0309        
 call            @Func_240c
@@ -567,8 +567,8 @@ code0479        0, 3, 14
 code047d        0, 132
 call            @Func_2490
 call            @Func_23b8
-dialogtxt       "…!"
-dialogtxt       "Shit…!"
+dialogtxt       "!"
+dialogtxt       "Shit!"
 code047b        
 code0309        
 call            @Func_240c
@@ -591,11 +591,11 @@ code047d        0, 0
 call            @Func_2490
 call            @Func_23d6
 jumpz           @Cond_1870, ($b002 == 0)
-dialogtxt       "Y… You…!"
+dialogtxt       "Y—You!"
 goto            @Label_188a
 
 @Cond_1870:
-dialogtxt       "Y… You…!"
+dialogtxt       "Y—You!"
 goto            @Label_188a
 
 @Label_188a:
@@ -604,7 +604,7 @@ code0309
 call            @Func_240c
 code0479        1, 1, 13
 call            @Func_2442
-dialogtxt       "Ahahahaha…!"
+dialogtxt       "Ahahahaha!"
 dialogtxt       "Is that all you can say!?"
 dialogtxt       "How idiotic!"
 code0309        
@@ -652,7 +652,7 @@ dialogtxt       "…Damn it!"
 goto            @Label_1b68
 
 @Cond_1b5a:
-dialogtxt       "…!"
+dialogtxt       "… !"
 goto            @Label_1b68
 
 @Label_1b68:

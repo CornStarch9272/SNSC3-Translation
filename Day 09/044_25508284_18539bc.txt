@@ -86,7 +86,7 @@ goto            @Cond_036a
 
 @Cond_036a:
 jumpz           @Cond_03bc, ($b003 == 1)
-dialogtxt       "Being so reckless…!"
+dialogtxt       "Being so reckless!"
 dialogtxt       "Like a moth to the flame…"
 goto            @Cond_03bc
 
@@ -108,7 +108,7 @@ call            @Func_0b5e
 code0479        1, 2, 14
 call            @Func_0b94
 dialogtxt       "And they're heading to"
-dialogtxt       "Slenj Mine again."
+dialogtxt       "Surange Mine again."
 dialogtxt       "We need to move!"
 code0309        
 call            @Func_0c38

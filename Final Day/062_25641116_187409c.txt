@@ -448,7 +448,7 @@ call            @Func_4b32
 code0479        1, 2, 14
 call            @Func_4b68
 dialogtxt       "But I can no longer stop."
-dialogtxt       "This time, I will grasp it"
+dialogtxt       "This time, I will grasp it…"
 dialogtxt       "True power…!"
 code0309        
 code0479        1, 2, 17
@@ -974,7 +974,7 @@ code043d        7, $h128, ($h129 - 16)
 code047d        0, 108
 code0301        8, 1
 code047e        0, 1
-dialogtxt       "…!"
+dialogtxt       "… !"
 code0309        
 code047e        0, 0
 code0302        1

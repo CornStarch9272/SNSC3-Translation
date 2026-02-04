@@ -173,8 +173,8 @@ code040b
 code0301        8, 7
 code047d        0, 113
 code047e        0, 1
-dialogtxt       "Please don't let my"
-dialogtxt       "daughter get out of hand."
+dialogtxt       "Please don't let my daughter"
+dialogtxt       "get too out of hand."
 code0309        
 code047e        0, 0
 code0302        7

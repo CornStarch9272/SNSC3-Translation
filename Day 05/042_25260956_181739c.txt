@@ -119,7 +119,7 @@ call            @Func_2418
 call            @Func_23b4
 dialogtxt       "You know each other…?"
 dialogtxt       "Just my luck…"
-dialogtxt       "Everyone keeps getting in my way…!"
+dialogtxt       "Everyone keeps getting in my way!"
 code047b        
 code0309        
 call            @Func_246e
@@ -292,12 +292,12 @@ call            @Func_23b4
 dialogtxt       "Murno…"
 jumpz           @Cond_0b5a, ($b002 == 0)
 dialogtxt       "What misfortune?"
-dialogtxt       "I'm…!"
+dialogtxt       "I'm— !"
 goto            @Label_0b84
 
 @Cond_0b5a:
 dialogtxt       "What misfortune?"
-dialogtxt       "I'm…!"
+dialogtxt       "I'm— !"
 goto            @Label_0b84
 
 @Label_0b84:
@@ -312,7 +312,7 @@ code0309
 call            @Func_237e
 code0479        1, 5, 15
 call            @Func_23b4
-dialogtxt       "…!?"
+dialogtxt       "… !?"
 dialogtxt       "What…"
 dialogtxt       "do you mean…?"
 code0309        
@@ -637,9 +637,8 @@ code0309
 call            @Func_23ea
 code0479        0, 2, 12
 call            @Func_2348
-dialogtxt       "[NAME 1]…"
-jumpz           @Cond_1c30, ($b002 == 0)
 dialogtxt       "Damn, [NAME 1]!"
+jumpz           @Cond_1c30, ($b002 == 0)
 dialogtxt       "You're so cool!"
 goto            @Label_1c60
 

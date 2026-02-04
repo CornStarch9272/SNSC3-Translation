@@ -30,7 +30,7 @@ code0479        1, 0, 13
 code047d        1, 132
 call            @Func_27a8
 call            @Func_2744
-dialogtxt       "Oh, Elieze."
+dialogtxt       "Oh, Eliez."
 dialogtxt       "Running errands?"
 code047b        
 code0309        
@@ -45,7 +45,7 @@ call            @Func_270e
 code0479        1, 0, 16
 call            @Func_2744
 dialogtxt       "Ah…"
-dialogtxt       "You'll be at Lute Cave, then."
+dialogtxt       "You'll be at Lute Cave, then?"
 code0309        
 call            @Func_2814
 call            @Func_2762
@@ -134,7 +134,7 @@ call            @Func_277a
 jumpz           @Cond_061c, ($b003 == 0)
 code0479        0, 0, 12
 call            @Func_26d8
-dialogtxt       "Subtracting Elieze's Age From"
+dialogtxt       "Subtracting Eliez's Age From"
 dialogtxt       "Yours Is A Simple Operation."
 goto            @Cond_061c
 
@@ -220,7 +220,7 @@ code0479        1, 2, 14
 call            @Func_2744
 dialogtxt       "Not that, you idiot!"
 dialogtxt       "Our ages!"
-dialogtxt       "They're far too apart, right?"
+dialogtxt       "They're too far apart, right?"
 code0309        
 call            @Func_27e8
 call            @Func_277a
@@ -277,7 +277,7 @@ code0479        1, 0, 13
 code047d        1, 138
 call            @Func_27a8
 call            @Func_2726
-dialogtxt       "Nice to meet you, I'm Elieze."
+dialogtxt       "Nice to meet you, I'm Eliez."
 dialogtxt       "I help out"
 dialogtxt       "around the workshop."
 code047b        
@@ -364,7 +364,7 @@ call            @Func_270e
 code0479        1, 4, 16
 call            @Func_2744
 dialogtxt       "Aww…"
-dialogtxt       "But Elieze loves kitties…"
+dialogtxt       "But Eliez loves kitties…"
 dialogtxt       "Are you sure you're not…?"
 code0309        
 call            @Func_277a
@@ -391,7 +391,7 @@ code0309
 call            @Func_270e
 code0479        1, 0, 13
 call            @Func_2744
-dialogtxt       "Elieze likes you, [NAME 1]!"
+dialogtxt       "Eliez likes you, [NAME 1]!"
 code0309        
 call            @Func_277a
 code0479        0, 11, 14
@@ -411,7 +411,7 @@ code0309
 call            @Func_277a
 code0479        0, 5, 13
 call            @Func_26d8
-dialogtxt       "My tail is…!"
+dialogtxt       "My tail is… !"
 dialogtxt       "That's the first time anyone's"
 dialogtxt       "said that! Thank you very much!"
 code0309        
@@ -434,14 +434,14 @@ code0446        1
 code0479        1, 0, 15
 call            @Func_27be
 call            @Func_2726
-dialogtxt       "Elieze wants a tail too!"
+dialogtxt       "Eliez wants a tail too!"
 code047b        
 code0309        
 call            @Func_277a
 code043c        1, 1
 code0479        0, 1, 14
 call            @Func_26d8
-dialogtxt       "Ah, ow…!"
+dialogtxt       "Ah, ow!"
 dialogtxt       "Please don't pull on it…"
 goto            @Cond_1396
 
@@ -636,7 +636,7 @@ call            @Func_27a8
 call            @Func_2744
 jumpz           @Cond_1b14, ($b003 == 0)
 dialogtxt       "Are You Trying"
-dialogtxt       "To Hurt Elieze?"
+dialogtxt       "To Hurt Eliez?"
 goto            @Cond_1b14
 
 @Cond_1b14:
@@ -662,13 +662,13 @@ call            @Func_277a
 code0479        0, 1, 17
 call            @Func_26d8
 jumpz           @Cond_1c1c, ($b002 == 0)
-dialogtxt       "Ugh…!"
+dialogtxt       "Ugh… !"
 dialogtxt       "Alright, okay!"
 dialogtxt       "I'll come with you!"
 goto            @Label_1c5a
 
 @Cond_1c1c:
-dialogtxt       "Ugh…!"
+dialogtxt       "Ugh… !"
 dialogtxt       "Alright, okay!"
 dialogtxt       "I'll come with you!"
 goto            @Label_1c5a
@@ -686,13 +686,13 @@ code043c        1, 3
 @Label_1ca8:
 code0479        1, 1, 13
 call            @Func_2744
-dialogtxt       "Awesome!"
+dialogtxt       "Yay!"
 jumpz           @Cond_1cfe, ($b002 == 0)
-dialogtxt       "Thanks, mister!"
+dialogtxt       "Thanks, Mr. [NAME 2]!"
 goto            @Label_1d1e
 
 @Cond_1cfe:
-dialogtxt       "Thanks, miss!"
+dialogtxt       "Thanks, Ms. [NAME 2]!"
 goto            @Label_1d1e
 
 @Label_1d1e:

@@ -389,7 +389,7 @@ code0479        0, 2, 12
 call            @Func_29a6
 dialogtxt       "Don't be silly!"
 dialogtxt       "I believe the militia is"
-dialogtxt       "funded by the Gold Council…"
+dialogtxt       "funded by the Gold Faction…"
 code0309        
 code0479        0, 2, 16
 dialogtxt       "Sometimes we do get paid,"
@@ -404,7 +404,7 @@ code0479        1, 2, 16
 code047d        1, 107
 call            @Func_2a76
 call            @Func_29f4
-dialogtxt       "Gold Council…"
+dialogtxt       "Gold Faction…"
 dialogtxt       "They're a branch of Summoners…"
 code047b        
 code0309        
@@ -442,7 +442,7 @@ dialogtxt       "About that…"
 dialogtxt       "That's not for me to decide."
 code0309        
 code0479        0, 0, 16
-dialogtxt       "And you know the Gold Council"
+dialogtxt       "And you know the Gold Faction"
 dialogtxt       "is very stingy, right?"
 dialogtxt       "It's unlikely you'll get anything."
 code0309        
@@ -470,7 +470,7 @@ code0479        1, 5, 16
 code047d        1, 107
 call            @Func_2a76
 call            @Func_2a12
-dialogtxt       "…!"
+dialogtxt       "… !"
 code047b        
 code0309        
 call            @Func_2acc
@@ -496,7 +496,7 @@ code0479        1, 2, 17
 code047d        1, 107
 call            @Func_2a76
 call            @Func_2a12
-dialogtxt       "Could this Velwvren be of"
+dialogtxt       "Could this Velvoren be of"
 dialogtxt       "the Ringvald House?"
 dialogtxt       "He's in this town!?"
 code047b        
@@ -533,7 +533,7 @@ code047d        1, 109
 call            @Func_2a8c
 call            @Func_2a12
 dialogtxt       "That's perfect then!"
-dialogtxt       "To the Gold Council we go!"
+dialogtxt       "To the Gold Faction we go!"
 dialogtxt       "It's negotiation time!"
 code047b        
 code0309        

@@ -11,7 +11,7 @@ call            @Func_11c2
 call            @Func_10be
 dialogtxt       "Good work today!"
 dialogtxt       "You probably won't be involved"
-dialogtxt       "with the Gold Council anymore."
+dialogtxt       "with the Gold Faction anymore."
 code047b        
 code0309        
 call            @Func_1112
@@ -161,7 +161,7 @@ call            @Func_117e
 code0479        0, 8, 12
 call            @Func_10dc
 dialogtxt       "That's right,"
-dialogtxt       "I'm no longer your \"Bro…\""
+dialogtxt       "I'm no longer your \"Bro\"…"
 dialogtxt       "From now on…"
 code0309        
 call            @Func_1112

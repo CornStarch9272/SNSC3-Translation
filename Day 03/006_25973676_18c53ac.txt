@@ -125,7 +125,7 @@ setvar          $bv018, ($bv018 | 0x0001)
 code0301        8, 7
 code047e        0, 1
 dialogtxt       "Hey, could you find me"
-dialogtxt       "some Catin Ore?"
+dialogtxt       "some Cutting Ore?"
 code0309        
 dialogtxt       "I have a customer who wants it."
 dialogtxt       "I'll give you a good deal, okay?"
@@ -171,7 +171,7 @@ goto            @Label_0898
 jumpz           @Cond_0838, ($bv018 == 1)
 code0301        8, 7
 code047e        0, 1
-dialogtxt       "Hey, the Catin Ore…"
+dialogtxt       "Hey, the Cutting Ore…"
 code0309        
 dialogtxt       "Give it. Okay? Please?"
 code0309        

@@ -228,7 +228,7 @@ code040b
 
 @Event_0a0a:
 code0301        8, 7
-dialogtxt       "　＜A Request From Elieze＞"
+dialogtxt       "　＜A Request From Eliez＞"
 dialogtxt       "Please make sure to put the tools"
 dialogtxt       "back where you found them!"
 code0309        

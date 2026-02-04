@@ -14,7 +14,7 @@ code0479        1, 0, 16
 code047d        1, 132
 call            @Func_085a
 call            @Func_07d8
-dialogtxt       "The Gold Council is just past"
+dialogtxt       "The Gold Faction is just past"
 dialogtxt       "the bend in the street there."
 dialogtxt       "Follow me."
 code047b        

@@ -330,7 +330,7 @@ call            @Func_13ce
 code043c        3, 2
 code0479        1, 0, 16
 call            @Func_1404
-dialogtxt       "Sir Gallahan…"
+dialogtxt       "Ser Gallahan…"
 dialogtxt       "If I may, you must be"
 jumpz           @Cond_0d1e, ($b002 == 0)
 dialogtxt       "worried for the boy…"

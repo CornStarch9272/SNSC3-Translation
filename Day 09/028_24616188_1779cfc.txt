@@ -416,7 +416,7 @@ code040b
 code0301        8, 7
 dialogtxt       "　"
 dialogtxt       "　"
-dialogtxt       "　●← Peep hole"
+dialogtxt       "　●←Peep hole"
 code0309        
 dialogtxt       "I should've known you'd trick me…"
 code0309        

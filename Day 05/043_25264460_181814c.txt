@@ -110,12 +110,12 @@ code0479        0, 2, 15
 call            @Func_1d06
 jumpz           @Cond_0582, ($b002 == 0)
 dialogtxt       "They're after Murno!"
-dialogtxt       "If we don't hurry and save her…!"
+dialogtxt       "If we don't hurry and save her…"
 goto            @Label_05cc
 
 @Cond_0582:
 dialogtxt       "They're after Murno!"
-dialogtxt       "If we don't hurry and save her…!"
+dialogtxt       "If we don't hurry and save her…"
 goto            @Label_05cc
 
 @Label_05cc:
@@ -142,7 +142,7 @@ call            @Func_1d3c
 code0479        1, 5, 16
 call            @Func_1d72
 dialogtxt       "Murno is…?"
-dialogtxt       "Really…!?"
+dialogtxt       "Really!?"
 code047b        
 code0309        
 call            @Func_1da8
@@ -155,7 +155,7 @@ code0309
 call            @Func_1d3c
 code0479        1, 2, 14
 call            @Func_1d72
-dialogtxt       "Master…!"
+dialogtxt       "Master!"
 code0309        
 call            @Func_1e2c
 call            @Func_1da8
@@ -170,7 +170,7 @@ code0479        0, 2, 12
 call            @Func_1d06
 dialogtxt       "Anyway, we're working"
 dialogtxt       "for the sake of the town."
-dialogtxt       "Don't get in our way, ok?"
+dialogtxt       "Don't get in our way, okay?"
 code047b        
 code0309        
 code0334        

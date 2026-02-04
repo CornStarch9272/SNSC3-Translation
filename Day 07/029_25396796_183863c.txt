@@ -94,7 +94,7 @@ code0479        0, 5, 17
 call            @Func_13e0
 call            @Func_1308
 dialogtxt       "Eh!?"
-dialogtxt       "It disappeared…!?"
+dialogtxt       "It disappeared!?"
 code047b        
 code0309        
 call            @Func_135c
@@ -165,7 +165,7 @@ code0479        0, 2, 15
 call            @Func_13e0
 call            @Func_1308
 dialogtxt       "Ah! Anise is gone!?"
-dialogtxt       "When did she…!?"
+dialogtxt       "When did she!?"
 code047b        
 code0309        
 call            @Func_135c

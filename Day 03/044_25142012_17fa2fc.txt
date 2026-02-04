@@ -66,7 +66,7 @@ goto            @Cond_0258
 
 @Cond_0258:
 jumpz           @Cond_02a0, ($b003 == 2)
-dialogtxt       "They're…!"
+dialogtxt       "They're … !"
 dialogtxt       "Tsk…"
 dialogtxt       "To think they'd stoop that low…"
 goto            @Cond_02a0
@@ -270,7 +270,7 @@ code048c
 code0479        0, 2, 12
 call            @Func_1f58
 call            @Func_1e80
-dialogtxt       "No…!"
+dialogtxt       "No!"
 dialogtxt       "Come on!"
 dialogtxt       "Let's just go the inn and…"
 code047b        
@@ -288,7 +288,7 @@ code0309
 call            @Func_1f40
 code0479        0, 4, 12
 call            @Func_1e9e
-dialogtxt       "Don't say that…!"
+dialogtxt       "Don't say that!"
 code0309        
 call            @Func_1fda
 call            @Func_1ebc
@@ -356,7 +356,7 @@ goto            @Cond_0db0
 jumpz           @Cond_0e8a, ($b003 == 1)
 dialogtxt       "They're the enemy!"
 dialogtxt       "We can't let them get close"
-dialogtxt       "to Murno, or else…!"
+dialogtxt       "to Murno, or else … !"
 code047b        
 code0309        
 call            @Func_1f40
@@ -420,7 +420,7 @@ code0309
 call            @Func_1f40
 code0479        0, 2, 14
 call            @Func_1e9e
-dialogtxt       "Fight them…!?"
+dialogtxt       "Fight them!?"
 code0309        
 call            @Func_1fda
 call            @Func_1ebc
@@ -432,7 +432,7 @@ code0479        1, 0, 17
 code047d        1, 106
 call            @Func_1f6e
 call            @Func_1eec
-dialogtxt       "Ugh…!?"
+dialogtxt       "Ugh!?"
 dialogtxt       "Knock it off already!"
 code047b        
 code0309        
@@ -593,7 +593,7 @@ dialogtxt       "But…"
 goto            @Label_16d0
 
 @Label_16d0:
-dialogtxt       "What should I do…!?"
+dialogtxt       "What should I do!?"
 code0309        
 call            @Func_1ed4
 jumpz           @Cond_1712, ($b003 == 0)

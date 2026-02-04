@@ -188,7 +188,7 @@ code0309
 call            @Func_11c6
 code0479        0, 5, 16
 call            @Func_1124
-dialogtxt       "But…!"
+dialogtxt       "But!"
 code0309        
 call            @Func_115a
 code0479        1, 2, 12

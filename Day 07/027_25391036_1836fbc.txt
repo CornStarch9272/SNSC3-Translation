@@ -56,7 +56,7 @@ code0479        1, 2, 14
 code047d        1, 134
 call            @Func_181a
 call            @Func_1798
-dialogtxt       "We've wasting time."
+dialogtxt       "We're wasting time."
 dialogtxt       "Let's hurry!"
 code047b        
 code0309        
@@ -114,7 +114,7 @@ code0309
 call            @Func_17ec
 code0479        0, 5, 12
 call            @Func_174a
-dialogtxt       "Owner…!?"
+dialogtxt       "Owner!?"
 dialogtxt       "I…"
 goto            @Cond_05da
 
@@ -148,8 +148,8 @@ code0309
 call            @Func_17ec
 code0479        0, 3, 14
 call            @Func_174a
-dialogtxt       "Owner…!?"
-dialogtxt       "What…!"
+dialogtxt       "Owner!?"
+dialogtxt       "What!"
 goto            @Cond_07a8
 
 @Cond_07a8:
@@ -181,8 +181,8 @@ code0309
 call            @Func_17ec
 code0479        0, 3, 14
 call            @Func_174a
-dialogtxt       "Owner…!?"
-dialogtxt       "You, ridiculing me…!"
+dialogtxt       "Owner!?"
+dialogtxt       "You, ridiculing me!"
 goto            @Cond_0972
 
 @Cond_0972:
@@ -215,8 +215,8 @@ code0309
 call            @Func_17ec
 code0479        0, 2, 15
 call            @Func_174a
-dialogtxt       "Owner…!?"
-dialogtxt       "You…!"
+dialogtxt       "Owner!?"
+dialogtxt       "You— !"
 goto            @Cond_0b26
 
 @Cond_0b26:
@@ -319,7 +319,7 @@ code0479        1, 3, 15
 call            @Func_1830
 call            @Func_1798
 dialogtxt       "Don't touch me!"
-dialogtxt       "As if I'd let his apprentice…!"
+dialogtxt       "As if I'd let his apprentice— !"
 code0309        
 call            @Func_17ec
 code0479        0, 2, 16

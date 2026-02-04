@@ -89,7 +89,7 @@ code0479        1, 2, 16
 code047d        1, 0
 call            @Func_3722
 call            @Func_36a0
-dialogtxt       "Huh?"
+dialogtxt       "Huh"
 dialogtxt       "I don't get it!"
 jumpz           @Cond_046a, ($b002 == 0)
 dialogtxt       "What do you mean by that!?"
@@ -310,7 +310,7 @@ code0479        1, 2, 16
 call            @Func_36be
 dialogtxt       "Where have I felt this before…"
 dialogtxt       "…Indeed, I recognized its aura"
-dialogtxt       "from when we fleed our village…!"
+dialogtxt       "from when we fleed our village!"
 code0309        
 call            @Func_378e
 call            @Func_36dc
@@ -321,7 +321,7 @@ code0479        1, 2, 16
 code047d        1, 0
 call            @Func_3722
 call            @Func_36a0
-dialogtxt       "Huh?"
+dialogtxt       "Huh"
 dialogtxt       "I don't get it!"
 jumpz           @Cond_0e22, ($b002 == 0)
 dialogtxt       "What do you mean by that!?"
@@ -542,7 +542,7 @@ code0479        1, 2, 16
 call            @Func_36be
 dialogtxt       "This feeling…I remember now!"
 dialogtxt       "Last I felt this malice was when"
-dialogtxt       "when we fleed from the village…!"
+dialogtxt       "when we fleed from the village!"
 code0309        
 call            @Func_378e
 call            @Func_36dc
@@ -553,7 +553,7 @@ code0479        1, 2, 16
 code047d        1, 0
 call            @Func_3722
 call            @Func_36a0
-dialogtxt       "Huh?"
+dialogtxt       "Huh"
 dialogtxt       "I don't get it!"
 jumpz           @Cond_17a6, ($b002 == 0)
 dialogtxt       "What do you mean by that!?"
@@ -672,7 +672,7 @@ code0479        1, 2, 14
 code047d        1, 2
 call            @Func_3738
 call            @Func_36a0
-dialogtxt       "Tch…!"
+dialogtxt       "… Tsk!"
 dialogtxt       "I can feel its malice"
 dialogtxt       "grow even stronger!"
 code047b        
@@ -773,7 +773,7 @@ code0479        1, 2, 16
 call            @Func_36be
 dialogtxt       "This feeling…indeed, it is…"
 dialogtxt       "This was the very same thing I"
-dialogtxt       "felt when we fled the village…!"
+dialogtxt       "felt when we fled the village!"
 code0309        
 call            @Func_378e
 call            @Func_36dc
@@ -992,7 +992,7 @@ code0309
 call            @Func_36f4
 code0479        0, 5, 15
 call            @Func_3652
-dialogtxt       "Impossible…!"
+dialogtxt       "Impossible!"
 dialogtxt       "It won't listen to what I say!"
 code0309        
 code0479        0, 2, 14

@@ -163,7 +163,7 @@ call            @Func_176c
 code0479        0, 2, 15
 call            @Func_16b2
 dialogtxt       "I am not a cat!"
-dialogtxt       "I am a tiger Youkai, a Toramata!"
+dialogtxt       "I am a Tiger Youkai, a Toramata!"
 code047b        
 code0309        
 call            @Func_16e8
@@ -258,7 +258,7 @@ goto            @Label_0a66
 @Label_0a66:
 call            @Func_16b2
 jumpz           @Cond_0a86, ($b003 == 0)
-dialogtxt       "!!!"
+dialogtxt       "… !"
 goto            @Cond_0a86
 
 @Cond_0a86:
@@ -268,7 +268,7 @@ goto            @Cond_0aa6
 
 @Cond_0aa6:
 jumpz           @Cond_0ac6, ($b003 == 2)
-dialogtxt       "Why you…"
+dialogtxt       "What the hell!?"
 goto            @Cond_0ac6
 
 @Cond_0ac6:

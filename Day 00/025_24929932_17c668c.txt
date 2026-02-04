@@ -386,7 +386,6 @@ dialogtxt       "Hey, you're stronger than you look!"
 dialogtxt       "That was pretty cool!"
 goto            @Label_112a
 
-
 @Label_112a:
 code0309        
 call            @Func_2c6c

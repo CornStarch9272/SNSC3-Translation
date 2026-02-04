@@ -501,7 +501,6 @@ dialogtxt       "I'd say your strength is"
 dialogtxt       "about just below mine!"
 goto            @Label_13f8
 
-
 @Label_13f8:
 code0309        
 call            @Func_2f9a

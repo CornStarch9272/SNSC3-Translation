@@ -103,7 +103,6 @@ call            @Func_16bc
 dialogtxt       "That's great!"
 goto            @Label_0454
 
-
 @Label_0454:
 code0309        
 call            @Func_16f2

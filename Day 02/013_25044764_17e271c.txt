@@ -40,7 +40,7 @@ code0479        0, 2, 14
 call            @Func_0be2
 call            @Func_0b28
 code047b        
-dialogtxt       "But…!"
+dialogtxt       "But!"
 code0309        
 call            @Func_0c38
 call            @Func_0b5e

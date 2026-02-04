@@ -481,12 +481,12 @@ call            @Func_1cf6
 code0479        1, 1, 15
 call            @Func_1d2c
 jumpz           @Cond_1380, ($b002 == 0)
-dialogtxt       "Ugh…!"
+dialogtxt       "Ugh… !"
 dialogtxt       "Well alright, let's do it then!"
 goto            @Label_13a6
 
 @Cond_1380:
-dialogtxt       "Ugh…!"
+dialogtxt       "Ugh… !"
 dialogtxt       "Well alright, let's do it then!"
 goto            @Label_13a6
 

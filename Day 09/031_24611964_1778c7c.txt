@@ -405,7 +405,7 @@ code047e        0, 1
 dialogtxt       "Wh-whats up with you."
 code0309        
 dialogtxt       "You trying to say a member"
-dialogtxt       "of the Gold Council shouldn't play"
+dialogtxt       "of the Gold Faction shouldn't play"
 dialogtxt       "the lottery!?"
 code0309        
 code047e        0, 0
@@ -427,7 +427,7 @@ code040b
 
 @Event_1192:
 code0301        8, 7
-dialogtxt       "Care to try our Lucky Draw?"
+dialogtxt       "Care to try our \"Lucky Draw\"?"
 dialogtxt       "It's available all day, everyday!"
 dialogtxt       "Guaranteed no losing tickets!"
 code0309        

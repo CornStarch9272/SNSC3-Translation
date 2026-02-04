@@ -19,7 +19,6 @@ dialogtxt       "Heeeey!"
 dialogtxt       "Murno, are you awake~?"
 goto            @Label_0148
 
-
 @Label_0148:
 code047b        
 code0309        

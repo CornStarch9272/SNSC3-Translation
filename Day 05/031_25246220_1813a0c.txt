@@ -38,7 +38,7 @@ code0479        0, 2, 16
 call            @Func_16a8
 dialogtxt       "Bro asked me to"
 dialogtxt       "run an errand for him."
-dialogtxt       "Murno should be with Elieze."
+dialogtxt       "Murno should be with Eliez."
 code0309        
 call            @Func_17e4
 call            @Func_16c6
@@ -193,7 +193,7 @@ code0479        1, 0, 12
 code047d        1, 108
 call            @Func_1778
 call            @Func_1714
-dialogtxt       "That's enough, Elieze."
+dialogtxt       "That's enough, Eliez."
 dialogtxt       "Thank you."
 code047b        
 code0309        

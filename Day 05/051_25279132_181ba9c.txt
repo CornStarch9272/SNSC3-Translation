@@ -44,7 +44,7 @@ code043e        2, 3, 0
 code0479        1, 4, 13
 call            @Func_1984
 call            @Func_18ec
-dialogtxt       "[NAME 2]…!"
+dialogtxt       "[NAME 2]…！"
 dialogtxt       "You're safe…"
 dialogtxt       "I'm so glad…"
 code047b        
@@ -95,7 +95,7 @@ dialogtxt       "They took the Stone!?"
 goto            @Label_04be
 
 @Cond_048e:
-dialogtxt       "No way…!"
+dialogtxt       "No way!"
 dialogtxt       "They took the Stone!?"
 goto            @Label_04be
 
@@ -187,13 +187,13 @@ call            @Func_1940
 code0479        0, 2, 15
 call            @Func_189e
 jumpz           @Cond_09a6, ($b002 == 0)
-dialogtxt       "It can destroy a city…!?"
+dialogtxt       "It can destroy a city!?"
 dialogtxt       "You've been holding onto such"
 dialogtxt       "a dangerous thing the whole time!?"
 goto            @Label_09ee
 
 @Cond_09a6:
-dialogtxt       "It can destroy a city…!?"
+dialogtxt       "It can destroy a city!?"
 dialogtxt       "You've been holding onto such"
 dialogtxt       "a dangerous thing the whole time!?"
 goto            @Label_09ee

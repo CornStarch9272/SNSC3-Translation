@@ -171,8 +171,8 @@ goto            @Cond_06fc
 
 @Cond_06fc:
 jumpz           @Cond_0736, ($b003 == 2)
-dialogtxt       "You…!"
-dialogtxt       "That's dangerous, get back…!"
+dialogtxt       "You!"
+dialogtxt       "That's dangerous, get back!"
 goto            @Cond_0736
 
 @Cond_0736:

@@ -69,7 +69,7 @@ code0309
 call            @Func_13f0
 code0479        0, 4, 14
 call            @Func_134e
-dialogtxt       "Y-Yeah…"
+dialogtxt       "Y-yeah…"
 jumpz           @Cond_038e, ($b002 == 0)
 dialogtxt       "We're fine, but Murno is…"
 goto            @Label_03be
@@ -114,7 +114,7 @@ code0309
 call            @Func_13f0
 code0479        0, 2, 15
 call            @Func_134e
-dialogtxt       "But…!"
+dialogtxt       "But!"
 code0309        
 call            @Func_145e
 call            @Func_1384

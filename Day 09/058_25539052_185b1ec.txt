@@ -341,7 +341,7 @@ call            @Func_349c
 code0479        0, 2, 13
 call            @Func_33fa
 dialogtxt       "I do."
-dialogtxt       "I'm sure of it…!"
+dialogtxt       "I'm sure of it!"
 code0309        
 call            @Func_3536
 call            @Func_3418

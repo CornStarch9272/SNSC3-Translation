@@ -235,7 +235,7 @@ code0479        1, 4, 15
 call            @Func_257e
 call            @Func_251a
 dialogtxt       "Eh…?"
-dialogtxt       "Ehhh…!?"
+dialogtxt       "Ehhh!?"
 code047b        
 code0309        
 call            @Func_25d4
@@ -595,7 +595,7 @@ code0479        0, 5, 17
 code047d        0, 109
 call            @Func_2568
 call            @Func_2490
-dialogtxt       "Ahh…!"
+dialogtxt       "Ahh!"
 dialogtxt       "Miss Ianna, yes?"
 dialogtxt       "We need to talk!"
 code047b        
@@ -656,7 +656,7 @@ code0309
 call            @Func_2550
 code0479        0, 0, 16
 call            @Func_24ae
-dialogtxt       "Ah… um…!"
+dialogtxt       "Ah… um!"
 code0309        
 call            @Func_24e4
 code0479        1, 2, 12
@@ -675,7 +675,7 @@ code0479        0, 5, 17
 call            @Func_24ae
 dialogtxt       "Um…"
 dialogtxt       "What?"
-dialogtxt       "Wait…!"
+dialogtxt       "Wait!"
 code0309        
 call            @Func_25ea
 call            @Func_24cc

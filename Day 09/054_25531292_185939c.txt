@@ -57,13 +57,13 @@ call            @Func_28f6
 jumpz           @Cond_02de, ($b002 == 0)
 dialogtxt       "The match is already over."
 dialogtxt       "If you still want to fight,"
-dialogtxt       "I'll be the one…!"
+dialogtxt       "I'll be the one!"
 goto            @Label_032a
 
 @Cond_02de:
 dialogtxt       "The match is already over."
 dialogtxt       "If you still want to fight,"
-dialogtxt       "I'll be the one…!"
+dialogtxt       "I'll be the one!"
 goto            @Label_032a
 
 @Label_032a:
@@ -77,7 +77,7 @@ code033b        401, 0, 0, 0, 1, 0
 code047d        0, 142
 code0301        8, 0
 code047e        0, 1
-dialogtxt       "Grrr…, grrrrrr…!"
+dialogtxt       "Grrr… Grrrrrr!"
 code0309        
 code047e        0, 0
 code0302        0
@@ -86,7 +86,7 @@ code048d        0, 0
 code0479        1, 2, 16
 call            @Func_29c6
 call            @Func_2944
-dialogtxt       "Magdrad…!"
+dialogtxt       "Magdrad!"
 dialogtxt       "…"
 dialogtxt       "Ku…"
 code047b        
@@ -117,7 +117,7 @@ code0479        0, 0, 12
 code047d        0, 129
 call            @Func_29dc
 call            @Func_2944
-dialogtxt       "Father…!?"
+dialogtxt       "Father!?"
 dialogtxt       "Are you okay?"
 code047b        
 code0309        
@@ -231,7 +231,7 @@ code0479        0, 3, 16
 call            @Func_28f6
 dialogtxt       "Hah! Relationship…"
 dialogtxt       "That guy killed my precious person."
-dialogtxt       "He's just an enemy…!"
+dialogtxt       "He's just an enemy!"
 code0309        
 call            @Func_292c
 code0479        1, 2, 14
@@ -413,7 +413,7 @@ call            @Func_292c
 code0479        1, 1, 16
 call            @Func_29c6
 call            @Func_2962
-dialogtxt       "Hey…!"
+dialogtxt       "Hey!"
 dialogtxt       "That… hurts…"
 code047b        
 code0309        
@@ -588,7 +588,7 @@ code0479        1, 11, 12
 code047d        1, 110
 call            @Func_29c6
 call            @Func_2962
-dialogtxt       "Wha…!"
+dialogtxt       "Wha— !"
 dialogtxt       "I haven't done anything"
 dialogtxt       "to deserve your thanks."
 code047b        
@@ -780,13 +780,13 @@ call            @Func_29dc
 call            @Func_2944
 jumpz           @Cond_221a, ($b002 == 0)
 dialogtxt       "Eh!?"
-dialogtxt       "Wh-why…!?"
+dialogtxt       "Wh—Why!?"
 dialogtxt       "Did I say something wrong!?"
 goto            @Label_2262
 
 @Cond_221a:
 dialogtxt       "Eh!?"
-dialogtxt       "Wh-why…!?"
+dialogtxt       "Wh—Why!?"
 dialogtxt       "Did I say something wrong!?"
 goto            @Label_2262
 

@@ -51,7 +51,7 @@ code047d        0, 2
 call            @Func_0af0
 call            @Func_0a36
 jumpz           @Cond_01e6, ($b003 == 0)
-dialogtxt       "…!"
+dialogtxt       "… !"
 goto            @Cond_01e6
 
 @Cond_01e6:

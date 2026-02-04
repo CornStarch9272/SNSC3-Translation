@@ -104,12 +104,12 @@ call            @Func_0fda
 code0479        0, 2, 14
 call            @Func_0f38
 jumpz           @Cond_0436, ($b002 == 0)
-dialogtxt       "How could they…!"
+dialogtxt       "How could they!?"
 dialogtxt       "Just wait! I'll get it off!"
 goto            @Label_047a
 
 @Cond_0436:
-dialogtxt       "How could they…!"
+dialogtxt       "How could they!?"
 dialogtxt       "Just wait! I'll get it off!"
 goto            @Label_047a
 
@@ -224,13 +224,13 @@ code0479        0, 2, 16
 call            @Func_0f38
 jumpz           @Cond_090a, ($b002 == 0)
 dialogtxt       "Lemmy came to save us."
-dialogtxt       "He's facing Red Wing alone…!"
+dialogtxt       "He's facing Red Wing alone!"
 dialogtxt       "We have to leave!"
 goto            @Label_0962
 
 @Cond_090a:
 dialogtxt       "Lemmy came to save us."
-dialogtxt       "He's facing Red Wing alone…!"
+dialogtxt       "He's facing Red Wing alone!"
 dialogtxt       "We have to leave!"
 goto            @Label_0962
 

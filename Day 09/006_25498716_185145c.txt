@@ -216,7 +216,7 @@ code0309
 call            @Func_18ee
 code0479        0, 5, 17
 call            @Func_184c
-dialogtxt       "Of, of course not!"
+dialogtxt       "Oh, of course not!"
 dialogtxt       "There's no way I'd go"
 dialogtxt       "to a place that dangerous!"
 code0309        

@@ -28,13 +28,13 @@ jumpz           @Cond_0248, ($b003 == 0)
 call            @Func_1240
 jumpz           @Cond_0154, ($b002 == 0)
 dialogtxt       "Today's the day for our"
-dialogtxt       "meeting with the Gold Council."
+dialogtxt       "meeting with the Gold Faction."
 dialogtxt       "I'll do my best!"
 goto            @Label_0196
 
 @Cond_0154:
 dialogtxt       "Today's the day for our"
-dialogtxt       "meeting with the Gold Council."
+dialogtxt       "meeting with the Gold Faction."
 dialogtxt       "I'll do my best!"
 goto            @Label_0196
 
@@ -71,13 +71,13 @@ jumpz           @Cond_0418, ($b003 == 1)
 call            @Func_1240
 jumpz           @Cond_02ac, ($b002 == 0)
 dialogtxt       "Today's the day for our"
-dialogtxt       "meeting with the Gold Council."
+dialogtxt       "meeting with the Gold Faction."
 dialogtxt       "I'll do my best!"
 goto            @Label_02ee
 
 @Cond_02ac:
 dialogtxt       "Today's the day for our"
-dialogtxt       "meeting with the Gold Council."
+dialogtxt       "meeting with the Gold Faction."
 dialogtxt       "I'll do my best!"
 goto            @Label_02ee
 
@@ -114,13 +114,13 @@ jumpz           @Cond_057c, ($b003 == 2)
 call            @Func_1240
 jumpz           @Cond_047c, ($b002 == 0)
 dialogtxt       "Today's the day for our"
-dialogtxt       "meeting with the Gold Council."
+dialogtxt       "meeting with the Gold Faction."
 dialogtxt       "I'll do my best!"
 goto            @Label_04be
 
 @Cond_047c:
 dialogtxt       "Today's the day for our"
-dialogtxt       "meeting with the Gold Council."
+dialogtxt       "meeting with the Gold Faction."
 dialogtxt       "I'll do my best!"
 goto            @Label_04be
 
@@ -156,13 +156,13 @@ jumpz           @Cond_0708, ($b003 == 3)
 call            @Func_1240
 jumpz           @Cond_05e0, ($b002 == 0)
 dialogtxt       "Today's the day for our"
-dialogtxt       "meeting with the Gold Council."
+dialogtxt       "meeting with the Gold Faction."
 dialogtxt       "I'll do my best!"
 goto            @Label_0622
 
 @Cond_05e0:
 dialogtxt       "Today's the day for our"
-dialogtxt       "meeting with the Gold Council."
+dialogtxt       "meeting with the Gold Faction."
 dialogtxt       "I'll do my best!"
 goto            @Label_0622
 
@@ -228,13 +228,13 @@ jumpz           @Cond_0954, ($b003 == 0)
 call            @Func_1240
 jumpz           @Cond_0860, ($b002 == 0)
 dialogtxt       "Today's the day for our"
-dialogtxt       "meeting with the Gold Council."
+dialogtxt       "meeting with the Gold Faction."
 dialogtxt       "I'll do my best!"
 goto            @Label_08a2
 
 @Cond_0860:
 dialogtxt       "Today's the day for our"
-dialogtxt       "meeting with the Gold Council."
+dialogtxt       "meeting with the Gold Faction."
 dialogtxt       "I'll do my best!"
 goto            @Label_08a2
 
@@ -271,13 +271,13 @@ jumpz           @Cond_0b24, ($b003 == 1)
 call            @Func_1240
 jumpz           @Cond_09b8, ($b002 == 0)
 dialogtxt       "Today's the day for our"
-dialogtxt       "meeting with the Gold Council."
+dialogtxt       "meeting with the Gold Faction."
 dialogtxt       "I'll do my best!"
 goto            @Label_09fa
 
 @Cond_09b8:
 dialogtxt       "Today's the day for our"
-dialogtxt       "meeting with the Gold Council."
+dialogtxt       "meeting with the Gold Faction."
 dialogtxt       "I'll do my best!"
 goto            @Label_09fa
 
@@ -314,13 +314,13 @@ jumpz           @Cond_0c88, ($b003 == 2)
 call            @Func_1240
 jumpz           @Cond_0b88, ($b002 == 0)
 dialogtxt       "Today's the day for our"
-dialogtxt       "meeting with the Gold Council."
+dialogtxt       "meeting with the Gold Faction."
 dialogtxt       "I'll do my best!"
 goto            @Label_0bca
 
 @Cond_0b88:
 dialogtxt       "Today's the day for our"
-dialogtxt       "meeting with the Gold Council."
+dialogtxt       "meeting with the Gold Faction."
 dialogtxt       "I'll do my best!"
 goto            @Label_0bca
 
@@ -356,13 +356,13 @@ jumpz           @Cond_0e14, ($b003 == 3)
 call            @Func_1240
 jumpz           @Cond_0cec, ($b002 == 0)
 dialogtxt       "Today's the day for our"
-dialogtxt       "meeting with the Gold Council."
+dialogtxt       "meeting with the Gold Faction."
 dialogtxt       "I'll do my best!"
 goto            @Label_0d2e
 
 @Cond_0cec:
 dialogtxt       "Today's the day for our"
-dialogtxt       "meeting with the Gold Council."
+dialogtxt       "meeting with the Gold Faction."
 dialogtxt       "I'll do my best!"
 goto            @Label_0d2e
 

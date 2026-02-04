@@ -86,7 +86,7 @@ goto            @Cond_03a4
 
 @Cond_03a4:
 jumpz           @Cond_03f4, ($b003 == 1)
-dialogtxt       "When did you…!"
+dialogtxt       "When did you!?"
 dialogtxt       "How did I…"
 dialogtxt       "How could I not notice!?"
 goto            @Cond_03f4
@@ -95,12 +95,12 @@ goto            @Cond_03f4
 jumpz           @Cond_0432, ($b003 == 2)
 dialogtxt       "You…"
 dialogtxt       "When did you…"
-dialogtxt       "Who are you…!"
+dialogtxt       "Who are you!?"
 goto            @Cond_0432
 
 @Cond_0432:
 jumpz           @Cond_0480, ($b003 == 3)
-dialogtxt       "Eek…!"
+dialogtxt       "Eek!"
 dialogtxt       "Who is this person!?"
 dialogtxt       "He came out of nowhere!"
 goto            @Cond_0480
@@ -138,7 +138,7 @@ goto            @Label_0572
 call            @Func_23c2
 jumpz           @Cond_05b8, ($b003 == 0)
 dialogtxt       "Assigning Identification"
-dialogtxt       "Code To \"Enemy.\""
+dialogtxt       "Code To \"Enemy\"."
 dialogtxt       "Entering Battle Mode."
 goto            @Cond_05b8
 
@@ -151,7 +151,7 @@ goto            @Cond_05e6
 @Cond_05e6:
 jumpz           @Cond_0610, ($b003 == 2)
 dialogtxt       "This person…"
-dialogtxt       "An enemy…!?"
+dialogtxt       "An enemy!?"
 goto            @Cond_0610
 
 @Cond_0610:
@@ -341,8 +341,8 @@ goto            @Cond_0ddc
 
 @Cond_0ddc:
 jumpz           @Cond_0e1e, ($b003 == 2)
-dialogtxt       "\"Bro\"…!?"
-dialogtxt       "So he's not an enemy…?"
+dialogtxt       "\"Bro\"!?"
+dialogtxt       "So he's… not an enemy?"
 goto            @Cond_0e1e
 
 @Cond_0e1e:
@@ -592,7 +592,7 @@ code0309
 call            @Func_2464
 code0479        0, 3, 14
 call            @Func_23c2
-dialogtxt       "L-Like you…!?"
+dialogtxt       "L-Like you!?"
 code0309        
 call            @Func_24fe
 call            @Func_23e0

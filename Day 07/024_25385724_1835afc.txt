@@ -83,7 +83,7 @@ code047d        1, 135
 call            @Func_351a
 call            @Func_34b6
 dialogtxt       "You guys run away!"
-dialogtxt       "We don't what's going to happen."
+dialogtxt       "We don't know what'll happen."
 dialogtxt       "Hurry up and get out of here!"
 code047b        
 code0309        

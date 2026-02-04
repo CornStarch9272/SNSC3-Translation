@@ -86,7 +86,6 @@ dialogtxt       "used for a while and reforge it,"
 dialogtxt       "then it'll come out stronger."
 goto            @Label_04f4
 
-
 @Label_04f4:
 code0309        
 call            @Func_46ec

@@ -250,15 +250,15 @@ ret
 code0301        8, 7
 code047d        0, 120
 code047e        0, 1
-dialogtxt       "Right when we start getting busy!"
-dialogtxt       "That brat, Zakk's parents"
+dialogtxt       "Just as when we have so much to do!"
+dialogtxt       "That brat Zakk's parents"
 dialogtxt       "took him back home!"
 code0309        
-dialogtxt       "The kid's parents took him bac"
+dialogtxt       "The kid's parents took him back"
 dialogtxt       "BECAUSE of his injury, y'know…"
 code0309        
 dialogtxt       "You think Craftknightship"
-dialogtxt       "is a joke to you!?"
+dialogtxt       "is a joke to you?!"
 dialogtxt       "…Is what I oughta say, but…"
 code0309        
 dialogtxt       "Hell, not even my own parents"

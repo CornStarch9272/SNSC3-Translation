@@ -5,7 +5,7 @@ code047d        1, 120
 call            @Func_2202
 call            @Func_2180
 dialogtxt       "Damn…"
-dialogtxt       "They're… strong…!"
+dialogtxt       "They're… strong!"
 code047b        
 code0309        
 call            @Func_2258
@@ -41,7 +41,7 @@ call            @Func_2114
 jumpz           @Cond_0210, ($b002 == 0)
 dialogtxt       "Um, okay, first,"
 dialogtxt       "everyone calm down."
-dialogtxt       "You're scaring Elieze!"
+dialogtxt       "You're scaring Eliez!"
 code047b        
 code0309        
 code0479        0, 2, 16
@@ -53,7 +53,7 @@ goto            @Label_02b4
 @Cond_0210:
 dialogtxt       "Hey, first,"
 dialogtxt       "everyone calm down."
-dialogtxt       "You're scaring Elieze!"
+dialogtxt       "You're scaring Eliez!"
 code047b        
 code0309        
 code0479        0, 2, 16
@@ -67,8 +67,8 @@ code0309
 call            @Func_2168
 code0479        1, 0, 15
 call            @Func_219e
-dialogtxt       "What!"
-dialogtxt       "You…!"
+dialogtxt       "What!?"
+dialogtxt       "You!"
 code0309        
 call            @Func_226e
 call            @Func_21bc
@@ -227,7 +227,7 @@ code0309
 call            @Func_21d4
 code0479        0, 0, 14
 call            @Func_2132
-dialogtxt       "…!"
+dialogtxt       "… !"
 code0309        
 call            @Func_226e
 call            @Func_2150
@@ -373,12 +373,12 @@ code0479        0, 2, 14
 call            @Func_2132
 jumpz           @Cond_105c, ($b002 == 0)
 dialogtxt       "I didn't bring her with me."
-dialogtxt       "Elieze said she wanted to go."
+dialogtxt       "Eliez said she wanted to go."
 goto            @Label_10a6
 
 @Cond_105c:
 dialogtxt       "I didn't bring her with me."
-dialogtxt       "Elieze said she wanted to go."
+dialogtxt       "Eliez said she wanted to go."
 goto            @Label_10a6
 
 @Label_10a6:
@@ -409,7 +409,7 @@ dialogtxt       "that's not what I meant."
 goto            @Label_11c8
 
 @Cond_1198:
-dialogtxt       "…!"
+dialogtxt       "… !"
 dialogtxt       "I'm not saying it's your fault."
 goto            @Label_11c8
 
@@ -434,13 +434,13 @@ call            @Func_2114
 jumpz           @Cond_12d8, ($b002 == 0)
 dialogtxt       "I was, uh, free, since Master's"
 dialogtxt       "at your place, and Murno's"
-dialogtxt       "at the Gold Council…"
+dialogtxt       "at the Gold Faction…"
 goto            @Label_133c
 
 @Cond_12d8:
 dialogtxt       "I was, uh, free, since Master's"
 dialogtxt       "at your place, and Murno's"
-dialogtxt       "at the Gold Council…"
+dialogtxt       "at the Gold Faction…"
 goto            @Label_133c
 
 @Label_133c:
@@ -449,7 +449,7 @@ code0309
 call            @Func_2168
 code0479        1, 5, 16
 call            @Func_219e
-dialogtxt       "Gold Council?"
+dialogtxt       "Gold Faction?"
 dialogtxt       "What business does she have?"
 code0309        
 call            @Func_21d4
@@ -624,13 +624,13 @@ call            @Func_2218
 call            @Func_2180
 jumpz           @Cond_19e8, ($b002 == 0)
 dialogtxt       "He's so weird."
-dialogtxt       "What do you want to do, Elieze?"
+dialogtxt       "What do you want to do, Eliez?"
 dialogtxt       "Continue on?"
 goto            @Label_1a2a
 
 @Cond_19e8:
 dialogtxt       "He's so weird."
-dialogtxt       "What do you want to do, Elieze?"
+dialogtxt       "What do you want to do, Eliez?"
 dialogtxt       "Continue on?"
 goto            @Label_1a2a
 

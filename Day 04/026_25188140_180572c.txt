@@ -15,7 +15,7 @@ code047d        1, 0
 call            @Func_0f70
 call            @Func_0f70
 call            @Func_0eee
-dialogtxt       "So this is the Gold Council."
+dialogtxt       "So this is the Gold Faction."
 code047b        
 code0309        
 call            @Func_0fc6

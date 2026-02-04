@@ -217,7 +217,7 @@ code040d        15
 code0479        0, 5, 15
 call            @Func_11fa
 call            @Func_1122
-dialogtxt       "Ah, wait…!"
+dialogtxt       "Ah, wait!"
 code047b        
 code0309        
 code0479        0, 4, 16

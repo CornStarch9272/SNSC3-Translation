@@ -30,7 +30,7 @@ call            @Func_294a
 code0479        1, 0, 12
 call            @Func_2980
 dialogtxt       "You may not know this, but"
-dialogtxt       "we, the Gold Council, control all"
+dialogtxt       "we, the Gold Faction, control all"
 dialogtxt       "Summoning affairs in this area."
 code0309        
 code0479        1, 2, 12

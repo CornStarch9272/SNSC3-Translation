@@ -30,8 +30,8 @@ call            @Func_203a
 jumpz           @Cond_02fe, ($bv017 == 0)
 call            @Func_1fa2
 dialogtxt       "Oh yeah, [NAME 2]!"
-dialogtxt       "Feel like taking"
-dialogtxt       "on some weaponry orders?"
+dialogtxt       "Feel like taking on"
+dialogtxt       "some weaponry orders?"
 code047b        
 code0309        
 call            @Func_1ff6
@@ -68,7 +68,7 @@ code0479        0, 0, 12
 code0479        0, 0, 13
 call            @Func_203a
 call            @Func_1fa2
-dialogtxt       "I enlisted the order on this"
+dialogtxt       "I accepted the order on this"
 dialogtxt       "order form right here."
 dialogtxt       "Show me what you've got, kid."
 code047b        
@@ -98,7 +98,7 @@ code0479        0, 0, 12
 code0479        1, 0, 13
 call            @Func_203a
 call            @Func_1fa2
-dialogtxt       "I enlisted the order on this"
+dialogtxt       "I accepted the order on this"
 dialogtxt       "order form right here."
 dialogtxt       "Show me what you've got, kid."
 code047b        
@@ -174,7 +174,7 @@ code0309
 call            @Func_1f8a
 code0479        1, 3, 17
 call            @Func_1fc0
-dialogtxt       "Say what?"
+dialogtxt       "Come again?"
 code0309        
 call            @Func_1ff6
 code0479        0, 1, 14
@@ -227,7 +227,6 @@ code047d        1, 131
 call            @Func_203a
 jumpz           @Cond_0b6c, ($bv017 == 0)
 call            @Func_1fa2
-dialogtxt       "Hey…"
 dialogtxt       "Are you currently taking"
 dialogtxt       "weaponry orders?"
 code047b        
@@ -306,9 +305,9 @@ goto            @Label_103a
 @Cond_0b6c:
 jumpz           @Cond_0c54, ($bv017 == 1)
 call            @Func_1fa2
-dialogtxt       "Hey…"
-dialogtxt       "Are you currently taking"
-dialogtxt       "weaponry orders?"
+dialogtxt       "Well, how about it?"
+dialogtxt       "Wanna take over my"
+dialogtxt       "commission for me?"
 code047b        
 code0309        
 call            @Func_2090

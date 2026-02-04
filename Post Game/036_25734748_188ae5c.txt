@@ -20,7 +20,7 @@ code0479        1, 0, 13
 code047d        1, 138
 call            @Func_07f2
 call            @Func_075a
-dialogtxt       "Elieze's chore today is to"
+dialogtxt       "Eliez's chore today is to"
 dialogtxt       "help clean up the Workshop!"
 goto            @Label_015a
 

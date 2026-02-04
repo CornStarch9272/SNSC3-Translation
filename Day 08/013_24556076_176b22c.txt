@@ -355,10 +355,10 @@ code0301        8, 7
 code047d        0, 120
 code047e        0, 1
 dialogtxt       "Red Wing's coloration…"
-dialogtxt       "There's a rumor…"
-dialogtxt       "It's from its victims…"
+dialogtxt       "There's a rumor that it comes"
+dialogtxt       "from its victims…?!"
 code0309        
-dialogtxt       "It's too frightening to say."
+dialogtxt       "It's too frightening to say more."
 code0309        
 code047e        0, 0
 code0302        7
@@ -368,7 +368,7 @@ code040b
 code0301        8, 7
 dialogtxt       "　"
 dialogtxt       "　"
-dialogtxt       "　●← Peep hole"
+dialogtxt       "　●←Peep hole"
 code0309        
 dialogtxt       "No way that's true."
 code0309        
@@ -386,7 +386,7 @@ code040b
 
 @Event_101a:
 code0301        8, 7
-dialogtxt       "Poison, paralysis, sleep, and rust."
+dialogtxt       "Poison, Paralysis, Sleep, Rust."
 dialogtxt       "Status effects are painful, but"
 dialogtxt       "they'll wear off in time."
 code0309        
@@ -396,7 +396,7 @@ code040b
 @Event_108e:
 code0301        8, 7
 dialogtxt       "When staying at Marnail Station,"
-dialogtxt       "make sure to visit Smile Inn!"
+dialogtxt       "make sure to visit the Smile Inn!"
 code0309        
 dialogtxt       "Our cute poster girl, Tier,"
 dialogtxt       "will give you special service! ∞"

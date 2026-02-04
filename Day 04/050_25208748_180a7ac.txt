@@ -71,7 +71,7 @@ code0309
 call            @Func_1ede
 call            @Func_1ef6
 call            @Func_1e3c
-dialogtxt       "A Stray…!?"
+dialogtxt       "A Stray!?"
 code047b        
 code0309        
 call            @Func_1f78
@@ -241,12 +241,12 @@ code0479        0, 5, 15
 call            @Func_1ef6
 call            @Func_1e3c
 jumpz           @Cond_0a5c, ($b002 == 0)
-dialogtxt       "(What the!"
+dialogtxt       "(What the!?"
 dialogtxt       "　Is he crazy!?)"
 goto            @Label_0a9a
 
 @Cond_0a5c:
-dialogtxt       "(What the!"
+dialogtxt       "(What the!?"
 dialogtxt       "　Is he crazy!?)"
 goto            @Label_0a9a
 
@@ -303,7 +303,7 @@ goto            @Cond_0c9c
 @Cond_0c9c:
 jumpz           @Cond_0d06, ($b003 == 3)
 dialogtxt       "(Are you blind!?"
-dialogtxt       "　That person, he is wearing the"
+dialogtxt       "　That person is wearing the"
 dialogtxt       "　same outfit as Murno's enemies!)"
 goto            @Cond_0d06
 
@@ -341,15 +341,15 @@ code0309
 call            @Func_1e72
 code0479        1, 0, 14
 call            @Func_1ea8
-dialogtxt       "Hoho, so you've got"
+dialogtxt       "Oho, so you've got"
 dialogtxt       "a Summon Beast…"
 code0309        
 call            @Func_1ede
 code0479        0, 2, 16
 call            @Func_1e3c
 jumpz           @Cond_0ea6, ($b002 == 0)
-dialogtxt       "W-what of it!?"
-dialogtxt       "Got a problem…!"
+dialogtxt       "W-what of it?"
+dialogtxt       "Got a problem!?"
 goto            @Label_0ed6
 
 @Cond_0ea6:
@@ -369,7 +369,7 @@ code0309
 call            @Func_1f4c
 code047b        
 code0479        1, 0, 12
-dialogtxt       "So, back the subject at hand."
+dialogtxt       "So, back to the subject at hand."
 dialogtxt       "You said the Stray"
 dialogtxt       "looked strong?"
 code0309        
@@ -399,7 +399,7 @@ code0445        3, 10
 code0446        3
 code0301        8, 7
 code047e        0, 1
-dialogtxt       "Hold on."
+dialogtxt       "Eh? Hold on."
 dialogtxt       "You're going to fight them alone?"
 dialogtxt       "Isn't that dangerous!?"
 code0309        
@@ -507,12 +507,12 @@ call            @Func_1ef6
 call            @Func_1e1e
 jumpz           @Cond_15d4, ($b002 == 0)
 dialogtxt       "A scary Stray…"
-dialogtxt       "Big bro…"
+dialogtxt       "Mr. [NAME 2]…"
 goto            @Label_1600
 
 @Cond_15d4:
 dialogtxt       "A scary Stray…"
-dialogtxt       "Big sis…"
+dialogtxt       "Ms. [NAME 2]…"
 goto            @Label_1600
 
 @Label_1600:
@@ -580,7 +580,7 @@ code0479        0, 2, 16
 call            @Func_1e3c
 dialogtxt       "What should we do?"
 dialogtxt       "I'm worried about him…"
-dialogtxt       "But Elieze…"
+dialogtxt       "but Eliez…"
 code0309        
 call            @Func_1f78
 call            @Func_1e5a

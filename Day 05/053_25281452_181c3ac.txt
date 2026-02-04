@@ -539,12 +539,12 @@ code0479        1, 2, 15
 call            @Func_507c
 jumpz           @Cond_1a02, ($b002 == 0)
 dialogtxt       "Bracelets…?"
-dialogtxt       "Damn…!"
+dialogtxt       "Damn!"
 goto            @Label_1a22
 
 @Cond_1a02:
 dialogtxt       "Bracelets…?"
-dialogtxt       "That's horrible…!"
+dialogtxt       "That's horrible!"
 goto            @Label_1a22
 
 @Label_1a22:
@@ -856,7 +856,7 @@ code0309
 call            @Func_50b2
 code0479        0, 6, 14
 call            @Func_5010
-dialogtxt       "Tch…!"
+dialogtxt       "… Tsk!"
 dialogtxt       "Not like I wanted to do it."
 dialogtxt       "Don't thank me."
 code0309        

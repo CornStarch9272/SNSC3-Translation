@@ -69,14 +69,14 @@ code0479        1, 0, 12
 code0479        0, 0, 14
 jumpz           @Cond_038a, ($b002 == 0)
 dialogtxt       "Oh, that's right, my master is"
-dialogtxt       "heading over to your place,"
-dialogtxt       "take care of her will you?"
+dialogtxt       "heading over to your place."
+dialogtxt       "Take care of her, will you?"
 goto            @Label_03d6
 
 @Cond_038a:
 dialogtxt       "Oh, that's right, my master is"
-dialogtxt       "heading over to your place,"
-dialogtxt       "take care of her will you?"
+dialogtxt       "heading over to your place."
+dialogtxt       "Take care of her, will you?"
 goto            @Label_03d6
 
 @Label_03d6:

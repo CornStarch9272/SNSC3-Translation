@@ -134,7 +134,7 @@ code0309
 call            @Func_0e08
 code0479        0, 4, 16
 call            @Func_0d66
-dialogtxt       "…!"
+dialogtxt       "… !"
 dialogtxt       "Don't get so angry…"
 code0309        
 call            @Func_0d9c

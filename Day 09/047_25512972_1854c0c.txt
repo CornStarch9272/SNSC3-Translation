@@ -41,7 +41,7 @@ goto            @Label_01f8
 
 @Cond_01d0:
 dialogtxt       "Wait…"
-dialogtxt       "Why are you still…!?"
+dialogtxt       "Why are you still!?"
 goto            @Label_01f8
 
 @Label_01f8:
@@ -413,7 +413,7 @@ code043f        2
 code0479        0, 4, 16
 call            @Func_2636
 call            @Func_255e
-dialogtxt       "Gueh…!"
+dialogtxt       "Gueh!"
 code047b        
 code0309        
 call            @Func_25b2
@@ -436,7 +436,7 @@ code0443        4, 48, 1
 code0443        2, 48, 0
 code0479        0, 5, 14
 call            @Func_257c
-dialogtxt       "…!"
+dialogtxt       "… !"
 code0309        
 call            @Func_25b2
 code0479        1, 2, 13
@@ -453,7 +453,7 @@ code0479        0, 1, 16
 code047d        0, 0
 call            @Func_2636
 call            @Func_257c
-dialogtxt       "Um, Master…!"
+dialogtxt       "Um, Master…"
 code047b        
 code0309        
 call            @Func_268c

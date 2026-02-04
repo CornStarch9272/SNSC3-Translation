@@ -26,7 +26,7 @@ code0309
 call            @Func_0b3a
 code0479        0, 2, 14
 call            @Func_0a98
-dialogtxt       "I thought so…!"
+dialogtxt       "I thought so!"
 dialogtxt       "That's where the Strays are!"
 code0309        
 call            @Func_0ace
@@ -78,7 +78,7 @@ goto            @Cond_035a
 
 @Cond_035a:
 jumpz           @Cond_0380, ($b003 == 3)
-dialogtxt       "That girl is…!?"
+dialogtxt       "That girl is … !?"
 goto            @Cond_0380
 
 @Cond_0380:

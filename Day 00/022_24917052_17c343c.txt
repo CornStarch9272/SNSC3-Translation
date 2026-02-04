@@ -169,7 +169,6 @@ dialogtxt       "the girl. And it's important."
 dialogtxt       "So could you let her go?"
 goto            @Label_0838
 
-
 @Label_0838:
 code0309        
 call            @Func_154e

@@ -65,7 +65,7 @@ call            @Func_2b04
 call            @Func_2a82
 dialogtxt       "Current Mode Is Insufficient."
 dialogtxt       "Attempting To Change Modes…"
-dialogtxt       "For My Partner…!"
+dialogtxt       "For My Partner!"
 code047b        
 code0309        
 call            @Func_2b5a
@@ -126,12 +126,12 @@ call            @Func_2aee
 call            @Func_2a16
 jumpz           @Cond_0468, ($b002 == 0)
 dialogtxt       "[NAME 1]!"
-dialogtxt       "You…!"
+dialogtxt       "You … !"
 goto            @Label_0482
 
 @Cond_0468:
 dialogtxt       "[NAME 1]!"
-dialogtxt       "You…!"
+dialogtxt       "You … !"
 goto            @Label_0482
 
 @Label_0482:
@@ -248,7 +248,7 @@ code0446        1
 code0479        1, 4, 14
 call            @Func_2b04
 call            @Func_2a82
-dialogtxt       "How mortifying…!"
+dialogtxt       "How mortifying!"
 dialogtxt       "That I, [NAME 1] of the"
 dialogtxt       "mountains am so powerless…"
 code047b        
@@ -256,7 +256,7 @@ code0309
 code0479        1, 2, 14
 dialogtxt       "Now I can't even"
 dialogtxt       "protect my partner…"
-dialogtxt       "How could this happen…!"
+dialogtxt       "How could this happen!"
 code0309        
 code0333        2, 30
 code0479        1, 2, 15
@@ -322,12 +322,12 @@ call            @Func_2aee
 call            @Func_2a16
 jumpz           @Cond_0bea, ($b002 == 0)
 dialogtxt       "[NAME 1]!"
-dialogtxt       "You…!"
+dialogtxt       "You … !"
 goto            @Label_0c04
 
 @Cond_0bea:
 dialogtxt       "[NAME 1]!"
-dialogtxt       "You…!"
+dialogtxt       "You … !"
 goto            @Label_0c04
 
 @Label_0c04:
@@ -343,8 +343,8 @@ code040d        30
 code047d        0, 2
 code0301        16, 7
 code047e        0, 1
-dialogtxt       "Power is flowing through me…!"
-dialogtxt       "I see, this is…!"
+dialogtxt       "Power is flowing through me!"
+dialogtxt       "I see, this is!"
 code0309        
 code0481        0
 code047e        0, 0
@@ -445,9 +445,9 @@ code0446        1
 code0479        1, 2, 14
 call            @Func_2b04
 call            @Func_2a82
-dialogtxt       "Tch…!"
+dialogtxt       "… Tsk!"
 dialogtxt       "A kid like you,"
-dialogtxt       "protecting me…!"
+dialogtxt       "protecting me!"
 code047b        
 code0309        
 code0333        2, 30
@@ -515,12 +515,12 @@ call            @Func_2aee
 call            @Func_2a16
 jumpz           @Cond_131a, ($b002 == 0)
 dialogtxt       "[NAME 1]!"
-dialogtxt       "You…!"
+dialogtxt       "You … !"
 goto            @Label_1334
 
 @Cond_131a:
 dialogtxt       "[NAME 1]!"
-dialogtxt       "You…!"
+dialogtxt       "You … !"
 goto            @Label_1334
 
 @Label_1334:
@@ -640,7 +640,7 @@ call            @Func_2b04
 call            @Func_2a82
 dialogtxt       "Uu… [NAME 2] is…"
 dialogtxt       "Fighting, to protect me…"
-dialogtxt       "What am I doing…!"
+dialogtxt       "What am I doing!"
 code047b        
 code0309        
 code0479        1, 2, 14
@@ -712,12 +712,12 @@ call            @Func_2aee
 call            @Func_2a16
 jumpz           @Cond_1aa6, ($b002 == 0)
 dialogtxt       "[NAME 1]!"
-dialogtxt       "You…!"
+dialogtxt       "You … !"
 goto            @Label_1ac0
 
 @Cond_1aa6:
 dialogtxt       "[NAME 1]!"
-dialogtxt       "You…!"
+dialogtxt       "You … !"
 goto            @Label_1ac0
 
 @Label_1ac0:
@@ -734,7 +734,7 @@ code047d        0, 2
 code0301        16, 7
 code047e        0, 1
 dialogtxt       "I did it…"
-dialogtxt       "I transformed…!"
+dialogtxt       "I transformed!"
 code0309        
 code0481        0
 code047e        0, 0

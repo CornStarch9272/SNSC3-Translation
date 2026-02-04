@@ -36,7 +36,7 @@ code0479        1, 0, 12
 call            @Func_3540
 dialogtxt       "Our Search Area"
 dialogtxt       "Is North From Here"
-dialogtxt       "Until Marneil Station."
+dialogtxt       "Until Marnail Station."
 code0309        
 call            @Func_3576
 code0479        0, 2, 12
@@ -72,7 +72,7 @@ call            @Func_350a
 code0479        1, 2, 14
 call            @Func_3540
 dialogtxt       "We are to search from here"
-dialogtxt       "until Marneil Station,"
+dialogtxt       "until Marnail Station,"
 dialogtxt       "where the Smile Inn is."
 code0309        
 call            @Func_3576
@@ -109,7 +109,7 @@ call            @Func_350a
 code0479        1, 0, 13
 call            @Func_3540
 dialogtxt       "Our area is from here"
-dialogtxt       "until Marneil Station."
+dialogtxt       "until Marnail Station."
 dialogtxt       "I'll leave it to you."
 code0309        
 call            @Func_3576
@@ -146,7 +146,7 @@ call            @Func_350a
 code0479        1, 2, 12
 call            @Func_3540
 dialogtxt       "Our search area is from here to"
-dialogtxt       "Marneil Station's Smile Inn."
+dialogtxt       "Marnail Station's Smile Inn."
 dialogtxt       "Let's do our best!"
 code0309        
 call            @Func_3576
@@ -205,13 +205,13 @@ jumpz           @Cond_08fc, ($b003 == 0)
 call            @Func_34b6
 jumpz           @Cond_07ea, ($b002 == 0)
 dialogtxt       "Anise seems to be hiding"
-dialogtxt       "somewhere in Slenj Mine."
+dialogtxt       "somewhere in Surange Mine."
 dialogtxt       "Let's check it out!"
 goto            @Label_083c
 
 @Cond_07ea:
 dialogtxt       "Anise seems to be hiding"
-dialogtxt       "somewhere in Slenj Mine."
+dialogtxt       "somewhere in Surange Mine."
 dialogtxt       "Let's check it out!"
 goto            @Label_083c
 
@@ -240,13 +240,13 @@ jumpz           @Cond_0b10, ($b003 == 1)
 call            @Func_34b6
 jumpz           @Cond_0970, ($b002 == 0)
 dialogtxt       "Anise seems to be hiding"
-dialogtxt       "somewhere in Slenj Mine."
+dialogtxt       "somewhere in Surange Mine."
 dialogtxt       "Let's check it out!"
 goto            @Label_09c2
 
 @Cond_0970:
 dialogtxt       "Anise seems to be hiding"
-dialogtxt       "somewhere in Slenj Mine."
+dialogtxt       "somewhere in Surange Mine."
 dialogtxt       "Let's check it out!"
 goto            @Label_09c2
 
@@ -285,13 +285,13 @@ jumpz           @Cond_0c90, ($b003 == 2)
 call            @Func_34b6
 jumpz           @Cond_0b84, ($b002 == 0)
 dialogtxt       "Anise seems to be hiding"
-dialogtxt       "somewhere in Slenj Mine."
+dialogtxt       "somewhere in Surange Mine."
 dialogtxt       "Let's check it out!"
 goto            @Label_0bd6
 
 @Cond_0b84:
 dialogtxt       "Anise seems to be hiding"
-dialogtxt       "somewhere in Slenj Mine."
+dialogtxt       "somewhere in Surange Mine."
 dialogtxt       "Let's check it out!"
 goto            @Label_0bd6
 
@@ -320,13 +320,13 @@ jumpz           @Cond_0e10, ($b003 == 3)
 call            @Func_34b6
 jumpz           @Cond_0d04, ($b002 == 0)
 dialogtxt       "Anise seems to be hiding"
-dialogtxt       "somewhere in Slenj Mine."
+dialogtxt       "somewhere in Surange Mine."
 dialogtxt       "Let's check it out!"
 goto            @Label_0d56
 
 @Cond_0d04:
 dialogtxt       "Anise seems to be hiding"
-dialogtxt       "somewhere in Slenj Mine."
+dialogtxt       "somewhere in Surange Mine."
 dialogtxt       "Let's check it out!"
 goto            @Label_0d56
 
@@ -384,13 +384,13 @@ jumpz           @Cond_108a, ($b003 == 0)
 call            @Func_34b6
 jumpz           @Cond_0f78, ($b002 == 0)
 dialogtxt       "Anise seems to be hiding"
-dialogtxt       "somewhere in Slenj Mine."
+dialogtxt       "somewhere in Surange Mine."
 dialogtxt       "Let's check it out!"
 goto            @Label_0fca
 
 @Cond_0f78:
 dialogtxt       "Anise seems to be hiding"
-dialogtxt       "somewhere in Slenj Mine."
+dialogtxt       "somewhere in Surange Mine."
 dialogtxt       "Let's check it out!"
 goto            @Label_0fca
 
@@ -419,13 +419,13 @@ jumpz           @Cond_129e, ($b003 == 1)
 call            @Func_34b6
 jumpz           @Cond_10fe, ($b002 == 0)
 dialogtxt       "Anise seems to be hiding"
-dialogtxt       "somewhere in Slenj Mine."
+dialogtxt       "somewhere in Surange Mine."
 dialogtxt       "Let's check it out!"
 goto            @Label_1150
 
 @Cond_10fe:
 dialogtxt       "Anise seems to be hiding"
-dialogtxt       "somewhere in Slenj Mine."
+dialogtxt       "somewhere in Surange Mine."
 dialogtxt       "Let's check it out!"
 goto            @Label_1150
 
@@ -464,13 +464,13 @@ jumpz           @Cond_141e, ($b003 == 2)
 call            @Func_34b6
 jumpz           @Cond_1312, ($b002 == 0)
 dialogtxt       "Anise seems to be hiding"
-dialogtxt       "somewhere in Slenj Mine."
+dialogtxt       "somewhere in Surange Mine."
 dialogtxt       "Let's check it out!"
 goto            @Label_1364
 
 @Cond_1312:
 dialogtxt       "Anise seems to be hiding"
-dialogtxt       "somewhere in Slenj Mine."
+dialogtxt       "somewhere in Surange Mine."
 dialogtxt       "Let's check it out!"
 goto            @Label_1364
 
@@ -499,13 +499,13 @@ jumpz           @Cond_159e, ($b003 == 3)
 call            @Func_34b6
 jumpz           @Cond_1492, ($b002 == 0)
 dialogtxt       "Anise seems to be hiding"
-dialogtxt       "somewhere in Slenj Mine."
+dialogtxt       "somewhere in Surange Mine."
 dialogtxt       "Let's check it out!"
 goto            @Label_14e4
 
 @Cond_1492:
 dialogtxt       "Anise seems to be hiding"
-dialogtxt       "somewhere in Slenj Mine."
+dialogtxt       "somewhere in Surange Mine."
 dialogtxt       "Let's check it out!"
 goto            @Label_14e4
 
@@ -563,13 +563,13 @@ jumpz           @Cond_184e, ($b003 == 0)
 call            @Func_34b6
 jumpz           @Cond_1720, ($b002 == 0)
 dialogtxt       "So Anise was hiding in"
-dialogtxt       "Slenj Mine after all."
+dialogtxt       "Surange Mine after all."
 dialogtxt       "Let's check inside!"
 goto            @Label_1770
 
 @Cond_1720:
 dialogtxt       "So Anise was hiding in"
-dialogtxt       "Slenj Mine after all."
+dialogtxt       "Surange Mine after all."
 dialogtxt       "Let's check inside!"
 goto            @Label_1770
 
@@ -607,13 +607,13 @@ jumpz           @Cond_1a04, ($b003 == 1)
 call            @Func_34b6
 jumpz           @Cond_18c4, ($b002 == 0)
 dialogtxt       "So Anise was hiding in"
-dialogtxt       "Slenj Mine after all."
+dialogtxt       "Surange Mine after all."
 dialogtxt       "Let's check inside!"
 goto            @Label_1914
 
 @Cond_18c4:
 dialogtxt       "So Anise was hiding in"
-dialogtxt       "Slenj Mine after all."
+dialogtxt       "Surange Mine after all."
 dialogtxt       "Let's check inside!"
 goto            @Label_1914
 
@@ -652,13 +652,13 @@ jumpz           @Cond_1b8c, ($b003 == 2)
 call            @Func_34b6
 jumpz           @Cond_1a7a, ($b002 == 0)
 dialogtxt       "So Anise was hiding in"
-dialogtxt       "Slenj Mine after all."
+dialogtxt       "Surange Mine after all."
 dialogtxt       "Let's check inside!"
 goto            @Label_1aca
 
 @Cond_1a7a:
 dialogtxt       "So Anise was hiding in"
-dialogtxt       "Slenj Mine after all."
+dialogtxt       "Surange Mine after all."
 dialogtxt       "Let's check inside!"
 goto            @Label_1aca
 
@@ -688,13 +688,13 @@ jumpz           @Cond_1d4e, ($b003 == 3)
 call            @Func_34b6
 jumpz           @Cond_1c02, ($b002 == 0)
 dialogtxt       "So Anise was hiding in"
-dialogtxt       "Slenj Mine after all."
+dialogtxt       "Surange Mine after all."
 dialogtxt       "Let's check inside!"
 goto            @Label_1c52
 
 @Cond_1c02:
 dialogtxt       "So Anise was hiding in"
-dialogtxt       "Slenj Mine after all."
+dialogtxt       "Surange Mine after all."
 dialogtxt       "Let's check inside!"
 goto            @Label_1c52
 
@@ -762,13 +762,13 @@ jumpz           @Cond_1fe0, ($b003 == 0)
 call            @Func_34b6
 jumpz           @Cond_1ec4, ($b002 == 0)
 dialogtxt       "So Anise was hiding in"
-dialogtxt       "Slenj Mine after all."
+dialogtxt       "Surange Mine after all."
 dialogtxt       "Let's check inside!"
 goto            @Label_1f14
 
 @Cond_1ec4:
 dialogtxt       "So Anise was hiding in"
-dialogtxt       "Slenj Mine after all."
+dialogtxt       "Surange Mine after all."
 dialogtxt       "Let's check inside!"
 goto            @Label_1f14
 
@@ -798,13 +798,13 @@ jumpz           @Cond_21b6, ($b003 == 1)
 call            @Func_34b6
 jumpz           @Cond_2056, ($b002 == 0)
 dialogtxt       "So Anise was hiding in"
-dialogtxt       "Slenj Mine after all."
+dialogtxt       "Surange Mine after all."
 dialogtxt       "Let's check inside!"
 goto            @Label_20a6
 
 @Cond_2056:
 dialogtxt       "So Anise was hiding in"
-dialogtxt       "Slenj Mine after all."
+dialogtxt       "Surange Mine after all."
 dialogtxt       "Let's check inside!"
 goto            @Label_20a6
 
@@ -845,13 +845,13 @@ jumpz           @Cond_2372, ($b003 == 2)
 call            @Func_34b6
 jumpz           @Cond_222c, ($b002 == 0)
 dialogtxt       "So Anise was hiding in"
-dialogtxt       "Slenj Mine after all."
+dialogtxt       "Surange Mine after all."
 dialogtxt       "Let's check inside!"
 goto            @Label_227c
 
 @Cond_222c:
 dialogtxt       "So Anise was hiding in"
-dialogtxt       "Slenj Mine after all."
+dialogtxt       "Surange Mine after all."
 dialogtxt       "Let's check inside!"
 goto            @Label_227c
 
@@ -884,13 +884,13 @@ jumpz           @Cond_2552, ($b003 == 3)
 call            @Func_34b6
 jumpz           @Cond_23e8, ($b002 == 0)
 dialogtxt       "So Anise was hiding in"
-dialogtxt       "Slenj Mine after all."
+dialogtxt       "Surange Mine after all."
 dialogtxt       "Let's check inside!"
 goto            @Label_2438
 
 @Cond_23e8:
 dialogtxt       "So Anise was hiding in"
-dialogtxt       "Slenj Mine after all."
+dialogtxt       "Surange Mine after all."
 dialogtxt       "Let's check inside!"
 goto            @Label_2438
 
@@ -960,13 +960,13 @@ jumpz           @Cond_27c8, ($b003 == 0)
 call            @Func_34b6
 jumpz           @Cond_26c8, ($b002 == 0)
 dialogtxt       "So Anise was hiding in"
-dialogtxt       "Slenj Mine after all."
+dialogtxt       "Surange Mine after all."
 dialogtxt       "Let's check inside!"
 goto            @Label_2718
 
 @Cond_26c8:
 dialogtxt       "So Anise was hiding in"
-dialogtxt       "Slenj Mine after all."
+dialogtxt       "Surange Mine after all."
 dialogtxt       "Let's check inside!"
 goto            @Label_2718
 
@@ -996,13 +996,13 @@ jumpz           @Cond_29ac, ($b003 == 1)
 call            @Func_34b6
 jumpz           @Cond_283e, ($b002 == 0)
 dialogtxt       "So Anise was hiding in"
-dialogtxt       "Slenj Mine after all."
+dialogtxt       "Surange Mine after all."
 dialogtxt       "Let's check inside!"
 goto            @Label_288e
 
 @Cond_283e:
 dialogtxt       "So Anise was hiding in"
-dialogtxt       "Slenj Mine after all."
+dialogtxt       "Surange Mine after all."
 dialogtxt       "Let's check inside!"
 goto            @Label_288e
 
@@ -1046,13 +1046,13 @@ jumpz           @Cond_2b86, ($b003 == 2)
 call            @Func_34b6
 jumpz           @Cond_2a22, ($b002 == 0)
 dialogtxt       "So Anise was hiding in"
-dialogtxt       "Slenj Mine after all."
+dialogtxt       "Surange Mine after all."
 dialogtxt       "Let's check inside!"
 goto            @Label_2a72
 
 @Cond_2a22:
 dialogtxt       "So Anise was hiding in"
-dialogtxt       "Slenj Mine after all."
+dialogtxt       "Surange Mine after all."
 dialogtxt       "Let's check inside!"
 goto            @Label_2a72
 
@@ -1069,12 +1069,12 @@ call            @Func_3576
 code0479        0, 5, 14
 call            @Func_34d4
 jumpz           @Cond_2b1e, ($b002 == 0)
-dialogtxt       "Hey…!"
+dialogtxt       "Hey!"
 dialogtxt       "Don't scare me like that!"
 goto            @Label_2b48
 
 @Cond_2b1e:
-dialogtxt       "Hey…!"
+dialogtxt       "Hey!"
 dialogtxt       "Don't scare me like that!"
 goto            @Label_2b48
 
@@ -1095,13 +1095,13 @@ jumpz           @Cond_2d48, ($b003 == 3)
 call            @Func_34b6
 jumpz           @Cond_2bfc, ($b002 == 0)
 dialogtxt       "So Anise was hiding in"
-dialogtxt       "Slenj Mine after all."
+dialogtxt       "Surange Mine after all."
 dialogtxt       "Let's check inside!"
 goto            @Label_2c4c
 
 @Cond_2bfc:
 dialogtxt       "So Anise was hiding in"
-dialogtxt       "Slenj Mine after all."
+dialogtxt       "Surange Mine after all."
 dialogtxt       "Let's check inside!"
 goto            @Label_2c4c
 

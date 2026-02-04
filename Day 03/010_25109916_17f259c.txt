@@ -209,7 +209,7 @@ code0309
 call            @Func_121c
 code0479        0, 2, 16
 call            @Func_117a
-dialogtxt       "…!"
+dialogtxt       "… !"
 code0309        
 call            @Func_12a0
 call            @Func_11b0

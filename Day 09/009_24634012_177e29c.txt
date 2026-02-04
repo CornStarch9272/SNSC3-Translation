@@ -450,15 +450,15 @@ choicewait
 
 @Choice_126c:
 code047e        0, 1
-dialogtxt       "Let's see…With this"
-dialogtxt       "Legendary Green Bamboo,"
-code0309        
+dialogtxt       "Let's see…"
+code0309
+dialogtxt       "With this \"Legendary Green Bamboo\","
 dialogtxt       "you can imbue a weapon with"
-dialogtxt       "Medium Heal."
-code0309   
-dialogtxt       "And can you believe it?"
+dialogtxt       "\"Medium Heal\"."
+code0309        
+dialogtxt       "But wait, there's more!"
 dialogtxt       "As a special offer, I'm selling it"
-dialogtxt       "for a mere sum of…1500 Boam!"
+dialogtxt       "for merely…1500 Boam!"
 code0309        
 dialogtxt       "How about it?"
 code0309        

@@ -291,7 +291,7 @@ code0479        0, 5, 13
 call            @Func_15ce
 dialogtxt       "What…Oh…"
 jumpz           @Cond_0c5e, ($b002 == 0)
-dialogtxt       "M-Me neither."
+dialogtxt       "M-me neither."
 goto            @Label_0c72
 
 @Cond_0c5e:

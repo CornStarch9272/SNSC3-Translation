@@ -436,7 +436,7 @@ call            @Func_3f22
 jumpz           @Cond_120e, ($b003 == 0)
 call            @Func_3e1e
 dialogtxt       "Murno said she had something"
-dialogtxt       "to do with the Gold Council…"
+dialogtxt       "to do with the Gold Faction…"
 dialogtxt       "Do you know what?"
 code047b        
 code0309        
@@ -462,7 +462,7 @@ goto            @Cond_120e
 jumpz           @Cond_1344, ($b003 == 1)
 call            @Func_3e1e
 dialogtxt       "Murno said she had something"
-dialogtxt       "to do with the Gold Council…"
+dialogtxt       "to do with the Gold Faction…"
 dialogtxt       "Do you know what?"
 code047b        
 code0309        
@@ -488,7 +488,7 @@ goto            @Cond_1344
 jumpz           @Cond_146c, ($b003 == 2)
 call            @Func_3e1e
 dialogtxt       "Murno said she had something"
-dialogtxt       "to do with the Gold Council…"
+dialogtxt       "to do with the Gold Faction…"
 dialogtxt       "Do you know what?"
 code047b        
 code0309        
@@ -514,7 +514,7 @@ goto            @Cond_146c
 jumpz           @Cond_1594, ($b003 == 3)
 call            @Func_3e1e
 dialogtxt       "Murno said she had something"
-dialogtxt       "to do with the Gold Council…"
+dialogtxt       "to do with the Gold Faction…"
 dialogtxt       "Do you know what?"
 code047b        
 code0309        
@@ -845,7 +845,7 @@ call            @Func_3ede
 code0479        0, 7, 12
 call            @Func_3e3c
 dialogtxt       "Ahh…"
-dialogtxt       "How refreshing…!"
+dialogtxt       "How refreshing!"
 code0309        
 call            @Func_3f78
 call            @Func_3e5a
@@ -1249,7 +1249,7 @@ call            @Func_3e72
 code0479        1, 2, 14
 call            @Func_3ea8
 dialogtxt       "Crap…"
-dialogtxt       "I could get addicted to this…!"
+dialogtxt       "I could get addicted to this!"
 code0309        
 call            @Func_3f78
 call            @Func_3ec6
@@ -1353,8 +1353,8 @@ code0309
 call            @Func_3ede
 code0479        0, 0, 12
 call            @Func_3e3c
-dialogtxt       "Elieze is with us,"
-dialogtxt       "remember…?"
+dialogtxt       "Eliez is with us,"
+dialogtxt       "remember?"
 code0309        
 call            @Func_3e72
 code0479        1, 0, 12
@@ -1388,8 +1388,8 @@ code0309
 call            @Func_3ede
 code0479        0, 0, 12
 call            @Func_3e3c
-dialogtxt       "Elieze is with us,"
-dialogtxt       "remember…?"
+dialogtxt       "Eliez is with us,"
+dialogtxt       "remember?"
 code0309        
 call            @Func_3e72
 code0479        1, 0, 12
@@ -1424,8 +1424,8 @@ code0309
 call            @Func_3ede
 code0479        0, 0, 12
 call            @Func_3e3c
-dialogtxt       "Elieze is with us,"
-dialogtxt       "remember…?"
+dialogtxt       "Eliez is with us,"
+dialogtxt       "remember?"
 code0309        
 call            @Func_3e72
 code0479        1, 0, 12
@@ -1458,7 +1458,7 @@ code0309
 call            @Func_3ede
 code0479        0, 0, 12
 call            @Func_3e3c
-dialogtxt       "Elieze is with us,"
+dialogtxt       "Eliez is with us,"
 dialogtxt       "remember…?"
 code0309        
 call            @Func_3e72
@@ -1715,7 +1715,7 @@ code0309
 call            @Func_3e72
 code0479        1, 4, 14
 call            @Func_3ea8
-dialogtxt       "…Do whatever you want."
+dialogtxt       "Do whatever you want…"
 code0309        
 call            @Func_3f78
 call            @Func_3ec6

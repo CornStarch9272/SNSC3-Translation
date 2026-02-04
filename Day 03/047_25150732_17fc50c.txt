@@ -259,13 +259,14 @@ code047d        1, 0
 call            @Func_4412
 call            @Func_43ae
 dialogtxt       "Again!?"
-dialogtxt       "Do you really have to"
 jumpz           @Cond_09b6, ($b002 == 0)
+dialogtxt       "Do you really have to"
 dialogtxt       "bring it up now!?"
 goto            @Label_09d8
 
 @Cond_09b6:
-dialogtxt       "bring this up again…!?"
+dialogtxt       "You're still going on"
+dialogtxt       "about that!?"
 goto            @Label_09d8
 
 @Label_09d8:
@@ -490,9 +491,9 @@ code047d        1, 108
 call            @Func_4428
 code043c        5, 4
 call            @Func_4390
-dialogtxt       "Wait a second…If the kid's"
+dialogtxt       "Wait a second… If the kid's"
 jumpz           @Cond_1462, ($b002 == 0)
-dialogtxt       "gonna be your fiance, then…"
+dialogtxt       "gonna be your fiancee, then…"
 goto            @Label_148a
 
 @Cond_1462:
@@ -615,7 +616,7 @@ code0309
 call            @Func_4378
 code0479        1, 11, 12
 call            @Func_43ae
-dialogtxt       "Jea…!?"
+dialogtxt       "Jea— !?"
 code0309        
 call            @Func_43e4
 jumpz           @Cond_235e, ($b002 == 0)
@@ -735,7 +736,7 @@ code0309
 call            @Func_4378
 code0479        1, 2, 15
 call            @Func_43ae
-dialogtxt       "No, I…!"
+dialogtxt       "No, I— !"
 code0309        
 call            @Func_447e
 call            @Func_43cc
@@ -1086,7 +1087,7 @@ call            @Func_4378
 code0479        1, 5, 15
 call            @Func_43ae
 dialogtxt       "Ohhh…"
-dialogtxt       "That's a fire quote, alright!…!"
+dialogtxt       "That's a fire quote, alright!"
 code0309        
 call            @Func_43e4
 code0479        0, 2, 13

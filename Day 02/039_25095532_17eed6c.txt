@@ -177,7 +177,7 @@ code0309
 call            @Func_110a
 code0479        1, 8, 16
 call            @Func_1140
-dialogtxt       "N-No, that's not…!"
+dialogtxt       "N-No, that's not … !"
 dialogtxt       "This is different…"
 code0309        
 call            @Func_1176

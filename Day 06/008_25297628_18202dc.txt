@@ -57,7 +57,7 @@ code0309
 goto            @Label_02d6
 
 @Cond_02c0:
-dialogtxt       "First question."
+dialogtxt       "And now, the question."
 code0309        
 goto            @Label_02d6
 

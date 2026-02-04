@@ -50,7 +50,7 @@ dialogtxt       "All because of Jade…"
 code0309        
 code0479        1, 2, 16
 dialogtxt       "He said they wouldn't go"
-dialogtxt       "to Slenj Mine…"
+dialogtxt       "to Surange Mine…"
 code0309        
 call            @Func_1036
 code0479        0, 4, 13

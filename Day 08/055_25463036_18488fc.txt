@@ -247,12 +247,12 @@ code0479        0, 2, 14
 call            @Func_318c
 jumpz           @Cond_0b34, ($b002 == 0)
 dialogtxt       "Shut up…"
-dialogtxt       "Of course I'm not…!"
+dialogtxt       "Of course I'm not!"
 goto            @Label_0b64
 
 @Cond_0b34:
 dialogtxt       "Shut up…"
-dialogtxt       "Of course I'm not…!"
+dialogtxt       "Of course I'm not!"
 goto            @Label_0b64
 
 @Label_0b64:
@@ -355,13 +355,13 @@ call            @Func_316e
 jumpz           @Cond_0fe2, ($b002 == 0)
 dialogtxt       "…"
 dialogtxt       "[NAME 1]…"
-dialogtxt       "Where…?"
+dialogtxt       "Where…？"
 goto            @Label_1002
 
 @Cond_0fe2:
 dialogtxt       "…"
 dialogtxt       "[NAME 1]…"
-dialogtxt       "Where…?"
+dialogtxt       "Where…？"
 goto            @Label_1002
 
 @Label_1002:
@@ -390,12 +390,12 @@ code0479        0, 2, 16
 call            @Func_318c
 jumpz           @Cond_115a, ($b002 == 0)
 dialogtxt       "Damn…you…"
-dialogtxt       "Unforgivable…!"
+dialogtxt       "Unforgivable!"
 goto            @Label_1184
 
 @Cond_115a:
 dialogtxt       "Damn…you…"
-dialogtxt       "Unforgivable…!"
+dialogtxt       "Unforgivable!"
 goto            @Label_1184
 
 @Label_1184:
@@ -621,7 +621,7 @@ code0331        37, 256
 code0479        0, 5, 16
 call            @Func_3246
 call            @Func_316e
-dialogtxt       "Mur…der…!?"
+dialogtxt       "Mur…derer!?"
 code047b        
 code0309        
 call            @Func_31c2
@@ -649,7 +649,7 @@ call            @Func_31c2
 code0479        1, 4, 13
 call            @Func_325c
 call            @Func_31f8
-dialogtxt       "Hah…! What's with that face?"
+dialogtxt       "Hah! … What's with that face?"
 dialogtxt       "You want to say that's unbelievable?"
 dialogtxt       "That your Master isn't like that?"
 code047b        
@@ -675,7 +675,7 @@ code0479        0, 5, 14
 code0479        1, 3, 14
 call            @Func_3272
 call            @Func_316e
-dialogtxt       "…!"
+dialogtxt       "… !"
 code0309        
 call            @Func_31c2
 code0479        1, 3, 15
@@ -729,7 +729,7 @@ code0479        0, 5, 14
 code047d        0, 0
 call            @Func_3246
 call            @Func_318c
-dialogtxt       "…!"
+dialogtxt       "… !"
 code047b        
 code0309        
 call            @Func_329c
@@ -818,7 +818,7 @@ code0309
 call            @Func_322e
 code0479        0, 5, 16
 call            @Func_318c
-dialogtxt       "Because of Summons…!?"
+dialogtxt       "Because of Summons!?"
 code0309        
 code031a        5
 code031b        5, -1, -1, 0, 4

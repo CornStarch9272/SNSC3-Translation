@@ -273,7 +273,7 @@ code0479        0, 2, 15
 code047d        0, 134
 call            @Func_3ba8
 call            @Func_3aee
-dialogtxt       "You're all being deceived…!"
+dialogtxt       "You're all being deceived!"
 code047b        
 code0309        
 call            @Func_3b24
@@ -436,7 +436,7 @@ code0309
 call            @Func_3b90
 code0479        0, 3, 16
 call            @Func_3aee
-dialogtxt       "Tram…!"
+dialogtxt       "Tram!"
 code0309        
 call            @Func_3b24
 code0479        1, 0, 14
@@ -548,9 +548,9 @@ code047d        0, 107
 code0479        1, 5, 16
 call            @Func_3bd4
 call            @Func_3ad0
-dialogtxt       "Anise…!"
+dialogtxt       "Anise!"
 dialogtxt       "Do you know how much [NAME 2]"
-dialogtxt       "has suffered because of you…!"
+dialogtxt       "has suffered because of you!?"
 code047b        
 code0309        
 call            @Func_3b24
@@ -1025,7 +1025,7 @@ call            @Func_3ba8
 call            @Func_3ad0
 dialogtxt       "Please wait!"
 dialogtxt       "The Room of Judgment is"
-dialogtxt       "inside the ruins…!"
+dialogtxt       "inside the ruins!"
 code047b        
 code0309        
 call            @Func_3bfe

@@ -34,7 +34,7 @@ code040d        15
 code0479        0, 5, 16
 call            @Func_0a1a
 call            @Func_0942
-dialogtxt       "[NAME 1]…!?"
+dialogtxt       "[NAME 1]!?"
 dialogtxt       "Murno!?"
 code047b        
 code0309        
@@ -49,7 +49,7 @@ call            @Func_0a1a
 call            @Func_0942
 dialogtxt       "Huh?"
 dialogtxt       "My weapon's gone?"
-dialogtxt       "What about…!?"
+dialogtxt       "What about … !?"
 code047b        
 code0309        
 code0479        0, 2, 15
@@ -72,7 +72,7 @@ code040d        15
 code0479        0, 5, 16
 call            @Func_0a1a
 call            @Func_0942
-dialogtxt       "[NAME 1]…!?"
+dialogtxt       "[NAME 1]!?"
 dialogtxt       "Murno!?"
 code047b        
 code0309        
@@ -87,7 +87,7 @@ call            @Func_0a1a
 call            @Func_0942
 dialogtxt       "Huh?"
 dialogtxt       "My weapon's gone?"
-dialogtxt       "What about…!?"
+dialogtxt       "What about … !?"
 code047b        
 code0309        
 code0479        0, 2, 15

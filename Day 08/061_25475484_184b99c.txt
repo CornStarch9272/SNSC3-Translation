@@ -145,8 +145,8 @@ code047b
 code047d        0, 106
 code0301        8, 1
 code047e        0, 1
-dialogtxt       "[NAME 2]…!"
-dialogtxt       "[NAME 1]…!"
+dialogtxt       "[NAME 2]!"
+dialogtxt       "[NAME 1]!"
 code0309        
 code047e        0, 0
 code0302        1
@@ -299,7 +299,7 @@ code0479        0, 5, 12
 code047d        0, 110
 call            @Func_2486
 call            @Func_23cc
-dialogtxt       "Even Zakk…!?"
+dialogtxt       "Even Zakk!?"
 code047b        
 code0309        
 call            @Func_2508
@@ -608,7 +608,7 @@ dialogtxt       "It's fine, Jade."
 dialogtxt       "Don't mind my mother."
 code0309        
 code0479        0, 2, 12
-dialogtxt       "Let's hurry to the Gold Council."
+dialogtxt       "Let's hurry to the Gold Faction."
 code0309        
 call            @Func_2508
 call            @Func_23ea
@@ -626,12 +626,12 @@ call            @Func_24b2
 call            @Func_241a
 jumpz           @Cond_1d3a, ($b002 == 0)
 dialogtxt       "Hey, wait!"
-dialogtxt       "M-mother…!?"
+dialogtxt       "M-mother!?"
 goto            @Label_1d6a
 
 @Cond_1d3a:
 dialogtxt       "Hey, wait!"
-dialogtxt       "M-mother…!?"
+dialogtxt       "M-mother!?"
 goto            @Label_1d6a
 
 @Label_1d6a:

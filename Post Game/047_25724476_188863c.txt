@@ -53,10 +53,8 @@ dialogtxt       "I wanted to see you too…"
 code047b        
 code0309        
 code0479        1, 0, 13
-dialogtxt       "It'll be some time until"
-dialogtxt       "we can restore the village"
-dialogtxt       "to its former beauty,"
-code0309        
+dialogtxt       "It'll be some time until we can"
+dialogtxt       "restore the village,"
 dialogtxt       "but I'll continue to work hard."
 code0309        
 call            @Func_0dd8

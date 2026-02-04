@@ -601,7 +601,6 @@ dialogtxt       "Couldn't he tell it was broken!?"
 dialogtxt       "Jeez..."
 goto            @Label_1abc
 
-
 @Label_1abc:
 code0309        
 call            @Func_217c

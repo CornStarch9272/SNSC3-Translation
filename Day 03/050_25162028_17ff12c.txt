@@ -177,7 +177,7 @@ code0309
 call            @Func_26c0
 code0479        0, 8, 15
 call            @Func_261e
-dialogtxt       "Wha…!"
+dialogtxt       "Wha— !"
 dialogtxt       "What are you saying!"
 code0309        
 call            @Func_2654
@@ -205,7 +205,7 @@ code0309
 call            @Func_26c0
 code0479        0, 5, 15
 call            @Func_261e
-dialogtxt       "No…!"
+dialogtxt       "No!"
 dialogtxt       "No I didn't!"
 code0309        
 call            @Func_2654
@@ -317,7 +317,7 @@ code0309
 call            @Func_26c0
 code0479        0, 8, 15
 call            @Func_261e
-dialogtxt       "Wha…!"
+dialogtxt       "Wha— !"
 dialogtxt       "What are you saying!"
 code0309        
 call            @Func_2654
@@ -345,7 +345,7 @@ code0309
 call            @Func_26c0
 code0479        0, 5, 15
 call            @Func_261e
-dialogtxt       "No…!"
+dialogtxt       "No!"
 dialogtxt       "No I didn't!"
 code0309        
 call            @Func_2654
@@ -457,7 +457,7 @@ code0309
 call            @Func_26c0
 code0479        0, 8, 15
 call            @Func_261e
-dialogtxt       "Wha…!"
+dialogtxt       "Wha— !"
 dialogtxt       "What are you saying!"
 code0309        
 call            @Func_2654
@@ -485,7 +485,7 @@ code0309
 call            @Func_26c0
 code0479        0, 5, 15
 call            @Func_261e
-dialogtxt       "No…!"
+dialogtxt       "No!"
 dialogtxt       "No I didn't!"
 code0309        
 call            @Func_2654
@@ -608,7 +608,7 @@ code0309
 call            @Func_26c0
 code0479        0, 8, 15
 call            @Func_261e
-dialogtxt       "Wha…!"
+dialogtxt       "Wha— !"
 dialogtxt       "What are you saying!"
 code0309        
 call            @Func_2654
@@ -637,7 +637,7 @@ code0309
 call            @Func_26c0
 code0479        0, 5, 15
 call            @Func_261e
-dialogtxt       "No…!"
+dialogtxt       "No!"
 dialogtxt       "No I didn't!"
 code0309        
 call            @Func_2654

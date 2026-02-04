@@ -77,7 +77,7 @@ code0309
 call            @Func_0eae
 code0479        0, 2, 14
 call            @Func_0e0c
-dialogtxt       "Idont really get it,"
+dialogtxt       "I dont really get it,"
 jumpz           @Cond_032e, ($b002 == 0)
 dialogtxt       "but you're okay, right…?"
 goto            @Label_0346

@@ -484,8 +484,8 @@ code0301        8, 7
 code047d        0, 149
 code047e        0, 1
 dialogtxt       "My mom and I are peddlers!"
-dialogtxt       "Currently we're acquainting with so"
-dialogtxt       "many Craftknights and artisans!"
+dialogtxt       "Currently we're getting to know"
+dialogtxt       "lots of Craftknights and artisans!"
 code0309        
 dialogtxt       "We plan on opening a shop."
 dialogtxt       "That's why I have to work hard"
@@ -502,10 +502,8 @@ choicewait
 
 @Choice_13f2:
 code047e        0, 1
-dialogtxt       "Let's see…"
-dialogtxt       "Using a Legendary Iron Skewer"
-dialogtxt       "to enhance your weapon will"
-code0309
+dialogtxt       "Let's see…Using a \"Legendary Iron"
+dialogtxt       "Skewer\" to enhance your weapon will"
 dialogtxt       "give it the \"Piercing\" effect."
 code0309        
 dialogtxt       "Anyway, I have this special"

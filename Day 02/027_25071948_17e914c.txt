@@ -109,7 +109,7 @@ goto            @Cond_046a
 @Cond_046a:
 jumpz           @Cond_04c0, ($b003 == 2)
 dialogtxt       "It feels like we're being watched."
-dialogtxt       "Tch…!"
+dialogtxt       "… Tsk!"
 dialogtxt       "It's pissing me off…"
 goto            @Cond_04c0
 

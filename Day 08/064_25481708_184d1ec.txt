@@ -48,7 +48,7 @@ dialogtxt       "Um…, thank you."
 code047b        
 code0309        
 code0479        1, 4, 13
-dialogtxt       "Thanks to you, [NAME 2]"
+dialogtxt       "Thanks to you, [NAME 2],"
 dialogtxt       "the townspeople can believe me…"
 code0309        
 call            @Func_0eee
@@ -122,7 +122,7 @@ dialogtxt       "I have business with them…"
 dialogtxt       "This time, for sure…"
 code0309        
 code0479        0, 2, 14
-dialogtxt       "We'll catch them…!"
+dialogtxt       "We'll catch them!"
 goto            @Label_0784
 
 @Cond_06b2:
@@ -136,7 +136,7 @@ dialogtxt       "I have business with them…"
 dialogtxt       "This time, for sure…"
 code0309        
 code0479        0, 2, 14
-dialogtxt       "We'll catch them…!"
+dialogtxt       "We'll catch them!"
 goto            @Label_0784
 
 @Label_0784:

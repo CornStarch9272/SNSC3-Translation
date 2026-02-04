@@ -40,7 +40,7 @@ code043c        1, 4
 code047d        0, 118
 code0301        8, 7
 code047e        0, 1
-dialogtxt       "Oh, Elieze!"
+dialogtxt       "Oh, Eliez!"
 dialogtxt       "Going gathering today?"
 dialogtxt       "Lute Cave should be fine but…"
 code0309        

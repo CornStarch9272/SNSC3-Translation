@@ -490,7 +490,6 @@ dialogtxt       "It's sweet, but also bitter."
 dialogtxt       "I like how the juice is syrupy."
 goto            @Label_1566
 
-
 @Label_1566:
 code0309        
 call            @Func_4c80
@@ -799,7 +798,6 @@ dialogtxt       "Got it!"
 dialogtxt       "We're splitting up then!"
 dialogtxt       "Leave it to me!"
 goto            @Label_2450
-
 
 @Label_2450:
 code0309        
@@ -1238,7 +1236,6 @@ dialogtxt       "Okay."
 dialogtxt       "Let's do it, γ!"
 goto            @Label_37f6
 
-
 @Label_37f6:
 code0309        
 call            @Func_4d86
@@ -1647,7 +1644,6 @@ code0479        0, 4, 12
 call            @Func_4c4a
 dialogtxt       "Seriously, this isn't the time..."
 goto            @Label_4b54
-
 
 @Label_4b54:
 code0309        

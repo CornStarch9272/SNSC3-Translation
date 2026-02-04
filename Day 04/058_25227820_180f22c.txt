@@ -246,8 +246,8 @@ code0309
 call            @Func_2f0c
 code0479        0, 5, 17
 call            @Func_2e6a
-dialogtxt       "Wha…!"
-dialogtxt       "Why…!?"
+dialogtxt       "Wha— !"
+dialogtxt       "Why!?"
 code0309        
 call            @Func_2ea0
 code0479        1, 0, 12
@@ -449,8 +449,8 @@ code0309
 call            @Func_2f0c
 code0479        0, 5, 17
 call            @Func_2e6a
-dialogtxt       "Wha…!"
-dialogtxt       "Why…!?"
+dialogtxt       "Wha— !"
+dialogtxt       "Why!?"
 code0309        
 call            @Func_2ea0
 code0479        1, 4, 12
@@ -481,7 +481,7 @@ code0479        1, 2, 15
 call            @Func_2ed6
 dialogtxt       "Promise or not,"
 dialogtxt       "I will do whatever it"
-dialogtxt       "takes to keep her safe…!"
+dialogtxt       "takes to keep her safe!"
 code0309        
 call            @Func_2f0c
 code0479        0, 4, 14
@@ -628,8 +628,8 @@ code0309
 call            @Func_2f0c
 code0479        0, 5, 17
 call            @Func_2e6a
-dialogtxt       "Wha…!"
-dialogtxt       "Why…!?"
+dialogtxt       "Wha— !"
+dialogtxt       "Why!?"
 code0309        
 call            @Func_2ea0
 code0479        1, 3, 12
@@ -814,8 +814,8 @@ code0309
 call            @Func_2f0c
 code0479        0, 5, 17
 call            @Func_2e6a
-dialogtxt       "Wha…!"
-dialogtxt       "Why…!?"
+dialogtxt       "Wha— !"
+dialogtxt       "Why!?"
 code0309        
 call            @Func_2ea0
 code0479        1, 0, 16

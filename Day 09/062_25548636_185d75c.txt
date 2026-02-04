@@ -100,7 +100,7 @@ dialogtxt       "the Strays are out of control,"
 code0309        
 dialogtxt       "And the village will be dangerous."
 dialogtxt       "Isn't that what the"
-dialogtxt       "Gold Council said?"
+dialogtxt       "Gold Faction said?"
 goto            @Label_0618
 
 @Cond_0580:
@@ -110,7 +110,7 @@ dialogtxt       "the Strays are out of control,"
 code0309        
 dialogtxt       "And the village will be dangerous."
 dialogtxt       "Isn't that what the"
-dialogtxt       "Gold Council said?"
+dialogtxt       "Gold Faction said?"
 goto            @Label_0618
 
 @Label_0618:
@@ -172,7 +172,7 @@ code0309
 call            @Func_14a6
 code0479        1, 5, 14
 call            @Func_14dc
-dialogtxt       "…!?"
+dialogtxt       "… !?"
 code0309        
 call            @Func_1512
 code0479        0, 2, 16

@@ -208,12 +208,12 @@ code0479        1, 2, 16
 call            @Func_126c
 jumpz           @Cond_087e, ($b002 == 0)
 dialogtxt       "All we can do"
-dialogtxt       "is take them out…!"
+dialogtxt       "is take them out!"
 goto            @Label_08a6
 
 @Cond_087e:
 dialogtxt       "All we can do"
-dialogtxt       "is take them out…!"
+dialogtxt       "is take them out!"
 goto            @Label_08a6
 
 @Label_08a6:

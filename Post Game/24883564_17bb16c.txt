@@ -1333,7 +1333,7 @@ call            @Func_4518
 code0479        0, 0, 14
 call            @Func_4476
 dialogtxt       "Like, you know, you're always so"
-dialogtxt       "grouchy? And rude? Anyway…you<"
+dialogtxt       "grouchy? And rude? Anyway…you"
 dialogtxt       "always act so mean all the time!"
 code0309        
 call            @Func_44ac

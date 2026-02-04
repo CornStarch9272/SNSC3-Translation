@@ -530,15 +530,15 @@ choicewait
 @Choice_1658:
 code047e        0, 1
 dialogtxt       "Okay so, if you add an"
-dialogtxt       "Electric Battery to a weapon,"
-dialogtxt       "it'll gain the move Thunder Shot."
+dialogtxt       "\"Electric Battery\" to a weapon,"
+dialogtxt       "it'll gain the move 'Thunder Shot'."
 code0309        
 dialogtxt       "Oh, but, depending on the weapon,"
 dialogtxt       "there are cases where the move won't"
 dialogtxt       "be added, so be careful."
 code0309        
 dialogtxt       "And so, this time only,"
-dialogtxt       "I'll sell you an Electric Battery"
+dialogtxt       "I'll sell you an \"Electric Battery\""
 dialogtxt       "for a mere 200 boam!"
 code0309        
 dialogtxt       "Will you buy it?"

@@ -97,14 +97,14 @@ call            @Func_1c96
 jumpz           @Cond_0400, ($b003 == 0)
 dialogtxt       "You Don't Know!?"
 dialogtxt       "What Does That Mean?"
-dialogtxt       "Wasn't She With You…!?"
+dialogtxt       "Wasn't She With You!?"
 goto            @Cond_0400
 
 @Cond_0400:
 jumpz           @Cond_0460, ($b003 == 1)
 dialogtxt       "You don't know!?"
-dialogtxt       "What is the meaning of this!"
-dialogtxt       "Wasn't she with you…!?"
+dialogtxt       "What is the meaning of this!?"
+dialogtxt       "Wasn't she with you!?"
 goto            @Cond_0460
 
 @Cond_0460:
@@ -150,7 +150,7 @@ code0309
 code0479        0, 4, 16
 dialogtxt       "I knew it was dangerous,"
 dialogtxt       "but Murno insisted…"
-dialogtxt       "I wanted to help so…!"
+dialogtxt       "I wanted to help! So…"
 code047b        
 code0309        
 call            @Func_1d50
@@ -192,7 +192,7 @@ dialogtxt       "Yes…"
 dialogtxt       "I tried to run but…"
 code0309        
 code0479        0, 1, 17
-dialogtxt       "Ow…!"
+dialogtxt       "Ow!"
 code0309        
 call            @Func_1d66
 call            @Func_1c48
@@ -220,7 +220,7 @@ dialogtxt       "Are you hurt…!?"
 goto            @Label_099e
 
 @Cond_0980:
-dialogtxt       "Are you hurt…!?"
+dialogtxt       "Are you hurt!?"
 goto            @Label_099e
 
 @Label_099e:
@@ -247,7 +247,7 @@ dialogtxt       "Damn!"
 goto            @Label_0af8
 
 @Cond_0ac8:
-dialogtxt       "They hurt Tier…!"
+dialogtxt       "They hurt Tier!"
 dialogtxt       "Unforgivable!"
 goto            @Label_0af8
 
@@ -273,7 +273,7 @@ dialogtxt       "might be dangrous…"
 code047b        
 code0309        
 code0479        1, 2, 12
-dialogtxt       "… So, Vee!"
+dialogtxt       "… So, V.E!"
 dialogtxt       "Go back to town with Tier."
 code0309        
 call            @Func_1ccc
@@ -351,7 +351,7 @@ code0479        1, 2, 13
 call            @Func_1c96
 dialogtxt       "Gotcha."
 dialogtxt       "I'll watch over [NAME 2]"
-dialogtxt       "and the [NAME 1] for ya."
+dialogtxt       "and the [NAME 1] for you."
 code0309        
 call            @Func_1ccc
 code0479        0, 2, 12

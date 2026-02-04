@@ -48,11 +48,11 @@ call            @Func_1066
 code0479        0, 2, 15
 call            @Func_0fc4
 jumpz           @Cond_0268, ($b002 == 0)
-dialogtxt       "What was that!? You…!"
+dialogtxt       "What was that!? You!"
 goto            @Label_0278
 
 @Cond_0268:
-dialogtxt       "What was that!? You…!"
+dialogtxt       "What was that!? You!"
 goto            @Label_0278
 
 @Label_0278:

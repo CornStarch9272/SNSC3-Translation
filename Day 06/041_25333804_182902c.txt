@@ -25,8 +25,8 @@ goto            @Label_0110
 
 @Label_0110:
 code0309        
-choicetxt       @Choice_094c, "Believe Murno"
-choicetxt       @Choice_013a, "Believe [NAME 1]"
+choicetxt       @Choice_094c, "Believe Murno!"
+choicetxt       @Choice_013a, "Believe [NAME 1]!"
 choicewait      
 
 @Choice_013a:
@@ -165,12 +165,12 @@ call            @Func_27f4
 call            @Func_26f0
 jumpz           @Cond_0680, ($b002 == 0)
 dialogtxt       "You're…!?"
-dialogtxt       "Wha… What's going on…!"
+dialogtxt       "Wha—What's going on…!"
 goto            @Label_06b6
 
 @Cond_0680:
 dialogtxt       "You're…!?"
-dialogtxt       "Wha… What's going on…!"
+dialogtxt       "Wha—What's going on!?"
 goto            @Label_06b6
 
 @Label_06b6:

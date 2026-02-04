@@ -471,7 +471,7 @@ dialogtxt       "Walking the Summon Beasts"
 dialogtxt       "is so much work~"
 code0309        
 dialogtxt       "Of course when there's this"
-dialogtxt       "many it'd be a problem."
+dialogtxt       "many, it'd be a problem."
 dialogtxt       "I shouldn't have taken that bet."
 code0309        
 code047e        0, 0
@@ -495,16 +495,16 @@ code040b
 
 @Event_140e:
 code0301        8, 7
-dialogtxt       "The Gold Council looks forward"
-dialogtxt       "to finding a resolution"
-dialogtxt       "to the rampaging Strays."
+dialogtxt       "The Gold Faction looks forward"
+dialogtxt       "to finding a solution"
+dialogtxt       "for the rampaging Strays."
 code0309        
 code0302        7
 code040b        
 
 @Event_1478:
 code0301        8, 7
-dialogtxt       "Care to try our Lucky Draw?"
+dialogtxt       "Care to try our \"Lucky Draw\"?"
 dialogtxt       "It's available all day, everyday!"
 dialogtxt       "Guaranteed no losing tickets!"
 code0309        

@@ -403,7 +403,7 @@ call            @Func_450e
 call            @Func_4436
 dialogtxt       "So um, in short…"
 dialogtxt       "You're just going to ignore the"
-dialogtxt       "\"My [NAME 2]\" line."
+dialogtxt       "My [NAME 2] line."
 code047b        
 code0309        
 call            @Func_4564
@@ -576,7 +576,7 @@ call            @Func_450e
 call            @Func_4454
 dialogtxt       "Uu…"
 dialogtxt       "Even so, forcing me to guide you…"
-dialogtxt       "I just can't handle Vee…"
+dialogtxt       "I just can't handle V.E…"
 code047b        
 code0309        
 call            @Func_457a
@@ -605,7 +605,7 @@ call            @Func_453a
 call            @Func_4436
 dialogtxt       "And I'm here too!"
 dialogtxt       "Really, everything you do"
-dialogtxt       "make me worry."
+dialogtxt       "makes me worry."
 code047b        
 code0309        
 call            @Func_448a
@@ -1181,7 +1181,7 @@ code043c        7, 4
 code0479        0, 2, 16
 call            @Func_4454
 dialogtxt       "Well, you can just stay here."
-dialogtxt       "With Vee and Jade…"
+dialogtxt       "With V.E and Jade…"
 code0309        
 call            @Func_448a
 code0479        1, 4, 16

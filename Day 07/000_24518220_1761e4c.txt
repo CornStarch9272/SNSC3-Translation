@@ -109,7 +109,7 @@ code0368
 code043d        0, 200, 192
 code043c        0, 1
 call            @Func_04b8
-popuptxt        "You feel refreshed!<end_line>"
+popuptxt        "You feel refreshed!"
 code0318        
 code040b        
 

@@ -676,7 +676,7 @@ code0309
 code0479        1, 2, 15
 dialogtxt       "I will not forgive telling"
 dialogtxt       "such a cruel lie about Lady Murno!"
-dialogtxt       "This wil not stand!"
+dialogtxt       "This will not stand!"
 goto            @Cond_20b2
 
 @Cond_20b2:

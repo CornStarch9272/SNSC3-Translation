@@ -7,7 +7,7 @@ code0479        0, 4, 14
 code047d        0, 110
 call            @Func_140c
 call            @Func_1334
-dialogtxt       "Damn it…!"
+dialogtxt       "Damn it!"
 dialogtxt       "Why…!?"
 code047b        
 code0309        
@@ -19,8 +19,8 @@ call            @Func_1422
 code0479        1, 4, 14
 call            @Func_13be
 dialogtxt       "After fighting [NAME 2],"
-dialogtxt       "you should know better than anyone."
-dialogtxt       "That they wouldn't lie."
+dialogtxt       "you should know better than anyone"
+dialogtxt       "that they wouldn't lie."
 code047b        
 code0309        
 call            @Func_13f4
@@ -53,7 +53,7 @@ code0479        0, 5, 16
 code047d        0, 110
 call            @Func_140c
 call            @Func_1334
-dialogtxt       "That's right…!"
+dialogtxt       "That's right!"
 dialogtxt       "He must be being deceived!"
 code047b        
 code0309        
@@ -66,7 +66,7 @@ code043d        6, $h128, $h129
 code043c        6, 1
 code043e        6, 3, 0
 code0479        0, 2, 14
-dialogtxt       "I have to tell him…!"
+dialogtxt       "I have to tell him!"
 code0309        
 call            @Func_1462
 call            @Func_1370
@@ -76,7 +76,7 @@ code0479        0, 5, 16
 code047d        0, 0
 call            @Func_140c
 call            @Func_1334
-dialogtxt       "Wait!"
+dialogtxt       "Wait"
 jumpz           @Cond_03d2, ($b002 == 0)
 dialogtxt       "What are you…!"
 goto            @Label_03ea
@@ -180,7 +180,7 @@ goto            @Cond_0826
 
 @Cond_0826:
 jumpz           @Cond_085c, ($b003 == 2)
-dialogtxt       "Tch…!"
+dialogtxt       "… Tsk!"
 dialogtxt       "You'd like that, wouldn't you?"
 goto            @Cond_085c
 

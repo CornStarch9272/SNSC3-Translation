@@ -117,12 +117,12 @@ code047d        0, 0
 call            @Func_1ffa
 call            @Func_1ef6
 jumpz           @Cond_058c, ($b002 == 0)
-dialogtxt       "Elieze!?"
+dialogtxt       "Eliez!?"
 dialogtxt       "What's going on!?"
 goto            @Label_05b0
 
 @Cond_058c:
-dialogtxt       "Elieze!?"
+dialogtxt       "Eliez!?"
 dialogtxt       "What's going on!?"
 goto            @Label_05b0
 
@@ -228,15 +228,15 @@ code047d        0, 0
 call            @Func_1fce
 call            @Func_1f14
 dialogtxt       "But Benson was at the workshop,"
-dialogtxt       "it should have been safe…!"
+dialogtxt       "it should have been safe!"
 code047b        
 code0309        
 call            @Func_1f4a
 code0479        1, 2, 16
 call            @Func_1f80
-dialogtxt       "About that, somehow they had"
+dialogtxt       "About that, somehow they took"
 dialogtxt       "Murno's father hostage,"
-dialogtxt       "and no one was able to to anything…"
+dialogtxt       "and no one could do anything…"
 code0309        
 call            @Func_1fb6
 code0479        0, 5, 15
@@ -254,7 +254,7 @@ call            @Func_1fe4
 call            @Func_1f80
 dialogtxt       "And then,"
 dialogtxt       "Master was…"
-dialogtxt       "Master was…!"
+dialogtxt       "Master was— !"
 code047b        
 code0309        
 call            @Func_2024
@@ -272,7 +272,7 @@ code0309
 call            @Func_1f4a
 code0479        1, 4, 15
 call            @Func_1f80
-dialogtxt       "I didn't know what I…!"
+dialogtxt       "I didn't know what I…"
 code0309        
 call            @Func_2050
 call            @Func_1f9e

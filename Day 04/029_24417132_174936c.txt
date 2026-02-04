@@ -197,7 +197,7 @@ code040b
 
 @Event_07e8:
 code0301        8, 7
-dialogtxt       "　＜A Request From Elieze＞"
+dialogtxt       "＜This is a reminder from Eliez＞"
 dialogtxt       "Please make sure to put the tools"
 dialogtxt       "back where you found them!"
 code0309        

@@ -85,7 +85,7 @@ call            @Func_0d7e
 code0479        1, 4, 13
 call            @Func_0db4
 dialogtxt       "I see…"
-dialogtxt       "No good, huh…"
+dialogtxt       "No good, huh?"
 code0309        
 call            @Func_0dea
 code0479        0, 4, 14

@@ -47,7 +47,7 @@ code0309
 call            @Func_1878
 code0479        0, 2, 15
 call            @Func_17d6
-dialogtxt       "Huh? When did you…!?"
+dialogtxt       "Huh? When did you!?"
 code0309        
 call            @Func_18e6
 call            @Func_180c
@@ -176,8 +176,8 @@ code033b        396, 0, 0, 0, 1, 0
 code0479        1, 3, 12
 call            @Func_18a6
 call            @Func_1824
-dialogtxt       "(Almost got 'em!"
-dialogtxt       "　This time…!)"
+dialogtxt       "(Almost got 'em"
+dialogtxt       "　this time!)"
 code047b        
 code0309        
 call            @Func_1878
@@ -211,8 +211,8 @@ dialogtxt       "Ohohohoho…"
 code0309        
 code033e        396
 code0479        1, 2, 14
-dialogtxt       "Tch…!"
-dialogtxt       "She's sharp…!"
+dialogtxt       "Tch!"
+dialogtxt       "She's sharp!"
 code0309        
 code0479        1, 0, 12
 dialogtxt       "How about…"
@@ -228,7 +228,7 @@ call            @Func_1842
 dialogbig       84, 116, 1, 0, 0, "Half!?"
 code030c        
 code0479        1, 2, 16
-dialogtxt       "Tch…!"
+dialogtxt       "Tch!"
 dialogtxt       "Cheapskate…"
 code0309        
 code0479        1, 2, 12
@@ -267,7 +267,7 @@ dialogtxt       "Thank you!"
 code047b        
 code0309        
 code0479        1, 2, 16
-dialogtxt       "Tch…!"
+dialogtxt       "Tch!"
 dialogtxt       "Not much profit from the second…"
 code0309        
 call            @Func_1878
@@ -375,7 +375,7 @@ dialogtxt       "Thank you!"
 code047b        
 code0309        
 code0479        1, 2, 14
-dialogtxt       "Tch…!"
+dialogtxt       "Tch!"
 dialogtxt       "Not much profit from the second…"
 code0309        
 call            @Func_1878

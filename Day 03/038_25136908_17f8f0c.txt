@@ -410,7 +410,7 @@ code047d        0, 0
 call            @Func_305c
 call            @Func_2fa2
 jumpz           @Cond_12dc, ($b002 == 0)
-dialogtxt       "Tch…!"
+dialogtxt       "Tch!"
 dialogtxt       "Of course it's all"
 dialogtxt       "about the money!"
 code047b        
@@ -424,7 +424,7 @@ dialogtxt       "That's low!"
 goto            @Label_1366
 
 @Cond_12dc:
-dialogtxt       "Grr…!"
+dialogtxt       "Grr!"
 dialogtxt       "Of course it comes"
 dialogtxt       "down to money!"
 code047b        
@@ -550,7 +550,7 @@ code0479        1, 4, 15
 call            @Func_300e
 code0334        
 code0331        33, 256
-dialogtxt       "I'm not a liar…!"
+dialogtxt       "I'm not a liar!"
 dialogtxt       "You're the worst!"
 code0309        
 call            @Func_30de

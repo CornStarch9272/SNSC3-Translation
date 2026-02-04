@@ -20,7 +20,7 @@ code047d        1, 2
 call            @Func_0b9a
 call            @Func_0a96
 dialogtxt       "Um, if I remember correctly,"
-dialogtxt       "the Gold Council is…"
+dialogtxt       "the Gold Faction is…"
 code047b        
 code0309        
 call            @Func_0aea
@@ -62,7 +62,7 @@ goto            @Cond_02b0
 
 @Cond_02b0:
 jumpz           @Cond_02f6, ($b003 == 2)
-dialogtxt       "Tch…!"
+dialogtxt       "… Tsk!"
 dialogtxt       "Over there."
 dialogtxt       "You have terrible memory…"
 goto            @Cond_02f6

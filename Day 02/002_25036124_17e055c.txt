@@ -595,7 +595,7 @@ code0479        1, 2, 14
 call            @Func_4174
 call            @Func_4070
 dialogtxt       "Ow!"
-dialogtxt       "You don't have to hit me…!"
+dialogtxt       "You don't have to hit me!"
 goto            @Label_1ece
 
 @Cond_1922:
@@ -700,7 +700,7 @@ code0479        0, 1, 16
 call            @Func_4174
 call            @Func_408e
 dialogtxt       "Oww!"
-dialogtxt       "You don't have to hit me…!"
+dialogtxt       "You don't have to hit me!"
 goto            @Label_1ece
 
 @Label_1ece:
@@ -1211,7 +1211,8 @@ code0309
 call            @Func_40c4
 code0479        1, 2, 12
 call            @Func_40fa
-dialogtxt       "So, what do you think, [NAME 2]?"
+dialogtxt       "So, what do you think,"
+dialogtxt       "[NAME 2]"
 dialogtxt       "Of this incredible forbidden love?"
 code0309        
 call            @Func_4130

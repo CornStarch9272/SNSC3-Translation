@@ -486,7 +486,7 @@ dialogtxt       "way to the road!"
 goto            @Label_135c
 
 @Cond_1344:
-dialogtxt       "way to the road!"
+dialogtxt       "A WAY TO THE ROAD!"
 goto            @Label_135c
 
 @Label_135c:
@@ -776,6 +776,7 @@ code0309
 call            @Func_3c40
 code0479        0, 2, 16
 call            @Func_3b9e
+dialogtxt       "..."
 jumpz           @Cond_1ece, ($b002 == 0)
 dialogtxt       "Meaning?"
 goto            @Label_1ee0
@@ -901,7 +902,7 @@ call            @Func_3bd4
 code0479        1, 0, 12
 call            @Func_3c0a
 dialogtxt       "Registering New Route."
-dialogtxt       "………………………………………………"
+dialogtxt       "……………………"
 dialogtxt       "Registration Complete."
 code0309        
 call            @Func_3c40
@@ -1028,7 +1029,7 @@ code0309
 call            @Func_3bd4
 code0479        1, 3, 15
 call            @Func_3c0a
-dialogtxt       "Tch…!"
+dialogtxt       "… Tsk!"
 dialogtxt       "Hey, listen to me!"
 code0309        
 call            @Func_3cda

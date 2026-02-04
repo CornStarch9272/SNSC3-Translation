@@ -381,7 +381,7 @@ code040b
 code0301        8, 7
 dialogtxt       "　"
 dialogtxt       "　"
-dialogtxt       "　●← Peep hole"
+dialogtxt       "　●←Peep hole"
 code0309        
 dialogtxt       "You're quite the stubborn"
 dialogtxt       "one, aren't you?"

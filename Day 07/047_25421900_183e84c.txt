@@ -391,7 +391,7 @@ code0309
 call            @Func_2a62
 code0479        1, 5, 16
 call            @Func_2a98
-dialogtxt       "As I thought…!"
+dialogtxt       "As I thought!"
 code0309        
 call            @Func_2ace
 code0479        0, 2, 15
@@ -554,7 +554,7 @@ code0309
 call            @Func_2a62
 code0479        1, 2, 16
 call            @Func_2a98
-dialogtxt       "I thought so…!"
+dialogtxt       "I thought so!"
 code0309        
 call            @Func_2ace
 code0479        0, 2, 15
@@ -585,13 +585,13 @@ call            @Func_2ace
 code0479        0, 5, 17
 call            @Func_2a2c
 jumpz           @Cond_1bc4, ($b002 == 0)
-dialogtxt       "Eh…!?"
+dialogtxt       "Eh!?"
 dialogtxt       "[NAME 1] is begging me…"
 dialogtxt       "Do you hate it that much…?"
 goto            @Label_1c08
 
 @Cond_1bc4:
-dialogtxt       "Eh…!?"
+dialogtxt       "Eh!?"
 dialogtxt       "[NAME 1] is begging me…"
 dialogtxt       "Do you hate it that much…?"
 goto            @Label_1c08
@@ -637,7 +637,7 @@ dialogtxt       "we don't know how they will act…"
 code0309        
 code0479        1, 2, 15
 dialogtxt       "For Lady Murno's sake,"
-dialogtxt       "we must be extra cautious…!"
+dialogtxt       "we must be extra cautious!"
 code0309        
 call            @Func_2ace
 code0479        0, 2, 12
@@ -671,7 +671,7 @@ code0309
 call            @Func_2a62
 code0479        1, 1, 13
 call            @Func_2a98
-dialogtxt       "Leave to me!"
+dialogtxt       "Leave it to me!"
 code0309        
 call            @Func_2ace
 code0479        0, 2, 12
@@ -716,7 +716,7 @@ code0309
 call            @Func_2a62
 code0479        1, 4, 16
 call            @Func_2a98
-dialogtxt       "I thought so…!"
+dialogtxt       "I thought so!"
 code0309        
 call            @Func_2ace
 code0479        0, 2, 15

@@ -290,7 +290,7 @@ code047d        1, 2
 call            @Func_46b6
 call            @Func_4634
 jumpz           @Cond_0c8c, ($b003 == 0)
-dialogtxt       "…!"
+dialogtxt       "…！"
 goto            @Cond_0c8c
 
 @Cond_0c8c:
@@ -658,7 +658,7 @@ dialogtxt       "Then why don't I give"
 dialogtxt       "you a demonstration!"
 code0309        
 code0479        1, 3, 15
-dialogtxt       "…!"
+dialogtxt       "…！"
 code0309        
 call            @Func_46f6
 call            @Func_4688
@@ -686,7 +686,7 @@ goto            @Label_1bda
 code047d        0, 2
 call            @Func_46a0
 call            @Func_45e6
-dialogtxt       "…!"
+dialogtxt       "…！"
 code047b        
 code0309        
 call            @Func_461c
@@ -1306,7 +1306,7 @@ code047d        0, 111
 call            @Func_46a0
 call            @Func_45e6
 dialogtxt       "Anise…"
-dialogtxt       "You're sitll alive…"
+dialogtxt       "You're still alive…"
 code047b        
 code0309        
 call            @Func_461c

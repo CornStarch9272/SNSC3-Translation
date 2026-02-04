@@ -191,7 +191,7 @@ dialogtxt       "You've got potential, lad."
 goto            @Label_0794
 
 @Cond_0778:
-dialogtxt       "You've got potential, lass."
+dialogtxt       "You've got potential, girl."
 goto            @Label_0794
 
 @Label_0794:

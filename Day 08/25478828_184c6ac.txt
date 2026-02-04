@@ -1,40 +1,40 @@
 code0304        1
 jumpz           @Cond_0094, ($b002 == 0)
-dialogtxt       "　　　　　　　And so　　　　　　　　"
-dialogtxt       "　　We went to the Gold Council 　　"
-dialogtxt       "　　　And told them everything　　　"
+dialogtxt       "　　　　　　　And so,　　　　　　　"
+dialogtxt       "　　We went to the Gold Faction 　　"
+dialogtxt       "　　　and told them everything　　　"
 goto            @Label_0110
 
 @Cond_0094:
-dialogtxt       "　　　　　　　And so　　　　　　　　"
-dialogtxt       "　　We went to the Gold Council　　"
-dialogtxt       "　　　And told them everything　　　"
+dialogtxt       "　　　　　　　And so,　　　　　　　"
+dialogtxt       "　　We went to the Gold Faction　　"
+dialogtxt       "　　　and told them everything　　　"
 goto            @Label_0110
 
 @Label_0110:
 code030a        6, 1
 jumpz           @Cond_01aa, ($b002 == 0)
-dialogtxt       "　　Thanks to Remy's explanation　　"
+dialogtxt       "　　Thanks to Remy's explanation.　"
 dialogtxt       "　　Master Bostaph believes that　　"
 dialogtxt       "　　　Anise is the bad guy now　　　"
 goto            @Label_0226
 
 @Cond_01aa:
-dialogtxt       "　　Thanks to Remy's explanation　　"
+dialogtxt       "　　Thanks to Remy's explanation.　"
 dialogtxt       "　　Master Bostaph believes that　　"
-dialogtxt       "　　　Anise is the bad guy now　　　"
+dialogtxt       "　　　Anise is the bad guy now.　　"
 goto            @Label_0226
 
 @Label_0226:
 code030a        6, 1
-dialogtxt       "　　　We cleared Murno's name 　　　"
+dialogtxt       "　　　We cleared Murno's name.　　　"
 dialogtxt       "Now, to protect Govan's Magic Stone"
-dialogtxt       "　　　We need to catch Anise　　　　"
+dialogtxt       "　　　We need to catch Anise.　　　"
 code030a        6, 1
 jumpz           @Cond_0346, ($b002 == 0)
 dialogtxt       "　　　I'd like to settle this 　　　"
 dialogtxt       "　　　　once and for all, but 　　　"
-dialogtxt       "　I'm still stuck on what Anise said"
+dialogtxt       "　I'm stuck on what Anise said..."
 goto            @Label_03c2
 
 @Cond_0346:

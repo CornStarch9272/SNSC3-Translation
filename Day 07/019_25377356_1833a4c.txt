@@ -171,7 +171,7 @@ call            @Func_1c86
 code043c        3, 3
 code0479        1, 0, 13
 call            @Func_1cbc
-dialogtxt       "That's Magrad's voice."
+dialogtxt       "That's Magdrad's voice."
 dialogtxt       "Seems like it's recovered."
 dialogtxt       "That's good…"
 code0309        

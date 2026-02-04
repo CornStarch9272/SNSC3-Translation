@@ -823,7 +823,7 @@ dialogtxt       "I'd forgotten something important."
 code0309        
 code0479        0, 0, 14
 code0479        1, 0, 13
-dialogtxt       "At that time, [NAME 2]"
+dialogtxt       "At that time, [NAME 2], you"
 dialogtxt       "helped me remember it."
 dialogtxt       "That's why I could transform."
 code0309        

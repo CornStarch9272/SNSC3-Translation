@@ -37,13 +37,13 @@ call            @Func_2c24
 code0479        0, 2, 16
 call            @Func_2b82
 jumpz           @Cond_0204, ($b002 == 0)
-dialogtxt       "Please…!"
+dialogtxt       "Please!"
 dialogtxt       "Give back that stone!"
 dialogtxt       "It's really important…"
 goto            @Label_025a
 
 @Cond_0204:
-dialogtxt       "Please…!"
+dialogtxt       "Please!"
 dialogtxt       "Give back that stone!"
 dialogtxt       "It's really important…"
 goto            @Label_025a
@@ -373,7 +373,7 @@ code0479        0, 2, 15
 code047d        0, 2
 call            @Func_2c3c
 call            @Func_2b82
-dialogtxt       "No…!"
+dialogtxt       "No!"
 code047b        
 code0309        
 call            @Func_2c92
@@ -952,7 +952,7 @@ goto            @Cond_24ea
 @Cond_24ea:
 jumpz           @Cond_2518, ($b003 == 2)
 dialogtxt       "Bastard…"
-dialogtxt       "Wait…!"
+dialogtxt       "Wait!"
 goto            @Cond_2518
 
 @Cond_2518:

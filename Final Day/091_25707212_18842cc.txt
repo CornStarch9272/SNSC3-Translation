@@ -492,7 +492,7 @@ goto            @Label_186a
 
 @Cond_184e:
 dialogtxt       "No…!"
-dialogtxt       "[NAME 1]…!"
+dialogtxt       "[NAME 1]…！"
 goto            @Label_186a
 
 @Label_186a:

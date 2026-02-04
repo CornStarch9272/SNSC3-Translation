@@ -57,7 +57,7 @@ code0479        1, 1, 12
 code047d        1, 107
 call            @Func_0fec
 call            @Func_0f88
-dialogtxt       "Elieze!"
+dialogtxt       "Eliez!"
 dialogtxt       "We're back!"
 code047b        
 code0309        
@@ -78,14 +78,14 @@ code0309
 call            @Func_0fbe
 code0479        0, 4, 12
 call            @Func_0f1c
-dialogtxt       "…Elieze, Zakk…"
+dialogtxt       "…Elize, Zakk…"
 jumpz           @Cond_0448, ($b002 == 0)
 dialogtxt       "Sorry!"
 dialogtxt       "We really made you both worry…"
 goto            @Label_046c
 
 @Cond_0448:
-dialogtxt       "…Elieze, Zakk…"
+dialogtxt       "…Elize, Zakk…"
 dialogtxt       "I'm so sorry!"
 dialogtxt       "We really made you both worry…"
 goto            @Label_046c
@@ -211,7 +211,7 @@ code0479        0, 0, 12
 code047d        0, 132
 call            @Func_0fd6
 call            @Func_0f1c
-dialogtxt       "Take care of Elieze."
+dialogtxt       "Take care of Eliez."
 code047b        
 code0309        
 call            @Func_0f52

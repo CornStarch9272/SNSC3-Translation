@@ -64,8 +64,8 @@ dialogtxt       "It's fine, don't worry about it."
 code0309        
 code0479        0, 0, 13
 dialogtxt       "That's nothing compared to"
-dialogtxt       "the what I get from that"
-dialogtxt       "lot in Bostaph's workshop."
+dialogtxt       "what I get from that lot in"
+dialogtxt       "Bostaph's workshop."
 goto            @Label_03da
 
 @Cond_0348:
@@ -400,7 +400,7 @@ code0479        0, 5, 16
 code047d        0, 107
 call            @Func_20f4
 call            @Func_1ff0
-dialogtxt       "What!? Wait…!"
+dialogtxt       "What!? Wait!"
 code047b        
 code0309        
 call            @Func_211e
@@ -511,7 +511,7 @@ goto            @Cond_1756
 
 @Cond_1756:
 jumpz           @Cond_17b0, ($b003 == 1)
-dialogtxt       "Once again he's…!"
+dialogtxt       "Once again she's…"
 dialogtxt       "What are you doing, [NAME 2]!"
 dialogtxt       "We must hurry!"
 goto            @Cond_17b0

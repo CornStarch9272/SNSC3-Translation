@@ -126,7 +126,7 @@ goto            @Cond_0538
 
 @Cond_0538:
 jumpz           @Cond_0580, ($b003 == 2)
-dialogtxt       "Tch!"
+dialogtxt       "… Tsk!"
 dialogtxt       "Stop talking like that"
 dialogtxt       "if you want to live."
 goto            @Cond_0580
@@ -442,7 +442,7 @@ code0479        1, 0, 16
 call            @Func_3700
 dialogtxt       "It's okay, Murno…"
 dialogtxt       "Please, believe in me…"
-dialogtxt       "Do not, worry…"
+dialogtxt       "Do not worry…"
 code0309        
 call            @Func_3736
 code0479        0, 4, 14
@@ -689,7 +689,7 @@ code047d        0, 132
 call            @Func_374e
 call            @Func_3676
 dialogtxt       "We've already been here!"
-dialogtxt       "Seriously Vee, you…"
+dialogtxt       "Seriously V.E, you…"
 code047b        
 code0309        
 call            @Func_36ca

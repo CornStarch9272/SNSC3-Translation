@@ -45,7 +45,7 @@ code0479        0, 2, 14
 code0479        1, 2, 16
 dialogtxt       "More importantly,"
 dialogtxt       "you people have been"
-dialogtxt       "deceiving Master Bostaph…!"
+dialogtxt       "deceiving Master Bostaph!"
 code0309        
 code0479        1, 2, 14
 dialogtxt       "I won't forgive you…"
@@ -216,8 +216,8 @@ code0479        1, 5, 17
 code047d        1, 134
 call            @Func_2030
 call            @Func_1fcc
-dialogtxt       "Shit…!"
-dialogtxt       "Red Wing is…!"
+dialogtxt       "Shit!"
+dialogtxt       "Red Wing is…"
 code047b        
 code0309        
 call            @Func_2086
@@ -257,7 +257,7 @@ code0479        0, 5, 15
 code047d        0, 134
 call            @Func_201a
 call            @Func_1f42
-dialogtxt       "Hey, wait…!"
+dialogtxt       "Hey, wait!"
 code047b        
 code0309        
 call            @Func_2070
@@ -450,12 +450,12 @@ call            @Func_2002
 code0479        0, 2, 16
 call            @Func_1f60
 jumpz           @Cond_1646, ($b002 == 0)
-dialogtxt       "No…!"
+dialogtxt       "No!"
 dialogtxt       "[NAME 1] is…"
 goto            @Label_1660
 
 @Cond_1646:
-dialogtxt       "No…!"
+dialogtxt       "No!"
 dialogtxt       "[NAME 1] is…"
 goto            @Label_1660
 
@@ -464,9 +464,9 @@ code0309
 call            @Func_1f96
 code0479        1, 2, 15
 call            @Func_1fcc
-dialogtxt       "Why now…!?"
+dialogtxt       "Why now!?"
 dialogtxt       "If we don't escape,"
-dialogtxt       "Red Wing will…!"
+dialogtxt       "Red Wing will…"
 code0309        
 call            @Func_2002
 code0479        0, 2, 15
@@ -492,7 +492,7 @@ code0479        0, 2, 14
 code0479        1, 2, 14
 call            @Func_2046
 call            @Func_1fae
-dialogtxt       "Unbelievable…!"
+dialogtxt       "Unbelievable!"
 dialogtxt       "Then do what you need to do."
 dialogtxt       "I'll take care of this one."
 code047b        

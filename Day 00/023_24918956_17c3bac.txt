@@ -509,7 +509,6 @@ dialogtxt       "What are you saying!?"
 dialogtxt       "You can't!"
 goto            @Label_1712
 
-
 @Label_1712:
 code0309        
 call            @Func_26aa

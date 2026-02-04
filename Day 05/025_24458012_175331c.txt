@@ -360,9 +360,9 @@ code047d        0, 120
 code047e        0, 1
 dialogtxt       "Can you do something about this?"
 dialogtxt       "Earlier that kid hit,"
-dialogtxt       "er no, kicked me."
+dialogtxt       "er, no, kicked me."
 code0309        
-dialogtxt       "He feinted me with his knuckles"
+dialogtxt       "He feinted with his knuckles"
 dialogtxt       "before roundhouse kicking me."
 code0309        
 code047e        0, 0
@@ -382,7 +382,7 @@ code040b
 code0301        8, 7
 dialogtxt       "Part time position available."
 dialogtxt       "Involves chopping firewood."
-dialogtxt       "Inquire at Marneil Station."
+dialogtxt       "Inquire at Marnail Station."
 code0309        
 code0302        7
 code040b        

@@ -6,8 +6,8 @@ code047d        1, 132
 call            @Func_19da
 call            @Func_1958
 dialogtxt       "Now then!"
-dialogtxt       "First thing to do is find"
-dialogtxt       "those guys' hiding place!"
+dialogtxt       "The first thing to do is find"
+dialogtxt       "their hiding place!"
 code047b        
 code0309        
 call            @Func_1a30
@@ -25,16 +25,16 @@ code0479        0, 5, 16
 code047d        0, 0
 call            @Func_19f0
 call            @Func_18ec
-dialogtxt       "Wait, Bro!?"
+dialogtxt       "Wait, Bro!"
 dialogtxt       "I thought Ianna told you to focus"
-dialogtxt       "on your Vigilante Corps work…"
+dialogtxt       "on your Vigilante Corps work…?"
 code047b        
 code0309        
 call            @Func_1940
 code0479        1, 0, 13
 call            @Func_1976
 dialogtxt       "Eh, it'll be fine."
-dialogtxt       "It's just patrolling anyway."
+dialogtxt       "I'm just patrolling anyway."
 dialogtxt       "Don't worry about it!"
 code0309        
 call            @Func_1a1a
@@ -46,7 +46,7 @@ code047d        0, 108
 call            @Func_19c4
 call            @Func_190a
 dialogtxt       "Seriously,"
-dialogtxt       "men like you…"
+dialogtxt       "men like you are the worst."
 code047b        
 code0309        
 code0479        0, 2, 13
@@ -62,13 +62,13 @@ dialogtxt       "with [NAME 2]…"
 code0309        
 code0479        1, 2, 12
 dialogtxt       "Start by looking outside of town."
-dialogtxt       "I'll take the south gate onwards,"
-dialogtxt       "heading to Beleet Forest!"
+dialogtxt       "I'll take the south gate and"
+dialogtxt       "head onwards to Beleet Forest!"
 code0309        
 code0479        1, 2, 16
-dialogtxt       "Vee, take Lute Cave, and"
-dialogtxt       "[NAME 2], from Pubick Forest"
-dialogtxt       "until Marneil Station, okay?"
+dialogtxt       "V.E, take Lute Cave, and"
+dialogtxt       "[NAME 2] can go from "
+dialogtxt       "Pubick Forest to Marnail Station?"
 code0309        
 call            @Func_19ac
 code0479        0, 0, 16
@@ -80,9 +80,9 @@ code0309
 call            @Func_1940
 code0479        1, 2, 12
 call            @Func_1976
-dialogtxt       "Oh, and don't go to Slenj Mine."
+dialogtxt       "Oh, and don't go to Surange Mine."
 dialogtxt       "There's a dangerous Summon Beast,"
-dialogtxt       "Red Wing, in the area."
+dialogtxt       "Red Wing, in there."
 code0309        
 call            @Func_1a1a
 call            @Func_19ac
@@ -112,26 +112,26 @@ call            @Func_19c4
 call            @Func_190a
 jumpz           @Cond_05b6, ($b003 == 0)
 dialogtxt       "Red Wing?"
-dialogtxt       "It's Wings Are Red?"
+dialogtxt       "Its Feathers Are Red?"
 goto            @Cond_05b6
 
 @Cond_05b6:
 jumpz           @Cond_05ee, ($b003 == 1)
 dialogtxt       "Red Wing…?"
-dialogtxt       "A Beast with red wings?"
+dialogtxt       "So, its feathers are red?"
 goto            @Cond_05ee
 
 @Cond_05ee:
 jumpz           @Cond_0630, ($b003 == 2)
 dialogtxt       "Red Wing…?"
-dialogtxt       "Fu…"
-dialogtxt       "Are it's wings red?"
+dialogtxt       "So…"
+dialogtxt       "Does that mean it has red feathers?"
 goto            @Cond_0630
 
 @Cond_0630:
 jumpz           @Cond_067a, ($b003 == 3)
 dialogtxt       "A dangerous Summon Beast…"
-dialogtxt       "It's going to be scary, isn't it…?"
+dialogtxt       "It's going to be scary, isn't it?"
 goto            @Cond_067a
 
 @Cond_067a:
@@ -140,13 +140,13 @@ code0309
 call            @Func_1940
 code0479        1, 2, 16
 call            @Func_1976
-dialogtxt       "That's right…"
+dialogtxt       "That's right."
 dialogtxt       "It's big enough that"
-dialogtxt       "it can swallow a man whole."
+dialogtxt       "it can swallow a man whole!"
 code0309        
 code0479        1, 3, 13
 dialogtxt       "The redness of its wings comes"
-dialogtxt       "from the blood of it's victims."
+dialogtxt       "from the blood of its victims."
 code0309        
 call            @Func_1a1a
 call            @Func_19ac
@@ -157,13 +157,15 @@ code047d        0, 0
 call            @Func_19c4
 call            @Func_190a
 jumpz           @Cond_07b6, ($b002 == 0)
-dialogtxt       "Amazing! So that's why its \"Red\"…"
-dialogtxt       "That's kinda cool…!"
+dialogtxt       "Amazing! So that's why it's"
+dialogtxt       "\"Red Wing\"…"
+dialogtxt       "That's kinda cool!"
 goto            @Label_07f2
 
 @Cond_07b6:
-dialogtxt       "Amazing! So that's why its \"Red\"…"
-dialogtxt       "That's kinda cool…!"
+dialogtxt       "Amazing! So that's why it's"
+dialogtxt       "\"Red Wing\"…"
+dialogtxt       "That's kinda cool!"
 goto            @Label_07f2
 
 @Label_07f2:
@@ -228,13 +230,13 @@ call            @Func_19da
 call            @Func_1976
 dialogtxt       "It won't attack as long as"
 dialogtxt       "you stay away from it, so"
-dialogtxt       "it's been left alone for now…"
+dialogtxt       "it's been left alone for now."
 code047b        
 code0309        
 code0479        1, 2, 12
-dialogtxt       "Well, I'm sure those guys would"
+dialogtxt       "I'm sure those guys would"
 dialogtxt       "have been eaten by now if they"
-dialogtxt       "were hiding there."
+dialogtxt       "were hiding there, anyway."
 code0309        
 call            @Func_1a1a
 call            @Func_19ac
@@ -258,18 +260,18 @@ code047d        0, 107
 call            @Func_19c4
 call            @Func_190a
 dialogtxt       "Um…"
-dialogtxt       "What should I…"
+dialogtxt       "What should I do?"
 code047b        
 code0309        
 call            @Func_1940
 code0479        1, 0, 12
 call            @Func_1976
 dialogtxt       "You're holding the Demon Stone,"
-dialogtxt       "stay at the workshop like"
+dialogtxt       "so stay at the workshop like"
 dialogtxt       "a good girl. Ianna said so, right?"
 code0309        
 code0479        1, 0, 13
-dialogtxt       "To be careful."
+dialogtxt       "She said to be careful."
 code0309        
 call            @Func_19ac
 code047b        
@@ -291,13 +293,13 @@ dialogtxt       "…Right?"
 code047b        
 code0309        
 code0479        1, 0, 12
+dialogtxt       "Don't worry,"
 dialogtxt       "Master Benson will be there too."
-dialogtxt       "Don't worry."
 code0309        
 call            @Func_19ac
 code0479        0, 2, 12
 call            @Func_190a
-dialogtxt       "I see…"
+dialogtxt       "Alright…"
 dialogtxt       "I understand."
 code0309        
 call            @Func_1a1a
@@ -331,7 +333,7 @@ call            @Func_19da
 call            @Func_1976
 dialogtxt       "Then let's go!"
 dialogtxt       "Everyone, be careful."
-dialogtxt       "Especially Vee. Don't get lost."
+dialogtxt       "Especially V.E. Don't get lost."
 code047b        
 code0309        
 call            @Func_1a1a
@@ -343,8 +345,8 @@ code0479        0, 4, 12
 code047d        0, 108
 call            @Func_19c4
 call            @Func_190a
-dialogtxt       "I'm glad you care"
-dialogtxt       "about me, but…"
+dialogtxt       "I'm glad you care about me,"
+dialogtxt       "but…"
 code047b        
 code0309        
 code0334        
@@ -368,13 +370,13 @@ code047d        0, 0
 call            @Func_19c4
 call            @Func_190a
 jumpz           @Cond_1060, ($b002 == 0)
-dialogtxt       "Wha!"
-dialogtxt       "Even I!"
+dialogtxt       "Wha…?"
+dialogtxt       "Why me?!"
 goto            @Label_107e
 
 @Cond_1060:
-dialogtxt       "Wha!"
-dialogtxt       "Even I!"
+dialogtxt       "Wha…?"
+dialogtxt       "Why me?!"
 goto            @Label_107e
 
 @Label_107e:
@@ -409,11 +411,11 @@ code047d        1, 0
 call            @Func_19da
 call            @Func_1958
 jumpz           @Cond_11e8, ($b002 == 0)
-dialogtxt       "What the hell…"
+dialogtxt       "What the heck…"
 goto            @Label_11fe
 
 @Cond_11e8:
-dialogtxt       "What the hell…"
+dialogtxt       "What the heck…"
 goto            @Label_11fe
 
 @Label_11fe:

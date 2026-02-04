@@ -438,12 +438,12 @@ code0479        0, 2, 15
 call            @Func_1f80
 jumpz           @Cond_1338, ($b002 == 0)
 dialogtxt       "Wh, what!?"
-dialogtxt       "Like I'd let you…!"
+dialogtxt       "Like I'd let you!"
 goto            @Label_1368
 
 @Cond_1338:
 dialogtxt       "Wh, what!?"
-dialogtxt       "Like I'd let you…!"
+dialogtxt       "Like I'd let you!"
 goto            @Label_1368
 
 @Label_1368:

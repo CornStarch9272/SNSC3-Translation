@@ -368,8 +368,8 @@ code0301        8, 7
 code047d        0, 149
 code047e        0, 1
 dialogtxt       "My mom and I are peddlers!"
-dialogtxt       "Currently we're acquainting with so"
-dialogtxt       "many Craftknights and artisans!"
+dialogtxt       "Currently we're getting to know"
+dialogtxt       "lots of Craftknights and artisans!"
 code0309        
 dialogtxt       "My mom thinks I'm just playing"
 dialogtxt       "around, but I'm working really,"

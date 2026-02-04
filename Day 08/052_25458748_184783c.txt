@@ -35,12 +35,12 @@ call            @Func_0fee
 call            @Func_0f16
 jumpz           @Cond_01be, ($b002 == 0)
 dialogtxt       "Ugh…"
-dialogtxt       "Y…You guys…!"
+dialogtxt       "Y…You guys!"
 goto            @Label_01e0
 
 @Cond_01be:
 dialogtxt       "Ugh…"
-dialogtxt       "Y…You guys…!"
+dialogtxt       "Y…You guys!"
 goto            @Label_01e0
 
 @Label_01e0:

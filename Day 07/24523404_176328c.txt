@@ -754,7 +754,7 @@ code0309
 call            @Func_3ef8
 code0479        0, 11, 17
 call            @Func_3e56
-dialogbig       24, 116, 1, 0, 0, "Take something off? You mean…!?"
+dialogbig       24, 116, 1, 0, 0, "Take something off? You mean… !?"
 code030c        
 call            @Func_3e8c
 code0479        1, 0, 16

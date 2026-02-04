@@ -416,7 +416,7 @@ dialogtxt       "ALL your Crafting Ranks are higher"
 dialogtxt       "than anyone else's! AMAZING!◎"
 code0309        
 dialogtxt       "Here! This is for you, the"
-dialogtxt       "Ultimate Craftknight Manual!"
+dialogtxt       "\"Ultimate Craftknight Manual\"!"
 dialogtxt       "Please put it to good use!"
 code0309        
 code047e        0, 0
@@ -425,9 +425,9 @@ code0366        529, 1
 code0367        
 code0301        0, 7
 code0305        1
-dialogtxt       "Keeping the Ultimate Craftknight"
-dialogtxt       "Manual in your inventory while"
-dialogtxt       "saving unlocks Rob in Bonus Mode!"
+dialogtxt       "Keeping the \"Ultimate Craftknight"
+dialogtxt       "Manual\" in your inventory while"
+dialogtxt       "saving unlocks \"Rob\" in Bonus Mode!"
 code0309        
 code0302        7
 goto            @Cond_1282
@@ -447,7 +447,7 @@ dialogtxt       "get all the Secret Techniques?"
 dialogtxt       "That's such an amazing feat!"
 code0309        
 dialogtxt       "Here! This is for you. They call"
-dialogtxt       "this an Audio Listening Device."
+dialogtxt       "this an \"Audio Listening Device\"?"
 dialogtxt       "I have no idea what it's for…"
 code0309        
 code047e        0, 0
@@ -456,9 +456,9 @@ code0366        531, 1
 code0367        
 code0301        0, 7
 code0305        1
-dialogtxt       "Having the Audio Listening Device"
+dialogtxt       "Having the \"Audio Listening Device\""
 dialogtxt       "in your inventory while saving lets"
-dialogtxt       "you unlock VOICE in Bonus Mode!"
+dialogtxt       "you unlock \"VOICE\" in Bonus Mode!"
 code0309        
 code0302        7
 goto            @Cond_1428
@@ -478,7 +478,7 @@ dialogtxt       "Did you really fight every Stray!?"
 dialogtxt       "You are so unreal!◎"
 code0309        
 dialogtxt       "Here! This is for you. They call"
-dialogtxt       "this an Ultimate Battle Ticket."
+dialogtxt       "this an \"Ultimate War Ticket\"?"
 dialogtxt       "I have no idea what it's for…"
 code0309        
 code047e        0, 0
@@ -487,9 +487,9 @@ code0366        533, 1
 code0367        
 code0301        0, 7
 code0305        1
-dialogtxt       "Having the Ultimate Battle Ticket"
+dialogtxt       "Having the \"Ultimate War Ticket\""
 dialogtxt       "in your inventory while saving"
-dialogtxt       "unlocks Boss Rush in Bonus Mode!"
+dialogtxt       "unlocks \"Boss Attack\" in Bonus Mode!"
 code0309        
 code0302        7
 goto            @Cond_15da

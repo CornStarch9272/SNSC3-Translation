@@ -33,7 +33,7 @@ goto            @Label_013e
 code047d        1, 2
 call            @Func_0e2e
 call            @Func_0d56
-dialogtxt       "That's…!"
+dialogtxt       "That's… !"
 code047b        
 code0309        
 call            @Func_0daa
@@ -184,7 +184,7 @@ code0309
 call            @Func_0e16
 code0479        0, 2, 14
 call            @Func_0d74
-dialogtxt       "That's right…!"
+dialogtxt       "That's right!"
 dialogtxt       "Those people were…"
 code0309        
 call            @Func_0e84

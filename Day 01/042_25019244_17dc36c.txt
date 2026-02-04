@@ -119,7 +119,6 @@ dialogtxt       "hard to get you that medicine."
 dialogtxt       "You should be appreciative."
 goto            @Label_05c0
 
-
 @Label_05c0:
 code047b        
 code0309        

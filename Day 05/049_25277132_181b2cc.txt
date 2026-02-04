@@ -102,13 +102,13 @@ code0479        0, 2, 15
 call            @Func_0cc8
 call            @Func_0c0e
 jumpz           @Cond_04de, ($b002 == 0)
-dialogtxt       "Other girl…!?"
+dialogtxt       "Other girl!?"
 dialogtxt       "Hey! Wait!"
 dialogtxt       "Do you mean…!?"
 goto            @Label_0528
 
 @Cond_04de:
-dialogtxt       "Eh? Other girl…!?"
+dialogtxt       "Eh? Other girl!?"
 dialogtxt       "Hey! Wait!"
 dialogtxt       "Do you mean…!?"
 goto            @Label_0528

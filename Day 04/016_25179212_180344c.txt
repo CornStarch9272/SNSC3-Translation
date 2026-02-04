@@ -201,7 +201,7 @@ goto            @Cond_09bc
 
 @Cond_09bc:
 jumpz           @Cond_09e8, ($b003 == 2)
-dialogtxt       "Tch!"
+dialogtxt       "… Tsk!"
 dialogtxt       "I let my guard down!"
 goto            @Cond_09e8
 

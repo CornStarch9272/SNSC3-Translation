@@ -236,12 +236,12 @@ code0479        1, 2, 16
 call            @Func_158e
 jumpz           @Cond_0ad0, ($b002 == 0)
 dialogtxt       "Huh…"
-dialogtxt       "But…"
+dialogtxt       "What are you even talking about…"
 goto            @Label_0af8
 
 @Cond_0ad0:
 dialogtxt       "Huh…"
-dialogtxt       "But…"
+dialogtxt       "What are you even talking about…"
 goto            @Label_0af8
 
 @Label_0af8:

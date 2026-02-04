@@ -329,9 +329,9 @@ code0367
 jumpz           @Cond_0efa, ($bv029 == 12)
 code0301        0, 9
 code0305        1
-dialogtxt       "Save with an Observation Ticket, and"
-dialogtxt       "Super Battle Attack"
-dialogtxt       "will be unlocked in Extras."
+dialogtxt       "Save with an \"Observation Ticket\","
+dialogtxt       "and \"Super Battle Attack\""
+dialogtxt       "will be unlocked in extras."
 code0309        
 code0302        9
 goto            @Cond_0efa

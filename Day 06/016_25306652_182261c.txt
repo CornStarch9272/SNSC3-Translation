@@ -334,7 +334,7 @@ call            @Func_1d2c
 call            @Func_1c94
 dialogtxt       "Do this… here…"
 dialogtxt       "Huh?"
-dialogtxt       "What…!?"
+dialogtxt       "What!?"
 code047b        
 code0309        
 call            @Func_1ce8
@@ -427,7 +427,7 @@ goto            @Label_0e52
 @Label_0e52:
 call            @Func_1c46
 jumpz           @Cond_0e80, ($b003 == 0)
-dialogtxt       "Be Careful…!"
+dialogtxt       "Be Careful!"
 goto            @Cond_0e80
 
 @Cond_0e80:
@@ -442,7 +442,7 @@ goto            @Cond_0ed4
 
 @Cond_0ed4:
 jumpz           @Cond_0efe, ($b003 == 3)
-dialogtxt       "Please be careful…!"
+dialogtxt       "Please be careful!"
 goto            @Cond_0efe
 
 @Cond_0efe:

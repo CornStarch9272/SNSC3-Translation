@@ -451,7 +451,7 @@ code0309
 call            @Func_1e82
 code0479        0, 2, 16
 call            @Func_1de0
-dialogtxt       "…!"
+dialogtxt       "… !"
 code0309        
 call            @Func_1e16
 code0479        1, 0, 12

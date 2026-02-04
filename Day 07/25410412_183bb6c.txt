@@ -53,7 +53,7 @@ code0479        0, 5, 13
 code047d        0, 0
 call            @Func_168c
 call            @Func_15d2
-dialogtxt       "Tier…!"
+dialogtxt       "Tier!"
 code047b        
 code0309        
 call            @Func_1608
@@ -141,12 +141,12 @@ code047d        1, 109
 call            @Func_16b8
 call            @Func_15b4
 jumpz           @Cond_07b6, ($b002 == 0)
-dialogtxt       "Woah…!?"
+dialogtxt       "Woah!?"
 dialogtxt       "Hey, what's wrong!?"
 goto            @Label_07e0
 
 @Cond_07b6:
-dialogtxt       "Kya…!?"
+dialogtxt       "Kya!?"
 dialogtxt       "Hey, what's wrong!?"
 goto            @Label_07e0
 
@@ -186,9 +186,9 @@ code043e        6, 0, 0
 code0479        0, 2, 14
 call            @Func_16b8
 call            @Func_15b4
-dialogtxt       "Uwah…!"
+dialogtxt       "Uwah!"
 dialogtxt       "Wait…"
-dialogtxt       "It hurts…!"
+dialogtxt       "It hurts!"
 code047b        
 code0309        
 call            @Func_1608
@@ -203,7 +203,7 @@ code0479        0, 5, 15
 call            @Func_15d2
 dialogtxt       "C… can't……"
 dialogtxt       "………"
-dialogtxt       "…………breathe…!"
+dialogtxt       "…………breathe!"
 code0309        
 call            @Func_170e
 call            @Func_15f0
@@ -227,8 +227,8 @@ call            @Func_1608
 code0479        1, 5, 16
 call            @Func_16a2
 call            @Func_163e
-dialogtxt       "Eh…!?"
-dialogtxt       "Ah…!"
+dialogtxt       "Eh!?"
+dialogtxt       "Ah!"
 code0309        
 call            @Func_170e
 call            @Func_165c

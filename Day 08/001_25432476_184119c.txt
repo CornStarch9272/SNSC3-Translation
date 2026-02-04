@@ -9,7 +9,7 @@ call            @Func_1304
 jumpz           @Cond_0110, ($b002 == 0)
 dialogtxt       "Okay!"
 dialogtxt       "Today there's a meeting at"
-dialogtxt       "the Gold Council!"
+dialogtxt       "the Gold Faction!"
 code047b        
 code0309        
 code0479        0, 0, 12
@@ -21,7 +21,7 @@ goto            @Label_01ac
 @Cond_0110:
 dialogtxt       "Okay!"
 dialogtxt       "Today there's a meeting at"
-dialogtxt       "the Gold Council!"
+dialogtxt       "the Gold Faction!"
 code047b        
 code0309        
 code0479        0, 0, 12
@@ -59,7 +59,7 @@ code0309
 call            @Func_13c4
 code0479        0, 1, 16
 call            @Func_1322
-dialogtxt       "…hey,"
+dialogtxt       "…Hey,"
 dialogtxt       "I don't want to hear that from you!"
 code0309        
 code0479        0, 2, 14
@@ -90,7 +90,7 @@ call            @Func_13c4
 call            @Func_1322
 code0479        0, 1, 14
 jumpz           @Cond_0466, ($b002 == 0)
-dialogtxt       "Something about that bothers me,"
+dialogtxt       "Something about that worries me,"
 dialogtxt       "but thanks!"
 code0309        
 code0479        0, 0, 13
@@ -100,7 +100,7 @@ code0309
 goto            @Label_04c6
 
 @Cond_0466:
-dialogtxt       "Something about that bothers me,"
+dialogtxt       "Something about that worries me,"
 dialogtxt       "but thanks!"
 code0309        
 code0479        0, 0, 13
@@ -189,7 +189,7 @@ code0309
 call            @Func_13c4
 code0479        0, 1, 17
 call            @Func_1322
-dialogtxt       "…hey,"
+dialogtxt       "…Hey,"
 dialogtxt       "I don't want to hear that from you!"
 code0309        
 code0479        0, 2, 12
@@ -218,7 +218,7 @@ call            @Func_13c4
 code0479        0, 1, 14
 call            @Func_1322
 jumpz           @Cond_09d2, ($b002 == 0)
-dialogtxt       "Something about that bothers me,"
+dialogtxt       "Something about that worries me,"
 dialogtxt       "but thanks!"
 code0309        
 code0479        0, 2, 13
@@ -228,7 +228,7 @@ code0309
 goto            @Label_0a32
 
 @Cond_09d2:
-dialogtxt       "Something about that bothers me,"
+dialogtxt       "Something about that worries me,"
 dialogtxt       "but thanks!"
 code0309        
 code0479        0, 2, 13
@@ -268,7 +268,8 @@ code0479        1, 2, 16
 call            @Func_138e
 dialogtxt       "We must prove Anise is"
 dialogtxt       "after the Demon Stone!"
-dialogtxt       "It will be troublesome otherwise."
+dialogtxt       "We'll be in trouble if we don't."
+dialogtxt       "<!-- See above -->"
 code0309        
 call            @Func_13c4
 code0479        0, 2, 12
@@ -292,7 +293,7 @@ call            @Func_138e
 dialogtxt       "…"
 code0309        
 code0479        1, 2, 16
-dialogtxt       "Just where does that confidence"
+dialogtxt       "Where does that confidence"
 dialogtxt       "of yours spring from?"
 dialogtxt       "I should follow your example…"
 code0309        

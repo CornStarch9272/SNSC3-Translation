@@ -140,7 +140,7 @@ code0309
 call            @Func_2fd2
 code0479        0, 0, 12
 call            @Func_2f30
-dialogtxt       "って言われても…"
+dialogtxt       "Even if you say that…"
 dialogtxt       "[NAME 1], you still can't do much"
 jumpz           @Cond_0590, ($b002 == 0)
 dialogtxt       "with those bracelets on, right?"
@@ -204,7 +204,7 @@ code0309
 call            @Func_2fd2
 code0479        0, 0, 12
 call            @Func_2f30
-dialogtxt       "って言われても…"
+dialogtxt       "Even if you say that…"
 dialogtxt       "[NAME 1], you still can't do much"
 jumpz           @Cond_0800, ($b002 == 0)
 dialogtxt       "with those bracelets on, right?"
@@ -268,7 +268,7 @@ code0309
 call            @Func_2fd2
 code0479        0, 0, 12
 call            @Func_2f30
-dialogtxt       "って言われても…"
+dialogtxt       "Even if you say that…"
 dialogtxt       "[NAME 1], you still can't do much"
 jumpz           @Cond_0a84, ($b002 == 0)
 dialogtxt       "with those bracelets on, right?"

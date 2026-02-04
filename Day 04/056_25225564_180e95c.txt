@@ -29,13 +29,13 @@ call            @Func_089e
 call            @Func_07c6
 jumpz           @Cond_0174, ($b002 == 0)
 dialogtxt       "Hm?"
-dialogtxt       "Is somewhere there?"
+dialogtxt       "Is someone there?"
 dialogtxt       "Could it be…"
 goto            @Label_01a2
 
 @Cond_0174:
 dialogtxt       "Hm?"
-dialogtxt       "Is somewhere there?"
+dialogtxt       "Is someone there?"
 dialogtxt       "Could it be…"
 goto            @Label_01a2
 

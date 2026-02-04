@@ -11,7 +11,7 @@ code047d        1, 0
 call            @Func_0ef8
 call            @Func_0df4
 dialogtxt       "It seems the higher-ups at the"
-dialogtxt       "Gold Council don't want to"
+dialogtxt       "Gold Faction don't want to"
 dialogtxt       "meet with us anymore…"
 code047b        
 code0309        

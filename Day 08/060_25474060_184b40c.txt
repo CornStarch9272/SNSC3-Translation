@@ -175,12 +175,12 @@ code047d        0, 0
 call            @Func_0f92
 call            @Func_0ed8
 jumpz           @Cond_0738, ($b002 == 0)
-dialogtxt       "Lemmy…!"
+dialogtxt       "Lemmy!"
 dialogtxt       "Are you okay!?"
 goto            @Label_075a
 
 @Cond_0738:
-dialogtxt       "Lemmy…!"
+dialogtxt       "Lemmy!"
 dialogtxt       "Are you okay!?"
 goto            @Label_075a
 

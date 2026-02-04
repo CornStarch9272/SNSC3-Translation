@@ -422,7 +422,7 @@ goto            @Label_0f34
 @Cond_0ee4:
 dialogtxt       "Wellman let Anise and"
 dialogtxt       "her cronies get away…"
-dialogtxt       "Just why would he…?"
+dialogtxt       "What is even going on anymore!?"
 goto            @Label_0f34
 
 @Label_0f34:
@@ -469,7 +469,7 @@ goto            @Label_1130
 @Cond_10e0:
 dialogtxt       "Wellman let Anise and"
 dialogtxt       "her cronies get away…"
-dialogtxt       "Just why would he…?"
+dialogtxt       "What is even going on anymore!?"
 goto            @Label_1130
 
 @Label_1130:
@@ -516,7 +516,7 @@ goto            @Label_131e
 @Cond_12ce:
 dialogtxt       "Wellman let Anise and"
 dialogtxt       "her cronies get away…"
-dialogtxt       "Just why would he…?"
+dialogtxt       "What is even going on anymore!?"
 goto            @Label_131e
 
 @Label_131e:
@@ -1240,7 +1240,7 @@ code0479        0, 2, 14
 call            @Func_3994
 dialogtxt       "That's true…"
 jumpz           @Cond_2d5e, ($b002 == 0)
-dialogtxt       "I get what you mean."
+dialogtxt       "Yeah, I can."
 goto            @Label_2d70
 
 @Cond_2d5e:

@@ -61,7 +61,7 @@ code047d        1, 111
 call            @Func_4556
 call            @Func_44f2
 dialogtxt       "I thought V.E and Jade"
-dialogtxt       "would have bougth us"
+dialogtxt       "would have bought us"
 dialogtxt       "a bit more time."
 code047b        
 code0309        

@@ -468,7 +468,7 @@ dialogtxt       "Let's go."
 goto            @Label_1586
 
 @Cond_1550:
-dialogtxt       "but no point worrying about it now."
+dialogtxt       "No point worrying about it now."
 dialogtxt       "Let's go."
 goto            @Label_1586
 

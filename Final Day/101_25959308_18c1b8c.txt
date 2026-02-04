@@ -18,7 +18,7 @@ call            @Func_0ccc
 code043c        0, 2
 code0479        1, 0, 14
 call            @Func_0d02
-dialogtxt       "Those Gold Council people?"
+dialogtxt       "Those Gold Faction people?"
 dialogtxt       "Their attitude wasn't rocking…"
 dialogtxt       "Since they're really lame?"
 code0309        

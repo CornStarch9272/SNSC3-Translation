@@ -94,7 +94,6 @@ dialogtxt       "But more than that,"
 dialogtxt       "I'm glad you're okay."
 goto            @Label_04f6
 
-
 @Label_04f6:
 code0309        
 code0479        1, 1, 16
@@ -182,7 +181,6 @@ dialogtxt       "is my mistake too,"
 dialogtxt       "so we apologize together."
 goto            @Label_08ce
 
-
 @Label_08ce:
 code0309        
 call            @Func_2f90
@@ -236,7 +234,6 @@ call            @Func_3040
 call            @Func_2f3c
 dialogtxt       "Looks like he'll be okay now."
 goto            @Label_0b34
-
 
 @Label_0b34:
 code047b        

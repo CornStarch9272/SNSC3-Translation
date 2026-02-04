@@ -213,10 +213,10 @@ code0309
 call            @Func_15a6
 code0479        1, 2, 16
 call            @Func_15dc
-dialogtxt       "Umm…"
+dialogtxt       "Erm…"
 jumpz           @Cond_0a64, ($b002 == 0)
-dialogtxt       "So basically, if we put it back"
-dialogtxt       "everything will return to normal?"
+dialogtxt       "So if we put it back,"
+dialogtxt       "will everything return to normal?"
 goto            @Label_0a9e
 
 @Cond_0a64:
@@ -253,7 +253,7 @@ code043c        1, 2
 code043c        2, 2
 call            @Func_1570
 dialogtxt       "That's right…"
-dialogtxt       "We have aim for Mishus Village."
+dialogtxt       "We have to aim for Mishus Village."
 dialogtxt       "You should get ready to go."
 code047b        
 code0309        

@@ -96,15 +96,15 @@ code0479        0, 5, 16
 call            @Func_30d2
 call            @Func_3018
 jumpz           @Cond_04f0, ($b002 == 0)
-dialogtxt       "Anise…!"
+dialogtxt       "Anise!"
 goto            @Label_0502
 
 @Cond_04f0:
-dialogtxt       "Anise…!"
+dialogtxt       "Anise!"
 goto            @Label_0502
 
 @Label_0502:
-dialogtxt       "Why are you…!"
+dialogtxt       "Why are you!?"
 code047b        
 code0309        
 call            @Func_3128
@@ -150,7 +150,7 @@ code0479        1, 0, 12
 call            @Func_3084
 dialogtxt       "I don't think your being washed"
 dialogtxt       "up here is just a coincidence."
-dialogtxt       "It was Magrad's will at work."
+dialogtxt       "It was Magdrad's will at work."
 code0309        
 code0479        1, 0, 13
 dialogtxt       "It's desire to save you."
@@ -165,12 +165,12 @@ call            @Func_30d2
 call            @Func_3018
 jumpz           @Cond_080c, ($b002 == 0)
 dialogtxt       "What!?"
-dialogtxt       "You're working together…!"
+dialogtxt       "You're working together!"
 goto            @Label_083a
 
 @Cond_080c:
 dialogtxt       "What!?"
-dialogtxt       "You're working together…!"
+dialogtxt       "You're working together!"
 goto            @Label_083a
 
 @Label_083a:
@@ -473,7 +473,7 @@ call            @Func_30ba
 code0333        2, 30
 code0479        0, 5, 16
 call            @Func_3018
-dialogtxt       "…!"
+dialogtxt       "… !"
 code0309        
 call            @Func_3154
 call            @Func_3036
@@ -823,7 +823,7 @@ code0309
 call            @Func_30ba
 code0479        0, 3, 14
 call            @Func_3018
-dialogtxt       "Ku…!"
+dialogtxt       "Ku— !"
 code0309        
 code0479        0, 2, 16
 dialogtxt       "Well then, what do you"

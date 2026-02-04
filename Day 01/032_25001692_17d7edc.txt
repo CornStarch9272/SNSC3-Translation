@@ -329,7 +329,6 @@ dialogtxt       "What happened there?"
 dialogtxt       "You said it'd be fine!"
 goto            @Label_0e3e
 
-
 @Label_0e3e:
 code047b        
 code0309        
@@ -460,7 +459,6 @@ dialogtxt       "I don't want to hear any excuses!"
 dialogtxt       "That's so lame!"
 goto            @Label_147c
 
-
 @Label_147c:
 code0309        
 call            @Func_2642
@@ -491,7 +489,6 @@ dialogtxt       "Forget it!"
 dialogtxt       "Let's go find him!"
 goto            @Label_163a
 
-
 @Label_163a:
 code0309        
 goto            @Cond_1640
@@ -502,7 +499,6 @@ code0479        0, 2, 15
 call            @Func_26dc
 dialogtxt       "Did you do that on purpose?"
 goto            @Label_16e2
-
 
 @Label_16e2:
 code047b        

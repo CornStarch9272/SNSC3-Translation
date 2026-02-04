@@ -155,7 +155,7 @@ goto            @Cond_0666
 
 @Cond_0666:
 jumpz           @Cond_0698, ($b003 == 2)
-dialogtxt       "K-kind? Me…!?"
+dialogtxt       "K-kind? Me!?"
 goto            @Cond_0698
 
 @Cond_0698:
@@ -341,7 +341,7 @@ code0479        1, 4, 17
 call            @Func_1696
 call            @Func_1614
 dialogtxt       "Ugh…"
-dialogtxt       "Not just[NAME 2]…"
+dialogtxt       "Not just [NAME 2]…"
 dialogtxt       "But also [NAME 1], and Murno…"
 code047b        
 code0309        

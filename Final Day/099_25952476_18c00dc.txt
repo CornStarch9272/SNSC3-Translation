@@ -5,7 +5,7 @@ code031c        8, 1
 code0321        8, 60
 code040d        60
 code0304        1
-dialogtxt       "We spoke with the Gold Council"
+dialogtxt       "We spoke with the Gold Faction"
 dialogtxt       "about the events that occurred"
 dialogtxt       "in Mishus Village, but"
 code030a        6, 1
@@ -18,7 +18,7 @@ dialogtxt       "Thanks to that, they put the "
 dialogtxt       "issue of Murno and the others"
 dialogtxt       "on indefinite hiatus."
 code030a        6, 1
-dialogtxt       "The folks at the Gold Council"
+dialogtxt       "The folks at the Gold Faction"
 dialogtxt       "visited Mishus Village"
 dialogtxt       "many times, but"
 code030a        6, 1
@@ -37,7 +37,7 @@ dialogtxt       "Thanks to that, they put the "
 dialogtxt       "issue of Murno and the others"
 dialogtxt       "on indefinite hiatus."
 code030a        6, 1
-dialogtxt       "The folks at the Gold Council"
+dialogtxt       "The folks at the Gold Faction"
 dialogtxt       "visited Mishus Village"
 dialogtxt       "many times, but"
 code030a        6, 1

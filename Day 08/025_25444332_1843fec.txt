@@ -209,7 +209,7 @@ code0309
 call            @Func_13b2
 code0479        0, 5, 14
 call            @Func_1310
-dialogbig       60, 116, 1, 0, 0, "Hii…!?"
+dialogbig       60, 116, 1, 0, 0, "Hiiiii!?"
 code030c        
 code0479        1, 2, 14
 code0479        0, 4, 16
@@ -244,7 +244,7 @@ code0309
 call            @Func_13b2
 code0479        0, 5, 14
 call            @Func_1310
-dialogbig       60, 116, 1, 0, 0, "Ha…!?"
+dialogbig       60, 116, 1, 0, 0, "Ha!?"
 code030c        
 code0479        0, 4, 16
 jumpz           @Cond_09ae, ($b002 == 0)

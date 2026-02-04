@@ -37,7 +37,7 @@ dialogtxt       "Where'd he go!?"
 goto            @Label_0200
 
 @Cond_01c2:
-dialogtxt       "Maybe…they're not here?"
+dialogtxt       "Maybe… they're not here?"
 dialogtxt       "Where'd he go!?"
 goto            @Label_0200
 
@@ -74,9 +74,9 @@ code048c
 code0479        0, 5, 17
 call            @Func_1068
 call            @Func_0f90
-dialogtxt       "They ran away!?"
+dialogtxt       "They ran!?"
 jumpz           @Cond_03cc, ($b002 == 0)
-dialogtxt       "How!?"
+dialogtxt       "What the heck!?"
 goto            @Label_03e0
 
 @Cond_03cc:
@@ -92,7 +92,7 @@ code047b
 code047d        1, 134
 code0301        8, 7
 code047e        1, 1
-dialogtxt       "I just heard a roar…Magdrad is"
+dialogtxt       "I just heard a roar… Magdrad is"
 dialogtxt       "going berserk, isn't it?"
 code0309        
 dialogtxt       "Once they figured that out,"
@@ -165,8 +165,7 @@ call            @Func_1068
 call            @Func_0fae
 jumpz           @Cond_074c, ($b002 == 0)
 dialogtxt       "I didn't do anything!"
-dialogtxt       "It just went berserk and"
-dialogtxt       "stopped listening to me!"
+dialogtxt       "It just went berserk!"
 code047b        
 code0309        
 code0479        0, 2, 14
@@ -202,7 +201,7 @@ call            @Func_1068
 call            @Func_0fae
 dialogtxt       "I'm trying to…"
 jumpz           @Cond_089a, ($b002 == 0)
-dialogtxt       "But where's the key?"
+dialogtxt       "But where's the key!?"
 goto            @Label_08b8
 
 @Cond_089a:

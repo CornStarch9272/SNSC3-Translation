@@ -134,7 +134,7 @@ call            @Func_206a
 code0479        0, 5, 17
 call            @Func_2082
 call            @Func_1fc8
-dialogtxt       "Wha…!"
+dialogtxt       "Wha— !"
 dialogtxt       "How long have you been there?"
 code047b        
 code0309        
@@ -251,7 +251,7 @@ call            @Func_1ffe
 code0479        1, 0, 13
 call            @Func_2034
 dialogtxt       "Sorry about this,"
-dialogtxt       "can you look after Elieze for me?"
+dialogtxt       "can you look after Eliez for me?"
 code0309        
 call            @Func_206a
 code0479        0, 1, 12
@@ -353,8 +353,8 @@ code030c
 code0334        
 code0331        39, 256
 code0479        1, 2, 13
-dialogtxt       "Protect her? From what, Elieze?"
-dialogtxt       "Elieze is going to attack Murno!?"
+dialogtxt       "Protect her? From what, Eliez?"
+dialogtxt       "Eliez is going to attack Murno!?"
 dialogtxt       "Hah. You're hilarious."
 code0309        
 call            @Func_206a
@@ -526,7 +526,7 @@ code0479        1, 4, 12
 code047d        1, 132
 call            @Func_20ae
 call            @Func_2016
-dialogtxt       "Hey, so uh,"
+dialogtxt       "Well, if that's all sorted out"
 dialogtxt       "can I ask you to do something?"
 code047b        
 code0309        

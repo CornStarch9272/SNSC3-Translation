@@ -89,7 +89,7 @@ call            @Func_0d3a
 code0479        1, 2, 17
 call            @Func_0d70
 dialogtxt       "Don't play dumb!"
-dialogtxt       "It's Elieze, isn't it?"
+dialogtxt       "It's Eliez, isn't it?"
 code0309        
 call            @Func_0da6
 code0479        0, 11, 17

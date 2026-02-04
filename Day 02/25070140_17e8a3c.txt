@@ -60,7 +60,7 @@ code0309
 call            @Func_1218
 code0479        1, 5, 15
 call            @Func_124e
-dialogtxt       "\"Those guys\"…!?"
+dialogtxt       "\"Those guys\"!?"
 code0309        
 call            @Func_1284
 code0479        0, 2, 16

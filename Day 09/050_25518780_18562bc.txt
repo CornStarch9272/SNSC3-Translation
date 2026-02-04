@@ -24,7 +24,7 @@ call            @Func_1be2
 code0479        1, 2, 17
 call            @Func_1c18
 dialogtxt       "You brat…"
-dialogtxt       "So arrogant…!"
+dialogtxt       "So arrogant!"
 code0309        
 call            @Func_1ce8
 call            @Func_1c36
@@ -273,7 +273,7 @@ code0479        0, 5, 17
 call            @Func_1c66
 code047c        0, 2
 call            @Func_1b8e
-dialogtxt       "Ah…!"
+dialogtxt       "Ah!"
 code047b        
 code0309        
 call            @Func_1be2
@@ -294,7 +294,7 @@ call            @Func_1c66
 call            @Func_1bac
 dialogtxt       "Y-you!"
 dialogtxt       "What did you do!?"
-dialogtxt       "Did you just kick his…!?"
+dialogtxt       "Did you just kick his … !?"
 code047b        
 code0309        
 call            @Func_1be2
@@ -366,7 +366,7 @@ code0479        0, 4, 14
 code047d        0, 116
 call            @Func_1c66
 call            @Func_1bac
-dialogtxt       "Ugh…!"
+dialogtxt       "Ugh… !"
 code047b        
 code0309        
 call            @Func_1be2

@@ -281,7 +281,7 @@ call            @Func_168c
 code0301        6, 7
 code047e        0, 1
 code047e        1, 1
-dialogtxt       "…!"
+dialogtxt       "… !"
 code047b        
 code0309        
 call            @Func_16e2

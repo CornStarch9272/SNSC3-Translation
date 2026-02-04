@@ -772,9 +772,9 @@ choicewait
 
 @Choice_1f3c:
 code047e        0, 1
-dialogtxt       "Let's see…Using an Old"
-dialogtxt       "Grindstone to enhance your weapon"
-dialogtxt       "imbues the Battle Repair effect."
+dialogtxt       "Let's see…Using an \"Old"
+dialogtxt       "Grindstone\" to enhance your weapon"
+dialogtxt       "imbues the \"Battle Repair\" effect."
 code0309        
 dialogtxt       "And would you look at that,"
 dialogtxt       "I have one such item"

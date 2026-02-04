@@ -481,16 +481,13 @@ code040b
 
 @Event_13d0:
 code0301        8, 7
-dialogtxt       "Yesterday, the committee for the"
-dialogtxt       "promotion of weapon destruction"
-dialogtxt       "released a statement."
-code0309        
-dialogtxt       "They say drills are excellent"
-dialogtxt       "for destroying weapons."
+dialogtxt       "Yesterday, weapon destruction"
+dialogtxt       "comitee released a statement"
+dialogtxt       "saying drills are excellent."
 code0309        
 dialogtxt       "In response, they receive a flood of"
-dialogtxt       "complaints, questioning"
-dialogtxt       "the committee's neglect of axes."
+dialogtxt       "complaints questioning the"
+dialogtxt       "committees neglect of axes."
 code0309        
 code0302        7
 code040b        

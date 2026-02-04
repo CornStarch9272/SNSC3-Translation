@@ -34,8 +34,8 @@ code0479        1, 0, 12
 code047d        1, 110
 call            @Func_1a86
 call            @Func_1982
-dialogtxt       "Everyone…!"
-dialogtxt       "Even Lemmy…!?"
+dialogtxt       "Everyone!"
+dialogtxt       "Even Lemmy!?"
 code047b        
 code0309        
 call            @Func_19d6
@@ -242,7 +242,7 @@ code0309
 code0479        0, 2, 14
 code0479        1, 2, 16
 dialogtxt       "They said they were looking for the"
-dialogtxt       "Stone in order to to calm "
+dialogtxt       "Stone in order to calm "
 dialogtxt       "the Stray Summon Beasts, right!?"
 code0309        
 code0479        1, 2, 14
@@ -348,12 +348,12 @@ code047d        0, 0
 call            @Func_1a5a
 call            @Func_19a0
 jumpz           @Cond_10dc, ($b002 == 0)
-dialogtxt       "But…!"
+dialogtxt       "But!"
 dialogtxt       "I'm not lying!"
 goto            @Label_111e
 
 @Cond_10dc:
-dialogtxt       "But…!"
+dialogtxt       "But!"
 dialogtxt       "I'm not lying!"
 goto            @Label_111e
 

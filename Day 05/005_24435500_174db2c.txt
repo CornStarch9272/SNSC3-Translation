@@ -10,7 +10,7 @@ code0412        4, 1
 code0418        2
 setvar          $b075, 1
 setvar          $b072, 0
-placetxt        "Mayor's House　Second-hand Shop"
+placetxt        "Deckell Village　Station"
 code040c        1, @Label_0222
 code040c        2, @Label_0218
 call            @Func_0a2e
@@ -272,8 +272,8 @@ code0301        8, 7
 code047d        0, 122
 code047e        0, 1
 dialogtxt       "Young'uns these days are too lax!"
-dialogtxt       "Sigh, nothing I say goes"
-dialogtxt       "past their ears…"
+dialogtxt       "Hmph, and when I say they ain't"
+dialogtxt       "worth squat, I really mean it"
 code0309        
 code047e        0, 0
 code0302        7

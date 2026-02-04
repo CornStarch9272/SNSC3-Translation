@@ -212,7 +212,7 @@ code0309
 call            @Func_1088
 code0479        1, 4, 13
 call            @Func_10be
-dialogtxt       "Tch…!"
+dialogtxt       "Tch!"
 dialogtxt       "You're becoming more and"
 dialogtxt       "more like V.E. by the day."
 code0309        

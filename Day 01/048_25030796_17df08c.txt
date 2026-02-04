@@ -117,7 +117,6 @@ dialogtxt       "But man, you work way too hard..."
 dialogtxt       "I guess you've got your reasons."
 goto            @Label_06f2
 
-
 @Label_06f2:
 code0309        
 call            @Func_1016

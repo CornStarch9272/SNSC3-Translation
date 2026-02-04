@@ -173,7 +173,7 @@ code040b
 code0301        8, 7
 dialogtxt       "A lady's secret lies beyond here◎"
 dialogtxt       "NO TRESPASSING!!!"
-dialogtxt       "　　　　　　　　　　　-Tier<end_line>"
+dialogtxt       "　　　　　　　　　　　-Tier"
 code0309        
 code0302        7
 code040b        

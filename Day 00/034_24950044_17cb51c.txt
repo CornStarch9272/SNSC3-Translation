@@ -684,7 +684,6 @@ dialogtxt       "What's with him?"
 dialogtxt       "Maybe he's at that \"rebellious\" age?"
 goto            @Label_21ba
 
-
 @Label_21ba:
 code0309        
 call            @Func_33b8

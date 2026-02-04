@@ -38,13 +38,13 @@ code047d        1, 2
 call            @Func_196c
 call            @Func_1868
 jumpz           @Cond_01e0, ($b002 == 0)
-dialogtxt       "Woah…!"
+dialogtxt       "Woah!"
 dialogtxt       "What the…?"
 dialogtxt       "It's so hot in here."
 goto            @Label_020e
 
 @Cond_01e0:
-dialogtxt       "Woah…!"
+dialogtxt       "Woah!"
 dialogtxt       "What the…?"
 dialogtxt       "It's so hot in here."
 goto            @Label_020e
@@ -431,12 +431,12 @@ code047d        1, 2
 call            @Func_196c
 call            @Func_1886
 jumpz           @Cond_116a, ($b002 == 0)
-dialogtxt       "Alright…!"
+dialogtxt       "Alright!"
 dialogtxt       "Let's get going!"
 goto            @Label_1198
 
 @Cond_116a:
-dialogtxt       "Alright…!"
+dialogtxt       "Alright!"
 dialogtxt       "Let's get going!"
 goto            @Label_1198
 

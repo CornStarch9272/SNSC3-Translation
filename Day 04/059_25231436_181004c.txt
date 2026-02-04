@@ -113,7 +113,7 @@ code0309
 call            @Func_1102
 code0479        0, 5, 17
 call            @Func_1060
-dialogtxt       "Ah…!"
+dialogtxt       "Ah!"
 dialogtxt       "Yeah…"
 code0309        
 call            @Func_1096
@@ -150,7 +150,7 @@ code0309
 call            @Func_1096
 code0479        1, 2, 13
 call            @Func_10cc
-dialogtxt       "Can't tell me, huh…"
+dialogtxt       "Can't tell me, huh?"
 dialogtxt       "I never thought you'd have"
 dialogtxt       "something to hide."
 code0309        

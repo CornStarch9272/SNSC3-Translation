@@ -256,7 +256,7 @@ code0479        0, 4, 17
 call            @Func_2568
 dialogtxt       "Ah, but we haven't gotten permission"
 dialogtxt       "from Master Bostaph, and as members"
-dialogtxt       "of the Gold Council, we should…"
+dialogtxt       "of the Gold Faction, we should…"
 code0309        
 call            @Func_268e
 call            @Func_259e

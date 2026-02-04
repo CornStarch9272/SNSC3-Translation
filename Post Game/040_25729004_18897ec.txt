@@ -47,10 +47,8 @@ code047d        1, 110
 call            @Func_0b66
 call            @Func_0ace
 dialogtxt       "With Master gone,"
-dialogtxt       "things have gotten busy."
-code0309
-dialogtxt       "But I'm still keeping up"
-dialogtxt       "with my training."
+dialogtxt       "things have gotten busy, but"
+dialogtxt       "I still keep up with my training."
 code047b        
 code0309        
 code0479        1, 2, 13

@@ -405,7 +405,7 @@ code047d        0, 118
 code047e        0, 1
 dialogtxt       "The usual gatekeeper caught a cold."
 dialogtxt       "Now I have to take his place…"
-dialogtxt       "What a pain…"
+dialogtxt       "What a pain."
 code0309        
 dialogtxt       "Just ahead is a really scary Stray"
 dialogtxt       "called Red Wing. If you really want"
@@ -434,17 +434,17 @@ code040b
 @Event_1244:
 code0301        8, 7
 dialogtxt       "If your weapon only deals 1 damage,"
-dialogtxt       "you may have encountered an "
-dialogtxt       "opponent you must face with magic."
+dialogtxt       "it may be an opponent you need to"
+dialogtxt       "take on using magic."
 code0309        
 code0302        7
 code040b        
 
 @Event_12c4:
 code0301        8, 7
-dialogtxt       "Look down ↓"
+dialogtxt       "Look down! ↓"
 code0309        
-dialogtxt       "When you want to look up ↑"
+dialogtxt       "↑ When you want to look up,"
 dialogtxt       "press the START button."
 code0309        
 code0302        7

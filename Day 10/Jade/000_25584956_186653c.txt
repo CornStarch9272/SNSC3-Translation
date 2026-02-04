@@ -152,7 +152,7 @@ code0479        1, 2, 14
 code0479        0, 2, 14
 call            @Func_1590
 call            @Func_14f8
-dialogtxt       "Look…!"
+dialogtxt       "Look!"
 dialogtxt       "This is the weapon Rob praised…"
 code0309        
 call            @Func_15e6

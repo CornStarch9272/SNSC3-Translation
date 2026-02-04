@@ -23,7 +23,7 @@ code0321        8, 60
 code040d        15
 code0304        1
 dialogtxt       "Thanks to the Vigilantes, the"
-dialogtxt       "Gold Council, and most of all, the"
+dialogtxt       "Gold Faction, and most of all, the"
 dialogtxt       "people, Prosban is back to normal."
 code030a        6, 1
 code0304        0

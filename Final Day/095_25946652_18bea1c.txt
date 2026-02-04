@@ -97,9 +97,9 @@ code0479        1, 0, 16
 code047d        1, 132
 call            @Func_396e
 call            @Func_38d6
-dialogtxt       "With Bostaph and Velworen involved,"
+dialogtxt       "With Bostaph and Velvoren involved,"
 dialogtxt       "I'm sure we'll end up meeting"
-dialogtxt       "with the Gold Council too."
+dialogtxt       "with the Gold Faction too."
 code047b        
 code0309        
 call            @Func_392a
@@ -489,7 +489,7 @@ call            @Func_38be
 code0479        1, 2, 13
 call            @Func_38f4
 dialogtxt       "I mean, you haven't reached"
-dialogtxt       "the sales quota Miss Vee"
+dialogtxt       "the sales quota Miss V.E"
 dialogtxt       "set for you yet, right…"
 code0309        
 call            @Func_392a
@@ -684,7 +684,7 @@ code0309
 call            @Func_38be
 code0479        1, 1, 13
 call            @Func_38f4
-dialogtxt       "Of course! Until Miss Vee says"
+dialogtxt       "Of course! Until Miss V.E says"
 dialogtxt       "otherwise, [NAME 1] is"
 dialogtxt       "your partner, [NAME 2]."
 code0309        
@@ -971,7 +971,7 @@ code047d        0, 107
 call            @Func_396e
 call            @Func_386a
 dialogtxt       "Ah!"
-dialogtxt       "Miss Vee, these clothes…!"
+dialogtxt       "Miss V.E, these clothes…!"
 code047b        
 code0309        
 call            @Func_38be
@@ -984,7 +984,7 @@ code0309
 call            @Func_392a
 code0479        0, 4, 13
 call            @Func_3888
-dialogtxt       "Miss Vee…"
+dialogtxt       "Miss V.E…"
 dialogtxt       "I'll take good care of them…"
 code0309        
 call            @Func_39c4

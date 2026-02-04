@@ -12,13 +12,13 @@ call            @Func_07a2
 code0479        0, 0, 14
 call            @Func_0700
 jumpz           @Cond_00e0, ($b002 == 0)
-choicetxt       @Choice_0114, "Ready when you are!"
+choicetxt       @Choice_0114, "I'm ready when you are!"
 choicetxt       @Choice_0152, "Give me a moment…"
 goto            @Label_0112
 
 @Cond_00e0:
 choicetxt       @Choice_0114, "I'm ready when you are!"
-choicetxt       @Choice_0152, "Just wait a little…"
+choicetxt       @Choice_0152, "Give me a moment…"
 goto            @Label_0112
 
 @Label_0112:

@@ -384,7 +384,7 @@ call            @Func_1a92
 call            @Func_1a2e
 dialogtxt       "Ahahahaha!"
 dialogtxt       "Well said."
-dialogtxt       "You have a great apprentice, Vee!"
+dialogtxt       "You have a great apprentice, V.E!"
 code047b        
 code0309        
 call            @Func_1ad2

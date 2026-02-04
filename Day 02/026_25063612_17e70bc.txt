@@ -250,8 +250,8 @@ code0446        3
 code0479        1, 2, 15
 call            @Func_3f5e
 call            @Func_3edc
-dialogtxt       "Give it back…!"
-dialogtxt       "Give it…!!!"
+dialogtxt       "Give it back!"
+dialogtxt       "Give it!!!"
 code0309        
 call            @Func_3fb4
 call            @Func_3f18
@@ -300,7 +300,7 @@ code0479        0, 2, 15
 call            @Func_3f74
 call            @Func_3e70
 dialogtxt       "What's with you!?"
-dialogtxt       "Lemme go…!"
+dialogtxt       "Lemme go!"
 code0309        
 call            @Func_3fca
 call            @Func_3eac
@@ -372,7 +372,7 @@ code0309
 call            @Func_3ec4
 code0479        1, 5, 16
 call            @Func_3efa
-dialogtxt       "…!"
+dialogtxt       "… !"
 code0309        
 call            @Func_3fb4
 call            @Func_3f30
@@ -386,11 +386,11 @@ code0479        0, 2, 12
 call            @Func_3f5e
 call            @Func_3efa
 jumpz           @Cond_11e8, ($b002 == 0)
-dialogtxt       "Hey…!"
+dialogtxt       "Hey!"
 goto            @Label_11fe
 
 @Cond_11e8:
-dialogtxt       "Hey…!"
+dialogtxt       "Hey!"
 goto            @Label_11fe
 
 @Label_11fe:
@@ -489,7 +489,7 @@ code0309
 call            @Func_3ec4
 code0479        1, 2, 14
 call            @Func_3efa
-dialogtxt       "Urgh…!"
+dialogtxt       "Urgh!"
 code0309        
 call            @Func_3f30
 code0479        0, 0, 12
@@ -530,7 +530,7 @@ code047d        1, 107
 call            @Func_3f5e
 call            @Func_3edc
 dialogtxt       "Just… Please!"
-dialogtxt       "If you don't, misfortune will…!"
+dialogtxt       "If you don't, misfortune will!"
 code047b        
 code0309        
 code0479        1, 4, 17
@@ -572,7 +572,7 @@ code047b
 code0309        
 code0479        1, 2, 14
 dialogtxt       "Damn it all!"
-dialogtxt       "Those guys…!"
+dialogtxt       "Those guys!"
 goto            @Label_1b46
 
 @Cond_1ab4:
@@ -583,7 +583,7 @@ code0309
 code0479        1, 2, 14
 dialogtxt       "How could they!"
 dialogtxt       "Now I'm really mad…"
-dialogtxt       "They're gonna get it…!"
+dialogtxt       "They're gonna get it!"
 goto            @Label_1b46
 
 @Label_1b46:
@@ -748,12 +748,12 @@ code0479        0, 2, 16
 call            @Func_3e8e
 dialogtxt       "But…"
 jumpz           @Cond_22e4, ($b002 == 0)
-dialogtxt       "What else am I supposed to do!?"
+dialogtxt       "What else am I supposed to do?"
 dialogtxt       "Murno's hurt!"
 goto            @Label_2324
 
 @Cond_22e4:
-dialogtxt       "What should I have done then!?"
+dialogtxt       "What should I have done then?"
 dialogtxt       "Murno's hurt!"
 goto            @Label_2324
 
@@ -802,7 +802,7 @@ code0309
 call            @Func_3f30
 code0479        0, 5, 14
 call            @Func_3e8e
-dialogtxt       "…!"
+dialogtxt       "… !"
 code0309        
 call            @Func_3ec4
 code0479        1, 2, 12
@@ -993,8 +993,8 @@ code043c        2, 4
 code0479        0, 2, 17
 call            @Func_3e8e
 dialogtxt       "But…"
-dialogtxt       "I have to…"
-dialogtxt       "If I don't guard it…!"
+dialogtxt       "I have to! …"
+dialogtxt       "If I don't guard it…"
 code0309        
 call            @Func_3ec4
 code0479        1, 2, 14

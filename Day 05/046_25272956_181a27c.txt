@@ -377,7 +377,7 @@ code0479        0, 2, 12
 code047d        0, 115
 call            @Func_2aca
 call            @Func_29f2
-dialogtxt       "…!"
+dialogtxt       "… !"
 code047b        
 code0309        
 call            @Func_2a46
@@ -439,7 +439,7 @@ code047d        1, 134
 call            @Func_2af6
 call            @Func_2a5e
 dialogtxt       "Let me go!"
-dialogtxt       "The Stone… The Demon Stone…!"
+dialogtxt       "The Stone… The Demon Stone!"
 dialogtxt       "Give it to me!!"
 code047b        
 code0309        
@@ -676,7 +676,7 @@ code031f        7
 code0479        0, 5, 16
 call            @Func_2aca
 call            @Func_29f2
-dialogbig       102, 116, 0, 4, 0, "Ah…!"
+dialogbig       102, 116, 0, 4, 0, "Ah!"
 code047b        
 code030c        
 call            @Func_2b20

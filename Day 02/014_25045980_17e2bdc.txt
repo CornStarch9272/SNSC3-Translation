@@ -65,7 +65,7 @@ dialogtxt       "through Deckell Mine!"
 goto            @Label_02b8
 
 @Cond_0264:
-dialogtxt       "That's it…!"
+dialogtxt       "That's it!"
 dialogtxt       "There should be a way around"
 dialogtxt       "through Deckell Mine!"
 goto            @Label_02b8

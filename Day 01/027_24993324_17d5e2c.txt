@@ -172,7 +172,6 @@ dialogtxt       "Whoa, you were right."
 dialogtxt       "That was close..."
 goto            @Label_0856
 
-
 @Label_0856:
 code047b        
 code0309        
@@ -488,7 +487,6 @@ dialogtxt       "No, it's just that"
 dialogtxt       "I couldn't tell the"
 dialogtxt       "difference, so..."
 goto            @Label_18e8
-
 
 @Label_18e8:
 code0309        

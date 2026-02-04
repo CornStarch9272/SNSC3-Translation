@@ -273,7 +273,7 @@ code047d        0, 121
 code047e        0, 1
 dialogtxt       "We managed to reconcile."
 dialogtxt       "In the end, we still love"
-dialogtxt       "eachother."
+dialogtxt       "each other."
 code0309        
 code047e        0, 0
 code0302        7

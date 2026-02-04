@@ -579,7 +579,6 @@ dialogtxt       "I'm sorry, Chief..."
 dialogtxt       "I was wrong..."
 goto            @Label_1b7c
 
-
 @Label_1b7c:
 code0309        
 call            @Func_29f4
@@ -695,7 +694,6 @@ dialogtxt       "Eh...?"
 dialogtxt       "Did you smile just now, γ?"
 dialogtxt       "What's so funny?"
 goto            @Label_206e
-
 
 @Label_206e:
 code0309        

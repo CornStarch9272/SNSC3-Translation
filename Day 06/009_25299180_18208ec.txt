@@ -191,9 +191,9 @@ goto            @Cond_0730
 
 @Cond_0730:
 jumpz           @Cond_0796, ($b003 == 1)
-dialogtxt       "Before that, won't you"
+dialogtxt       "Before that, can't you"
 dialogtxt       "remove these bindings?"
-dialogtxt       "I cannot do good work like this."
+dialogtxt       "I can't do a good job like this."
 goto            @Cond_0796
 
 @Cond_0796:
@@ -204,7 +204,7 @@ goto            @Cond_07ee
 
 @Cond_07ee:
 jumpz           @Cond_084e, ($b003 == 3)
-dialogtxt       "Um, then can you please"
+dialogtxt       "Um, then could you please"
 dialogtxt       "remove these bindings?"
 dialogtxt       "It is very hard to move."
 goto            @Cond_084e
@@ -245,7 +245,7 @@ goto            @Cond_0960
 
 @Cond_0960:
 jumpz           @Cond_0998, ($b003 == 1)
-dialogtxt       "You can remove them?"
+dialogtxt       "Can you remove them?"
 goto            @Cond_0998
 
 @Cond_0998:
@@ -432,7 +432,7 @@ goto            @Label_1080
 @Label_1080:
 call            @Func_19da
 jumpz           @Cond_1174, ($b003 == 0)
-dialogtxt       "…!"
+dialogtxt       "… !"
 code0309        
 code0479        0, 3, 12
 dialogtxt       "A-Affirmative."
@@ -493,8 +493,8 @@ goto            @Cond_1268
 
 @Cond_1268:
 jumpz           @Cond_12f4, ($b003 == 3)
-dialogtxt       "Hii…!"
-dialogtxt       "U… understood…!!"
+dialogtxt       "Hii!"
+dialogtxt       "U—understood!"
 code0309        
 code0479        0, 4, 16
 dialogtxt       "(Uu…"

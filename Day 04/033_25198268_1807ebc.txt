@@ -88,7 +88,7 @@ dialogtxt       "Uh, yeah, hi."
 code0309        
 code0479        0, 5, 15
 dialogtxt       "Wait, no!"
-dialogtxt       "Your master's…!"
+dialogtxt       "Your master's— !"
 code0309        
 call            @Func_1948
 call            @Func_1858
@@ -147,13 +147,13 @@ call            @Func_1858
 code0479        1, 2, 16
 call            @Func_188e
 jumpz           @Cond_0720, ($b002 == 0)
-dialogtxt       "Master…!"
+dialogtxt       "Master!"
 dialogtxt       "After all that lecturing,"
 dialogtxt       "she's the one picking a fight."
 goto            @Label_0772
 
 @Cond_0720:
-dialogtxt       "Master…!"
+dialogtxt       "Master!"
 dialogtxt       "After all that lecturing,"
 dialogtxt       "she's the one picking a fight."
 goto            @Label_0772
@@ -307,7 +307,7 @@ code0309
 code0479        0, 5, 15
 dialogtxt       "…Wait, no!"
 dialogtxt       "I was only telling you because"
-dialogtxt       "of Elieze…"
+dialogtxt       "of Eliez…"
 code0309        
 call            @Func_1858
 code0479        1, 1, 12

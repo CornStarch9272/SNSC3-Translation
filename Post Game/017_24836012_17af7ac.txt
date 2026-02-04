@@ -258,7 +258,7 @@ dialogtxt       "Man, you should've known by"
 dialogtxt       "now! The kid is covered head"
 dialogtxt       "to toe in so many scars!"
 code0309        
-dialogtxt       "If you're looking fo Zakk, he's"
+dialogtxt       "If you're looking for Zakk, he's"
 dialogtxt       "currently at the Prosban branch."
 code0309        
 code047e        0, 0

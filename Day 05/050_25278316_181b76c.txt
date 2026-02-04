@@ -6,13 +6,13 @@ code047d        0, 0
 call            @Func_08c0
 call            @Func_07e8
 jumpz           @Cond_00c6, ($b002 == 0)
-dialogtxt       "Why am I now"
+dialogtxt       "Why am I"
 dialogtxt       "locked up in here…"
 dialogtxt       "Just what in the world is going on?"
 goto            @Label_012c
 
 @Cond_00c6:
-dialogtxt       "Why am I now"
+dialogtxt       "Why am I"
 dialogtxt       "locked up in here…"
 dialogtxt       "Just what in the world is going on?"
 goto            @Label_012c

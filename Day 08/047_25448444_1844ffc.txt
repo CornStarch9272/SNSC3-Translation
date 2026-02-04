@@ -134,7 +134,7 @@ code0309
 call            @Func_10dc
 code0479        0, 5, 17
 call            @Func_103a
-dialogtxt       "I-I'm…! Weapons…"
+dialogtxt       "I—I'm… Weapons…"
 dialogtxt       "Right, I'm here to"
 dialogtxt       "strengthen my weapons."
 code0309        

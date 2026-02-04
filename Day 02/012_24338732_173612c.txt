@@ -123,8 +123,8 @@ jumpz           @Cond_0568, ($b071 == 0 && ($h083 != -1 ? 1 : 0))
 code0301        8, 7
 code047d        0, 120
 code047e        0, 1
-dialogtxt       "You don't have any<end_line>"
-dialogtxt       "weapons to deposit.<end_line>"
+dialogtxt       "You don't have any"
+dialogtxt       "weapons to deposit."
 code0309        
 code047e        0, 0
 code0302        7

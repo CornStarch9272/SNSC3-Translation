@@ -506,7 +506,7 @@ code040b
 code0301        8, 7
 code047d        0, 120
 code047e        0, 1
-dialogtxt       "I wonder if the Gold Factio will"
+dialogtxt       "I wonder if the Gold Faction will"
 dialogtxt       "do anything about the Strays."
 code0309        
 code047e        0, 0
@@ -518,7 +518,7 @@ code0301        8, 7
 code047d        0, 120
 code047e        0, 1
 dialogtxt       "West of Prosban is"
-dialogtxt       "the Slenj Mine."
+dialogtxt       "the Surange Mine."
 code0309        
 dialogtxt       "Be careful though. I've heard a"
 dialogtxt       "Stray called Red Wing is there,"
@@ -530,9 +530,9 @@ code040b
 
 @Event_1636:
 code0301        8, 7
-dialogtxt       "Mr. Benson is scowling, seemingly"
-dialogtxt       "saying that your partner has a huge"
-dialogtxt       "effect on the quality of a weapon."
+dialogtxt       "Mr. Benson is scowling, as if to say"
+dialogtxt       "that your partner has a huge effect"
+dialogtxt       "on the quality of a weapon."
 code0309        
 dialogtxt       "He doesn't actually talk though,"
 dialogtxt       "so I'm not completely sure…"

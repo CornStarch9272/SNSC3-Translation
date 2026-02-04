@@ -105,7 +105,7 @@ goto            @Label_047c
 @Label_047c:
 call            @Func_10be
 jumpz           @Cond_049c, ($b003 == 0)
-dialogtxt       "…!"
+dialogtxt       "… !"
 goto            @Cond_049c
 
 @Cond_049c:

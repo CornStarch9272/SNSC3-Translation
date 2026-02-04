@@ -114,7 +114,7 @@ code047e        0, 1
 jumpz           @Cond_05a8, ($b002 == 0)
 dialogtxt       "Wrong way!"
 dialogtxt       "I need to find Bro"
-dialogtxt       "at the Gold Council!"
+dialogtxt       "at the Gold Faction!"
 goto            @Label_05ca
 
 @Cond_05a8:
@@ -442,8 +442,8 @@ code0301        8, 7
 code047d        0, 149
 code047e        0, 1
 dialogtxt       "My mom and I are peddlers!"
-dialogtxt       "Currently we're acquainting with so"
-dialogtxt       "many Craftknights and artisans!"
+dialogtxt       "Currently we're getting to know"
+dialogtxt       "lots of Craftknights and artisans!"
 code0309        
 dialogtxt       "My mom thinks I'm out"
 dialogtxt       "playing around, but I'm"
@@ -460,12 +460,12 @@ choicewait
 
 @Choice_13a6:
 code047e        0, 1
-dialogtxt       "Enhancing with a Ruin Switch"
-dialogtxt       "will add DUR Attack"
+dialogtxt       "Enhancing with a \"Ruin Switch\""
+dialogtxt       "will add the \"DUR Attack\""
 dialogtxt       "to your weapon."
 code0309        
 dialogtxt       "And would you look at that,"
-dialogtxt       "I have one such Ruin Switch"
+dialogtxt       "I have one such \"Ruin Switch\""
 dialogtxt       "available for only…800 Boam!"
 code0309        
 dialogtxt       "How about it?"
@@ -549,7 +549,7 @@ code040b
 code0301        8, 7
 code047d        0, 120
 code047e        0, 1
-dialogtxt       "Oh, you have Summon Beast too."
+dialogtxt       "Oh, you have a Summon Beast too."
 dialogtxt       "Nice to meet you. This is"
 dialogtxt       "my Summon Beast, Myoutarou."
 code0309        
@@ -568,7 +568,7 @@ dialogtxt       "　"
 dialogtxt       "Fishing Friends Newspaper No. 1"
 code0309        
 dialogtxt       "It's said the Deckell Village Pond"
-dialogtxt       "contains a fish who's cuteness"
+dialogtxt       "contains a fish whose cuteness"
 dialogtxt       "cannot be put into words."
 code0309        
 code0302        7
@@ -576,7 +576,7 @@ code040b
 
 @Event_183e:
 code0301        8, 7
-dialogtxt       "Care to try our Lucky Draw?"
+dialogtxt       "Care to try our \"Lucky Draw\"?"
 dialogtxt       "It's available all day, everyday!"
 dialogtxt       "Guaranteed no losing tickets!"
 code0309        

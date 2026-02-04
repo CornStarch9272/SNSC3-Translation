@@ -1218,7 +1218,7 @@ code0479        1, 0, 12
 call            @Func_38ec
 dialogtxt       "At The Bottom Of The Ruins!"
 dialogtxt       "If We Do Not Hurry,"
-dialogtxt       "Lady Murno Will…!"
+dialogtxt       "Lady Murno Will…"
 code0309        
 call            @Func_3922
 code0479        0, 2, 15
@@ -1256,7 +1256,7 @@ code0479        1, 2, 15
 call            @Func_38ec
 dialogtxt       "At the lowest point in the ruins!"
 dialogtxt       "If we do not hurry,"
-dialogtxt       "Murno might be…!"
+dialogtxt       "Murno might be…"
 code0309        
 call            @Func_3922
 code0479        0, 2, 15

@@ -36,7 +36,7 @@ code047d        1, 2
 call            @Func_0f3e
 call            @Func_0ea6
 jumpz           @Cond_02c2, ($b003 == 0)
-dialogtxt       "…!?"
+dialogtxt       "… !?"
 code047b        
 code0309        
 call            @Func_0efa

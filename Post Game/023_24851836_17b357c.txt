@@ -594,15 +594,15 @@ code040b
 @Event_1c28:
 code0301        8, 7
 dialogtxt       "As I feel at unease,"
-dialogtxt       "I yearn to put my mind"
-dialogtxt       "back to peace and silence."
+dialogtxt       "I yean to put my mind"
+dialogtxt       "Back to peace and silence."
 code0309        
 dialogtxt       "In this town, so far away,"
 dialogtxt       "I look to the sky."
 dialogtxt       "Tears falling from my face…"
 code0309        
 dialogtxt       "No matter where you may be,"
-dialogtxt       "above is the same sky I see."
+dialogtxt       "Above is the same sky I see."
 code0309        
 code0302        7
 code040b        
