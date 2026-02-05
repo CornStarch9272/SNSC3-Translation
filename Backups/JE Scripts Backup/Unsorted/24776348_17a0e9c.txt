@@ -1,5 +1,0 @@
-<location>
-	<sjis>
-		村長の家　広間<end_line />
-	</sjis>
-</location>

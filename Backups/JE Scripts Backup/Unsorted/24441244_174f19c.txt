@@ -1,5 +1,0 @@
-<location>
-	<sjis>
-		ロブ工房　２階<end_line />
-	</sjis>
-</location>
