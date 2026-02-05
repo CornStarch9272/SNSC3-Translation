@@ -66,7 +66,7 @@ async function mainSetup() {
     octokit.rest.repos.getContent({
         owner: 'CornStarch9272',
         repo: 'SNSC3-Translation',
-        ref: 'IScript Development',
+        ref: 'IScript-Development',
     }).then(response => {
         for (let item of response.data) {
             if (item.type === 'dir') {
@@ -122,7 +122,7 @@ async function loadDay() {
     octokit.rest.repos.getContent({
         owner: 'CornStarch9272',
         repo: 'SNSC3-Translation',
-        ref: 'IScript Development',
+        ref: 'IScript-Development',
         path: day_selector.value,
     }).then(response => {
         for (let item of response.data) {
@@ -154,7 +154,7 @@ async function loadChapter() {
     await octokit.rest.repos.getContent({
         owner: 'CornStarch9272',
         repo: 'SNSC3-Translation',
-        ref: 'IScript Development',
+        ref: 'IScript-Development',
         path: day_selector.value + '/' + chapter_selector.value,
     }).then(async response => {
         enFilename = chapter_selector.value;
@@ -177,7 +177,7 @@ async function readJPFile()
     await octokit.rest.repos.getContent({
         owner: 'CornStarch9272',
         repo: 'SNSC3-Translation',
-        ref: 'IScript Development',
+        ref: 'IScript-Development',
         path: 'script untranslated' + '/' + jpScriptPath,
     }).then(response => {
         const decodedText = new TextDecoder().decode(
