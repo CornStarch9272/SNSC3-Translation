@@ -1,0 +1,139 @@
+:root {
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+}
+
+header {
+    margin-bottom: 1.5rem;
+}
+
+pre {
+    background: #222;
+    color: #0f0;
+    padding: 1rem;
+    border-radius: 6px;
+    overflow: auto;
+}
+
+#content {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 28px;
+    position: relative;
+    width: 80%;
+    margin: auto;
+    padding-top: 20px;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+/* If you want the content centered horizontally and vertically */
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.centered-horizonally {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: left;
+}
+
+/* Style the image inside the centered container, if needed */
+.centered img {
+    width: 150px;
+    border-radius: 50%;
+}
+
+.hidden {
+    display: none;
+}
+
+.dialogue {
+    font-size: 16px;
+}
+
+.bigtext {
+    font-size: 36px;
+}
+
+.placetxt {
+    color: blue;
+}
+
+.maletxt {
+    color: black;
+}
+
+.femaletxt {
+    color: black;
+}
+
+.bothgenders {
+    color: black;
+}
+
+.menutxt {
+    color: purple;
+}
+
+.multiline {
+    white-space: pre-wrap;
+}
+
+.codetext {
+    color: black;
+}
+
+.flex {
+    display: flex;
+    margin-right: 10px;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.error {
+    background-color: pink;
+}
+
+.no-error {
+    background-color: lightgreen;
+}
+
+textarea {
+    background-color: #a3a3a3;
+    resize: none;
+    font-family: 'Courier New', Courier, monospace;
+    width: 40%;
+}
+
+.charcount-textarea {
+    text-align: left;
+    columns: 3;
+    width: 3em;
+    margin-right: 0px;
+}
+
+p {
+    margin-bottom: 0;
+    margin-top: 0;
+    line-height: 1.4;
+    text-align: center;
+}
+
+#body {
+    background-color: #787878;
+    margin: 0 0 20px 0;
+    padding: 0;
+}
+
+.jp-area {
+    color: black;
+}

@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1,charset=UTF-8" />
+    <title>IScript Editor</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body id ="body">
+    <div class="container">
+        <header>
+            <h3 id="filename-display">IScript Editor</h3>
+        </header>
+        <header>
+            <div>
+                <select id="day-selector"></select>
+                <select id="chapter-selector"></select>
+                <button id="load-button">Go</button>
+            </div>
+            <div>
+                <button id="open-button">Open</button>
+                <button id="save-button">Save</button>
+                <button id="toggle-jp-button">Toggle JP</button>
+                <button id="toggle-code-button">Toggle Code</button>
+                <button id="special-characters-button">Sp. Characters</button>
+                <button id="about-button">About</button>
+                <input type="file" id="open-file-input" style="display: none;" />
+            </div>
+        </header>
+    </div>
+    <div class="centered-horizontally">
+        <div id="content" spellcheck="false">
+        </div>
+    </div>
+    <script src="app.js" ></script>
+</body>
+</html>
