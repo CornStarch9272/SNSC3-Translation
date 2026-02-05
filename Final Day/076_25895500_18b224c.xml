@@ -1,0 +1,26 @@
+<tl_file>
+	<location>
+		<sjis>
+			ゴヴァンの遺跡<end_line />
+		</sjis>
+		<ascii>
+			Govan Ruins<end_line />
+		</ascii>
+	</location>
+	<location>
+		<sjis>
+			ゴヴァンの遺跡　エリア１０<end_line />
+		</sjis>
+		<ascii>
+			Govan Ruins　Area 10<end_line />
+		</ascii>
+	</location>
+	<popup>
+		<sjis>
+			元気になった！<end_line />
+		</sjis>
+		<ascii>
+			You feel refreshed!<end_line />
+		</ascii>
+	</popup>
+</tl_file>

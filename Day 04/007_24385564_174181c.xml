@@ -1,0 +1,62 @@
+<tl_file>
+	<location>
+		<sjis>
+			ディックル村<end_line />
+		</sjis>
+		<ascii>
+			Deckell Village<end_line />
+		</ascii>
+	</location>
+	<location>
+		<sjis>
+			ディックル村　広場<end_line />
+		</sjis>
+		<ascii>
+			Deckell Village　Square<end_line />
+		</ascii>
+	</location>
+	<dialogue>
+		<info box="simple" />
+		<portrait_l name="elderly" />
+		<sjis>
+			小豆は体にええぞぉ<end_line />
+		</sjis>
+		<ascii>
+			Red beans are good for the body.<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<info box="simple" />
+		<portrait_l name="child" />
+		<sjis>
+			村の外には、はぐれが<end_line />
+			いっぱいいるから<end_line />
+			出ちゃいけないんだよ<end_line />
+		</sjis>
+		<ascii>
+			There's lots of Strays<end_line />
+			outside the village.<end_line />
+			I'm not allowed to go out.<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<info box="simple" />
+		<portrait_l name="child" />
+		<sjis>
+			でも、いつか旅立つ日が来るのよ<end_line />
+		</sjis>
+		<ascii>
+			But one day, I'll go on a journey.<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<info box="simple" />
+		<portrait_l name="gatekeeper" />
+		<sjis>
+			特に何も問題は起きてないよ<end_line />
+		</sjis>
+		<ascii>
+			No problems here.<end_line />
+		</ascii>
+	</dialogue>
+</tl_file>

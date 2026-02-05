@@ -1,0 +1,24 @@
+<tl_file>
+	<location>
+		<sjis>
+			ルイーズ村　牢屋<end_line />
+		</sjis>
+		<ascii>
+			Louise Village　Jail<end_line />
+		</ascii>
+	</location>
+	<dialogue>
+		<info box="simple" />
+		<portrait_l name="jailer" />
+		<sjis>
+			牢屋なんて<end_line />
+			使わないのが一番ですよね<end_line />
+			でも、ボクの仕事なくなっちゃうの？<end_line />
+		</sjis>
+		<ascii>
+			It's for the best if no one<end_line />
+			get sent to prison, yeah? But won't<end_line />
+			that mean I'll lose my job though?<end_line />
+		</ascii>
+	</dialogue>
+</tl_file>

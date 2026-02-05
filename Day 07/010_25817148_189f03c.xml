@@ -1,0 +1,53 @@
+<tl_file>
+	<location>
+		<sjis>
+			グマグの炎遺跡<end_line />
+		</sjis>
+		<ascii>
+			Gumag Fire Ruins<end_line />
+		</ascii>
+	</location>
+	<location>
+		<sjis>
+			グマグの炎遺跡　エリア１<end_line />
+		</sjis>
+		<ascii>
+			Gumag Fire Ruins　Area 1<end_line />
+		</ascii>
+	</location>
+	<dialogue>
+		<sjis>
+			床にあるスイッチをハンマーで殴ると<end_line />
+			溶岩の上に浮かんだプレートが<end_line />
+			移動します<end_line />
+		</sjis>
+		<ascii>
+			The floating plates will<end_line />
+			move when you hit the switch<end_line />
+			on the floor with your hammer.<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<sjis>
+			移動する方向はスイッチの形に対応し<end_line />
+			最大４つのスイッチを操作する<end_line />
+			プレートもあります<end_line />
+		</sjis>
+		<ascii>
+			The direction depends on the <end_line />
+			switch's shape, and the<end_line />
+			switches may affect up to 4 plates.<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<sjis>
+			この扉は、武器に対応したスイッチを<end_line />
+			押すことで開く事ができます<end_line />
+		</sjis>
+		<ascii>
+			Open the door by pressing<end_line />
+			the matching switch for<end_line />
+			the weapon shown.<end_line />
+		</ascii>
+	</dialogue>
+</tl_file>

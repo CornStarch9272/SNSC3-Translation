@@ -1,0 +1,13 @@
+<tl_file>
+	<dialogue>
+		<info box="right" />
+		<portrait_l entry="player" eye="serious" mouth="neutral" />
+		<portrait_r entry="benson" eye="serious" mouth="neutral" />
+		<sjis>
+			ん<three_dots /><end_line />
+		</sjis>
+		<ascii>
+			Hm<three_dots /><end_line />
+		</ascii>
+	</dialogue>
+</tl_file>

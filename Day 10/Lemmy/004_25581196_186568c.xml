@@ -1,0 +1,38 @@
+<tl_file>
+	<dialogue>
+		<info box="right" />
+		<portrait_l entry="player" eye="serious" mouth="tense" />
+		<portrait_r entry="lemmy" eye="serious" mouth="neutral" />
+		<sjis>
+			勝負の準備はできた？<end_line />
+		</sjis>
+		<ascii>
+			Are you ready?<end_line />
+		</ascii>
+	</dialogue>
+	<choice>
+		<info box="left" />
+		<portrait_l entry="player" eye="serious" mouth="serious" />
+		<portrait_r entry="lemmy" eye="serious" mouth="neutral" />
+		<male>
+			<sjis>
+				バッチリできてるぜ<end_line />
+				もう少し待ってろ<end_line />
+			</sjis>
+			<ascii>
+				I'm ready when you are!<end_line />
+				Give me a moment<three_dots /><end_line />
+			</ascii>
+		</male>
+		<female>
+			<sjis>
+				バッチリできてるよ<end_line />
+				もう少し待ってて<end_line />
+			</sjis>
+			<ascii>
+				I'm ready when you are!<end_line />
+				Give me a moment<three_dots /><end_line />
+			</ascii>
+		</female>
+	</choice>
+</tl_file>

@@ -1,0 +1,36 @@
+<tl_file>
+	<location>
+		<sjis>
+			ベリートの森<end_line />
+		</sjis>
+		<ascii>
+			Beleet Forest<end_line />
+		</ascii>
+	</location>
+	<location>
+		<sjis>
+			ベリートの森　エリア４<end_line />
+		</sjis>
+		<ascii>
+			Beleet Forest　Area 4<end_line />
+		</ascii>
+	</location>
+	<dialogue>
+		<info box="simple" />
+		<portrait_l name="stray_cat" />
+		<sjis>
+			にゃ？<end_line />
+		</sjis>
+		<ascii>
+			Meow?<end_line />
+		</ascii>
+	</dialogue>
+	<popup>
+		<sjis>
+			迷いネコを保護した！<end_line />
+		</sjis>
+		<ascii>
+			You found the lost cat!<end_line />
+		</ascii>
+	</popup>
+</tl_file>

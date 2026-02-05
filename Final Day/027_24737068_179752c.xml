@@ -1,0 +1,51 @@
+<tl_file>
+	<location>
+		<sjis>
+			ボスタフ工房　本部<end_line />
+		</sjis>
+		<ascii>
+			Bostaph's Workshop　Headquarters<end_line />
+		</ascii>
+	</location>
+	<dialogue>
+		<info box="simple" />
+		<portrait_l name="man" />
+		<sjis>
+			強くない武器には価値がない<end_line />
+			強い武器は強いマテルと<end_line />
+			良い材料で出来るものだ<end_line />
+		</sjis>
+		<ascii>
+			Weak weapons have no value!<end_line />
+			Strong weapons made with quality<end_line />
+			Shapestones and ores otherwise do!<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<info box="simple" />
+		<portrait_l name="man" />
+		<sjis>
+			心が強くなければ強い武器は作れない<end_line />
+			そのためには日々心の鍛錬も<end_line />
+			鍛冶職人としての修行のひとつだ<end_line />
+		</sjis>
+		<ascii>
+			Strong hearts forge strong weapons!<end_line />
+			Therefore, tempering the heart is<end_line />
+			essential to your training!<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<info box="simple" />
+		<portrait_l name="man" />
+		<sjis>
+			あんだよ<end_line />
+			忙しいんだ<end_line />
+			とっとと帰れよ<end_line />
+		</sjis>
+		<ascii>
+			The hell do you want?<end_line />
+			Can't you see I'm busy!?<end_line />
+			Just get outta here!<end_line />
+	</dialogue>
+</tl_file>

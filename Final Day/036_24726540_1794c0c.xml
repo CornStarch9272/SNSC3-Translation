@@ -1,0 +1,50 @@
+<tl_file>
+	<location>
+		<sjis>
+			プロスバンの町　駅<end_line />
+		</sjis>
+		<ascii>
+			Prosban　Station<end_line />
+		</ascii>
+	</location>
+	<dialogue>
+		<info box="simple" />
+		<portrait_l name="man" />
+		<sjis>
+			確かスポート洞窟を抜けた先だったと<end_line />
+			思うんだが、廃墟があるってうわさだな<end_line />
+		</sjis>
+		<ascii>
+			This is all hearsay, but I heard<end_line />
+			that there are ruins beyond the<end_line />
+			far end of Sproat Grotto<three_dots /><end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<info box="simple" />
+		<portrait_l name="man" />
+		<sjis>
+			もとは村があった場所らしいけど<end_line />
+			行ってみないとわからないな<end_line />
+		</sjis>
+		<ascii>
+			Apparently a village used to<end_line />
+			exist there, why not check<end_line />
+			it out for yourselves?<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<info box="simple" />
+		<portrait_l name="man" />
+		<sjis>
+			魔法で攻撃してもダメージが<end_line />
+			１の場合には、魔法が効かない<end_line />
+			恐ろしい相手の可能性があります<end_line />
+		</sjis>
+		<ascii>
+			If you can only muster one speck of<end_line />
+			magic damage, it's useless against<end_line />
+			opponents immune to it.<end_line />
+		</ascii>
+	</dialogue>
+</tl_file>

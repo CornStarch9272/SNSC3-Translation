@@ -1,0 +1,986 @@
+<tl_file>
+	<dialogue>
+		<info box="right" />
+		<portrait_l entry="murno" eye="serious" mouth="serious" />
+		<portrait_r entry="player" eye="serious" mouth="tense" />
+		<sjis>
+			どう、ミューノ？<end_line />
+			なんかわかった？<end_line />
+		</sjis>
+		<ascii>
+			Well?<end_line />
+			Figure anything out, Murno?<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<info box="left" />
+		<portrait_l entry="murno" eye="serious" mouth="tense" />
+		<portrait_r entry="player" eye="serious" mouth="tense" />
+		<sjis>
+			この魔晶柱<three_dots /><end_line />
+			やっぱり私の村にあったのと<end_line />
+			同じなのかしら<three_dots />？<end_line />
+		</sjis>
+		<ascii>
+			This Crystal Pillar<three_dots /><end_line />
+			Like I thought, maybe it's the<end_line />
+			same as the one in my village<three_dots /><end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<partner name="run-dor" />
+		<info box="right" />
+		<portrait_l entry="murno" eye="serious" mouth="tense" />
+		<portrait_r entry="partner" eye="serious" mouth="neutral" />
+		<sjis>
+			魔晶柱カラ　波動ヲ　検知シテイマス<end_line />
+			ご※ぁんノ魔石ノ影響ヲ<end_line />
+			受ケテイルヨウニ　思ワレマス<end_line />
+		</sjis>
+		<ascii>
+			I Detect A Signal Coming From The<end_line />
+			Pillar. It Must Be Affected By<end_line />
+			Govan's Demon Stone.<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<partner name="run-dor" />
+		<info box="left" />
+		<portrait_l entry="murno" eye="decided" mouth="tense" />
+		<portrait_r entry="partner" eye="serious" mouth="neutral" />
+		<sjis>
+			魔石の<three_dots />？<end_line />
+		</sjis>
+		<ascii>
+			The Demon Stone<three_dots />?<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<partner name="run-dor" />
+		<info box="right" />
+		<portrait_l entry="murno" eye="decided" mouth="tense" />
+		<portrait_r entry="partner" eye="serious" mouth="neutral" />
+		<sjis>
+			私タチガ　村カラ<end_line />
+			逃ゲテキタ時ニ　検知シタ波動ト<end_line />
+			酷似シテイマス<end_line />
+		</sjis>
+		<ascii>
+			I Detected It When We Ran<end_line />
+			From The Village.<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<partner name="run-dor" />
+		<info box="right" />
+		<portrait_r entry="player" eye="decided" mouth="tense" />
+		<sjis>
+			え<three_dots />？<end_line />
+			わかんないよ<end_line />
+			どういうことだよ？<end_line />
+		</sjis>
+		<ascii>
+			Huh<end_line />?<end_line />
+			I don't get it!<end_line />
+			What do you mean by that!?<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<player gender="female" />
+		<partner name="run-dor" />
+		<info box="right" />
+		<portrait_r entry="player" eye="decided" mouth="tense" />
+		<sjis>
+			どういうこと？<end_line />
+		</sjis>
+		<ascii>
+			What do you mean by that!?<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<partner name="run-dor" />
+		<info box="left" />
+		<portrait_l entry="murno" eye="decided" mouth="serious" />
+		<sjis>
+			魔石に、何か<three_dots /><end_line />
+		</sjis>
+		<ascii>
+			I Advise Caution.<end_line />
+			The Demon Stone Is<three_dots /><end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<partner name="run-dor" />
+		<info box="right" />
+		<portrait_r entry="player" eye="surprised" mouth="yell" />
+		<sjis>
+			な！<end_line />
+			今度はなんだよ！？<end_line />
+		</sjis>
+		<ascii>
+			The Demon Stone!<end_line />
+			What's happening to it!?<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<player gender="female" />
+		<partner name="run-dor" />
+		<info box="right" />
+		<portrait_r entry="player" eye="surprised" mouth="yell" />
+		<sjis>
+			今度はなに！？<end_line />
+		</sjis>
+		<ascii>
+			What's happening to it!?<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<partner name="run-dor" />
+		<info box="simple" />
+		<portrait_l name="magdrad" />
+		<portrait_r name="player" />
+		<sjis>
+			グルルル<three_dots /><end_line />
+		</sjis>
+		<ascii>
+			Grrrrrr<three_dots /><end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<partner name="run-dor" />
+		<info box="left" />
+		<portrait_l entry="gallahan" eye="decided" mouth="serious" />
+		<sjis>
+			どうしたんだ？<end_line />
+			マグドラド<end_line />
+		</sjis>
+		<ascii>
+			Magdrad?<end_line />
+			What's wrong!?<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<partner name="run-dor" />
+		<info box="right" />
+		<portrait_l entry="murno" eye="decided" mouth="serious" />
+		<portrait_r entry="partner" eye="serious" mouth="neutral" />
+		<sjis>
+			気ヲツケテ下サイ<end_line />
+			魔晶柱カラ　発セラレテイル<end_line />
+			波動ガ　強クナッテイマス<end_line />
+		</sjis>
+		<ascii>
+			Please Exercise Caution.<end_line />
+			Malicious Energy Waves From<end_line />
+			The Crystal Pillars Detected<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<partner name="run-dor" />
+		<info box="left" />
+		<portrait_l entry="murno" eye="decided" mouth="tense" />
+		<portrait_r entry="partner" eye="serious" mouth="neutral" />
+		<sjis>
+			まさか<three_dots /><end_line />
+			その波動が召喚獣を<end_line />
+			暴れさせてしまうの<three_dots />！？<end_line />
+		</sjis>
+		<ascii>
+			Oh no<three_dots /><end_line />
+			Could it be that whatever it felt<end_line />
+			from the stone made it go mad?<end_line />
+		</ascii>
+	</dialogue>
+	<bigtext>
+		<partner name="run-dor" />
+		<info box="left" />
+		<portrait_l entry="murno" eye="happy" mouth="yell" />
+		<sjis>
+			きゃあっ！<end_line />
+		</sjis>
+		<ascii>
+			Eeek!<end_line />
+		</ascii>
+	</bigtext>
+	<dialogue>
+		<partner name="run-dor" />
+		<info box="right" />
+		<portrait_r entry="player" eye="surprised" mouth="yell" />
+		<sjis>
+			ミューノっ！<end_line />
+			大丈夫か！？<end_line />
+		</sjis>
+		<ascii>
+			Murno!<end_line />
+			Are you okay!?<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<player gender="female" />
+		<partner name="run-dor" />
+		<info box="right" />
+		<portrait_r entry="player" eye="surprised" mouth="yell" />
+		<sjis>
+			大丈夫！？<end_line />
+		</sjis>
+		<ascii>
+			Are you okay!?<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<partner name="run-dor" />
+		<info box="left" />
+		<portrait_l entry="gallahan" eye="decided" mouth="yell" />
+		<portrait_r entry="partner" eye="serious" mouth="neutral" />
+		<sjis>
+			どうしたんだ！？<end_line />
+			マグドラド！？<end_line />
+		</sjis>
+		<ascii>
+			Magdrad?<end_line />
+			What's wrong!?<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<partner name="run-dor" />
+		<info box="right" />
+		<portrait_l entry="gallahan" eye="decided" mouth="yell" />
+		<portrait_r entry="partner" eye="surprised" mouth="neutral" />
+		<sjis>
+			召喚主ガイナイト　オトナシイノデハ<end_line />
+			ナカッタノデスカ？<end_line />
+		</sjis>
+		<ascii>
+			ERROR: Not Bound To A Summoner!<end_line />
+			The Lack Of Control Over Magdrad<end_line />
+			Should Be Impossible!<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<partner name="enzi" />
+		<info box="right" />
+		<portrait_l entry="murno" eye="serious" mouth="tense" />
+		<portrait_r entry="partner" eye="decided" mouth="serious" />
+		<sjis>
+			何やらイヤな気配がしておるの<three_dots /><end_line />
+			ゴヴァンの魔石と共鳴しておるのか？<end_line />
+		</sjis>
+		<ascii>
+			The air makes me naught but unease<three_dots /><end_line />
+			Was Govan's Demon Stone attached<end_line />
+			To the Crystal Pillars?<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<partner name="enzi" />
+		<info box="left" />
+		<portrait_l entry="murno" eye="decided" mouth="tense" />
+		<portrait_r entry="partner" eye="decided" mouth="serious" />
+		<sjis>
+			魔石と<three_dots />？<end_line />
+		</sjis>
+		<ascii>
+			The Demon Stone<three_dots />?<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<partner name="enzi" />
+		<info box="right" />
+		<portrait_l entry="murno" eye="decided" mouth="tense" />
+		<portrait_r entry="partner" eye="decided" mouth="tense" />
+		<sjis>
+			この気配どこかで<three_dots /><end_line />
+			そうじゃ、我らが村を出たときに<end_line />
+			感じた気配に似ておるぞ<three_dots /><end_line />
+		</sjis>
+		<ascii>
+			Where have I felt this before<three_dots /><end_line />
+			<three_dots />Indeed, I recognized its aura<end_line />
+			from when we fleed our village!<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<partner name="enzi" />
+		<info box="right" />
+		<portrait_r entry="player" eye="decided" mouth="tense" />
+		<sjis>
+			え<three_dots />？<end_line />
+			わかんないよ<end_line />
+			どういうことだよ？<end_line />
+		</sjis>
+		<ascii>
+			Huh<end_line />?<end_line />
+			I don't get it!<end_line />
+			What do you mean by that!?<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<player gender="female" />
+		<partner name="enzi" />
+		<info box="right" />
+		<portrait_r entry="player" eye="decided" mouth="tense" />
+		<sjis>
+			どういうこと？<end_line />
+		</sjis>
+		<ascii>
+			What do you mean by that!?<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<partner name="enzi" />
+		<info box="left" />
+		<portrait_l entry="murno" eye="decided" mouth="serious" />
+		<sjis>
+			魔石に、何か<three_dots /><end_line />
+		</sjis>
+		<ascii>
+			I can sense that something's amiss<three_dots /><end_line />
+			<three_dots />The Demon Stone!<end_line /> 
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<partner name="enzi" />
+		<info box="right" />
+		<portrait_r entry="player" eye="surprised" mouth="yell" />
+		<sjis>
+			な！<end_line />
+			今度はなんだよ！？<end_line />
+		</sjis>
+		<ascii>
+			The Demon Stone!<end_line />
+			What's happening to it!?<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<player gender="female" />
+		<partner name="enzi" />
+		<info box="right" />
+		<portrait_r entry="player" eye="surprised" mouth="yell" />
+		<sjis>
+			今度はなに！？<end_line />
+		</sjis>
+		<ascii>
+			What's happening to it!?<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<partner name="enzi" />
+		<info box="simple" />
+		<portrait_l name="magdrad" />
+		<portrait_r name="player" />
+		<sjis>
+			グルルル<three_dots /><end_line />
+		</sjis>
+		<ascii>
+			Grrrrrr<three_dots /><end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<partner name="enzi" />
+		<info box="left" />
+		<portrait_l entry="gallahan" eye="decided" mouth="serious" />
+		<sjis>
+			どうしたんだ？<end_line />
+			マグドラド<end_line />
+		</sjis>
+		<ascii>
+			Magdrad?<end_line />
+			What's wrong!?<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<partner name="enzi" />
+		<info box="right" />
+		<portrait_l entry="murno" eye="decided" mouth="serious" />
+		<portrait_r entry="partner" eye="decided" mouth="yell" />
+		<sjis>
+			気をつけるのじゃ！<end_line />
+			イヤな気配が強くなっておるぞ！<end_line />
+		</sjis>
+		<ascii>
+			Stay vigilant!<end_line />
+			I can sense a strong and<end_line />
+			malicious aura from it!<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<partner name="enzi" />
+		<info box="left" />
+		<portrait_l entry="murno" eye="decided" mouth="tense" />
+		<portrait_r entry="partner" eye="decided" mouth="yell" />
+		<sjis>
+			まさか<three_dots /><end_line />
+			それが召喚獣を<end_line />
+			あばれさせる原因<three_dots />！？<end_line />
+		</sjis>
+		<ascii>
+			Oh no<three_dots /><end_line />
+			Could it be that whatever it felt<end_line />
+			from the stone made it go mad?<end_line />
+		</ascii>
+	</dialogue>
+	<bigtext>
+		<partner name="enzi" />
+		<info box="left" />
+		<portrait_l entry="murno" eye="happy" mouth="yell" />
+		<sjis>
+			きゃあっ！<end_line />
+		</sjis>
+		<ascii>
+			Eeek!<end_line />
+		</ascii>
+	</bigtext>
+	<dialogue>
+		<partner name="enzi" />
+		<info box="right" />
+		<portrait_r entry="player" eye="surprised" mouth="yell" />
+		<sjis>
+			ミューノっ！<end_line />
+			大丈夫か！？<end_line />
+		</sjis>
+		<ascii>
+			Murno!<end_line />
+			Are you okay!?<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<player gender="female" />
+		<partner name="enzi" />
+		<info box="right" />
+		<portrait_r entry="player" eye="surprised" mouth="yell" />
+		<sjis>
+			大丈夫！？<end_line />
+		</sjis>
+		<ascii>
+			Are you okay!?<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<partner name="enzi" />
+		<info box="left" />
+		<portrait_l entry="gallahan" eye="decided" mouth="yell" />
+		<portrait_r entry="partner" eye="serious" mouth="neutral" />
+		<sjis>
+			どうしたんだ！？<end_line />
+			マグドラド！？<end_line />
+		</sjis>
+		<ascii>
+			Magdrad?<end_line />
+			What's wrong!?<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<partner name="enzi" />
+		<info box="right" />
+		<portrait_l entry="gallahan" eye="decided" mouth="yell" />
+		<portrait_r entry="partner" eye="special" mouth="yell" />
+		<sjis>
+			召喚主がいなければ<end_line />
+			何もしないのでは<end_line />
+			なかったのか！<end_line />
+		</sjis>
+		<ascii>
+			It's not bound to a Summoner now,<end_line />
+			is it!? How can it be that Magrdad<end_line />
+			went berserk on its own!?<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<partner name="killfith" />
+		<info box="right" />
+		<portrait_l entry="murno" eye="serious" mouth="tense" />
+		<portrait_r entry="partner" eye="decided" mouth="serious" />
+		<sjis>
+			ちっ<three_dots /><end_line />
+			イヤな感じだ<end_line />
+			ゴヴァンの魔石と共鳴してるのか？<end_line />
+		</sjis>
+		<ascii>
+			Tch<three_dots />I can sense malice.<end_line />
+			Was Govan's Demon Stone attached<end_line />
+			To the Crystal Pillars?<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<partner name="killfith" />
+		<info box="left" />
+		<portrait_l entry="murno" eye="decided" mouth="tense" />
+		<portrait_r entry="partner" eye="decided" mouth="serious" />
+		<sjis>
+			魔石と<three_dots />？<end_line />
+		</sjis>
+		<ascii>
+			The Demon Stone<three_dots />?<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<partner name="killfith" />
+		<info box="right" />
+		<portrait_l entry="murno" eye="decided" mouth="tense" />
+		<portrait_r entry="partner" eye="decided" mouth="tense" />
+		<sjis>
+			この感じ<three_dots />、そうだ<three_dots /><end_line />
+			私たちが村を出たときの感じに<end_line />
+			似ている<three_dots /><end_line />
+		</sjis>
+		<ascii>
+			This feeling<three_dots />I remember now!<end_line />
+			Last I felt this malice was when<end_line />
+			when we fleed from the village!<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<partner name="killfith" />
+		<info box="right" />
+		<portrait_r entry="player" eye="decided" mouth="tense" />
+		<sjis>
+			え<three_dots />？<end_line />
+			わかんないよ<end_line />
+			どういうことだよ？<end_line />
+		</sjis>
+		<ascii>
+			Huh<end_line />?<end_line />
+			I don't get it!<end_line />
+			What do you mean by that!?<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<player gender="female" />
+		<partner name="killfith" />
+		<info box="right" />
+		<portrait_r entry="player" eye="decided" mouth="tense" />
+		<sjis>
+			どういうこと？<end_line />
+		</sjis>
+		<ascii>
+			What do you mean by that!?<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<partner name="killfith" />
+		<info box="left" />
+		<portrait_l entry="murno" eye="decided" mouth="serious" />
+		<sjis>
+			魔石に、何か<three_dots /><end_line />
+		</sjis>
+		<ascii>
+			Something feels off here<three_dots /><end_line />
+			<three_dots />The Demon Stone!<end_line /> 
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<partner name="killfith" />
+		<info box="right" />
+		<portrait_r entry="player" eye="surprised" mouth="yell" />
+		<sjis>
+			な！<end_line />
+			今度はなんだよ！？<end_line />
+		</sjis>
+		<ascii>
+			The Demon Stone!<end_line />
+			What's happening to it!?<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<player gender="female" />
+		<partner name="killfith" />
+		<info box="right" />
+		<portrait_r entry="player" eye="surprised" mouth="yell" />
+		<sjis>
+			今度はなに！？<end_line />
+		</sjis>
+		<ascii>
+			What's happening to it!?<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<partner name="killfith" />
+		<info box="simple" />
+		<portrait_l name="magdrad" />
+		<portrait_r name="player" />
+		<sjis>
+			グルルル<three_dots /><end_line />
+		</sjis>
+		<ascii>
+			Grrrrrr<three_dots /><end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<partner name="killfith" />
+		<info box="left" />
+		<portrait_l entry="gallahan" eye="decided" mouth="serious" />
+		<sjis>
+			どうしたんだ？<end_line />
+			マグドラド<end_line />
+		</sjis>
+		<ascii>
+			Magdrad?<end_line />
+			What's wrong!?<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<partner name="killfith" />
+		<info box="right" />
+		<portrait_l entry="murno" eye="decided" mouth="serious" />
+		<portrait_r entry="partner" eye="decided" mouth="serious" />
+		<sjis>
+			ちっ<three_dots />！<end_line />
+			イヤな感じが強くなった<end_line />
+		</sjis>
+		<ascii>
+			<three_dots /> Tsk!<end_line />
+			I can feel its malice<end_line />
+			grow even stronger!<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<partner name="killfith" />
+		<info box="left" />
+		<portrait_l entry="murno" eye="surprised" mouth="tense" />
+		<portrait_r entry="partner" eye="decided" mouth="serious" />
+		<sjis>
+			まさか<three_dots /><end_line />
+			それが召喚獣を<end_line />
+			あばれさせる原因<three_dots />！？<end_line />
+		</sjis>
+		<ascii>
+			Oh no<three_dots /><end_line />
+			Could it be that whatever it felt<end_line />
+			from the stone made it go mad?<end_line />
+		</ascii>
+	</dialogue>
+	<bigtext>
+		<partner name="killfith" />
+		<info box="left" />
+		<portrait_l entry="murno" eye="happy" mouth="yell" />
+		<sjis>
+			きゃあっ！<end_line />
+		</sjis>
+		<ascii>
+			Eeek!<end_line />
+		</ascii>
+	</bigtext>
+	<dialogue>
+		<partner name="killfith" />
+		<info box="right" />
+		<portrait_r entry="player" eye="surprised" mouth="yell" />
+		<sjis>
+			ミューノっ！<end_line />
+			大丈夫か！？<end_line />
+		</sjis>
+		<ascii>
+			Murno!<end_line />
+			Are you okay!?<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<player gender="female" />
+		<partner name="killfith" />
+		<info box="right" />
+		<portrait_r entry="player" eye="surprised" mouth="yell" />
+		<sjis>
+			大丈夫！？<end_line />
+		</sjis>
+		<ascii>
+			Are you okay!?<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<partner name="killfith" />
+		<info box="left" />
+		<portrait_l entry="gallahan" eye="decided" mouth="yell" />
+		<portrait_r entry="partner" eye="serious" mouth="neutral" />
+		<sjis>
+			どうしたんだ！？<end_line />
+			マグドラド！？<end_line />
+		</sjis>
+		<ascii>
+			Magdrad?<end_line />
+			What's wrong!?<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<partner name="killfith" />
+		<info box="right" />
+		<portrait_l entry="gallahan" eye="decided" mouth="yell" />
+		<portrait_r entry="partner" eye="special" mouth="yell" />
+		<sjis>
+			召喚主がいなければ<end_line />
+			何もしないハズじゃ<end_line />
+			なかったのか！<end_line />
+		</sjis>
+		<ascii>
+			It's not bound to a Summoner!<end_line />
+			Why is Magrdad acting berserk<end_line />
+			on its own!?<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<partner name="rufeel" />
+		<info box="right" />
+		<portrait_l entry="murno" eye="serious" mouth="tense" />
+		<portrait_r entry="partner" eye="sad" mouth="serious" />
+		<sjis>
+			なんだかイヤな感じですわ<three_dots /><end_line />
+			これってミューノ様の<end_line />
+			ゴヴァンの魔石からも<three_dots /><end_line />
+		</sjis>
+		<ascii>
+			I feel queasy<three_dots /> I wonder if I<end_line />
+			sensed Govan's Demon Stone?<end_line />
+			It belonged to Lady Murno<three_dots /><end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<partner name="rufeel" />
+		<info box="left" />
+		<portrait_l entry="murno" eye="decided" mouth="tense" />
+		<portrait_r entry="partner" eye="sad" mouth="serious" />
+		<sjis>
+			魔石からも<three_dots />？<end_line />
+		</sjis>
+		<ascii>
+			Then, that meant the Demon Stone<three_dots /><end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<partner name="rufeel" />
+		<info box="right" />
+		<portrait_l entry="murno" eye="decided" mouth="tense" />
+		<portrait_r entry="partner" eye="decided" mouth="tense" />
+		<sjis>
+			この感じ<three_dots />、そうですわ<three_dots /><end_line />
+			私たちが村を出たときの感じに<end_line />
+			似ているんです<three_dots /><end_line />
+		</sjis>
+		<ascii>
+			This feeling<three_dots />indeed, it is<three_dots /><end_line />
+			This was the very same thing I<end_line />
+			felt when we fled the village!<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<partner name="rufeel" />
+		<info box="right" />
+		<portrait_r entry="player" eye="decided" mouth="tense" />
+		<sjis>
+			え<three_dots />？<end_line />
+			わかんないよ<end_line />
+			どういうことだよ？<end_line />
+		</sjis>
+		<ascii>
+			Huh<end_line />?<end_line />
+			I don't get it!<end_line />
+			What do you mean by that!?<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<player gender="female" />
+		<partner name="rufeel" />
+		<info box="right" />
+		<portrait_r entry="player" eye="decided" mouth="tense" />
+		<sjis>
+			どういうこと？<end_line />
+		</sjis>
+		<ascii>
+			What do you mean by that!?<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<partner name="rufeel" />
+		<info box="left" />
+		<portrait_l entry="murno" eye="decided" mouth="serious" />
+		<sjis>
+			魔石に、何か<three_dots /><end_line />
+		</sjis>
+		<ascii>
+			I can sense that something's amiss<three_dots /><end_line />
+			<three_dots />The Demon Stone!<end_line /> 
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<partner name="rufeel" />
+		<info box="right" />
+		<portrait_r entry="player" eye="surprised" mouth="yell" />
+		<sjis>
+			な！<end_line />
+			今度はなんだよ！？<end_line />
+		</sjis>
+		<ascii>
+			The Demon Stone!<end_line />
+			What's happening to it!?<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<player gender="female" />
+		<partner name="rufeel" />
+		<info box="right" />
+		<portrait_r entry="player" eye="surprised" mouth="yell" />
+		<sjis>
+			今度はなに！？<end_line />
+		</sjis>
+		<ascii>
+			The Demon Stone!<end_line />
+			What's happening to it!?<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<partner name="rufeel" />
+		<info box="simple" />
+		<portrait_l name="magdrad" />
+		<portrait_r name="player" />
+		<sjis>
+			グルルル<three_dots /><end_line />
+		</sjis>
+		<ascii>
+			Grrrrrr<three_dots /><end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<partner name="rufeel" />
+		<info box="left" />
+		<portrait_l entry="gallahan" eye="decided" mouth="serious" />
+		<sjis>
+			どうしたんだ？<end_line />
+			マグドラド<end_line />
+		</sjis>
+		<ascii>
+			Magdrad?<end_line />
+			What's wrong!?<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<partner name="rufeel" />
+		<info box="right" />
+		<portrait_l entry="murno" eye="decided" mouth="serious" />
+		<portrait_r entry="partner" eye="decided" mouth="yell" />
+		<sjis>
+			気をつけてください！<end_line />
+			イヤな感じが強くなってます！<end_line />
+		</sjis>
+		<ascii>
+			Please be careful!<end_line />
+			I can feel its malice<end_line />
+			grow even stronger!<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<partner name="rufeel" />
+		<info box="left" />
+		<portrait_l entry="murno" eye="decided" mouth="tense" />
+		<portrait_r entry="partner" eye="decided" mouth="yell" />
+		<sjis>
+			まさか<three_dots /><end_line />
+			それが召喚獣を<end_line />
+			あばれさせる原因<three_dots />！？<end_line />
+		</sjis>
+		<ascii>
+			Oh no<three_dots /><end_line />
+			Could it be that whatever it felt<end_line />
+			from the stone made it go mad?<end_line />
+		</ascii>
+	</dialogue>
+	<bigtext>
+		<partner name="rufeel" />
+		<info box="left" />
+		<portrait_l entry="murno" eye="happy" mouth="yell" />
+		<sjis>
+			きゃあっ！<end_line />
+		</sjis>
+		<ascii>
+			Eeek!<end_line />
+		</ascii>
+	</bigtext>
+	<dialogue>
+		<partner name="rufeel" />
+		<info box="right" />
+		<portrait_r entry="player" eye="surprised" mouth="yell" />
+		<sjis>
+			ミューノっ！<end_line />
+			大丈夫か！？<end_line />
+		</sjis>
+		<ascii>
+			Murno!<end_line />
+			Are you okay!?<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<player gender="female" />
+		<partner name="rufeel" />
+		<info box="right" />
+		<portrait_r entry="player" eye="surprised" mouth="yell" />
+		<sjis>
+			大丈夫！？<end_line />
+		</sjis>
+		<ascii>
+			Are you okay!?<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<partner name="rufeel" />
+		<info box="left" />
+		<portrait_l entry="gallahan" eye="decided" mouth="yell" />
+		<portrait_r entry="partner" eye="serious" mouth="neutral" />
+		<sjis>
+			どうしたんだ！？<end_line />
+			マグドラド！？<end_line />
+		</sjis>
+		<ascii>
+			Magdrad?<end_line />
+			What's wrong!?<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<partner name="rufeel" />
+		<info box="right" />
+		<portrait_l entry="gallahan" eye="decided" mouth="yell" />
+		<portrait_r entry="partner" eye="decided" mouth="yell" />
+		<sjis>
+			召喚主がいなければ<end_line />
+			何もしないハズじゃ<end_line />
+			なかったんですか！？<end_line />
+		</sjis>
+		<ascii>
+			It's not bound to a Summoner now,<end_line />
+			is it!? How can it be that Magrdad<end_line />
+			went berserk on its own!?<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<info box="left" />
+		<portrait_l entry="gallahan" eye="surprised" mouth="yell" />
+		<portrait_r entry="partner" eye="surprised" mouth="neutral" />
+		<sjis>
+			ダメです<three_dots />！<end_line />
+			言うことをきかない<three_dots />！<end_line />
+		</sjis>
+		<ascii>
+			Impossible!<end_line />
+			It won't listen to what I say!<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<info box="left" />
+		<portrait_l entry="gallahan" eye="decided" mouth="serious" />
+		<portrait_r entry="partner" eye="surprised" mouth="neutral" />
+		<sjis>
+			ここは危険です！<end_line />
+			一旦戻りましょう！<end_line />
+		</sjis>
+		<ascii>
+			This is too dangerous!<end_line />
+			We have to retreat! NOW!<end_line />
+		</ascii>
+	</dialogue>
+	<bigtext>
+		<info box="simple" />
+		<portrait_l name="magdrad" />
+		<portrait_r name="partner" />
+		<sjis>
+			グゥァアアア！！<end_line />
+		</sjis>
+		<ascii>
+			Grrraaaah!!<end_line />
+		</ascii>
+	</bigtext>
+</tl_file>

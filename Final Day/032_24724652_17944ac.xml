@@ -1,0 +1,117 @@
+<tl_file>
+	<location>
+		<sjis>
+			プロスバンの町　商店通り<end_line />
+		</sjis>
+		<ascii>
+			Prosban　Shopping Street<end_line />
+		</ascii>
+	</location>
+	<dialogue>
+		<info box="simple" />
+		<portrait_l name="man" />
+		<sjis>
+			人間、要領が良いってのは<end_line />
+			才能だと思うね<end_line />
+		</sjis>
+		<ascii>
+			It truly takes talent to become<end_line />
+			very resourceful, I must say.<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<info box="simple" />
+		<portrait_l name="man" />
+		<sjis>
+			<three_dots /><end_line />
+		</sjis>
+		<ascii>
+			<three_dots /><end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<info box="simple" />
+		<portrait_l name="man" />
+		<sjis>
+			にゃ〜<end_line />
+		</sjis>
+		<ascii>
+			Meooow~<end_line />
+		<ascii />
+	</dialogue>
+	<dialogue>
+		<info box="simple" />
+		<portrait_l name="man" />
+		<sjis>
+			　<end_line />
+			　　　　　　〜ねぇねぇ〜<end_line />
+		</sjis>
+		<ascii>
+			　<end_line />
+			　　　　　　~Hey, hey!~<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<info box="simple" />
+		<portrait_l name="man" />
+		<sjis>
+			最近、うしろの机から変な声がするの<end_line />
+			何だか気味が悪くて<three_dots /><end_line />
+			誰かどうにかしてくれないかしら？<end_line />
+		</sjis>
+		<ascii>
+			Lately, I can hear a lot of strange<end_line />
+			noises under the desk behind me<three_dots /><end_line />
+			It's creepy! Can't anyone help me?<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<info box="simple" />
+		<portrait_l name="man" />
+		<sjis>
+			<quote />福引き<quote />であなたの運を<end_line />
+			試してみませんか？<end_line />
+			毎日抽選！空くじ無し！！<end_line />
+		</sjis>
+		<ascii>
+			Care to try our <quote />Lucky Draw<quote />?<end_line />
+			It's available all day, everyday!<end_line />
+			Guaranteed no losing tickets!<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<info box="simple" />
+		<portrait_l name="man" />
+		<sjis>
+			　<end_line />
+			　　　　　釣り仲間新聞　号外<end_line />
+		</sjis>
+	</dialogue>
+	<dialogue>
+		<info box="simple" />
+		<portrait_l name="man" />
+		<sjis>
+			ディックル村の釣り人の池には<end_line />
+			とんでもない大物がいるらしいぞ<end_line />
+		</sjis>
+		<ascii>
+			I heard that a monster fish<end_line />
+			lurks in Deckell Town's very<end_line />
+			own fishing spot.<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<info box="simple" />
+		<portrait_l name="man" />
+		<sjis>
+			釣ったという仲間は<end_line />
+			<quote />画面からかなりはみ出てた<quote />と<end_line />
+			意味不明なことを言っているのだが<three_dots /><end_line />
+		</sjis>
+		<ascii>
+			My pal who caught it spouted some<end_line />
+			gibberish like <quote />IT DOESN'T<end_line />
+			FIT THE SCREEN!<quote />, or whatever.<end_line />
+		</ascii>
+	</dialogue>
+</tl_file>

@@ -1,0 +1,35 @@
+<tl_file>
+	<location>
+		<sjis>
+			村長の家　広間<end_line />
+		</sjis>
+		<ascii>
+			Mayor's House　Hall<end_line />
+		</ascii>
+	</location>
+	<dialogue>
+		<info box="simple" />
+		<portrait_l name="chief" />
+		<sjis>
+			外に行くなら気をつけてな<end_line />
+		</sjis>
+		<ascii>
+			Leaving the village now?<end_line />
+			I bid you safe travels.<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<info box="simple" />
+		<portrait_l name="elderly" />
+		<sjis>
+			近頃の若いヤツはなっとらん<end_line />
+			あ〜〜なっとらん<end_line />
+			と言ったらなっとらん<end_line />
+		</sjis>
+		<ascii>
+			Young'uns these days are too lax!<end_line />
+			Sigh, nothing I say goes<end_line />
+			past their ears<three_dots /><end_line />
+		</ascii>
+	</dialogue>
+</tl_file>

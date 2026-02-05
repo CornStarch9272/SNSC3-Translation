@@ -1,0 +1,32 @@
+<tl_file>
+	<location>
+		<sjis>
+			村長の家　道具屋<end_line />
+		</sjis>
+		<ascii>
+			Mayor's House　Second-Hand Shop<end_line />
+		</ascii>
+	</location>
+	<location>
+		<sjis>
+			村長の家　道具屋<end_line />
+		</sjis>
+		<ascii>
+			Mayor's House　Second-Hand Shop<end_line />
+		</ascii>
+	</location>
+	<dialogue>
+		<info box="simple" />
+		<portrait_l name="merchant" />
+		<sjis>
+			ここ最近のはぐれの<end_line />
+			おかげで武器や防具が<end_line />
+			飛ぶように売れて嬉しいわ<end_line />
+		</sjis>
+		<ascii>
+			Thanks to the Stray Summon Beast<end_line />
+			incidents, my weapons and armor<end_line />
+			have been selling like hotcakes!<end_line />
+		</ascii>
+	</dialogue>
+</tl_file>

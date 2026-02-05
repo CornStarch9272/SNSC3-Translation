@@ -1,0 +1,32 @@
+<tl_file>
+	<dialogue>
+		<info box="right" />
+		<portrait_l entry="player" eye="serious" mouth="neutral" />
+		<portrait_r entry="zakk" eye="serious" mouth="tense" />
+		<sjis>
+			オイラが家に帰ってる間に<end_line />
+			大変なことがあったみたいだな<three_dots /><end_line />
+			みんなブジでよかったよ<end_line />
+		</sjis>
+		<ascii>
+			I heard something bad happened<end_line />
+			while I was sent away<three_dots /><end_line />
+			I hope you guys were safe<three_dots /><end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<info box="right" />
+		<portrait_l entry="player" eye="serious" mouth="neutral" />
+		<portrait_r entry="zakk" eye="serious" mouth="neutral" />
+		<sjis>
+			親方がいなくなって大変だから<end_line />
+			オイラもレミィさんを<end_line />
+			手助けしなきゃな！<end_line />
+		</sjis>
+		<ascii>
+			Our Workshop is a mess now<end_line />
+			that Master is gone<three_dots />That means I<end_line />
+			gotta help Lemmy as much as I can!<end_line />
+		</ascii>
+	</dialogue>
+</tl_file>

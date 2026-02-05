@@ -1,0 +1,114 @@
+<tl_file>
+	<location>
+		<sjis>
+			プロスバンの町　商店通り<end_line />
+		</sjis>
+		<ascii>
+			Prosban　Shopping Street<end_line />
+		</ascii>
+	</location>
+	<dialogue>
+		<info box="simple" />
+		<portrait_l name="man" />
+		<sjis>
+			ミミズが釣りエサなんて<end_line />
+			誰が決めたんだ？<end_line />
+			もっと別の使いみちもあるはずなんだ<end_line />
+		</sjis>
+		<ascii>
+			Using earthworms as bait!?<end_line />
+			Hell no, there's gotta be other<end_line />
+			uses for the poor things!<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<info box="simple" />
+		<portrait_l name="man" />
+		<sjis>
+			きっと食べたヤツもいる<three_dots /><end_line />
+			<three_dots />いるんじゃないかな<end_line />
+			<three_dots />やっぱいないかなぁ<end_line />
+		</sjis>
+		<ascii>
+			Like, they can be eaten as food<three_dots /><end_line />
+			<three_dots />Okay, probably not.<end_line />
+			<three_dots />Nevermind, I guess<three_dots /><end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<info box="simple" />
+		<portrait_l name="man" />
+		<sjis>
+			にゃーん<end_line />
+		</sjis>
+		<ascii>
+			Meooow!<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<info box="simple" />
+		<portrait_l name="man" />
+		<sjis>
+			最近、とんでもなく大きな召喚獣の<end_line />
+			目撃情報が報告されています<end_line />
+		</sjis>
+		<ascii>
+			Recently, we've received sightings<end_line />
+			of a gigantic Summon Beast!<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<info box="simple" />
+		<portrait_l name="man" />
+		<sjis>
+			ガン<three_dots />とか、ボル<three_dots />とかいう<end_line />
+			召喚獣だそうです<end_line />
+		</sjis>
+		<ascii>
+			I think they called it a<three_dots /><end_line />
+			<quote />Gun<quote />, something, <quote />Bol<quote />?<end_line />
+			<three_dots />I dunno.<end_line />
+		<ascii>
+	</dialogue>
+	<dialogue>
+		<info box="simple" />
+		<portrait_l name="man" />
+		<sjis>
+			<quote />福引き<quote />であなたの運を<end_line />
+			試してみませんか？<end_line />
+			毎日抽選！空くじ無し！！<end_line />
+		</sjis>
+		<ascii>
+			Care to try our <quote />Lucky Draw<quote />?<end_line />
+			It's available all day, everyday!<end_line />
+			Guaranteed no losing tickets!<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<info box="simple" />
+		<portrait_l name="man" />
+		<sjis>
+			何か困った事があっても<end_line />
+			気の持ちようでなんとかなったり<end_line />
+			するもんだ<end_line />
+		</sjis>
+		<ascii>
+			Even if you're in a bind, all you<end_line />
+			gotta do is see things differently!<end_line />
+			That'll get you out of it!<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<info box="simple" />
+		<portrait_l name="man" />
+		<sjis>
+			<quote />気合だ！<quote />ってエラい人も<end_line />
+			言ってたような気もするし<end_line />
+		</sjis>
+		<ascii>
+			<quote />It's all about spirit!<quote /><end_line />
+			<three_dots />Is what I think a certain<end_line />
+			upstanding guy would say a lot<three_dots /><end_line />
+		</ascii>
+	</dialogue>
+</tl_file>

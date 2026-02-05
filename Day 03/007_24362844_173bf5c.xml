@@ -1,0 +1,47 @@
+<tl_file>
+	<location>
+		<sjis>
+			ディックル村　駅<end_line />
+		</sjis>
+		<ascii>
+			Deckell Village　Station<end_line />
+		</ascii>
+	</location>
+	<dialogue>
+		<info box="simple" />
+		<portrait_l name="child" />
+		<sjis>
+			召喚獣トロッコに乗車の際には<end_line />
+			足下に十分ご注意下さい<end_line />
+		</sjis>
+		<ascii>
+			Please watch your step when you<end_line />
+			board the Summon Beast railway!<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<info box="simple" />
+		<portrait_l name="child" />
+		<sjis>
+			村の外には、はぐれが<end_line />
+			いっぱいいるから<end_line />
+			出ちゃいけないんだよ<end_line />
+		</sjis>
+		<ascii>
+			There's a lot of Strays<end_line />
+			outside the village.<end_line />
+			It's not safe to leave now.<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<info box="simple" />
+		<portrait_l name="child" />
+		<sjis>
+			でも、いつか旅立つ日が来るのよ<end_line />
+		</sjis>
+		<ascii>
+			But someday, I'll go on an<end_line />
+			adventure.<end_line />
+		</ascii>
+	</dialogue>
+</tl_file>

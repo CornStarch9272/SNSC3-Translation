@@ -1,0 +1,43 @@
+<tl_file>
+	<location>
+		<sjis>
+			プロスバンの町　武器屋<end_line />
+		</sjis>
+		<ascii>
+			Prosban　Weapon Shop<end_line />
+		</ascii>
+	</location>
+	<location>
+		<sjis>
+			プロスバンの町　武器屋<end_line />
+		</sjis>
+		<ascii>
+			Prosban　Weapon Shop<end_line />
+		</ascii>
+	</location>
+	<dialogue>
+		<info box="simple" />
+		<portrait_l name="shop_clerk" />
+		<sjis>
+			マテルも取り扱っています<end_line />
+			もちろん鍛冶に最適なアイテムも<end_line />
+			多数取り扱っております<end_line />
+		</sjis>
+		<ascii>
+			We sell Shapestones!<end_line />
+			Of course, we also have ores<end_line />
+			and stuff for smithing in stock!<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<info box="simple" />
+		<portrait_l name="shop_clerk" />
+		<sjis>
+			オレも外に営業しに行こうかな<three_dots /><end_line />
+		</sjis>
+		<ascii>
+			I should go out there and<end_line />
+			make some profit, too<three_dots /><end_line />
+		</ascii>
+	</dialogue>
+</tl_file>

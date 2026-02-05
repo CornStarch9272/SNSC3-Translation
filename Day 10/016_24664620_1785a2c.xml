@@ -1,0 +1,62 @@
+<tl_file>
+	<location>
+		<sjis>
+			マーネイル宿場<end_line />
+		</sjis>
+		<ascii>
+			Marnail Post Station<end_line />
+		</ascii>
+	</location>
+	<location>
+		<sjis>
+			マーネイル宿場　ほほえみ亭前<end_line />
+		</sjis>
+		<ascii>
+			Marnail Post Station　Smile Inn<end_line />
+		</ascii>
+	</location>
+	<dialogue>
+		<info box="simple" />
+		<portrait_l name="thuss" />
+		<sjis>
+			たのんだよ<end_line />
+			<player_nickname />くん<end_line />
+		</sjis>
+		<ascii>
+			Please keep Tier safe,<end_line />
+			<player_nickname /><three_dots /><end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<player gender="female" />
+		<info box="simple" />
+		<portrait_l name="thuss" />
+		<sjis>
+			<player_nickname />ちゃん<end_line />
+		</sjis>
+		<ascii>
+			<player_nickname /><three_dots /><end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<info box="simple" />
+		<portrait_l name="man" />
+		<sjis>
+			猫って自由だよね<three_dots /><end_line />
+		</sjis>
+		<ascii>
+			Cats are so carefree,<end_line />
+			don't you agree<three_dots />?<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<info box="simple" />
+		<portrait_l name="man" />
+		<sjis>
+			ゴロゴロ<three_dots /><end_line />
+		</sjis>
+		<ascii>
+			Purr<three_dots /><end_line />
+		</ascii>
+	</dialogue>
+</tl_file>

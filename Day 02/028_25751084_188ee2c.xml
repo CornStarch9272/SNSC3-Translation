@@ -1,0 +1,36 @@
+<tl_file>
+	<location>
+		<sjis>
+			ディックル鉱洞<end_line />
+		</sjis>
+		<ascii>
+			Deckell Mine<end_line />
+		</ascii>
+	</location>
+	<location>
+		<sjis>
+			ディックル鉱洞　エリア４<end_line />
+		</sjis>
+		<ascii>
+			Deckell Mine　Area 4<end_line />
+		</ascii>
+	</location>
+	<dialogue>
+		<info box="simple" />
+		<portrait_l name="stray_cat" />
+		<sjis>
+			にゃ？<end_line />
+		</sjis>
+		<ascii>
+			Meow~?<end_line />
+		</ascii>
+	</dialogue>
+	<popup>
+		<sjis>
+			迷いネコを保護した！<end_line />
+		</sjis>
+		<ascii>
+			You found the lost cat!<end_line />
+		</ascii>
+	</popup>
+</tl_file>

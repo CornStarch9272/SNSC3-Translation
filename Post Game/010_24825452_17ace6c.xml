@@ -1,0 +1,44 @@
+<tl_file>
+	<location>
+		<sjis>
+			ディックル村<end_line />
+		</sjis>
+		<ascii>
+			Deckell Village<end_line />
+		</ascii>
+	</location>
+	<location>
+		<sjis>
+			ディックル村　広場<end_line />
+		</sjis>
+		<ascii>
+			Deckell Village　Square<end_line />
+		</ascii>
+	</location>
+	<dialogue>
+		<info box="simple" />
+		<portrait_l name="merchant" />
+		<sjis>
+			ここ最近<end_line />
+			ちょっと売り上げ落ちてるわ<end_line />
+			ま、平和が一番だけど<end_line />
+		</sjis>
+		<ascii>
+			Lately, my total sales<end_line />
+			are kind of in the red<three_dots /><end_line />
+			Well, all for a peaceful world!<end_line /> 
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<info box="simple" />
+		<portrait_l name="gatekeeper" />
+		<sjis>
+			今日も元気に修行かい<end_line />
+			がんばれよ<end_line />
+		</sjis>
+		<ascii>
+			Still training today, kid?<end_line />
+			Good luck!<end_line />
+		</ascii>
+	</dialogue>
+</tl_file>

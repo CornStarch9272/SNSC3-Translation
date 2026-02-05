@@ -1,0 +1,245 @@
+<tl_file>
+	<location>
+		<sjis>
+			ディックル村　駅<end_line />
+		</sjis>
+		<ascii>
+			Deckell Village　Station<end_line />
+		</ascii>
+	</location>
+	<dialogue>
+		<info box="simple" />
+		<portrait_l name="peddler's_daughter" />
+		<sjis>
+			召喚獣トロッコに乗車の際には<end_line />
+			足下に十分ご注意下さい<end_line />
+		</sjis>
+		<ascii>
+			Please watch your step when you<end_line />
+			board the Summon Beast railway!<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<info box="simple" />
+		<portrait_l name="peddler's_daughter" />
+		<sjis>
+			お母様は何かに特化した<end_line />
+			達人がいいっていってるけど<end_line />
+			私は全てを極めた人が<three_dots /><end_line />
+		</sjis>
+		<ascii>
+			Mom says she wants a Master who is<end_line />
+			proficient in one weapon, but I<end_line />
+			want one who is proficient in ALL!<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<info box="simple" />
+		<portrait_l name="peddler's_daughter" />
+		<sjis>
+			いっちばんすごいと思うの<end_line />
+		</sjis>
+		<ascii>
+			Doesn't that sound REALLY awesome!?<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<info box="simple" />
+		<portrait_l name="peddler's_daughter" />
+		<sjis>
+			あなたは、どこまで極めた？<end_line />
+			聞かせてもらっていい？<end_line />
+		</sjis>
+		<ascii>
+			<three_dots />Anyway, how far have you<end_line />
+			come along as a Craftknight?<end_line />
+			Come on, I wanna know!<end_line />
+		</ascii>
+	</dialogue>
+	<choice>
+		<info box="simple" />
+		<option>
+			<sjis>
+				教える<end_line />
+			</sjis>
+			<ascii>
+				Tell her<end_line />
+			</ascii>
+		</option>
+		<option>
+			<sjis>
+				教えない<end_line />
+			</sjis>
+			<ascii>
+				Don't tell her<end_line />
+			</ascii>
+		</option>
+	</choice>
+	<dialogue>
+		<info box="simple" />
+		<portrait_l name="peddler's_daughter" />
+		<sjis>
+			すっごーーーーーーいっ<end_line />
+			鍛冶ランクが全て最高なんて<end_line />
+			すごーーーーーーーい<hearth /><end_line />
+		</sjis>
+		<ascii>
+			WHAAAT!? OMIIIIGOSH!!!<end_line />
+			ALL your Crafting Ranks are higher<end_line />
+			than anyone else's! AMAZING!<hearth /><end_line />
+		</ascii >
+	</dialogue>
+	<dialogue>
+		<info box="simple" />
+		<portrait_l name="peddler's_daughter" />
+		<sjis>
+			じゃ、特別にこれをあげる<end_line />
+			<quote />鍛冶の極意書<quote />なんだけど<end_line />
+			更に鍛錬を頑張ってね<end_line />
+		</sjis>
+		<ascii>
+			Here! This is for you, the<end_line />
+			<quote />Ultimate Craftknight Manual<quote />!<end_line />
+			Please put it to good use!<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<info box="simple" />
+		<portrait_l name="peddler's_daughter" />
+		<sjis>
+			<quote />鍛冶の極意書<quote />を持った状態で<end_line />
+			セーブを行うことで、おまけ条件に<end_line />
+			<quote />ロブ<quote />が追加されます<end_line />
+		</sjis>
+		<ascii>
+			Keeping the <quote />Ultimate Craftknight<end_line />
+			Manual<quote /> in your inventory while<end_line />
+			saving unlocks <quote />Rob<quote /> in Bonus Mode!<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<info box="simple" />
+		<portrait_l name="peddler's_daughter" />
+		<sjis>
+			うわぉっ<end_line />
+			全部の秘伝を集めちゃったわけ？！<end_line />
+			すごすぎじゃないの〜<end_line />
+		</sjis>
+		<ascii>
+			Wow<three_dots />! Did you<end_line />
+			get all the Secret Techniques?<end_line />
+			That's such an amazing feat!<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<info box="simple" />
+		<portrait_l name="peddler's_daughter" />
+		<sjis>
+			じゃ、特別にこれをあげる<end_line />
+			<quote />音声試聴機<quote />なんだけど<end_line />
+			何に使う物か、知らないけどね<end_line />
+		</sjis>
+		<ascii>
+			Here! This is for you. They call<end_line />
+			this an <quote />Audio Listening Device<quote />?<end_line />
+			I have no idea what it's for<three_dots /><end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<info box="simple" />
+		<portrait_l name="peddler's_daughter" />
+		<sjis>
+			<quote />音声試聴機<quote />を持った状態で<end_line />
+			セーブを行うことで、おまけ条件に<end_line />
+			<quote />ＶＯＩＣＥ<quote />が追加されます<end_line />
+		</sjis>
+		<ascii>
+			Having the <quote />Audio Listening Device<quote /><end_line />
+			in your inventory while saving lets<end_line />
+			you unlock <quote />VOICE<quote /> in Bonus Mode!<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<info box="simple" />
+		<portrait_l name="peddler's_daughter" />
+		<sjis>
+			はんぱじゃないわね〜<end_line />
+			全部のはぐれと会ったわけ？！<end_line />
+			はんぱじゃないよ〜<hearth /><end_line />
+		</sjis>
+		<ascii>
+			Oh, you're kidding!<end_line />
+			Did you really fight every Stray!?<end_line />
+			You are so unreal!<hearth /><end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<info box="simple" />
+		<portrait_l name="peddler's_daughter" />
+		<sjis>
+			じゃ、特別にこれをあげる<end_line />
+			<quote />大戦チケット<quote />なんだけど<end_line />
+			何かそれっぽいからあげるね<end_line />
+		</sjis>
+		<ascii>
+			Here! This is for you. They call<end_line />
+			this an <quote />Ultimate War Ticket<quote />?<end_line />
+			I have no idea what it's for<three_dots /><end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<info box="simple" />
+		<portrait_l name="peddler's_daughter" />
+		<sjis>
+			<quote />大戦チケット<quote />を持った状態で<end_line />
+			セーブを行うことで、おまけ条件に<end_line />
+			<quote />ボスアタック<quote />が追加されます<end_line />
+		</sjis>
+		<ascii>
+			Having the <quote />Ultimate War Ticket<quote /><end_line />
+			in your inventory while saving<end_line />
+			unlocks <quote />Boss Attack<quote /> in Bonus Mode!<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<info box="simple" />
+		<portrait_l name="peddler's_daughter" />
+		<sjis>
+			な〜んだっ<end_line />
+			何も極めてないのね〜<end_line />
+			まぁ、ガンバってね<end_line />
+		</sjis>
+		<ascii>
+			Wow, look at you!<end_line />
+			You've got nothing else to improve!<end_line />
+			Well, keep working harder!<end_line /> 
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<info box="simple" />
+		<portrait_l name="peddler's_daughter" />
+		<sjis>
+			やっぱり全てを極めてこそ<end_line />
+			ホンモノだと思うの〜<end_line />
+		</sjis>
+		<ascii>
+			Looks like you've gotta master<end_line />
+			all weapons first before I<end_line />
+			consider you the real deal!<end_line />
+		</ascii>
+	</dialogue>
+	<dialogue>
+		<info box="simple" />
+		<portrait_l name="peddler's_daughter" />
+		<sjis>
+			えぇ〜教えてくれないの〜<end_line />
+			ちょっとぐらいいいのにな〜<end_line />
+			その気になったら教えてね<end_line />
+		</sjis>
+		<ascii>
+			Whaaat!? You don't wanna talk about<end_line />
+			it!? Gee, at least tell me a bit!<end_line />
+			<three_dots />Or not. You will soon enough!<end_line />
+		</ascii>
+	</dialogue>
+</tl_file>

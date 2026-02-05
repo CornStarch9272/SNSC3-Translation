@@ -1,0 +1,20 @@
+<tl_file>
+	<location>
+		<sjis>
+			プロスバンの町　民家Ｂ<end_line />
+		</sjis>
+		<ascii>
+			Prosban　Villager's House B<end_line />
+		</ascii>
+	</location>
+	<dialogue>
+		<info box="simple" />
+		<portrait_l name="elderly" />
+		<sjis>
+			猫こそいやしじゃ<end_line />
+		</sjis>
+		<ascii>
+			Aren't cats just the best!?<end_line />
+		</ascii>
+	</dialogue>
+</tl_file>

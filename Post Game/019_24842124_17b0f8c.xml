@@ -1,0 +1,21 @@
+<tl_file>
+	<location>
+		<sjis>
+			マーネイル宿場　駅<end_line />
+		</sjis>
+		<ascii>
+			Marnail Station　Station<end_line />
+		</ascii>
+	</location>
+	<dialogue>
+		<info box="simple" />
+		<portrait_l name="woman" />
+		<sjis>
+			駅で待つ女って絵にならない？<end_line />
+		</sjis>
+		<ascii>
+			Don't you think a lady waiting<end_line />
+			at a station makes for quite<end_line />
+			a picturesque scene?<end_line />
+	</dialogue>
+</tl_file>

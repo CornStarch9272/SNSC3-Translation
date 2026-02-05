@@ -1,0 +1,30 @@
+<tl_file>
+	<location>
+		<sjis>
+			プロスバンの町　道具屋<end_line />
+		</sjis>
+		<ascii>
+			Prosban　Second-hand Shop<end_line />
+		</ascii>
+	</location>
+	<location>
+		<sjis>
+			プロスバンの町　道具屋<end_line />
+		</sjis>
+		<ascii>
+			Prosban　Second-hand Shop<end_line />
+		</ascii>
+	</location>
+	<dialogue>
+		<sjis>
+			旅先でケガをした経験はありませんか？<end_line />
+			そんな時にはＦエイド、何でもそろう<end_line />
+			便利な道具屋<end_line />
+		</sjis>
+		<ascii>
+			Have you ever been injured<end_line />
+			with no inn in sight?<end_line />
+			When that happens, think of Bandage!<end_line />
+		</ascii>
+	</dialogue>
+</tl_file>
