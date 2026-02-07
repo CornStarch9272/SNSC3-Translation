@@ -202,7 +202,7 @@ code0309
 call            @Func_16ec
 code0479        0, 5, 13
 call            @Func_164a
-dialogtxt       "[NAME 2]…"
+dialogtxt       "[NAME 1]…"
 code0309        
 call            @Func_1680
 code0479        1, 2, 14
