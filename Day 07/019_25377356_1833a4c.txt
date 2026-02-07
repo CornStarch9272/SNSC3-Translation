@@ -91,12 +91,14 @@ code0479        0, 5, 14
 call            @Func_1c50
 jumpz           @Cond_03a8, ($b002 == 0)
 dialogtxt       "See!"
-dialogtxt       "…Wait, what!?"
+code0309	
+dialogtxt       "… Wait, what!?"
 goto            @Label_03cc
 
 @Cond_03a8:
 dialogtxt       "See!"
-dialogtxt       "…Wait, what!?"
+code0309	
+dialogtxt       "… Wait, what!?"
 goto            @Label_03cc
 
 @Label_03cc:
@@ -176,9 +178,9 @@ dialogtxt       "Seems like it's recovered."
 dialogtxt       "That's good…"
 code0309        
 code0479        1, 0, 12
-dialogtxt       "Just a short time ago,"
-dialogtxt       "it looked so weak I thought it"
-dialogtxt       "wouldn't be able to move anymore."
+dialogtxt       "Just a while ago, it looked so weak"
+dialogtxt       "I thought it wouldn't be able to"
+dialogtxt       "move anymore."
 code0309        
 call            @Func_1d60
 call            @Func_1cf2
@@ -189,8 +191,7 @@ code0479        0, 0, 16
 code047d        0, 107
 call            @Func_1d0a
 call            @Func_1c50
-dialogtxt       "Weak?"
-dialogtxt       "Why?"
+dialogtxt       "Weak…? Why?"
 code047b        
 code0309        
 call            @Func_1d76
@@ -221,14 +222,14 @@ call            @Func_1d20
 call            @Func_1cbc
 jumpz           @Cond_0948, ($b003 == 0)
 dialogtxt       "When Anise Fell Off The Cliff,"
-dialogtxt       "Magdrad Followed In"
-dialogtxt       "Order to Save Her."
+dialogtxt       "Magdrad Followed In Order to Save Her."
 code047b        
 code0309        
 code043c        2, 3
 code0479        1, 0, 12
-dialogtxt       "Magdrad's Body Is Not"
-dialogtxt       "Compatible With Water."
+dialogtxt       "Magdrad's Body Is Not Compatible"
+dialogtxt       "With Water."
+code0309	
 dialogtxt       "The Fall Caused Much Damage."
 goto            @Cond_0948
 
@@ -262,8 +263,7 @@ goto            @Cond_0afa
 @Cond_0afa:
 jumpz           @Cond_0bce, ($b003 == 3)
 dialogtxt       "When we all fell off the cliff,"
-dialogtxt       "Magdrad dove into"
-dialogtxt       "the river as well."
+dialogtxt       "Magdrad dove into the river as well."
 code047b        
 code0309        
 code043c        2, 3
@@ -283,13 +283,11 @@ code047d        0, 0
 call            @Func_1d0a
 call            @Func_1c50
 jumpz           @Cond_0c4c, ($b002 == 0)
-dialogtxt       "So Magdrad trusts"
-dialogtxt       "Anise that much…"
+dialogtxt       "So Magdrad trusts Anise that much…"
 goto            @Label_0c76
 
 @Cond_0c4c:
-dialogtxt       "So Magdrad trusts"
-dialogtxt       "Anise that much…"
+dialogtxt       "So Magdrad trusts Anise that much…"
 goto            @Label_0c76
 
 @Label_0c76:
@@ -305,13 +303,12 @@ code047d        1, 135
 call            @Func_1d20
 call            @Func_1cbc
 dialogtxt       "The two of them have a strong bond."
-dialogtxt       "It is likely that the only one"
-dialogtxt       "who can control Magdrad…"
+dialogtxt       "It's likely that Anise is the only"
+dialogtxt       "one who can control Magdrad…"
 code047b        
 code0309        
 code0479        1, 0, 16
-dialogtxt       "Is Anise."
-dialogtxt       "What's why Voijin abducted her."
+dialogtxt       "That's why Voijin abducted her."
 code0309        
 call            @Func_1d60
 call            @Func_1cf2
@@ -322,17 +319,17 @@ code0479        0, 4, 16
 code047d        0, 107
 call            @Func_1d0a
 call            @Func_1c50
-dialogtxt       "So this Voijin wanted"
-dialogtxt       "to gain control over"
-dialogtxt       "Magdrad's power…"
+dialogtxt       "So this Voijin wanted to gain"
+dialogtxt       "control over Magdrad's power…"
 code047b        
 code0309        
 call            @Func_1c86
 code0479        1, 0, 14
 call            @Func_1cbc
-dialogtxt       "Yes. Voijin's people came here"
-dialogtxt       "following a rumor of a"
-dialogtxt       "powerful Summon Beast…"
+dialogtxt       "Yes."
+code0309        
+dialogtxt       "Voijin's people came here following"
+dialogtxt       "a rumor of a powerful Summon Beast…"
 code0309        
 code0333        2, 30
 code0479        1, 0, 16
@@ -398,14 +395,15 @@ call            @Func_1c86
 code043c        3, 3
 code0479        1, 2, 16
 call            @Func_1cbc
-dialogtxt       "If we did that,"
-dialogtxt       "more people would have died."
+dialogtxt       "If we did that, more people would"
+dialogtxt       "have died."
+code0309        
 dialogtxt       "We'd suffered enough already…"
 code0309        
 code0479        1, 2, 14
-dialogtxt       "And if we kept quiet about"
-dialogtxt       "their existance, eventually"
-dialogtxt       "they would've killed everyone."
+dialogtxt       "And if we kept quiet about their"
+dialogtxt       "existence, eventually they"
+dialogtxt       "would've killed everyone."
 code0309        
 call            @Func_1cf2
 code0479        0, 4, 14
@@ -417,7 +415,7 @@ code0479        1, 2, 16
 call            @Func_1cbc
 dialogtxt       "To end the violence…"
 dialogtxt       "And at least protect one"
-dialogtxt       "of our guardian Summons…"
+dialogtxt       "of our Guardian Summons…"
 code0309        
 code0479        1, 4, 14
 dialogtxt       "Anise…"
@@ -700,4 +698,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-

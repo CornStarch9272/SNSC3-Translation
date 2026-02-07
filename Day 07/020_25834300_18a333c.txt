@@ -15,7 +15,7 @@ code0422        1, 0
 code046c        0
 setvar          $b075, 1
 setvar          $b072, 1
-placetxt        "Gumag Fire Ruins"
+placetxt        "Ghumag Flame Ruins"
 code040c        1, @Label_063a
 code040c        2, @Label_0630
 jumpz           @Cond_023c, ($f0040 == 1 && $f0041 == 0 && $h311 == 7)
@@ -105,7 +105,7 @@ code0006        2310
 goto            @Cond_056a
 
 @Cond_056a:
-placetxt        "Gumag Fire Ruins Area 10"
+placetxt        "Ghumag Flame Ruins　Area 10"
 code040b        
 
 @Event_058a:
@@ -335,4 +335,3 @@ code031f        7
 code031a        7
 code033e        196
 ret             
-

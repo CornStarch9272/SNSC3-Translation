@@ -44,7 +44,7 @@ goto            @Cond_01ca
 @Cond_01ca:
 jumpz           @Cond_0202, ($b003 == 1)
 dialogtxt       "Mmm…"
-dialogtxt       "That unpleasant feeling"
+dialogtxt       "That unpleasant aura"
 dialogtxt       "has grown stronger…"
 goto            @Cond_0202
 
@@ -171,7 +171,7 @@ goto            @Cond_06fc
 
 @Cond_06fc:
 jumpz           @Cond_0736, ($b003 == 2)
-dialogtxt       "You!"
+dialogtxt       "What are you doing!?"
 dialogtxt       "That's dangerous, get back!"
 goto            @Cond_0736
 
@@ -194,8 +194,7 @@ code043c        2, 1
 code0479        0, 0, 13
 call            @Func_133e
 call            @Func_1266
-dialogtxt       "It's okay."
-dialogtxt       "It looks scary,"
+dialogtxt       "It's okay. It looks scary,"
 dialogtxt       "but this one is docile…"
 code047b        
 code0309        
@@ -220,6 +219,7 @@ code047d        0, 135
 call            @Func_133e
 call            @Func_1284
 dialogtxt       "Yes."
+code0309	
 dialogtxt       "Magdrad won't act aggressive"
 dialogtxt       "without an order from its master."
 code047b        
@@ -534,4 +534,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-
