@@ -208,8 +208,8 @@ code047d        1, 136
 call            @Func_1c5a
 call            @Func_1bc2
 dialogtxt       "Alright, so it's decided."
-dialogtxt       "Then let us go over"
-dialogtxt       "the rules once more."
+dialogtxt       "Then let us go over the rules"
+dialogtxt       "once more."
 code047b        
 code0309        
 code043c        3, 1
@@ -218,9 +218,9 @@ code043c        0, 3
 code043c        1, 3
 code0479        0, 2, 14
 code0479        1, 0, 12
-dialogtxt       "This is a 1 on 1 fight"
+dialogtxt       "This is a one-on-one fight"
 dialogtxt       "between [NAME 2] and Tram."
-dialogtxt       "You are allowed only one weapon."
+dialogtxt       "You are allowed a single weapon."
 code0309        
 call            @Func_1c16
 code0479        0, 2, 16
@@ -243,9 +243,8 @@ code0479        1, 2, 12
 code047d        1, 135
 call            @Func_1c44
 call            @Func_1be0
-dialogtxt       "Of course, "
-dialogtxt       "failing to reach the Room of"
-dialogtxt       "Judgment is also a loss."
+dialogtxt       "Of course, failing to reach the"
+dialogtxt       "Room of Judgment is also a loss."
 code047b        
 code0309        
 code0479        1, 2, 13
@@ -310,7 +309,7 @@ code043c        3, 4
 code0479        0, 0, 17
 call            @Func_1c2e
 call            @Func_1b74
-dialogtxt       "Ah, wai…"
+dialogtxt       "Ah, wai-"
 code0309        
 call            @Func_1c84
 call            @Func_1b92
@@ -406,12 +405,10 @@ code043c        0, 2
 code0479        1, 2, 15
 call            @Func_1be0
 jumpz           @Cond_1296, ($b002 == 0)
-dialogtxt       "Ah…"
 dialogtxt       "Y-yeah!"
 goto            @Label_12b0
 
 @Cond_1296:
-dialogtxt       "Ah…"
 dialogtxt       "Y-yeah!"
 goto            @Label_12b0
 
@@ -686,4 +683,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-

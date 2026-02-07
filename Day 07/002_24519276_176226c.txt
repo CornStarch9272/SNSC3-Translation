@@ -161,7 +161,7 @@ code047d        0, 136
 code047e        0, 1
 dialogtxt       "There are many strong Summon"
 dialogtxt       "Beasts on the way to the "
-dialogtxt       "Crystal Pillar. Please be careful."
+dialogtxt       "Crystal Pillar. Be careful."
 code0309        
 code047e        0, 0
 code0302        7
@@ -380,4 +380,3 @@ ret
 @Talk_0ff2:
 code0006        3914
 code040b        
-

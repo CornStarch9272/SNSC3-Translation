@@ -25,12 +25,12 @@ code047d        1, 2
 call            @Func_1730
 call            @Func_162c
 jumpz           @Cond_0126, ($b002 == 0)
-dialogtxt       "It's time for our match with Tram."
+dialogtxt       "It's time for our match with Tram!"
 dialogtxt       "I'm definitely going to win!"
 goto            @Label_015a
 
 @Cond_0126:
-dialogtxt       "It's time for our match with Tram."
+dialogtxt       "It's time for our match with Tram!"
 dialogtxt       "I'm definitely going to win!"
 goto            @Label_015a
 
@@ -59,8 +59,7 @@ goto            @Label_01f2
 @Label_01f2:
 call            @Func_16b6
 jumpz           @Cond_05ae, ($b003 == 0)
-dialogtxt       "Will You Be"
-dialogtxt       "Alright By Yourself?"
+dialogtxt       "Will You Be Alright By Yourself?"
 code0309        
 call            @Func_16ec
 code0479        0, 0, 13
@@ -82,7 +81,7 @@ code0309
 call            @Func_1680
 code0479        1, 0, 12
 call            @Func_16b6
-dialogtxt       "I Will Leave It To You."
+dialogtxt       "Then I Will Leave It To You."
 dialogtxt       "You Must Win So That Lady Murno May"
 dialogtxt       "Examine The Crystal Pillar."
 code0309        
@@ -95,8 +94,7 @@ dialogtxt       "Right."
 dialogtxt       "I'll do my best."
 code0309        
 code0479        0, 0, 12
-dialogtxt       "Now then,"
-dialogtxt       "it's about time for me to go."
+dialogtxt       "Now then, it's about time for me to go."
 dialogtxt       "What will you do, [NAME 1]?"
 goto            @Label_0488
 
@@ -106,8 +104,7 @@ dialogtxt       "Right."
 dialogtxt       "I'll do my best."
 code0309        
 code0479        0, 0, 12
-dialogtxt       "Now then,"
-dialogtxt       "it's about time for me to go."
+dialogtxt       "Now then, it's about time for me to go."
 dialogtxt       "What will you do, [NAME 1]?"
 goto            @Label_0488
 
@@ -143,8 +140,7 @@ goto            @Cond_05ae
 
 @Cond_05ae:
 jumpz           @Cond_0936, ($b003 == 1)
-dialogtxt       "Will you be"
-dialogtxt       "alright by yourself?"
+dialogtxt       "Will you be alright by yourself?"
 code0309        
 call            @Func_16ec
 code0479        0, 0, 12
@@ -201,12 +197,12 @@ call            @Func_1680
 code0479        1, 2, 12
 call            @Func_16b6
 dialogtxt       "I'm going with you, of course."
-dialogtxt       "We're partners."
+dialogtxt       "We're partners, aren't we?"
 code0309        
 call            @Func_16ec
 code0479        0, 5, 13
 call            @Func_164a
-dialogtxt       "[NAME 1]…"
+dialogtxt       "[NAME 2]…"
 code0309        
 call            @Func_1680
 code0479        1, 2, 14
@@ -217,19 +213,18 @@ goto            @Cond_0936
 
 @Cond_0936:
 jumpz           @Cond_0cb6, ($b003 == 2)
-dialogtxt       "Think you can win"
-dialogtxt       "all by yourself?"
+dialogtxt       "Think you can win all by yourself?"
 code0309        
 call            @Func_16ec
 code0479        0, 0, 16
 call            @Func_164a
 jumpz           @Cond_09e0, ($b002 == 0)
-dialogtxt       "What's that supposed to mean?"
+dialogtxt       "What's this… ?"
 dialogtxt       "Are you worried about me?"
 goto            @Label_0a14
 
 @Cond_09e0:
-dialogtxt       "What's that supposed to mean?"
+dialogtxt       "What's this… ?"
 dialogtxt       "Are you worried about me?"
 goto            @Label_0a14
 
@@ -246,9 +241,9 @@ call            @Func_16ec
 code0479        0, 0, 12
 call            @Func_164a
 jumpz           @Cond_0b4e, ($b002 == 0)
-dialogtxt       "Oh, yeah."
-dialogtxt       "Right."
-dialogtxt       "I'll do my best."
+dialogtxt       "Oh… , yeah…"
+dialogtxt       "Right!"
+dialogtxt       "I'll do my best!"
 code0309        
 code0479        0, 0, 16
 dialogtxt       "Now then,"
@@ -257,9 +252,9 @@ dialogtxt       "What will you do, [NAME 1]?"
 goto            @Label_0bd8
 
 @Cond_0b4e:
-dialogtxt       "Ah, yeah."
-dialogtxt       "Right."
-dialogtxt       "I'll do my best."
+dialogtxt       "Oh… , yeah…"
+dialogtxt       "Right!"
+dialogtxt       "I'll do my best!"
 code0309        
 code0479        0, 0, 16
 dialogtxt       "Now then,"
@@ -273,8 +268,8 @@ call            @Func_1680
 code0479        1, 4, 12
 call            @Func_16b6
 dialogtxt       "…"
-dialogtxt       "It's a pain,"
-dialogtxt       "but I'll go with you."
+dialogtxt       "It's a pain, but we'll have to go"
+dialogtxt       "together."
 code0309        
 call            @Func_16ec
 code0479        0, 0, 12
@@ -284,9 +279,8 @@ code0309
 call            @Func_1680
 code0479        1, 2, 13
 call            @Func_16b6
-dialogtxt       "I have to be there"
-dialogtxt       "if you get cold feet"
-dialogtxt       "and start to freak out."
+dialogtxt       "I have to be there if you get cold"
+dialogtxt       "feet and start to freak out."
 goto            @Cond_0cb6
 
 @Cond_0cb6:
@@ -598,4 +592,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-

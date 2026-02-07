@@ -199,7 +199,6 @@ code043e        0, 3, 0
 code0301        8, 7
 code047d        0, 0
 code047e        0, 1
-dialogtxt       "This isn't the time!"
 dialogtxt       "We have to find Anise!"
 code0309        
 code047e        0, 0
@@ -240,7 +239,6 @@ code043e        0, 3, 0
 code0301        8, 7
 code047d        0, 0
 code047e        0, 1
-dialogtxt       "This isn't the time!"
 dialogtxt       "We have to find Anise!"
 code0309        
 code047e        0, 0
@@ -481,4 +479,3 @@ ret
 
 @Func_1422:
 ret             
-

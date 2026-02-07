@@ -45,13 +45,13 @@ code0479        1, 2, 13
 call            @Func_1aae
 jumpz           @Cond_028a, ($b002 == 0)
 dialogtxt       "Don't look so worried."
-dialogtxt       "I'm going to win."
+dialogtxt       "I'm here to win!"
 dialogtxt       "Leave it to me!"
 goto            @Label_02d6
 
 @Cond_028a:
 dialogtxt       "Don't look so worried."
-dialogtxt       "I'm going to win."
+dialogtxt       "I'm here to win!"
 dialogtxt       "Leave it to me!"
 goto            @Label_02d6
 
@@ -70,13 +70,11 @@ call            @Func_1aae
 jumpz           @Cond_03d6, ($b002 == 0)
 dialogtxt       "It's fine, it's fine!"
 dialogtxt       "I want to fight Tram too."
-dialogtxt       "Don't worry about it."
 goto            @Label_0430
 
 @Cond_03d6:
 dialogtxt       "It's okay."
 dialogtxt       "I want to fight Tram too."
-dialogtxt       "Don't worry about it."
 goto            @Label_0430
 
 @Label_0430:
@@ -108,12 +106,12 @@ code047d        1, 2
 call            @Func_1b12
 call            @Func_1aae
 jumpz           @Cond_05a0, ($b003 == 0)
-dialogtxt       "Lady Murno, I Believe"
-dialogtxt       "My Partner Will Win."
+dialogtxt       "Lady Murno, I Believe My Partner"
+dialogtxt       "Will Win."
 code047b        
 code0309        
-dialogtxt       "There Is No Need"
-dialogtxt       "For You To Be Concerned."
+dialogtxt       "There Is No Need For You To"
+dialogtxt       "Be Concerned."
 goto            @Cond_05a0
 
 @Cond_05a0:
@@ -124,15 +122,14 @@ dialogtxt       "off how cool they can be."
 code047b        
 code0309        
 code0479        1, 0, 16
-dialogtxt       "Will you allow it"
-dialogtxt       "just this once?"
+dialogtxt       "Will you allow it just this once?"
 goto            @Cond_0632
 
 @Cond_0632:
 jumpz           @Cond_06b2, ($b003 == 2)
 dialogtxt       "Hmph…"
-dialogtxt       "I'm sure [NAME 2] just wants to "
-dialogtxt       "show off in front of you. But…"
+dialogtxt       "I'm sure [NAME 2] just wants"
+dialogtxt       "to show off, but…"
 code047b        
 code0309        
 code0479        1, 0, 12
@@ -147,7 +144,7 @@ dialogtxt       "how cool they are, Lady Murno."
 code047b        
 code0309        
 code0479        1, 1, 13
-dialogtxt       "You may be at ease."
+dialogtxt       "You may feel at ease."
 goto            @Cond_074c
 
 @Cond_074c:
@@ -222,7 +219,8 @@ call            @Func_1a78
 code0479        1, 0, 13
 call            @Func_1aae
 dialogtxt       "Yeah."
-dialogtxt       "I'm the witness."
+dialogtxt       "I'm here as a witness of"
+dialogtxt       "the match."
 code0309        
 call            @Func_1ae4
 code0479        0, 0, 14
@@ -305,8 +303,7 @@ code047d        0, 107
 call            @Func_1afc
 call            @Func_1a42
 dialogtxt       "Um…"
-dialogtxt       "Am I not allowed"
-dialogtxt       "to be a witness?"
+dialogtxt       "Am I not allowed to be a witness?"
 code047b        
 code0309        
 call            @Func_1b7e
@@ -355,8 +352,7 @@ code047d        1, 136
 call            @Func_1b28
 call            @Func_1a90
 dialogtxt       "Mm…, I see…"
-dialogtxt       "Then,"
-dialogtxt       "I'll see what Tram thinks."
+dialogtxt       "Then, I'll see what Tram thinks."
 code047b        
 code0309        
 call            @Func_1ae4
@@ -399,13 +395,13 @@ goto            @Cond_10fe
 
 @Cond_10fe:
 jumpz           @Cond_1142, ($b003 == 1)
-dialogtxt       "If Murno is okay with it,"
-dialogtxt       "then I will be a witness as well."
+dialogtxt       "If Murno is going, then I must"
+dialogtxt       "be a witness as well."
 goto            @Cond_1142
 
 @Cond_1142:
 jumpz           @Cond_119c, ($b003 == 2)
-dialogtxt       "If Murno think's its okay, then"
+dialogtxt       "If it's okay for Murno, then"
 dialogtxt       "I'll be a witness too."
 dialogtxt       "That's fine, right?"
 goto            @Cond_119c
@@ -429,7 +425,7 @@ dialogtxt       "Let's get going."
 code0309        
 code0479        1, 0, 12
 dialogtxt       "The Ruins Entrance is within"
-dialogtxt       "Gumag Flame Ruins, above the"
+dialogtxt       "Ghumag Flame Ruins, above the"
 dialogtxt       "Rekui Water Ruins."
 code0309        
 call            @Func_1b52
@@ -693,4 +689,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-

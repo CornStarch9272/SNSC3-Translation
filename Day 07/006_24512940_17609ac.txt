@@ -176,14 +176,14 @@ code047d        0, 0
 code047e        0, 1
 jumpz           @Cond_08b2, ($b002 == 0)
 dialogtxt       "Tram is waiting for us."
-dialogtxt       "We have to go to the "
-dialogtxt       "Gumag Flame Ruins!"
+dialogtxt       "We have to go to the"
+dialogtxt       "Ghumag Flame Ruins!"
 goto            @Label_0900
 
 @Cond_08b2:
 dialogtxt       "Tram is waiting for us."
 dialogtxt       "Let's head to the"
-dialogtxt       "Gumag Flame Ruins!"
+dialogtxt       "Ghumag Flame Ruins!"
 goto            @Label_0900
 
 @Label_0900:
@@ -203,13 +203,13 @@ code047d        0, 0
 code047e        0, 1
 jumpz           @Cond_09e0, ($b002 == 0)
 dialogtxt       "Murno and Tram went to see the"
-dialogtxt       "Pillar in Gumag Flame Ruins."
+dialogtxt       "Pillar in Ghumag Flame Ruins."
 dialogtxt       "Let's hurry after them!"
 goto            @Label_0a48
 
 @Cond_09e0:
 dialogtxt       "Murno and Tram went to see the"
-dialogtxt       "Pillar in Gumag Flame Ruins."
+dialogtxt       "Pillar in Ghumag Flame Ruins."
 dialogtxt       "Let's hurry after them!"
 goto            @Label_0a48
 
@@ -495,4 +495,3 @@ ret
 
 @Func_1448:
 ret             
-

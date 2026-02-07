@@ -140,8 +140,7 @@ dialogtxt       "Sorry about the way"
 dialogtxt       "we treated you earlier…"
 code0309        
 dialogtxt       "We're watching Anise right now."
-dialogtxt       "To think that she"
-dialogtxt       "would betray us…"
+dialogtxt       "To think she would betray us…"
 code0309        
 code047e        0, 0
 code0302        7
@@ -341,4 +340,3 @@ ret
 
 @Func_0dce:
 ret             
-
