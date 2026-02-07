@@ -13,7 +13,7 @@ code0422        0, 0
 code046c        1
 setvar          $b075, 1
 setvar          $b072, 1
-placetxt        "Gumag Fire Ruins"
+placetxt        "Ghumag Flame Ruins"
 code040c        0, @Label_0826
 code040c        1, @Label_1aa8
 code040c        2, @Label_1a9e
@@ -160,7 +160,7 @@ code046c        1
 goto            @Cond_0808
 
 @Cond_0808:
-placetxt        "Gumag Fire Ruins　Area 1"
+placetxt        "Ghumag Flame Ruins　Area 1"
 code040b        
 
 @Label_0826:
@@ -283,9 +283,8 @@ setvar          $f1023, 1
 code043e        0, 3, 0
 code0301        0, 9
 code0305        1
-dialogtxt       "The floating plates will"
-dialogtxt       "move when you hit the switch"
-dialogtxt       "on the floor with your hammer."
+dialogtxt       "Hit the switch with your hammer!"
+dialogtxt       "The plates will start to move."
 code0309        
 dialogtxt       "The direction depends on the "
 dialogtxt       "switch's shape, and the"
@@ -380,9 +379,8 @@ code040b
 @Event_0ea8:
 code0301        0, 9
 code0305        1
-dialogtxt       "Open the door by pressing"
-dialogtxt       "the matching switch for"
-dialogtxt       "the weapon shown."
+dialogtxt       "Open the door by pressing the matching"
+dialogtxt       "switch for the weapon shown."
 code0309        
 code0302        9
 code040b        
@@ -776,4 +774,3 @@ code031f        7
 code031a        7
 code033e        196
 ret             
-

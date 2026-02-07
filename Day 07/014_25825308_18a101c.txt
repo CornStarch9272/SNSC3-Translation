@@ -135,7 +135,7 @@ code0361        $b003
 goto            @Cond_068a
 
 @Cond_068a:
-placetxt        "Gumag Fire Ruins Area 5"
+placetxt        "Ghumag Flame Ruins　Area 5"
 code040b        
 
 @Event_06a8:
@@ -431,4 +431,3 @@ code031f        7
 code031a        7
 code033e        196
 ret             
-

@@ -36,7 +36,6 @@ call            @Func_135c
 code0479        0, 0, 16
 call            @Func_12ba
 jumpz           @Cond_0294, ($b002 == 0)
-dialogtxt       "This is…?"
 dialogtxt       "It doesn't seem all that special."
 code0309        
 code0479        0, 2, 16
@@ -45,7 +44,6 @@ dialogtxt       "the way here to have our match?"
 goto            @Label_0320
 
 @Cond_0294:
-dialogtxt       "This is…?"
 dialogtxt       "It doesn't seem all that special."
 code0309        
 code0479        0, 0, 12
@@ -58,9 +56,9 @@ code0309
 call            @Func_12f0
 code0479        1, 2, 12
 call            @Func_1326
-dialogtxt       "Only one who is worthy"
-dialogtxt       "can win a match held here."
-dialogtxt       "…or so the legend says."
+dialogtxt       "Only one who is worthy can win"
+dialogtxt       "a match held here."
+dialogtxt       "… Or so the legend says."
 code0309        
 code0479        1, 0, 12
 dialogtxt       "Many things were decided by"
@@ -93,8 +91,7 @@ code047d        0, 2
 call            @Func_1374
 call            @Func_12ba
 jumpz           @Cond_04ea, ($b003 == 0)
-dialogtxt       "Is There A Special"
-dialogtxt       "Power At Work?"
+dialogtxt       "Is There A Special Power At Work?"
 goto            @Cond_04ea
 
 @Cond_04ea:
@@ -138,13 +135,11 @@ call            @Func_135c
 code0479        0, 5, 16
 call            @Func_12ba
 jumpz           @Cond_0702, ($b002 == 0)
-dialogtxt       "Intruders get thrown"
-dialogtxt       "into the lava…?"
+dialogtxt       "Intruders get thrown into the lava…?"
 goto            @Label_0738
 
 @Cond_0702:
-dialogtxt       "Intruders get thrown"
-dialogtxt       "into the lava…?"
+dialogtxt       "Intruders get thrown into the lava…?"
 goto            @Label_0738
 
 @Label_0738:
@@ -285,7 +280,7 @@ code047b
 code0309        
 code0479        1, 2, 12
 dialogtxt       "Now then, both of you,"
-dialogtxt       "choose a weapon to use."
+dialogtxt       "choose your weapon."
 code0309        
 call            @Func_13f6
 call            @Func_1344
@@ -514,4 +509,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-

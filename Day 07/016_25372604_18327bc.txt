@@ -20,7 +20,7 @@ goto            @Label_090a
 @Cond_009c:
 jumpz           @Cond_00ea, ($b071 == 0)
 call            @Func_0efc
-dialogtxt       "Equip the weapon you plan"
+dialogtxt       "Equip only the weapon you plan"
 dialogtxt       "on using."
 code047b        
 code0309        
@@ -132,7 +132,7 @@ call            @Func_0f1a
 jumpz           @Cond_0560, ($b003 == 0)
 dialogtxt       "Examining Facial Expression."
 dialogtxt       "Lady Murno, Do You Believe"
-dialogtxt       "My Partner Will Lose."
+dialogtxt       "My Partner Will Lose?"
 goto            @Cond_0560
 
 @Cond_0560:
@@ -443,4 +443,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-

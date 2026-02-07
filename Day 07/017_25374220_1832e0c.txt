@@ -63,9 +63,8 @@ dialogtxt       "Huh?"
 dialogtxt       "It's fine, don't worry about it."
 code0309        
 code0479        0, 0, 13
-dialogtxt       "That's nothing compared to"
-dialogtxt       "what I get from that lot in"
-dialogtxt       "Bostaph's workshop."
+dialogtxt       "That's nothing compared to what I"
+dialogtxt       "get at Bostaph's workshop."
 goto            @Label_03da
 
 @Cond_0348:
@@ -73,9 +72,8 @@ dialogtxt       "Huh?!"
 dialogtxt       "It's fine, don't worry about it."
 code0309        
 code0479        0, 0, 13
-dialogtxt       "That's nothing compared to"
-dialogtxt       "the what I get from that"
-dialogtxt       "lot in Bostaph's workshop."
+dialogtxt       "That's nothing compared to what I"
+dialogtxt       "get at Bostaph's workshop."
 goto            @Label_03da
 
 @Label_03da:
@@ -110,7 +108,7 @@ code043c        0, 4
 code043c        3, 2
 code0479        0, 7, 12
 call            @Func_200e
-dialogtxt       "Heehee"
+dialogtxt       "Heehee~"
 code0309        
 call            @Func_211e
 call            @Func_2044
@@ -174,8 +172,7 @@ code047d        1, 2
 call            @Func_20f4
 call            @Func_205c
 jumpz           @Cond_07d4, ($b003 == 0)
-dialogtxt       "Isn't That Great,"
-dialogtxt       "Lady Murno?"
+dialogtxt       "Isn't That Great, Lady Murno?"
 goto            @Cond_07d4
 
 @Cond_07d4:
@@ -192,8 +189,8 @@ goto            @Cond_0832
 
 @Cond_0832:
 jumpz           @Cond_0868, ($b003 == 3)
-dialogtxt       "That's great news,"
-dialogtxt       "isn't it, Lady Murno?"
+dialogtxt       "That's great news, isn't it,"
+dialogtxt       "Lady Murno?"
 goto            @Cond_0868
 
 @Cond_0868:
@@ -215,7 +212,7 @@ code047d        1, 135
 call            @Func_20de
 call            @Func_207a
 dialogtxt       "The Summon Beasts only get"
-dialogtxt       "stronger from hereon."
+dialogtxt       "stronger from here on out."
 dialogtxt       "Be careful."
 code047b        
 code0309        
@@ -427,8 +424,8 @@ code0309
 call            @Func_2044
 code0479        1, 1, 12
 call            @Func_207a
-dialogtxt       "You beat me, so you should"
-dialogtxt       "be able to handle it alone right?"
+dialogtxt       "You beat me, so you should be able"
+dialogtxt       "to handle it alone right?"
 code0309        
 code0479        1, 2, 12
 dialogtxt       "Or would you prefer"
@@ -518,7 +515,7 @@ goto            @Cond_17b0
 
 @Cond_17b0:
 jumpz           @Cond_1802, ($b003 == 2)
-dialogtxt       "Tch, again Murno is…"
+dialogtxt       "Tsk, again Murno is…"
 dialogtxt       "Hey, can't you move faster!?"
 goto            @Cond_1802
 
@@ -566,7 +563,7 @@ goto            @Label_19aa
 
 @Cond_197e:
 dialogtxt       "Well then!"
-dialogtxt       "Be careful, little lady!"
+dialogtxt       "Be careful, young lady!"
 goto            @Label_19aa
 
 @Label_19aa:
@@ -806,4 +803,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-

@@ -39,13 +39,11 @@ call            @Func_196c
 call            @Func_1868
 jumpz           @Cond_01e0, ($b002 == 0)
 dialogtxt       "Woah!"
-dialogtxt       "What the…?"
 dialogtxt       "It's so hot in here."
 goto            @Label_020e
 
 @Cond_01e0:
 dialogtxt       "Woah!"
-dialogtxt       "What the…?"
 dialogtxt       "It's so hot in here."
 goto            @Label_020e
 
@@ -75,27 +73,26 @@ goto            @Label_02b4
 @Label_02b4:
 call            @Func_18f2
 jumpz           @Cond_02f6, ($b003 == 0)
-dialogtxt       "The Heat Must Be Due To The"
+dialogtxt       "This Heat Must Be Due To The"
 dialogtxt       "Presence Of Flowing Lava."
 goto            @Cond_02f6
 
 @Cond_02f6:
 jumpz           @Cond_033a, ($b003 == 1)
-dialogtxt       "Look,"
-dialogtxt       "there's lava."
+dialogtxt       "Look, there's lava…"
 dialogtxt       "That must be why."
 goto            @Cond_033a
 
 @Cond_033a:
 jumpz           @Cond_037e, ($b003 == 2)
-dialogtxt       "Tch…"
+dialogtxt       "Tsk…"
 dialogtxt       "There's flowing lava here, huh."
 dialogtxt       "It's like being in a sauna."
 goto            @Cond_037e
 
 @Cond_037e:
 jumpz           @Cond_03d4, ($b003 == 3)
-dialogtxt       "L-look over there!"
+dialogtxt       "L-Look over there!"
 dialogtxt       "That must be lava!"
 dialogtxt       "So that's why it's so hot…"
 goto            @Cond_03d4
@@ -118,7 +115,7 @@ code047b
 code0309        
 code0479        1, 2, 12
 dialogtxt       "Not only that, the Summon Beasts"
-dialogtxt       "here have become very aggressive."
+dialogtxt       "here are very aggressive."
 code0309        
 call            @Func_19c2
 call            @Func_1910
@@ -130,8 +127,7 @@ code0479        0, 4, 16
 code047d        0, 107
 call            @Func_1940
 call            @Func_1868
-dialogtxt       "It's happening"
-dialogtxt       "here as well…"
+dialogtxt       "It's happening here as well…"
 code047b        
 code0309        
 call            @Func_1996
@@ -207,8 +203,8 @@ goto            @Cond_07dc
 
 @Cond_07dc:
 jumpz           @Cond_0828, ($b003 == 1)
-dialogtxt       "I can feel something unpleasant,"
-dialogtxt       "but I will not be led astray."
+dialogtxt       "I certainly feel an unpleasant aura,"
+dialogtxt       "but I shall not be led astray."
 goto            @Cond_0828
 
 @Cond_0828:
@@ -221,8 +217,7 @@ goto            @Cond_087e
 @Cond_087e:
 jumpz           @Cond_08d2, ($b003 == 3)
 dialogtxt       "It's a bit unpleasant, but…"
-dialogtxt       "I can bear it."
-dialogtxt       "I will be fine."
+dialogtxt       "I can bear it. I will be fine."
 goto            @Cond_08d2
 
 @Cond_08d2:
@@ -239,13 +234,13 @@ call            @Func_1956
 code0479        0, 2, 14
 call            @Func_1886
 jumpz           @Cond_0992, ($b002 == 0)
-dialogtxt       "What are the Summon Beasts"
-dialogtxt       "here protecting?"
+dialogtxt       "What are the Summon Beasts protecting"
+dialogtxt       "here?"
 goto            @Label_09cc
 
 @Cond_0992:
-dialogtxt       "What are the Summon Beasts"
-dialogtxt       "here protecting?"
+dialogtxt       "What are the Summon Beasts protecting"
+dialogtxt       "here?"
 goto            @Label_09cc
 
 @Label_09cc:
@@ -254,19 +249,19 @@ code0309
 call            @Func_18bc
 code0479        1, 2, 12
 call            @Func_18f2
-dialogtxt       "If you want to know,"
-dialogtxt       "you have to beat me."
+dialogtxt       "If you want to know, you have to"
+dialogtxt       "beat me."
 code047b        
 code0309        
 call            @Func_1928
 code0479        0, 2, 12
 call            @Func_1886
 jumpz           @Cond_0a5e, ($b002 == 0)
-dialogtxt       "I know."
+dialogtxt       "I know…"
 goto            @Label_0a72
 
 @Cond_0a5e:
-dialogtxt       "I know."
+dialogtxt       "I know…"
 goto            @Label_0a72
 
 @Label_0a72:
@@ -275,8 +270,8 @@ call            @Func_18bc
 code043c        2, 2
 code0479        1, 1, 12
 call            @Func_18f2
-dialogtxt       "Then I will guide Murno"
-dialogtxt       "to the Room of Judgment."
+dialogtxt       "Then I will guide Murno to the"
+dialogtxt       "Room of Judgment."
 code0309        
 call            @Func_19c2
 call            @Func_1910
@@ -289,12 +284,10 @@ call            @Func_196c
 call            @Func_1868
 jumpz           @Cond_0b5e, ($b002 == 0)
 dialogtxt       "Hey, wait!"
-dialogtxt       "What's with that!?"
 goto            @Label_0b8a
 
 @Cond_0b5e:
 dialogtxt       "Hey, wait!"
-dialogtxt       "What's with that!?"
 goto            @Label_0b8a
 
 @Label_0b8a:
@@ -309,7 +302,7 @@ dialogtxt       "Can't handle it on your own?"
 dialogtxt       "Must I escort you as well?"
 code0309        
 code0479        1, 2, 13
-dialogtxt       "This will be a pushover."
+dialogtxt       "You may as well forfeit now."
 code0309        
 call            @Func_1928
 code0479        0, 2, 14
@@ -333,8 +326,8 @@ code047d        1, 107
 call            @Func_1956
 call            @Func_18f2
 dialogtxt       "I'm fine."
-dialogtxt       "If you were to come with us,"
-dialogtxt       "you'd only get in the way."
+dialogtxt       "If I went with you, I'd only get in"
+dialogtxt       "the way…"
 code047b        
 code0309        
 code0479        1, 2, 14
@@ -475,7 +468,7 @@ goto            @Cond_1270
 
 @Cond_1270:
 jumpz           @Cond_1292, ($b003 == 2)
-dialogtxt       "Do what you want."
+dialogtxt       "Fine."
 goto            @Cond_1292
 
 @Cond_1292:
@@ -709,4 +702,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-
