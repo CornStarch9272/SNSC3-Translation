@@ -1037,8 +1037,8 @@ const names = {
 
 const TAGS = {
     "[NAME 0]" : "#PlayerName",
-    "[NAME 1]" : "#PlayerNickname",
-    "[NAME 2]" : "#PartnerName",
+    "[NAME 1]" : "#PartnerName",
+    "[NAME 2]" : "#PlayerNickname",
     "[NAME 4]" : "#ItemName",
     "..." : "…",
     "   " : "　",
