@@ -519,7 +519,7 @@ dictionarytxt 142, "A vicious wolf", "with fangs that", "pierce steel" ; "夜に
 dictionarytxt 143, "Goes berserk", "easily, may", "attack allies" ; "暴れやすい性格で", "たとえ仲間でも", "襲うこともある"
 dictionarytxt 144, "Attacks with its", "big mouth and", "paralizing gas" ; "大きな口で攻撃と", "マヒガスを吐いて", "攻撃してくる"
 dictionarytxt 145, "All its attacks", "are heavy and", "unstoppable" ; "全ての攻撃が重く", "どんな攻撃でも", "止められない"
-dictionarytxt 146, "Usually pasive.", "Once it begins,", "its unstoppable" ; "普段は大人しいが", "一度暴れ出すと", "手が付けられない"
+dictionarytxt 146, "Usually passive.", "Once it begins,", "it's unstoppable" ; "普段は大人しいが", "一度暴れ出すと", "手が付けられない"
 dictionarytxt 147, "Can smash even", "bedrock with", "its drill" ; "搭載したドリルは", "どんな岩盤でも", "砕いて突き進む"
 dictionarytxt 148, "Jumps as high", "as a two-story", "shop" ; "大きな後ろ足での", "ジャンプはすごく", "二階の窓まで届く"
 dictionarytxt 149, "Charges, then", "attacks using", "its nostrils" ; "突進攻撃と", "鼻状の穴からは", "特殊な攻撃を放つ"
