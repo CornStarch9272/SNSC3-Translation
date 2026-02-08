@@ -186,7 +186,7 @@ goto            @Label_077e
 code0301        8, 7
 code047e        0, 1
 code037c        $h232
-dialogtxt       "Wanna trade your ζ,,"
+dialogtxt       "Wanna trade your ζ,"
 code0309        
 code037c        $h233
 dialogtxt       "for my ζ?"
@@ -299,7 +299,7 @@ goto            @Label_0b58
 code0301        8, 7
 code047e        0, 1
 code037c        $h232
-dialogtxt       "Wanna trade your ζ,,"
+dialogtxt       "Wanna trade your ζ,"
 code0309        
 code037c        $h233
 dialogtxt       "for my ζ?"

@@ -256,7 +256,7 @@ jumpz           @Cond_1010, ($h311 == 7)
 code0304        1
 dialogtxt       "  After a short time, everyone  "
 dialogtxt       "came back and said, we will meet"
-dialogtxt       "  tomorrow at Auric Collective. "
+dialogtxt       "  tomorrow at the Gold Faction. "
 code030a        6, 1
 dialogtxt       " I do think it's necessary, but "
 dialogtxt       "  we can't waste too much time  "
