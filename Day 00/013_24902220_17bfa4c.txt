@@ -14,7 +14,7 @@ call            @Func_0ce0
 call            @Func_0c48
 dialogtxt       "Well then, it's time"
 dialogtxt       "to craft a weapon."
-dialogtxt       "When you're using the forge..."
+dialogtxt       "When you're using the forge…"
 code047b        
 code0309        
 call            @Func_0c9c
@@ -56,7 +56,7 @@ code0479        0, 0, 14
 call            @Func_0cb4
 call            @Func_0bdc
 code047e        0, 1
-dialogtxt       "The first step to craft a weapon..."
+dialogtxt       "The first step to craft a weapon…"
 dialogtxt       "You need to put the"
 dialogtxt       "materials into a furnace."
 code047b        

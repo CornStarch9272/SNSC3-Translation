@@ -10,7 +10,7 @@ code0479        1, 0, 12
 code047d        1, 120
 call            @Func_12c4
 call            @Func_11c0
-dialogtxt       "But, I already apologized..."
+dialogtxt       "But, I already apologized…"
 code047b        
 code0309        
 call            @Func_1214
@@ -27,7 +27,7 @@ code0309
 call            @Func_1280
 code0479        0, 2, 12
 call            @Func_11de
-dialogtxt       "..."
+dialogtxt       "…"
 code0309        
 call            @Func_1214
 code0479        1, 2, 14
@@ -38,7 +38,7 @@ code0309
 call            @Func_1280
 code0479        0, 2, 14
 call            @Func_11de
-dialogtxt       "Don't get involved with me..."
+dialogtxt       "Don't get involved with me…"
 code0309        
 call            @Func_1214
 code0479        1, 5, 16
@@ -170,7 +170,7 @@ call            @Func_1280
 code0479        0, 4, 12
 call            @Func_1298
 call            @Func_11de
-dialogtxt       "But..."
+dialogtxt       "But…"
 code047b        
 code0309        
 call            @Func_1214
@@ -178,12 +178,12 @@ code0479        1, 2, 13
 call            @Func_124a
 dialogtxt       "Right! So, as an apology,"
 dialogtxt       "come play with me."
-dialogtxt       "...How 'bout that?"
+dialogtxt       "…How 'bout that?"
 code0309        
 call            @Func_1280
 code0479        0, 5, 16
 call            @Func_11de
-dialogtxt       "\"Play\" with you? What do you...?"
+dialogtxt       "\"Play\" with you? What do you…?"
 code0309        
 call            @Func_1214
 code0479        1, 2, 15
@@ -194,7 +194,7 @@ code0309
 call            @Func_1280
 code0479        0, 2, 15
 call            @Func_11de
-dialogtxt       "If you don't stop I'll..."
+dialogtxt       "If you don't stop I'll…"
 code0309        
 call            @Func_1214
 code0479        1, 0, 16
@@ -204,12 +204,12 @@ code0309
 call            @Func_1280
 code0479        0, 5, 16
 call            @Func_11de
-dialogtxt       "...Huh?"
+dialogtxt       "…Huh?"
 code0309        
 code0479        1, 0, 12
 code0479        0, 2, 17
-dialogtxt       "What...?"
-dialogtxt       "My stone...! It's gone!?"
+dialogtxt       "What…?"
+dialogtxt       "My stone…! It's gone!?"
 code0309        
 call            @Func_131a
 call            @Func_11fc
@@ -225,7 +225,7 @@ code043c        3, 2
 call            @Func_12ae
 code0479        1, 4, 13
 call            @Func_122c
-dialogtxt       "Hey, tell me again..."
+dialogtxt       "Hey, tell me again…"
 dialogtxt       "What exactly will happen"
 dialogtxt       "if I don't stop, hmmmmm?"
 code047b        

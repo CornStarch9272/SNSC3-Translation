@@ -142,7 +142,7 @@ call            @Func_1022
 call            @Func_0fa0
 jumpz           @Cond_067a, ($b003 == 0)
 dialogtxt       "What on Lyndbaum!?"
-dialogtxt       "...A drill-headed robot!?"
+dialogtxt       "…A drill-headed robot!?"
 dialogtxt       "A Summon Beast!"
 goto            @Label_0676
 
@@ -162,7 +162,7 @@ goto            @Cond_0710
 @Cond_0710:
 jumpz           @Cond_07a2, ($b003 == 2)
 dialogtxt       "What on Lyndbaum!?"
-dialogtxt       "...Are those wings!?"
+dialogtxt       "…Are those wings!?"
 dialogtxt       "A Summon Beast!"
 goto            @Label_079e
 
@@ -197,7 +197,7 @@ code047d        0, 108
 call            @Func_100c
 call            @Func_0f34
 dialogtxt       "Just, wait a minute!"
-dialogtxt       "Ugh...!"
+dialogtxt       "Ugh…!"
 code0309        
 call            @Func_0f88
 call            @Func_1062

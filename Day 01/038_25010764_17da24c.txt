@@ -59,7 +59,7 @@ code047d        1, 2
 call            @Func_1052
 call            @Func_0fee
 jumpz           @Cond_030c, ($b003 == 0)
-dialogtxt       "..."
+dialogtxt       "…"
 code047b        
 code0309        
 call            @Func_1092
@@ -72,7 +72,7 @@ code047d        0, 0
 call            @Func_103c
 call            @Func_0f82
 dialogtxt       "What's with you?"
-dialogtxt       "You're not into it at all..."
+dialogtxt       "You're not into it at all…"
 goto            @Label_02ec
 
 @Label_02ec:
@@ -130,8 +130,8 @@ call            @Func_0f82
 goto            @Label_0464
 
 @Label_0464:
-dialogtxt       "..."
-dialogtxt       "Thanks..."
+dialogtxt       "…"
+dialogtxt       "Thanks…"
 code047b        
 code0309        
 call            @Func_0fb8
@@ -141,7 +141,7 @@ code047d        1, 0
 call            @Func_1052
 call            @Func_0fee
 jumpz           @Cond_0534, ($b002 == 0)
-dialogtxt       "No problem...."
+dialogtxt       "No problem…."
 code047b        
 code0309        
 code0479        1, 0, 16
@@ -151,7 +151,7 @@ dialogtxt       "that back like always, are you?"
 goto            @Label_059a
 
 @Cond_0534:
-dialogtxt       "Not a proble..."
+dialogtxt       "Not a proble…"
 code047b        
 code0309        
 code0479        1, 0, 16
@@ -172,7 +172,7 @@ code0309
 call            @Func_0fb8
 code0479        1, 6, 12
 call            @Func_0fee
-dialogtxt       "Ah... You're welcome..."
+dialogtxt       "Ah… You're welcome…"
 dialogtxt       "You can just call me δ."
 goto            @Label_0678
 
@@ -218,7 +218,7 @@ goto            @Cond_07d8
 
 @Cond_07d8:
 jumpz           @Cond_0842, ($b003 == 2)
-dialogtxt       "Tch..."
+dialogtxt       "Tch…"
 dialogtxt       "Quite the chit chat. Let's"
 dialogtxt       "go find that fruit already."
 goto            @Cond_0842

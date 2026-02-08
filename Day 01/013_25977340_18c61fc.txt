@@ -68,7 +68,7 @@ code0301        8, 7
 code047e        0, 1
 code037c        $h232
 dialogtxt       "ζ,"
-dialogtxt       "ζ..."
+dialogtxt       "ζ…"
 code0309        
 code047e        0, 0
 code0302        7
@@ -89,7 +89,7 @@ call            @Func_1732
 jumpz           @Cond_0390, ($bv019 == 1)
 code0301        8, 7
 code047e        0, 1
-dialogtxt       "Heheh...It's my victory."
+dialogtxt       "Heheh…It's my victory."
 code0309        
 code047e        0, 0
 code0302        7
@@ -104,7 +104,7 @@ goto            @Label_03ec
 @Cond_0398:
 code0301        8, 7
 code047e        0, 1
-dialogtxt       "Heheh...It's my victory."
+dialogtxt       "Heheh…It's my victory."
 code0309        
 code047e        0, 0
 code0302        7
@@ -289,7 +289,7 @@ code0301        8, 7
 code047e        0, 1
 code037c        $h232
 dialogtxt       "ζ,"
-dialogtxt       "ζ..."
+dialogtxt       "ζ…"
 code0309        
 code047e        0, 0
 code0302        7
@@ -310,7 +310,7 @@ call            @Func_1732
 jumpz           @Cond_0b54, ($bv019 == 1)
 code0301        8, 7
 code047e        0, 1
-dialogtxt       "Heheh... It's my victory."
+dialogtxt       "Heheh… It's my victory."
 code0309        
 code047e        0, 0
 code0302        7
@@ -325,7 +325,7 @@ goto            @Label_0bb0
 @Cond_0b5c:
 code0301        8, 7
 code047e        0, 1
-dialogtxt       "Heheh... It's my victory."
+dialogtxt       "Heheh… It's my victory."
 code0309        
 code047e        0, 0
 code0302        7
@@ -343,7 +343,7 @@ code0301        8, 7
 code047e        0, 1
 code037c        $h232
 dialogtxt       "ζ,"
-dialogtxt       "ζ..."
+dialogtxt       "ζ…"
 code0309        
 code047e        0, 0
 code0302        7
@@ -364,7 +364,7 @@ call            @Func_1732
 jumpz           @Cond_0d1c, ($bv019 == 1)
 code0301        8, 7
 code047e        0, 1
-dialogtxt       "Heheh... It's my victory."
+dialogtxt       "Heheh… It's my victory."
 code0309        
 code047e        0, 0
 code0302        7
@@ -379,7 +379,7 @@ goto            @Label_0d78
 @Cond_0d24:
 code0301        8, 7
 code047e        0, 1
-dialogtxt       "Heheh... It's my victory."
+dialogtxt       "Heheh… It's my victory."
 code0309        
 code047e        0, 0
 code0302        7

@@ -4,8 +4,8 @@ code047d        0, 0
 call            @Func_0834
 call            @Func_075c
 dialogtxt       "Well, thinking super hard about it"
-dialogtxt       "won't help me understand..."
-dialogtxt       "Guess I'll head back..."
+dialogtxt       "won't help me understand…"
+dialogtxt       "Guess I'll head back…"
 goto            @Label_00d4
 
 @Label_00d4:
@@ -22,7 +22,7 @@ call            @Func_0834
 call            @Func_075c
 dialogtxt       "Hm?"
 dialogtxt       "Is someone there?"
-dialogtxt       "Could it be..."
+dialogtxt       "Could it be…"
 goto            @Label_0184
 
 @Label_0184:

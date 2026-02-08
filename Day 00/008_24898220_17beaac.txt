@@ -88,8 +88,8 @@ call            @Func_213a
 call            @Func_2098
 code0479        0, 0, 13
 dialogtxt       "Totally wrong!"
-dialogtxt       "A demon from Sapureth? ...Maybe not."
-dialogtxt       "Not a beast from Maetropa either..."
+dialogtxt       "A demon from Sapureth? …Maybe not."
+dialogtxt       "Not a beast from Maetropa either…"
 code0309        
 call            @Func_20ce
 call            @Func_2104
@@ -106,12 +106,12 @@ code047d        0, 0
 call            @Func_2152
 call            @Func_2098
 jumpz           @Cond_057a, ($b002 == 0)
-dialogtxt       "You bastards..."
+dialogtxt       "You bastards…"
 dialogtxt       "You better watch your mouths!"
 goto            @Label_05ac
 
 @Cond_057a:
-dialogtxt       "You guys..."
+dialogtxt       "You guys…"
 dialogtxt       "Stop it already!"
 goto            @Label_05ac
 
@@ -204,7 +204,7 @@ code0479        1, 5, 17
 code047d        1, 120
 call            @Func_2168
 call            @Func_20e6
-dialogtxt       "Lemmy..."
+dialogtxt       "Lemmy…"
 code0309        
 call            @Func_21be
 call            @Func_2122
@@ -238,12 +238,12 @@ code0309
 call            @Func_20ce
 call            @Func_2104
 code0479        1, 0, 16
-dialogtxt       "Is that so..."
+dialogtxt       "Is that so…"
 code0309        
 code0479        1, 2, 12
 dialogtxt       "Certainly, a person like that"
 dialogtxt       "cannot be forgiven."
-dialogtxt       "It would be my pleasure..."
+dialogtxt       "It would be my pleasure…"
 code0309        
 call            @Func_21a8
 call            @Func_213a
@@ -254,7 +254,7 @@ call            @Func_2152
 call            @Func_2098
 code0479        0, 2, 15
 jumpz           @Cond_0c7a, ($b002 == 0)
-dialogtxt       "You bastard...!"
+dialogtxt       "You bastard…!"
 goto            @Label_0c8e
 
 @Cond_0c7a:
@@ -285,7 +285,7 @@ code0309
 call            @Func_213a
 call            @Func_2098
 code0479        0, 5, 14
-dialogtxt       "Wha..."
+dialogtxt       "Wha…"
 code0309        
 call            @Func_20ce
 call            @Func_2104
@@ -405,14 +405,14 @@ code047d        0, 131
 code0479        1, 0, 16
 call            @Func_217e
 call            @Func_20e6
-dialogtxt       "Zakk..."
+dialogtxt       "Zakk…"
 code047b        
 code0309        
 call            @Func_213a
 call            @Func_2098
 code0479        0, 0, 14
 dialogtxt       "You shouldn't be out here!"
-dialogtxt       "You're supposed to be resting..."
+dialogtxt       "You're supposed to be resting…"
 dialogtxt       "You aren't feeling well, right?"
 code0309        
 call            @Func_20ce
@@ -444,7 +444,7 @@ dialogtxt       "because you aren't feeling well?"
 goto            @Label_1616
 
 @Cond_15ca:
-dialogtxt       "So you're saying..."
+dialogtxt       "So you're saying…"
 dialogtxt       "you're making suuuch a horrible face"
 dialogtxt       "because you aren't feeling well?"
 goto            @Label_1616
@@ -462,7 +462,7 @@ code047d        1, 131
 call            @Func_2168
 call            @Func_2104
 dialogtxt       "What was that!?"
-dialogtxt       "...Wait, aren't you"
+dialogtxt       "…Wait, aren't you"
 dialogtxt       "that Stray's lapdog!?"
 code047b        
 code0309        
@@ -479,7 +479,7 @@ dialogtxt       "You too, huh?"
 goto            @Label_1764
 
 @Cond_174e:
-dialogtxt       "Not you too..."
+dialogtxt       "Not you too…"
 goto            @Label_1764
 
 @Label_1764:
@@ -495,7 +495,7 @@ code0479        1, 4, 12
 code047d        1, 110
 call            @Func_2168
 call            @Func_20e6
-dialogtxt       "Sigh..."
+dialogtxt       "Sigh…"
 dialogtxt       "Enough already."
 code047b        
 code0309        

@@ -7,7 +7,7 @@ tabletxt 0, "transmission OK" ; "送信完了しました"
 table 0x080BFD80 + 0, 20, 20
 tabletxt 0, "Reception OK" ; "受信完了しました"
 table 0x080BFD94 + 0, 12, 12
-tabletxt 0, "Saving..." ; "セーブ中…"
+tabletxt 0, "Saving…" ; "セーブ中…"
 table 0x080BFDA0 + 0, 24, 24
 tabletxt 0, "[NAME 4] Activated!" ; "[NAME 4]がＯＮになりました"
 table 0x080BFDB8 + 0, 12, 12

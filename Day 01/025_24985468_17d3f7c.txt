@@ -95,7 +95,7 @@ goto            @Cond_04b0
 
 @Cond_04b0:
 jumpz           @Cond_0510, ($b003 == 2)
-dialogtxt       "Be careful...?"
+dialogtxt       "Be careful…?"
 dialogtxt       "Who exactly do you think"
 dialogtxt       "you're talking to here?"
 goto            @Cond_0510

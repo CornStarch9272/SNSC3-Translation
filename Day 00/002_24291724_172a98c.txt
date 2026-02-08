@@ -66,7 +66,7 @@ code043e        0, 3, 0
 code0301        8, 7
 code047d        0, 0
 code047e        0, 1
-dialogtxt       "This mine has plenty of materials..."
+dialogtxt       "This mine has plenty of materials…"
 dialogtxt       "but powerful Strays too."
 dialogtxt       "Let's go somewhere else for now."
 code0309        

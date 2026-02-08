@@ -46,7 +46,7 @@ code047d        1, 108
 call            @Func_121c
 code0479        0, 0, 16
 call            @Func_1118
-dialogtxt       "Master..."
+dialogtxt       "Master…"
 code0309        
 call            @Func_116c
 code0479        1, 1, 12
@@ -63,7 +63,7 @@ call            @Func_11d8
 code0479        1, 0, 12
 code0479        0, 1, 13
 call            @Func_1136
-dialogtxt       "Hehe..."
+dialogtxt       "Hehe…"
 dialogtxt       "Well, γ was there too,"
 dialogtxt       "so it was no problem at all!"
 code0309        
@@ -78,7 +78,7 @@ code0309
 call            @Func_11d8
 code0479        0, 0, 16
 call            @Func_1136
-dialogtxt       "Hmm..."
+dialogtxt       "Hmm…"
 dialogtxt       "Really?"
 dialogtxt       "I wouldn't know myself."
 code0309        
@@ -102,7 +102,7 @@ code0309
 call            @Func_116c
 code0479        1, 1, 13
 call            @Func_11a2
-dialogtxt       "Hahahaha..."
+dialogtxt       "Hahahaha…"
 dialogtxt       "Thanks for the offer."
 dialogtxt       "I'll be counting on you then."
 code0309        

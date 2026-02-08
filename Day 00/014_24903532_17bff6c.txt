@@ -20,7 +20,7 @@ code0479        0, 0, 16
 call            @Func_0f84
 dialogtxt       "Cozy? Rock? I don't know"
 dialogtxt       "much about the Nameless World's"
-dialogtxt       "\"rock\" music, but..."
+dialogtxt       "\"rock\" music, but…"
 code0309        
 code0479        0, 2, 12
 code0479        1, 0, 12
@@ -57,7 +57,7 @@ call            @Func_1026
 code0479        0, 4, 14
 call            @Func_0f84
 dialogtxt       "Oh!"
-dialogtxt       "Okay..."
+dialogtxt       "Okay…"
 code0309        
 call            @Func_0fba
 code0479        1, 2, 12

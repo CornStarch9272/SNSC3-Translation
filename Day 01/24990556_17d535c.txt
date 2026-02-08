@@ -65,9 +65,9 @@ call            @Func_20d8
 code0333        2, 30
 code0479        0, 4, 12
 call            @Func_2036
-dialogtxt       "I was, but..."
+dialogtxt       "I was, but…"
 dialogtxt       "I wasn't sure what you meant,"
-dialogtxt       "so I just kept going..."
+dialogtxt       "so I just kept going…"
 goto            @Label_036e
 
 @Label_036e:
@@ -97,7 +97,7 @@ code0309
 call            @Func_20d8
 code0479        0, 5, 16
 call            @Func_2036
-dialogtxt       "But...!"
+dialogtxt       "But…!"
 dialogtxt       "That's not what I meant!"
 code0309        
 call            @Func_206c
@@ -110,7 +110,7 @@ call            @Func_20d8
 code0479        0, 2, 14
 call            @Func_2036
 jumpz           @Cond_05a2, ($b002 == 0)
-dialogtxt       "Damn it..."
+dialogtxt       "Damn it…"
 dialogtxt       "This is going nowhere!"
 code0309        
 code0479        0, 2, 15
@@ -119,7 +119,7 @@ dialogtxt       "Let's go!"
 goto            @Label_05f6
 
 @Cond_05a2:
-dialogtxt       "Ugh...!"
+dialogtxt       "Ugh…!"
 dialogtxt       "This is pointless!"
 code0309        
 code0479        0, 2, 15
@@ -181,7 +181,7 @@ code0479        0, 0, 16
 call            @Func_2036
 dialogtxt       "That's not it!"
 dialogtxt       "I just couldn't see any"
-dialogtxt       "difference, so..."
+dialogtxt       "difference, so…"
 goto            @Label_08b6
 
 @Label_08b6:
@@ -192,12 +192,12 @@ code0331        39, 256
 code0479        1, 4, 12
 call            @Func_20a2
 dialogtxt       "How could you not notice?"
-dialogtxt       "You're still green..."
+dialogtxt       "You're still green…"
 code0309        
 call            @Func_20d8
 code0479        0, 11, 17
 call            @Func_2036
-dialogtxt       "Wha...!?"
+dialogtxt       "Wha…!?"
 dialogtxt       "I'm green!?"
 dialogtxt       "Where!?"
 goto            @Label_09c2
@@ -208,7 +208,7 @@ call            @Func_206c
 code0479        1, 4, 13
 call            @Func_20a2
 dialogtxt       "Not literally."
-dialogtxt       "It means..."
+dialogtxt       "It means…"
 dialogtxt       "You're still an amateur."
 code0309        
 call            @Func_20d8
@@ -248,7 +248,7 @@ call            @Func_20d8
 code0479        0, 2, 15
 call            @Func_2036
 jumpz           @Cond_0c70, ($b002 == 0)
-dialogtxt       "Damn it..."
+dialogtxt       "Damn it…"
 dialogtxt       "This is going nowhere!"
 code0309        
 code0479        0, 2, 14
@@ -257,7 +257,7 @@ dialogtxt       "Let's go!"
 goto            @Label_0cc4
 
 @Cond_0c70:
-dialogtxt       "Ugh...!"
+dialogtxt       "Ugh…!"
 dialogtxt       "This is pointless!"
 code0309        
 code0479        0, 2, 14
@@ -296,14 +296,14 @@ goto            @Cond_0dfc
 @Cond_0dfc:
 jumpz           @Cond_14f0, ($b003 == 2)
 call            @Func_2084
-dialogtxt       "Tch..."
+dialogtxt       "Tch…"
 dialogtxt       "Took you long enough."
 code047b        
 code0309        
 call            @Func_20d8
 code0479        0, 2, 14
 call            @Func_2036
-dialogtxt       "Hey..."
+dialogtxt       "Hey…"
 dialogtxt       "What was that!?"
 goto            @Label_0ea4
 
@@ -339,7 +339,7 @@ dialogtxt       "So why didn't you tell me!?"
 goto            @Label_1058
 
 @Cond_102a:
-dialogtxt       "No way..."
+dialogtxt       "No way…"
 dialogtxt       "Why didn't you tell me then!?"
 goto            @Label_1058
 
@@ -369,24 +369,24 @@ code0309
 call            @Func_20d8
 code0479        0, 2, 15
 call            @Func_2036
-dialogtxt       "Then why...！"
+dialogtxt       "Then why…！"
 code0309        
 call            @Func_206c
 code0479        1, 0, 13
 call            @Func_20a2
 dialogtxt       "I was hoping you could"
 dialogtxt       "entertain me for a bit."
-dialogtxt       "You know, by falling off a bridge..."
+dialogtxt       "You know, by falling off a bridge…"
 code0309        
 call            @Func_20d8
 code0479        0, 2, 15
 call            @Func_2036
 jumpz           @Cond_129a, ($b002 == 0)
-dialogtxt       "What's wrong with you...!?"
+dialogtxt       "What's wrong with you…!?"
 goto            @Label_12bc
 
 @Cond_129a:
-dialogtxt       "Wha..."
+dialogtxt       "Wha…"
 dialogtxt       "What's wrong with you!?"
 goto            @Label_12bc
 
@@ -395,13 +395,13 @@ code0309
 call            @Func_206c
 code0479        1, 0, 12
 call            @Func_20a2
-dialogtxt       "..."
+dialogtxt       "…"
 code0309        
 call            @Func_20d8
 code0479        0, 2, 16
 call            @Func_2036
 jumpz           @Cond_1364, ($b002 == 0)
-dialogtxt       "Damn it..."
+dialogtxt       "Damn it…"
 dialogtxt       "This is going nowhere!"
 code0309        
 code0479        0, 2, 15
@@ -410,7 +410,7 @@ dialogtxt       "Let's go!"
 goto            @Label_13b8
 
 @Cond_1364:
-dialogtxt       "Ugh...!"
+dialogtxt       "Ugh…!"
 dialogtxt       "This is pointless!"
 code0309        
 code0479        0, 2, 15
@@ -472,7 +472,7 @@ code0479        0, 4, 12
 call            @Func_2036
 dialogtxt       "You got it all wrong!"
 dialogtxt       "I just couldn't see any"
-dialogtxt       "difference, so..."
+dialogtxt       "difference, so…"
 goto            @Label_167a
 
 @Label_167a:
@@ -482,14 +482,14 @@ code0334
 code0331        39, 256
 code0479        1, 4, 12
 call            @Func_20a2
-dialogtxt       "I suppose there's no helping it..."
+dialogtxt       "I suppose there's no helping it…"
 dialogtxt       "Human intuition really isn't"
 dialogtxt       "quite good enough."
 code0309        
 call            @Func_20d8
 code0479        0, 5, 12
 call            @Func_2036
-dialogtxt       "Wait..."
+dialogtxt       "Wait…"
 dialogtxt       "You just THOUGHT it would fall!?"
 code0309        
 call            @Func_206c
@@ -504,8 +504,8 @@ code0309
 call            @Func_20d8
 code0479        0, 4, 16
 call            @Func_2036
-dialogtxt       "Uh..."
-dialogtxt       "I wasn't..."
+dialogtxt       "Uh…"
+dialogtxt       "I wasn't…"
 code0309        
 call            @Func_206c
 code0479        1, 2, 14
@@ -518,7 +518,7 @@ call            @Func_20d8
 code0479        0, 0, 14
 call            @Func_2036
 jumpz           @Cond_1908, ($b002 == 0)
-dialogtxt       "Ugh..."
+dialogtxt       "Ugh…"
 code0309        
 code0479        0, 0, 17
 dialogtxt       "Forget it!"
@@ -526,7 +526,7 @@ dialogtxt       "Let's go!"
 goto            @Label_194e
 
 @Cond_1908:
-dialogtxt       "Ugh..."
+dialogtxt       "Ugh…"
 code0309        
 code0479        0, 0, 17
 dialogtxt       "Let's just go!"

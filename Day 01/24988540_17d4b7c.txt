@@ -39,7 +39,7 @@ code043c        0, 4
 code0479        0, 0, 16
 call            @Func_0bc4
 dialogtxt       "Really?"
-dialogtxt       "Well then..."
+dialogtxt       "Well then…"
 code0309        
 call            @Func_0d00
 call            @Func_0be2
@@ -69,7 +69,7 @@ code043c        0, 4
 code0479        0, 0, 16
 call            @Func_0bc4
 dialogtxt       "Really?"
-dialogtxt       "Well then..."
+dialogtxt       "Well then…"
 code0309        
 call            @Func_0d00
 call            @Func_0be2
@@ -99,7 +99,7 @@ code043c        0, 4
 code0479        0, 0, 16
 call            @Func_0bc4
 dialogtxt       "Eh?"
-dialogtxt       "What do you mea..."
+dialogtxt       "What do you mea…"
 code0309        
 call            @Func_0d00
 call            @Func_0be2
@@ -130,7 +130,7 @@ code043c        0, 4
 code0479        0, 0, 16
 call            @Func_0bc4
 dialogtxt       "Really?"
-dialogtxt       "Well then..."
+dialogtxt       "Well then…"
 code0309        
 call            @Func_0d00
 call            @Func_0be2

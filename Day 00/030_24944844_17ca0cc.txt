@@ -11,7 +11,7 @@ code0479        1, 2, 15
 code047d        1, 108
 call            @Func_1e14
 call            @Func_1d92
-dialogtxt       "...Hey, don't start"
+dialogtxt       "…Hey, don't start"
 dialogtxt       "celebrating just yet!"
 dialogtxt       "Start training at once!!"
 code047b        
@@ -52,9 +52,9 @@ code0479        0, 0, 12
 code047d        0, 2
 call            @Func_1dfe
 call            @Func_1d44
-dialogtxt       "..."
+dialogtxt       "…"
 dialogtxt       "It Is An Urgent Situation,"
-dialogtxt       "Isn't It..."
+dialogtxt       "Isn't It…"
 code0309        
 call            @Func_1d7a
 goto            @Cond_02f2
@@ -66,9 +66,9 @@ code0479        0, 4, 12
 code047d        0, 2
 call            @Func_1dfe
 call            @Func_1d44
-dialogtxt       "Right..."
+dialogtxt       "Right…"
 dialogtxt       "Some kind of grave"
-dialogtxt       "financial situation, it seems..."
+dialogtxt       "financial situation, it seems…"
 code0309        
 call            @Func_1d7a
 goto            @Cond_037e
@@ -80,9 +80,9 @@ code0479        0, 2, 14
 code047d        0, 2
 call            @Func_1dfe
 call            @Func_1d44
-dialogtxt       "Tch..."
+dialogtxt       "Tch…"
 dialogtxt       "To think I would have"
-dialogtxt       "to work for money..."
+dialogtxt       "to work for money…"
 code0309        
 call            @Func_1d7a
 goto            @Cond_0404
@@ -94,7 +94,7 @@ code0479        0, 5, 14
 code047d        0, 2
 call            @Func_1dfe
 call            @Func_1d44
-dialogtxt       "M-Money, is it?..."
+dialogtxt       "M-Money, is it?…"
 code0309        
 call            @Func_1d7a
 goto            @Cond_046a
@@ -104,7 +104,7 @@ code043c        2, 1
 code0479        1, 2, 15
 call            @Func_1db0
 dialogtxt       "Let's do it!"
-dialogtxt       "Your target is..."
+dialogtxt       "Your target is…"
 dialogtxt       "1 million Boam!!!"
 code0309        
 call            @Func_1e80
@@ -118,7 +118,7 @@ code0479        0, 5, 16
 code047d        0, 0
 call            @Func_1dfe
 call            @Func_1d26
-dialogbig       8, 108, 0, 0, 0, "Wha...!!!!"
+dialogbig       8, 108, 0, 0, 0, "Wha…!!!!"
 code030c        
 call            @Func_1e54
 call            @Func_1d62
@@ -147,7 +147,7 @@ code0479        0, 5, 17
 code047d        0, 0
 call            @Func_1dfe
 call            @Func_1d44
-dialogtxt       "Wai-...!"
+dialogtxt       "Wai-…!"
 dialogtxt       "Wait just a minute!"
 code0309        
 call            @Func_1d7a
@@ -201,11 +201,11 @@ call            @Func_1d7a
 code0479        1, 0, 12
 call            @Func_1db0
 jumpz           @Cond_090a, ($b002 == 0)
-dialogtxt       "Together With Him..."
+dialogtxt       "Together With Him…"
 goto            @Label_0924
 
 @Cond_090a:
-dialogtxt       "Together With Her..."
+dialogtxt       "Together With Her…"
 goto            @Label_0924
 
 @Label_0924:
@@ -240,7 +240,7 @@ code030c
 call            @Func_1d7a
 code0479        1, 3, 14
 call            @Func_1db0
-dialogtxt       "Haaaah...!?"
+dialogtxt       "Haaaah…!?"
 dialogtxt       "Together with this human, you say!?"
 code0309        
 call            @Func_1e6a
@@ -272,7 +272,7 @@ call            @Func_1e14
 call            @Func_1db0
 dialogtxt       "Isn't that obvious?"
 dialogtxt       "Partners strengthen their bonds"
-dialogtxt       "through stuff like that..."
+dialogtxt       "through stuff like that…"
 code047b        
 code0309        
 call            @Func_1e80
@@ -316,9 +316,9 @@ code0479        1, 0, 13
 code047d        1, 117
 call            @Func_1e14
 call            @Func_1d92
-dialogtxt       "I still remember, Rob..."
+dialogtxt       "I still remember, Rob…"
 dialogtxt       "The scorching air, the intense heat,"
-dialogtxt       "those days of training with you..."
+dialogtxt       "those days of training with you…"
 code047b        
 code0309        
 call            @Func_1e6a
@@ -340,8 +340,8 @@ code0479        0, 5, 15
 code047d        0, 2
 call            @Func_1dfe
 call            @Func_1d26
-dialogtxt       "Wha..."
-dialogtxt       " What is it with that woman...?"
+dialogtxt       "Wha…"
+dialogtxt       " What is it with that woman…?"
 goto            @Cond_0ef2
 
 @Cond_0ef2:
@@ -351,8 +351,8 @@ code0479        0, 5, 14
 code047d        0, 2
 call            @Func_1dfe
 call            @Func_1d26
-dialogtxt       "Wha..."
-dialogtxt       "What's this? This woman..."
+dialogtxt       "Wha…"
+dialogtxt       "What's this? This woman…"
 dialogtxt       "Her soul's aura changed?"
 goto            @Cond_0f78
 
@@ -363,7 +363,7 @@ code0479        0, 5, 17
 code047d        0, 2
 call            @Func_1dfe
 call            @Func_1d26
-dialogtxt       "Wha...!"
+dialogtxt       "Wha…!"
 dialogtxt       "What is it with that lady!?"
 goto            @Cond_0fee
 
@@ -450,17 +450,17 @@ goto            @Label_1304
 @Label_1304:
 call            @Func_1d44
 jumpz           @Cond_132e, ($b003 == 0)
-dialogtxt       "U-...Understood..."
+dialogtxt       "U-…Understood…"
 goto            @Cond_132e
 
 @Cond_132e:
 jumpz           @Cond_1354, ($b003 == 1)
-dialogtxt       "A-...Acknowledged..."
+dialogtxt       "A-…Acknowledged…"
 goto            @Cond_1354
 
 @Cond_1354:
 jumpz           @Cond_137c, ($b003 == 2)
-dialogtxt       "W-...Whatever..."
+dialogtxt       "W-…Whatever…"
 goto            @Cond_137c
 
 @Cond_137c:
@@ -561,7 +561,7 @@ goto            @Cond_1730
 
 @Cond_1730:
 jumpz           @Cond_1760, ($b003 == 2)
-dialogtxt       "Tch..."
+dialogtxt       "Tch…"
 dialogtxt       "As if I had a choice."
 goto            @Cond_1760
 

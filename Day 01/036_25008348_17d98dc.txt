@@ -41,7 +41,7 @@ goto            @Label_019c
 code047d        1, 2
 call            @Func_0ae6
 call            @Func_09e2
-dialogtxt       "That's strange..."
+dialogtxt       "That's strange…"
 dialogtxt       "The grass is withered,"
 dialogtxt       "but only around here, see?"
 goto            @Label_0226
@@ -71,26 +71,26 @@ goto            @Label_02be
 @Label_02be:
 call            @Func_0a6c
 jumpz           @Cond_0306, ($b003 == 0)
-dialogtxt       "The Grass Is...?"
-dialogtxt       "Then..."
-dialogtxt       "Is The Kicker Berry...!?"
+dialogtxt       "The Grass Is…?"
+dialogtxt       "Then…"
+dialogtxt       "Is The Kicker Berry…!?"
 goto            @Cond_0306
 
 @Cond_0306:
 jumpz           @Cond_0334, ($b003 == 1)
-dialogtxt       "What of the Kicker Berry...!?"
+dialogtxt       "What of the Kicker Berry…!?"
 goto            @Cond_0334
 
 @Cond_0334:
 jumpz           @Cond_0368, ($b003 == 2)
 dialogtxt       "Does that mean"
-dialogtxt       "The Kicker Berry too...!?"
+dialogtxt       "The Kicker Berry too…!?"
 goto            @Cond_0368
 
 @Cond_0368:
 jumpz           @Cond_039e, ($b003 == 3)
-dialogtxt       "No..."
-dialogtxt       "But the Kicker Berry...!?"
+dialogtxt       "No…"
+dialogtxt       "But the Kicker Berry…!?"
 goto            @Cond_039e
 
 @Cond_039e:
@@ -98,8 +98,8 @@ code0309
 call            @Func_0aa2
 code0479        0, 2, 15
 call            @Func_0a00
-dialogtxt       "Ah..."
-dialogtxt       "Over there...!"
+dialogtxt       "Ah…"
+dialogtxt       "Over there…!"
 code0309        
 call            @Func_0b3c
 call            @Func_0a1e

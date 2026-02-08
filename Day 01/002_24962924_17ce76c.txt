@@ -13,7 +13,7 @@ code0309
 call            @Func_0ba6
 code0479        0, 0, 12
 call            @Func_0b04
-dialogtxt       "Disassembling, huh...?"
+dialogtxt       "Disassembling, huh…?"
 code0309        
 call            @Func_0c40
 call            @Func_0b22
@@ -69,7 +69,7 @@ goto            @Cond_038a
 
 @Cond_038a:
 jumpz           @Cond_03ae, ($b003 == 2)
-dialogtxt       "Suit yourself..."
+dialogtxt       "Suit yourself…"
 goto            @Cond_03ae
 
 @Cond_03ae:
