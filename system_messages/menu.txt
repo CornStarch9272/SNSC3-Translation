@@ -263,7 +263,7 @@ menutxtp 0x08bca084, " No", 6 ; 0x080bb2dc="いいえ"
 menutxtp 0x08bca088, " obtained!", 12 ; 0x080bb6e4="を入手！"
 menutxtp 0x08bca08c, " delivered!", 16 ; 0x080bb6f0="を渡しました"
 menutxtp 0x08bca090, "You can't carry anymore", 20 ; 0x080bb02c="これ以上持てません"
-menutxtp 0x08bca094, "payed", 16 ; 0x080bb700="を支払いました"
+menutxtp 0x08bca094, "paid!", 16 ; 0x080bb700="を支払いました"
 
 
 menutxtp 0x08bd5320, "Empty", 12 ; 0x08bd5314="からっぽ"
