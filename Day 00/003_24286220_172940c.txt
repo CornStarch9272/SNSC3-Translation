@@ -138,7 +138,7 @@ code043e        0, 3, 0
 code0301        8, 7
 code047d        0, 0
 code047e        0, 1
-dialogtxt       "Nothing to do out there..."
+dialogtxt       "Nothing to do out there…"
 goto            @Label_06c2
 
 @Label_06c2:

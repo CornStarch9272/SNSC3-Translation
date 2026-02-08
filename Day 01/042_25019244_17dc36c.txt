@@ -30,7 +30,7 @@ code0309
 call            @Func_137e
 code0479        0, 2, 14
 call            @Func_12dc
-dialogtxt       "Urgh..."
+dialogtxt       "Urgh…"
 code0309        
 call            @Func_1402
 call            @Func_1312
@@ -46,8 +46,8 @@ code0309
 call            @Func_137e
 code0479        0, 2, 16
 call            @Func_12dc
-dialogtxt       "Yeah..."
-dialogtxt       "I'm fine..."
+dialogtxt       "Yeah…"
+dialogtxt       "I'm fine…"
 code0309        
 call            @Func_1402
 call            @Func_1312
@@ -67,8 +67,8 @@ code0309
 call            @Func_137e
 code0479        0, 2, 14
 call            @Func_12dc
-dialogtxt       "..."
-dialogtxt       "Fine..."
+dialogtxt       "…"
+dialogtxt       "Fine…"
 code0309        
 call            @Func_1418
 call            @Func_12fa
@@ -96,15 +96,15 @@ code047d        1, 131
 code0479        0, 0, 12
 call            @Func_13c2
 call            @Func_132a
-dialogtxt       "Then, um..."
-dialogtxt       "Here..."
+dialogtxt       "Then, um…"
+dialogtxt       "Here…"
 code047b        
 code0309        
 call            @Func_137e
 code0479        0, 0, 13
 call            @Func_12dc
-dialogtxt       "Yeah..."
-dialogtxt       "Thanks..."
+dialogtxt       "Yeah…"
+dialogtxt       "Thanks…"
 code0309        
 call            @Func_1402
 call            @Func_1312
@@ -125,12 +125,12 @@ code0309
 call            @Func_137e
 code0479        0, 0, 12
 call            @Func_12dc
-dialogtxt       "I know..."
+dialogtxt       "I know…"
 code0309        
 call            @Func_1312
 code0479        1, 0, 12
 call            @Func_1348
-dialogtxt       "..."
+dialogtxt       "…"
 code0309        
 call            @Func_1418
 call            @Func_1366
@@ -173,7 +173,7 @@ code0479        0, 0, 12
 call            @Func_13c2
 call            @Func_132a
 dialogtxt       "Actually now that I look at you,"
-dialogtxt       "you two seem pretty healthy..."
+dialogtxt       "you two seem pretty healthy…"
 dialogtxt       "Are you giving it to someone else?"
 code047b        
 code0309        
@@ -191,7 +191,7 @@ code0309
 call            @Func_137e
 code0479        0, 11, 17
 call            @Func_12dc
-dialogtxt       "W-Wha...!?"
+dialogtxt       "W-Wha…!?"
 dialogtxt       "Where did that come from!?"
 code0309        
 call            @Func_1312

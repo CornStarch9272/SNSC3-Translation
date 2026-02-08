@@ -142,7 +142,7 @@ menutxtp 0x08bc9ec8, "Buy how many?", 20 ; 0x080baf84="いくつ買いますか�
 menutxtp 0x08bc9ecc, "Sell how many?", 20 ; 0x080baf98="いくつ売りますか？"
 menutxtp 0x08bc9ed0, "Make how many?", 20 ; 0x080bafac="いくつ作りますか？"
 menutxtp 0x08bc9ed4, "Use how many", 20 ; 0x080bafc0="いくつにしますか？"
-; Only when at 99...
+; Only when at 99…
 menutxtp 0x08bc9f10, "Toss how many?", 20 ; 0x080bb110="いくつ捨てますか？"
 
 menutxtp 0x08bc9ed8, "Sell this?", 24 ; 0x080bafd4="売ってもいいですか？"
@@ -175,8 +175,8 @@ menutxtp 0x08bc9f3c, "Version different", 24 ; 0x080bb1fc="バージョンが違
 menutxtp 0x08bc9f40, "Reading failed", 24 ; 0x080bb214="読み込みに失敗しました"
 menutxtp 0x08bc9f44, "Writing failed", 24 ; 0x080bb22c="書き込みに失敗しました"
 menutxtp 0x08bc9f48, "Don't turn off power", 28 ; 0x080bb244="電源を切らないでください"
-menutxtp 0x08bc9f4c, "   Resetting...", 20 ; 0x080bb260="　　　初期化中…"
-menutxtp 0x08bc9f50, "     Loading...", 20 ; 0x080bb274="　　　ロード中…"
+menutxtp 0x08bc9f4c, "   Resetting…", 20 ; 0x080bb260="　　　初期化中…"
+menutxtp 0x08bc9f50, "     Loading…", 20 ; 0x080bb274="　　　ロード中…"
 menutxtp 0x08bc9f54, "  Save complete", 20 ; 0x080bb288="セーブ完了しました"
 menutxtp 0x08bc9f58, "  Load complete", 20 ; 0x080bb29c="ロード完了しました"
 menutxtp 0x08bc9f5c, "Reset complete", 20 ; 0x080bb2b0="初期化完了しました"
@@ -263,7 +263,7 @@ menutxtp 0x08bca084, " No", 6 ; 0x080bb2dc="いいえ"
 menutxtp 0x08bca088, " obtained!", 12 ; 0x080bb6e4="を入手！"
 menutxtp 0x08bca08c, " delivered!", 16 ; 0x080bb6f0="を渡しました"
 menutxtp 0x08bca090, "You can't carry anymore", 20 ; 0x080bb02c="これ以上持てません"
-menutxtp 0x08bca094, "payed", 16 ; 0x080bb700="を支払いました"
+menutxtp 0x08bca094, "paid!", 16 ; 0x080bb700="を支払いました"
 
 
 menutxtp 0x08bd5320, "Empty", 12 ; 0x08bd5314="からっぽ"

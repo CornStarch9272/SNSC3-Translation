@@ -7,26 +7,26 @@ code047d        0, 2
 code0301        8, 1
 code047e        0, 1
 jumpz           @Cond_00a2, ($b003 == 0)
-dialogtxt       "I Have Already Informed You..."
-dialogtxt       "I Must Protect Lady Murno...!"
+dialogtxt       "I Have Already Informed You…"
+dialogtxt       "I Must Protect Lady Murno…!"
 goto            @Cond_00a2
 
 @Cond_00a2:
 jumpz           @Cond_00e6, ($b003 == 1)
 dialogtxt       "Let me go!"
-dialogtxt       "I must check on Murno..."
+dialogtxt       "I must check on Murno…"
 goto            @Cond_00e6
 
 @Cond_00e6:
 jumpz           @Cond_011e, ($b003 == 2)
 dialogtxt       "Release me!"
-dialogtxt       "I don't need to see the Chief..."
+dialogtxt       "I don't need to see the Chief…"
 goto            @Cond_011e
 
 @Cond_011e:
 jumpz           @Cond_0164, ($b003 == 3)
-dialogtxt       "Umm... Please let go...!"
-dialogtxt       "I want to ask Lady Murno something..."
+dialogtxt       "Umm… Please let go…!"
+dialogtxt       "I want to ask Lady Murno something…"
 goto            @Cond_0164
 
 @Cond_0164:
@@ -107,7 +107,7 @@ code0479        1, 0, 14
 code047d        1, 108
 call            @Func_182e
 call            @Func_1796
-dialogtxt       "So..."
+dialogtxt       "So…"
 dialogtxt       "You were planning to"
 dialogtxt       "go see Murno too, eh?"
 code047b        
@@ -125,9 +125,9 @@ code0479        0, 5, 16
 code047d        0, 2
 call            @Func_1802
 call            @Func_1748
-dialogtxt       "Wha...?"
+dialogtxt       "Wha…?"
 dialogtxt       "I don't know about them,"
-dialogtxt       "but I had no such plans..."
+dialogtxt       "but I had no such plans…"
 code047b        
 code0309        
 call            @Func_1858
@@ -142,7 +142,7 @@ goto            @Cond_06e8
 @Cond_06e8:
 code0479        0, 0, 16
 call            @Func_1748
-dialogtxt       "I..."
+dialogtxt       "I…"
 goto            @Label_0732
 
 @Label_0732:
@@ -155,7 +155,7 @@ choicewait
 @Choice_0780:
 code0479        0, 0, 12
 dialogtxt       "You were taking a while, so I was"
-dialogtxt       "wondering what you were doing..."
+dialogtxt       "wondering what you were doing…"
 goto            @Label_0814
 
 @Label_0814:
@@ -165,7 +165,7 @@ code0479        1, 4, 13
 call            @Func_17b4
 dialogtxt       "I see, so in other words,"
 dialogtxt       "you were worried about Murno!"
-dialogtxt       "Hehe~...I see~..."
+dialogtxt       "Hehe~…I see~…"
 code0309        
 call            @Func_17ea
 goto            @Label_0950
@@ -174,7 +174,7 @@ goto            @Label_0950
 code0479        0, 0, 12
 dialogtxt       "I was just thinking about"
 dialogtxt       "waiting in the entrance"
-dialogtxt       "once I was ready..."
+dialogtxt       "once I was ready…"
 code0309        
 call            @Func_177e
 code0479        1, 1, 12
@@ -188,7 +188,7 @@ call            @Func_17ea
 code0479        0, 5, 17
 call            @Func_1748
 dialogtxt       "W-What!?"
-dialogtxt       "I wasn't...!"
+dialogtxt       "I wasn't…!"
 goto            @Label_09c8
 
 @Label_09c8:
@@ -230,7 +230,7 @@ code0479        0, 0, 14
 code047d        0, 2
 call            @Func_1802
 call            @Func_1748
-dialogtxt       "Then I'll stand guard in her room..."
+dialogtxt       "Then I'll stand guard in her room…"
 goto            @Cond_0bce
 
 @Cond_0bce:
@@ -241,7 +241,7 @@ code047d        0, 2
 call            @Func_1802
 call            @Func_1748
 dialogtxt       "In that case,"
-dialogtxt       "I'm going back to sleep too..."
+dialogtxt       "I'm going back to sleep too…"
 goto            @Cond_0c3c
 
 @Cond_0c3c:
@@ -252,7 +252,7 @@ code047d        0, 2
 call            @Func_1802
 call            @Func_1748
 dialogtxt       "Awake or not,"
-dialogtxt       "my duty is to protect her..."
+dialogtxt       "my duty is to protect her…"
 goto            @Cond_0cc0
 
 @Cond_0cc0:
@@ -319,7 +319,7 @@ code0479        0, 0, 12
 code047d        0, 2
 call            @Func_1802
 call            @Func_1748
-dialogtxt       "..."
+dialogtxt       "…"
 dialogtxt       "Roger."
 goto            @Cond_0fa8
 
@@ -330,7 +330,7 @@ code0479        0, 0, 16
 code047d        0, 2
 call            @Func_1802
 call            @Func_1748
-dialogtxt       "I'll concede for now..."
+dialogtxt       "I'll concede for now…"
 goto            @Cond_1008
 
 @Cond_1008:
@@ -340,7 +340,7 @@ code0479        0, 0, 12
 code047d        0, 2
 call            @Func_1802
 call            @Func_1748
-dialogtxt       "Fine..."
+dialogtxt       "Fine…"
 goto            @Cond_1068
 
 @Cond_1068:

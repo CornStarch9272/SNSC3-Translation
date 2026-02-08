@@ -574,7 +574,7 @@ choicewait
 
 @Choice_15f6:
 code047e        0, 1
-dialogtxt       "Do you know Acceleration Springs?"
+dialogtxt       "Do you know Speed Winders?"
 dialogtxt       "If you use one on your weapon,"
 dialogtxt       "it'll get Double Attack."
 code0309        

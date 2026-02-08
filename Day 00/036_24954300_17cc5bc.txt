@@ -82,24 +82,24 @@ code0479        0, 4, 16
 call            @Func_10ee
 dialogtxt       "Well, I just thought I'd feel"
 dialogtxt       "bad if we just threw them out,"
-dialogtxt       "when they had nowhere to go..."
+dialogtxt       "when they had nowhere to go…"
 code0309        
 call            @Func_1124
 code0479        1, 4, 12
 call            @Func_115a
-dialogtxt       "I see..."
-dialogtxt       "The pain of having nowhere to go..."
+dialogtxt       "I see…"
+dialogtxt       "The pain of having nowhere to go…"
 dialogtxt       "I kind of understand that."
 code0309        
 code0479        1, 4, 14
 dialogtxt       "You know, I'm a Stray Summon,"
 dialogtxt       "so there's really no place in this"
-dialogtxt       "world that I truly belong to..."
+dialogtxt       "world that I truly belong to…"
 code0309        
 call            @Func_1190
 code0479        0, 4, 16
 call            @Func_10ee
-dialogtxt       "Master..."
+dialogtxt       "Master…"
 code0309        
 call            @Func_1124
 code0479        1, 1, 12
@@ -114,12 +114,12 @@ code0309
 code0479        1, 0, 12
 dialogtxt       "Rob is no longer at my side,"
 dialogtxt       "but at least I can be there"
-dialogtxt       "for you..."
+dialogtxt       "for you…"
 code0309        
 call            @Func_1190
 code0479        0, 4, 12
 call            @Func_10ee
-dialogtxt       "Master..."
+dialogtxt       "Master…"
 code0309        
 call            @Func_1124
 code0479        0, 0, 12
@@ -137,14 +137,14 @@ code0309
 call            @Func_1190
 code0479        0, 0, 16
 call            @Func_10ee
-dialogtxt       "Huh..."
+dialogtxt       "Huh…"
 code0309        
 call            @Func_1124
 code0479        1, 2, 12
 call            @Func_115a
 dialogtxt       "So in other words,"
 dialogtxt       "since you've obtained a partner,"
-dialogtxt       "you'll improve your skills..."
+dialogtxt       "you'll improve your skills…"
 code0309        
 code0479        1, 2, 13
 dialogtxt       "And bring in lots of money."
@@ -170,7 +170,7 @@ code0309
 call            @Func_1190
 code0479        0, 0, 12
 call            @Func_10ee
-dialogtxt       "I see..."
+dialogtxt       "I see…"
 code0309        
 code0479        0, 0, 13
 dialogtxt       "You don't have to tell me!"
@@ -199,7 +199,7 @@ code0309
 code0479        0, 0, 16
 dialogtxt       "Trusting each other means that"
 dialogtxt       "I need to trust γ, too."
-dialogtxt       "...That's how it is, huh."
+dialogtxt       "…That's how it is, huh."
 goto            @Label_0b30
 
 @Label_0b30:

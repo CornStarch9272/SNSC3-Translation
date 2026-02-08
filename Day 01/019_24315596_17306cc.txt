@@ -352,7 +352,7 @@ ret
 code0301        8, 7
 code047d        0, 148
 code047e        0, 1
-dialogtxt       "My, a hammer and a Summon Beast..."
+dialogtxt       "My, a hammer and a Summon Beast…"
 dialogtxt       "You must be a Craftknight."
 code0309        
 dialogtxt       "I'm a traveling peddler who deals"
@@ -489,7 +489,7 @@ goto            @Choice_1568
 code047e        0, 1
 dialogtxt       "Eeh? You won't even listen!?"
 dialogtxt       "Just when I thought"
-dialogtxt       "I finally had a new client..."
+dialogtxt       "I finally had a new client…"
 code0309        
 @Label_15b8:
 code047e        0, 0

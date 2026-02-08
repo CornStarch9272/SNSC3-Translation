@@ -101,7 +101,7 @@ code0479        0, 0, 12
 code047a        0, 1, 1
 code0301        2, 4
 code047e        0, 1
-dialogtxt       "Chief..."
+dialogtxt       "Chief…"
 dialogtxt       "You're awesome!"
 code047b        
 code0309        

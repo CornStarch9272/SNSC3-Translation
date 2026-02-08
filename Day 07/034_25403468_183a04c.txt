@@ -391,7 +391,7 @@ goto            @Cond_109a
 @Cond_109a:
 jumpz           @Cond_1188, ($b003 == 3)
 dialogtxt       "That answer is certainly fitting"
-dialogtxt       "for you, [NAME 2]"
+dialogtxt       "for you, [NAME 2]."
 code047b        
 code0309        
 call            @Func_1908

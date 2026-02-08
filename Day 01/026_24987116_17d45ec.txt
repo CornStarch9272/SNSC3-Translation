@@ -66,7 +66,7 @@ goto            @Label_020c
 @Label_020c:
 call            @Func_0f9e
 jumpz           @Cond_0450, ($b003 == 0)
-dialogtxt       "Analyzing..."
+dialogtxt       "Analyzing…"
 code0309        
 call            @Func_0fd4
 code0479        0, 0, 16
@@ -107,7 +107,7 @@ code0479        1, 0, 16
 code047d        1, 0
 call            @Func_1002
 call            @Func_0f80
-dialogtxt       "Hmm..."
+dialogtxt       "Hmm…"
 dialogtxt       "They look the same to me."
 goto            @Label_043e
 
@@ -121,7 +121,7 @@ goto            @Cond_0450
 
 @Cond_0450:
 jumpz           @Cond_05f2, ($b003 == 1)
-dialogtxt       "Hmm..."
+dialogtxt       "Hmm…"
 code0309        
 call            @Func_106e
 call            @Func_0fbc
@@ -159,7 +159,7 @@ goto            @Cond_05f2
 
 @Cond_05f2:
 jumpz           @Cond_07b4, ($b003 == 2)
-dialogtxt       "You haven't noticed...?"
+dialogtxt       "You haven't noticed…?"
 code0309        
 call            @Func_0fd4
 code0479        0, 0, 16
@@ -189,18 +189,18 @@ code0309
 call            @Func_0f68
 code0479        1, 0, 13
 call            @Func_0f9e
-dialogtxt       "..."
+dialogtxt       "…"
 code0309        
 call            @Func_0fd4
 code0479        0, 2, 16
 call            @Func_0f32
 jumpz           @Cond_076c, ($b002 == 0)
-dialogtxt       "Hmmm..."
+dialogtxt       "Hmmm…"
 dialogtxt       "Oh, I got it!"
 goto            @Label_0796
 
 @Cond_076c:
-dialogtxt       "You're not saying anything so..."
+dialogtxt       "You're not saying anything so…"
 dialogtxt       "Oh, I got it!"
 goto            @Label_0796
 
@@ -214,7 +214,7 @@ goto            @Cond_07b4
 
 @Cond_07b4:
 jumpz           @Cond_0966, ($b003 == 3)
-dialogtxt       "If I may..."
+dialogtxt       "If I may…"
 code0309        
 call            @Func_106e
 call            @Func_0fbc
@@ -226,8 +226,8 @@ code040d        30
 code0479        1, 2, 16
 call            @Func_1002
 call            @Func_0f80
-dialogtxt       "That bridge..."
-dialogtxt       "I have a bad feeling about it..."
+dialogtxt       "That bridge…"
+dialogtxt       "I have a bad feeling about it…"
 dialogtxt       "Something is definitely wrong there."
 code047b        
 code0309        

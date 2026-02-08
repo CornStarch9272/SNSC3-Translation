@@ -1,5 +1,5 @@
 ; Popups.
-menutxtp 0x08bcd668, "Establishing connection...", 16 ; 0x080bf5d8="通信待機中です"
+menutxtp 0x08bcd668, "Establishing connection…", 16 ; 0x080bf5d8="通信待機中です"
 menutxtp 0x08bcd66c, "Failed to connect", 20 ; 0x080bf5e8="通信に失敗しました"
 
 ; Initial menu.

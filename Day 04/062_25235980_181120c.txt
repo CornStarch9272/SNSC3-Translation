@@ -101,7 +101,7 @@ code0479        1, 2, 15
 call            @Func_0d70
 dialogtxt       "[NAME 2], you're going to"
 dialogtxt       "work with ME at the Inn."
-dialogtxt       "Not Eleize!"
+dialogtxt       "Not Eliez!"
 code0309        
 code0479        1, 2, 14
 dialogtxt       "I won't let you say you've"

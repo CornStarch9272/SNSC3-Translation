@@ -14,8 +14,8 @@ code0482
 code047d        0, 107
 code0301        16, 3
 code047e        0, 1
-dialogtxt       "Um..."
-dialogtxt       "Good evening..."
+dialogtxt       "Um…"
+dialogtxt       "Good evening…"
 code0309        
 code047e        0, 0
 code0302        3
@@ -55,16 +55,16 @@ code0309
 call            @Func_1166
 code0479        1, 0, 16
 call            @Func_119c
-dialogtxt       "U-Um..."
-dialogtxt       "I saw you go outside, so..."
+dialogtxt       "U-Um…"
+dialogtxt       "I saw you go outside, so…"
 code0309        
 call            @Func_11d2
 code0479        1, 0, 12
 code0479        0, 0, 12
 call            @Func_1130
-dialogtxt       "Ah, me?..."
+dialogtxt       "Ah, me?…"
 dialogtxt       "Well, a lot happened today,"
-dialogtxt       "so I was clearing my head..."
+dialogtxt       "so I was clearing my head…"
 goto            @Label_0412
 
 @Label_0412:
@@ -75,7 +75,7 @@ code0309
 call            @Func_1166
 code0479        1, 5, 12
 call            @Func_119c
-dialogtxt       "Ah, well..."
+dialogtxt       "Ah, well…"
 dialogtxt       "Yes."
 dialogtxt       "I wanted to thank you."
 code0309        
@@ -101,7 +101,7 @@ code0309
 code0479        1, 0, 16
 code0479        0, 4, 12
 dialogtxt       "Actually, I should be the one"
-dialogtxt       "apologizing, shouldn't I..."
+dialogtxt       "apologizing, shouldn't I…"
 code0309        
 call            @Func_1166
 code0479        1, 5, 12
@@ -112,9 +112,9 @@ code0309
 call            @Func_11d2
 code0479        0, 10, 16
 call            @Func_1130
-dialogtxt       "Um, during the day..."
+dialogtxt       "Um, during the day…"
 dialogtxt       "Look, it wasn't on purpose, but"
-dialogtxt       "Your...You know..."
+dialogtxt       "Your…You know…"
 code0309        
 call            @Func_1166
 code0479        1, 11, 15
@@ -125,19 +125,19 @@ code0479        0, 8, 14
 code0479        1, 6, 15
 dialogtxt       "I-It's fine already!"
 dialogtxt       "So, just forget that, okay!"
-dialogtxt       "I will do so too, so..."
+dialogtxt       "I will do so too, so…"
 code0309        
 call            @Func_11d2
 code0479        0, 0, 16
 call            @Func_1130
-dialogtxt       "Eh..."
-dialogtxt       "But..."
+dialogtxt       "Eh…"
+dialogtxt       "But…"
 code0309        
 call            @Func_1166
 code0479        1, 10, 14
 call            @Func_119c
-dialogtxt       "Um..."
-dialogtxt       "I'll be heading back..."
+dialogtxt       "Um…"
+dialogtxt       "I'll be heading back…"
 code0309        
 call            @Func_126c
 call            @Func_11ba
@@ -149,12 +149,12 @@ code043c        0, 1
 code0479        0, 5, 17
 call            @Func_11ea
 call            @Func_1112
-dialogtxt       "Ah..."
+dialogtxt       "Ah…"
 code047b        
 code0309        
 code0479        0, 4, 12
-dialogtxt       "A memory better forgotten, huh..."
-dialogtxt       "That's kinda sad..."
+dialogtxt       "A memory better forgotten, huh…"
+dialogtxt       "That's kinda sad…"
 code0309        
 call            @Func_1240
 call            @Func_114e
@@ -176,8 +176,8 @@ call            @Func_1166
 code0479        1, 5, 12
 call            @Func_119c
 dialogtxt       "Eh!?"
-dialogtxt       "But that was because you..."
-dialogtxt       "Um... Suddenly..."
+dialogtxt       "But that was because you…"
+dialogtxt       "Um… Suddenly…"
 code0309        
 call            @Func_11d2
 code0479        0, 5, 15
@@ -189,33 +189,33 @@ code0309
 call            @Func_1166
 code0479        1, 4, 12
 call            @Func_119c
-dialogtxt       "That's..."
+dialogtxt       "That's…"
 dialogtxt       "Then, are you saying"
-dialogtxt       "it's my fault...?"
+dialogtxt       "it's my fault…?"
 
 code0309        
 call            @Func_11d2
 code0479        0, 2, 16
 call            @Func_1130
-dialogtxt       "T-That's not what I..."
+dialogtxt       "T-That's not what I…"
 code0309        
 call            @Func_1166
 code0479        1, 4, 16
 call            @Func_119c
-dialogtxt       "..."
+dialogtxt       "…"
 code0309        
 call            @Func_11d2
 code0479        0, 4, 16
 call            @Func_1130
-dialogtxt       "U-Ugh..."
+dialogtxt       "U-Ugh…"
 dialogtxt       "I'm sorry."
 code0309        
 call            @Func_1166
 code0479        1, 4, 13
 call            @Func_119c
-dialogtxt       "No...It's okay."
-dialogtxt       "Um..."
-dialogtxt       "I'll be heading back now, okay..."
+dialogtxt       "No…It's okay."
+dialogtxt       "Um…"
+dialogtxt       "I'll be heading back now, okay…"
 code0309        
 call            @Func_126c
 call            @Func_11ba
@@ -227,7 +227,7 @@ code043c        0, 1
 code0479        0, 4, 13
 call            @Func_11ea
 call            @Func_1112
-dialogtxt       "Now I feel like the bad guy here..."
+dialogtxt       "Now I feel like the bad guy here…"
 code047b        
 code0309        
 call            @Func_1240

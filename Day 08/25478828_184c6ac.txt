@@ -34,7 +34,7 @@ code030a        6, 1
 jumpz           @Cond_0346, ($b002 == 0)
 dialogtxt       "　　　I'd like to settle this 　　　"
 dialogtxt       "　　　　once and for all, but 　　　"
-dialogtxt       "　I'm stuck on what Anise said..."
+dialogtxt       "　I'm stuck on what Anise said…"
 goto            @Label_03c2
 
 @Cond_0346:

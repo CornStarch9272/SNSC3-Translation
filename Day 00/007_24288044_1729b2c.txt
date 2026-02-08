@@ -482,7 +482,7 @@ code0301        8, 7
 code047d        0, 2
 code047e        0, 1
 jumpz           @Cond_15b0, ($b003 == 0)
-dialogtxt       "..."
+dialogtxt       "…"
 goto            @Label_1644
 
 @Cond_15b0:
@@ -511,24 +511,24 @@ code0301        8, 7
 code047d        0, 107
 code047e        0, 1
 jumpz           @Cond_16b8, ($b003 == 0)
-dialogtxt       "Was this alright, I wonder..."
+dialogtxt       "Was this alright, I wonder…"
 goto            @Label_1738
 
 @Cond_16b8:
 jumpz           @Cond_16e8, ($b003 == 1)
 dialogtxt       "I can't believe"
-dialogtxt       "you two are fighting..."
+dialogtxt       "you two are fighting…"
 goto            @Label_1738
 
 @Cond_16e8:
 jumpz           @Cond_1718, ($b003 == 2)
 dialogtxt       "I can't believe"
-dialogtxt       "you two are fighting..."
+dialogtxt       "you two are fighting…"
 goto            @Label_1738
 
 @Cond_1718:
 dialogtxt       "I can't believe"
-dialogtxt       "you two are fighting..."
+dialogtxt       "you two are fighting…"
 goto            @Label_1738
 
 @Label_1738:
@@ -766,7 +766,7 @@ code040b
 code0301        8, 7
 code047d        0, 122
 code047e        0, 1
-dialogtxt       "It's gotten dangerous here lately..."
+dialogtxt       "It's gotten dangerous here lately…"
 dialogtxt       "It's been about a decade"
 dialogtxt       "since I married into this village,"
 code0309        

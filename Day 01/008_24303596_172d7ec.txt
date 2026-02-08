@@ -159,8 +159,8 @@ code043e        0, 3, 0
 code0301        8, 7
 code047d        0, 0
 code047e        0, 1
-dialogtxt       "I need to return this hammer..."
-dialogtxt       "Where's Zakk...?"
+dialogtxt       "I need to return this hammer…"
+dialogtxt       "Where's Zakk…?"
 goto            @Label_079a
 
 @Label_079a:

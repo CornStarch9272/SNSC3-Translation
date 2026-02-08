@@ -15,7 +15,7 @@ code0304        0
 code040d        30
 code0301        8, 0
 dialogtxt       "You know what comes next, right?"
-dialogtxt       "[NAME 0]..."
+dialogtxt       "[NAME 0]…"
 code0309        
 code0302        0
 code033c        381, 0, 0, 3, 240, 3, 128
@@ -29,13 +29,13 @@ code047d        0, 0
 call            @Func_104e
 call            @Func_0f76
 jumpz           @Cond_0260, ($b002 == 0)
-dialogtxt       "..."
-dialogtxt       "Sister V.E..."
+dialogtxt       "…"
+dialogtxt       "Sister V.E…"
 goto            @Label_0278
 
 @Cond_0260:
-dialogtxt       "..."
-dialogtxt       "V.E sis..."
+dialogtxt       "…"
+dialogtxt       "V.E sis…"
 goto            @Label_0278
 
 @Label_0278:
@@ -62,12 +62,12 @@ call            @Func_1000
 code0479        0, 0, 12
 code0479        1, 2, 14
 dialogtxt       "Well then,"
-dialogtxt       "it's time for your final test..."
+dialogtxt       "it's time for your final test…"
 code0309        
 call            @Func_1036
 call            @Func_0f94
 code0479        0, 2, 16
-dialogtxt       "...Understood."
+dialogtxt       "…Understood."
 code0309        
 call            @Func_0fca
 call            @Func_1000
@@ -109,9 +109,9 @@ code0479        1, 0, 13
 code047d        1, 108
 call            @Func_1064
 call            @Func_0fe2
-dialogtxt       "Fufu..."
+dialogtxt       "Fufu…"
 dialogtxt       "Not a bad hammer, I must say."
-dialogtxt       "Your spirit shines within it..."
+dialogtxt       "Your spirit shines within it…"
 code047b        
 code0309        
 call            @Func_1036
@@ -135,7 +135,7 @@ code0309
 call            @Func_0fca
 call            @Func_1000
 code0479        1, 2, 15
-dialogtxt       "To a Craftknight, their hammer is..."
+dialogtxt       "To a Craftknight, their hammer is…"
 code0309        
 call            @Func_1036
 code043b        2
@@ -177,7 +177,7 @@ call            @Func_107a
 code0301        6, 6
 code047e        0, 1
 code047e        1, 1
-dialogtxt       "..."
+dialogtxt       "…"
 code047b        
 code0309        
 code047e        0, 0
@@ -193,7 +193,7 @@ code0309
 code0479        0, 2, 14
 code0479        1, 2, 16
 dialogtxt       "To become a Craftknight,"
-dialogtxt       "this will be your..."
+dialogtxt       "this will be your…"
 
 code0309        
 code0479        1, 2, 15

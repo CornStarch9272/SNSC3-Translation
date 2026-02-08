@@ -139,7 +139,7 @@ code0479        1, 4, 12
 call            @Func_11e8
 dialogtxt       "Not exactly,"
 dialogtxt       "but it was difficult"
-dialogtxt       "to stay inside, so…."
+dialogtxt       "to stay inside, so…"
 code0309        
 call            @Func_121e
 code0479        0, 2, 14
