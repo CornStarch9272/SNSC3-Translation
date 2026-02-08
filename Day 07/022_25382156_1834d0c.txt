@@ -25,8 +25,7 @@ code0479        0, 0, 14
 code047d        0, 107
 call            @Func_3738
 call            @Func_36a0
-dialogtxt       "Well?"
-dialogtxt       "Figure anything out, Murno?"
+dialogtxt       "Figure anything out yet, Murno?"
 code047b        
 code0309        
 call            @Func_36f4
@@ -77,8 +76,8 @@ code0309
 call            @Func_3688
 code0479        1, 0, 12
 call            @Func_36be
-dialogtxt       "I Detected It When We Ran"
-dialogtxt       "From The Village."
+dialogtxt       "I Detected It When We Ran From"
+dialogtxt       "The Village."
 code0309        
 call            @Func_378e
 call            @Func_36dc
@@ -89,14 +88,14 @@ code0479        1, 2, 16
 code047d        1, 0
 call            @Func_3722
 call            @Func_36a0
-dialogtxt       "Huh"
+dialogtxt       "Huh…"
 dialogtxt       "I don't get it!"
 jumpz           @Cond_046a, ($b002 == 0)
-dialogtxt       "What do you mean by that!?"
+dialogtxt       "What do you mean?"
 goto            @Label_0480
 
 @Cond_046a:
-dialogtxt       "What do you mean by that!?"
+dialogtxt       "What do you mean?"
 goto            @Label_0480
 
 @Label_0480:
@@ -130,8 +129,7 @@ code0479        0, 2, 14
 code047d        0, 107
 call            @Func_370c
 call            @Func_3634
-dialogtxt       "I Advise Caution."
-dialogtxt       "The Demon Stone Is…"
+dialogtxt       "I Advise Caution. The Demon Stone Is…"
 code047b        
 code0309        
 call            @Func_3762
@@ -218,6 +216,7 @@ code043c        2, 4
 code0479        0, 2, 16
 call            @Func_3652
 dialogtxt       "Oh no…"
+code0309        
 dialogtxt       "Could it be that whatever it felt"
 dialogtxt       "from the stone made it go mad?"
 code0309        
@@ -288,8 +287,9 @@ code043c        1, 2
 code0479        1, 5, 12
 call            @Func_36be
 dialogtxt       "ERROR: Not Bound To A Summoner!"
-dialogtxt       "The Lack Of Control Over Magdrad"
-dialogtxt       "Should Be Impossible!"
+code0309	
+dialogtxt       "Is The Lack Of Control Making"
+dialogtxt       "Magdrad Go Berserk?"
 goto            @Cond_0c86
 
 @Cond_0c86:
@@ -309,8 +309,8 @@ call            @Func_3688
 code0479        1, 2, 16
 call            @Func_36be
 dialogtxt       "Where have I felt this before…"
-dialogtxt       "…Indeed, I recognized its aura"
-dialogtxt       "from when we fleed our village!"
+dialogtxt       "… Indeed, I recognized its aura"
+dialogtxt       "from when we fled our village!"
 code0309        
 call            @Func_378e
 call            @Func_36dc
@@ -321,7 +321,7 @@ code0479        1, 2, 16
 code047d        1, 0
 call            @Func_3722
 call            @Func_36a0
-dialogtxt       "Huh"
+dialogtxt       "Huh…"
 dialogtxt       "I don't get it!"
 jumpz           @Cond_0e22, ($b002 == 0)
 dialogtxt       "What do you mean by that!?"
@@ -362,7 +362,7 @@ code0479        0, 2, 14
 code047d        0, 107
 call            @Func_370c
 call            @Func_3634
-dialogtxt       "I can sense that something's amiss…"
+dialogtxt       "I sense something amiss…"
 dialogtxt       "…The Demon Stone!"
 code047b        
 code0309        
@@ -441,8 +441,8 @@ code047d        1, 2
 call            @Func_3738
 call            @Func_36a0
 dialogtxt       "Stay vigilant!"
-dialogtxt       "I can sense a strong and"
-dialogtxt       "malicious aura from it!"
+dialogtxt       "I sense a strong and malicious"
+dialogtxt       "aura emanating from it!"
 code047b        
 code0309        
 call            @Func_36f4
@@ -520,13 +520,15 @@ code043c        1, 2
 code0479        1, 3, 15
 call            @Func_36be
 dialogtxt       "It's not bound to a Summoner now,"
-dialogtxt       "is it!? How can it be that Magrdad"
+dialogtxt       "is it!?"
+code0309	
+dialogtxt       "How can it be that Magrdad"
 dialogtxt       "went berserk on its own!?"
 goto            @Cond_1622
 
 @Cond_1622:
 jumpz           @Cond_1f88, ($b003 == 2)
-dialogtxt       "Tch…I can sense malice."
+dialogtxt       "Tch… I can sense malice."
 dialogtxt       "Was Govan's Demon Stone attached"
 dialogtxt       "To the Crystal Pillars?"
 code047b        
@@ -540,9 +542,11 @@ code0309
 call            @Func_3688
 code0479        1, 2, 16
 call            @Func_36be
-dialogtxt       "This feeling…I remember now!"
+dialogtxt       "This feeling…"
+code0309        
+dialogtxt       "I remember now!"
 dialogtxt       "Last I felt this malice was when"
-dialogtxt       "when we fleed from the village!"
+dialogtxt       "when we fled from the village!"
 code0309        
 call            @Func_378e
 call            @Func_36dc
@@ -553,14 +557,14 @@ code0479        1, 2, 16
 code047d        1, 0
 call            @Func_3722
 call            @Func_36a0
-dialogtxt       "Huh"
+dialogtxt       "Huh…"
 dialogtxt       "I don't get it!"
 jumpz           @Cond_17a6, ($b002 == 0)
-dialogtxt       "What do you mean by that!?"
+dialogtxt       "What do you mean!?"
 goto            @Label_17bc
 
 @Cond_17a6:
-dialogtxt       "What do you mean by that!?"
+dialogtxt       "What do you mean!?"
 goto            @Label_17bc
 
 @Label_17bc:
@@ -595,6 +599,7 @@ code047d        0, 107
 call            @Func_370c
 call            @Func_3634
 dialogtxt       "Something feels off here…"
+code0309	
 dialogtxt       "…The Demon Stone!"
 code047b        
 code0309        
@@ -681,6 +686,7 @@ call            @Func_36f4
 code0479        0, 5, 16
 call            @Func_3652
 dialogtxt       "Oh no…"
+code0309        
 dialogtxt       "Could it be that whatever it felt"
 dialogtxt       "from the stone made it go mad?"
 code0309        
@@ -751,6 +757,7 @@ code043c        1, 2
 code0479        1, 3, 15
 call            @Func_36be
 dialogtxt       "It's not bound to a Summoner!"
+code0309	
 dialogtxt       "Why is Magrdad acting berserk"
 dialogtxt       "on its own!?"
 goto            @Cond_1f88
@@ -771,7 +778,9 @@ code0309
 call            @Func_3688
 code0479        1, 2, 16
 call            @Func_36be
-dialogtxt       "This feeling…indeed, it is…"
+dialogtxt       "This feeling…"
+code0309        
+dialogtxt       "Indeed…"
 dialogtxt       "This was the very same thing I"
 dialogtxt       "felt when we fled the village!"
 code0309        
@@ -825,7 +834,7 @@ code0479        0, 2, 14
 code047d        0, 107
 call            @Func_370c
 call            @Func_3634
-dialogtxt       "I can sense that something's amiss…"
+dialogtxt       "I can sense something amiss…"
 dialogtxt       "…The Demon Stone!"
 code047b        
 code0309        
@@ -844,7 +853,6 @@ dialogtxt       "What's happening to it!?"
 goto            @Label_234a
 
 @Cond_2334:
-dialogtxt       "The Demon Stone!"
 dialogtxt       "What's happening to it!?"
 goto            @Label_234a
 
@@ -905,8 +913,8 @@ code047d        1, 2
 call            @Func_3738
 call            @Func_36a0
 dialogtxt       "Please be careful!"
-dialogtxt       "I can feel its malice"
-dialogtxt       "grow even stronger!"
+dialogtxt       "Its malice is growing even"
+dialogtxt       "stronger!"
 code047b        
 code0309        
 call            @Func_36f4
@@ -983,7 +991,9 @@ code043c        1, 2
 code0479        1, 2, 15
 call            @Func_36be
 dialogtxt       "It's not bound to a Summoner now,"
-dialogtxt       "is it!? How can it be that Magrdad"
+dialogtxt       "is it!?"
+code0309	
+dialogtxt       "How can it be that Magrdad"
 dialogtxt       "went berserk on its own!?"
 goto            @Cond_2926
 
@@ -997,7 +1007,9 @@ dialogtxt       "It won't listen to what I say!"
 code0309        
 code0479        0, 2, 14
 dialogtxt       "This is too dangerous!"
-dialogtxt       "We have to retreat! NOW!"
+dialogtxt       "We have to retreat!"
+code0309        
+dialogtxt       "NOW!"
 code0309        
 call            @Func_378e
 call            @Func_3670
@@ -1334,4 +1346,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-
