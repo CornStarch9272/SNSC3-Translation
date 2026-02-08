@@ -53,12 +53,12 @@ code0479        0, 2, 14
 call            @Func_0d56
 call            @Func_0c7e
 jumpz           @Cond_02a2, ($b002 == 0)
-dialogtxt       "Sleeping…?"
+dialogtxt       "He's sleeping…?"
 dialogtxt       "… Right?"
 goto            @Label_02c4
 
 @Cond_02a2:
-dialogtxt       "Sleeping…?"
+dialogtxt       "He's sleeping…?"
 dialogtxt       "… Right?"
 goto            @Label_02c4
 
@@ -387,4 +387,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-
