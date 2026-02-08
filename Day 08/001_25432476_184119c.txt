@@ -269,7 +269,6 @@ call            @Func_138e
 dialogtxt       "We must prove Anise is"
 dialogtxt       "after the Demon Stone!"
 dialogtxt       "We'll be in trouble if we don't."
-dialogtxt       "<!-- See above -->"
 code0309        
 call            @Func_13c4
 code0479        0, 2, 12

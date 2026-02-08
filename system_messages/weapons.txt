@@ -464,7 +464,7 @@ tabletxt 209, "Hard to carry, thick and heavy." ; "容易に持ち運べない�
 tabletxt 210, "Easy-to-use, loved by adventurers." ; "使いやすい武器で冒険者に好まれている"
 tabletxt 211, "That elegance earned high ratings." ; "そのエレガントさは高い評価を得ている"
 tabletxt 212, "Ribbons rapidly increase performance." ; "リボンが付くことで飛躍的に性能アップ"
-tabletxt 213, "There's light within the complexity." ; "複雑な細工の中には光るものを感じる"
+tabletxt 213, "Complexity led to better results." ; "複雑な細工の中には光るものを感じる"
 tabletxt 214, "Said to be used by assassins…" ; "暗殺用の武器とも言われているが…"
 tabletxt 215, "Its strange shape creates a mirage." ; "不思議な形状が一瞬だけ幻に見える一品"
 tabletxt 216, "Common appearance, sure skill." ; "何処にでもある形だが性能は見逃せない"
