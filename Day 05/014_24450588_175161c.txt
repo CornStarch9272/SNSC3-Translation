@@ -502,7 +502,7 @@ choicewait
 
 @Choice_13f2:
 code047e        0, 1
-dialogtxt       "Let's see…Using a \"Legendary Iron"
+dialogtxt       "Let's see…Using a \"Fabled"
 dialogtxt       "Skewer\" to enhance your weapon will"
 dialogtxt       "give it the \"Piercing\" effect."
 code0309        
