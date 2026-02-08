@@ -389,9 +389,9 @@ tabletxt 126, "Scroll written with all kinds of martial art" ; "あらゆる体�
 tabletxt 127, "Written with methods to temper the body" ; "体を鍛える方法が記された書物"
 tabletxt 128, "Its only purpose is to dispense things" ; "分け与える事だけが目的の機械らしい"
 tabletxt 129, "Don't press it under any circumstances" ; "このスイッチは押すべきではない"
-tabletxt 130, "Iiron dust that numbs your body on touch" ; "触るとマヒしてしまう危険な鉄の粉"S
+tabletxt 130, "Iron dust that numbs your body on touch" ; "触るとマヒしてしまう危険な鉄の粉"S
 tabletxt 131, "Iron scraps that contains a deadly poison" ; "どうして出来たのか猛毒を含んだ鉄くず"
-tabletxt 132, "Cures insomnia but daily useis unadvised" ; "不眠症も解消しそうだが常用は危険"
+tabletxt 132, "Cures insomnia. Daily use is not advised" ; "不眠症も解消しそうだが常用は危険"
 tabletxt 133, "Dangerous dust that corrodes weapons…" ; "武器がサビる厄介な代物だが…"
 tabletxt 134, "Mark of a person's superhuman strength" ; "真の怪力と認められた者の証"
 tabletxt 135, "Mark of a person's tenacious body" ; "強靱な体と認められた者の証"
