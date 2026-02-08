@@ -121,7 +121,7 @@ call            @Func_1022
 code0479        1, 0, 12
 call            @Func_1058
 dialogtxt       "Affirmative."
-dialogtxt       "I Conclude That Our Likelyhood"
+dialogtxt       "I Conclude That Our Likelihood"
 dialogtxt       "Of Victory Is 100%."
 code0309        
 call            @Func_108e
