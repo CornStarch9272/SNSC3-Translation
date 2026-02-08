@@ -1000,7 +1000,7 @@ call            @Func_3ec4
 code0479        1, 2, 14
 call            @Func_3efa
 dialogtxt       "Just what is it…?"
-dialogtxt       "This \"Govan's Demon Stone\"…?"
+dialogtxt       "This \"stone\"…?"
 code0309        
 call            @Func_3f30
 code0479        0, 4, 17
