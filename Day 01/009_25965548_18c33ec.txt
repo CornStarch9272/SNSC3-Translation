@@ -143,7 +143,7 @@ jumpz           @Cond_0770, ($bv016 == 0)
 code0301        8, 7
 code047e        0, 1
 dialogtxt       "Drills these days"
-dialogtxt       "are too complicated…."
+dialogtxt       "are too complicated…"
 dialogtxt       "They should be easier to use…"
 code0309        
 code037c        $h232
