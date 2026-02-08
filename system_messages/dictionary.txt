@@ -510,7 +510,7 @@ dictionarytxt 133, "Usually found in", "dark, damp areas", "" ; "乾燥には弱
 dictionarytxt 134, "Attacks using", "its punches or", "firing a lazer" ; "アームの打撃と", "レーザーを使って", "襲いかかる"
 dictionarytxt 135, "Used to be an", "assasain once", "" ; "かつては暗殺集団", "として活躍した", "経歴を持つ"
 dictionarytxt 136, "Doesn't move.", "It waits for", "its pray" ; "普段はじっとして", "獲物の接近を", "待っているタイプ"
-dictionarytxt 137, "Entirely made of", "rock. Its hard", "to attack" ; "全身が岩のため", "非常に攻撃が", "与えづらい"
+dictionarytxt 137, "Entirely made of", "rock. It's hard", "to attack" ; "全身が岩のため", "非常に攻撃が", "与えづらい"
 dictionarytxt 138, "Very ferocious,", "doesn't like", "black" ; "どう猛な性格で", "特に黒い色には", "過剰に反応する"
 dictionarytxt 139, "Still a child.", "will likely grow", "into a giant oni" ; "未だ子供の状態で", "成長すると巨大な", "鬼と化すらしい"
 dictionarytxt 140, "Larger ones are", "rare. Popular", "among children" ; "子供達に大人気で", "大きいものほど", "価値が高くなる"
