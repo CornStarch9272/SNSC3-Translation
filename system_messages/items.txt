@@ -341,7 +341,7 @@ tabletxt 78, "Named because of its refined appearance" ; "見た目の優美さ�
 tabletxt 79, "Stone with brilliance similar to a gem" ; "宝石のような輝きを持つ石"
 tabletxt 80, "You can feel the presence of a wild spirit" ; "荒々しいケダモノの気迫を感じる"
 tabletxt 81, "Most valuable ore often found inside mines" ; "通常に採掘できる鉱石の中では最も貴重"
-tabletxt 82, "Many find it unhandy due to its thougness" ; "硬く加工が困難なため扱えない者も多い"
+tabletxt 82, "Many struggle with its toughness" ; "硬く加工が困難なため扱えない者も多い"
 tabletxt 83, "Inside this ore lies the wisdom of nature" ; "自然の英知が秘められた鉱石"
 tabletxt 84, "Used in the making of assasination tools" ; "暗殺用の武具の作製に用いられる鉱石"
 tabletxt 85, "Its soft feel is said to be supreme" ; "石というには柔らかく手触りが最高" 
