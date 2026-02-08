@@ -25,14 +25,14 @@ code0479        0, 4, 14
 code047d        0, 131
 call            @Func_0e0e
 call            @Func_0d0a
-dialogtxt       "What do I do now..."
+dialogtxt       "What do I do now…"
 dialogtxt       "Because of that Stray,"
-dialogtxt       "the tree's dying..."
+dialogtxt       "the tree's dying…"
 code047b        
 code0309        
 code0479        0, 4, 16
-dialogtxt       "We've come this far..."
-dialogtxt       "Now there's no fruit..."
+dialogtxt       "We've come this far…"
+dialogtxt       "Now there's no fruit…"
 code0309        
 call            @Func_0d5e
 code0479        1, 2, 14
@@ -47,8 +47,8 @@ code0309
 call            @Func_0dca
 code0479        0, 4, 17
 call            @Func_0d28
-dialogtxt       "But..."
-dialogtxt       "The Stray..."
+dialogtxt       "But…"
+dialogtxt       "The Stray…"
 code0309        
 code0333        2, 30
 call            @Func_0d5e
@@ -80,7 +80,7 @@ code0309
 call            @Func_0dca
 code0479        0, 0, 16
 call            @Func_0d28
-dialogtxt       "You..."
+dialogtxt       "You…"
 code0309        
 call            @Func_0d5e
 code0479        1, 0, 12

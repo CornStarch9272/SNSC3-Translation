@@ -114,7 +114,7 @@ goto            @Cond_045e
 
 @Cond_045e:
 jumpz           @Cond_0494, ($b003 == 2)
-dialogtxt       "Alright..."
+dialogtxt       "Alright…"
 dialogtxt       "I'll make him regret this."
 goto            @Cond_0494
 

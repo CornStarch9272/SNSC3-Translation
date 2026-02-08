@@ -33,7 +33,7 @@ call            @Func_0c2c
 call            @Func_0b54
 dialogtxt       "Um,"
 dialogtxt       "if we don't start heading"
-dialogtxt       "to the Chief's place soon..."
+dialogtxt       "to the Chief's place soon…"
 code047b        
 code0309        
 call            @Func_0ba8
@@ -50,7 +50,7 @@ jumpz           @Cond_0276, ($b003 == 1)
 code0479        1, 2, 15
 call            @Func_0c42
 call            @Func_0bde
-dialogtxt       "Is something wrong...?"
+dialogtxt       "Is something wrong…?"
 dialogtxt       "Why isn't she answering!?"
 goto            @Cond_0276
 
@@ -59,8 +59,8 @@ jumpz           @Cond_02c8, ($b003 == 2)
 code0479        1, 2, 16
 call            @Func_0c42
 call            @Func_0bde
-dialogtxt       "...?？"
-dialogtxt       "Why isn't she answering...?"
+dialogtxt       "…?？"
+dialogtxt       "Why isn't she answering…?"
 goto            @Cond_02c8
 
 @Cond_02c8:
@@ -87,12 +87,12 @@ call            @Func_0c2c
 call            @Func_0b54
 jumpz           @Cond_03b2, ($b002 == 0)
 dialogtxt       "Just wait a bit."
-dialogtxt       "Jeez..."
+dialogtxt       "Jeez…"
 goto            @Label_03de
 
 @Cond_03b2:
-dialogtxt       "Wait a minute...Hey!"
-dialogtxt       "Jeez...!"
+dialogtxt       "Wait a minute…Hey!"
+dialogtxt       "Jeez…!"
 goto            @Label_03de
 
 @Label_03de:

@@ -76,7 +76,7 @@ code0479        0, 5, 16
 code047d        0, 0
 call            @Func_140c
 call            @Func_1334
-dialogtxt       "Wait"
+dialogtxt       "Wait!"
 jumpz           @Cond_03d2, ($b002 == 0)
 dialogtxt       "What are you…!"
 goto            @Label_03ea

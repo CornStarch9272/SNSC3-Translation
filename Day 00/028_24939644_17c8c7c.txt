@@ -12,7 +12,7 @@ code0309
 call            @Func_0ea0
 call            @Func_0dfe
 choicetxt       @Choice_00c4, "I'm ready!"
-choicetxt       @Choice_082a, "There's something I need to do..."
+choicetxt       @Choice_082a, "There's something I need to do…"
 choicewait      
 
 @Choice_00c4:
@@ -126,17 +126,17 @@ code0309
 call            @Func_0e34
 jumpz           @Cond_063e, ($b003 == 0)
 call            @Func_0e6a
-dialogtxt       "..."
+dialogtxt       "…"
 code0309        
 call            @Func_0ea0
 code0479        0, 1, 14
 call            @Func_0dfe
 jumpz           @Cond_0622, ($b002 == 0)
-dialogtxt       "Uugh, this really throws me off..."
+dialogtxt       "Uugh, this really throws me off…"
 goto            @Label_063a
 
 @Cond_0622:
-dialogtxt       "Uugh, I hate this..."
+dialogtxt       "Uugh, I hate this…"
 goto            @Label_063a
 
 @Label_063a:
@@ -165,7 +165,7 @@ goto            @Cond_06e0
 @Cond_06e0:
 jumpz           @Cond_0768, ($b003 == 2)
 call            @Func_0e6a
-dialogtxt       "Hmph..."
+dialogtxt       "Hmph…"
 dialogtxt       "I won't hold back."
 code0309        
 call            @Func_0ea0

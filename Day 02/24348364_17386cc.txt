@@ -776,7 +776,7 @@ code0309
 call            @Func_3c40
 code0479        0, 2, 16
 call            @Func_3b9e
-dialogtxt       "..."
+dialogtxt       "…"
 jumpz           @Cond_1ece, ($b002 == 0)
 dialogtxt       "Meaning?"
 goto            @Label_1ee0

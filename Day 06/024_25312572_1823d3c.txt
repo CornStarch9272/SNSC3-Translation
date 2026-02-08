@@ -51,7 +51,7 @@ dialogtxt       "I'll be borrowing his workshop."
 goto            @Label_0276
 
 @Cond_0238:
-dialogtxt       "Looks like Gallhan isn't here…"
+dialogtxt       "Looks like Gallahan isn't here…"
 dialogtxt       "I'll be borrowing his workshop."
 goto            @Label_0276
 

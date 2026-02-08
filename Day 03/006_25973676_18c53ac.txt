@@ -473,7 +473,7 @@ code0301        8, 7
 code047e        0, 1
 dialogtxt       "Going out for something?"
 dialogtxt       "While you're out, could"
-dialogtxt       "you find me a Backlight Lamp?"
+dialogtxt       "you find me a Light Bulb?"
 code0309        
 dialogtxt       "In exchange, I'll give you"
 dialogtxt       "something quite nice."
@@ -534,7 +534,7 @@ code0301        8, 7
 code047e        0, 1
 dialogtxt       "It's fine if you're busy,"
 dialogtxt       "but I'd appreciate it if you"
-dialogtxt       "could find me a Backlight Lamp."
+dialogtxt       "could find me a Light Bulb."
 code0309        
 dialogtxt       "I've heard that it's"
 dialogtxt       "a fishing prize in some town."

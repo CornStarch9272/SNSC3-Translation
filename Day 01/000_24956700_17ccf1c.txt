@@ -26,7 +26,7 @@ code047d        1, 2
 call            @Func_2dae
 jumpz           @Cond_0c76, ($b003 == 0)
 call            @Func_2d16
-dialogtxt       "..."
+dialogtxt       "…"
 code047b        
 code0309        
 code0479        1, 0, 12
@@ -64,7 +64,7 @@ code0309
 code0479        0, 4, 12
 dialogtxt       "Girls take a while to get ready."
 dialogtxt       "It would help if Master had"
-dialogtxt       "mentioned that yesterday..."
+dialogtxt       "mentioned that yesterday…"
 code0309        
 call            @Func_2cfe
 code0479        1, 0, 12
@@ -75,7 +75,7 @@ code0309
 call            @Func_2d6a
 code0479        0, 4, 16
 call            @Func_2cc8
-dialogtxt       "How would you know...?"
+dialogtxt       "How would you know…?"
 goto            @Label_05f2
 
 @Cond_0424:
@@ -91,7 +91,7 @@ code0309
 code0479        0, 4, 12
 dialogtxt       "(Seriously though, Master."
 dialogtxt       "If only you'd mentioned"
-dialogtxt       "this yesterday...)"
+dialogtxt       "this yesterday…)"
 code0309        
 call            @Func_2cfe
 code0479        1, 0, 12
@@ -102,9 +102,9 @@ code0309
 call            @Func_2d6a
 code0479        0, 2, 16
 call            @Func_2cc8
-dialogtxt       "That's...!"
+dialogtxt       "That's…!"
 dialogtxt       "Well, I mean, today's the day"
-dialogtxt       "we introduce the two of you...!"
+dialogtxt       "we introduce the two of you…!"
 goto            @Label_05f2
 
 @Label_05f2:
@@ -112,12 +112,12 @@ code0309
 call            @Func_2cfe
 code0479        1, 0, 12
 call            @Func_2d34
-dialogtxt       "..."
+dialogtxt       "…"
 code0309        
 call            @Func_2d6a
 code0479        0, 0, 14
 call            @Func_2cc8
-dialogtxt       "What...?"
+dialogtxt       "What…?"
 dialogtxt       "More importantly, wouldn't it be"
 dialogtxt       "better if you dressed up a bit too?"
 code0309        
@@ -131,16 +131,16 @@ code0309
 call            @Func_2cfe
 code0479        1, 5, 12
 call            @Func_2d34
-dialogtxt       "Dressed... Up?"
+dialogtxt       "Dressed… Up?"
 code0309        
 code0479        1, 0, 12
 code0479        0, 2, 16
-dialogtxt       "..."
+dialogtxt       "…"
 code0309        
 call            @Func_2d6a
 code0479        0, 2, 14
 call            @Func_2cc8
-dialogtxt       "..."
+dialogtxt       "…"
 code0309        
 call            @Func_2e04
 call            @Func_2ce6
@@ -170,7 +170,7 @@ code0309
 call            @Func_2cfe
 code0479        1, 3, 12
 call            @Func_2d34
-dialogtxt       "..."
+dialogtxt       "…"
 code0309        
 call            @Func_2d6a
 code0479        0, 5, 17
@@ -192,8 +192,8 @@ code0309
 call            @Func_2d6a
 code0479        0, 1, 16
 call            @Func_2cc8
-dialogtxt       "Ah..."
-dialogtxt       "Nah, it's fine..."
+dialogtxt       "Ah…"
+dialogtxt       "Nah, it's fine…"
 code0309        
 call            @Func_2cfe
 code0479        1, 0, 12
@@ -218,12 +218,12 @@ walkwait        1
 code0479        0, 0, 16
 call            @Func_2d82
 call            @Func_2caa
-dialogtxt       "There he goes..."
+dialogtxt       "There he goes…"
 code047b        
 code0309        
 code0479        0, 0, 12
 dialogtxt       "Murno's in the room upstairs"
-dialogtxt       "Hmm, what should I do..."
+dialogtxt       "Hmm, what should I do…"
 goto            @Label_0c70
 
 @Label_0c70:
@@ -233,7 +233,7 @@ goto            @Cond_0c76
 @Cond_0c76:
 jumpz           @Cond_1650, ($b003 == 1)
 call            @Func_2d16
-dialogtxt       "A greeting, eh...?"
+dialogtxt       "A greeting, eh…?"
 code047b        
 code0309        
 call            @Func_2d6a
@@ -254,7 +254,7 @@ code0479        1, 0, 12
 call            @Func_2d34
 dialogtxt       "Of course. If we are to live in this"
 dialogtxt       "village, we must at least pay our"
-dialogtxt       "respects to its leader..."
+dialogtxt       "respects to its leader…"
 code0309        
 call            @Func_2d6a
 code0479        0, 0, 12
@@ -277,12 +277,12 @@ call            @Func_2cfe
 code0479        1, 4, 14
 call            @Func_2d34
 dialogtxt       "Sadly, this pitiful form"
-dialogtxt       "is hardly suited for that..."
+dialogtxt       "is hardly suited for that…"
 code0309        
 call            @Func_2d6a
 code0479        0, 1, 12
 call            @Func_2cc8
-dialogtxt       "Haha..."
+dialogtxt       "Haha…"
 dialogtxt       "That's true."
 goto            @Label_0eea
 
@@ -309,14 +309,14 @@ call            @Func_2cfe
 code0479        1, 0, 16
 call            @Func_2d34
 dialogtxt       "Dressing up?"
-dialogtxt       "Hm...Perhaps..."
+dialogtxt       "Hm…Perhaps…"
 dialogtxt       "What do you suggest?"
 code0309        
 call            @Func_2d6a
 code0479        0, 0, 14
 call            @Func_2cc8
 dialogtxt       "Umm~"
-dialogtxt       "Let's see..."
+dialogtxt       "Let's see…"
 goto            @Label_10de
 
 @Label_10de:
@@ -327,7 +327,7 @@ code0309
 call            @Func_2cfe
 code0479        1, 5, 16
 call            @Func_2d34
-dialogtxt       "A ribb-...!?"
+dialogtxt       "A ribb-…!?"
 code0309        
 code0479        1, 3, 13
 code0479        0, 5, 16
@@ -357,7 +357,7 @@ code0309
 call            @Func_2cfe
 code0479        1, 2, 14
 call            @Func_2d34
-dialogtxt       "Mmhm..."
+dialogtxt       "Mmhm…"
 dialogtxt       "I see there is no point in"
 dialogtxt       "conversing with you."
 code0309        
@@ -412,14 +412,14 @@ walkwait        1
 code0479        0, 0, 12
 call            @Func_2d82
 call            @Func_2caa
-dialogtxt       "There he goes..."
+dialogtxt       "There he goes…"
 dialogtxt       "Like I thought, he's"
-dialogtxt       "worried about Murno..."
+dialogtxt       "worried about Murno…"
 code047b        
 code0309        
 code0479        0, 0, 16
-dialogtxt       "Murno's in the room upstairs..."
-dialogtxt       "Hm, what should I do..."
+dialogtxt       "Murno's in the room upstairs…"
+dialogtxt       "Hm, what should I do…"
 goto            @Label_164a
 
 @Label_164a:
@@ -429,7 +429,7 @@ goto            @Cond_1650
 @Cond_1650:
 jumpz           @Cond_1fa8, ($b003 == 2)
 call            @Func_2d16
-dialogtxt       "How irritating..."
+dialogtxt       "How irritating…"
 code047b        
 code0309        
 call            @Func_2d6a
@@ -442,7 +442,7 @@ code0479        1, 2, 16
 call            @Func_2d34
 dialogtxt       "Why do I have to go"
 dialogtxt       "to the chief's place and"
-dialogtxt       "give him my greetings...?"
+dialogtxt       "give him my greetings…?"
 code0309        
 call            @Func_2d6a
 code0479        0, 0, 14
@@ -458,7 +458,7 @@ code0309
 call            @Func_2cfe
 code0479        1, 2, 14
 call            @Func_2d34
-dialogtxt       "Tch..."
+dialogtxt       "Tch…"
 code0309        
 call            @Func_2d6a
 code0479        0, 0, 12
@@ -473,7 +473,7 @@ code0309
 call            @Func_2cfe
 code0479        1, 2, 15
 call            @Func_2d34
-dialogtxt       "Haah...?"
+dialogtxt       "Haah…?"
 dialogtxt       "Don't be ridiculous."
 code0309        
 call            @Func_2d6a
@@ -487,7 +487,7 @@ code0309
 call            @Func_2cfe
 code0479        1, 2, 12
 call            @Func_2d34
-dialogtxt       "Silence..."
+dialogtxt       "Silence…"
 dialogtxt       "All your chatter is annoying!"
 code0309        
 call            @Func_2d6a
@@ -505,11 +505,11 @@ dialogtxt       "Like drawing patterns on your face."
 dialogtxt       "Or putting on some horns."
 code0309        
 code0479        0, 0, 16
-dialogtxt       "Horns..."
-dialogtxt       "Patterns..."
+dialogtxt       "Horns…"
+dialogtxt       "Patterns…"
 code0309        
 code0479        0, 0, 14
-dialogtxt       "..."
+dialogtxt       "…"
 code0309        
 call            @Func_2e04
 call            @Func_2ce6
@@ -548,7 +548,7 @@ code0309
 call            @Func_2cfe
 code0479        1, 2, 14
 call            @Func_2d34
-dialogtxt       "Tch..."
+dialogtxt       "Tch…"
 dialogtxt       "Enough of this."
 code0309        
 call            @Func_2e04
@@ -563,7 +563,7 @@ call            @Func_2d82
 call            @Func_2caa
 dialogtxt       "Hey, wait a minute!"
 dialogtxt       "Where are you going!?"
-dialogtxt       "Murno's room, perhaps?..."
+dialogtxt       "Murno's room, perhaps?…"
 goto            @Label_1dc0
 
 @Label_1dc0:
@@ -586,12 +586,12 @@ walkwait        1
 code0479        0, 0, 16
 call            @Func_2d82
 call            @Func_2caa
-dialogtxt       "There he goes..."
+dialogtxt       "There he goes…"
 code047b        
 code0309        
 code0479        0, 0, 12
 dialogtxt       "Murno's in the room upstairs"
-dialogtxt       "Hm, what should I do...?"
+dialogtxt       "Hm, what should I do…?"
 goto            @Label_1fa2
 
 @Label_1fa2:
@@ -607,7 +607,7 @@ code0309
 call            @Func_2d6a
 code0479        0, 0, 16
 call            @Func_2cc8
-dialogtxt       "What are you talking about...?"
+dialogtxt       "What are you talking about…?"
 code0309        
 call            @Func_2cfe
 code0479        1, 0, 17
@@ -623,7 +623,7 @@ code0309
 call            @Func_2d6a
 code0479        0, 0, 12
 call            @Func_2cc8
-dialogtxt       "In order, you say...?"
+dialogtxt       "In order, you say…?"
 dialogtxt       "You look fine to me."
 dialogtxt       "What's the problem?"
 goto            @Label_2178
@@ -633,7 +633,7 @@ code0309
 call            @Func_2cfe
 code0479        1, 2, 14
 call            @Func_2d34
-dialogtxt       "That's so irresponsible..."
+dialogtxt       "That's so irresponsible…"
 dialogtxt       "If everything isn't perfect,"
 dialogtxt       "the Chief might hate me!"
 code0309        
@@ -650,9 +650,9 @@ code0309
 call            @Func_2cfe
 code0479        1, 0, 16
 call            @Func_2d34
-dialogtxt       "Even if you say that..."
+dialogtxt       "Even if you say that…"
 dialogtxt       "And speaking of which, do you"
-dialogtxt       "intend to go looking like that...?"
+dialogtxt       "intend to go looking like that…?"
 code0309        
 call            @Func_2d6a
 code0479        0, 0, 12
@@ -663,13 +663,13 @@ call            @Func_2cfe
 code0479        1, 0, 12
 call            @Func_2d34
 dialogtxt       "In that case, it may be"
-dialogtxt       "alright to go as I am now..."
+dialogtxt       "alright to go as I am now…"
 code0309        
 call            @Func_2d6a
 code0479        0, 2, 12
 call            @Func_2cc8
 jumpz           @Cond_23a2, ($b002 == 0)
-dialogtxt       "Hey, that kinda hurts..."
+dialogtxt       "Hey, that kinda hurts…"
 goto            @Label_23ca
 
 @Cond_23a2:
@@ -682,7 +682,7 @@ code0309
 call            @Func_2cfe
 code0479        1, 2, 14
 call            @Func_2d34
-dialogtxt       "Anyyy~waaaaaays..."
+dialogtxt       "Anyyy~waaaaaays…"
 code0309        
 code0479        1, 0, 12
 dialogtxt       "Ah, that's right!"
@@ -693,12 +693,12 @@ call            @Func_2d6a
 code0479        0, 5, 17
 call            @Func_2cc8
 jumpz           @Cond_2498, ($b002 == 0)
-dialogtxt       "Hey, wait...!"
+dialogtxt       "Hey, wait…!"
 goto            @Label_24c6
 
 @Cond_2498:
 dialogtxt       "Wait!"
-dialogtxt       "I wasn't done talking..."
+dialogtxt       "I wasn't done talking…"
 goto            @Label_24c6
 
 @Label_24c6:
@@ -720,14 +720,14 @@ walkwait        1
 code0479        0, 0, 16
 call            @Func_2d82
 call            @Func_2caa
-dialogtxt       "There she goes..."
+dialogtxt       "There she goes…"
 dialogtxt       "Looks like she wants"
-dialogtxt       "to be with Murno..."
+dialogtxt       "to be with Murno…"
 code047b        
 code0309        
 code0479        0, 0, 12
 dialogtxt       "Murno's in the room upstairs"
-dialogtxt       "Hm, what should I do...?"
+dialogtxt       "Hm, what should I do…?"
 goto            @Label_2712
 
 @Label_2712:

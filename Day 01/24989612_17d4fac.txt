@@ -9,13 +9,13 @@ call            @Func_0b94
 code047c        0, 2
 call            @Func_0abc
 jumpz           @Cond_00b0, ($b002 == 0)
-dialogtxt       "Woah..."
-dialogtxt       "That was a surprise..."
+dialogtxt       "Woah…"
+dialogtxt       "That was a surprise…"
 goto            @Label_00d4
 
 @Cond_00b0:
-dialogtxt       "Fuwah~..."
-dialogtxt       "That was a surprise..."
+dialogtxt       "Fuwah~…"
+dialogtxt       "That was a surprise…"
 goto            @Label_00d4
 
 @Label_00d4:
@@ -45,13 +45,13 @@ call            @Func_0b94
 code047c        0, 2
 call            @Func_0abc
 jumpz           @Cond_01d2, ($b002 == 0)
-dialogtxt       "Woah..."
-dialogtxt       "That was a surprise..."
+dialogtxt       "Woah…"
+dialogtxt       "That was a surprise…"
 goto            @Label_01f6
 
 @Cond_01d2:
-dialogtxt       "Fuwah~..."
-dialogtxt       "That was a surprise..."
+dialogtxt       "Fuwah~…"
+dialogtxt       "That was a surprise…"
 goto            @Label_01f6
 
 @Label_01f6:
@@ -81,13 +81,13 @@ call            @Func_0b94
 code047c        0, 2
 call            @Func_0abc
 jumpz           @Cond_02fa, ($b002 == 0)
-dialogtxt       "Woah..."
-dialogtxt       "That was a surprise..."
+dialogtxt       "Woah…"
+dialogtxt       "That was a surprise…"
 goto            @Label_031e
 
 @Cond_02fa:
-dialogtxt       "Fuwah~..."
-dialogtxt       "That was a surprise..."
+dialogtxt       "Fuwah~…"
+dialogtxt       "That was a surprise…"
 goto            @Label_031e
 
 @Label_031e:
@@ -97,13 +97,13 @@ call            @Func_0bea
 call            @Func_0af8
 code047b        
 call            @Func_0b28
-dialogtxt       "..."
+dialogtxt       "…"
 code0309        
 call            @Func_0b64
 code0479        0, 5, 14
 call            @Func_0b94
 call            @Func_0abc
-dialogtxt       "...Huh?"
+dialogtxt       "…Huh?"
 code047b        
 code0309        
 call            @Func_0bea
@@ -116,11 +116,11 @@ call            @Func_0b64
 code0479        0, 2, 14
 call            @Func_0b94
 call            @Func_0abc
-dialogtxt       "Wha..."
+dialogtxt       "Wha…"
 code047b        
 code0309        
 code0479        0, 2, 15
-dialogtxt       "γ...!"
+dialogtxt       "γ…!"
 goto            @Label_0402
 
 @Label_0402:
@@ -132,13 +132,13 @@ call            @Func_0b94
 code047c        0, 2
 call            @Func_0abc
 jumpz           @Cond_0462, ($b002 == 0)
-dialogtxt       "Woah..."
-dialogtxt       "That was a surprise..."
+dialogtxt       "Woah…"
+dialogtxt       "That was a surprise…"
 goto            @Label_0486
 
 @Cond_0462:
-dialogtxt       "Fuwah~..."
-dialogtxt       "That was a surprise..."
+dialogtxt       "Fuwah~…"
+dialogtxt       "That was a surprise…"
 goto            @Label_0486
 
 @Label_0486:

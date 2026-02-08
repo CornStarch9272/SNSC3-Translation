@@ -182,7 +182,7 @@ call            @Func_1cfa
 call            @Func_1c96
 dialogtxt       "Three people?"
 dialogtxt       "The same three from when we"
-dialogtxt       "we taking care of the Strays?"
+dialogtxt       "were taking care of the Strays?"
 code047b        
 code0309        
 call            @Func_1ccc
@@ -351,7 +351,7 @@ code0479        1, 2, 13
 call            @Func_1c96
 dialogtxt       "Gotcha."
 dialogtxt       "I'll watch over [NAME 2]"
-dialogtxt       "and the [NAME 1] for you."
+dialogtxt       "and [NAME 1] for you."
 code0309        
 call            @Func_1ccc
 code0479        0, 2, 12

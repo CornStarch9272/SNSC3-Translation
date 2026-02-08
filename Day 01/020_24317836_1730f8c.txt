@@ -311,7 +311,7 @@ dialogtxt       "You have to deal"
 dialogtxt       "with some eccentric old man!"
 code0309        
 dialogtxt       "He said that I don't have the"
-dialogtxt       "qualifications to fish..."
+dialogtxt       "qualifications to fish…"
 dialogtxt       "Really, what's so fun about that?"
 code0309        
 code047e        0, 0

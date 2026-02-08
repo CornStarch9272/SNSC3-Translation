@@ -66,7 +66,7 @@ code047d        1, 2
 call            @Func_0c34
 call            @Func_0b9c
 jumpz           @Cond_030e, ($b003 == 0)
-dialogtxt       "He Is From Yesterday..."
+dialogtxt       "He Is From Yesterday…"
 code047b        
 code0309        
 call            @Func_0bf0
@@ -80,7 +80,7 @@ goto            @Cond_030e
 
 @Cond_030e:
 jumpz           @Cond_036e, ($b003 == 1)
-dialogtxt       "The one from yesterday..."
+dialogtxt       "The one from yesterday…"
 code047b        
 code0309        
 call            @Func_0bf0
@@ -94,7 +94,7 @@ goto            @Cond_036e
 
 @Cond_036e:
 jumpz           @Cond_03ce, ($b003 == 2)
-dialogtxt       "The one from yesterday..."
+dialogtxt       "The one from yesterday…"
 code047b        
 code0309        
 call            @Func_0bf0
@@ -108,7 +108,7 @@ goto            @Cond_03ce
 
 @Cond_03ce:
 jumpz           @Cond_0434, ($b003 == 3)
-dialogtxt       "The one from yesterday..."
+dialogtxt       "The one from yesterday…"
 code047b        
 code0309        
 call            @Func_0bf0

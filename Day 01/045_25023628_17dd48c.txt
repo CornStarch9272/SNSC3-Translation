@@ -16,7 +16,7 @@ code040d        15
 code047d        0, 107
 code0301        16, 3
 code047e        0, 1
-dialogtxt       "Oh, um... δ..."
+dialogtxt       "Oh, um… δ…"
 code0309        
 code047e        0, 0
 code0302        3
@@ -47,21 +47,21 @@ code0479        1, 0, 12
 code047d        1, 107
 call            @Func_10f6
 call            @Func_0ff2
-dialogtxt       "Murno..."
+dialogtxt       "Murno…"
 dialogtxt       "Shouldn't you be in bed?"
 code047b        
 code0309        
 call            @Func_1046
 code0479        1, 0, 13
 call            @Func_107c
-dialogtxt       "I'm feeling fine..."
+dialogtxt       "I'm feeling fine…"
 dialogtxt       "I've been in bed so long,"
-dialogtxt       "I couldn't sleep anyway..."
+dialogtxt       "I couldn't sleep anyway…"
 code0309        
 call            @Func_10b2
 code0479        0, 1, 12
 call            @Func_1010
-dialogtxt       "I see..."
+dialogtxt       "I see…"
 dialogtxt       "I really am glad"
 dialogtxt       "you're feeling better."
 goto            @Label_03ba
@@ -73,8 +73,8 @@ code0479        0, 0, 12
 code0479        1, 4, 16
 call            @Func_107c
 dialogtxt       "I must've been such a bother"
-dialogtxt       "You even got me medicine..."
-dialogtxt       "I'm truly sorry..."
+dialogtxt       "You even got me medicine…"
+dialogtxt       "I'm truly sorry…"
 code0309        
 call            @Func_10b2
 code0479        0, 5, 16
@@ -89,30 +89,30 @@ code0309
 call            @Func_1046
 code0479        1, 11, 12
 call            @Func_107c
-dialogtxt       "Y-You wanted to...?"
+dialogtxt       "Y-You wanted to…?"
 code0309        
 call            @Func_10b2
 code0479        0, 11, 17
 call            @Func_1010
 dialogtxt       "Uh, well,"
 dialogtxt       "Master said we were in the way,"
-dialogtxt       "and I had nothing to do anyways so..."
+dialogtxt       "and I had nothing to do anyways so…"
 goto            @Label_05f8
 
 @Label_05f8:
 code0309        
 code0479        1, 0, 12
 code0479        0, 0, 12
-dialogtxt       "Details aside..."
+dialogtxt       "Details aside…"
 dialogtxt       "With Zakk and γ's help,"
 dialogtxt       "we were able to get some medicine."
 code0309        
 call            @Func_1046
 code0479        1, 4, 13
 call            @Func_107c
-dialogtxt       "Right..."
+dialogtxt       "Right…"
 dialogtxt       "So I've inconvenienced everyone,"
-dialogtxt       "not just you two..."
+dialogtxt       "not just you two…"
 code0309        
 call            @Func_10b2
 code0479        0, 0, 16
@@ -127,7 +127,7 @@ code0309
 call            @Func_1046
 code0479        1, 4, 16
 call            @Func_107c
-dialogtxt       "That's..."
+dialogtxt       "That's…"
 code0309        
 call            @Func_10b2
 code0479        0, 1, 13
@@ -138,12 +138,12 @@ code0309
 call            @Func_1046
 code0479        1, 4, 16
 call            @Func_107c
-dialogtxt       "..."
+dialogtxt       "…"
 code0309        
 code0479        0, 0, 14
 code0479        1, 0, 14
-dialogtxt       "Do you..."
-dialogtxt       "Do you want to know about..."
+dialogtxt       "Do you…"
+dialogtxt       "Do you want to know about…"
 dialogtxt       "what happened before I came here?"
 code0309        
 call            @Func_10b2
@@ -156,8 +156,8 @@ code0309
 call            @Func_1046
 code0479        1, 4, 13
 call            @Func_107c
-dialogtxt       "..."
-dialogtxt       "You're too nice..."
+dialogtxt       "…"
+dialogtxt       "You're too nice…"
 code0309        
 call            @Func_10b2
 jumpz           @Cond_09be, ($b002 == 0)
@@ -165,15 +165,15 @@ code0479        0, 7, 17
 call            @Func_1010
 dialogtxt       "N-No I'm not!"
 dialogtxt       "Uh, being here is relaxing, right?"
-dialogtxt       "So, once you've calmed down..."
+dialogtxt       "So, once you've calmed down…"
 goto            @Label_0a2e
 
 @Cond_09be:
 code0479        0, 0, 13
 call            @Func_1010
-dialogtxt       "I'm not, really..."
+dialogtxt       "I'm not, really…"
 dialogtxt       "Uh, being here is relaxing, right?"
-dialogtxt       "So, once you've calmed down..."
+dialogtxt       "So, once you've calmed down…"
 goto            @Label_0a2e
 
 @Label_0a2e:
@@ -181,7 +181,7 @@ code0309
 call            @Func_1046
 code0479        1, 1, 12
 call            @Func_107c
-dialogtxt       "..."
+dialogtxt       "…"
 code0309        
 call            @Func_114c
 call            @Func_109a

@@ -19,7 +19,7 @@ call            @Func_095e
 code043c        0, 4
 code0479        0, 0, 14
 call            @Func_08bc
-dialogtxt       "Crafting with γ..."
+dialogtxt       "Crafting with γ…"
 code0309        
 call            @Func_09e2
 call            @Func_08f2
@@ -49,7 +49,7 @@ goto            @Cond_01da
 code047d        1, 2
 call            @Func_098c
 call            @Func_0928
-dialogtxt       "..."
+dialogtxt       "…"
 code047b        
 code0309        
 call            @Func_09e2

@@ -31,8 +31,8 @@ code0479        1, 4, 16
 code047d        1, 131
 call            @Func_147a
 call            @Func_1416
-dialogtxt       "Well..."
-dialogtxt       "Lemmy is..."
+dialogtxt       "Well…"
+dialogtxt       "Lemmy is…"
 code047b        
 code0309        
 call            @Func_14e6
@@ -57,18 +57,18 @@ code0309
 call            @Func_144c
 code0479        0, 5, 14
 call            @Func_13aa
-dialogtxt       "Wha...!"
+dialogtxt       "Wha…!"
 code0309        
 jumpz           @Cond_02f8, ($b002 == 0)
 code0479        0, 2, 16
-dialogtxt       "..."
+dialogtxt       "…"
 dialogtxt       "I guess you're right,"
 dialogtxt       "it doesn't involve us."
 goto            @Label_0330
 
 @Cond_02f8:
 code0479        0, 2, 16
-dialogtxt       "Ahh...I see,"
+dialogtxt       "Ahh…I see,"
 dialogtxt       "I guess it doesn't involve us."
 goto            @Label_0330
 
@@ -121,9 +121,9 @@ code0479        0, 2, 14
 code047d        0, 0
 call            @Func_1490
 call            @Func_13f8
-dialogtxt       "Ah! This is..."
+dialogtxt       "Ah! This is…"
 dialogtxt       "My hammer!?"
-dialogtxt       "I must have dropped it when...!"
+dialogtxt       "I must have dropped it when…!"
 code0309        
 call            @Func_144c
 code0479        0, 2, 12
@@ -141,8 +141,8 @@ call            @Func_1416
 dialogtxt       "Thank you!"
 code0309        
 code0479        1, 5, 15
-dialogtxt       "...Uh, I mean"
-dialogtxt       "Umm..."
+dialogtxt       "…Uh, I mean"
+dialogtxt       "Umm…"
 code0309        
 call            @Func_144c
 code0479        0, 0, 12
@@ -195,7 +195,7 @@ call            @Func_1416
 dialogtxt       "You're pretty nice."
 code0309        
 code0479        1, 5, 15
-dialogtxt       "...Wait, no!"
+dialogtxt       "…Wait, no!"
 goto            @Cond_0928
 
 @Cond_0928:
@@ -209,7 +209,7 @@ call            @Func_1416
 dialogtxt       "You're pretty nice."
 code0309        
 code0479        1, 5, 15
-dialogtxt       "...Wait, no!"
+dialogtxt       "…Wait, no!"
 goto            @Cond_09aa
 
 @Cond_09aa:
@@ -220,10 +220,10 @@ code0309
 call            @Func_13e0
 code0479        1, 4, 16
 call            @Func_1416
-dialogtxt       "Ugh... Sorry about that."
+dialogtxt       "Ugh… Sorry about that."
 code0309        
 code0479        1, 5, 15
-dialogtxt       "...Wait, no!"
+dialogtxt       "…Wait, no!"
 goto            @Cond_0a42
 
 @Cond_0a42:
@@ -237,7 +237,7 @@ call            @Func_1416
 dialogtxt       "You're pretty nice."
 code0309        
 code0479        1, 5, 15
-dialogtxt       "...Wait, no!"
+dialogtxt       "…Wait, no!"
 goto            @Cond_0ad2
 
 @Cond_0ad2:
@@ -261,7 +261,7 @@ code0479        0, 4, 14
 code047d        0, 131
 call            @Func_1464
 call            @Func_13aa
-dialogtxt       "Lemmy..."
+dialogtxt       "Lemmy…"
 code047b        
 code0309        
 call            @Func_14e6

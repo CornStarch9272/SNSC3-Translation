@@ -556,7 +556,7 @@ code047d        0, 135
 call            @Func_3034
 call            @Func_2f7a
 dialogtxt       "Ah…"
-dialogtxt       "T-The…S-Summonite</three_dots />"
+dialogtxt       "T-The…S-Summonite…"
 dialogtxt       "Where…"
 code047b        
 code0309        

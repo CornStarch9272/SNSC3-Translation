@@ -466,7 +466,7 @@ code0479        1, 2, 12
 call            @Func_1f80
 dialogtxt       "Is that so… Thanks."
 dialogtxt       "Everyone, head out."
-dialogtxt       "Eleize, you're with me!"
+dialogtxt       "Eliez, you're with me!"
 code0309        
 call            @Func_2050
 call            @Func_1f9e

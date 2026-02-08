@@ -70,7 +70,7 @@ tabletxt 23, "Greatly lowers DUR for special attacks" ; "必殺技のＤＵＲ�
 tabletxt 24, "Raises chances to get items to ~5%" ; "戦闘時のアイテム入手率が５％上がる"
 tabletxt 25, "Raises chances to get items to ~10%" ; "戦闘時のアイテム入手率が１０％上がる"
 tabletxt 26, "Raises chances to get items to ~15%" ; "戦闘時のアイテム入手率が１５％上がる"
-tabletxt 27, "Makes your attacks knock your enemies away" ; "攻撃対象を退ける"
+tabletxt 27, "Makes your attacks knock enemies away" ; "攻撃対象を退ける"
 tabletxt 28, "TEC gauge fills faster for a bit" ; "ＴＥＣの値が少し上がりやすくなる"
 tabletxt 29, "In mid-air, Down+ A to attack below" ; "空中で下ボタン＋Ａボタンで下突き攻撃"
 tabletxt 30, "Can hit multiple enemies" ; "複数同時に攻撃が当たる"

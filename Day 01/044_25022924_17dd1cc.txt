@@ -5,12 +5,12 @@ call            @Func_07b8
 call            @Func_06e0
 dialogtxt       "It's been a long day,"
 dialogtxt       "but if Murno's feeling better now,"
-dialogtxt       "then it was all worth it..."
+dialogtxt       "then it was all worth it…"
 code047b        
 code0309        
 code043c        0, 1
 dialogtxt       "Huh?"
-dialogtxt       "That looks like..."
+dialogtxt       "That looks like…"
 goto            @Label_00f0
 
 @Label_00f0:

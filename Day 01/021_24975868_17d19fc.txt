@@ -36,7 +36,7 @@ call            @Func_2e64
 code047b        
 code0301        8, 7
 code047e        1, 1
-dialogtxt       "Training, eh...?"
+dialogtxt       "Training, eh…?"
 dialogtxt       "Where'd you get a Summon Stone?"
 code0309        
 code047e        1, 0
@@ -44,7 +44,7 @@ code0302        7
 code0479        0, 1, 16
 call            @Func_2ee8
 call            @Func_2e2e
-dialogtxt       "Ummm..."
+dialogtxt       "Ummm…"
 code0309        
 code0479        0, 2, 16
 dialogtxt       "Master gave it to me yesterday."
@@ -59,7 +59,7 @@ call            @Func_2e64
 code047b        
 code0301        8, 7
 code047e        1, 1
-dialogtxt       "That's quite sudden..."
+dialogtxt       "That's quite sudden…"
 code0309        
 code047e        1, 0
 code0302        7
@@ -87,7 +87,7 @@ code0302        7
 code0479        0, 0, 12
 call            @Func_2ee8
 call            @Func_2e2e
-dialogtxt       "..."
+dialogtxt       "…"
 code0309        
 call            @Func_2f3e
 call            @Func_2e64
@@ -101,7 +101,7 @@ code0302        7
 code0479        0, 0, 12
 call            @Func_2ee8
 call            @Func_2e2e
-dialogtxt       "..."
+dialogtxt       "…"
 code0309        
 call            @Func_2f3e
 call            @Func_2e64
@@ -118,7 +118,7 @@ code0479        0, 1, 16
 code047d        0, 0
 call            @Func_2ee8
 call            @Func_2e2e
-dialogtxt       "...Probably."
+dialogtxt       "…Probably."
 code047b        
 code0309        
 call            @Func_2f3e
@@ -164,7 +164,7 @@ call            @Func_2e64
 code047b        
 code0301        8, 7
 code047e        1, 1
-dialogtxt       "Tiger huh...?"
+dialogtxt       "Tiger huh…?"
 dialogtxt       "Hm, but no matter how I look, you-"
 code0309        
 code047e        1, 0
@@ -203,7 +203,7 @@ code0479        1, 2, 14
 code047d        1, 2
 call            @Func_2efe
 call            @Func_2e9a
-dialogtxt       "Mhm..."
+dialogtxt       "Mhm…"
 code047b        
 code0309        
 call            @Func_2ed0
@@ -241,7 +241,7 @@ code0301        8, 7
 code047e        1, 1
 dialogtxt       "Hoho~!"
 dialogtxt       "Very energetic as well."
-dialogtxt       "A perfect fit for you, δ..."
+dialogtxt       "A perfect fit for you, δ…"
 code0309        
 code047e        1, 0
 code0302        7
@@ -249,7 +249,7 @@ code0479        0, 2, 15
 call            @Func_2ee8
 call            @Func_2e2e
 dialogtxt       "Did you not hear me, old fool?"
-dialogtxt       "Keep insulting me, and..."
+dialogtxt       "Keep insulting me, and…"
 dialogtxt       "I'll erase you."
 code0309        
 call            @Func_2f3e
@@ -257,8 +257,8 @@ call            @Func_2e64
 code047b        
 code0301        8, 7
 code047e        1, 1
-dialogtxt       "E-Erase me...!?"
-dialogtxt       "What kind of Summon Beast is this...!"
+dialogtxt       "E-Erase me…!?"
+dialogtxt       "What kind of Summon Beast is this…!"
 code0309        
 code047e        1, 0
 code0302        7
@@ -279,14 +279,14 @@ code0479        1, 2, 14
 code047d        1, 2
 call            @Func_2efe
 call            @Func_2e9a
-dialogtxt       "You too..."
+dialogtxt       "You too…"
 code047b        
 code0309        
 call            @Func_2ed0
 code043c        0, 4
 code0479        0, 2, 16
 call            @Func_2e2e
-dialogtxt       "Cut it out..."
+dialogtxt       "Cut it out…"
 dialogtxt       "You'll just cause more"
 dialogtxt       "trouble for Murno!"
 goto            @Label_0e06
@@ -296,8 +296,8 @@ code0309
 call            @Func_2e64
 code0479        1, 0, 12
 call            @Func_2e9a
-dialogtxt       "..."
-dialogtxt       "Tch...！"
+dialogtxt       "…"
+dialogtxt       "Tch…！"
 code0309        
 call            @Func_2f6a
 call            @Func_2ed0
@@ -323,7 +323,7 @@ code0479        1, 2, 14
 code047d        1, 2
 call            @Func_2efe
 call            @Func_2e9a
-dialogtxt       "..."
+dialogtxt       "…"
 code047b        
 code0309        
 call            @Func_2ed0
@@ -335,8 +335,8 @@ code0309
 call            @Func_2e64
 code0479        1, 2, 15
 call            @Func_2e9a
-dialogtxt       "It..."
-dialogtxt       "It was a joke..."
+dialogtxt       "It…"
+dialogtxt       "It was a joke…"
 code0309        
 call            @Func_2ed0
 code043c        0, 3
@@ -379,7 +379,7 @@ code0302        7
 code0479        0, 2, 12
 call            @Func_2ee8
 call            @Func_2e2e
-dialogtxt       "Chief..."
+dialogtxt       "Chief…"
 dialogtxt       "Do you not believe me?"
 code0309        
 call            @Func_2f3e
@@ -395,9 +395,9 @@ code0302        7
 code0479        0, 2, 13
 call            @Func_2ee8
 call            @Func_2e2e
-dialogtxt       "So you are underestimating me..."
+dialogtxt       "So you are underestimating me…"
 dialogtxt       "Then I'll have to show you"
-dialogtxt       "some of my real power..."
+dialogtxt       "some of my real power…"
 code0309        
 call            @Func_2f6a
 call            @Func_2e4c
@@ -413,7 +413,7 @@ code0479        1, 2, 13
 code047d        1, 2
 call            @Func_2f14
 call            @Func_2e10
-dialogtxt       "What the heck are you doing...!?"
+dialogtxt       "What the heck are you doing…!?"
 dialogtxt       "I told you to just stay quiet!"
 code047b        
 code0309        
@@ -429,7 +429,7 @@ code0309
 call            @Func_2e64
 code0479        1, 5, 16
 call            @Func_2e9a
-dialogtxt       "Ah...!"
+dialogtxt       "Ah…!"
 dialogtxt       "That's right."
 code0309        
 call            @Func_2f6a
@@ -451,7 +451,7 @@ code0479        0, 1, 17
 code047d        0, 2
 call            @Func_2ee8
 call            @Func_2e2e
-dialogtxt       "O~Ohohohoho..."
+dialogtxt       "O~Ohohohoho…"
 dialogtxt       "That's right!"
 code0309        
 call            @Func_2f3e
@@ -578,8 +578,8 @@ code0302        7
 code0479        1, 4, 16
 call            @Func_2efe
 call            @Func_2e9a
-dialogtxt       "Uuh..."
-dialogtxt       "How shameful..."
+dialogtxt       "Uuh…"
+dialogtxt       "How shameful…"
 code0309        
 call            @Func_2f54
 call            @Func_2eb8
@@ -649,7 +649,7 @@ code0479        0, 1, 14
 call            @Func_2f14
 call            @Func_2e10
 code0479        0, 1, 14
-dialogtxt       "That went better than expected..."
+dialogtxt       "That went better than expected…"
 dialogtxt       "What a relief."
 code047b        
 code0309        
@@ -698,7 +698,7 @@ goto            @Cond_20fa
 
 @Cond_20fa:
 jumpz           @Cond_213e, ($b003 == 2)
-dialogtxt       "What...?"
+dialogtxt       "What…?"
 dialogtxt       "Are we not training at the workshop?"
 goto            @Cond_213e
 
@@ -808,7 +808,7 @@ goto            @Cond_25ae
 
 @Cond_25ae:
 jumpz           @Cond_25f6, ($b003 == 2)
-dialogtxt       "You..."
+dialogtxt       "You…"
 dialogtxt       "Are you implying that my"
 dialogtxt       "Summon Stone is a crafting material?"
 goto            @Cond_25f6
