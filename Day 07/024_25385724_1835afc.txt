@@ -43,6 +43,7 @@ call            @Func_34ec
 code0479        0, 0, 16
 call            @Func_344a
 dialogtxt       "I see."
+code0309        
 dialogtxt       "It might be good to"
 dialogtxt       "bring Anise here too."
 code0309        
@@ -66,11 +67,11 @@ code047d        0, 0
 call            @Func_3504
 call            @Func_342c
 jumpz           @Cond_0380, ($b002 == 0)
-dialogtxt       "Um, what should we…"
+dialogtxt       "Um, what should we do?"
 goto            @Label_039c
 
 @Cond_0380:
-dialogtxt       "Um, what should we…"
+dialogtxt       "Um, what should we do?"
 goto            @Label_039c
 
 @Label_039c:
@@ -94,8 +95,8 @@ dialogtxt       "Run away…"
 code0309        
 code0479        0, 2, 14
 code0479        1, 2, 12
-choicetxt       @Choice_04c4, "Okay! Let's leave."
-choicetxt       @Choice_247c, "Wait a moment."
+choicetxt       @Choice_04c4, "Okay. We'll leave."
+choicetxt       @Choice_247c, "Wait a minute."
 choicewait      
 
 @Choice_04c4:
@@ -133,9 +134,8 @@ code047d        1, 135
 code0479        0, 2, 17
 call            @Func_351a
 call            @Func_344a
-dialogtxt       "Wait!"
-dialogtxt       "Is there anything"
-dialogtxt       "I can do to help?"
+dialogtxt       "Wait! Is there anything I can"
+dialogtxt       "do to help?"
 code047b        
 code0309        
 call            @Func_3586
@@ -173,8 +173,9 @@ code0309
 call            @Func_34ec
 code0479        0, 2, 16
 call            @Func_344a
-dialogtxt       "It might be my fault"
-dialogtxt       "Magdrad became violent…"
+dialogtxt       "It might be my fault Magdrad"
+dialogtxt       "became violent…"
+code0309        
 dialogtxt       "I can't just run away…"
 code0309        
 call            @Func_3570
@@ -242,9 +243,8 @@ code0309
 call            @Func_34ec
 code0479        0, 2, 16
 call            @Func_344a
-dialogtxt       "Ah…"
-dialogtxt       "Okay…"
-dialogtxt       "I understand."
+dialogtxt       "Ah… Okay…"
+dialogtxt       "Got it."
 code0309        
 call            @Func_355a
 call            @Func_3480
@@ -255,8 +255,7 @@ code0479        0, 0, 13
 code047d        0, 107
 call            @Func_3504
 call            @Func_344a
-dialogtxt       "[NAME 1]…"
-dialogtxt       "Thank you."
+dialogtxt       "[NAME 1]… Thank you."
 code047b        
 code0309        
 call            @Func_3480
@@ -277,8 +276,7 @@ code0479        1, 2, 15
 code047d        1, 136
 call            @Func_3530
 call            @Func_3498
-dialogtxt       "You brats!"
-dialogtxt       "This isn't a game!"
+dialogtxt       "You brats! This isn't a game!"
 code047b        
 code0309        
 call            @Func_34ec
@@ -294,19 +292,17 @@ dialogtxt       "We have to do what we can."
 code0309        
 code043c        0, 4
 code0479        0, 2, 12
-dialogtxt       "…Isn't that right?"
-dialogtxt       "[NAME 1]."
+dialogtxt       "…Isn't that right, [NAME 1]?"
 goto            @Label_0d1c
 
 @Cond_0c86:
 dialogtxt       "We know that but…"
-dialogtxt       "We're Craftknights."
-dialogtxt       "We have to do what we can."
+dialogtxt       "We're Craftknights. We have to do"
+dialogtxt       "what we can."
 code0309        
 code043c        0, 4
 code0479        0, 2, 12
-dialogtxt       "…Isn't that right?"
-dialogtxt       "[NAME 1]."
+dialogtxt       "…Isn't that right, [NAME 1]?"
 goto            @Label_0d1c
 
 @Label_0d1c:
@@ -349,8 +345,7 @@ code0479        1, 0, 12
 code047d        1, 135
 call            @Func_3530
 call            @Func_3498
-dialogtxt       "[NAME 1]…"
-dialogtxt       "Thank you."
+dialogtxt       "Thank you [NAME 1]."
 code047b        
 code0309        
 code0479        1, 2, 14
@@ -362,7 +357,7 @@ call            @Func_34ec
 code043c        4, 3
 code0479        0, 0, 12
 call            @Func_344a
-dialogtxt       "I Understand."
+dialogtxt       "Roger."
 goto            @Cond_0f62
 
 @Cond_0f62:
@@ -372,7 +367,7 @@ code0309
 code043c        1, 1
 code0479        1, 2, 12
 dialogtxt       "Understood."
-dialogtxt       "I shall pitch in!"
+dialogtxt       "I shall take part in this as well!"
 code0309        
 call            @Func_355a
 call            @Func_34ec
@@ -400,15 +395,13 @@ call            @Func_3480
 code043c        1, 2
 code0479        1, 3, 14
 call            @Func_34b6
-dialogtxt       "What's this…"
+dialogtxt       "What's this?"
 dialogtxt       "Is there a problem?"
 code0309        
 call            @Func_34ec
 code0479        0, 5, 14
 call            @Func_344a
-dialogtxt       "Ah…"
-dialogtxt       "No…"
-dialogtxt       "Sorry."
+dialogtxt       "Ah… No… Sorry."
 code0309        
 call            @Func_355a
 call            @Func_3480
@@ -419,8 +412,7 @@ code0479        0, 0, 13
 code047d        0, 107
 call            @Func_3504
 call            @Func_344a
-dialogtxt       "[NAME 1]…"
-dialogtxt       "Thank you."
+dialogtxt       "Thank you, [NAME 1]."
 code047b        
 code0309        
 call            @Func_3480
@@ -441,8 +433,7 @@ code0479        1, 2, 15
 code047d        1, 136
 call            @Func_3530
 call            @Func_3498
-dialogtxt       "You brats!"
-dialogtxt       "This isn't a game!"
+dialogtxt       "You brats! This isn't a game!"
 code047b        
 code0309        
 call            @Func_34ec
@@ -458,19 +449,17 @@ dialogtxt       "We have to do what we can."
 code0309        
 code043c        0, 4
 code0479        0, 2, 12
-dialogtxt       "…Isn't that right?"
-dialogtxt       "[NAME 1]."
+dialogtxt       "…Isn't that right, [NAME 1]?"
 goto            @Label_13fa
 
 @Cond_1364:
 dialogtxt       "We know that but…"
-dialogtxt       "We're Craftknights."
-dialogtxt       "We have to do what we can."
+dialogtxt       "We're Craftknights. We have to do"
+dialogtxt       "what we can."
 code0309        
 code043c        0, 4
 code0479        0, 2, 12
-dialogtxt       "…Isn't that right?"
-dialogtxt       "[NAME 1]."
+dialogtxt       "…Isn't that right, [NAME 1]?"
 goto            @Label_13fa
 
 @Label_13fa:
@@ -514,8 +503,7 @@ code0479        1, 0, 12
 code047d        1, 135
 call            @Func_3530
 call            @Func_3498
-dialogtxt       "[NAME 1]…"
-dialogtxt       "Thank you."
+dialogtxt       "Thank you, [NAME 1]."
 code047b        
 code0309        
 code0479        1, 2, 14
@@ -527,7 +515,7 @@ call            @Func_34ec
 code043c        4, 3
 code0479        0, 2, 12
 call            @Func_344a
-dialogtxt       "Acknowledged!"
+dialogtxt       "Absolutely!"
 goto            @Cond_164e
 
 @Cond_164e:
@@ -554,7 +542,7 @@ dialogtxt       "How could you say that!?"
 goto            @Label_177a
 
 @Cond_174c:
-dialogtxt       "Wait, [NAME 1]!?"
+dialogtxt       "[NAME 1]!?"
 dialogtxt       "How could you say that!?"
 goto            @Label_177a
 
@@ -570,9 +558,8 @@ code0309
 call            @Func_34ec
 code0479        0, 5, 14
 call            @Func_344a
-dialogtxt       "Ah…"
-dialogtxt       "Okay…"
-dialogtxt       "I understand."
+dialogtxt       "Ah… Okay…"
+dialogtxt       "Got it."
 code0309        
 call            @Func_355a
 call            @Func_3480
@@ -583,8 +570,7 @@ code0479        0, 0, 13
 code047d        0, 107
 call            @Func_3504
 call            @Func_344a
-dialogtxt       "[NAME 1]…"
-dialogtxt       "Thank you."
+dialogtxt       "Thank you, [NAME 1]."
 code047b        
 code0309        
 call            @Func_3480
@@ -623,19 +609,17 @@ dialogtxt       "We have to do what we can."
 code0309        
 code043c        0, 4
 code0479        0, 2, 12
-dialogtxt       "…Isn't that right?"
-dialogtxt       "[NAME 1]."
+dialogtxt       "…Isn't that right, [NAME 1]?"
 goto            @Label_1af4
 
 @Cond_1a5e:
 dialogtxt       "We know that but…"
-dialogtxt       "We're Craftknights."
-dialogtxt       "We have to do what we can."
+dialogtxt       "We're Craftknights. We have to do"
+dialogtxt       "what we can."
 code0309        
 code043c        0, 4
 code0479        0, 2, 12
-dialogtxt       "…Isn't that right?"
-dialogtxt       "[NAME 1]."
+dialogtxt       "…Isn't that right, [NAME 1]?"
 goto            @Label_1af4
 
 @Label_1af4:
@@ -649,7 +633,7 @@ code0479        1, 0, 12
 code047d        1, 2
 call            @Func_351a
 call            @Func_34b6
-dialogtxt       "Tch…"
+dialogtxt       "Tsk…"
 dialogtxt       "Like I care."
 code047b        
 code0309        
@@ -698,11 +682,11 @@ code047d        0, 0
 call            @Func_3504
 call            @Func_344a
 jumpz           @Cond_1d7c, ($b002 == 0)
-dialogtxt       "Okay!"
+dialogtxt       "You got it!"
 goto            @Label_1d90
 
 @Cond_1d7c:
-dialogtxt       "Okay!"
+dialogtxt       "Sure thing!"
 goto            @Label_1d90
 
 @Label_1d90:
@@ -748,8 +732,7 @@ code0309
 call            @Func_34ec
 code0479        0, 5, 14
 call            @Func_344a
-dialogtxt       "Ah…"
-dialogtxt       "No…"
+dialogtxt       "Ah… No…"
 dialogtxt       "Sorry."
 code0309        
 call            @Func_355a
@@ -806,8 +789,8 @@ goto            @Label_220c
 
 @Cond_2176:
 dialogtxt       "We know that but…"
-dialogtxt       "We're Craftknights."
-dialogtxt       "We have to do what we can."
+dialogtxt       "We're Craftknights. We have to do"
+dialogtxt       "what we can."
 code0309        
 code043c        0, 4
 code0479        0, 2, 12
@@ -1327,4 +1310,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-

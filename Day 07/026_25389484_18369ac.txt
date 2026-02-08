@@ -11,8 +11,8 @@ code0479        0, 2, 17
 code047d        0, 0
 call            @Func_1068
 call            @Func_0f90
-dialogtxt       "Excuse me~! Mr. Guard!"
-dialogtxt       "Mr. Guard~!!!"
+dialogtxt       "Excuse me! Guard!"
+dialogtxt       "Guard!!!"
 code047b        
 code0309        
 call            @Func_10be
@@ -32,7 +32,7 @@ code0479        0, 2, 14
 call            @Func_1068
 call            @Func_0f90
 jumpz           @Cond_01c2, ($b002 == 0)
-dialogtxt       "Seriously, are they not here?"
+dialogtxt       "Seriously, is he not here?"
 dialogtxt       "Where'd he go!?"
 goto            @Label_0200
 
@@ -50,8 +50,7 @@ code047b
 code047d        1, 134
 code0301        8, 7
 code047e        1, 1
-dialogtxt       "Oh, those guys?"
-dialogtxt       "They ran away."
+dialogtxt       "Oh, those guys? They ran away."
 code0309        
 code047e        1, 0
 code0302        7
@@ -137,8 +136,8 @@ goto            @Cond_05c8
 
 @Cond_05c8:
 jumpz           @Cond_05f6, ($b003 == 2)
-dialogtxt       "I see…"
 dialogtxt       "They ran away."
+dialogtxt       "Cowards…"
 goto            @Cond_05f6
 
 @Cond_05f6:
@@ -164,19 +163,17 @@ code0479        0, 2, 15
 call            @Func_1068
 call            @Func_0fae
 jumpz           @Cond_074c, ($b002 == 0)
-dialogtxt       "I didn't do anything!"
+dialogtxt       "We didn't do anything!"
 dialogtxt       "It just went berserk!"
 code047b        
 code0309        
 code0479        0, 2, 14
-dialogtxt       "So I was told"
-dialogtxt       "to come get you…"
+dialogtxt       "So I was told to come get you…"
 goto            @Label_07d2
 
 @Cond_074c:
-dialogtxt       "I didn't do anything!"
-dialogtxt       "It just went berserk and"
-dialogtxt       "stopped listening to me!"
+dialogtxt       "W didn't do anything!"
+dialogtxt       "It just went berserk!"
 code047b        
 code0309        
 code0479        0, 2, 14
@@ -227,11 +224,11 @@ code0479        0, 2, 14
 call            @Func_1068
 call            @Func_0fae
 jumpz           @Cond_099a, ($b002 == 0)
-dialogtxt       "Okay!"
+dialogtxt       "Oh…! Okay!"
 goto            @Label_09b2
 
 @Cond_099a:
-dialogtxt       "Okay!"
+dialogtxt       "Oh…! Okay!"
 goto            @Label_09b2
 
 @Label_09b2:
@@ -460,4 +457,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-
