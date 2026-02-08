@@ -31,7 +31,7 @@ call            @Func_1d00
 call            @Func_1d00
 call            @Func_1c28
 dialogtxt       "I'm sorry!"
-dialogtxt       "It's gonna break!"
+dialogtxt       "I'm gonna break it!"
 code0309        
 call            @Func_1d56
 call            @Func_1c64
@@ -246,7 +246,7 @@ goto            @Cond_08ec
 
 @Cond_08ec:
 jumpz           @Cond_0912, ($b003 == 2)
-dialogtxt       "Just do it!"
+dialogtxt       "Hurry up!"
 goto            @Cond_0912
 
 @Cond_0912:
@@ -289,13 +289,13 @@ call            @Func_1c94
 jumpz           @Cond_0a6e, ($b002 == 0)
 dialogtxt       "Okay, here we go…"
 dialogtxt       "Hm?"
-dialogtxt       "Is it this…?"
+dialogtxt       "Is this it?"
 goto            @Label_0aa6
 
 @Cond_0a6e:
 dialogtxt       "Okay, here we go…"
 dialogtxt       "Hm?"
-dialogtxt       "Is it this…?"
+dialogtxt       "Is this it?"
 goto            @Label_0aa6
 
 @Label_0aa6:
@@ -849,4 +849,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-
