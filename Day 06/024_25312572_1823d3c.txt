@@ -107,7 +107,8 @@ goto            @Cond_0444
 
 @Cond_0444:
 jumpz           @Cond_059a, ($b003 == 1)
-dialogtxt       "Without permission…?"
+dialogtxt       "You're gonna borrow it "
+dialogtxt       "without his permission?"
 code0309        
 call            @Func_0ede
 code0479        0, 0, 14
@@ -130,13 +131,13 @@ call            @Func_0e72
 code0479        1, 2, 14
 call            @Func_0ea8
 dialogtxt       "That is true, however…"
-dialogtxt       "You should not think that way."
+dialogtxt       "You shouldn't think that way."
 goto            @Cond_059a
 
 @Cond_059a:
 jumpz           @Cond_06c6, ($b003 == 2)
 dialogtxt       "Hmph."
-dialogtxt       "So you're going to steal from him."
+dialogtxt       "So you're stealing from him?"
 code0309        
 call            @Func_0ede
 code0479        0, 1, 17
@@ -412,4 +413,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-
