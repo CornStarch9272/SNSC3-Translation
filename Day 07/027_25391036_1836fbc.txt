@@ -87,22 +87,22 @@ call            @Func_1804
 call            @Func_174a
 jumpz           @Cond_05da, ($b003 == 0)
 dialogtxt       "Warning."
-dialogtxt       "If You Decide To Flee,"
-dialogtxt       "I Will Attack You."
+dialogtxt       "Any Attempt To Flee Will Be"
+dialogtxt       "Recognized As A Hostile Action."
 code047b        
 code0309        
 call            @Func_1780
 code0479        1, 2, 16
 call            @Func_17b6
-dialogtxt       "As if I would do that when"
-dialogtxt       "Magdrad's in danger!"
+dialogtxt       "I wouldn't do that when Magdrad's"
+dialogtxt       "in danger!"
 dialogtxt       "Do you doubt me?"
 code0309        
 call            @Func_17ec
 code0479        0, 0, 12
 call            @Func_174a
-dialogtxt       "Based On You Conduct Until Now,"
-dialogtxt       "Doubting You Is Rational."
+dialogtxt       "Based On Your Conduct Until Now,"
+dialogtxt       "It Would Be Rational To Doubt You."
 code0309        
 call            @Func_1780
 code0479        1, 2, 13
@@ -121,22 +121,22 @@ goto            @Cond_05da
 @Cond_05da:
 jumpz           @Cond_07a8, ($b003 == 1)
 dialogtxt       "Do not even think of escaping."
-dialogtxt       "You will only meet with pain."
+dialogtxt       "It won't end well for you."
 code047b        
 code0309        
 call            @Func_1780
 code0479        1, 2, 16
 call            @Func_17b6
-dialogtxt       "As if I would do that when"
-dialogtxt       "Magdrad's in danger!"
+dialogtxt       "I wouldn't do that when Magdrad's"
+dialogtxt       "in danger!"
 dialogtxt       "Do you doubt me?"
 code0309        
 call            @Func_17ec
 code0479        0, 2, 12
 call            @Func_174a
-dialogtxt       "Of course."
-dialogtxt       "Trusting you after all"
-dialogtxt       "this would be foolish."
+dialogtxt       "Of course I do!"
+dialogtxt       "Trusting you after all that has"
+dialogtxt       "happened would be foolish."
 code0309        
 call            @Func_1780
 code0479        1, 2, 13
@@ -149,20 +149,19 @@ call            @Func_17ec
 code0479        0, 3, 14
 call            @Func_174a
 dialogtxt       "Owner!?"
-dialogtxt       "What!"
 goto            @Cond_07a8
 
 @Cond_07a8:
 jumpz           @Cond_0972, ($b003 == 2)
-dialogtxt       "You say that but,"
-dialogtxt       "aren't you planning on escaping?"
+dialogtxt       "You say that but, aren't you"
+dialogtxt       "planning on running?"
 code047b        
 code0309        
 call            @Func_1780
 code0479        1, 2, 16
 call            @Func_17b6
-dialogtxt       "As if I would do that when"
-dialogtxt       "Magdrad's in danger!"
+dialogtxt       "I wouldn't do that when Magdrad's"
+dialogtxt       "in danger!"
 dialogtxt       "Do you doubt me?"
 code0309        
 call            @Func_17ec
@@ -182,13 +181,13 @@ call            @Func_17ec
 code0479        0, 3, 14
 call            @Func_174a
 dialogtxt       "Owner!?"
-dialogtxt       "You, ridiculing me!"
+dialogtxt       "What nonsense!"
 goto            @Cond_0972
 
 @Cond_0972:
 jumpz           @Cond_0b26, ($b003 == 3)
 dialogtxt       "If you try to escape,"
-dialogtxt       "I will not hold back."
+dialogtxt       "I'll grant you no mercy."
 code047b        
 code0309        
 call            @Func_1780
@@ -202,8 +201,8 @@ call            @Func_17ec
 code0479        0, 2, 16
 call            @Func_174a
 dialogtxt       "Of course!"
-dialogtxt       "Have you forgotten"
-dialogtxt       "everything you've done!?"
+dialogtxt       "Have you forgotten everything"
+dialogtxt       "you've done!?"
 code0309        
 call            @Func_1780
 code0479        1, 2, 13
@@ -216,7 +215,7 @@ call            @Func_17ec
 code0479        0, 2, 15
 call            @Func_174a
 dialogtxt       "Owner!?"
-dialogtxt       "You— !"
+dialogtxt       "You-!"
 goto            @Cond_0b26
 
 @Cond_0b26:
@@ -319,7 +318,7 @@ code0479        1, 3, 15
 call            @Func_1830
 call            @Func_1798
 dialogtxt       "Don't touch me!"
-dialogtxt       "As if I'd let his apprentice— !"
+dialogtxt       "As if I'd let his apprentice-!"
 code0309        
 call            @Func_17ec
 code0479        0, 2, 16
@@ -574,4 +573,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-

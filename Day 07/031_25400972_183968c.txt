@@ -7,8 +7,7 @@ code0479        1, 0, 12
 code047d        1, 135
 call            @Func_078e
 call            @Func_06f6
-dialogtxt       "Are you ready to"
-dialogtxt       "leave the village?"
+dialogtxt       "Are you ready to leave?"
 code047b        
 code0309        
 call            @Func_074a
@@ -234,4 +233,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-

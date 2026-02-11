@@ -18,7 +18,7 @@ code047d        1, 0
 call            @Func_1640
 call            @Func_15be
 jumpz           @Cond_0130, ($b002 == 0)
-dialogtxt       "Damn it…"
+dialogtxt       "Dang it…"
 dialogtxt       "We let our guard down…"
 goto            @Label_0152
 
@@ -47,8 +47,7 @@ code0479        0, 0, 13
 code047d        0, 136
 call            @Func_162a
 call            @Func_1570
-dialogtxt       "That's right."
-dialogtxt       "You've done well."
+dialogtxt       "That's right. You've done well."
 dialogtxt       "Truly good work!"
 code047b        
 code0309        
@@ -68,17 +67,18 @@ code0479        0, 0, 12
 code047d        0, 135
 call            @Func_1656
 call            @Func_1552
-dialogtxt       "That reminds me,"
-dialogtxt       "did you learn anything"
-dialogtxt       "about the Crystal Pillar?"
+dialogtxt       "That reminds me, did you learn"
+dialogtxt       "anything about the Crystal Pillar?"
 code047b        
 code0309        
 call            @Func_15a6
 code0479        1, 0, 16
 call            @Func_15dc
 dialogtxt       "Yes, it's just like the one in"
-dialogtxt       "my village… Its mysterious"
-dialogtxt       "power, and influence over Summons…"
+dialogtxt       "my village."
+code0309        
+dialogtxt       "Its mysterious power, and influence"
+dialogtxt       "over Summons…"
 code0309        
 code0479        0, 0, 14
 code0479        1, 2, 14
@@ -88,8 +88,8 @@ dialogtxt       "its effect on Summon Beasts."
 code0309        
 code0479        1, 2, 16
 dialogtxt       "That power is the same as"
-dialogtxt       "what [NAME 1] sensed when we ran"
-dialogtxt       "from our village…"
+dialogtxt       "what [NAME 1] sensed when"
+dialogtxt       "we ran from our village…"
 code0309        
 code0479        1, 4, 14
 dialogtxt       "Maybe we really shouldn't have"
@@ -156,12 +156,14 @@ call            @Func_1640
 call            @Func_15be
 jumpz           @Cond_06da, ($b002 == 0)
 dialogtxt       "You didn't have a choice, right?"
-dialogtxt       "Anise wants it, after all…"
+dialogtxt       "Anise would've stolen it unless"
+dialogtxt       "you did something."
 goto            @Label_071a
 
 @Cond_06da:
 dialogtxt       "You didn't have a choice."
-dialogtxt       "Anise wants it, after all…"
+dialogtxt       "Anise would've stolen it unless"
+dialogtxt       "you did something."
 goto            @Label_071a
 
 @Label_071a:
@@ -181,8 +183,8 @@ code047b
 code0309        
 code0479        0, 4, 16
 dialogtxt       "My father told me to protect it…"
-dialogtxt       "That I musn't let anyone"
-dialogtxt       "else have it…"
+dialogtxt       "That I musn't let anyone else"
+dialogtxt       "have it…"
 code0309        
 call            @Func_1680
 call            @Func_15a6
@@ -204,24 +206,24 @@ code0479        1, 2, 14
 code0479        0, 2, 16
 dialogtxt       "That is why stories of the Demon"
 dialogtxt       "Stone are told here. But all we know"
-dialogtxt       "is it possesses great power…"
+dialogtxt       "is that it possesses great power…"
 code0309        
 code0479        0, 2, 14
-dialogtxt       "So I think this is"
-dialogtxt       "all Anise knows as well…"
+dialogtxt       "So I think this is all Anise"
+dialogtxt       "knows as well…"
 code0309        
 call            @Func_15a6
 code0479        1, 2, 16
 call            @Func_15dc
 dialogtxt       "Erm…"
 jumpz           @Cond_0a64, ($b002 == 0)
-dialogtxt       "So if we put it back,"
-dialogtxt       "will everything return to normal?"
+dialogtxt       "So if we put it back, will everything"
+dialogtxt       "return to normal?"
 goto            @Label_0a9e
 
 @Cond_0a64:
-dialogtxt       "So if we put it back,"
-dialogtxt       "will everything return to normal?"
+dialogtxt       "So if we put it back, will everything"
+dialogtxt       "return to normal?"
 goto            @Label_0a9e
 
 @Label_0a9e:
@@ -236,8 +238,8 @@ code047d        0, 107
 call            @Func_162a
 code043c        0, 1
 call            @Func_1570
-dialogtxt       "That, I don't know, but…"
-dialogtxt       "Right now what I can do is…"
+dialogtxt       "I don't know, but right now that's"
+dialogtxt       "all we can do."
 code047b        
 code0309        
 call            @Func_1680
@@ -252,8 +254,8 @@ code043c        0, 2
 code043c        1, 2
 code043c        2, 2
 call            @Func_1570
-dialogtxt       "That's right…"
-dialogtxt       "We have to aim for Mishus Village."
+dialogtxt       "That's right."
+dialogtxt       "We must head for Mishus Village."
 dialogtxt       "You should get ready to go."
 code047b        
 code0309        
@@ -271,12 +273,12 @@ code0479        1, 5, 16
 call            @Func_1656
 call            @Func_15be
 jumpz           @Cond_0cc6, ($b002 == 0)
-dialogtxt       "Eh?"
+dialogtxt       "Wait?"
 dialogtxt       "We can leave?"
 goto            @Label_0ce6
 
 @Cond_0cc6:
-dialogtxt       "Eh?"
+dialogtxt       "Wait?"
 dialogtxt       "We can leave?"
 goto            @Label_0ce6
 
@@ -289,8 +291,8 @@ call            @Func_1612
 code0479        0, 1, 12
 call            @Func_1570
 dialogtxt       "You saved our village."
-dialogtxt       "You've proven yourself"
-dialogtxt       "to be trustworthy."
+dialogtxt       "You've proven yourself to be"
+dialogtxt       "trustworthy."
 code0309        
 call            @Func_15a6
 code0479        1, 1, 12
@@ -300,13 +302,13 @@ code0309
 call            @Func_1612
 code0479        0, 0, 13
 call            @Func_1570
-dialogtxt       "Us as well."
-dialogtxt       "Truly, thank you."
+dialogtxt       "No, we should be the ones"
+dialogtxt       "thanking you."
 code0309        
 code0479        0, 0, 12
 dialogtxt       "The exit is just ahead of here."
-dialogtxt       "Please let me know when you're"
-dialogtxt       "ready to leave."
+dialogtxt       "Let me know when you're ready"
+dialogtxt       "to leave."
 code0309        
 call            @Func_16ac
 call            @Func_158e
@@ -551,4 +553,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-

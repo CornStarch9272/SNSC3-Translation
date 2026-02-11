@@ -76,7 +76,7 @@ code0479        0, 0, 12
 code0479        1, 0, 12
 call            @Func_147e
 call            @Func_13e6
-dialogtxt       "See you later."
+dialogtxt       "Farewell."
 dialogtxt       "You're welcome to come back."
 code047b        
 code0309        
@@ -85,12 +85,12 @@ code0479        0, 0, 13
 call            @Func_1398
 jumpz           @Cond_03ea, ($b002 == 0)
 dialogtxt       "Sure!"
-dialogtxt       "Stay healthy!"
+dialogtxt       "See you later!"
 goto            @Label_040a
 
 @Cond_03ea:
 dialogtxt       "Sure!"
-dialogtxt       "Stay healthy!"
+dialogtxt       "See you later!"
 goto            @Label_040a
 
 @Label_040a:
@@ -109,13 +109,11 @@ code047d        1, 0
 call            @Func_147e
 call            @Func_13e6
 jumpz           @Cond_04c8, ($b002 == 0)
-dialogtxt       "You too, old man…"
-dialogtxt       "Farewell!"
+dialogtxt       "You too, old man!"
 goto            @Label_04ea
 
 @Cond_04c8:
-dialogtxt       "You too, mister…"
-dialogtxt       "Farewell!"
+dialogtxt       "You too, mister!"
 goto            @Label_04ea
 
 @Label_04ea:
@@ -124,7 +122,7 @@ code0309
 call            @Func_143a
 code0479        0, 1, 13
 call            @Func_1398
-dialogtxt       "Right…"
+dialogtxt       "Yes…"
 code0309        
 call            @Func_14be
 call            @Func_13ce
@@ -140,7 +138,7 @@ code0309
 call            @Func_143a
 code0479        0, 0, 13
 call            @Func_1398
-dialogtxt       "Right…"
+dialogtxt       "Yes…"
 code0309        
 call            @Func_14be
 call            @Func_13ce
@@ -195,7 +193,7 @@ code0309
 call            @Func_143a
 code0479        0, 4, 13
 call            @Func_1398
-dialogtxt       "Right…"
+dialogtxt       "Yes…"
 code0309        
 call            @Func_14be
 call            @Func_13ce
@@ -232,7 +230,7 @@ code0309
 call            @Func_143a
 code0479        0, 11, 17
 call            @Func_1398
-dialogtxt       "Wha!?"
+dialogtxt       "Wha-!?"
 code047b        
 code0309        
 call            @Func_14d4
@@ -249,12 +247,12 @@ call            @Func_1468
 call            @Func_13e6
 jumpz           @Cond_0968, ($b002 == 0)
 dialogtxt       "Wait…"
-dialogtxt       "are you… crying?"
+dialogtxt       "Are you… crying?"
 goto            @Label_0994
 
 @Cond_0968:
 dialogtxt       "Wait…"
-dialogtxt       "are you… crying?"
+dialogtxt       "Are you… crying?"
 goto            @Label_0994
 
 @Label_0994:
@@ -330,7 +328,7 @@ call            @Func_13ce
 code043c        3, 2
 code0479        1, 0, 16
 call            @Func_1404
-dialogtxt       "Ser Gallahan…"
+dialogtxt       "Sir Gallahan…"
 dialogtxt       "If I may, you must be"
 jumpz           @Cond_0d1e, ($b002 == 0)
 dialogtxt       "worried for the boy…"
@@ -572,4 +570,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-

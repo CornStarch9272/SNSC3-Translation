@@ -93,7 +93,7 @@ code0331        38, 256
 code0479        0, 5, 17
 call            @Func_13e0
 call            @Func_1308
-dialogtxt       "Eh!?"
+dialogtxt       "What!?"
 dialogtxt       "It disappeared!?"
 code047b        
 code0309        
@@ -151,7 +151,7 @@ code043c        0, 1
 code0479        0, 2, 16
 call            @Func_1326
 dialogtxt       "Dismissed…"
-dialogtxt       "…How could it…?"
+dialogtxt       "But how?"
 code0309        
 call            @Func_1462
 call            @Func_1344
@@ -176,9 +176,8 @@ code0479        1, 2, 14
 code047d        1, 135
 call            @Func_13f6
 call            @Func_1392
-dialogtxt       "Looks like she took"
-dialogtxt       "back her Summonite"
-dialogtxt       "during the commotion…"
+dialogtxt       "And it looks like she took back her"
+dialogtxt       "Summonite during the commotion."
 code047b        
 code0309        
 call            @Func_13c8
@@ -228,7 +227,7 @@ call            @Func_1392
 jumpz           @Cond_0a4c, ($b003 == 0)
 dialogtxt       "Now That She Has Escaped,"
 dialogtxt       "It Is Likely She Will Return"
-dialogtxt       "With For The Demon Stone…"
+dialogtxt       "For The Demon Stone…"
 goto            @Cond_0a4c
 
 @Cond_0a4c:
@@ -281,8 +280,7 @@ dialogtxt       "happen if those people come"
 dialogtxt       "to the village again…"
 code0309        
 code0479        1, 4, 16
-dialogtxt       "Anise appears to"
-dialogtxt       "hate this village,"
+dialogtxt       "Anise appears to hate this village,"
 dialogtxt       "but deep down I'm sure…"
 code0309        
 call            @Func_13c8
@@ -514,4 +512,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-

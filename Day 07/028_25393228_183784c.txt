@@ -22,7 +22,7 @@ code0479        0, 2, 15
 code047d        0, 0
 call            @Func_3034
 call            @Func_2f5c
-dialogtxt       "Done and dusted!"
+dialogtxt       "We're back!"
 jumpz           @Cond_01be, ($b002 == 0)
 dialogtxt       "We brought back Anise!"
 goto            @Label_01dc
@@ -41,7 +41,7 @@ code047d        1, 135
 call            @Func_304a
 call            @Func_2fe6
 dialogtxt       "Thanks."
-dialogtxt       "Well then, shall we…"
+dialogtxt       "Well then, shall we-"
 code047b        
 code0309        
 call            @Func_30b6
@@ -109,19 +109,19 @@ goto            @Cond_043c
 @Cond_043c:
 jumpz           @Cond_0466, ($b003 == 1)
 dialogtxt       "Look!"
-dialogtxt       "Above you!"
+dialogtxt       "Up there!"
 goto            @Cond_0466
 
 @Cond_0466:
 jumpz           @Cond_048c, ($b003 == 2)
 dialogtxt       "Tsk!"
-dialogtxt       "Above you!"
+dialogtxt       "From above…!"
 goto            @Cond_048c
 
 @Cond_048c:
 jumpz           @Cond_04ba, ($b003 == 3)
 dialogtxt       "Eeek!"
-dialogtxt       "Above you!"
+dialogtxt       "Look up there!"
 goto            @Cond_04ba
 
 @Cond_04ba:
@@ -204,7 +204,7 @@ code0479        0, 2, 14
 code047d        0, 135
 call            @Func_3034
 call            @Func_2f5c
-dialogtxt       "Magdrad!"
+dialogtxt       "Magdrad!?"
 dialogtxt       "Anise!"
 code047b        
 code0309        
@@ -365,8 +365,7 @@ code033e        221
 code043e        4, 0, 0
 call            @Func_3034
 call            @Func_2f5c
-dialogtxt       "No!"
-dialogtxt       "Stop!"
+dialogtxt       "No, stop!"
 dialogtxt       "Magdrad!"
 code047b        
 code0309        
@@ -546,7 +545,7 @@ code0479        1, 5, 15
 code047d        1, 0
 call            @Func_304a
 call            @Func_2fc8
-dialogtxt       "H-hey, you okay!?"
+dialogtxt       "H-Hey, you okay!?"
 code047b        
 code0309        
 call            @Func_301c
@@ -555,9 +554,8 @@ code0479        0, 4, 16
 code047d        0, 135
 call            @Func_3034
 call            @Func_2f7a
-dialogtxt       "Ah…"
 dialogtxt       "T-The…S-Summonite…"
-dialogtxt       "Where…"
+dialogtxt       "Where is…"
 code047b        
 code0309        
 call            @Func_2fb0
@@ -607,14 +605,14 @@ code047d        1, 2
 call            @Func_304a
 call            @Func_2fc8
 jumpz           @Cond_1df0, ($b003 == 0)
-dialogtxt       "Summonite Stone Located!"
+dialogtxt       "Summonite Located!"
 dialogtxt       "Partner!"
 goto            @Cond_1df0
 
 @Cond_1df0:
 jumpz           @Cond_1e22, ($b003 == 1)
-dialogtxt       "The Summonite Stone!"
-dialogtxt       "[NAME 2], here you go!"
+dialogtxt       "The Summonite!"
+dialogtxt       "[NAME 2], it's here!"
 goto            @Cond_1e22
 
 @Cond_1e22:
@@ -638,7 +636,7 @@ code0479        0, 2, 12
 code047d        0, 0
 call            @Func_3034
 call            @Func_2f7a
-dialogtxt       "Okay!"
+dialogtxt       "Good going, [NAME 1]!"
 code0309        
 call            @Func_30b6
 call            @Func_2f98
@@ -704,7 +702,7 @@ code047d        0, 0
 call            @Func_3034
 code0479        0, 2, 15
 call            @Func_2f5c
-dialogbig       24, 116, 1, 0, 0, "Pha—Phantom Dragon!"
+dialogbig       24, 116, 1, 0, 0, "Ph-Phantom Dragon!"
 code030c        
 call            @Func_308a
 call            @Func_2f98
@@ -822,11 +820,11 @@ call            @Func_2fb0
 code0479        1, 2, 16
 call            @Func_2fe6
 jumpz           @Cond_2828, ($b002 == 0)
-dialogtxt       "Is…that so…?"
+dialogtxt       "Is… that so…?"
 goto            @Label_283e
 
 @Cond_2828:
-dialogtxt       "Is…that so…?"
+dialogtxt       "Is… that so…?"
 goto            @Label_283e
 
 @Label_283e:
@@ -861,7 +859,7 @@ call            @Func_2fb0
 code0479        1, 2, 14
 call            @Func_2fe6
 dialogtxt       "… !"
-dialogtxt       "Okay!"
+dialogtxt       "Got it!"
 code0309        
 code0479        1, 2, 15
 dialogbig       24, 116, 1, 0, 0, "Let's do this!"
@@ -1086,4 +1084,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-
