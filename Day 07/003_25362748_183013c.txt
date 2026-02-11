@@ -60,10 +60,10 @@ code0309
 call            @Func_1ae4
 code0479        0, 4, 16
 call            @Func_1a42
-dialogtxt       "But, another match…"
-dialogtxt       "I'll go ask them to change it."
+dialogtxt       "But even so, a match is just…"
+dialogtxt       "I'll ask them to change it again."
 dialogtxt       "Maybe…"
-code0309        
+code0309		
 call            @Func_1a78
 code0479        1, 1, 12
 call            @Func_1aae
