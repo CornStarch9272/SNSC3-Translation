@@ -85,7 +85,7 @@ dialogtxt       "We really made you both worry…"
 goto            @Label_046c
 
 @Cond_0448:
-dialogtxt       "…Elize, Zakk…"
+dialogtxt       "Oh…"
 dialogtxt       "I'm so sorry!"
 dialogtxt       "We really made you both worry…"
 goto            @Label_046c
@@ -438,4 +438,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-
