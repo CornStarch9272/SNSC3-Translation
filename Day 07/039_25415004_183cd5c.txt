@@ -124,8 +124,8 @@ code043c        2, 1
 code0479        1, 0, 16
 dialogtxt       "If Bostaph was working with"
 dialogtxt       "them, it's not like he would"
-dialogtxt       "just say so."
-code0309        
+dialogtxt       "just say 'Yup, you got me'."
+code0309		
 call            @Func_13f4
 code043c        3, 4
 code043c        1, 4
@@ -142,7 +142,7 @@ code0479        0, 0, 16
 dialogtxt       "If he knows we're suspicious"
 dialogtxt       "of him he won't be able to"
 dialogtxt       "act as freely."
-code0309        
+code0309		
 call            @Func_1462
 call            @Func_1388
 code047b        
@@ -226,12 +226,12 @@ call            @Func_13be
 dialogtxt       "For today,"
 dialogtxt       "go back to Jade's place"
 dialogtxt       "and get some rest."
-code0309        
+code0309		
 call            @Func_13f4
 code0479        0, 5, 14
 call            @Func_1352
 dialogtxt       "That's all?"
-code0309        
+code0309		
 call            @Func_1478
 call            @Func_1388
 code047b        
@@ -534,4 +534,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-

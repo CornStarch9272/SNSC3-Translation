@@ -579,20 +579,20 @@ call            @Func_2a62
 code0479        1, 4, 16
 call            @Func_2a98
 dialogtxt       "Please…"
-dialogtxt       "Don't make me do this."
-code0309        
+dialogtxt       "Don't make me do that."
+code0309		
 call            @Func_2ace
 code0479        0, 5, 17
 call            @Func_2a2c
 jumpz           @Cond_1bc4, ($b002 == 0)
 dialogtxt       "Eh!?"
-dialogtxt       "[NAME 1] is begging me…"
+dialogtxt       "You're actually begging me…"
 dialogtxt       "Do you hate it that much…?"
 goto            @Label_1c08
 
 @Cond_1bc4:
 dialogtxt       "Eh!?"
-dialogtxt       "[NAME 1] is begging me…"
+dialogtxt       "You're actually begging me…"
 dialogtxt       "Do you hate it that much…?"
 goto            @Label_1c08
 
@@ -985,4 +985,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-
