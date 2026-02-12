@@ -918,7 +918,7 @@ goto            @Cond_234e
 jumpz           @Cond_23ae, ($b003 == 2)
 dialogtxt       "Tch… You're too careless…"
 dialogtxt       "Master Benson is waiting"
-dialogtxt       "for usat the workhop."
+dialogtxt       "for us at the workhop."
 goto            @Cond_23ae
 
 @Cond_23ae:
@@ -1158,4 +1158,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-
