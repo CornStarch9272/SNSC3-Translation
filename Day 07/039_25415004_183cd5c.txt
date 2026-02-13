@@ -124,7 +124,7 @@ code043c        2, 1
 code0479        1, 0, 16
 dialogtxt       "If Bostaph was working with"
 dialogtxt       "them, it's not like he would"
-dialogtxt       "just say 'Yup, you got me'."
+dialogtxt       "just say \"Yup, you got me\"."
 code0309		
 call            @Func_13f4
 code043c        3, 4

@@ -78,14 +78,13 @@ code0309
 call            @Func_0fbe
 code0479        0, 4, 12
 call            @Func_0f1c
-dialogtxt       "…Elize, Zakk…"
+dialogtxt       "…Eliez, Zakk…"
 jumpz           @Cond_0448, ($b002 == 0)
 dialogtxt       "Sorry!"
 dialogtxt       "We really made you both worry…"
 goto            @Label_046c
 
 @Cond_0448:
-dialogtxt       "Oh…"
 dialogtxt       "I'm so sorry!"
 dialogtxt       "We really made you both worry…"
 goto            @Label_046c

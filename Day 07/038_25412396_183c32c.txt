@@ -42,7 +42,7 @@ call            @Func_19d6
 code0479        1, 8, 16
 call            @Func_1a0c
 dialogtxt       "I wasn't worried or anything."
-dialogtxt       "It's just that Zakk…"
+dialogtxt       "It's just that Zakk-"
 code0309        
 call            @Func_1ab0
 call            @Func_1a42
@@ -74,8 +74,7 @@ code0479        0, 1, 12
 code047d        0, 108
 call            @Func_1a5a
 call            @Func_19a0
-dialogtxt       "Everyone…"
-dialogtxt       "Thank you…"
+dialogtxt       "Everyone, thank you."
 code047b        
 code0309        
 call            @Func_1adc
@@ -100,7 +99,7 @@ code0479        1, 2, 14
 code047d        1, 108
 call            @Func_1a70
 call            @Func_19ee
-dialogbig       96, 116, 1, 0, 0, "So,"
+dialogbig       96, 116, 1, 0, 0, "So!"
 code030c        
 call            @Func_1a42
 code0479        0, 5, 17
@@ -123,7 +122,7 @@ code0309
 call            @Func_1a42
 code0479        0, 4, 14
 call            @Func_19a0
-dialogtxt       "Hieeh~…"
+dialogtxt       "Well…"
 code0309        
 call            @Func_1adc
 call            @Func_19be
@@ -144,7 +143,7 @@ code048c
 code0479        0, 0, 12
 call            @Func_1a5a
 call            @Func_1982
-dialogtxt       "…and so we"
+dialogtxt       "… And so we"
 dialogtxt       "decided to come back here."
 code047b        
 code0309        
@@ -242,8 +241,8 @@ code0309
 code0479        0, 2, 14
 code0479        1, 2, 16
 dialogtxt       "They said they were looking for the"
-dialogtxt       "Stone in order to calm "
-dialogtxt       "the Stray Summon Beasts, right!?"
+dialogtxt       "Stone in order to calm the Stray"
+dialogtxt       "Summon Beasts, right!?"
 code0309        
 code0479        1, 2, 14
 dialogtxt       "You're saying they lied?"
@@ -348,13 +347,11 @@ code047d        0, 0
 call            @Func_1a5a
 call            @Func_19a0
 jumpz           @Cond_10dc, ($b002 == 0)
-dialogtxt       "But!"
-dialogtxt       "I'm not lying!"
+dialogtxt       "But I'm not lying!"
 goto            @Label_111e
 
 @Cond_10dc:
-dialogtxt       "But!"
-dialogtxt       "I'm not lying!"
+dialogtxt       "But I'm not lying!"
 goto            @Label_111e
 
 @Label_111e:
@@ -642,4 +639,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-

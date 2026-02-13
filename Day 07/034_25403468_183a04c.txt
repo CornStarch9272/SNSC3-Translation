@@ -54,14 +54,14 @@ call            @Func_194c
 call            @Func_1848
 jumpz           @Cond_0320, ($b002 == 0)
 dialogtxt       "Huh!"
-dialogtxt       "We finally got out here…"
-dialogtxt       "I'm still shocked about it…"
+dialogtxt       "So it leads out here."
+dialogtxt       "That's surprising."
 goto            @Label_0358
 
 @Cond_0320:
 dialogtxt       "Wah!"
-dialogtxt       "We finally got out here…"
-dialogtxt       "I'm still shocked about it…"
+dialogtxt       "So it leads out here."
+dialogtxt       "That's surprising."
 goto            @Label_0358
 
 @Label_0358:
@@ -96,13 +96,13 @@ call            @Func_1908
 code0479        0, 0, 16
 call            @Func_1866
 jumpz           @Cond_04aa, ($b002 == 0)
-dialogtxt       "Where to now…"
+dialogtxt       "The next objective…"
 dialogtxt       "Murno's village, right? Weren't we"
 dialogtxt       "going to return the Demon Stone?"
 goto            @Label_04f6
 
 @Cond_04aa:
-dialogtxt       "Where to now…"
+dialogtxt       "The next objective…"
 dialogtxt       "Murno's village, right? Weren't we"
 dialogtxt       "going to return the Demon Stone?"
 goto            @Label_04f6
@@ -119,21 +119,18 @@ goto            @Cond_057a
 
 @Cond_057a:
 jumpz           @Cond_06dc, ($b003 == 1)
-dialogtxt       "Now then,"
-dialogtxt       "where shall we go now?"
+dialogtxt       "Now then, where shall we go now?"
 code0309        
 call            @Func_1908
 code0479        0, 0, 16
 call            @Func_1866
 jumpz           @Cond_062c, ($b002 == 0)
-dialogtxt       "Where…"
-dialogtxt       "Murno's village, right?"
+dialogtxt       "Well, Murno's village, right?"
 dialogtxt       "Aren't we returning the Demon Stone?"
 goto            @Label_0678
 
 @Cond_062c:
-dialogtxt       "Where…"
-dialogtxt       "Murno's village, right?"
+dialogtxt       "Well, Murno's village, right?"
 dialogtxt       "Aren't we returning the Demon Stone?"
 goto            @Label_0678
 
@@ -142,27 +139,23 @@ code0309
 call            @Func_189c
 code0479        1, 2, 14
 call            @Func_18d2
-dialogtxt       "Before that,"
-dialogtxt       "we have to do something"
-dialogtxt       "about Anise."
+dialogtxt       "Before that, we have to do"
+dialogtxt       "something about Anise."
 goto            @Cond_06dc
 
 @Cond_06dc:
 jumpz           @Cond_0838, ($b003 == 2)
-dialogtxt       "So,"
-dialogtxt       "what are you planning to do now?"
+dialogtxt       "So, what are you planning to do now?"
 code0309        
 call            @Func_1908
 code0479        0, 0, 16
 call            @Func_1866
 jumpz           @Cond_0792, ($b002 == 0)
-dialogtxt       "What…"
 dialogtxt       "Murno's village, right?"
 dialogtxt       "Aren't we returning the Demon Stone?"
 goto            @Label_07e2
 
 @Cond_0792:
-dialogtxt       "What…"
 dialogtxt       "Murno's village, right?"
 dialogtxt       "Aren't we returning the Demon Stone?"
 goto            @Label_07e2
@@ -178,8 +171,7 @@ goto            @Cond_0838
 
 @Cond_0838:
 jumpz           @Cond_09aa, ($b003 == 3)
-dialogtxt       "So then…"
-dialogtxt       "What shall we do now?"
+dialogtxt       "So then, what shall we do now?"
 code0309        
 call            @Func_1908
 code0479        0, 0, 16
@@ -215,8 +207,7 @@ code0479        1, 0, 16
 code047d        1, 107
 call            @Func_1936
 call            @Func_18d2
-dialogtxt       "Right…"
-dialogtxt       "Anise knows where"
+dialogtxt       "Right. Anise knows where"
 dialogtxt       "Mishus Village is too…"
 code047b        
 code0309        
@@ -227,12 +218,12 @@ code0309
 call            @Func_1908
 code0479        0, 2, 14
 call            @Func_1866
-dialogtxt       "True… but Anise may still"
+dialogtxt       "True, but Anise may still"
 dialogtxt       "be in town. Master's definitely"
-dialogtxt       "going to be angry…"
+dialogtxt       "going to be angry."
 code0309        
 code0479        0, 1, 16
-dialogtxt       "I really don't want to go back…"
+dialogtxt       "I really don't want to go back."
 code0309        
 call            @Func_189c
 code0479        1, 4, 12
@@ -242,7 +233,7 @@ code0309
 call            @Func_1908
 code0479        0, 2, 14
 call            @Func_1866
-dialogtxt       "Hmm…mm…"
+dialogtxt       "Hmmmmm…"
 code0309        
 code0479        0, 2, 12
 dialogtxt       "How about this…"
@@ -281,9 +272,8 @@ code0309
 call            @Func_189c
 code0479        1, 0, 13
 call            @Func_18d2
-dialogtxt       "No,"
-dialogtxt       "I was thinking,"
-dialogtxt       "that's just like you, [NAME 2]."
+dialogtxt       "No, I was thinking, that's just"
+dialogtxt       "like you, [NAME 2]."
 code0309        
 call            @Func_198c
 call            @Func_1908
@@ -312,8 +302,7 @@ code047d        1, 2
 call            @Func_1936
 call            @Func_18d2
 jumpz           @Cond_0ed0, ($b003 == 0)
-dialogtxt       "Certainly,"
-dialogtxt       "That Is Just Like You."
+dialogtxt       "Certainly, That Is Just Like You."
 code047b        
 code0309        
 call            @Func_1908
@@ -338,8 +327,7 @@ goto            @Cond_0ed0
 
 @Cond_0ed0:
 jumpz           @Cond_0fbc, ($b003 == 1)
-dialogtxt       "Certainly,"
-dialogtxt       "that answer fits you."
+dialogtxt       "Certainly, that answer fits you."
 code047b        
 code0309        
 call            @Func_1908
@@ -364,8 +352,7 @@ goto            @Cond_0fbc
 
 @Cond_0fbc:
 jumpz           @Cond_109a, ($b003 == 2)
-dialogtxt       "Certainly,"
-dialogtxt       "that answer fits you."
+dialogtxt       "Certainly, that answer fits you."
 code047b        
 code0309        
 call            @Func_1908
@@ -411,7 +398,7 @@ code0309
 call            @Func_189c
 code0479        1, 1, 16
 call            @Func_18d2
-dialogtxt       "I'm really not, though."
+dialogtxt       "I am not."
 goto            @Cond_1188
 
 @Cond_1188:
@@ -660,4 +647,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-
