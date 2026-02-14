@@ -75,6 +75,18 @@ const ignoredFolders = [
 // #endregion
 
 // #region Maps
+const dialogTypes = [
+    'dialogtxt',
+    'dialogbig',
+    'placetxt',
+    'menutitle',
+    'menutxt',
+    'choicetitle',
+    'choicetxt',
+    'popuptxt',
+    'setname'
+]
+
 const names = {
     0:"Player",
     2:"Partner",
@@ -146,7 +158,7 @@ const BAD_TAGS = {
     "â" : "#Heart",
     "Î²" : "#PlayerName",
     "Î´" : "#PlayerNickname",
-    "Î³" : "#PartnerName",
+    "Î³" : "#PartnerName"
 }
 
 const TAG_LENGTH = {
@@ -541,7 +553,7 @@ function processText() {
                 continue;
             }
             // Stored lines have some kind of dialog
-            else if (textCode(prevLineType)) {
+            else if (textCode(prevLineType) != "NONE") {
             //if (textCode(prevLineType)) {
                 let speakerElement = document.createElement('p');
                 // Display name of active speaker(s)
@@ -648,23 +660,10 @@ function processText() {
                 
                 let dialogArea = document.createElement('textarea');
                 // Additional classes for dialogue area based on type of dialog
-                if (prevLineType == 'dialogtxt') {
-                    dialogArea.classList.add('dialogue');
-                    charCountArea.classList.add('dialogue');
-                }
-                else if (prevLineType == 'dialogbig') {
-                    dialogArea.classList.add('bigtext');
-                    charCountArea.classList.add('bigtext');
-                }
-                else if (prevLineType == 'placetxt') {
-                    dialogArea.classList.add('locationtext');
-                    charCountArea.classList.add('locationtext');
-                }
-                // Will add more later, but this for now
-                else {
-                    dialogArea.classList.add('dialogue');
-                    charCountArea.classList.add('dialogue');
-                }
+                let type = textCode(prevLineType);
+                dialogArea.classList.add(type);
+                charCountArea.classList.add(type);
+
                 parentDiv.appendChild(dialogArea);
                 parentDiv.appendChild(charCountArea);
                 // Extra classes for player gender
@@ -733,7 +732,7 @@ function getThatJP(text) {
     let lines = text.split('\n');
     for (let lineNum in lines) {
         let line = lines[lineNum];
-        if (textCode(line)) {
+        if (textCode(line) != "NONE") {
             let parts = line.split('"');
             if (parts.length > 1) {
                 line = parts[1];
@@ -778,6 +777,7 @@ function clearCode(line) {
  * @returns boolean
  */
 function textCode(line) {
+    /*
     if (
         line.startsWith('dialog') || 
         line.startsWith('place') || 
@@ -787,6 +787,12 @@ function textCode(line) {
         line.startsWith('popuptxt')
         ) return true;
     return false;
+    */
+    let lineType = "NONE";
+    dialogTypes.forEach(type => {
+        if (line.startsWith(type)) lineType = type;
+    });
+    return lineType;
 }
 
 /**
@@ -863,7 +869,7 @@ function errorCheck(textarea) {
     }
     for (let i = 0; i < dialogLines.length; i++) {
         if (i > 0 && (
-            textarea.classList.contains('locationtext') || 
+            textarea.classList.contains('placetxt') || 
             textarea.classList.contains('menut') || 
             textarea.classList.contains('choicet') || 
             textarea.classList.contains('popup'))) {
@@ -876,11 +882,11 @@ function errorCheck(textarea) {
         // Based on actual amount of characters, instead of string size in bytes
         let length = getStringSize(line);
         // Should probably add something for big text as well. I don't know the limit though.
-        if (textarea.classList.contains('dialogue') && length > TOTAL_SPACE) {
+        if (textarea.classList.contains('dialogtxt') && length > TOTAL_SPACE) {
             hasError = true;
             break;
         }
-        else if (textarea.classList.contains('bigtext') && length*2 > TOTAL_SPACE) {
+        else if (textarea.classList.contains('dialogbig') && length*2 > TOTAL_SPACE) {
             hasError = true;
             break;
         }
@@ -898,7 +904,7 @@ function errorCheck(textarea) {
         }
         else {
             dialogueCount += 1;
-            if (dialogueCount > 1 && textarea.classList.contains('bigtext')) {
+            if (dialogueCount > 1 && textarea.classList.contains('dialogbig')) {
                 hasError = true;
                 break;
             }
@@ -931,7 +937,15 @@ function resizeBoxes(textarea) {
     let charCountArea = textarea.parentElement.getElementsByClassName('charcount-textarea')[0];
     let dialogLines = textarea.value.split('\n');
     let codeLines = codeArea.value.split('\n');
-    let dialogueType = codeLines[0];
+    // PROBLEM
+    let dialogueType = "NONE";
+    textarea.classList.forEach(className => {
+        let type = textCode(className);
+        if (type != "NONE") {
+            dialogueType = type;
+            return;
+        }
+    });
     let clearType = '';
     let newCodeLines = [];
     let newCharCountLines = [];
@@ -955,7 +969,7 @@ function resizeBoxes(textarea) {
         else {
             newCodeLines.push(dialogueType);
             let length = getStringSize(line);
-            if (textarea.classList.contains('bigtext')) 
+            if (textarea.classList.contains('dialogbig')) 
                 newCharCountLines.push(TOTAL_SPACE - length*2);
             else
                 newCharCountLines.push(TOTAL_SPACE - length);
