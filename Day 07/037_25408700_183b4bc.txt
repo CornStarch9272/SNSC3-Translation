@@ -27,7 +27,7 @@ dialogtxt       "Huh!?"
 code047b        
 code0309        
 code0479        1, 11, 17
-strlen          280, "[NAME 2]ï¼ï¼"
+strlen          280, "[NAME 2]!?"
 jumpz           @Cond_01c8, ($h216 <= 2)
 goto            @Cond_01c8
 
