@@ -82,8 +82,8 @@ goto            @Label_03cc
 @Label_03cc:
 call            @Func_0aa6
 call            @Func_0a04
-choicetxt       @Choice_03f4, "Fight"
-choicetxt       @Choice_040e, "Don't fight"
+choicetxt       @Choice_03f4, "Fight."
+choicetxt       @Choice_040e, "Don't fight."
 choicewait      
 
 @Choice_03f4:

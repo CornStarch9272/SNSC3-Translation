@@ -370,30 +370,28 @@ dialogtxt       "I know quite a lot about smithing."
 dialogtxt       "Feel free to ask me anything."
 code0309        
 code047e        0, 0
-choicetxt       @Choice_10a6, "Teach me about crafting"
-choicetxt       @Choice_1208, "Teach me about disassembly"
-choicetxt       @Choice_1348, "Nothing right now"
+choicetxt       @Choice_10a6, "Teach me about crafting."
+choicetxt       @Choice_1208, "Teach me about disassembly."
+choicetxt       @Choice_1348, "Nothing right now."
 choicewait      
 
 @Choice_10a6:
 code047e        0, 1
-dialogtxt       "This is very information."
+dialogtxt       "This is very interesting."
 dialogtxt       "I'll teach you the secret"
 dialogtxt       "to making high quality weapons."
 code0309        
-dialogtxt       "Normally, your weapon rank will"
-dialogtxt       "not exceed your smithing rank,"
-dialogtxt       "and you have a low chance of"
-dialogtxt       "achieving high quality."
+dialogtxt       "Normally, your weapon rank will not"
+dialogtxt       "exceed your smithing rank,and you have"
+dialogtxt       "a low chance of achieving high quality."
 code0309        
-dialogtxt       "However, if you craft a weapon"
-dialogtxt       "with a rank lower than your smithing"
-dialogtxt       "rank, that chance increases."
+dialogtxt       "However, if you craft a weapon with"
+dialogtxt       "a rank lower than your smithing rank,"
+dialogtxt       "that chance increases."
 code0309        
-dialogtxt       "What's more, that chance will be"
-dialogtxt       "even higher for weapons matching"
+dialogtxt       "What's more, that chance will be even"
+dialogtxt       "higher for weapons matching"
 dialogtxt       "your partner's specialty."
-dialogtxt       "Understand?"
 code0309        
 goto            @Label_1372
 

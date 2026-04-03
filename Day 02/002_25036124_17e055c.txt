@@ -411,7 +411,7 @@ call            @Func_4174
 call            @Func_4070
 code047b        
 choicetxt       @Choice_10e8, "It's not weird at all!"
-choicetxt       @Choice_13a2, "........."
+choicetxt       @Choice_13a2, "..."
 choicewait      
 
 @Choice_10e8:

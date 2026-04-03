@@ -329,9 +329,9 @@ dialogtxt       "I know quite a lot about smithing."
 dialogtxt       "Feel free to ask me anything."
 code0309        
 code047e        0, 0
-choicetxt       @Choice_0e8c, "Teach me about upgrading"
-choicetxt       @Choice_0f54, "Teach me about disassembly"
-choicetxt       @Choice_106c, "Nothing right now"
+choicetxt       @Choice_0e8c, "Teach me about upgrading."
+choicetxt       @Choice_0f54, "Teach me about disassembly."
+choicetxt       @Choice_106c, "Nothing right now."
 choicewait      
 
 @Choice_0e8c:

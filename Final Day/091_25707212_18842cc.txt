@@ -496,8 +496,8 @@ goto            @Label_186a
 
 @Label_186a:
 code0309        
-choicetxt       @Choice_1898, "Go first"
-choicetxt       @Choice_1cc2, "Let [NAME 1] go"
+choicetxt       @Choice_1898, "Go first."
+choicetxt       @Choice_1cc2, "Make [NAME 1] go."
 choicewait      
 
 @Choice_1898:

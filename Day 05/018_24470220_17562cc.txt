@@ -348,7 +348,7 @@ code0309
 code047e        0, 0
 choicetxt       @Choice_0f52, "About upgrading..."
 choicetxt       @Choice_1098, "About refining..."
-choicetxt       @Choice_11a4, "Nothing"
+choicetxt       @Choice_11a4, "Nothing."
 choicewait      
 
 @Choice_0f52:

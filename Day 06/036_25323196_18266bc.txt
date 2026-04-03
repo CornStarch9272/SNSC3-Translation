@@ -198,8 +198,8 @@ call            @Func_134e
 dialogtxt       "But..."
 code0309        
 code0479        0, 4, 14
-choicetxt       @Choice_0908, "Do as they say"
-choicetxt       @Choice_0b0e, "Continue onward"
+choicetxt       @Choice_0908, "Do as they say."
+choicetxt       @Choice_0b0e, "Continue onward."
 choicewait      
 
 @Choice_0908:
