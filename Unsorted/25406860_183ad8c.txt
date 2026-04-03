@@ -27,42 +27,7 @@ dialogtxt       "Ah..."
 code047b        
 code0309        
 code0479        1, 2, 17
-strlen          280, "[NAME 2]！"
-jumpz           @Cond_01c2, ($h216 <= 1)
-goto            @Cond_01c2
-
-@Cond_01c2:
-jumpz           @Cond_01fc, ($h216 == 2)
 dialogbig       255, 116, 1, 0, 0, "[NAME 2]!"
-goto            @Cond_01fc
-
-@Cond_01fc:
-jumpz           @Cond_0236, ($h216 == 3)
-dialogbig       255, 116, 1, 0, 0, "[NAME 2]!"
-goto            @Cond_0236
-
-@Cond_0236:
-jumpz           @Cond_0270, ($h216 == 4)
-dialogbig       255, 116, 1, 0, 0, "[NAME 2]!"
-goto            @Cond_0270
-
-@Cond_0270:
-jumpz           @Cond_02aa, ($h216 == 5)
-dialogbig       255, 116, 1, 0, 0, "[NAME 2]!"
-goto            @Cond_02aa
-
-@Cond_02aa:
-jumpz           @Cond_02e4, ($h216 == 6)
-dialogbig       255, 116, 1, 0, 0, "[NAME 2]!"
-goto            @Cond_02e4
-
-@Cond_02e4:
-jumpz           @Cond_031e, ($h216 == 7)
-dialogbig       255, 116, 1, 0, 0, "[NAME 2]!"
-goto            @Cond_031e
-
-@Cond_031e:
-jumpz           @Cond_0332, ($h216 >= 8)
 goto            @Cond_0332
 
 @Cond_0332:

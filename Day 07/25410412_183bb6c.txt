@@ -59,42 +59,7 @@ code0309
 call            @Func_1608
 code0479        1, 11, 12
 call            @Func_163e
-strlen          280, "[NAME 2]だ！"
-jumpz           @Cond_0398, ($h216 <= 2)
-goto            @Cond_0398
-
-@Cond_0398:
-jumpz           @Cond_03d4, ($h216 == 3)
 dialogbig       255, 116, 1, 0, 0, "[NAME 2]!"
-goto            @Cond_03d4
-
-@Cond_03d4:
-jumpz           @Cond_0410, ($h216 == 4)
-dialogbig       255, 116, 1, 0, 0, "[NAME 2]!"
-goto            @Cond_0410
-
-@Cond_0410:
-jumpz           @Cond_044c, ($h216 == 5)
-dialogbig       255, 116, 1, 0, 0, "[NAME 2]!"
-goto            @Cond_044c
-
-@Cond_044c:
-jumpz           @Cond_0488, ($h216 == 6)
-dialogbig       255, 116, 1, 0, 0, "[NAME 2]!"
-goto            @Cond_0488
-
-@Cond_0488:
-jumpz           @Cond_04c4, ($h216 == 7)
-dialogbig       255, 116, 1, 0, 0, "[NAME 2]!"
-goto            @Cond_04c4
-
-@Cond_04c4:
-jumpz           @Cond_0500, ($h216 == 8)
-dialogbig       255, 116, 1, 0, 0, "[NAME 2]!"
-goto            @Cond_0500
-
-@Cond_0500:
-jumpz           @Cond_0514, ($h216 >= 9)
 goto            @Cond_0514
 
 @Cond_0514:
