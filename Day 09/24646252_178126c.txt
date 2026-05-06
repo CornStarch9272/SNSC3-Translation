@@ -476,8 +476,7 @@ goto            @Cond_1330
 @Cond_1330:
 jumpz           @Cond_1536, ($b003 == 3)
 call            @Func_2d00
-dialogtxt       "Let bro"
-dialogtxt       "handle the Strays!"
+dialogtxt       "Let bro handle the Strays!"
 dialogtxt       "We'll find Anise."
 code047b        
 code0309        

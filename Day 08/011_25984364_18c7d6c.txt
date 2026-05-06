@@ -339,16 +339,16 @@ code0479        0, 0, 16
 code0479        1, 4, 14
 call            @Func_2962
 dialogtxt       "Oh..."
-dialogtxt       "Did you forget your current"
-dialogtxt       "objective?"
+dialogtxt       "Did you forget to do that"
+dialogtxt       "last request?"
 code047b        
 code0309        
 code0479        1, 4, 16
 dialogtxt       "How troublesome..."
 code0309
 dialogtxt       "Alright."
-dialogtxt       "We'll act like you never accepted"
-dialogtxt       "the request."
+dialogtxt       "We'll act like I never asked"
+dialogtxt       "you to do it."
 code0309
 call            @Func_2a50
 call            @Func_299e
@@ -561,7 +561,7 @@ goto            @Label_1948
 jumpz           @Cond_1886, ($bv042 == 1)
 setvar          $h232, 171
 setvar          $h233, 20
-setname         0xC683, "Last Muppet"
+setname         0xC683, "Gothboy"
 goto            @Label_1948
 
 @Cond_1886:
@@ -575,7 +575,7 @@ goto            @Label_1948
 jumpz           @Cond_190a, ($bv042 == 3)
 setvar          $h232, 181
 setvar          $h233, 50
-setname         0xC683, "Gremlin"
+setname         0xC683, "Brownie"
 goto            @Label_1948
 
 @Cond_190a:

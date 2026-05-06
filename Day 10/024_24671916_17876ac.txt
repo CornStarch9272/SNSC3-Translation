@@ -131,7 +131,6 @@ gotomap         1245 ; map 178b5ac
 @Event_0596:
 code0301        0, 7
 code0305        1
-dialogtxt       "　"
 dialogtxt       "　　We're closed for the day!"
 dialogtxt       "　　Sorry for the inconvenience!"
 code0309        
@@ -455,7 +454,7 @@ code040b
 
 @Event_133e:
 code0301        8, 7
-dialogtxt       "Care to try our \"Lucky Draw\"?"
+dialogtxt       "Care to try our Lucky Draw?"
 dialogtxt       "It's available all day, everyday!"
 dialogtxt       "Guaranteed no losing tickets!"
 code0309        
@@ -464,7 +463,7 @@ code040b
 
 @Event_13a6:
 code0301        8, 7
-dialogtxt       "The Almighty Jade◎Support Squad"
+dialogtxt       "The Invincible Jade◎Support Squad"
 dialogtxt       "has been officially formed!"
 dialogtxt       "We're looking for members!"
 code0309        

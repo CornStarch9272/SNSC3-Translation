@@ -229,8 +229,8 @@ call            @Func_39ca
 code0479        1, 4, 12
 call            @Func_3a00
 dialogtxt       "There Is A Lack Of Data..."
-dialogtxt       "But Judging By Wellman's Condition"
-dialogtxt       "He Can't Have Gotten Far..."
+dialogtxt       "But Judging By Mr. Wellman's"
+dialogtxt       "Condition, He Can't Have Gotten Far..."
 code0309        
 call            @Func_3a36
 code0479        0, 2, 16
@@ -261,9 +261,9 @@ code0309
 call            @Func_39ca
 code0479        1, 2, 14
 call            @Func_3a00
-dialogtxt       "Perhaps it's just me, but Wellman"
-dialogtxt       "acted a bit unusual there...I"
-dialogtxt       "hope nothing bad happened to him..."
+dialogtxt       "It may be just me, but Lord Wellman"
+dialogtxt       "acted a bit unusual there..."
+dialogtxt       "I hope nothing bad happened to him..."
 code0309        
 call            @Func_3a36
 code0479        0, 2, 16
@@ -319,7 +319,7 @@ code0309
 call            @Func_39ca
 code0479        1, 4, 14
 call            @Func_3a00
-dialogtxt       "I noticed Master Wellman was acting"
+dialogtxt       "I noticed Mr. Wellman was acting"
 dialogtxt       "very strange back there..."
 dialogtxt       "I'm worried about him..."
 code0309        

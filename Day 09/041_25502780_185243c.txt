@@ -92,12 +92,12 @@ code043c        3, 1
 code0479        0, 5, 17
 call            @Func_0a68
 jumpz           @Cond_039a, ($b002 == 0)
-dialogtxt       "M—Me!?"
+dialogtxt       "M—ME!?"
 dialogtxt       "I didn't do anything!"
 goto            @Label_03ca
 
 @Cond_039a:
-dialogtxt       "M—Me!?"
+dialogtxt       "M—ME!?"
 dialogtxt       "I didn't do anything!"
 goto            @Label_03ca
 

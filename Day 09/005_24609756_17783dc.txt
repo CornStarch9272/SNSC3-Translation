@@ -494,7 +494,7 @@ code040b
 code0301        8, 7
 code047d        0, 120
 code047e        0, 1
-dialogtxt       "East of Prosban is Lute Grotto,"
+dialogtxt       "East of Prosban is Lute Cave,"
 dialogtxt       "which is connected to Spoat Grotto."
 code0309        
 dialogtxt       "Recently, it's been so dangerous"

@@ -28463,7 +28463,7 @@
                             "new address": null,
                             "pointer address": null,
                             "raw": "親方の武器\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
-                            "translation": "Master's Weapons\u0000",
+                            "translation": "Master's Weapon\u0000",
                             "type": "SJIS string"
                         },
                         "offset": 0,
@@ -28480,7 +28480,7 @@
                             "new address": null,
                             "pointer address": null,
                             "raw": "親方に修理を依頼された武器\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
-                            "translation": "Weapons asked to be repaired by Chief\u0000",
+                            "translation": "Weapon to be repaired for V.E\u0000",
                             "type": "SJIS string"
                         },
                         "offset": 44,

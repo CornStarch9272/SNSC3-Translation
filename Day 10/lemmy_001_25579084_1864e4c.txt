@@ -224,8 +224,8 @@ code0309
 call            @Func_1612
 code0479        0, 2, 16
 call            @Func_1570
-dialogtxt       "Looks like you're alone today,"
-dialogtxt       "how unusual."
+dialogtxt       "Looks like you're alone today."
+dialogtxt       "How unusual..."
 dialogtxt       "You shouldn't push yourself."
 code0309        
 call            @Func_15a6
@@ -234,13 +234,13 @@ call            @Func_15dc
 jumpz           @Cond_0cb4, ($b002 == 0)
 dialogtxt       "Shut up!"
 dialogtxt       "I've always wanted to fight you,"
-dialogtxt       "one on one!"
+dialogtxt       "one-on-one!"
 goto            @Label_0cfc
 
 @Cond_0cb4:
 dialogtxt       "Shut up!"
 dialogtxt       "I've always wanted to fight you,"
-dialogtxt       "one on one!"
+dialogtxt       "one-on-one!"
 goto            @Label_0cfc
 
 @Label_0cfc:

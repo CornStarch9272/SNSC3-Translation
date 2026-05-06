@@ -201,8 +201,9 @@ dialogtxt       "I'm so sorry about Tier."
 goto            @Label_0844
 
 @Label_0844:
-dialogtxt       "That girl just wouldn't listen"
-dialogtxt       "listen to anyone once she sets"
+code0309
+dialogtxt       "That girl just won't listen"
+dialogtxt       "to anyone once she sets"
 dialogtxt       "her mind to anything..."
 code0309        
 code047e        0, 0

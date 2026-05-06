@@ -305,7 +305,7 @@ code0309
 call            @Func_1636
 code0479        0, 5, 17
 call            @Func_1594
-dialogtxt       "Ah! Wai—!"
+dialogtxt       "Wait!"
 dialogtxt       "This is Murno's!"
 code0309        
 call            @Func_15ca

@@ -28,12 +28,12 @@ code0479        0, 2, 13
 call            @Func_1f14
 jumpz           @Cond_0186, ($b002 == 0)
 dialogtxt       "No worries."
-dialogtxt       "That was almost too easy!"
+dialogtxt       "That was almost TOO easy!"
 goto            @Label_01a4
 
 @Cond_0186:
 dialogtxt       "No worries."
-dialogtxt       "That was almost too easy!"
+dialogtxt       "That was almost TOO easy!"
 goto            @Label_01a4
 
 @Label_01a4:
@@ -133,7 +133,7 @@ call            @Func_1f4a
 code0479        1, 4, 17
 call            @Func_1f80
 dialogtxt       "Big trouble!"
-dialogtxt       "Master is..."
+dialogtxt       "Master Benson is..."
 dialogtxt       "Miss Murno is..."
 code0309        
 call            @Func_2024
@@ -216,7 +216,7 @@ code047d        0, 108
 call            @Func_1ffa
 call            @Func_1ef6
 dialogtxt       "The workshop?"
-dialogtxt       "Damn, was it a trap!?"
+dialogtxt       "Damn, was this a trap!?"
 code047b        
 code0309        
 call            @Func_2024
@@ -227,8 +227,9 @@ code0479        0, 2, 16
 code047d        0, 0
 call            @Func_1fce
 call            @Func_1f14
-dialogtxt       "But Benson was at the workshop,"
-dialogtxt       "it should have been safe!"
+dialogtxt       "But Master Benson was at the"
+dialogtxt       "workshop."
+dialogtxt       "It should have been safe!"
 code047b        
 code0309        
 call            @Func_1f4a
@@ -241,8 +242,8 @@ code0309
 call            @Func_1fb6
 code0479        0, 5, 15
 call            @Func_1f14
-dialogtxt       "Her father?"
-dialogtxt       "He's taken hostage!?"
+dialogtxt       "Her father!?"
+dialogtxt       "He's been taken hostage!?"
 code0309        
 call            @Func_203a
 call            @Func_1f4a
@@ -272,7 +273,7 @@ code0309
 call            @Func_1f4a
 code0479        1, 4, 15
 call            @Func_1f80
-dialogtxt       "I didn't know what I..."
+dialogtxt       "I— I didn't know what to do..."
 code0309        
 call            @Func_2050
 call            @Func_1f9e
@@ -290,7 +291,7 @@ call            @Func_1ffa
 call            @Func_1f62
 dialogtxt       "I see..."
 dialogtxt       "Even Murno is..."
-dialogtxt       "What do we do?"
+dialogtxt       "What should we do?"
 code047b        
 code0309        
 call            @Func_1fb6
@@ -300,13 +301,13 @@ dialogtxt       "Master..."
 code0309        
 code0479        0, 2, 14
 jumpz           @Cond_0cf2, ($b002 == 0)
-choicetxt       @Choice_0d24, "I know!"
-choicetxt       @Choice_0e52, "What do we do?"
+choicetxt       @Choice_0d24, "I know what to do!"
+choicetxt       @Choice_0e52, "What SHOULD we do?"
 goto            @Label_0d22
 
 @Cond_0cf2:
-choicetxt       @Choice_0d24, "I know!"
-choicetxt       @Choice_0e52, "What do we do?"
+choicetxt       @Choice_0d24, "I know what to do!"
+choicetxt       @Choice_0e52, "What SHOULD we do?"
 goto            @Label_0d22
 
 @Label_0d22:
@@ -415,7 +416,8 @@ code0334
 code0331        23, 256
 code0479        0, 2, 12
 dialogtxt       "Please leave Lady Murno to us!"
-dialogtxt       "You should hurry back, Master..."
+dialogtxt       "You should check on"
+dialogtxt       "Master Benson!"
 goto            @Cond_1178
 
 @Cond_1178:
@@ -514,8 +516,8 @@ call            @Func_1fb6
 code0479        0, 5, 16
 call            @Func_1f14
 dialogtxt       "Huh!?"
-dialogtxt       "That's,"
-dialogtxt       "uh... You know..."
+dialogtxt       "Well, uh..."
+dialogtxt       "Y'know..."
 code0309        
 call            @Func_2024
 call            @Func_1f4a
@@ -557,13 +559,13 @@ goto            @Cond_1710
 
 @Cond_1710:
 jumpz           @Cond_1766, ($b003 == 2)
-dialogtxt       "If that was a trap,"
+dialogtxt       "If this was a trap,"
 dialogtxt       "most likely they're already gone."
 goto            @Cond_1766
 
 @Cond_1766:
 jumpz           @Cond_17d2, ($b003 == 3)
-dialogtxt       "Master said it was a trap."
+dialogtxt       "Master said this was a trap."
 dialogtxt       "I'm sure they must have"
 dialogtxt       "moved on already."
 goto            @Cond_17d2

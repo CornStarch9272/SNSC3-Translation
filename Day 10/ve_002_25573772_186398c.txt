@@ -1,5 +1,5 @@
 code040d        15
-popuptxt        "Repaired Master's weapon."
+popuptxt        " Repaired Master's weapon."
 code0318        
 code0366        523, -1
 code0333        2, 30
@@ -43,11 +43,11 @@ code0331        32, 256
 code0479        0, 7, 13
 code0479        1, 1, 13
 jumpz           @Cond_0238, ($b002 == 0)
-dialogbig       255, 116, 1, 0, 0, "... Woohoo!"
+dialogbig       255, 116, 1, 0, 0, "Woohoo!"
 goto            @Label_026e
 
 @Cond_0238:
-dialogbig       255, 116, 1, 0, 0, "... Yippie!"
+dialogbig       255, 116, 1, 0, 0, "Yippie!"
 goto            @Label_026e
 
 @Label_026e:

@@ -26,12 +26,12 @@ call            @Func_0f5a
 call            @Func_0e56
 jumpz           @Cond_0116, ($b002 == 0)
 dialogtxt       "Alright!"
-dialogtxt       "So today I'll..."
+dialogtxt       "So today I'll—"
 goto            @Label_0138
 
 @Cond_0116:
 dialogtxt       "Alright!"
-dialogtxt       "So today I'll..."
+dialogtxt       "So today I'll—"
 goto            @Label_0138
 
 @Label_0138:
@@ -124,7 +124,7 @@ goto            @Cond_04ca
 
 @Cond_04ca:
 jumpz           @Cond_04fe, ($b003 == 3)
-dialogtxt       "Lady Murno Is Gone?"
+dialogtxt       "Lady Murno is gone?"
 goto            @Cond_04fe
 
 @Cond_04fe:

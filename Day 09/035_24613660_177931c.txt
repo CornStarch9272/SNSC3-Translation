@@ -279,7 +279,7 @@ code047d        0, 123
 code047e        0, 1
 dialogtxt       "Hey, let's play pretend! I'll be"
 dialogtxt       "the one who defeats Red Wing,"
-dialogtxt       "you can be Red Wing."
+dialogtxt       "and you can be Red Wing."
 code0309        
 code047e        0, 0
 code0302        7

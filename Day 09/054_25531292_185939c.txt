@@ -57,13 +57,13 @@ call            @Func_28f6
 jumpz           @Cond_02de, ($b002 == 0)
 dialogtxt       "The match is already over."
 dialogtxt       "If you still want to fight,"
-dialogtxt       "I'll be the one!"
+dialogtxt       "then face me!"
 goto            @Label_032a
 
 @Cond_02de:
 dialogtxt       "The match is already over."
 dialogtxt       "If you still want to fight,"
-dialogtxt       "I'll be the one!"
+dialogtxt       "then face me!"
 goto            @Label_032a
 
 @Label_032a:
@@ -238,7 +238,7 @@ code0479        1, 2, 14
 call            @Func_2962
 dialogtxt       "Hmm..."
 dialogtxt       "We'll continue this talk later."
-dialogtxt       "A looong... Talk..."
+dialogtxt       "A looong talk..."
 code0309        
 call            @Func_2a32
 call            @Func_2980
@@ -414,7 +414,7 @@ code0479        1, 1, 16
 call            @Func_29c6
 call            @Func_2962
 dialogtxt       "Hey!"
-dialogtxt       "That... Hurts..."
+dialogtxt       "That hurts..."
 code047b        
 code0309        
 call            @Func_2998
@@ -464,11 +464,11 @@ code0479        1, 1, 16
 call            @Func_29c6
 call            @Func_2962
 jumpz           @Cond_1488, ($b002 == 0)
-dialogtxt       "Well~..."
+dialogtxt       "Well~"
 goto            @Label_14a2
 
 @Cond_1488:
-dialogtxt       "Gimme a break~..."
+dialogtxt       "Gimme a break~"
 goto            @Label_14a2
 
 @Label_14a2:
@@ -488,8 +488,7 @@ code0479        1, 4, 12
 code047d        1, 108
 call            @Func_29c6
 call            @Func_2944
-dialogtxt       "Oh my,"
-dialogtxt       "and you were"
+dialogtxt       "Oh my, and you were"
 dialogtxt       "so cool until now."
 code047b        
 code0309        
@@ -588,7 +587,7 @@ code0479        1, 11, 12
 code047d        1, 110
 call            @Func_29c6
 call            @Func_2962
-dialogtxt       "Wha...!"
+dialogtxt       "Wha—"
 dialogtxt       "I haven't done anything"
 dialogtxt       "to deserve your thanks."
 code047b        
@@ -761,7 +760,7 @@ call            @Func_28f6
 dialogtxt       "Yes."
 code0309        
 code0479        0, 3, 16
-dialogtxt       "Ah...."
+dialogtxt       "But...."
 code0309        
 call            @Func_2a32
 call            @Func_2914

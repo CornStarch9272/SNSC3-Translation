@@ -79,8 +79,8 @@ code047d        0, 2
 call            @Func_1178
 code0479        1, 0, 12
 dialogtxt       "Letting a disrespectful Summon Beast"
-dialogtxt       "like yours go unpunished,"
-dialogtxt       "is a disgrace to my name!"
+dialogtxt       "like yours go unpunished..."
+dialogtxt       "It's a disgrace to my good name!"
 code047b        
 code0309        
 call            @Func_1160
@@ -143,13 +143,13 @@ call            @Func_10be
 jumpz           @Cond_0642, ($b002 == 0)
 dialogtxt       "Sorry, but right now, saving Murno"
 dialogtxt       "is more important. We don't have"
-dialogtxt       "time to play with you."
+dialogtxt       "time to waste on you."
 goto            @Label_06a6
 
 @Cond_0642:
 dialogtxt       "Sorry, but right now, saving Murno"
 dialogtxt       "is more important. We don't have"
-dialogtxt       "time to play with you."
+dialogtxt       "time to waste on you."
 goto            @Label_06a6
 
 @Label_06a6:
@@ -159,12 +159,12 @@ call            @Func_10f4
 code0479        1, 5, 15
 call            @Func_112a
 jumpz           @Cond_0700, ($b002 == 0)
-dialogtxt       "The fuck, you brat..."
+dialogtxt       "You brat..."
 dialogtxt       "Don't underestimate me!"
 goto            @Label_072a
 
 @Cond_0700:
-dialogtxt       "The fuck, you brat..."
+dialogtxt       "You brat..."
 dialogtxt       "Don't underestimate me!"
 goto            @Label_072a
 

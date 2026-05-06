@@ -26,9 +26,9 @@ code047d        1, 2
 call            @Func_2a86
 jumpz           @Cond_023e, ($b003 == 0)
 call            @Func_2982
-dialogtxt       "Murno has been kidnapped..."
-dialogtxt       "We need to hurry and find"
-dialogtxt       "where they are taking her!"
+dialogtxt       "Murno was kidnapped!"
+dialogtxt       "We need to hurry and find out"
+dialogtxt       "where they took her!"
 code047b        
 code0309        
 call            @Func_29d6
@@ -59,9 +59,9 @@ goto            @Cond_023e
 @Cond_023e:
 jumpz           @Cond_03a4, ($b003 == 1)
 call            @Func_2982
-dialogtxt       "Murno has been kidnapped..."
-dialogtxt       "We need to hurry and find"
-dialogtxt       "where they are taking her!"
+dialogtxt       "Murno was kidnapped!"
+dialogtxt       "We need to hurry and find out"
+dialogtxt       "where they took her!"
 code047b        
 code0309        
 call            @Func_29d6
@@ -93,9 +93,9 @@ goto            @Cond_03a4
 @Cond_03a4:
 jumpz           @Cond_04fe, ($b003 == 2)
 call            @Func_2982
-dialogtxt       "Murno has been kidnapped..."
-dialogtxt       "We need to hurry and find"
-dialogtxt       "where they are taking her!"
+dialogtxt       "Murno was kidnapped!"
+dialogtxt       "We need to hurry and find out"
+dialogtxt       "where they took her!"
 code047b        
 code0309        
 call            @Func_29d6
@@ -126,9 +126,9 @@ goto            @Cond_04fe
 @Cond_04fe:
 jumpz           @Cond_064a, ($b003 == 3)
 call            @Func_2982
-dialogtxt       "Murno has been kidnapped..."
-dialogtxt       "We need to hurry and find"
-dialogtxt       "where they are taking her!"
+dialogtxt       "Murno was kidnapped!"
+dialogtxt       "We need to hurry and find out"
+dialogtxt       "where they took her!"
 code047b        
 code0309        
 call            @Func_29d6
@@ -782,13 +782,13 @@ call            @Func_2982
 jumpz           @Cond_202c, ($b002 == 0)
 dialogtxt       "Murno's still further in!"
 dialogtxt       "Master already went ahead of us,"
-dialogtxt       "So let's hurry up and go!"
+dialogtxt       "so let's hurry up and go!"
 goto            @Label_207e
 
 @Cond_202c:
 dialogtxt       "Murno's still further in!"
 dialogtxt       "Master already went ahead of us,"
-dialogtxt       "So let's hurry up and go!"
+dialogtxt       "so let's hurry up and go!"
 goto            @Label_207e
 
 @Label_207e:
@@ -805,7 +805,6 @@ call            @Func_2a42
 code0479        0, 2, 15
 call            @Func_29a0
 jumpz           @Cond_2194, ($b002 == 0)
-dialogtxt       "Alright!"
 dialogtxt       "Now that they've been dealt with,"
 dialogtxt       "we're getting Murno back in no time!"
 code0309        

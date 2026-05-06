@@ -40,7 +40,7 @@ code0479        0, 0, 16
 code047d        0, 108
 call            @Func_1474
 call            @Func_1370
-dialogtxt       "Hmm... Need any help?"
+dialogtxt       "Need any help?"
 code047b        
 code0309        
 call            @Func_13c4
@@ -110,7 +110,7 @@ code0479        0, 2, 14
 code047d        0, 108
 call            @Func_1448
 call            @Func_1370
-dialogtxt       "Then, let's gather as much"
+dialogtxt       "Alright! Let's gather as much"
 dialogtxt       "information on Anise as we can find."
 code047b        
 code0309        
@@ -132,11 +132,13 @@ code047d        0, 0
 call            @Func_1448
 call            @Func_138e
 jumpz           @Cond_070c, ($b002 == 0)
-dialogtxt       "Right... Wait, you're helping too?"
+dialogtxt       "Right..."
+dialogtxt       "Wait, you're helping too?"
 goto            @Label_0742
 
 @Cond_070c:
-dialogtxt       "Right... Wait, you're helping too?"
+dialogtxt       "Right..."
+dialogtxt       "Wait, you're helping too?"
 goto            @Label_0742
 
 @Label_0742:
@@ -170,7 +172,7 @@ code0479        1, 4, 14
 code047d        1, 107
 call            @Func_145e
 call            @Func_13fa
-dialogtxt       "Ah... I understand."
+dialogtxt       "... I understand."
 dialogtxt       "... Sorry."
 code047b        
 code0309        

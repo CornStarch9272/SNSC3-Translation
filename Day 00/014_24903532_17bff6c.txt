@@ -12,8 +12,9 @@ dialogtxt       "the rhythm of your soul too, huh?"
 code047b        
 code0309        
 code0479        1, 1, 12
-dialogtxt       "Of course, nobody can bang out a "
-dialogtxt       "Knife-Edge like Cozy. It's not possible."
+dialogtxt       "Of course, nobody can bang one"
+dialogtxt       "out just like Cozy."
+dialogtxt       "It's not possible."
 code0309        
 call            @Func_1026
 code0479        0, 0, 16
