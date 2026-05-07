@@ -441,8 +441,8 @@ code0301        8, 7
 code047d        0, 126
 code047e        0, 1
 dialogtxt       "Mr. Gallahan's a good person, but ever"
-dialogtxt       "since THAT happened, he's been hard"
-dialogtxt       "to approach. Well, that's to be expected."
+dialogtxt       "since THAT happened, he's been hard to"
+dialogtxt       "approach. Well, that's to be expected."
 code0309        
 code047e        0, 0
 code0302        7
