@@ -734,8 +734,8 @@ goto            @Cond_1c6e
 @Cond_1c6e:
 call            @Func_2340
 call            @Func_229e
-choicetxt       @Choice_1c96, "Fight"
-choicetxt       @Choice_1cb0, "Don't Fight"
+choicetxt       @Choice_1c96, "Let's fight now!"
+choicetxt       @Choice_1cb0, "Let's fight later..."
 choicewait      
 
 @Choice_1c96:

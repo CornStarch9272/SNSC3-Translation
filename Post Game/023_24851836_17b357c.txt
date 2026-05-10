@@ -594,7 +594,7 @@ code040b
 @Event_1c28:
 code0301        8, 7
 dialogtxt       "As I feel at unease,"
-dialogtxt       "I yean to put my mind"
+dialogtxt       "I yearn to put my mind"
 dialogtxt       "Back to peace and silence."
 code0309        
 dialogtxt       "In this town, so far away,"

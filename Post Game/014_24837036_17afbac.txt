@@ -373,7 +373,7 @@ dialogtxt       "Oh, my goodness! Your Sword"
 dialogtxt       "Rank is the highest there is!"
 code0309        
 dialogtxt       "Here! This is for you, the"
-dialogtxt       "\"Ultimate Sword Manual\"!"
+dialogtxt       "Sword Scroll!"
 dialogtxt       "Please put it to good use!"
 code0309        
 code047e        0, 0
@@ -382,7 +382,7 @@ code0366        526, 1
 code0367        
 code0301        0, 7
 code0305        1
-dialogtxt       "Having the \"Ultimate Sword Manual\""
+dialogtxt       "Having the Sword Scroll"
 dialogtxt       "in your inventory while saving lets"
 dialogtxt       "you unlock \"Lemmy\" in Bonus Mode!"
 code0309        
@@ -399,7 +399,7 @@ dialogtxt       "Oh, my goodness! Your Axe"
 dialogtxt       "Rank is the highest there is!"
 code0309        
 dialogtxt       "Here! This is for you, the"
-dialogtxt       "\"Ultimate Axe Manual\"!"
+dialogtxt       "Axe Scroll!"
 dialogtxt       "Please put it to good use!"
 code0309        
 code047e        0, 0
@@ -408,7 +408,7 @@ code0366        524, 1
 code0367        
 code0301        0, 7
 code0305        1
-dialogtxt       "Having the \"Ultimate Axe Manual\""
+dialogtxt       "Having the Axe Scroll"
 dialogtxt       "in your inventory while saving lets"
 dialogtxt       "you unlock \"V.E\" in Bonus Mode!"
 code0309        
@@ -425,7 +425,7 @@ dialogtxt       "This is shocking! Your Spear"
 dialogtxt       "Rank is the highest there is!"
 code0309        
 dialogtxt       "Here! This is for you, the"
-dialogtxt       "\"Ultimate Spear Manual\"!"
+dialogtxt       "Spear Scroll!"
 dialogtxt       "Please put it to good use!"
 code0309        
 code047e        0, 0
@@ -434,7 +434,7 @@ code0366        528, 1
 code0367        
 code0301        0, 7
 code0305        1
-dialogtxt       "Having the \"Ultimate Spear Manual\""
+dialogtxt       "Having the Spear Scroll"
 dialogtxt       "in your inventory while saving lets"
 dialogtxt       "you unlock \"Anise\" in Bonus Mode!"
 code0309        
@@ -451,7 +451,7 @@ dialogtxt       "How wonderful! Your Knuckles"
 dialogtxt       "Rank is the highest there is!"
 code0309        
 dialogtxt       "Here! This is for you, the"
-dialogtxt       "\"Ultimate Knuckle Manual\"!"
+dialogtxt       "Knuckle Scroll!"
 dialogtxt       "Please put it to good use!"
 code0309        
 code047e        0, 0
@@ -460,7 +460,7 @@ code0366        525, 1
 code0367        
 code0301        0, 7
 code0305        1
-dialogtxt       "Having the \"Ultimate Knuckle Manual\""
+dialogtxt       "Having the Knuckle Scroll"
 dialogtxt       "in your inventory while saving lets"
 dialogtxt       "you unlock \"Jade\" in Bonus Mode!"
 code0309        
@@ -477,7 +477,7 @@ dialogtxt       "This is a shocker! Your Drill"
 dialogtxt       "Rank is the highest there is!"
 code0309        
 dialogtxt       "Here! This is for you, the"
-dialogtxt       "\"Ultimate Drill Manual\"!"
+dialogtxt       "Drill Scroll!"
 dialogtxt       "Please put it to good use!"
 code0309        
 code047e        0, 0
@@ -486,7 +486,7 @@ code0366        530, 1
 code0367        
 code0301        0, 7
 code0305        1
-dialogtxt       "Having the \"Ultimate Drill Manual\""
+dialogtxt       "Having the Drill Scroll"
 dialogtxt       "in your inventory while saving lets"
 dialogtxt       "you unlock \"Bostaph\" in Bonus Mode!"
 code0309        
@@ -503,7 +503,7 @@ dialogtxt       "Whaaaat!? Your Bow"
 dialogtxt       "Rank is the highest there is!"
 code0309        
 dialogtxt       "Here! This is for you, the"
-dialogtxt       "\"Ultimate Bow Manual\"!"
+dialogtxt       "Bow Scroll!"
 dialogtxt       "Please put it to good use!"
 code0309        
 code047e        0, 0
@@ -512,7 +512,7 @@ code0366        527, 1
 code0367        
 code0301        0, 7
 code0305        1
-dialogtxt       "Having the \"Ultimate Bow Manual\""
+dialogtxt       "Having the Bow Scroll"
 dialogtxt       "in your inventory while saving lets"
 dialogtxt       "you unlock \"Tier\" in Bonus Mode!"
 code0309        

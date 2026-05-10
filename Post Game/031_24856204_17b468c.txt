@@ -354,8 +354,8 @@ dialogtxt       "Hey, hey, let's play pretend!"
 dialogtxt       "I'll be the Craftknight hero..."
 dialogtxt       "And you'll be my master!"
 code0309        
-dialogtxt       "\"There is nothing I can teach you!\"!"
-dialogtxt       "Well!? How did I do!?"
+dialogtxt       "Tell me:"
+dialogtxt       "\"I have nothing more to teach you!\""
 code0309        
 code047e        0, 0
 code0302        7

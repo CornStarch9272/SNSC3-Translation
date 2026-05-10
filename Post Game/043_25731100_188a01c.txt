@@ -10,7 +10,7 @@ code047d        1, 109
 call            @Func_0aea
 call            @Func_0a52
 dialogtxt       "Heh, as expected of [NAME 2]!"
-dialogtxt       "I'd love to have you as the Inn's"
+dialogtxt       "I'd love to have you as the inn's"
 dialogtxt       "exclusive Craftknight."
 goto            @Label_0198
 
@@ -25,7 +25,7 @@ call            @Func_0aea
 call            @Func_0a52
 dialogtxt       "Considering you lost to me,"
 dialogtxt       "you've still got a long way to go"
-dialogtxt       "before becoming the Inn's Craftknight."
+dialogtxt       "before becoming the inn's Craftknight."
 goto            @Label_0198
 
 @Label_0198:
@@ -82,8 +82,8 @@ goto            @Label_03cc
 @Label_03cc:
 call            @Func_0aa6
 call            @Func_0a04
-choicetxt       @Choice_03f4, "Fight"
-choicetxt       @Choice_040e, "Don't fight"
+choicetxt       @Choice_03f4, "Let's fight now!"
+choicetxt       @Choice_040e, "Let's fight later."
 choicewait      
 
 @Choice_03f4:

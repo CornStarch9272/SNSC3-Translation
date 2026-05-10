@@ -435,7 +435,7 @@ call            @Func_4476
 jumpz           @Cond_11ea, ($b002 == 0)
 dialogtxt       "Y—You really think so,"
 dialogtxt       "[NAME 1]?"
-dialogtxt       "Damn, this is embarassing..."
+dialogtxt       "Gee, this is embarassing..."
 goto            @Label_1214
 
 @Cond_11ea:
@@ -683,7 +683,7 @@ code0309
 call            @Func_4518
 code0479        0, 2, 16
 call            @Func_4476
-dialogtxt       "But... Isn't her home"
+dialogtxt       "But, isn't her home"
 dialogtxt       "is still infested with Strays?"
 code0309        
 call            @Func_44ac
