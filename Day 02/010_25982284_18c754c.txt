@@ -144,7 +144,8 @@ setvar          $bv029, 12
 goto            @Label_0828
 
 @Cond_0810:
-dialogtxt       "*yawn*~ I'm tired."
+dialogtxt       "*yawn*"
+dialogtxt       "I'm tired."
 code0309        
 goto            @Label_0828
 

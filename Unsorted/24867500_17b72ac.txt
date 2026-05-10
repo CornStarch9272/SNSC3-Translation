@@ -70,9 +70,9 @@ code040b
 @Event_0302:
 code0301        0, 7
 code0305        1
-dialogtxt       "To our esteemed customers:"
-dialogtxt       "In order to play the lottery,"
-dialogtxt       "5 lottery tickets are needed."
+dialogtxt       " To our esteemed customers:"
+dialogtxt       " In order to play the lottery,"
+dialogtxt       " 5 lottery tickets are needed."
 code0309        
 code0302        7
 code040b        
@@ -98,9 +98,9 @@ code040b
 @Event_0404:
 code0301        0, 7
 code0305        1
-dialogtxt       "The stuffed animal of a girl"
-dialogtxt       "who could turn any ingredient"
-dialogtxt       "into a dangerous substance."
+dialogtxt       " The stuffed animal of a girl"
+dialogtxt       " who could turn any ingredient"
+dialogtxt       " into a dangerous substance."
 code0309        
 code0302        7
 code040b        

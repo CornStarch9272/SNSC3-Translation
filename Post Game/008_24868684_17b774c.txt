@@ -318,8 +318,8 @@ ret
 code0301        8, 7
 code047d        0, 123
 code047e        0, 1
-dialogtxt       "You know! Lately..."
-dialogtxt       "Mr. Gallahan smiles all the time!..."
+dialogtxt       "You know, lately Mr. Gallahan"
+dialogtxt       "smiles all the time!"
 dialogtxt       "Did something really good happen?"
 code0309        
 code047e        0, 0

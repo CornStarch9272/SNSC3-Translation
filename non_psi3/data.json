@@ -13709,7 +13709,7 @@
                             "new address": null,
                             "pointer address": null,
                             "raw": "ダークドラド\u0000\u0000\u0000\u0000\u0000\u0000",
-                            "translation": "Dark Dorado\u0000",
+                            "translation": "Darkdrad\u0000",
                             "type": "SJIS string"
                         },
                         "offset": 0,
@@ -27681,7 +27681,7 @@
                             "new address": null,
                             "pointer address": null,
                             "raw": "裏の会員証\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
-                            "translation": "Shady Card\u0000",
+                            "translation": "Membership Card\u0000",
                             "type": "SJIS string"
                         },
                         "offset": 0,
@@ -29015,7 +29015,7 @@
                             "new address": null,
                             "pointer address": null,
                             "raw": "参加申込書壱\u0000\u0000\u0000\u0000\u0000\u0000",
-                            "translation": "Application No.1\u0000",
+                            "translation": "Application No. 1\u0000",
                             "type": "SJIS string"
                         },
                         "offset": 0,
@@ -29061,7 +29061,7 @@
                             "new address": null,
                             "pointer address": null,
                             "raw": "参加申込書弐\u0000\u0000\u0000\u0000\u0000\u0000",
-                            "translation": "Application No.2\u0000",
+                            "translation": "Application No. 2\u0000",
                             "type": "SJIS string"
                         },
                         "offset": 0,
@@ -50870,7 +50870,7 @@
                     }
                 ],
                 "raw": "売るものが無くなりました\u0000\u0000\u0000\u0000",
-                "translation": " The item has disappeared\u0000\u0000",
+                "translation": " The item has been sold\u0000\u0000",
                 "type": "SJIS string"
             }
         ],

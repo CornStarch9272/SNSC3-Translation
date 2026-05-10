@@ -371,7 +371,7 @@ code047d        0, 118
 code047e        0, 1
 dialogtxt       "Feel free to visit anytime!"
 dialogtxt       "Not that we'd be able to give"
-dialogtxt       "you a proper welcome, though"
+dialogtxt       "you a proper welcome, though."
 code0309        
 code047e        0, 0
 code0302        7

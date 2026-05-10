@@ -101,8 +101,8 @@ code047b
 code0309        
 call            @Func_0b14
 call            @Func_0a72
-choicetxt       @Cond_0464, "Fight"
-choicetxt       @Choice_047e, "Don't fight"
+choicetxt       @Cond_0464, "Let's fight now!"
+choicetxt       @Choice_047e, "Let's fight later."
 choicewait      
 
 goto            @Cond_0464

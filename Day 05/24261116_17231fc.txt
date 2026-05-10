@@ -6,11 +6,11 @@ dialogtxt       " Spin and get a prize!"
 dialogtxt       " Available prizes are..."
 code0309        
 dialogtxt       " First Place: Heavy Gold Ore"
-dialogtxt       " Second Place: Ruin Switch"
+dialogtxt       " Second Place: Switch of Ruin"
 dialogtxt       " Third Place: Rust Powder"
 code0309        
 dialogtxt       " Fourth Place: Heartleaf Potion"
-dialogtxt       " Fifth Place: Overripe Berry"
+dialogtxt       " Fifth Place: Ripe Berry"
 dialogtxt       " And that's all."
 goto            @Label_059e
 
@@ -19,11 +19,11 @@ jumpz           @Cond_01ac, ($h311 == 5)
 dialogtxt       " Spin the wheel, receive joy!"
 dialogtxt       " Your prizes are..."
 code0309        
-dialogtxt       " First Place: Friend Ring"
-dialogtxt       " Second Place: Proof of Power"
-dialogtxt       " Third Place: Bulletproof"
+dialogtxt       " First Place: Extend Ring"
+dialogtxt       " Second Place: Power Crest"
+dialogtxt       " Third Place: Endurance Crest"
 code0309        
-dialogtxt       " Fourth Place: Expert's Mark"
+dialogtxt       " Fourth Place: Expertise Crest"
 dialogtxt       " Fifth Place: Tree Branch"
 dialogtxt       " And that's all."
 goto            @Label_059e
@@ -37,7 +37,7 @@ dialogtxt       " First Place: Legendary Spring"
 dialogtxt       " Second Place: Dark Sunglasses"
 dialogtxt       " Third Place: Secret Scroll"
 code0309        
-dialogtxt       " Fourth Place: Taijutsu Scroll"
+dialogtxt       " Fourth Place: Combat Scroll"
 dialogtxt       " Fifth Place: Premium Paper"
 dialogtxt       " And that's all."
 goto            @Label_059e
@@ -51,7 +51,7 @@ dialogtxt       " First Place: Flash Charm"
 dialogtxt       " Second Place: Repair Parts"
 dialogtxt       " Third Place: Spirit Headband"
 code0309        
-dialogtxt       " Fourth Place: Martial Treatise"
+dialogtxt       " Fourth Place: Fighting Manual"
 dialogtxt       " Fifth Place: Stinky Garlic"
 dialogtxt       " And that's all."
 goto            @Label_059e
@@ -61,9 +61,9 @@ jumpz           @Cond_040c, ($h311 == 11)
 dialogtxt       " Spin, and the path will open!?"
 dialogtxt       " Available prizes are..."
 code0309        
-dialogtxt       " First Place: Legendary Skewer"
-dialogtxt       " Second Place: Old Grindstone"
-dialogtxt       " Third Place: Life Sandals"
+dialogtxt       " First Place: Fabled Skewer"
+dialogtxt       " Second Place: Old Rubstone"
+dialogtxt       " Third Place: Healthy Sandals"
 code0309        
 dialogtxt       " Fourth Place: Poison Powder"
 dialogtxt       " Fifth Place: Red Shrimp"
@@ -75,11 +75,11 @@ jumpz           @Cond_04d2, ($h311 == 12)
 dialogtxt       " Believe in yourself! Spin the wheel!"
 dialogtxt       " Available prizes are..."
 code0309        
-dialogtxt       " First Place: Legendary Bamboo"
-dialogtxt       " Second Place: Speeding Device"
+dialogtxt       " First Place: Fabled Bamboo"
+dialogtxt       " Second Place: Accel Device"
 dialogtxt       " Third Place: Lucky Charm"
 code0309        
-dialogtxt       " Fourth Place: Hot Curry"
+dialogtxt       " Fourth Place: Spicy Curry"
 dialogtxt       " Fifth Place: Lobster"
 dialogtxt       " And that's all."
 goto            @Label_059e
@@ -89,9 +89,9 @@ jumpz           @Label_059e, ($h311 == 99)
 dialogtxt       " This is it! The ultimate spin!!!"
 dialogtxt       " Available prizes are..."
 code0309        
-dialogtxt       " First Place: Death Note"
-dialogtxt       " Second Place: Legendary Bamboo"
-dialogtxt       " Third Place: Legendary Skewer"
+dialogtxt       " First Place: Love Letter"
+dialogtxt       " Second Place: Fabled Bamboo"
+dialogtxt       " Third Place: Fabled Skewer"
 code0309        
 dialogtxt       " Fourth Place: Med Kit"
 dialogtxt       " Fifth Place: Gourmet Clam"
@@ -109,7 +109,7 @@ dialogtxt       " Don't attack the machine"
 dialogtxt       " if you miss first place!"
 dialogtxt       " Available prizes are..."
 code0309        
-dialogtxt       " First Place: Friend Ring"
+dialogtxt       " First Place: Re-extend Ring"
 dialogtxt       " Second Place: Thunder Charm"
 dialogtxt       " Third Place: Thunder Crystal"
 code0309        
@@ -123,7 +123,7 @@ jumpz           @Cond_0738, ($h311 == 9)
 dialogtxt       " The grand prize is calling you!"
 dialogtxt       " Available prizes are..."
 code0309        
-dialogtxt       " First Place: Ultra Move Ring"
+dialogtxt       " First Place: Sure-kill Ring"
 dialogtxt       " Second Place: Torrent Charm"
 dialogtxt       " Third Place: Water Crystal"
 code0309        
@@ -139,10 +139,10 @@ dialogtxt       " Try to look sexy as you spin it!"
 dialogtxt       " Available prizes are..."
 code0309        
 dialogtxt       " First Place: Med Kit"
-dialogtxt       " Second Place: Hot Curry"
-dialogtxt       " Third Place: Seasoned Rice"
+dialogtxt       " Second Place: Spicy Curry"
+dialogtxt       " Third Place: Egg-fried Rice"
 code0309        
-dialogtxt       " Fourth Place: Hardboiled Egg"
+dialogtxt       " Fourth Place: Hardboiled Eggs"
 dialogtxt       " Fifth Place: Heartleaf Potion"
 dialogtxt       " And that's all!"
 goto            @Label_0afa
@@ -172,11 +172,11 @@ goto            @Label_08cc
 @Label_08cc:
 dialogtxt       "Available prizes are..."
 code0309        
-dialogtxt       "First Place: Magic Armlet"
-dialogtxt       "Second Place: Death Note"
-dialogtxt       "Third Place: Speeding Device"
+dialogtxt       "First Place: Magic Bracelet"
+dialogtxt       "Second Place: Love Letter"
+dialogtxt       "Third Place: Accel Device"
 code0309        
-dialogtxt       "Fourth Place: Paralyze Powder"
+dialogtxt       "Fourth Place: Paralysis Powder"
 dialogtxt       "Fifth Place: Sleep Powder"
 dialogtxt       "And that's all!"
 goto            @Label_0afa
@@ -201,10 +201,10 @@ dialogtxt       "This is the last one! Go for it!"
 dialogtxt       "Available prizes are..."
 code0309        
 dialogtxt       "First Place: Ultimate Motor"
-dialogtxt       "Second Place: Steel Fang Ore"
-dialogtxt       "Third Place: Frenzy Dance Ore"
+dialogtxt       "Second Place: Steelfang Crystal"
+dialogtxt       "Third Place: Mad Ghost Ore"
 code0309        
-dialogtxt       "Fourth Place: Refined Ore"
+dialogtxt       "Fourth Place: Yubis Ore"
 dialogtxt       "Fifth Place: Resistor Crystal"
 dialogtxt       "Nuooooooooh!"
 goto            @Label_0afa
