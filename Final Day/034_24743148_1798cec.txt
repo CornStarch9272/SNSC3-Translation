@@ -322,7 +322,7 @@ dialogtxt       "is dark, and you'll get lost"
 dialogtxt       "easily if you're not careful..."
 code0309        
 dialogtxt       "Prices skyrocket high in places"
-dialogtxt       "where people don't frequent often"
+dialogtxt       "where people don't frequent often."
 dialogtxt       "Oh, it's just my merchant's gut!"
 code0309        
 code047e        0, 0

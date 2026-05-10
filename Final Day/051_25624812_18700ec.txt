@@ -86,7 +86,7 @@ call            @Func_121e
 code0479        0, 5, 15
 call            @Func_117c
 dialogtxt       "Anise did this!?"
-dialogtxt       "... Then, is this!?"
+dialogtxt       "... Then, is this..."
 code0309        
 call            @Func_11b2
 code0479        1, 0, 12
@@ -135,7 +135,7 @@ call            @Func_121e
 code0479        0, 5, 15
 call            @Func_117c
 dialogtxt       "Anise did this!?"
-dialogtxt       "... Then, is this!?"
+dialogtxt       "... Then, is this..."
 code0309        
 call            @Func_11b2
 code0479        1, 2, 16
@@ -182,7 +182,7 @@ call            @Func_121e
 code0479        0, 5, 15
 call            @Func_117c
 dialogtxt       "Anise did this!?"
-dialogtxt       "... Then, is this!?"
+dialogtxt       "... Then, is this..."
 code0309        
 call            @Func_11b2
 code0479        1, 2, 14
@@ -230,19 +230,18 @@ call            @Func_121e
 code0479        0, 5, 15
 call            @Func_117c
 dialogtxt       "Anise did this!?"
-dialogtxt       "... Then, is this!?"
+dialogtxt       "... Then, is this..."
 code0309        
 call            @Func_11b2
 code0479        1, 4, 16
 call            @Func_11e8
-dialogtxt       "This place..."
-dialogtxt       "Is where Murno's village used to be."
+dialogtxt       "This place is where Lady Murno's"
+dialogtxt       "village used to be."
 code0309        
 call            @Func_121e
 code0479        0, 4, 16
 call            @Func_117c
-dialogtxt       "So this..."
-dialogtxt       "is their doing......"
+dialogtxt       "So this is their doing..."
 dialogtxt       "How cruel!"
 code0309        
 call            @Func_11b2
@@ -250,18 +249,18 @@ code0479        1, 2, 14
 call            @Func_11e8
 dialogtxt       "Inside is the Govan Ruins, in which"
 dialogtxt       "the Demon Stone was stored..."
-dialogtxt       "Most likely, Murno is there..."
+dialogtxt       "Most likely, Lady Murno is there..."
 code0309        
 call            @Func_121e
 code0479        0, 2, 14
 call            @Func_117c
 jumpz           @Cond_0b7e, ($b002 == 0)
-dialogtxt       "The Govan Ruins!"
+dialogtxt       "To the Govan Ruins then!"
 dialogtxt       "Let's hurry!"
 goto            @Label_0ba8
 
 @Cond_0b7e:
-dialogtxt       "The Govan Ruins!"
+dialogtxt       "To the Govan Ruins then!"
 dialogtxt       "Let's hurry!"
 goto            @Label_0ba8
 

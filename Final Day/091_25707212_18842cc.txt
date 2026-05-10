@@ -53,7 +53,7 @@ code0479        0, 2, 15
 code047d        0, 0
 call            @Func_55c2
 call            @Func_54ea
-dialogtxt       "The sword broke!"
+dialogtxt       "We broke the sword!"
 code047b        
 code0309        
 call            @Func_5618
@@ -72,7 +72,7 @@ code040d        30
 code047d        0, 112
 code0301        16, 3
 code047e        0, 1
-dialogbig       255, 116, 1, 5, 0, "Raaaaaaagh!"
+dialogbig       255, 116, 1, 5, 0, "Raaagh!"
 code030c        
 code047e        0, 0
 code0302        3
@@ -387,7 +387,7 @@ code043c        0, 4
 code0479        0, 2, 15
 call            @Func_5508
 dialogtxt       "Yes!"
-dialogtxt       "Then lets go!"
+dialogtxt       "Then let's go!"
 code0309        
 call            @Func_5644
 call            @Func_5526
@@ -496,8 +496,8 @@ goto            @Label_186a
 
 @Label_186a:
 code0309        
-choicetxt       @Choice_1898, "Go first"
-choicetxt       @Choice_1cc2, "Let [NAME 1] go"
+choicetxt       @Choice_1898, "I'll go first then."
+choicetxt       @Choice_1cc2, "[NAME 1], I'll go after you."
 choicewait      
 
 @Choice_1898:
@@ -776,11 +776,10 @@ call            @Func_55c2
 call            @Func_54ea
 jumpz           @Cond_25c6, ($b002 == 0)
 dialogtxt       "But..."
-dialogtxt       "Where could it be..."
+dialogtxt       "Where could it be?"
 dialogtxt       "[NAME 1]..."
 code0309        
 code0479        0, 5, 16
-dialogtxt       "Ah..."
 dialogtxt       "Recently, [NAME 1] and I"
 dialogtxt       "have always been together..."
 code0309        
@@ -791,39 +790,36 @@ dialogtxt       "Crap..."
 code0309        
 code0479        0, 4, 12
 dialogtxt       "What would [NAME 1] say if they"
-dialogtxt       "saw me like this..."
+dialogtxt       "saw me like this?"
 dialogtxt       "Hehe..."
 code0309        
 code0479        0, 1, 17
 dialogtxt       "Being by myself"
 dialogtxt       "is kinda lonely..."
-dialogtxt       "Ah-ah..."
 goto            @Label_2728
 
 @Cond_25c6:
 dialogtxt       "But..."
-dialogtxt       "Where could it be..."
+dialogtxt       "Where could it be?"
 dialogtxt       "[NAME 1]..."
 code0309        
 code0479        0, 5, 16
-dialogtxt       "Ah..."
 dialogtxt       "Recently, [NAME 1] and I"
 dialogtxt       "have always been together..."
 code0309        
 code0479        0, 4, 14
 dialogtxt       "Being alone kinda..."
 dialogtxt       "Makes me feel uneasy..."
-dialogtxt       "Tche..."
+dialogtxt       "Tch..."
 code0309        
 code0479        0, 4, 12
 dialogtxt       "What would [NAME 1] say if they"
-dialogtxt       "saw me like this..."
+dialogtxt       "saw me like this?"
 dialogtxt       "Fufu..."
 code0309        
 code0479        0, 1, 17
 dialogtxt       "Being by myself"
 dialogtxt       "is kinda lonely..."
-dialogtxt       "Ah-ah..."
 goto            @Label_2728
 
 @Label_2728:
@@ -1162,18 +1158,18 @@ code0479        0, 2, 16
 call            @Func_55c2
 call            @Func_54ea
 dialogtxt       "[NAME 1]'s Summonite..."
-dialogtxt       "Is shining?"
+dialogtxt       "is shining?"
 code0309        
 jumpz           @Cond_3aca, ($b002 == 0)
 code0479        0, 2, 14
-dialogtxt       "If Summonites can open"
+dialogtxt       "If Summonite can open"
 dialogtxt       "gates to other worlds,"
 dialogtxt       "maybe I can use it!"
 goto            @Label_3b30
 
 @Cond_3aca:
 code0479        0, 2, 14
-dialogtxt       "If Summonites can open"
+dialogtxt       "If Summonite can open"
 dialogtxt       "gates to other worlds,"
 dialogtxt       "maybe I can use it!"
 goto            @Label_3b30
@@ -1208,13 +1204,11 @@ call            @Func_54ea
 jumpz           @Cond_3ca0, ($b002 == 0)
 dialogtxt       "I'm going back!"
 dialogtxt       "To where everyone is!"
-dialogtxt       "So!"
 goto            @Label_3cd8
 
 @Cond_3ca0:
 dialogtxt       "I'm going back!"
 dialogtxt       "To where everyone is!"
-dialogtxt       "So!"
 goto            @Label_3cd8
 
 @Label_3cd8:

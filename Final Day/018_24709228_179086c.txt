@@ -296,8 +296,8 @@ ret
 code0301        8, 7
 code047d        0, 120
 code047e        0, 1
-dialogtxt       "I heard that the Zakk kid who"
-dialogtxt       "apprentices for the Workshop"
+dialogtxt       "I heard that Zakk, the kid who"
+dialogtxt       "apprentices for the Workshop,"
 dialogtxt       "has been seriously injured..."
 code0309        
 dialogtxt       "For real!? Man, it really is"

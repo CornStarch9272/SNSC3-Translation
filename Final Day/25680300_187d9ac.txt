@@ -205,12 +205,12 @@ code0479        0, 4, 15
 call            @Func_16d4
 jumpz           @Cond_08fe, ($b002 == 0)
 dialogtxt       "No..."
-dialogtxt       "That's a lie, right, [NAME 1]!"
+dialogtxt       "That's a lie, right [NAME 1]!"
 goto            @Label_0932
 
 @Cond_08fe:
 dialogtxt       "No..."
-dialogtxt       "That's a lie, right, [NAME 1]!"
+dialogtxt       "That's a lie, right [NAME 1]!"
 goto            @Label_0932
 
 @Label_0932:
@@ -250,7 +250,7 @@ code0479        0, 4, 16
 call            @Func_178e
 call            @Func_16d4
 jumpz           @Cond_0a82, ($b002 == 0)
-dialogtxt       "Shit..."
+dialogtxt       "Crap..."
 dialogtxt       "What should I do..."
 goto            @Label_0ab8
 
@@ -361,7 +361,6 @@ code0309
 call            @Func_170a
 code0479        1, 4, 13
 call            @Func_1740
-dialogtxt       "Really..."
 dialogtxt       "You're such a pain..."
 code0309        
 call            @Func_1810
@@ -410,13 +409,13 @@ code047d        0, 0
 call            @Func_178e
 call            @Func_16b6
 jumpz           @Cond_10d0, ($b002 == 0)
-dialogtxt       "Come! [NAME 1]!"
+dialogtxt       "Come on, [NAME 1]!"
 dialogtxt       "I'll bring you back right now"
 dialogtxt       "with the weapons we forged together!"
 goto            @Label_1122
 
 @Cond_10d0:
-dialogtxt       "Come! [NAME 1]!"
+dialogtxt       "Come on, [NAME 1]!"
 dialogtxt       "I'll bring you back right now"
 dialogtxt       "with the weapons we forged together!"
 goto            @Label_1122

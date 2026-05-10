@@ -352,7 +352,7 @@ dialogtxt       "This town's so crowded and"
 dialogtxt       "cramped! I hate it here!"
 code0309        
 dialogtxt       "I wonder if there's anywhere"
-dialogtxt       "in this town that's quiet"
+dialogtxt       "in this town that's quiet."
 code0309        
 code047e        0, 0
 code0302        7

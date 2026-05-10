@@ -206,12 +206,12 @@ code0479        0, 4, 15
 call            @Func_1b7a
 jumpz           @Cond_08f6, ($b002 == 0)
 dialogtxt       "No..."
-dialogtxt       "That's a lie, right, [NAME 1]!"
+dialogtxt       "That's a lie, right [NAME 1]!"
 goto            @Label_092a
 
 @Cond_08f6:
 dialogtxt       "No..."
-dialogtxt       "That's a lie, right, [NAME 1]!"
+dialogtxt       "That's a lie, right [NAME 1]!"
 goto            @Label_092a
 
 @Label_092a:
@@ -317,8 +317,8 @@ code0479        0, 5, 15
 code047d        0, 134
 call            @Func_1c34
 call            @Func_1b7a
-dialogtxt       "What!? You're a Summon Beast,"
-dialogtxt       "how are you not affected!?"
+dialogtxt       "What!? You're a Summon Beast."
+dialogtxt       "How are you not affected!?"
 code0309        
 call            @Func_1bb0
 code0479        1, 2, 14
@@ -328,8 +328,9 @@ dialogtxt       "a rock 'n' roller."
 dialogtxt       "I'm built differently."
 code0309        
 code0479        1, 2, 13
-dialogtxt       "If this was enough to do me in, I"
-dialogtxt       "wouldn't be using Darrel's guitar!"
+dialogtxt       "If this was enough to do me in,"
+dialogtxt       "I couldn't face Darrell's"
+dialogtxt       "guitar ever again!"
 code0309        
 call            @Func_1c8a
 call            @Func_1c1c
@@ -388,14 +389,14 @@ code0309
 call            @Func_1c1c
 code0479        0, 5, 16
 call            @Func_1b7a
-dialogtxt       "Faith... In [NAME 1]?"
+dialogtxt       "Faith... in [NAME 1]?"
 code0309        
 call            @Func_1bb0
 code0479        1, 2, 12
 call            @Func_1be6
 dialogtxt       "You've been together all this time."
-dialogtxt       "There's no way they'd forget"
-dialogtxt       "that. You know that much, don't you?"
+dialogtxt       "There's no way they'd forget that."
+dialogtxt       "You know that much, don't you?"
 code0309        
 call            @Func_1c1c
 code0479        0, 4, 14
@@ -423,7 +424,7 @@ dialogtxt       "[NAME 1] snap out of it."
 goto            @Label_136e
 
 @Cond_12e2:
-dialogtxt       "I'm... A Craftknight..."
+dialogtxt       "I'm... a Craftknight..."
 dialogtxt       "..."
 dialogtxt       "Ahah, so that's it..."
 code0309        

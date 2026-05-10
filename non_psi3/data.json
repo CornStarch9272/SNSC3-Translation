@@ -21672,7 +21672,7 @@
                             "new address": null,
                             "pointer address": null,
                             "raw": "熟練した鍛冶師の試験などに使われる\u0000\u0000\u0000\u0000\u0000\u0000",
-                            "translation": "Used to test skilled craftknights\u0000",
+                            "translation": "Used to test skilled Craftknights\u0000",
                             "type": "SJIS string"
                         },
                         "offset": 44,
@@ -22224,7 +22224,7 @@
                             "new address": null,
                             "pointer address": null,
                             "raw": "一流といわれる鍛冶師にしか扱えない\u0000\u0000\u0000\u0000\u0000\u0000",
-                            "translation": "Only used by first class craftknights\u0000",
+                            "translation": "Only used by first class Craftknights\u0000",
                             "type": "SJIS string"
                         },
                         "offset": 44,
@@ -29308,7 +29308,7 @@
                             "new address": null,
                             "pointer address": null,
                             "raw": "鍛冶師なら約束を守りやがれ！\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
-                            "translation": "Craftknight should keep their promises!\u0000",
+                            "translation": "Craftknights should keep their promises\u0000",
                             "type": "SJIS string"
                         },
                         "offset": 44,

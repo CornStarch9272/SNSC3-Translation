@@ -15,7 +15,7 @@ code0420        0, 872, 5
 code0422        0, 0
 setvar          $b072, 0
 code046c        0
-placetxt        "Pocket Dimension"
+placetxt        "A Foreign World"
 code043d        0, 152, 224
 code043c        0, 3
 jumpz           @Cond_0166, ($f0050 == 1 && $f0051 == 0 && $h311 == 12)

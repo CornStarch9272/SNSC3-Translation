@@ -376,8 +376,8 @@ dialogtxt       "so wholeheartedly..."
 dialogtxt       "I mean, that's nice and all, but..."
 code0309        
 dialogtxt       "If it were me, I think"
-dialogtxt       "Mr. Jade is sooo dreamy~! Oh!"
-dialogtxt       "And Mr. Lemmy is lovely too~...!"
+dialogtxt       "Mr. Jade is sooo dreamy~"
+dialogtxt       "Oh! And Mr. Lemmy is lovely too~"
 code0309        
 jumpz           @Cond_133c, ($f1251 == 0)
 dialogtxt       "You're a Craftknight, aren't you?"
@@ -403,8 +403,8 @@ code0309
 dialogtxt       "How about it?"
 code0309        
 code047e        0, 0
-choicetxt       @Choice_11dc, "Buy"
-choicetxt       @Choice_12f2, "Don't buy"
+choicetxt       @Choice_11dc, "Sold."
+choicetxt       @Choice_12f2, "No thanks."
 choicewait      
 
 @Choice_11dc:
@@ -431,8 +431,8 @@ code0445        17, 5
 code0446        17
 code0301        8, 7
 code047e        0, 1
-dialogtxt       "Whaaat!? You make me talk a lot"
-dialogtxt       "but you don't want to buy from me?"
+dialogtxt       "Whaaat!?"
+dialogtxt       "But you don't have enough money!"
 dialogtxt       "Cheapskate!"
 code0309        
 goto            @Label_1394

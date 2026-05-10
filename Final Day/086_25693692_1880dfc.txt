@@ -36,36 +36,30 @@ code047d        0, 0
 code0301        8, 1
 code047e        0, 1
 jumpz           @Cond_0142, ($f0261 == 1)
-dialogtxt       "Ah..."
 dialogtxt       "Murno?"
 goto            @Label_01fe
 
 @Cond_0142:
 jumpz           @Cond_0168, ($f0262 == 1)
-dialogtxt       "Ah..."
 dialogtxt       "[NAME 1]?"
 goto            @Label_01fe
 
 @Cond_0168:
 jumpz           @Cond_0190, ($f0263 == 1)
-dialogtxt       "Ah..."
 dialogtxt       "Master?"
 goto            @Label_01fe
 
 @Cond_0190:
 jumpz           @Cond_01ba, ($f0264 == 1)
-dialogtxt       "Ah..."
 dialogtxt       "Lemmy?"
 goto            @Label_01fe
 
 @Cond_01ba:
 jumpz           @Cond_01e4, ($f0265 == 1)
-dialogtxt       "Ah..."
 dialogtxt       "Bro?"
 goto            @Label_01fe
 
 @Cond_01e4:
-dialogtxt       "Ah..."
 dialogtxt       "Tier?"
 goto            @Label_01fe
 
@@ -346,7 +340,7 @@ goto            @Label_0be6
 code0479        0, 2, 16
 call            @Func_1a52
 dialogtxt       "I see..."
-dialogtxt       "... Hey, you okay?"
+dialogtxt       "... Hey, are you okay?"
 dialogtxt       "Are you hurt?"
 code0309        
 jumpz           @Cond_0c4c, ($f0262 == 1)
@@ -450,7 +444,7 @@ code0479        0, 0, 17
 code047d        0, 0
 call            @Func_1b0c
 call            @Func_1a34
-dialogtxt       "Ah, I'm fine~!"
+dialogtxt       "I'm fine~!"
 dialogtxt       "Master~!"
 goto            @Label_12e6
 
@@ -469,7 +463,7 @@ code0479        0, 0, 17
 code047d        0, 0
 call            @Func_1b0c
 call            @Func_1a34
-dialogtxt       "Ah, I'm fine~!"
+dialogtxt       "I'm fine~!"
 dialogtxt       "Master~!"
 goto            @Label_12e6
 
@@ -489,12 +483,12 @@ code047d        0, 0
 call            @Func_1b0c
 call            @Func_1a34
 jumpz           @Cond_112e, ($b002 == 0)
-dialogtxt       "Ah, I'm fine~!"
+dialogtxt       "I'm fine~!"
 dialogtxt       "Lemmy~!"
 goto            @Label_1154
 
 @Cond_112e:
-dialogtxt       "Ah, I'm fine~!"
+dialogtxt       "I'm fine~!"
 dialogtxt       "Lemmy~!"
 goto            @Label_1154
 
@@ -516,7 +510,7 @@ code0479        0, 0, 17
 code047d        0, 0
 call            @Func_1b0c
 call            @Func_1a34
-dialogtxt       "Ah, I'm fine~!"
+dialogtxt       "I'm fine~!"
 dialogtxt       "Brooo~!"
 goto            @Label_12e6
 
@@ -534,7 +528,7 @@ code0479        0, 0, 17
 code047d        0, 0
 call            @Func_1b0c
 call            @Func_1a34
-dialogtxt       "Ah, I'm fine~!"
+dialogtxt       "I'm fine~!"
 dialogtxt       "Tier~!"
 goto            @Label_12e6
 
@@ -549,7 +543,7 @@ call            @Func_1b22
 call            @Func_1abe
 dialogtxt       "Everyone's worried about us."
 dialogtxt       "Let's hurry back up."
-dialogtxt       "There's stairs over there."
+dialogtxt       "The stairs are over there."
 code047b        
 code0309        
 call            @Func_1b8e

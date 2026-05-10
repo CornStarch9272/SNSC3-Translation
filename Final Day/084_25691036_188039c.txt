@@ -100,7 +100,6 @@ code0479        1, 4, 16
 code047d        1, 134
 call            @Func_1e74
 call            @Func_1df2
-dialogtxt       "Ah..."
 dialogtxt       "How could this..."
 code047b        
 code0309        
@@ -184,7 +183,7 @@ code047d        1, 107
 call            @Func_1e8a
 code047c        1, 2
 call            @Func_1df2
-dialogtxt       "Ah... [NAME 2]..."
+dialogtxt       "[NAME 2]..."
 dialogtxt       "[NAME 1]..."
 code047b        
 code0309        
@@ -198,7 +197,7 @@ code0309
 call            @Func_1dda
 code0479        1, 4, 16
 call            @Func_1e10
-dialogtxt       "Ah... [NAME 2]..."
+dialogtxt       "[NAME 2]..."
 dialogtxt       "I'm sorry..."
 dialogtxt       "Because of me..."
 code0309        
@@ -291,8 +290,7 @@ code0479        0, 0, 16
 code047d        0, 0
 call            @Func_1e5e
 code0479        1, 1, 13
-dialogtxt       "[NAME 2]."
-dialogtxt       "Thank you."
+dialogtxt       "[NAME 2], thank you."
 code047b        
 code0309        
 call            @Func_1e46
@@ -402,7 +400,7 @@ code0479        0, 3, 15
 code047d        0, 111
 call            @Func_1e5e
 call            @Func_1d86
-dialogtxt       "Damn... It!"
+dialogtxt       "Damn it!"
 code0309        
 call            @Func_1eb4
 call            @Func_1dc2

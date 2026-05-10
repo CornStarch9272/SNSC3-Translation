@@ -121,13 +121,13 @@ code0479        0, 2, 12
 call            @Func_10dc
 jumpz           @Cond_06fa, ($b002 == 0)
 dialogtxt       "I told you, didn't I? You're not"
-dialogtxt       "like a lil bro to me anymore!"
+dialogtxt       "like a little bro to me anymore!"
 dialogtxt       "You're a Craftknight..."
 goto            @Label_074c
 
 @Cond_06fa:
 dialogtxt       "I told you, didn't I? You're not"
-dialogtxt       "like a lil sis to me anymore!"
+dialogtxt       "like a little sis to me anymore!"
 dialogtxt       "You're a Craftknight..."
 goto            @Label_074c
 
@@ -160,7 +160,7 @@ call            @Func_117e
 code0479        0, 8, 12
 call            @Func_10dc
 dialogtxt       "That's right,"
-dialogtxt       "I'm no longer your \"Bro\"..."
+dialogtxt       "I'm no longer your \"Bro.\""
 dialogtxt       "From now on..."
 code0309        
 call            @Func_1112
@@ -212,7 +212,7 @@ dialogtxt       "Hahaha..."
 code0309        
 code0479        1, 2, 13
 dialogtxt       "So that's what the fuss is about!"
-dialogtxt       "You want to be my rival?"
+dialogtxt       "You want to be rivals?"
 dialogtxt       "Bring it on!"
 code0309        
 call            @Func_117e

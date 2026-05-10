@@ -124,7 +124,7 @@ goto            @Cond_06ec
 goto            @Label_06f0
 
 @Label_06f0:
-placetxt        "Mishus Abandoned Site　Area 08"
+placetxt        "Mishus Abandoned Site　Area 8"
 code040b        
 
 @Label_0712:

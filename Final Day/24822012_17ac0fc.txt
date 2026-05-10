@@ -27,15 +27,15 @@ call            @Func_2cf8
 jumpz           @Cond_0332, ($b003 == 0)
 call            @Func_2bf4
 jumpz           @Cond_0154, ($b002 == 0)
-dialogtxt       "Damn it..."
-dialogtxt       "Master Bostaph was supposed to"
-dialogtxt       "be Anise's ally, so why..."
+dialogtxt       "Darn it..."
+dialogtxt       "Bostaph was actually Anise's"
+dialogtxt       "ally the whole time..."
 goto            @Label_019a
 
 @Cond_0154:
-dialogtxt       "Master Bostaph was supposed to"
-dialogtxt       "be Anise's ally, so why..."
-dialogtxt       "I don't understand!"
+dialogtxt       "Bostaph was actually Anise's"
+dialogtxt       "ally the whole time..."
+dialogtxt       "What's going on!?"
 goto            @Label_019a
 
 @Label_019a:
@@ -77,15 +77,15 @@ goto            @Cond_0332
 jumpz           @Cond_0562, ($b003 == 1)
 call            @Func_2bf4
 jumpz           @Cond_0396, ($b002 == 0)
-dialogtxt       "Damn it..."
-dialogtxt       "Master Bostaph was supposed to"
-dialogtxt       "be Anise's ally, so why..."
+dialogtxt       "Darn it..."
+dialogtxt       "Bostaph was actually Anise's"
+dialogtxt       "ally the whole time..."
 goto            @Label_03dc
 
 @Cond_0396:
-dialogtxt       "Master Bostaph was supposed to"
-dialogtxt       "be Anise's ally, so why..."
-dialogtxt       "I don't understand...!"
+dialogtxt       "Bostaph was actually Anise's"
+dialogtxt       "ally the whole time..."
+dialogtxt       "What's going on!?"
 goto            @Label_03dc
 
 @Label_03dc:
@@ -127,15 +127,15 @@ goto            @Cond_0562
 jumpz           @Cond_07a6, ($b003 == 2)
 call            @Func_2bf4
 jumpz           @Cond_05c6, ($b002 == 0)
-dialogtxt       "Damn it..."
-dialogtxt       "Master Bostaph was supposed to"
-dialogtxt       "be Anise's ally, so why..."
+dialogtxt       "Darn it..."
+dialogtxt       "Bostaph was actually Anise's"
+dialogtxt       "ally the whole time..."
 goto            @Label_060c
 
 @Cond_05c6:
-dialogtxt       "Master Bostaph was supposed to"
-dialogtxt       "be Anise's ally, so why..."
-dialogtxt       "I don't understand!"
+dialogtxt       "Bostaph was actually Anise's"
+dialogtxt       "ally the whole time..."
+dialogtxt       "What's going on!?"
 goto            @Label_060c
 
 @Label_060c:
@@ -178,15 +178,15 @@ goto            @Cond_07a6
 jumpz           @Cond_09de, ($b003 == 3)
 call            @Func_2bf4
 jumpz           @Cond_080a, ($b002 == 0)
-dialogtxt       "Damn it..."
-dialogtxt       "Master Bostaph was supposed to"
-dialogtxt       "be Anise's ally, so why..."
+dialogtxt       "Darn it..."
+dialogtxt       "Bostaph was actually Anise's"
+dialogtxt       "ally the whole time..."
 goto            @Label_0850
 
 @Cond_080a:
-dialogtxt       "Master Bostaph was supposed to"
-dialogtxt       "be Anise's ally, so why..."
-dialogtxt       "I don't understand!"
+dialogtxt       "Bostaph was actually Anise's"
+dialogtxt       "ally the whole time..."
+dialogtxt       "What's going on!?"
 goto            @Label_0850
 
 @Label_0850:
@@ -195,12 +195,12 @@ code0309
 call            @Func_2c48
 code0479        1, 2, 16
 call            @Func_2c7e
-dialogtxt       "I do not know what they plan to do"
-dialogtxt       "Lady Murno once they take her deep"
-dialogtxt       "into Goval Ruins, however..."
+dialogtxt       "I do not know what they have planned"
+dialogtxt       "for Lady Murno once they take her"
+dialogtxt       "deeper into Govan Ruins, however..."
 code0309        
 code0479        1, 2, 14
-dialogtxt       "We don't have much time anymore!"
+dialogtxt       "We don't have much time left!"
 code0309        
 call            @Func_2cb4
 code0479        0, 2, 14
@@ -208,13 +208,13 @@ call            @Func_2c12
 jumpz           @Cond_0980, ($b002 == 0)
 dialogtxt       "Yeah..."
 dialogtxt       "We have to tail him fast and"
-dialogtxt       "get Murno back for everyone!"
+dialogtxt       "get Murno back!"
 goto            @Label_09ce
 
 @Cond_0980:
 dialogtxt       "Yeah..."
 dialogtxt       "We have to tail him fast and"
-dialogtxt       "get Murno back for everyone!"
+dialogtxt       "get Murno back!"
 goto            @Label_09ce
 
 @Label_09ce:
@@ -538,15 +538,13 @@ call            @Func_2cb4
 code0479        0, 2, 16
 call            @Func_2c12
 jumpz           @Cond_189c, ($b002 == 0)
-dialogtxt       "Look... I see something"
-dialogtxt       "huge right over there!"
-dialogtxt       "I think Murno's there too..."
+dialogtxt       "I see..."
+dialogtxt       "Murno must be there too..."
 goto            @Label_18e8
 
 @Cond_189c:
-dialogtxt       "Look... I see something"
-dialogtxt       "huge right over there!"
-dialogtxt       "I think Murno's there too..."
+dialogtxt       "I see..."
+dialogtxt       "Murno must be there too..."
 goto            @Label_18e8
 
 @Label_18e8:
@@ -588,15 +586,13 @@ call            @Func_2cb4
 code0479        0, 2, 16
 call            @Func_2c12
 jumpz           @Cond_1a98, ($b002 == 0)
-dialogtxt       "Look... I see something"
-dialogtxt       "huge right over there!"
-dialogtxt       "I think Murno's there too..."
+dialogtxt       "I see..."
+dialogtxt       "Murno must be there too..."
 goto            @Label_1ae4
 
 @Cond_1a98:
-dialogtxt       "Look... I see something"
-dialogtxt       "huge right over there!"
-dialogtxt       "I think Murno's there too..."
+dialogtxt       "I see..."
+dialogtxt       "Murno must be there too..."
 goto            @Label_1ae4
 
 @Label_1ae4:
@@ -639,15 +635,13 @@ call            @Func_2cb4
 code0479        0, 2, 16
 call            @Func_2c12
 jumpz           @Cond_1c98, ($b002 == 0)
-dialogtxt       "Look... I see something"
-dialogtxt       "huge right over there!"
-dialogtxt       "I think Murno's there too..."
+dialogtxt       "I see..."
+dialogtxt       "Murno must be there too..."
 goto            @Label_1ce4
 
 @Cond_1c98:
-dialogtxt       "Look... I see something"
-dialogtxt       "huge right over there!"
-dialogtxt       "I think Murno's there too..."
+dialogtxt       "I see..."
+dialogtxt       "Murno must be there too..."
 goto            @Label_1ce4
 
 @Label_1ce4:
@@ -690,15 +684,13 @@ call            @Func_2cb4
 code0479        0, 2, 16
 call            @Func_2c12
 jumpz           @Cond_1e94, ($b002 == 0)
-dialogtxt       "Look... I see something"
-dialogtxt       "huge right over there!"
-dialogtxt       "I think Murno's there too..."
+dialogtxt       "I see..."
+dialogtxt       "Murno must be there too..."
 goto            @Label_1ee0
 
 @Cond_1e94:
-dialogtxt       "Look... I see something"
-dialogtxt       "huge right over there!"
-dialogtxt       "I think Murno's there too..."
+dialogtxt       "I see..."
+dialogtxt       "Murno must be there too..."
 goto            @Label_1ee0
 
 @Label_1ee0:
@@ -707,7 +699,7 @@ call            @Func_2c48
 code0479        1, 2, 16
 call            @Func_2c7e
 dialogtxt       "I know we're going to face"
-dialogtxt       "Master Bostaph eventually, but..."
+dialogtxt       "Bostaph eventually, but..."
 dialogtxt       "We need to brace ourselves"
 code0309        
 call            @Func_2cb4
@@ -770,8 +762,8 @@ code0309
 call            @Func_2c48
 code0479        1, 0, 12
 call            @Func_2c7e
-dialogtxt       "It Is Likely Injury Rates Will"
-dialogtxt       "Increase From The Explosion."
+dialogtxt       "It Is Likely Injury Rates Have"
+dialogtxt       "Increased From The Explosion."
 dialogtxt       "We Must Leave Posthaste."
 code0309        
 call            @Func_2d22
@@ -784,7 +776,7 @@ call            @Func_2ccc
 call            @Func_2c12
 dialogtxt       "You're right..."
 dialogtxt       "It's thanks to you that both"
-dialogtxt       "of us are saved, [NAME 1]"
+dialogtxt       "of us are saved."
 code047b        
 code0309        
 code0479        0, 1, 12
@@ -818,7 +810,7 @@ code047d        1, 107
 call            @Func_2ce2
 call            @Func_2c7e
 dialogtxt       "Oh! Um..."
-dialogtxt       "Of course! Thank you,"
+dialogtxt       "Of course! Thank you too,"
 dialogtxt       "[NAME 2]..."
 code047b        
 code0309        
@@ -838,9 +830,9 @@ code0309
 call            @Func_2c48
 code0479        1, 2, 16
 call            @Func_2c7e
-dialogtxt       "Hrm... It's likely that there a lot"
-dialogtxt       "of lot of casualities from that"
-dialogtxt       "blast. We should flee while we can."
+dialogtxt       "Hrm... It's likely that there were"
+dialogtxt       "some injuries caused by that blast."
+dialogtxt       "We should flee while we can."
 code0309        
 call            @Func_2d22
 call            @Func_2cb4
@@ -852,7 +844,7 @@ call            @Func_2ccc
 call            @Func_2c12
 dialogtxt       "You're right..."
 dialogtxt       "It's thanks to you that both"
-dialogtxt       "of us are saved, [NAME 1]"
+dialogtxt       "of us are saved."
 code047b        
 code0309        
 code0479        0, 1, 12
@@ -886,7 +878,7 @@ code047d        1, 107
 call            @Func_2ce2
 call            @Func_2c7e
 dialogtxt       "Oh! Um..."
-dialogtxt       "Of course! Thank you,"
+dialogtxt       "Of course! Thank you too,"
 dialogtxt       "[NAME 2]..."
 code047b        
 code0309        
@@ -907,7 +899,7 @@ call            @Func_2c48
 code0479        1, 0, 13
 call            @Func_2c7e
 dialogtxt       "Huff... That blast just now"
-dialogtxt       "really took a huge toll on me..."
+dialogtxt       "was quite the sight..."
 dialogtxt       "Guess I'll see what I can do."
 code0309        
 call            @Func_2d22
@@ -920,7 +912,7 @@ call            @Func_2ccc
 call            @Func_2c12
 dialogtxt       "I'm concerned about you... If you"
 dialogtxt       "weren't here, [NAME 1], I can't"
-dialogtxt       "imagine what would happen next..."
+dialogtxt       "imagine what would've happened..."
 code047b        
 code0309        
 code0479        0, 0, 16
@@ -955,7 +947,7 @@ code047d        1, 107
 call            @Func_2ce2
 call            @Func_2c7e
 dialogtxt       "Oh! Um..."
-dialogtxt       "Of course! Thank you,"
+dialogtxt       "Of course! Thank you too,"
 dialogtxt       "[NAME 2]..."
 code047b        
 code0309        
@@ -975,8 +967,8 @@ code0309
 call            @Func_2c48
 code0479        1, 2, 14
 call            @Func_2c7e
-dialogtxt       "Indeed... We're likely to get"
-dialogtxt       "injured from that blast earlier."
+dialogtxt       "Some of them may have been injured"
+dialogtxt       "by that blast from earlier."
 dialogtxt       "Let's hurry and leave..."
 code0309        
 call            @Func_2d22
@@ -989,7 +981,7 @@ call            @Func_2ccc
 call            @Func_2c12
 dialogtxt       "You're right..."
 dialogtxt       "It's thanks to you that both"
-dialogtxt       "of us are saved, [NAME 1]"
+dialogtxt       "of us are saved."
 code047b        
 code0309        
 code0479        0, 1, 12
@@ -1023,7 +1015,7 @@ code047d        1, 107
 call            @Func_2ce2
 call            @Func_2c7e
 dialogtxt       "Oh! Um..."
-dialogtxt       "Of course! Thank you,"
+dialogtxt       "Of course! Thank you too,"
 dialogtxt       "[NAME 2]..."
 code047b        
 code0309        

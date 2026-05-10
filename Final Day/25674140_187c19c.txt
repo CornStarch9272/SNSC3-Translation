@@ -383,7 +383,8 @@ code0309
 call            @Func_2d96
 code0479        1, 2, 16
 call            @Func_2dcc
-dialogtxt       "Obviously... Not... I won't last long..."
+dialogtxt       "Obviously... not..."
+dialogtxt       "I won't last long..."
 code0309        
 code0479        1, 4, 16
 code0479        0, 2, 14
@@ -410,7 +411,8 @@ code0309
 call            @Func_2d96
 code0479        1, 2, 14
 call            @Func_2dcc
-dialogtxt       "I can feel it... The desire to kill you..."
+dialogtxt       "I can feel it..."
+dialogtxt       "The desire to kill you..."
 dialogtxt       "So..."
 code0309        
 call            @Func_2e02
@@ -537,7 +539,7 @@ code0309
 code0479        1, 2, 16
 code0479        0, 2, 14
 dialogtxt       "The hatred bottled up in that sword..."
-dialogtxt       "Is affecting me..."
+dialogtxt       "is affecting me..."
 code0309        
 call            @Func_2e02
 code0479        0, 2, 15
@@ -829,12 +831,12 @@ code0479        0, 2, 16
 call            @Func_2d60
 jumpz           @Cond_2378, ($b002 == 0)
 dialogtxt       "No..."
-dialogtxt       "That's a lie, right, [NAME 1]!"
+dialogtxt       "That's a lie, right [NAME 1]!"
 goto            @Label_23a4
 
 @Cond_2378:
 dialogtxt       "No..."
-dialogtxt       "That's a lie, right, [NAME 1]!"
+dialogtxt       "That's a lie, right [NAME 1]!"
 goto            @Label_23a4
 
 @Label_23a4:

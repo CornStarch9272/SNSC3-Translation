@@ -205,12 +205,12 @@ code0479        0, 4, 15
 call            @Func_17ac
 jumpz           @Cond_08fe, ($b002 == 0)
 dialogtxt       "No..."
-dialogtxt       "That's a lie, right, [NAME 1]!"
+dialogtxt       "That's a lie, right [NAME 1]!"
 goto            @Label_0932
 
 @Cond_08fe:
 dialogtxt       "No..."
-dialogtxt       "That's a lie, right, [NAME 1]!"
+dialogtxt       "That's a lie, right [NAME 1]!"
 goto            @Label_0932
 
 @Label_0932:
@@ -250,7 +250,7 @@ code0479        0, 4, 16
 call            @Func_1866
 call            @Func_17ac
 jumpz           @Cond_0a82, ($b002 == 0)
-dialogtxt       "Shit..."
+dialogtxt       "Crap..."
 dialogtxt       "What should I do..."
 goto            @Label_0ab8
 
@@ -317,7 +317,7 @@ dialogtxt       "Call back"
 dialogtxt       "[NAME 1]'s heart..."
 code0309        
 code0479        1, 2, 12
-dialogtxt       "The you who always trained with"
+dialogtxt       "The \"you\" who always trained with"
 dialogtxt       "[NAME 1]... Can definitely..."
 dialogtxt       "So [NAME 2]..."
 code0309        

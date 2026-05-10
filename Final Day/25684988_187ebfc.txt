@@ -205,12 +205,12 @@ code0479        0, 4, 15
 call            @Func_1b08
 jumpz           @Cond_08fe, ($b002 == 0)
 dialogtxt       "No..."
-dialogtxt       "That's a lie, right, [NAME 1]!"
+dialogtxt       "That's a lie, right [NAME 1]!"
 goto            @Label_0932
 
 @Cond_08fe:
 dialogtxt       "No..."
-dialogtxt       "That's a lie, right, [NAME 1]!"
+dialogtxt       "That's a lie, right [NAME 1]!"
 goto            @Label_0932
 
 @Label_0932:
@@ -250,7 +250,7 @@ code0479        0, 4, 16
 call            @Func_1bc2
 call            @Func_1b08
 jumpz           @Cond_0a82, ($b002 == 0)
-dialogtxt       "Shit..."
+dialogtxt       "Crap..."
 dialogtxt       "What should I do..."
 goto            @Label_0ab8
 
@@ -325,7 +325,7 @@ code0309
 call            @Func_1b3e
 code0479        1, 5, 17
 call            @Func_1b74
-dialogtxt       "Ki...!?"
+dialogtxt       "Kill!?"
 dialogtxt       "What the heck?"
 dialogtxt       "What's she mean?"
 code0309        
@@ -344,13 +344,13 @@ code047b
 code0309        
 code0479        0, 4, 14
 jumpz           @Cond_0f08, ($b002 == 0)
-dialogtxt       "No longer"
-dialogtxt       "recognizes me..."
+dialogtxt       "They no longer"
+dialogtxt       "recognize me..."
 goto            @Label_0f42
 
 @Cond_0f08:
-dialogtxt       "No longer"
-dialogtxt       "recognizes me..."
+dialogtxt       "They no longer"
+dialogtxt       "recognize me..."
 goto            @Label_0f42
 
 @Label_0f42:
@@ -368,7 +368,6 @@ code043c        11, 2
 code0479        1, 2, 14
 call            @Func_1bee
 call            @Func_1b56
-dialogtxt       "No longer...?"
 dialogtxt       "There's no way"
 dialogtxt       "that's true!"
 code0309        
@@ -406,7 +405,7 @@ code0479        1, 2, 16
 call            @Func_1b74
 dialogtxt       "Voice?"
 dialogtxt       "Who needs words,"
-dialogtxt       "you two are Craftknights, right!"
+dialogtxt       "you two are Craftknights, right?"
 code0309        
 call            @Func_1baa
 code0479        0, 5, 16

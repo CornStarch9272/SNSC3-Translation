@@ -64,11 +64,11 @@ call            @Func_0fb0
 code0479        1, 1, 16
 call            @Func_0fe6
 jumpz           @Cond_031e, ($b002 == 0)
-dialogtxt       "Is it really that embarrassing..."
+dialogtxt       "Is it really that embarrassing...?"
 goto            @Label_035e
 
 @Cond_031e:
-dialogtxt       "Is it really that embarrassing..."
+dialogtxt       "Is it really that embarrassing...?"
 goto            @Label_035e
 
 @Label_035e:

@@ -108,7 +108,7 @@ goto            @Cond_0472
 goto            @Label_0476
 
 @Label_0476:
-placetxt        "Mishus Abandoned Site　Area 06"
+placetxt        "Mishus Abandoned Site　Area 6"
 code040b        
 
 @Event_0498:

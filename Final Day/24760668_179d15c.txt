@@ -169,7 +169,7 @@ code0479        1, 4, 14
 call            @Func_3a00
 dialogtxt       "I have bad feeling about this..."
 dialogtxt       "I really hope, just this once,"
-dialogtxt       "that my gut is wrong all along..."
+dialogtxt       "that my gut is wrong..."
 code0309        
 call            @Func_3a36
 code0479        0, 2, 16
@@ -801,7 +801,7 @@ code0309
 call            @Func_39ca
 code0479        1, 2, 12
 call            @Func_3a00
-dialogtxt       "...Yes."
+dialogtxt       "... Yes."
 code0309        
 call            @Func_3ad0
 call            @Func_3a1e
@@ -1071,9 +1071,9 @@ code0309
 call            @Func_39ca
 code0479        1, 2, 14
 call            @Func_3a00
-dialogtxt       "It used to be a beautiful village,"
-dialogtxt       "and I want to tell you more, but"
-dialogtxt       "we have no time. We have to..."
+dialogtxt       "It was such a beautiful village..."
+dialogtxt       "I'd love to tell you more,"
+dialogtxt       "but we have no time."
 code0309        
 call            @Func_3a36
 code0479        0, 2, 14

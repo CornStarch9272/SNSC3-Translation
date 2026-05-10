@@ -2,10 +2,9 @@
 jumpz           @Cond_00a8, ($f0038 == 1 && $f0045 == 0 && $h311 == 12)
 code0361        $b003
 code0300        
-popuptxt        "<partner/ > has woken up!"
+popuptxt        "[NAME 1] has woken up!"
 code0318        
-popuptxt        "Do you want to change your"
-popuptxt        "your equipment now?"
+popuptxt        "Change equipment now?"
 code0318        
 code0312        
 code0313        @Menu_00a4
