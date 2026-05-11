@@ -88,7 +88,7 @@ goto            @Cond_039c
 goto            @Label_03a0
 
 @Label_03a0:
-placetxt        "Surange Mine Area 3"
+placetxt        "Surange Mine　Area 3"
 code040b        
 
 @Event_03c4:

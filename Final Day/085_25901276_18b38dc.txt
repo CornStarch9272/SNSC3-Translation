@@ -118,7 +118,7 @@ code046c        1
 goto            @Cond_053e
 
 @Cond_053e:
-placetxt        "Govan Ruins　Magic Amplifier Area"
+placetxt        "Govan Ruins　Magic Amplifier"
 code040b        
 
 setvar          $h096, 47

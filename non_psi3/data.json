@@ -23006,7 +23006,7 @@
                             "new address": null,
                             "pointer address": null,
                             "raw": "裏には発火注意と書いてある\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
-                            "translation": "\"Warning: Flammable\" is written on the back\u0000\u0000",
+                            "translation": "Flammable is written on the back\u0000\u0000",
                             "type": "SJIS string"
                         },
                         "offset": 44,
@@ -52907,7 +52907,7 @@
                     }
                 ],
                 "raw": "新たに「強化」を習得しました\u0000\u0000\u0000\u0000",
-                "translation": "Learned \"Upgrade\"\u0000\u0000\u0000",
+                "translation": " Learned Upgrade\u0000\u0000\u0000",
                 "type": "SJIS string"
             },
             {
@@ -52924,7 +52924,7 @@
                     }
                 ],
                 "raw": "１個のアイテムを武器に強化できます\u0000\u0000",
-                "translation": "Upgrade weapons with 1 item\u0000",
+                "translation": " Upgrade weapons with 1 item\u0000",
                 "type": "SJIS string"
             },
             {
