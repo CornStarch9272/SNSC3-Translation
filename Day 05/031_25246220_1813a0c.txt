@@ -324,8 +324,8 @@ code031c        8, 1
 code031f        8
 code031c        7, 2
 code031f        7
-dialogtxt       "The rumors say the Stray Summons"
-dialogtxt       "are going berserk because of her..."
+dialogtxt       "The earthquakes, the Strays,"
+dialogtxt       "all of it is caused by one girl."
 code0309        
 code031c        7, 1
 code031f        7
@@ -603,4 +603,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-
