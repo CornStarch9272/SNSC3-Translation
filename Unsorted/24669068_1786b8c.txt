@@ -62,7 +62,7 @@ code0368
 code043d        0, 200, 192
 code043c        0, 1
 call            @Func_038a
-popuptxt        "You feel refreshed!"
+popuptxt        " You feel refreshed!"
 code0318        
 code040b        
 

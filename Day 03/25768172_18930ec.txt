@@ -164,7 +164,7 @@ setvar          $h137, 30
 call            @Func_08de
 code0421        0
 code0368        
-popuptxt        "You feel refreshed!"
+popuptxt        " You feel refreshed!"
 code0318        
 code0461        1
 code040b        
@@ -193,7 +193,7 @@ code0309
 code047e        0, 0
 code0302        7
 code0366        507, 1
-popuptxt        "You found the lost cat!"
+popuptxt        " Found the lost kitty!"
 code0318        
 code043b        15
 code0439        15

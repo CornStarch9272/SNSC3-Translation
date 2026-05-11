@@ -25,7 +25,7 @@ goto            @Label_002a
 code036f        
 jumpz           @Cond_00b6, ($b071 != 1)
 code0300        
-popuptxt        "Please equip only one weapon"
+popuptxt        " Please equip only one weapon."
 code0318        
 goto            @Label_002a
 

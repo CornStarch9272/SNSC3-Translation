@@ -4,7 +4,7 @@ code0312
 menutxt         @Menu_0048, "Main Story"
 menutxt         @Menu_11b2, "Free Time"
 menutxt         @Menu_1240, "Sound Test"
-menutxt         @Menu_124c, "Extra"
+menutxt         @Menu_124c, "Extras"
 menutxt         @Menu_1258, "Link"
 menuwait        
 

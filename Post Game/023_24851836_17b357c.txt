@@ -511,7 +511,7 @@ code043e        0, 59, 1
 code033a        112, 0
 code033e        112
 code043f        0
-popuptxt        "I got the special bow item set!"
+popuptxt        " Got the special bow item set!"
 code0318        
 code0301        8, 7
 code047d        0, 143

@@ -18,7 +18,7 @@ code031a        0
 code036a        507
 jumpz           @Cond_0126, $b070
 code0366        507, -1
-popuptxt        "The cat ran away!"
+popuptxt        " Kitty ran away!"
 code0318        
 goto            @Cond_0126
 
@@ -26,8 +26,7 @@ goto            @Cond_0126
 code036a        513
 jumpz           @Cond_0172, $b070
 code0366        513, -1
-popuptxt        "You received a letter"
-popuptxt        "of complaint!"
+popuptxt        " Letter of complaint received!"
 code0318        
 code0366        520, 1
 goto            @Cond_0172
