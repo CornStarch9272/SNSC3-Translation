@@ -1078,7 +1078,7 @@ call            @Func_3b8a
 code043c        5, 2
 call            @Func_3ad0
 choicetxt       @Choice_2e72, "Of course I'll win!"
-choicetxt       @Choice_2ed8, "Actually I'm not that sure..."
+choicetxt       @Choice_2ed8, "Actually, I'm not that sure..."
 code047b        
 choicewait      
 

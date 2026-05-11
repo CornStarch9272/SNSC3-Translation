@@ -329,14 +329,14 @@ dialogtxt       "I know quite a lot about smithing."
 dialogtxt       "Feel free to ask me anything."
 code0309        
 code047e        0, 0
-choicetxt       @Choice_0e8c, "Teach me about upgrading"
-choicetxt       @Choice_0f54, "Teach me about disassembly"
-choicetxt       @Choice_106c, "Nothing right now"
+choicetxt       @Choice_0e8c, "Teach me about upgrading."
+choicetxt       @Choice_0f54, "Teach me about disassembly."
+choicetxt       @Choice_106c, "Sorry, but not right now."
 choicewait      
 
 @Choice_0e8c:
 code047e        0, 1
-dialogtxt       "Upgrade is when you"
+dialogtxt       "Upgrading is when you"
 dialogtxt       "combine items with a weapon"
 dialogtxt       "to make it stronger."
 code0309        
@@ -348,7 +348,7 @@ goto            @Label_1096
 
 @Choice_0f54:
 code047e        0, 1
-dialogtxt       "Dissassembly lets you break"
+dialogtxt       "Disassembly lets you break"
 dialogtxt       "down a weapon into a Shapestone."
 code0309        
 dialogtxt       "But that's not all."

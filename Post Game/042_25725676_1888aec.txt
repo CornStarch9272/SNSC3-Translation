@@ -41,7 +41,7 @@ goto            @Label_003c
 
 @Cond_00b8:
 code0301        8, 7
-choicetxt       @Choice_0100, "Master! I've got one million boam..."
+choicetxt       @Choice_0100, "Master! I've got one million boam."
 choicetxt       @Choice_181e, "It's nothing..."
 choicewait      
 
@@ -735,7 +735,7 @@ goto            @Cond_1c6e
 call            @Func_2340
 call            @Func_229e
 choicetxt       @Choice_1c96, "Let's fight now!"
-choicetxt       @Choice_1cb0, "Let's fight later..."
+choicetxt       @Choice_1cb0, "Let's fight later."
 choicewait      
 
 @Choice_1c96:

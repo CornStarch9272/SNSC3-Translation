@@ -451,7 +451,7 @@ dialogtxt       "earning money for our future."
 code0309        
 jumpz           @Cond_15fc, ($f1247 == 0)
 dialogtxt       "You're a Craftknight, aren't you?"
-dialogtxt       "Wanna hear an upgrade tip?"
+dialogtxt       "Want to hear an upgrade tip?"
 code0309        
 code047e        0, 0
 choicetxt       @Choice_13a6, "Sure thing!"
@@ -471,8 +471,8 @@ code0309
 dialogtxt       "How about it?"
 code0309        
 code047e        0, 0
-choicetxt       @Choice_149c, "Buy"
-choicetxt       @Choice_15b2, "Don't buy"
+choicetxt       @Choice_149c, "I'll take it!"
+choicetxt       @Choice_15b2, "I'll pass."
 choicewait      
 
 @Choice_149c:

@@ -229,7 +229,7 @@ dialogtxt       "Hmm?"
 code047b        
 code0309        
 choicetxt       @Choice_09f4, "... I understand."
-choicetxt       @Choice_0ad2, "What...?"
+choicetxt       @Choice_0ad2, "... What?"
 choicewait      
 
 @Choice_09f4:

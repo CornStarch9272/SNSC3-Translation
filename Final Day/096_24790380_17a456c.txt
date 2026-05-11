@@ -783,8 +783,8 @@ code0309
 dialogtxt       "How about it?"
 code0309        
 code047e        0, 0
-choicetxt       @Choice_203e, "Buy"
-choicetxt       @Choice_2154, "Don't buy"
+choicetxt       @Choice_203e, "I'll take it!"
+choicetxt       @Choice_2154, "I'll pass."
 choicewait      
 
 @Choice_203e:

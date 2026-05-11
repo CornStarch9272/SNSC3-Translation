@@ -213,18 +213,18 @@ code0479        0, 0, 16
 call            @Func_1dda
 dialogtxt       "Well..."
 code0309        
-choicetxt       @Choice_09d8, "She's probably strong."
-choicetxt       @Choice_0afe, "Looks pretty weak to me."
+choicetxt       @Choice_09d8, "(She looks strong.)"
+choicetxt       @Choice_0afe, "(Looks pretty weak to me.)"
 choicewait      
 
 @Choice_09d8:
 code0479        0, 0, 12
 jumpz           @Cond_0a16, ($b002 == 0)
-dialogtxt       "You are strong, aren't you?"
+dialogtxt       "You ARE strong, aren't you?"
 goto            @Label_0a34
 
 @Cond_0a16:
-dialogtxt       "You are strong, aren't you?"
+dialogtxt       "You ARE strong, aren't you?"
 goto            @Label_0a34
 
 @Label_0a34:

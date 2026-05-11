@@ -356,8 +356,8 @@ dialogtxt       "you're a skilled Craftknight, care"
 dialogtxt       "to show me your Crafting Rank?"
 code0309        
 code047e        0, 0
-choicetxt       @Choice_0f5c, "Tell her."
-choicetxt       @Choice_1a88, "Don't tell her."
+choicetxt       @Choice_0f5c, "Sure."
+choicetxt       @Choice_1a88, "No."
 choicewait      
 
 @Choice_0f5c:

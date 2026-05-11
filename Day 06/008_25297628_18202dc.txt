@@ -82,9 +82,9 @@ goto            @Label_03b0
 @Label_03b0:
 code0309        
 code0479        0, 2, 12
-choicetxt       @Choice_080c, "There's 5 types!"
-choicetxt       @Choice_080c, "There's 6 types!"
-choicetxt       @Choice_03ec, "There's 7 types!"
+choicetxt       @Choice_080c, "There's five types!"
+choicetxt       @Choice_080c, "There's six types!"
+choicetxt       @Choice_03ec, "There's seven types!"
 choicewait      
 
 @Choice_03ec:

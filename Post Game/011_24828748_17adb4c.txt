@@ -354,8 +354,8 @@ dialogtxt       "come along as a Craftknight?"
 dialogtxt       "Come on, I wanna know!"
 code0309        
 code047e        0, 0
-choicetxt       @Choice_0f86, "Tell her."
-choicetxt       @Choice_16c6, "Don't tell her."
+choicetxt       @Choice_0f86, "Sure."
+choicetxt       @Choice_16c6, "No."
 choicewait      
 
 goto            @Choice_0f86

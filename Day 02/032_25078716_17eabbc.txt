@@ -383,12 +383,12 @@ dialogtxt       "..."
 code0309        
 jumpz           @Cond_0fc2, ($b002 == 0)
 choicetxt       @Choice_100a, "Alright! Let's do it!"
-choicetxt       @Choice_112e, "No way...! I can't fight!"
+choicetxt       @Choice_112e, "No way!"
 goto            @Label_1008
 
 @Cond_0fc2:
 choicetxt       @Choice_100a, "Alright! Let's do it!"
-choicetxt       @Choice_112e, "No way...! I can't fight!"
+choicetxt       @Choice_112e, "No way!"
 goto            @Label_1008
 
 @Label_1008:

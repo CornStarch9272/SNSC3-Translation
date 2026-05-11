@@ -403,8 +403,8 @@ code0309
 dialogtxt       "How about it?"
 code0309        
 code047e        0, 0
-choicetxt       @Choice_11dc, "Sold."
-choicetxt       @Choice_12f2, "No thanks."
+choicetxt       @Choice_11dc, "I'll take it!"
+choicetxt       @Choice_12f2, "I'll pass."
 choicewait      
 
 @Choice_11dc:

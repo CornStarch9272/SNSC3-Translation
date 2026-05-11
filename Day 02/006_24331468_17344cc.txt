@@ -523,8 +523,8 @@ dialogtxt       "You're a Craftknight, aren't you?"
 dialogtxt       "Want to hear about upgrading?"
 code0309        
 code047e        0, 0
-choicetxt       @Choice_1658, "Sure!"
-choicetxt       @Choice_1922, "Nah, I'm fine."
+choicetxt       @Choice_1658, "Yes, please."
+choicetxt       @Choice_1922, "No, thank you."
 choicewait      
 
 @Choice_1658:
@@ -544,8 +544,8 @@ code0309
 dialogtxt       "Will you buy it?"
 code0309        
 code047e        0, 0
-choicetxt       @Choice_17ba, "Buy"
-choicetxt       @Choice_18d0, "Don't buy"
+choicetxt       @Choice_17ba, "I'll take it!"
+choicetxt       @Choice_18d0, "I'll pass."
 choicewait      
 
 @Choice_17ba:
