@@ -27698,7 +27698,7 @@
                             "new address": null,
                             "pointer address": null,
                             "raw": "裏福引き屋へ入ることが許される\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
-                            "translation": "Entry for the lottery's shady room\u0000",
+                            "translation": "Card for the Shady Lottery Shop\u0000",
                             "type": "SJIS string"
                         },
                         "offset": 44,

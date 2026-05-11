@@ -10,7 +10,7 @@ code0412        4, 1
 code0418        2
 setvar          $b075, 1
 setvar          $b072, 0
-placetxt        "Prosban Town　Back Lottery Shop"
+placetxt        "Prosban　Shady Lottery Shop"
 code040c        1, @Label_049c
 code040c        2, @Label_0492
 call            @Func_0c54
