@@ -382,9 +382,9 @@ code0366        526, 1
 code0367        
 code0301        0, 7
 code0305        1
-dialogtxt       "Having the Sword Scroll"
-dialogtxt       "in your inventory while saving lets"
-dialogtxt       "you unlock \"Lemmy\" in Bonus Mode!"
+dialogtxt       " Having the Sword Scroll"
+dialogtxt       " in your inventory while saving"
+dialogtxt       " unlocks \"Lemmy\" in Bonus Mode!"
 code0309        
 code0302        7
 goto            @Cond_110c
@@ -408,9 +408,9 @@ code0366        524, 1
 code0367        
 code0301        0, 7
 code0305        1
-dialogtxt       "Having the Axe Scroll"
-dialogtxt       "in your inventory while saving lets"
-dialogtxt       "you unlock \"V.E\" in Bonus Mode!"
+dialogtxt       " Having the Axe Scroll"
+dialogtxt       " in your inventory while saving"
+dialogtxt       " unlocks \"V.E\" in Bonus Mode!"
 code0309        
 code0302        7
 goto            @Cond_129e
@@ -434,9 +434,9 @@ code0366        528, 1
 code0367        
 code0301        0, 7
 code0305        1
-dialogtxt       "Having the Spear Scroll"
-dialogtxt       "in your inventory while saving lets"
-dialogtxt       "you unlock \"Anise\" in Bonus Mode!"
+dialogtxt       " Having the Spear Scroll"
+dialogtxt       " in your inventory while saving"
+dialogtxt       " unlocks \"Anise\" in Bonus Mode!"
 code0309        
 code0302        7
 goto            @Cond_1432
@@ -460,9 +460,9 @@ code0366        525, 1
 code0367        
 code0301        0, 7
 code0305        1
-dialogtxt       "Having the Knuckle Scroll"
-dialogtxt       "in your inventory while saving lets"
-dialogtxt       "you unlock \"Jade\" in Bonus Mode!"
+dialogtxt       " Having the Knuckle Scroll"
+dialogtxt       " in your inventory while saving"
+dialogtxt       " unlocks \"Jade\" in Bonus Mode!"
 code0309        
 code0302        7
 goto            @Cond_15ca
@@ -486,9 +486,9 @@ code0366        530, 1
 code0367        
 code0301        0, 7
 code0305        1
-dialogtxt       "Having the Drill Scroll"
-dialogtxt       "in your inventory while saving lets"
-dialogtxt       "you unlock \"Bostaph\" in Bonus Mode!"
+dialogtxt       " Having the Drill Scroll"
+dialogtxt       " in your inventory while saving"
+dialogtxt       " unlocks \"Bostaph\" in Bonus Mode!"
 code0309        
 code0302        7
 goto            @Cond_1760
@@ -512,9 +512,9 @@ code0366        527, 1
 code0367        
 code0301        0, 7
 code0305        1
-dialogtxt       "Having the Bow Scroll"
-dialogtxt       "in your inventory while saving lets"
-dialogtxt       "you unlock \"Tier\" in Bonus Mode!"
+dialogtxt       " Having the Bow Scroll"
+dialogtxt       " in your inventory while saving"
+dialogtxt       " unlocks \"Tier\" in Bonus Mode!"
 code0309        
 code0302        7
 goto            @Cond_18ec

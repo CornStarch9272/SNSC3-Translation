@@ -170,43 +170,43 @@ dialogtxt       "amazing prize coming!"
 goto            @Label_08cc
 
 @Label_08cc:
-dialogtxt       "Available prizes are..."
+dialogtxt       " Available prizes are..."
 code0309        
-dialogtxt       "First Place: Magic Bracelet"
-dialogtxt       "Second Place: Love Letter"
-dialogtxt       "Third Place: Accel Device"
+dialogtxt       " First Place: Magic Bracelet"
+dialogtxt       " Second Place: Love Letter"
+dialogtxt       " Third Place: Accel Device"
 code0309        
-dialogtxt       "Fourth Place: Paralysis Powder"
-dialogtxt       "Fifth Place: Sleep Powder"
-dialogtxt       "And that's all!"
+dialogtxt       " Fourth Place: Paralysis Powder"
+dialogtxt       " Fifth Place: Sleep Powder"
+dialogtxt       " And that's all!"
 goto            @Label_0afa
 
 @Cond_0962:
 jumpz           @Cond_0a36, ($h311 == 12)
-dialogtxt       "Don't be too sad if you"
-dialogtxt       "don't get the grand prize!"
+dialogtxt       " Don't be too sad if you"
+dialogtxt       " don't get the grand prize!"
 code0309        
-dialogtxt       "First Place: Friendship Ring"
-dialogtxt       "Second Place: Splendid Mineral"
-dialogtxt       "Third Place: Excellent Ore"
+dialogtxt       " First Place: Friendship Ring"
+dialogtxt       " Second Place: Splendid Mineral"
+dialogtxt       " Third Place: Excellent Ore"
 code0309        
-dialogtxt       "Fourth Place: Banish Material"
-dialogtxt       "Fifth Place: Sash Ore"
-dialogtxt       "And that's all!"
+dialogtxt       " Fourth Place: Banish Material"
+dialogtxt       " Fifth Place: Sash Ore"
+dialogtxt       " And that's all!"
 goto            @Label_0afa
 
 @Cond_0a36:
 jumpz           @Label_0afa, ($h311 == 99)
-dialogtxt       "This is the last one! Go for it!"
-dialogtxt       "Available prizes are..."
+dialogtxt       " This is the last one! Go for it!"
+dialogtxt       " Available prizes are..."
 code0309        
-dialogtxt       "First Place: Ultimate Motor"
-dialogtxt       "Second Place: Steelfang Crystal"
-dialogtxt       "Third Place: Mad Ghost Ore"
+dialogtxt       " First Place: Ultimate Motor"
+dialogtxt       " Second Place: Steelfang Crystal"
+dialogtxt       " Third Place: Mad Ghost Ore"
 code0309        
-dialogtxt       "Fourth Place: Yubis Ore"
-dialogtxt       "Fifth Place: Resistor Crystal"
-dialogtxt       "Nuooooooooh!"
+dialogtxt       " Fourth Place: Yubis Ore"
+dialogtxt       " Fifth Place: Resistor Crystal"
+dialogtxt       " Nuooooooooh!"
 goto            @Label_0afa
 
 @Label_0afa:

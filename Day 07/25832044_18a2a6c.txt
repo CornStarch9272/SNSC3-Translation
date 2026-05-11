@@ -280,9 +280,9 @@ code040b
 @Event_0c5e:
 code0301        0, 9
 code0305        1
-dialogtxt       "Open the door by pressing"
-dialogtxt       "the matching switch for"
-dialogtxt       "the weapon shown."
+dialogtxt       " Open the door by pressing"
+dialogtxt       " the matching switch for"
+dialogtxt       " the weapon shown."
 code0309        
 code0302        9
 code040b        

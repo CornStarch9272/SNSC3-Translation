@@ -425,9 +425,9 @@ code0366        529, 1
 code0367        
 code0301        0, 7
 code0305        1
-dialogtxt       "Keeping the Crafter's Secrets"
-dialogtxt       "in your inventory while"
-dialogtxt       "saving unlocks \"Rob\" in Bonus Mode!"
+dialogtxt       " Keeping the Crafter's Secrets"
+dialogtxt       " in your inventory while saving"
+dialogtxt       " unlocks \"Rob\" in Bonus Mode!"
 code0309        
 code0302        7
 goto            @Cond_1282
@@ -447,7 +447,7 @@ dialogtxt       "get all the Secret Scrolls?"
 dialogtxt       "That's such an amazing feat!"
 code0309        
 dialogtxt       "Here! This is for you. They call"
-dialogtxt       "this a Speech Station?"
+dialogtxt       "this a Speech Station."
 dialogtxt       "I have no idea what it's for..."
 code0309        
 code047e        0, 0
@@ -456,9 +456,9 @@ code0366        531, 1
 code0367        
 code0301        0, 7
 code0305        1
-dialogtxt       "Having the Speech Station"
-dialogtxt       "in your inventory while saving lets"
-dialogtxt       "you unlock \"VOICE\" in Bonus Mode!"
+dialogtxt       " Having the Speech Station in your"
+dialogtxt       " inventory while saving unlocks"
+dialogtxt       " \"VOICE\" in Bonus Mode!"
 code0309        
 code0302        7
 goto            @Cond_1428
@@ -487,9 +487,9 @@ code0366        533, 1
 code0367        
 code0301        0, 7
 code0305        1
-dialogtxt       "Having the Ultimate War Ticket"
-dialogtxt       "in your inventory while saving"
-dialogtxt       "unlocks \"Boss Attack\" in Bonus Mode!"
+dialogtxt       " Having the Ultimate War Ticket in"
+dialogtxt       " your inventory while saving unlocks"
+dialogtxt       " \"Boss Attack\" in Bonus Mode!"
 code0309        
 code0302        7
 goto            @Cond_15da
