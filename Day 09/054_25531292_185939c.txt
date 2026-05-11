@@ -603,8 +603,8 @@ code0479        0, 0, 12
 call            @Func_29c6
 call            @Func_2962
 dialogtxt       "Okay!"
-dialogtxt       "We'll let the government take care"
-dialogtxt       "of Magdrad and the rest."
+dialogtxt       "We'll let the Gold Faction take"
+dialogtxt       "care of Magdrad and the rest."
 code047b        
 code0309        
 code0479        1, 0, 13

@@ -277,7 +277,7 @@ code047d        0, 122
 code047e        0, 1
 dialogtxt       "We here live peacefully,"
 dialogtxt       "without causing anyone problems."
-dialogtxt       "That day, many lost their family."
+dialogtxt       "That day, many lost their families."
 code0309        
 dialogtxt       "Tram lost both his parents."
 dialogtxt       "Though young, he is very reliable."
