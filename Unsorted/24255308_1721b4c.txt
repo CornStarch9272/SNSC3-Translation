@@ -15,7 +15,7 @@ goto            @Label_0464
 goto            @Cond_00e2
 
 @Cond_00e2:
-menutitle       "Where are you going?"
+menutitle       "DESTINATION"
 code0313        @Label_0464
 jumpz           @Cond_012e, ($f1124 == 1 && ($h319 != 70 ? 1 : 0))
 menutxt         @Menu_0238, "Deckell Village"
@@ -28,7 +28,7 @@ goto            @Cond_0162
 
 @Cond_0162:
 jumpz           @Cond_0196, ($f1126 == 1 && ($h319 != 110 ? 1 : 0))
-menutxt         @Menu_0260, "Prosban Town"
+menutxt         @Menu_0260, "Prosban"
 goto            @Cond_0196
 
 @Cond_0196:

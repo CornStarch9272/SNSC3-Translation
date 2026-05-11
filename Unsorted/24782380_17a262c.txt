@@ -10,7 +10,7 @@ code0412        4, 1
 code0418        2
 setvar          $b075, 1
 setvar          $b072, 0
-placetxt        "Prosban Town"
+placetxt        "Prosban"
 code040c        1, @Label_0696
 code040c        2, @Label_068c
 call            @Func_0e32
@@ -87,7 +87,7 @@ setvar          $h319, 30
 code0409        
 code046e        15, 256, 0
 code041d        
-placetxt        "Prosban Town　North Workshop Street"
+placetxt        "Prosban　North Workshop Street"
 code040b        
 
 @Event_0436:
