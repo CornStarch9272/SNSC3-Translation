@@ -13,7 +13,7 @@ code0422        0, 0
 code046c        1
 setvar          $b075, 1
 setvar          $b072, 1
-placetxt        "Gumag Fire Ruins"
+placetxt        "Ghumag Flame Ruins"
 code040c        0, @Label_07d4
 code040c        1, @Label_0d02
 code040c        2, @Label_0cf8
@@ -147,7 +147,7 @@ goto            @Cond_07b2
 goto            @Label_07b6
 
 @Label_07b6:
-placetxt        "Gumag Fire Ruins　Area 2"
+placetxt        "Ghumag Flame Ruins　Area 2"
 code040b        
 
 @Label_07d4:
