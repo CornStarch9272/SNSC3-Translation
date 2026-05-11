@@ -382,7 +382,7 @@ code047d        1, 108
 call            @Func_4412
 call            @Func_43ae
 dialogtxt       "... Wait."
-dialogtxt       "We don't have enough money..."
+dialogtxt       "We don't have enough boam..."
 code047b        
 code0309        
 call            @Func_4452
@@ -1123,7 +1123,7 @@ code0479        1, 2, 14
 call            @Func_43ae
 dialogtxt       "Knock it off!"
 dialogtxt       "You always talk about"
-dialogtxt       "money this, money that..."
+dialogtxt       "money this, boam that..."
 code0309        
 code0479        1, 2, 15
 dialogbig       255, 116, 1, 0, 0, "It's disgraceful!"

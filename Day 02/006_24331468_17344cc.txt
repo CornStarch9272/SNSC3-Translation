@@ -573,7 +573,7 @@ code0446        17
 code0301        8, 7
 code047e        0, 1
 dialogtxt       "Aww~"
-dialogtxt       "But you don't have the money~"
+dialogtxt       "But you don't have the boam~"
 code0309        
 goto            @Label_1972
 

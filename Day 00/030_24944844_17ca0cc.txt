@@ -39,7 +39,7 @@ code0479        0, 0, 16
 code0479        1, 2, 13
 dialogtxt       "We'd better get [NAME 1]"
 dialogtxt       "up to speed as soon as possible."
-dialogtxt       "We need the money coming in!"
+dialogtxt       "We need the boam coming in!"
 code0309        
 call            @Func_1e54
 call            @Func_1de6
@@ -92,7 +92,7 @@ code0479        0, 5, 14
 code047d        0, 2
 call            @Func_1dfe
 call            @Func_1d44
-dialogtxt       "For the money... I see..."
+dialogtxt       "For the boam... I see..."
 code0309        
 call            @Func_1d7a
 goto            @Cond_046a

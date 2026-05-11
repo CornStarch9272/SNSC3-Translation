@@ -77,11 +77,11 @@ call            @Func_1e7c
 code0479        0, 2, 14
 call            @Func_1dda
 jumpz           @Cond_03da, ($b002 == 0)
-dialogtxt       "Asking for money again?"
+dialogtxt       "Asking for boam again?"
 goto            @Label_03f6
 
 @Cond_03da:
-dialogtxt       "Asking for money again?"
+dialogtxt       "Asking for boam again?"
 goto            @Label_03f6
 
 @Label_03f6:

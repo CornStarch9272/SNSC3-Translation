@@ -65,7 +65,7 @@ dialogtxt       "materials for crafting."
 code0309        
 code0479        1, 1, 13
 dialogtxt       "To a Craftknight,"
-dialogtxt       "that's better than money, correct?"
+dialogtxt       "that's better than boam, correct?"
 code0309        
 call            @Func_29b6
 code0479        0, 2, 16

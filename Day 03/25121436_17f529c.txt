@@ -305,7 +305,7 @@ goto            @Choice_0e34
 
 @Cond_0d74:
 dialogtxt       "Huh..."
-dialogtxt       "You don't have enough money..."
+dialogtxt       "You don't have enough boam..."
 code0309        
 call            @Func_180c
 code0479        1, 2, 15
@@ -363,7 +363,7 @@ call            @Func_1912
 call            @Func_17f4
 code047b        
 setvar          $f0142, 1
-popuptxt        " V.E handed over the money!"
+popuptxt        " V.E handed over the boam!"
 code0318        
 code0478        1, 11
 code0479        1, 1, 12

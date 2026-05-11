@@ -812,7 +812,7 @@ code0446        17
 code0301        8, 7
 code047e        0, 1
 dialogtxt       "Whaaaaaat!? What do you mean"
-dialogtxt       "you don't have enough money!?"
+dialogtxt       "you don't have enough!?"
 dialogtxt       "I'm calling this deal off!"
 code0309        
 goto            @Label_21f6

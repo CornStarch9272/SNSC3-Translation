@@ -432,7 +432,7 @@ code0446        17
 code0301        8, 7
 code047e        0, 1
 dialogtxt       "Whaaat!?"
-dialogtxt       "But you don't have enough money!"
+dialogtxt       "But you don't have enough!"
 dialogtxt       "Cheapskate!"
 code0309        
 goto            @Label_1394

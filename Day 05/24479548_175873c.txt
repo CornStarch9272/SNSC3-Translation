@@ -1097,7 +1097,7 @@ call            @Func_4a0c
 code0479        1, 0, 12
 call            @Func_4a42
 dialogtxt       "There Is A High Probability"
-dialogtxt       "Of Money Being Involved."
+dialogtxt       "Of Boam Being Involved."
 code0309        
 call            @Func_4a78
 code0479        0, 2, 14

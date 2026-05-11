@@ -693,8 +693,8 @@ call            @Func_3a1a
 call            @Func_3978
 code0479        0, 0, 13
 dialogtxt       "Yeah, I already delivered his sword!"
-dialogtxt       "I got the money here, look!"
-dialogtxt       "And I even did the shopping too!"
+dialogtxt       "I got the boam here too. Look!"
+dialogtxt       "And I even did the shopping!"
 goto            @Label_255e
 
 @Label_255e:

@@ -28,11 +28,11 @@ code0479        0, 1, 16
 call            @Func_1b08
 jumpz           @Cond_01c4, ($f0142 == 0)
 jumpz           @Cond_019e, ($b002 == 0)
-dialogtxt       "That was MY money, you know..."
+dialogtxt       "That was MY boam, you know..."
 goto            @Label_01c0
 
 @Cond_019e:
-dialogtxt       "That was MY money, you know..."
+dialogtxt       "That was MY boam, you know..."
 goto            @Label_01c0
 
 @Label_01c0:

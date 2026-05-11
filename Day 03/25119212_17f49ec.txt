@@ -156,7 +156,7 @@ call            @Func_0fce
 code0479        0, 0, 16
 call            @Func_0f2c
 dialogtxt       "Huh..."
-dialogtxt       "You don't have enough money..."
+dialogtxt       "You don't have enough boam..."
 code0309        
 call            @Func_0f62
 code0479        1, 2, 15

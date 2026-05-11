@@ -419,7 +419,7 @@ call            @Func_1bf2
 code0479        0, 0, 16
 call            @Func_1b50
 dialogtxt       "Huh..."
-dialogtxt       "You don't have enough money..."
+dialogtxt       "You don't have enough boam..."
 code0309        
 call            @Func_1b86
 code0479        1, 2, 15
@@ -436,7 +436,7 @@ call            @Func_1b86
 code0479        1, 0, 12
 call            @Func_1bbc
 dialogtxt       "Well, I'll be waiting here"
-dialogtxt       "when you do have the money."
+dialogtxt       "for when you do have enough."
 code0309        
 call            @Func_1c8c
 call            @Func_1bda
