@@ -535,7 +535,8 @@ code0479        0, 5, 16
 code047d        0, 109
 call            @Func_437a
 call            @Func_42c0
-dialogtxt       "\"Murno's?\" Not yours?"
+dialogtxt       "Murno's?"
+dialogtxt       "Not yours?"
 code047b        
 code0309        
 call            @Func_42f6

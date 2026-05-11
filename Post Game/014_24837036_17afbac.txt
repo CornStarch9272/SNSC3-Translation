@@ -410,7 +410,7 @@ code0301        0, 7
 code0305        1
 dialogtxt       " Having the Axe Scroll"
 dialogtxt       " in your inventory while saving"
-dialogtxt       " unlocks \"V.E\" in Bonus Mode!"
+dialogtxt       " unlocks V.E in Bonus Mode!"
 code0309        
 code0302        7
 goto            @Cond_129e
@@ -436,7 +436,7 @@ code0301        0, 7
 code0305        1
 dialogtxt       " Having the Spear Scroll"
 dialogtxt       " in your inventory while saving"
-dialogtxt       " unlocks \"Anise\" in Bonus Mode!"
+dialogtxt       " unlocks Anise in Bonus Mode!"
 code0309        
 code0302        7
 goto            @Cond_1432
@@ -462,7 +462,7 @@ code0301        0, 7
 code0305        1
 dialogtxt       " Having the Knuckle Scroll"
 dialogtxt       " in your inventory while saving"
-dialogtxt       " unlocks \"Jade\" in Bonus Mode!"
+dialogtxt       " unlocks Jade in Bonus Mode!"
 code0309        
 code0302        7
 goto            @Cond_15ca
@@ -488,7 +488,7 @@ code0301        0, 7
 code0305        1
 dialogtxt       " Having the Drill Scroll"
 dialogtxt       " in your inventory while saving"
-dialogtxt       " unlocks \"Bostaph\" in Bonus Mode!"
+dialogtxt       " unlocks Bostaph in Bonus Mode!"
 code0309        
 code0302        7
 goto            @Cond_1760
@@ -514,7 +514,7 @@ code0301        0, 7
 code0305        1
 dialogtxt       " Having the Bow Scroll"
 dialogtxt       " in your inventory while saving"
-dialogtxt       " unlocks \"Tier\" in Bonus Mode!"
+dialogtxt       " unlocks Tier in Bonus Mode!"
 code0309        
 code0302        7
 goto            @Cond_18ec

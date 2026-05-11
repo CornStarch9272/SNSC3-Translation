@@ -460,12 +460,12 @@ choicewait
 
 @Choice_13a6:
 code047e        0, 1
-dialogtxt       "Upgrading with a \"Ruin Switch\""
-dialogtxt       "will add the \"DUR Attack\""
+dialogtxt       "Upgrading with a Ruin Switch"
+dialogtxt       "will add DUR Attack"
 dialogtxt       "to your weapon."
 code0309        
 dialogtxt       "And would you look at that,"
-dialogtxt       "I have one such \"Ruin Switch\""
+dialogtxt       "I have one such Ruin Switch"
 dialogtxt       "available for only... 800 Boam!"
 code0309        
 dialogtxt       "How about it?"

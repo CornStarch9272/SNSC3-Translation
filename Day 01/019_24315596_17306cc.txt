@@ -422,11 +422,11 @@ choicewait
 @Choice_1302:
 code047e        0, 1
 dialogtxt       "Um, let's see. If you use a"
-dialogtxt       "\"Water Shard,\" your weapon"
-dialogtxt       "will gain the \"Water\" element."
+dialogtxt       "Water Shard, your weapon"
+dialogtxt       "will gain the Water element."
 code0309        
 dialogtxt       "Astoundingly, for one time only,"
-dialogtxt       "I have one \"Water Shard\" on sale"
+dialogtxt       "I have one Water Shard on sale"
 dialogtxt       "for just 100 Boam!"
 code0309        
 dialogtxt       "How about it?"

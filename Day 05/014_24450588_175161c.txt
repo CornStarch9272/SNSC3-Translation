@@ -502,9 +502,9 @@ choicewait
 
 @Choice_13f2:
 code047e        0, 1
-dialogtxt       "Let's see... Using a \"Fabled"
-dialogtxt       "Skewer\" to upgrade your weapon will"
-dialogtxt       "give it the \"Piercing\" effect."
+dialogtxt       "Let's see... Using a Fabled"
+dialogtxt       "Skewer to upgrade your weapon will"
+dialogtxt       "give it the Piercing effect."
 code0309        
 dialogtxt       "Anyway, I have this special"
 dialogtxt       "material on sale right now,"

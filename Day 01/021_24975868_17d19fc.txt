@@ -858,7 +858,7 @@ dialogtxt       " places with your partner"
 dialogtxt       " and fight for a fixed time."
 code0309        
 dialogtxt       " To switch with your partner,"
-dialogtxt       " equip \"Partner Tag\" and use"
+dialogtxt       " equip Partner Tag and use"
 dialogtxt       " it in battle."
 code0309        
 code0302        9

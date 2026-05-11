@@ -537,7 +537,7 @@ code031c        6, 2
 code031f        6
 dialogtxt       "You..."
 dialogtxt       "You're always saying you wanna be"
-dialogtxt       "\"cool,\" but what does that mean?"
+dialogtxt       "cool, but what does that mean?"
 code0309        
 code031c        6, 1
 code031f        6

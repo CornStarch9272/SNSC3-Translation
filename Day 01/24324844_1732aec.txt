@@ -1512,7 +1512,7 @@ call            @Func_4cb6
 dialogtxt       "That's not it..."
 code0309        
 code0479        1, 0, 14
-dialogtxt       "Perhaps, \"strike while the iron"
+dialogtxt       "Perhaps \"strike while the iron"
 dialogtxt       "is hot\" would be more appropriate."
 code0309        
 call            @Func_4cec

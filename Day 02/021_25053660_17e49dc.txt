@@ -138,7 +138,7 @@ goto            @Label_0572
 call            @Func_23c2
 jumpz           @Cond_05b8, ($b003 == 0)
 dialogtxt       "Assigning Identification"
-dialogtxt       "Code To \"Enemy\"."
+dialogtxt       "Code To \"Enemy.\""
 dialogtxt       "Entering Battle Mode."
 goto            @Cond_05b8
 
@@ -285,7 +285,7 @@ dialogtxt       "I am... the Invincible Jade!"
 code0309        
 code0479        1, 0, 13
 dialogtxt       "And I threw away the part of"
-dialogtxt       "myself which you called \"bro\"!"
+dialogtxt       "myself which you called \"bro!\""
 code0309        
 call            @Func_2464
 code0479        0, 0, 14
@@ -336,13 +336,13 @@ goto            @Cond_0d94
 
 @Cond_0d94:
 jumpz           @Cond_0ddc, ($b003 == 1)
-dialogtxt       "So, this \"bro\"..."
+dialogtxt       "So, this \"bro...\""
 dialogtxt       "He is not an enemy?"
 goto            @Cond_0ddc
 
 @Cond_0ddc:
 jumpz           @Cond_0e1e, ($b003 == 2)
-dialogtxt       "\"Bro\"!?"
+dialogtxt       "\"Bro!?\""
 dialogtxt       "So he's... not an enemy?"
 goto            @Cond_0e1e
 

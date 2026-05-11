@@ -198,8 +198,8 @@ code0309
 call            @Func_40c4
 code0479        1, 2, 14
 call            @Func_40fa
-dialogtxt       "Not 'you', it's 'Master'..."
-dialogtxt       "And you got a problem with that?"
+dialogtxt       "What?"
+dialogtxt       "You got a problem with that?"
 goto            @Cond_08cc
 
 @Cond_08cc:

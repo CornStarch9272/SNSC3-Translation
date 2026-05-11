@@ -137,7 +137,7 @@ code0479        1, 6, 16
 code0479        0, 2, 13
 dialogtxt       "... A very splendid Craftknight!"
 dialogtxt       "That's why you don't have to"
-dialogtxt       "call me your \"Bro\" anymore!"
+dialogtxt       "call me your bro anymore!"
 code0309        
 call            @Func_1112
 code0479        1, 11, 14
@@ -160,7 +160,7 @@ call            @Func_117e
 code0479        0, 8, 12
 call            @Func_10dc
 dialogtxt       "That's right,"
-dialogtxt       "I'm no longer your \"Bro.\""
+dialogtxt       "I'm no longer your bro."
 dialogtxt       "From now on..."
 code0309        
 call            @Func_1112

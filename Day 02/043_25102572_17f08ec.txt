@@ -159,7 +159,7 @@ call            @Func_1020
 jumpz           @Cond_0782, ($b002 == 0)
 dialogtxt       "I see."
 dialogtxt       "But I mean, isn't that fine?"
-dialogtxt       "Especially for that 'Serge'."
+dialogtxt       "Especially for Serge."
 goto            @Label_07b8
 
 @Cond_0782:

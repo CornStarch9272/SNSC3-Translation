@@ -545,7 +545,7 @@ code0309
 call            @Func_2106
 code0479        1, 2, 15
 call            @Func_213c
-dialogtxt       "\"Last night\"..."
+dialogtxt       "\"Last night?\""
 dialogtxt       "You dragged her outside last night!?"
 dialogtxt       "She's sick! How could you!?"
 code0309        

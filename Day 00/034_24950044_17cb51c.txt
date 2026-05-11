@@ -680,7 +680,7 @@ call            @Func_3362
 call            @Func_328a
 dialogtxt       "Hmph..."
 dialogtxt       "What's with him?"
-dialogtxt       "Maybe he's at that \"rebellious\" age?"
+dialogtxt       "Maybe he's at that rebellious age?"
 goto            @Label_21ba
 
 @Label_21ba:
