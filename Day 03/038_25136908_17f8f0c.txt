@@ -396,7 +396,7 @@ code047d        1, 109
 call            @Func_3072
 call            @Func_300e
 dialogtxt       "Aaanyway..."
-dialogtxt       "That'll be 1000 Boam per person!"
+dialogtxt       "That'll be 1000 boam per person!"
 code047b        
 code0309        
 call            @Func_30b2

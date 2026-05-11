@@ -103,7 +103,7 @@ code0479        1, 2, 15
 call            @Func_1db0
 dialogtxt       "Let's do it!"
 dialogtxt       "For now, your target is..."
-dialogtxt       "One million Boam!!!"
+dialogtxt       "One million boam!!!"
 code0309        
 call            @Func_1e80
 call            @Func_1dce
@@ -126,7 +126,7 @@ code0479        0, 5, 17
 code047d        0, 107
 call            @Func_1dfe
 call            @Func_1d26
-dialogbig       255, 108, 1, 0, 0, "One million Boam!!!???"
+dialogbig       255, 108, 1, 0, 0, "One million boam!!!???"
 code030c        
 call            @Func_1e54
 call            @Func_1d62

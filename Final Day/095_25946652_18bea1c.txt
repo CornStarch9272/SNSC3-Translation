@@ -577,17 +577,17 @@ goto            @Cond_174a
 
 @Cond_174a:
 jumpz           @Cond_1790, ($b003 == 1)
-dialogbig       255, 116, 1, 0, 0, "One million Boam!"
+dialogbig       255, 116, 1, 0, 0, "One million boam!"
 goto            @Cond_1790
 
 @Cond_1790:
 jumpz           @Cond_17d6, ($b003 == 2)
-dialogbig       255, 116, 1, 0, 0, "One million Boam!"
+dialogbig       255, 116, 1, 0, 0, "One million boam!"
 goto            @Cond_17d6
 
 @Cond_17d6:
 jumpz           @Cond_181c, ($b003 == 3)
-dialogbig       255, 116, 1, 0, 0, "One million Boam!"
+dialogbig       255, 116, 1, 0, 0, "One million boam!"
 goto            @Cond_181c
 
 @Cond_181c:

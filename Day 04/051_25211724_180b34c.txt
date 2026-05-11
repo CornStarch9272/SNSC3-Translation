@@ -133,7 +133,7 @@ dialogtxt       "Leaving me behind like that!"
 code0309        
 code0479        1, 4, 16
 dialogtxt       "Ianna lectured me all day,"
-dialogtxt       "and I didn't get a single Boam"
+dialogtxt       "and I didn't get a single boam"
 dialogtxt       "out of it."
 code0309        
 code0479        1, 1, 17

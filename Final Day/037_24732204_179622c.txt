@@ -398,7 +398,7 @@ dialogtxt       "So be reeeaally careful, okay?"
 code0309        
 dialogtxt       "But hey, get this, right now"
 dialogtxt       "I'm selling both materials for"
-dialogtxt       "an amazing... 2000 Boam!"
+dialogtxt       "an amazing... 2000 boam!"
 code0309        
 dialogtxt       "How about it?"
 code0309        

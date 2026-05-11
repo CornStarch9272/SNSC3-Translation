@@ -778,7 +778,7 @@ dialogtxt       "imbues the Battle Repair effect."
 code0309        
 dialogtxt       "And would you look at that,"
 dialogtxt       "I have one such item"
-dialogtxt       "available for only... 4500 Boam!"
+dialogtxt       "available for only... 4500 boam!"
 code0309        
 dialogtxt       "How about it?"
 code0309        

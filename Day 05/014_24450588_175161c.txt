@@ -508,7 +508,7 @@ dialogtxt       "give it the Piercing effect."
 code0309        
 dialogtxt       "Anyway, I have this special"
 dialogtxt       "material on sale right now,"
-dialogtxt       "at a low, low price of... 1000 Boam!"
+dialogtxt       "at a low, low price of... 1000 boam!"
 code0309        
 dialogtxt       "How about it?"
 code0309        

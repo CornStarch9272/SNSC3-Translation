@@ -584,7 +584,7 @@ dialogtxt       "So, watch out, okay?"
 code0309        
 dialogtxt       "But anyway, I have this special"
 dialogtxt       "material on sale right now,"
-dialogtxt       "at a paltry price of 350 Boam~."
+dialogtxt       "at a paltry price of 350 boam~."
 code0309        
 dialogtxt       "Wanna buy it?"
 code0309        

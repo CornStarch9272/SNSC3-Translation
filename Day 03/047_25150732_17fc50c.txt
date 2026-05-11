@@ -1222,7 +1222,7 @@ code0479        0, 2, 12
 call            @Func_4412
 code0332        
 call            @Func_4342
-dialogtxt       "So, that will be 1000 Boam"
+dialogtxt       "So, that will be 1000 boam"
 dialogtxt       "per person, please."
 code047b        
 code0309        

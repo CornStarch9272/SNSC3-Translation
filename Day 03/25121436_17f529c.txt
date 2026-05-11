@@ -192,7 +192,7 @@ call            @Func_180c
 code043c        2, 3
 code0479        1, 1, 12
 call            @Func_1842
-dialogtxt       "Yes, yes, 200 Boam!"
+dialogtxt       "Yes, yes, 200 boam!"
 dialogtxt       "Thank you!"
 code0309        
 call            @Func_1878
@@ -232,7 +232,7 @@ dialogtxt       "Cheapskate..."
 code0309        
 code0479        1, 2, 12
 dialogtxt       "Alright, fine."
-dialogtxt       "100 Boam it is, then."
+dialogtxt       "100 boam it is, then."
 code0309        
 call            @Func_18e6
 call            @Func_1878
@@ -242,7 +242,7 @@ code0479        0, 0, 16
 code047d        0, 0
 call            @Func_1890
 call            @Func_17d6
-dialogtxt       "100 Boam..."
+dialogtxt       "100 boam..."
 dialogtxt       "Hmm..."
 code047b        
 code0309        

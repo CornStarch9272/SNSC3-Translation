@@ -298,7 +298,7 @@ code0309
 call            @Func_1b86
 code0479        1, 0, 12
 call            @Func_1bbc
-dialogtxt       "200 Boam."
+dialogtxt       "200 boam."
 dialogtxt       "It's easy to get lost in here..."
 code0309        
 code0479        1, 2, 12
@@ -350,7 +350,7 @@ code0309
 call            @Func_1b86
 code0479        1, 1, 12
 call            @Func_1bbc
-dialogtxt       "That'll be 200 Boam!"
+dialogtxt       "That'll be 200 boam!"
 code0309        
 code036c        280, 200
 jumpz           @Cond_125a, ($h216 == 1)

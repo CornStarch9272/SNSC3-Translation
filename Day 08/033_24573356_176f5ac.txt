@@ -401,7 +401,7 @@ dialogtxt       "Buy the materials, and try it out~"
 code0309        
 dialogtxt       "But hey, get this, right now"
 dialogtxt       "I'm selling both materials for"
-dialogtxt       "an amazing...1200 Boam!"
+dialogtxt       "an amazing...1200 boam!"
 code0309        
 dialogtxt       "How about it?"
 code0309        

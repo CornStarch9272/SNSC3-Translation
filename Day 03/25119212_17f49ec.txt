@@ -33,7 +33,7 @@ code0309
 call            @Func_0f62
 code0479        1, 1, 12
 call            @Func_0f98
-dialogtxt       "That'll be 200 Boam!"
+dialogtxt       "That'll be 200 boam!"
 code0309        
 code036c        280, 200
 jumpz           @Cond_078a, ($h216 == 1)
