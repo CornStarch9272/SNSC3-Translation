@@ -52480,7 +52480,7 @@
                     }
                 ],
                 "raw": "鍛冶師ランクが足りません\u0000\u0000\u0000\u0000",
-                "translation": "Your rank is too low\u0000\u0000",
+                "translation": " Your rank is too low\u0000\u0000",
                 "type": "SJIS string"
             }
         ],
@@ -52513,7 +52513,7 @@
                     }
                 ],
                 "raw": "すでに強化済みです\u0000\u0000",
-                "translation": "This weapon is already upgraded\u0000",
+                "translation": " This weapon is already upgraded\u0000",
                 "type": "SJIS string"
             }
         ],
@@ -52583,7 +52583,7 @@
                     }
                 ],
                 "raw": "アイテムが設定されていません\u0000\u0000\u0000\u0000",
-                "translation": "No material has been chosen\u0000",
+                "translation": " No material has been chosen\u0000",
                 "type": "SJIS string"
             }
         ],
@@ -52616,7 +52616,7 @@
                     }
                 ],
                 "raw": "鍛冶師ランクが足りません\u0000\u0000\u0000\u0000",
-                "translation": "Your rank is too low\u0000\u0000",
+                "translation": " Your rank is too low\u0000\u0000",
                 "type": "SJIS string"
             }
         ],
@@ -52958,7 +52958,7 @@
                     }
                 ],
                 "raw": "「強化」で使用出来るアイテムが\u0000\u0000",
-                "translation": "\"Upgrade\" has been enhanced!\u0000\u0000",
+                "translation": " Upgrade has been enhanced!\u0000\u0000",
                 "type": "SJIS string"
             },
             {
@@ -52975,7 +52975,7 @@
                     }
                 ],
                 "raw": "２個になりました\u0000\u0000\u0000\u0000",
-                "translation": "Upgrade with up to 2 items\u0000\u0000",
+                "translation": " Upgrade with up to 2 items\u0000\u0000",
                 "type": "SJIS string"
             },
             {
@@ -53009,7 +53009,7 @@
                     }
                 ],
                 "raw": "新たに「強刃」を習得しました\u0000\u0000\u0000\u0000",
-                "translation": "Learned \"Refine\"\u0000\u0000",
+                "translation": " Learned Refine\u0000\u0000",
                 "type": "SJIS string"
             },
             {
@@ -53026,7 +53026,7 @@
                     }
                 ],
                 "raw": "ＴＥＣを使い　武器のパラメータを\u0000\u0000\u0000\u0000",
-                "translation": "Use TEC to upgrade your weapon's\u0000\u0000",
+                "translation": " Use TEC to upgrade your weapons\u0000\u0000",
                 "type": "SJIS string"
             },
             {
@@ -53043,7 +53043,7 @@
                     }
                 ],
                 "raw": "１ポイント振り分けられます\u0000\u0000",
-                "translation": "stats by 1 point\u0000\u0000",
+                "translation": " stats by 1 point\u0000\u0000",
                 "type": "SJIS string"
             },
             {
@@ -53060,7 +53060,7 @@
                     }
                 ],
                 "raw": "「強化」で使用出来るアイテムが\u0000\u0000",
-                "translation": "\"Upgrade\" has been enhanced!\u0000\u0000",
+                "translation": " Upgrade has been enhanced!\u0000\u0000",
                 "type": "SJIS string"
             },
             {
@@ -53077,7 +53077,7 @@
                     }
                 ],
                 "raw": "３個になりました\u0000\u0000\u0000\u0000",
-                "translation": "Upgrade with up to 3 items\u0000\u0000",
+                "translation": " Upgrade with up to 3 items\u0000\u0000",
                 "type": "SJIS string"
             },
             {
@@ -53111,7 +53111,7 @@
                     }
                 ],
                 "raw": "新たに「解体・改」を習得しました\u0000\u0000\u0000\u0000",
-                "translation": "Learned \"Disassemble Mod\"\u0000\u0000\u0000",
+                "translation": " Learned Disassemble Mod\u0000\u0000\u0000",
                 "type": "SJIS string"
             },
             {
@@ -53128,7 +53128,7 @@
                     }
                 ],
                 "raw": "ＴＥＣを使い　付加効果を残して\u0000\u0000",
-                "translation": "Use TEC to keep bonus stats on\u0000\u0000",
+                "translation": " Use TEC to keep bonus stats on\u0000\u0000",
                 "type": "SJIS string"
             },
             {
@@ -53145,7 +53145,7 @@
                     }
                 ],
                 "raw": "マテルに戻せます\u0000\u0000\u0000\u0000",
-                "translation": "the shapestone\u0000",
+                "translation": " the shapestone\u0000",
                 "type": "SJIS string"
             },
             {
@@ -53162,7 +53162,7 @@
                     }
                 ],
                 "raw": "新たに「強化解除」を習得しました\u0000\u0000\u0000\u0000",
-                "translation": "Learned \"Cancel Upgrade\"\u0000\u0000",
+                "translation": " Learned Cancel Upgrade\u0000\u0000",
                 "type": "SJIS string"
             },
             {
@@ -53179,7 +53179,7 @@
                     }
                 ],
                 "raw": "強化を無効にしてアイテムを\u0000\u0000",
-                "translation": "Clear weapon of the items\u0000",
+                "translation": " Clear the weapon of the\u0000",
                 "type": "SJIS string"
             },
             {
@@ -53196,7 +53196,7 @@
                     }
                 ],
                 "raw": "取り出せます\u0000\u0000\u0000\u0000",
-                "translation": "used to upgrade it\u0000\u0000",
+                "translation": " items used to upgrade it\u0000\u0000",
                 "type": "SJIS string"
             },
             {
@@ -53213,7 +53213,7 @@
                     }
                 ],
                 "raw": "「強刃」で振り分けられるポイントが\u0000\u0000",
-                "translation": "\"Refine\" has been enhanced!\u0000\u0000\u0000",
+                "translation": " Refine has been enhanced!\u0000\u0000\u0000",
                 "type": "SJIS string"
             },
             {
@@ -53230,7 +53230,7 @@
                     }
                 ],
                 "raw": "２ポイントになりました\u0000\u0000",
-                "translation": "Assign up to 2 points\u0000",
+                "translation": " Assign up to 2 points\u0000",
                 "type": "SJIS string"
             },
             {
@@ -53264,7 +53264,7 @@
                     }
                 ],
                 "raw": "「強刃」で振り分けられるポイントが\u0000\u0000",
-                "translation": "\"Refine\" has been enhanced!\u0000\u0000\u0000",
+                "translation": " Refine has been enhanced!\u0000\u0000\u0000",
                 "type": "SJIS string"
             },
             {
@@ -53281,7 +53281,7 @@
                     }
                 ],
                 "raw": "３ポイントになりました\u0000\u0000",
-                "translation": "Assign up to 3 points\u0000",
+                "translation": " Assign up to 3 points\u0000",
                 "type": "SJIS string"
             },
             {
@@ -53315,7 +53315,7 @@
                     }
                 ],
                 "raw": "「強刃」で振り分けられるポイントが\u0000\u0000",
-                "translation": "\"Refine\" has been enhanced!\u0000\u0000\u0000",
+                "translation": " Refine has been enhanced!\u0000\u0000\u0000",
                 "type": "SJIS string"
             },
             {
@@ -53332,7 +53332,7 @@
                     }
                 ],
                 "raw": "４ポイントになりました\u0000\u0000",
-                "translation": "Assign up to 4 points\u0000",
+                "translation": " Assign up to 4 points\u0000",
                 "type": "SJIS string"
             },
             {
@@ -77021,7 +77021,7 @@
                     }
                 ],
                 "raw": "ロブ\u0000\u0000\u0000\u0000",
-                "translation": "Anise\u0000",
+                "translation": "Rob\u0000",
                 "type": "SJIS string"
             },
             {
@@ -78673,7 +78673,7 @@
                     }
                 ],
                 "raw": "クリアしたセーブデータから\u0000\u0000",
-                "translation": "Carry over data:\u0000\u0000",
+                "translation": "Data carried over:\u0000\u0000",
                 "type": "SJIS string"
             },
             {
@@ -80205,7 +80205,7 @@
                     }
                 ],
                 "raw": "エサを選択してください\u0000\u0000",
-                "translation": "Select bait to use\u0000\u0000",
+                "translation": "Select bait\u0000\u0000",
                 "type": "SJIS string"
             }
         ],
