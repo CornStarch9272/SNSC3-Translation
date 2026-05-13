@@ -541,9 +541,9 @@ code040b
 
 @Event_1544:
 code0301        8, 7
-dialogtxt       "Never let your enemy get behind"
-dialogtxt       "you! Back attacks are dangerous!"
-dialogtxt       "　　　　 -Rearguard Support Squad"
+dialogtxt       "Never let the enemy get behind"
+dialogtxt       "you! Guard your rear!"
+dialogtxt       "　　　　　　　-Rearguard Fan Club"
 code0309        
 code0302        7
 code040b        

@@ -462,7 +462,7 @@ code040b
 
 @Event_13a6:
 code0301        8, 7
-dialogtxt       "The Invincible Jade◎Support Squad"
+dialogtxt       "The Invincible Jade ◎ Fan Club"
 dialogtxt       "has been officially formed!"
 dialogtxt       "We're looking for members!"
 code0309        

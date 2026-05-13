@@ -502,7 +502,7 @@ code040b
 
 @Event_14c8:
 code0301        8, 7
-dialogtxt       "The Lady of the Bow Support Squad"
+dialogtxt       "The Bow Maiden Fan Club"
 dialogtxt       "has been officially formed!"
 dialogtxt       "We're looking for members!"
 code0309        
