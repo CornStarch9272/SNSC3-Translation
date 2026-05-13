@@ -463,7 +463,7 @@ code040b
 @Event_1278:
 code0301        8, 7
 dialogtxt       "　"
-dialogtxt       "　　　 Fishing Buddies Newspaper"
+dialogtxt       "　　　 Fishing Friends Newspaper"
 dialogtxt       "　　　　　　　　 —Special Edition"
 code0309        
 dialogtxt       "I heard that a monster fish"
