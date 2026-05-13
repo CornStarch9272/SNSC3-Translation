@@ -415,7 +415,7 @@ code040b
 @Event_117e:
 code0301        8, 7
 dialogtxt       "　"
-dialogtxt       "　　　　 Hey... Hey you..."
+dialogtxt       "　　　　　　 ~Hey, hey!~"
 code0309        
 dialogtxt       "I've been hearing a creepy voice"
 dialogtxt       "from the desk behind me. Can't"
@@ -441,4 +441,3 @@ dialogtxt       "Please be careful!"
 code0309        
 code0302        7
 code040b        
-

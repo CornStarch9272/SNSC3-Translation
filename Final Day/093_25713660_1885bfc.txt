@@ -1067,38 +1067,11 @@ code0301        6, 7
 code047e        0, 1
 code047e        1, 1
 code0479        0, 2, 12
-strlen          280, "[NAME 1]"
-jumpz           @Cond_2e8c, ($h216 == 1)
-dialogtxt       "　　　　　　　　[NAME 1]..."
-goto            @Label_2f5c
-
-@Cond_2e8c:
-jumpz           @Cond_2eb8, ($h216 == 2)
-dialogtxt       "　　　　　　　　[NAME 1]..."
-goto            @Label_2f5c
-
-@Cond_2eb8:
-jumpz           @Cond_2ee2, ($h216 == 3)
-dialogtxt       "　　　　　　　[NAME 1]..."
-goto            @Label_2f5c
-
-@Cond_2ee2:
-jumpz           @Cond_2f0c, ($h216 == 4)
-dialogtxt       "　　　　　　　[NAME 1]..."
-goto            @Label_2f5c
-
-@Cond_2f0c:
-jumpz           @Cond_2f34, ($h216 == 5)
-dialogtxt       "　　　　　　[NAME 1]..."
-goto            @Label_2f5c
-
-@Cond_2f34:
-jumpz           @Label_2f5c, ($h216 == 6)
-dialogtxt       "　　　　　　[NAME 1]..."
+dialogtxt       "[NAME 1]..."
 goto            @Label_2f5c
 
 @Label_2f5c:
-dialogtxt       "　　　　　　  SUMMON!"
+dialogtxt       "　　　　　　　 SUMMON!"
 code0309        
 code047e        0, 0
 code047e        1, 0

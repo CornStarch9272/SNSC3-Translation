@@ -1,19 +1,19 @@
 code0304        1
-dialogtxt       "By the time we returned,"
-dialogtxt       "the sun had completely sunk"
-dialogtxt       "beyond the horizon."
+dialogtxt       "　　　  By the time we returned,"
+dialogtxt       "　　　the sun had completely sunk"
+dialogtxt       "　　　　  beyond the horizon."
 code030a        6, 1
-dialogtxt       "Anise's interrogation begins now."
-dialogtxt       "I still don't know what happened"
-dialogtxt       "between Master Rob and Voijin..."
+dialogtxt       "　  Anise's interrogation begins now."
+dialogtxt       "　　I still don't know what happened"
+dialogtxt       "　　between Master Rob and Voijin..."
 code030a        6, 1
-dialogtxt       "And we still have to return"
-dialogtxt       "the Demon Stone to Murno's"
-dialogtxt       "old home, Mishus Village. But..."
+dialogtxt       "　　　And we still have to return"
+dialogtxt       "　　　the Demon Stone to Murno's"
+dialogtxt       "　　 old home, Mishus Village. But..."
 code030a        6, 1
-dialogtxt       "Mr. Wellman's condition isn't good."
-dialogtxt       "We were told to rest today..."
-dialogtxt       "Will he be okay?"
+dialogtxt       "　　 Wellman's condition isn't good."
+dialogtxt       "　　  We were told to rest today..."
+dialogtxt       "　　　　　  Will he be okay?"
 code030a        6, 1
 code0304        0
 done            
@@ -219,4 +219,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-

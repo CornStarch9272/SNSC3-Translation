@@ -367,8 +367,7 @@ code040b
 @Event_0f64:
 code0301        8, 7
 dialogtxt       "　"
-dialogtxt       "　"
-dialogtxt       "　●←Peep hole"
+dialogtxt       "　　　　　　　　●←Peep hole"
 code0309        
 dialogtxt       "No way that's true."
 code0309        
@@ -379,7 +378,7 @@ code040b
 code0301        8, 7
 dialogtxt       "Don't do tomorrow what"
 dialogtxt       "you can do today!"
-dialogtxt       "—Impatient man"
+dialogtxt       "　　　　　　　　　—Impatient man"
 code0309        
 code0302        7
 code040b        

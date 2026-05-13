@@ -287,8 +287,7 @@ code040b
 
 @Event_0b3a:
 code0301        8, 7
-dialogtxt       "Use lottery tickets systematically!"
+dialogtxt       "　　Use your lottery tickets wisely!"
 code0309        
 code0302        7
 code040b        
-

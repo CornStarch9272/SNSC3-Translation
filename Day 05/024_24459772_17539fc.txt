@@ -392,9 +392,8 @@ code040b
 
 @Event_0f16:
 code0301        8, 7
-dialogtxt       "　　　The Founder Of This City,"
-dialogtxt       "　　　Our Hero Prosban"
+dialogtxt       "　　　 The Founder Of This City,"
+dialogtxt       "　　　　　 Our Hero Prosban"
 code0309        
 code0302        7
 code040b        
-

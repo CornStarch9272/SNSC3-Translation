@@ -1,6 +1,6 @@
 code0304        1
 dialogtxt       "　　　　　　　　　　　　　　　　　　"
-dialogtxt       "　　　Several days pass...　　"
+dialogtxt       "　　　　  Several days pass..."
 dialogtxt       "　　　　　　　　　　　　　　　　　　"
 code030a        6, 1
 code0488        -1, 1
@@ -22,9 +22,9 @@ code031c        8, 1
 code0321        8, 60
 code040d        15
 code0304        1
-dialogtxt       "Thanks to the Vigilantes, the"
-dialogtxt       "Gold Faction, and the citizens,"
-dialogtxt       "Prosban is back to normal."
+dialogtxt       "　　  Thanks to the Vigilantes, the"
+dialogtxt       "　　 Gold Faction, and the citizens,"
+dialogtxt       "　　　 Prosban is back to normal."
 code030a        6, 1
 code0304        0
 done            
@@ -230,4 +230,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-

@@ -5,58 +5,58 @@ code031c        8, 1
 code0321        8, 60
 code040d        60
 code0304        1
-dialogtxt       "We spoke with the Gold Faction"
-dialogtxt       "about the events that occurred"
-dialogtxt       "in Mishus Village, but..."
+dialogtxt       "　　 We spoke with the Gold Faction"
+dialogtxt       "　　about the events that occurred"
+dialogtxt       "　　　　in Mishus Village, but..."
 code030a        6, 1
 jumpz           @Cond_030e, ($b002 == 0)
-dialogtxt       "Velvoren's family, the Ringvalds,"
-dialogtxt       "don't want to make a big"
-dialogtxt       "deal of whats happened."
+dialogtxt       "　  Velvoren's family, House Ringvald,"
+dialogtxt       "　　　  don't want to make a big"
+dialogtxt       "　　　  deal of what's happened."
 code030a        6, 1
-dialogtxt       "Thanks to that, they put the "
-dialogtxt       "issue of Murno and the others"
-dialogtxt       "on indefinite hiatus."
+dialogtxt       "　　  Thanks to that, they put the"
+dialogtxt       "　　 issue of Murno and the others"
+dialogtxt       "　　　　 on indefinite hiatus."
 code030a        6, 1
-dialogtxt       "The folks at the Gold Faction"
-dialogtxt       "visited Mishus Village"
-dialogtxt       "many times, but..."
+dialogtxt       "　　  The folks at the Gold Faction"
+dialogtxt       "　　　　 visited Mishus Village"
+dialogtxt       "　　　　　 many times, but..."
 code030a        6, 1
-dialogtxt       "The Demon Stone and the sword were"
-dialogtxt       "no longer there, and the ruins non"
-dialogtxt       "functional, so they left it alone."
+dialogtxt       "　The Demon Stone and the sword were"
+dialogtxt       "　　 no longer there, and the ruins"
+dialogtxt       "　nonfunctional, so they left it alone"
 code030a        6, 1
 goto            @Label_052a
 
 @Cond_030e:
-dialogtxt       "Velvoren's family, the Ringvalds,"
-dialogtxt       "don't want to make a big"
-dialogtxt       "deal of whats happened."
+dialogtxt       "　  Velvoren's family, House Ringvald,"
+dialogtxt       "　　　  don't want to make a big"
+dialogtxt       "　　　  deal of what's happened."
 code030a        6, 1
-dialogtxt       "Thanks to that, they put the "
-dialogtxt       "issue of Murno and the others"
-dialogtxt       "on indefinite hiatus."
+dialogtxt       "　　  Thanks to that, they put the"
+dialogtxt       "　　 issue of Murno and the others"
+dialogtxt       "　　　　 on indefinite hiatus."
 code030a        6, 1
-dialogtxt       "The folks at the Gold Faction"
-dialogtxt       "visited Mishus Village"
-dialogtxt       "many times, but..."
+dialogtxt       "　　  The folks at the Gold Faction"
+dialogtxt       "　　　　 visited Mishus Village"
+dialogtxt       "　　　　　 many times, but..."
 code030a        6, 1
-dialogtxt       "The Demon Stone and the sword were"
-dialogtxt       "no longer there, and the ruins non-"
-dialogtxt       "functional, so they left it alone."
+dialogtxt       "　The Demon Stone and the sword were"
+dialogtxt       "　　 no longer there, and the ruins"
+dialogtxt       "　nonfunctional, so they left it alone"
 code030a        6, 1
 goto            @Label_052a
 
 @Label_052a:
 code031d        8, 0
-dialogtxt       "Well, this way Murno"
-dialogtxt       "is able to live in peace,"
-dialogtxt       "so it's fine."
+dialogtxt       "　　　　  Well, this way Murno"
+dialogtxt       "　　　  is able to live in peace,"
+dialogtxt       "　　　　　　 so it's fine."
 code030a        6, 1
 code031f        8
-dialogtxt       "And so,"
-dialogtxt       "this concludes the chain of events"
-dialogtxt       "involving Govan's Demon Stone..."
+dialogtxt       "　　　　　　　  And so,"
+dialogtxt       "　 this concludes the chain of events"
+dialogtxt       "　　involving Govan's Demon Stone..."
 code030a        6, 1
 code0304        0
 done            

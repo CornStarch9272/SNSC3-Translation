@@ -463,7 +463,7 @@ code040b
 @Event_121a:
 code0301        8, 7
 dialogtxt       "　"
-dialogtxt       "　　　　　Looking for help!"
+dialogtxt       "　　　　　　　~Oh no!~"
 code0309        
 dialogtxt       "I'm having a hard time trying to"
 dialogtxt       "stock up on spices..."
@@ -476,9 +476,9 @@ code040b
 code0301        8, 7
 dialogtxt       "　"
 dialogtxt       "　"
-dialogtxt       "　●←Peep hole"
+dialogtxt       "　　　　　　●←Peep hole"
 code0309        
-dialogtxt       "Aw man, you've got guts!"
+dialogtxt       "You've got guts kid!"
 code0309        
 code0302        7
 code040b        
@@ -486,7 +486,7 @@ code040b
 @Event_12fe:
 code0301        8, 7
 dialogtxt       "　"
-dialogtxt       "　　　　　∞Searching∞"
+dialogtxt       "　　　　　　∞Searching∞"
 code0309        
 dialogtxt       "I'm looking for a black cat."
 dialogtxt       "I think it fled to a dark alley."
@@ -512,4 +512,3 @@ walkto          30, -8, -8, 67
 code0461        30
 code0461        31
 code040b        
-

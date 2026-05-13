@@ -379,12 +379,9 @@ code040b
 
 @Event_0f50:
 code0301        8, 7
-dialogtxt       "　"
-dialogtxt       "　"
-dialogtxt       "　●←Peep hole"
+dialogtxt       "　　　　　　●←Peep hole"
 code0309        
-dialogtxt       "You're quite the stubborn"
-dialogtxt       "one, aren't you?"
+dialogtxt       "You never learn..."
 code0309        
 code0302        7
 code040b        
@@ -400,7 +397,7 @@ code040b
 @Event_0fe2:
 code0301        8, 7
 dialogtxt       "　"
-dialogtxt       "　　　　Please let me know!"
+dialogtxt       "　　　　　　Please tell me!"
 code0309        
 dialogtxt       "I'm trying to know more about this"
 dialogtxt       "food called curry! Can anyone"
@@ -408,4 +405,3 @@ dialogtxt       "tell me what it tastes like!?"
 code0309        
 code0302        7
 code040b        
-

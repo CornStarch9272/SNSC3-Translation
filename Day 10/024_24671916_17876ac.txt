@@ -131,8 +131,7 @@ gotomap         1245 ; map 178b5ac
 @Event_0596:
 code0301        0, 7
 code0305        1
-dialogtxt       "　　We're closed for the day!"
-dialogtxt       "　　Sorry for the inconvenience!"
+dialogtxt       "　　　　　  Closed.　Sorry."
 code0309        
 code0302        7
 code040b        
@@ -443,7 +442,7 @@ code040b
 @Event_12b0:
 code0301        8, 7
 dialogtxt       "　"
-dialogtxt       "　　　　　∞Searching∞"
+dialogtxt       "　　　　　　∞Searching∞"
 code0309        
 dialogtxt       "I'm looking for a brown kitten."
 dialogtxt       "I think it likes dried sardines?"

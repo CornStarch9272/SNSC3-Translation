@@ -1,6 +1,6 @@
 code0304        1
-dialogtxt       "In the end, Anise was"
-dialogtxt       "nowhere to be found..."
+dialogtxt       "　　　　 In the end, Anise was"
+dialogtxt       "　　　　 nowhere to be found..."
 code030a        6, 1
 code0304        0
 code048b        136, 112, 32

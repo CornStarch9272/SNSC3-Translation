@@ -442,7 +442,7 @@ code040b
 @Event_1170:
 code0301        8, 7
 dialogtxt       "　"
-dialogtxt       "　　　　　　~Hey, hey!~"
+dialogtxt       "　　　　　　 ~Hey, hey!~"
 code0309        
 dialogtxt       "Lately, I can hear a lot of strange"
 dialogtxt       "noises under the desk behind me..."
@@ -463,8 +463,8 @@ code040b
 @Event_1278:
 code0301        8, 7
 dialogtxt       "　"
-dialogtxt       "　　　　Fishing Buddies Newspaper"
-dialogtxt       "　　　　　　　　　—Special Edition"
+dialogtxt       "　　　 Fishing Buddies Newspaper"
+dialogtxt       "　　　　　　　　 —Special Edition"
 code0309        
 dialogtxt       "I heard that a monster fish"
 dialogtxt       "lurks in Deckell Town's very"
@@ -476,4 +476,3 @@ dialogtxt       "FIT THE SCREEN!\" or whatever."
 code0309        
 code0302        7
 code040b        
-

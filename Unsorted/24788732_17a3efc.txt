@@ -346,7 +346,7 @@ code040b
 @Event_0e74:
 code0301        8, 7
 dialogtxt       "　"
-dialogtxt       "　　　　 Let's be careful."
+dialogtxt       "　　　　　　　~Hark!~"
 code0309        
 dialogtxt       "When moving with a group, make"
 dialogtxt       "sure you still have everyone."
@@ -369,7 +369,7 @@ code040b
 @Event_0f8e:
 code0301        8, 7
 dialogtxt       "　"
-dialogtxt       "　　　　Seek knowledge!"
+dialogtxt       "　　　　~I desire knowledge!~"
 code0309        
 dialogtxt       "I'm looking for a spicy food"
 dialogtxt       "that burns like the flame"
@@ -386,4 +386,3 @@ dialogtxt       "you're venturing far out!"
 code0309        
 code0302        7
 code040b        
-

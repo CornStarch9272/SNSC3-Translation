@@ -38,36 +38,9 @@ setvar          $h136, 0
 call            @Func_0516
 jumpz           @Cond_038e, ($f0153 == 1)
 code0304        1
-dialogtxt       "　　I couldn't say anything about 　"
+dialogtxt       "　　  I couldn't say anything about"
 setvar          $h216, 0
-strlen          280, "[NAME 1]"
-jumpz           @Cond_0266, ($h216 == 1)
-dialogtxt       "　　　　　　Rob to [NAME 1]...　　　　　　"
-goto            @Label_0374
-
-@Cond_0266:
-jumpz           @Cond_02a0, ($h216 == 2)
-dialogtxt       "　　　　　　Rob to [NAME 1]...　　　　　"
-goto            @Label_0374
-
-@Cond_02a0:
-jumpz           @Cond_02d8, ($h216 == 3)
-dialogtxt       "　　　　　Rob to [NAME 1]...　　　　　"
-goto            @Label_0374
-
-@Cond_02d8:
-jumpz           @Cond_030e, ($h216 == 4)
-dialogtxt       "　　　　　Rob to [NAME 1]...　　　　"
-goto            @Label_0374
-
-@Cond_030e:
-jumpz           @Cond_0342, ($h216 == 5)
-dialogtxt       "　　　　Rob to [NAME 1]...　　　　"
-goto            @Label_0374
-
-@Cond_0342:
-jumpz           @Label_0374, ($h216 == 6)
-dialogtxt       "　　　　Rob to [NAME 1]...　　　"
+dialogtxt       "　　　　Rob to [NAME 1]..."
 goto            @Label_0374
 
 @Label_0374:
@@ -78,11 +51,11 @@ goto            @Cond_038e
 @Cond_038e:
 jumpz           @Cond_047a, ($f0154 == 1)
 code0304        1
-dialogtxt       "　There's no way they're connected. "
-dialogtxt       "　Master Rob killing this Voijin..."
+dialogtxt       "　  There's no way they're connected."
+dialogtxt       "　　　 Master Rob killing Voijin..."
 code030a        6, 1
 dialogtxt       "　"
-dialogtxt       "　　　Anise must be lying!... 　　　"
+dialogtxt       "　　　　Anise has to be lying..."
 dialogtxt       "　"
 code030a        6, 1
 code0304        0

@@ -199,13 +199,13 @@ code031c        4, 1
 code031f        4
 code0304        1
 jumpz           @Cond_09e8, ($b002 == 0)
-dialogtxt       "　　　　　　　  V.E...　　　"
-dialogtxt       "　　　　　 Are you crying?　　　　"
+dialogtxt       "　　　　　　　　V.E..."
+dialogtxt       "　　　　　 Are you crying?"
 goto            @Label_0a3c
 
 @Cond_09e8:
-dialogtxt       "　　　　　　V.E is...　　　　　　"
-dialogtxt       "　　　　　　crying?  　　　　　　"
+dialogtxt       "　　　　　　　 V.E is..."
+dialogtxt       "　　　　　　　 crying?"
 goto            @Label_0a3c
 
 @Label_0a3c:
@@ -250,8 +250,8 @@ code031c        4, 1
 code031f        4
 code0481        0
 code0304        1
-dialogtxt       "　　　　　　　That's...　　　　　"
-dialogtxt       "　　　　　　 Master Rob's!　 "
+dialogtxt       "　　　　　　　 That's..."
+dialogtxt       "　　　　　　Master Rob's!"
 code030a        6, 1
 code0304        0
 code047f        208

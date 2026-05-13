@@ -118,7 +118,6 @@ goto            @start
 
 code0301        8, 7
 dialogtxt       "Some kind of message planned."
-dialogtxt       "[TEST MESSAGE]"
 code0309        
 code0302        7
 code040b        
@@ -484,7 +483,7 @@ code040b
 @Event_13f4:
 code0301        8, 7
 dialogtxt       "　"
-dialogtxt       "　　　　　Looking for help!"
+dialogtxt       "　　　　　　　~Oh no!~"
 code0309        
 dialogtxt       "I'm having a hard time trying to"
 dialogtxt       "stock up on spices..."

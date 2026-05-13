@@ -330,7 +330,7 @@ code040b
 @Event_0d68:
 code0301        8, 7
 dialogtxt       "　"
-dialogtxt       "　　　　Seek knowledge!"
+dialogtxt       "　　　　Seek knowledge!　　　　"
 code0309        
 dialogtxt       "I'm looking for dorsal fin meat..."
 dialogtxt       "Do you know where I can buy some?"
@@ -341,8 +341,7 @@ code040b
 @Event_0de4:
 code0301        8, 7
 dialogtxt       "　"
-dialogtxt       "　"
-dialogtxt       "　●←Peep hole"
+dialogtxt       "　　　　　　●←Peep hole"
 code0309        
 dialogtxt       "Oh, just wake up already!"
 code0309        
@@ -352,7 +351,7 @@ code040b
 @Event_0e4c:
 code0301        8, 7
 dialogtxt       "　"
-dialogtxt       "　　　　　　∞Snore, snore∞"
+dialogtxt       "　　　　　　 ∞Hmmmmmm∞"
 code0309        
 dialogtxt       "I think people who like"
 dialogtxt       "spicy food like cats too!"
@@ -368,4 +367,3 @@ dialogtxt       "you're venturing far out!"
 code0309        
 code0302        7
 code040b        
-
