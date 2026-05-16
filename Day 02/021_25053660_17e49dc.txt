@@ -10,8 +10,8 @@ code040d        15
 code047d        1, 106
 code0301        8, 5
 code047e        1, 1
-dialogtxt       "Hey! You."
-dialogtxt       "What are you doing over there?"
+dialogtxt       "Hey, you over there!"
+dialogtxt       "What are you doing?"
 code047b        
 code0309        
 code047e        1, 0
@@ -280,12 +280,12 @@ dialogtxt       "the day I fought Rob, I'm still up"
 dialogtxt       "even if you try to whittle me down!"
 code0309        
 code0479        1, 2, 17
-dialogtxt       "From that day forward,"
-dialogtxt       "I am... the Invincible Jade!"
+dialogtxt       "On that day, I became..."
+dialogtxt       "the Invincible Jade!"
 code0309        
 code0479        1, 0, 13
 dialogtxt       "And I threw away the part of"
-dialogtxt       "myself which you called \"bro!\""
+dialogtxt       "myself which you call \"bro!\""
 code0309        
 call            @Func_2464
 code0479        0, 0, 14

@@ -126,7 +126,8 @@ code0309
 call            @Func_3bd4
 code0479        1, 0, 16
 call            @Func_3c0a
-dialogtxt       "I alone am more than enough."
+dialogtxt       "I believe that I alone am"
+dialogtxt       "more than enough for that."
 code0309        
 call            @Func_3c40
 code0479        0, 5, 15

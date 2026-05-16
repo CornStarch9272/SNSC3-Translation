@@ -191,7 +191,7 @@ call            @Func_2654
 call            @Func_2550
 jumpz           @Cond_095e, ($b002 == 0)
 dialogtxt       "What!? Let me go!!!"
-dialogtxt       "You dirty bastard!"
+dialogtxt       "You scumbags!"
 goto            @Label_0992
 
 @Cond_095e:

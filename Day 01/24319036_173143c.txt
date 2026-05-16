@@ -1195,15 +1195,16 @@ code0309
 call            @Func_46ec
 code0479        1, 2, 12
 call            @Func_4722
-dialogtxt       "Right."
-dialogtxt       "Experience is something one must"
-dialogtxt       "accumulate steadily over time."
+dialogtxt       "Right. Training, in essence, is the"
+dialogtxt       "steady accumulation of experience"
+dialogtxt       "we gain through the effort we put—"
 code0309        
 call            @Func_4758
 code0479        0, 0, 13
 call            @Func_46b6
-dialogtxt       "[NAME 1] come on!"
-dialogtxt       "You're falling behind!"
+dialogtxt       "[NAME 1]..."
+dialogtxt       "I'm gonna go on ahead to the"
+dialogtxt       "mines now..."
 code0309        
 call            @Func_46ec
 code0479        1, 2, 15

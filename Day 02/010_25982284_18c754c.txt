@@ -242,8 +242,8 @@ goto            @Label_0c50
 @Cond_0c06:
 dialogtxt       "... Hm?"
 code0309        
-dialogtxt       "Doesn't seem like anything"
-dialogtxt       "has changed around here."
+dialogtxt       "Let me know when you've"
+dialogtxt       "made another breakthrough."
 code0309        
 goto            @Label_0c50
 

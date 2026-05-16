@@ -978,8 +978,8 @@ code0309
 call            @Func_40c4
 code0479        1, 2, 12
 call            @Func_40fa
-dialogtxt       "So, the setting I made up..."
-dialogtxt       "Is this!"
+dialogtxt       "So, THIS is the setting I "
+dialogtxt       "came up with!"
 code0309        
 call            @Func_4130
 jumpz           @Cond_28f6, ($b003 == 0)

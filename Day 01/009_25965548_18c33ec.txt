@@ -274,7 +274,7 @@ code047e        0, 1
 dialogtxt       "I'd like to order a weapon."
 code0309        
 code037c        $h232
-dialogtxt       "I'd like the [NAME 4]."
+dialogtxt       "I'd like an [NAME 4]."
 code0309        
 code037c        $h233
 dialogtxt       "You'll need a [NAME 4]"
