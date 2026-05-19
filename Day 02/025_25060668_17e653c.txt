@@ -61,9 +61,11 @@ code0309
 call            @Func_1f58
 code0479        1, 2, 16
 call            @Func_1f8e
-dialogtxt       "Doesn't he remember anything?"
-dialogtxt       "Didn't he just recently heal"
-dialogtxt       "back to his full mobility?"
+dialogtxt       "Doesn't he remember what happened"
+dialogtxt       "last time?"
+code0309
+dialogtxt       "He only just started moving"
+dialogtxt       "around again, hasn't he?"
 code0309        
 code0479        1, 2, 14
 dialogtxt       "Even so, talking about"

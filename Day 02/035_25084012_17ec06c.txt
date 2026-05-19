@@ -251,13 +251,12 @@ code0479        1, 8, 14
 call            @Func_3b3c
 dialogtxt       "No..."
 dialogtxt       "I'm sorry..."
-dialogtxt       "Is your wound okay?"
+dialogtxt       "Are you injured at all?"
 code0309        
 call            @Func_3b72
 code0479        0, 5, 12
 call            @Func_3ad0
-dialogtxt       "Hm...?"
-dialogtxt       "Y—Yes, I'm fine..."
+dialogtxt       "N—No, I'm fine..."
 code0309        
 call            @Func_3b06
 code0479        1, 6, 14
@@ -636,7 +635,7 @@ code0479        0, 2, 16
 call            @Func_3ad0
 jumpz           @Cond_1be2, ($b002 == 0)
 dialogtxt       "Master..."
-dialogtxt       "Can I come this time?"
+dialogtxt       "Can I come too?"
 dialogtxt       "It's not about revenge this time."
 code0309        
 code0479        0, 2, 14
@@ -647,7 +646,7 @@ goto            @Label_1c98
 
 @Cond_1be2:
 dialogtxt       "Master..."
-dialogtxt       "Can I come this time?"
+dialogtxt       "Can I come too?"
 dialogtxt       "It's not about revenge this time."
 code0309        
 code0479        0, 2, 14
@@ -1039,9 +1038,9 @@ code0309
 call            @Func_3b06
 code0479        1, 0, 13
 call            @Func_3b3c
-dialogtxt       "Yeah... Right now, you're"
-dialogtxt       "fully capable of going up against"
-dialogtxt       "me as a fellow Craftknight."
+dialogtxt       "Yeah... Right now, your skill as"
+dialogtxt       "a Craftknight is enough to put up"
+dialogtxt       "a decent fight."
 code0309        
 call            @Func_3b72
 code0479        0, 1, 13

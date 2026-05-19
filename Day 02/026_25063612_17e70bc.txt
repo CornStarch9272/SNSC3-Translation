@@ -528,8 +528,8 @@ code0479        1, 2, 16
 code047d        1, 107
 call            @Func_3f5e
 call            @Func_3edc
-dialogtxt       "Just... Please!"
-dialogtxt       "If you don't, misfortune will!"
+dialogtxt       "Please!"
+dialogtxt       "If you don't, misfortune will—"
 code047b        
 code0309        
 code0479        1, 4, 17
@@ -934,12 +934,13 @@ call            @Func_3ec4
 code0479        1, 2, 16
 call            @Func_3efa
 dialogtxt       "If we just leave the village"
-dialogtxt       "afterwards, there's no problem."
+dialogtxt       "afterward, then there's no"
+dialogtxt       "problem."
 code0309        
 call            @Func_3f30
 code0479        0, 4, 16
 call            @Func_3e8e
-dialogtxt       "Is that really so...?"
+dialogtxt       "I don't think it works like that..."
 goto            @Cond_2b1a
 
 @Cond_2b1a:
@@ -957,7 +958,7 @@ code0479        0, 2, 14
 code047d        0, 107
 call            @Func_3f48
 call            @Func_3e70
-dialogtxt       "I'm... Going to get it back..."
+dialogtxt       "I'm... going to get it back..."
 code047b        
 code0309        
 call            @Func_3f9e
