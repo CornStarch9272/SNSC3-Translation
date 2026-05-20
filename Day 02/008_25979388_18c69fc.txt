@@ -417,8 +417,7 @@ jumpz           @Cond_0afc, ($h311 != 0)
 jumpz           @Cond_0a9e, ($bv033 > 0)
 code0301        8, 7
 code047e        0, 1
-dialogtxt       "Shiro has disappeared."
-dialogtxt       "But..."
+dialogtxt       "Shiro has disappeared, but..."
 code0309        
 dialogtxt       "I don't think she's lost."
 dialogtxt       "I think she set out"
