@@ -90,8 +90,8 @@ call            @Func_1732
 jumpz           @Cond_0390, ($bv019 == 1)
 code0301        8, 7
 code047e        0, 1
-dialogtxt       "Heh heh..."
-dialogtxt       "Sweet victory."
+dialogtxt       "Haha!"
+dialogtxt       "What a deal!"
 code0309        
 code047e        0, 0
 code0302        7
@@ -106,8 +106,8 @@ goto            @Label_03ec
 @Cond_0398:
 code0301        8, 7
 code047e        0, 1
-dialogtxt       "Heheh..."
-dialogtxt       "Sweet victory."
+dialogtxt       "Haha!"
+dialogtxt       "What a deal!"
 code0309        
 code047e        0, 0
 code0302        7
@@ -148,7 +148,8 @@ call            @Func_1732
 jumpz           @Cond_058e, ($bv019 == 1)
 code0301        8, 7
 code047e        0, 1
-dialogtxt       "It kinda feels like I've lost."
+dialogtxt       "Wait."
+dialogtxt       "Have I been ripped off?"
 code0309        
 code047e        0, 0
 code0302        7
@@ -163,7 +164,8 @@ goto            @Label_05ec
 @Cond_0596:
 code0301        8, 7
 code047e        0, 1
-dialogtxt       "It kinda feels like I've lost."
+dialogtxt       "Wait."
+dialogtxt       "Have I been ripped off?"
 code0309        
 code047e        0, 0
 code0302        7
@@ -258,8 +260,7 @@ call            @Func_1732
 jumpz           @Cond_0984, ($bv019 == 1)
 code0301        8, 7
 code047e        0, 1
-dialogtxt       "This trade is definitely"
-dialogtxt       "in my favor."
+dialogtxt       "A lucrative trade indeed!"
 code0309        
 code047e        0, 0
 code0302        7
@@ -274,8 +275,7 @@ goto            @Label_09e8
 @Cond_098c:
 code0301        8, 7
 code047e        0, 1
-dialogtxt       "This trade is definitely"
-dialogtxt       "in my favor."
+dialogtxt       "A lucrative trade indeed!"
 code0309        
 code047e        0, 0
 code0302        7
@@ -313,8 +313,8 @@ call            @Func_1732
 jumpz           @Cond_0b54, ($bv019 == 1)
 code0301        8, 7
 code047e        0, 1
-dialogtxt       "Heheh..."
-dialogtxt       "Sweet victory."
+dialogtxt       "Haha!"
+dialogtxt       "What a deal!"
 code0309        
 code047e        0, 0
 code0302        7
@@ -329,8 +329,8 @@ goto            @Label_0bb0
 @Cond_0b5c:
 code0301        8, 7
 code047e        0, 1
-dialogtxt       "Heheh..."
-dialogtxt       "Sweet victory."
+dialogtxt       "Haha!"
+dialogtxt       "What a deal!"
 code0309        
 code047e        0, 0
 code0302        7
@@ -368,8 +368,8 @@ call            @Func_1732
 jumpz           @Cond_0d1c, ($bv019 == 1)
 code0301        8, 7
 code047e        0, 1
-dialogtxt       "Heheh..."
-dialogtxt       "Sweet victory."
+dialogtxt       "Haha!"
+dialogtxt       "What a deal!"
 code0309        
 code047e        0, 0
 code0302        7
@@ -384,8 +384,8 @@ goto            @Label_0d78
 @Cond_0d24:
 code0301        8, 7
 code047e        0, 1
-dialogtxt       "Heheh..."
-dialogtxt       "Sweet victory."
+dialogtxt       "Haha!"
+dialogtxt       "What a deal!"
 code0309        
 code047e        0, 0
 code0302        7
@@ -425,8 +425,7 @@ call            @Func_1732
 jumpz           @Cond_0f16, ($bv019 == 1)
 code0301        8, 7
 code047e        0, 1
-dialogtxt       "This trade is definitely"
-dialogtxt       "in my favor."
+dialogtxt       "A lucrative trade indeed!"
 code0309        
 code047e        0, 0
 code0302        7
@@ -441,8 +440,7 @@ goto            @Label_0f7a
 @Cond_0f1e:
 code0301        8, 7
 code047e        0, 1
-dialogtxt       "This trade is definitely"
-dialogtxt       "in my favor."
+dialogtxt       "A lucrative trade indeed!"
 code0309        
 code047e        0, 0
 code0302        7
@@ -486,8 +484,7 @@ call            @Func_1732
 jumpz           @Cond_112c, ($bv019 == 1)
 code0301        8, 7
 code047e        0, 1
-dialogtxt       "This trade is definitely"
-dialogtxt       "in my favor."
+dialogtxt       "A lucrative trade indeed!"
 code0309        
 code047e        0, 0
 code0302        7
@@ -502,8 +499,7 @@ goto            @Label_1190
 @Cond_1134:
 code0301        8, 7
 code047e        0, 1
-dialogtxt       "This trade is definitely"
-dialogtxt       "in my favor."
+dialogtxt       "A lucrative trade indeed!"
 code0309        
 code047e        0, 0
 code0302        7
