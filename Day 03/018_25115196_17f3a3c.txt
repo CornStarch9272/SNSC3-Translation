@@ -419,7 +419,7 @@ call            @Func_1bf2
 code0479        0, 0, 16
 call            @Func_1b50
 dialogtxt       "Huh..."
-dialogtxt       "You don't have enough boam..."
+dialogtxt       "I don't have enough..."
 code0309        
 call            @Func_1b86
 code0479        1, 2, 15

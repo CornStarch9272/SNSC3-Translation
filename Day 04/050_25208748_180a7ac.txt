@@ -575,7 +575,7 @@ call            @Func_1ede
 code0479        0, 2, 16
 call            @Func_1e3c
 dialogtxt       "What should we do?"
-dialogtxt       "I'm worried about him..."
+dialogtxt       "I'm worried about him,"
 dialogtxt       "but Eliez..."
 code0309        
 call            @Func_1f78

@@ -533,8 +533,7 @@ code0309
 call            @Func_206a
 code0479        0, 0, 14
 call            @Func_1fc8
-dialogtxt       "Ah..."
-dialogtxt       "Yeah..."
+dialogtxt       "Uh... okay."
 code0309        
 call            @Func_1ffe
 code0479        1, 0, 13
@@ -545,8 +544,7 @@ code0309
 call            @Func_206a
 code0479        0, 0, 16
 call            @Func_1fc8
-dialogtxt       "Ah..."
-dialogtxt       "Yeah..."
+dialogtxt       "Sure."
 code0309        
 call            @Func_1ffe
 code0479        1, 2, 17

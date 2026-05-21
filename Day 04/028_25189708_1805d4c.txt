@@ -74,7 +74,7 @@ call            @Func_2568
 call            @Func_24ae
 dialogtxt       "Fufufu..."
 dialogtxt       "With this, maybe we'll be"
-dialogtxt       "able to get a paycheck..."
+dialogtxt       "able to get our dues..."
 code047b        
 code0309        
 call            @Func_24e4

@@ -528,8 +528,8 @@ code043c        3, 1
 code0479        1, 2, 15
 call            @Func_43ae
 dialogtxt       "Don't you get it, [NAME 2]!"
-dialogtxt       "The present is what's important!"
-dialogtxt       "You decide your own future!"
+dialogtxt       "It's about the here and now!"
+dialogtxt       "Grab your future by the reins!"
 code0309        
 call            @Func_4452
 call            @Func_43e4
@@ -564,7 +564,7 @@ goto            @Cond_16ca
 
 @Cond_16ca:
 jumpz           @Cond_16f0, ($b003 == 1)
-dialogtxt       "She's... An ogre..."
+dialogtxt       "She's... an ogre..."
 goto            @Cond_16f0
 
 @Cond_16f0:

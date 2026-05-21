@@ -122,7 +122,7 @@ code0309
 call            @Func_143a
 code0479        0, 1, 13
 call            @Func_1398
-dialogtxt       "Yes..."
+dialogtxt       "..."
 code0309        
 call            @Func_14be
 call            @Func_13ce
@@ -138,7 +138,7 @@ code0309
 call            @Func_143a
 code0479        0, 0, 13
 call            @Func_1398
-dialogtxt       "Yes..."
+dialogtxt       "Your welcome..."
 code0309        
 call            @Func_14be
 call            @Func_13ce
