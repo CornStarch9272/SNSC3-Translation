@@ -14,7 +14,7 @@ code048b        144, 72, 16
 code048c        
 code040d        15
 code0301        8, 7
-dialogbig       255, 116, 1, 8, 0, "*Loud Roaring*"
+dialogbig       255, 116, 1, 8, 0, "Guuohhhh..."
 code030c        
 code0302        7
 code0478        0, 0

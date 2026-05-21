@@ -20,7 +20,7 @@ code0479        0, 0, 12
 code047d        0, 106
 call            @Func_2792
 call            @Func_26ba
-dialogtxt       "I'll be going!"
+dialogtxt       "I'll see you all later!"
 code047b        
 code0309        
 call            @Func_270e

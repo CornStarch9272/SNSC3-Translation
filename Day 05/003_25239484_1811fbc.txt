@@ -353,8 +353,8 @@ code030c
 code0334        
 code0331        39, 256
 code0479        1, 2, 13
-dialogtxt       "Protect her? From what, Eliez?"
-dialogtxt       "Eliez is going to attack Murno!?"
+dialogtxt       "Protect her? From who?"
+dialogtxt       "Eliez?"
 dialogtxt       "Hah. You're hilarious."
 code0309        
 call            @Func_206a

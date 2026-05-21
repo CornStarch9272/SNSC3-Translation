@@ -906,7 +906,7 @@ code047d        0, 0
 call            @Func_2c3c
 call            @Func_2b64
 jumpz           @Cond_23c0, ($b002 == 0)
-dialogtxt       "Dammit!"
+dialogtxt       "Crap!"
 dialogtxt       "Let's go, [NAME 1]!"
 goto            @Label_23e2
 

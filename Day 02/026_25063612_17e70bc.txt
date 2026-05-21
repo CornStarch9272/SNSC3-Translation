@@ -570,8 +570,7 @@ dialogtxt       "Are you hurt!?"
 code047b        
 code0309        
 code0479        1, 2, 14
-dialogtxt       "Damn it all!"
-dialogtxt       "Those guys!"
+dialogtxt       "Screw those guys!"
 goto            @Label_1b46
 
 @Cond_1ab4:

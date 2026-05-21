@@ -82,7 +82,7 @@ code0479        0, 2, 12
 call            @Func_28ce
 dialogtxt       "Hey, my name is [NAME 0]!"
 dialogtxt       "Don't call my master a Stray,"
-dialogtxt       "when your leader is so hostile!"
+dialogtxt       "when your leader is so gloomy!"
 goto            @Label_0492
 
 @Label_0492:
@@ -90,11 +90,11 @@ code0309
 call            @Func_2904
 code0479        1, 2, 15
 call            @Func_293a
-dialogtxt       "Hostile... Hey!"
+dialogtxt       "Gloomy... Hey!"
 dialogtxt       "Are you talking about Lemmy!?"
 code0309        
 code0479        1, 2, 14
-dialogtxt       "He isn't hostile, in fact,"
+dialogtxt       "He isn't gloomy, in fact,"
 dialogtxt       "he's great at socializing!"
 code0309        
 call            @Func_2970

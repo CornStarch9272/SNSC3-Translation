@@ -117,8 +117,8 @@ call            @Func_0e76
 code0479        1, 5, 17
 call            @Func_0eac
 dialogtxt       "W—What are you saying!?"
-dialogtxt       "I—I think you've got it"
-dialogtxt       "the wrong way around!"
+dialogtxt       "I—I'm stronger than you are!"
+dialogtxt       "You should be at ease!"
 goto            @Cond_0634
 
 @Cond_0634:

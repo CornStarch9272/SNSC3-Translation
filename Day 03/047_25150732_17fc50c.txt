@@ -415,7 +415,7 @@ call            @Func_43fc
 call            @Func_4324
 dialogtxt       "Hold on, Dad!"
 dialogtxt       "We're always in the red because"
-dialogtxt       "you'll always service on the house!"
+dialogtxt       "you're always giving out freebies!"
 code047b        
 code0309        
 call            @Func_4378
