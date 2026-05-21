@@ -556,8 +556,8 @@ call            @Func_39ae
 call            @Func_39e4
 code0479        1, 2, 16
 dialogtxt       "I left my home thinking I would"
-dialogtxt       "make the whole world witness"
-dialogtxt       "the rock 'n' roll of my soul!"
+dialogtxt       "show the whole world the"
+dialogtxt       "rock 'n' roll of my soul!"
 code0309        
 code0479        0, 0, 16
 code0479        1, 2, 14

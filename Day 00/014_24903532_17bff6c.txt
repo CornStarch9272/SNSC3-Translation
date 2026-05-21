@@ -19,7 +19,7 @@ code0309
 call            @Func_1026
 code0479        0, 0, 16
 call            @Func_0f84
-dialogtxt       "Rolling? Rock? I don't know"
+dialogtxt       "Sorry... I don't know really"
 dialogtxt       "much about the Nameless World's"
 dialogtxt       "music..."
 code0309        
