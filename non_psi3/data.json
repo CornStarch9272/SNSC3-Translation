@@ -79334,7 +79334,7 @@
           }
         ],
         "raw": "主人公の愛称を入力して下さい\u0000\u0000\u0000\u0000",
-        "translation": "What is your name?\u0000",
+        "translation": "What is your nickname?\u0000",
         "type": "SJIS string"
       }
     ],
@@ -79367,7 +79367,7 @@
           }
         ],
         "raw": "主人公の名前を入力して下さい\u0000\u0000\u0000\u0000",
-        "translation": "What is your nickname?\u0000",
+        "translation": "What is your name?\u0000",
         "type": "SJIS string"
       }
     ],
