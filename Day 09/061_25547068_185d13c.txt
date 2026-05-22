@@ -47,7 +47,7 @@ call            @Func_0fae
 call            @Func_0f16
 dialogtxt       "Thanks to you, we caught every"
 dialogtxt       "member of Anise's group. As a part"
-dialogtxt       "of the Vigilante Corps, thank you."
+dialogtxt       "of the militia, thank you."
 code047b        
 code0309        
 call            @Func_0f6a

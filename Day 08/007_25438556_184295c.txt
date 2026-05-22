@@ -400,7 +400,7 @@ code047d        1, 130
 call            @Func_1eb4
 call            @Func_1e50
 dialogtxt       "Do not forget your duties as a"
-dialogtxt       "member of the Vigilante Corp."
+dialogtxt       "member of the militia."
 dialogtxt       "Injuries from Strays are up."
 code047b        
 code0309        

@@ -67,7 +67,7 @@ code0479        0, 5, 17
 call            @Func_1472
 dialogtxt       "Hey, we can't do that!"
 dialogtxt       "We still need to hand them over to"
-dialogtxt       "the Vigilante Corps."
+dialogtxt       "the militia."
 code0309        
 call            @Func_14a8
 code0479        1, 4, 12
@@ -148,7 +148,7 @@ code0479        0, 5, 17
 call            @Func_1472
 dialogtxt       "Of course you will!"
 dialogtxt       "We still need to hand them over"
-dialogtxt       "to the Vigilante Corps."
+dialogtxt       "to the militia."
 code0309        
 call            @Func_14a8
 code0479        1, 2, 14
@@ -207,12 +207,12 @@ code0479        0, 5, 17
 call            @Func_1472
 jumpz           @Cond_0978, ($b002 == 0)
 dialogtxt       "That's why I'm telling you!"
-dialogtxt       "The Vigilante Corps will be there."
+dialogtxt       "The militia will be there."
 goto            @Label_09b8
 
 @Cond_0978:
 dialogtxt       "That's why I'm telling you!"
-dialogtxt       "The Vigilante Corps will be there."
+dialogtxt       "The militia will be there."
 goto            @Label_09b8
 
 @Label_09b8:
@@ -293,7 +293,7 @@ code0479        0, 5, 17
 call            @Func_1472
 dialogtxt       "Of course not!"
 dialogtxt       "We have to be able to hand them"
-dialogtxt       "over to the Vigilante Corps."
+dialogtxt       "over to the militia."
 code0309        
 call            @Func_14a8
 code0479        1, 4, 14

@@ -27,7 +27,7 @@ call            @Func_19f0
 call            @Func_18ec
 dialogtxt       "Wait, bro!"
 dialogtxt       "I thought Ianna told you to focus"
-dialogtxt       "on your Vigilante Corps work?"
+dialogtxt       "on your work with the militia?"
 code047b        
 code0309        
 call            @Func_1940

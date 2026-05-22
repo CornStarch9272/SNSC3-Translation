@@ -24,7 +24,7 @@ call            @Func_101c
 code043c        2, 4
 code0479        0, 0, 13
 call            @Func_0f7a
-dialogtxt       "Well, perks from being in the Corps."
+dialogtxt       "Well, perks from being in the militia."
 code0309        
 call            @Func_0fb0
 code043c        0, 2

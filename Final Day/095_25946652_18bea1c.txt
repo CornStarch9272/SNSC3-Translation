@@ -1010,7 +1010,7 @@ code0479        0, 2, 12
 call            @Func_3888
 dialogtxt       "Yes!"
 dialogtxt       "Please work hard as part of the"
-dialogtxt       "Vigilante Corps, Mr. Jade."
+dialogtxt       "militia, Mr. Jade."
 code0309        
 call            @Func_39c4
 call            @Func_38a6
