@@ -915,19 +915,9 @@ code031c        1, 1
 code031f        1
 code040d        60
 code0304        1
-jumpz           @Cond_24d4, ($b002 == 0)
 dialogtxt       "　　　　 And so, the two of us"
 dialogtxt       "　　　  began training together,"
 dialogtxt       "　　　　　as Craftknights..."
-goto            @Label_2528
-
-@Cond_24d4:
-dialogtxt       "　　　　 And so, the two of us"
-dialogtxt       "　　　  began training together,"
-dialogtxt       "　　　　　as Craftknights..."
-goto            @Label_28ec
-
-@Label_28ec:
 code030a        6, 1
 code0304        0
 code031b        0, -1, -1, 0, 60
