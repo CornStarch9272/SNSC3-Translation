@@ -29216,7 +29216,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "θをι体退治する\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
-              "translation": "Exterminate ι θs\u0000",
+              "translation": "Exterminate ι θ(s)\u0000",
               "type": "SJIS string"
             },
             "offset": 44,
@@ -42634,7 +42634,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "強力な状態で戦闘に出撃\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
-              "translation": "Tag with γ's true form in battle\u0000",
+              "translation": "Tag with γ's true form\u0000",
               "type": "SJIS string"
             },
             "offset": 24,
@@ -42680,7 +42680,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "強力な状態で戦闘に出撃\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
-              "translation": "Tag with γ's true form in battle\u0000",
+              "translation": "Tag with γ's true form\u0000",
               "type": "SJIS string"
             },
             "offset": 24,
@@ -42726,7 +42726,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "強力な状態で戦闘に出撃\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
-              "translation": "Tag with γ's true form in battle\u0000",
+              "translation": "Tag with γ's true form\u0000",
               "type": "SJIS string"
             },
             "offset": 24,
@@ -47358,7 +47358,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "約４秒ごとにＨＰを１回復\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
-              "translation": "Recover 1HP every 4 secs\u0000",
+              "translation": "Recover 1 HP every 4 secs\u0000",
               "type": "SJIS string"
             },
             "offset": 28,
@@ -47404,7 +47404,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "約４秒ごとにＨＰを５回復\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
-              "translation": "Recover 5HP every 4 secs\u0000",
+              "translation": "Recover 5 HP every 4 secs\u0000",
               "type": "SJIS string"
             },
             "offset": 28,
@@ -47450,7 +47450,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "約４秒ごとにＨＰを１０回復\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
-              "translation": "Recover 10HP every 4 secs\u0000",
+              "translation": "Recover 10 HP every 4 secs\u0000",
               "type": "SJIS string"
             },
             "offset": 28,
