@@ -31,7 +31,7 @@ code0446        0
 code0479        0, 0, 16
 call            @Func_0c2c
 call            @Func_0b54
-dialogtxt       "Um, if we don't start heading"
+dialogtxt       "Um, we'd better start heading"
 dialogtxt       "to the Chief's place soon..."
 code047b        
 code0309        
@@ -67,7 +67,7 @@ jumpz           @Cond_0320, ($b003 == 3)
 code0479        1, 2, 15
 call            @Func_0c42
 call            @Func_0bde
-dialogtxt       "Lady Murno!?"
+dialogtxt       "Lady Murno?"
 dialogtxt       "Is something wrong?"
 goto            @Cond_0320
 

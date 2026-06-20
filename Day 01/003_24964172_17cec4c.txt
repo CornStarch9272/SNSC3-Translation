@@ -11,7 +11,7 @@ code047b
 code0309        
 call            @Func_08f2
 call            @Func_0928
-dialogtxt       "Now, combine it with materials"
+dialogtxt       "Now, combine it with the materials,"
 dialogtxt       "and try making a new weapon"
 dialogtxt       "together with γ."
 code0309        
@@ -291,4 +291,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-
