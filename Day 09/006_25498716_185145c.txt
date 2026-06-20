@@ -17,12 +17,12 @@ code047d        1, 138
 call            @Func_1932
 call            @Func_189a
 jumpz           @Cond_012c, ($b002 == 0)
-dialogtxt       "Ah, big bro,"
+dialogtxt       "Ah, Mr. [NAME 2],"
 dialogtxt       "you're here!"
 goto            @Label_0150
 
 @Cond_012c:
-dialogtxt       "Ah, big sis,"
+dialogtxt       "Ah, Ms. [NAME 2],"
 dialogtxt       "you're here!"
 goto            @Label_0150
 
@@ -37,8 +37,8 @@ code0479        1, 0, 12
 code047d        1, 108
 call            @Func_191c
 call            @Func_18b8
-dialogtxt       "Now then."
-dialogtxt       "Where should we start..."
+dialogtxt       "Now then,"
+dialogtxt       "where should we start..."
 code047b        
 code0309        
 call            @Func_1988
@@ -47,7 +47,7 @@ code047b
 code047d        0, 106
 code0301        8, 0
 code047e        0, 1
-dialogtxt       "Excuse me~..."
+dialogtxt       "Excuse me~"
 code0309        
 code047e        0, 0
 code0302        0
@@ -126,7 +126,7 @@ call            @Func_18ee
 code0479        0, 4, 16
 call            @Func_184c
 dialogtxt       "Th—They're..."
-dialogtxt       "at Lute Grotto..."
+dialogtxt       "at Lute Cave..."
 code0309        
 call            @Func_1972
 call            @Func_1882
@@ -136,8 +136,8 @@ code0479        1, 2, 16
 code047d        1, 138
 call            @Func_191c
 call            @Func_18b8
-dialogtxt       "Ehh~..."
-dialogtxt       "Is Lute Grotto becoming"
+dialogtxt       "Ehh~"
+dialogtxt       "Is Lute Cave becoming"
 dialogtxt       "dangerous again?"
 code0309        
 call            @Func_195c
@@ -164,7 +164,7 @@ code043c        3, 3
 code0479        0, 2, 12
 dialogtxt       "Just until we"
 dialogtxt       "capture the bad guys!"
-dialogtxt       "Alright, let's head to Lute Grotto!"
+dialogtxt       "Alright, let's head to Lute Cave!"
 goto            @Label_08be
 
 @Cond_07ea:
@@ -180,7 +180,7 @@ code043c        3, 3
 code0479        0, 2, 12
 dialogtxt       "Just until we"
 dialogtxt       "capture the bad guys!"
-dialogtxt       "Alright, let's head to Lute Grotto!"
+dialogtxt       "Alright, let's head to Lute Cave!"
 goto            @Label_08be
 
 @Label_08be:

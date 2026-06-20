@@ -52,11 +52,11 @@ call            @Func_10c2
 code0479        0, 0, 16
 call            @Func_1020
 jumpz           @Cond_02da, ($b002 == 0)
-dialogtxt       "\"Of course\"?"
+dialogtxt       "\"Of course?\""
 goto            @Label_02f6
 
 @Cond_02da:
-dialogtxt       "\"Of course\"?"
+dialogtxt       "\"Of course?\""
 goto            @Label_02f6
 
 @Label_02f6:
@@ -83,18 +83,18 @@ code0309
 call            @Func_1056
 code0479        1, 2, 13
 call            @Func_108c
-dialogtxt       "You seriously haven't noticed...?"
+dialogtxt       "You seriously haven't noticed?"
 dialogtxt       "Think about it for a second."
 code0309        
 call            @Func_10c2
 code0479        0, 2, 15
 call            @Func_1020
 jumpz           @Cond_0488, ($b002 == 0)
-dialogtxt       "What are you talking about...?"
+dialogtxt       "What are you talking about?"
 goto            @Label_049e
 
 @Cond_0488:
-dialogtxt       "What are you talking about...?"
+dialogtxt       "What are you talking about?"
 goto            @Label_049e
 
 @Label_049e:
@@ -159,13 +159,13 @@ call            @Func_1020
 jumpz           @Cond_0782, ($b002 == 0)
 dialogtxt       "I see."
 dialogtxt       "But I mean, isn't that fine?"
-dialogtxt       "Especially for that 'Serge'."
+dialogtxt       "Especially for Serge."
 goto            @Label_07b8
 
 @Cond_0782:
 dialogtxt       "I see."
 dialogtxt       "But I mean, isn't that fine?"
-dialogtxt       "Especially for that 'Serge'."
+dialogtxt       "Especially for Serge."
 goto            @Label_07b8
 
 @Label_07b8:
@@ -180,14 +180,14 @@ code0479        0, 2, 15
 call            @Func_1020
 jumpz           @Cond_0854, ($b002 == 0)
 dialogtxt       "I didn't!"
-dialogtxt       "It was a match,"
-dialogtxt       "and he asked me for it!"
+dialogtxt       "It was a match, and he asked"
+dialogtxt       "me for it!"
 goto            @Label_0878
 
 @Cond_0854:
 dialogtxt       "I didn't!"
-dialogtxt       "It was a match,"
-dialogtxt       "and he asked me for it!"
+dialogtxt       "It was a match, and he asked"
+dialogtxt       "me for it!"
 goto            @Label_0878
 
 @Label_0878:

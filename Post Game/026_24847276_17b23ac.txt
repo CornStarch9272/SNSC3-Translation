@@ -434,7 +434,7 @@ dialogtxt       "Recently, we've received sightings"
 dialogtxt       "of a gigantic Summon Beast!"
 code0309        
 dialogtxt       "I think they called it a..."
-dialogtxt       "\"Gun\", something, \"bol\"?"
+dialogtxt       "\"GUN\", something, \"VAL\"?"
 dialogtxt       "... I dunno."
 code0309        
 code0302        7
@@ -442,7 +442,7 @@ code040b
 
 @Event_132a:
 code0301        8, 7
-dialogtxt       "Care to try our \"Lucky Draw\"?"
+dialogtxt       "Care to try our Lucky Draw?"
 dialogtxt       "It's available all day, everyday!"
 dialogtxt       "Guaranteed no losing tickets!"
 code0309        

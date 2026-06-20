@@ -52,12 +52,12 @@ code047d        1, 132
 call            @Func_141c
 call            @Func_1318
 jumpz           @Cond_02ba, ($b002 == 0)
-dialogtxt       "What's wrong, Bro?"
+dialogtxt       "What's wrong, bro?"
 dialogtxt       "You're acting strange..."
 goto            @Label_02f6
 
 @Cond_02ba:
-dialogtxt       "What's wrong, Bro?"
+dialogtxt       "What's wrong, bro?"
 dialogtxt       "You're acting strange..."
 goto            @Label_02f6
 
@@ -67,7 +67,7 @@ code0309
 call            @Func_136c
 code0479        1, 2, 12
 call            @Func_13a2
-dialogtxt       "...Guess that's it then."
+dialogtxt       "... Guess that's it then."
 code0309        
 call            @Func_1472
 call            @Func_13c0
@@ -138,13 +138,13 @@ call            @Func_13d8
 code0479        0, 6, 12
 call            @Func_1336
 jumpz           @Cond_067a, ($b002 == 0)
-dialogtxt       "Ah... Bro..."
+dialogtxt       "Ah... bro..."
 dialogtxt       "You mean..."
 dialogtxt       "That I..."
 goto            @Label_06aa
 
 @Cond_067a:
-dialogtxt       "Ah... Bro..."
+dialogtxt       "Ah... bro..."
 dialogtxt       "You mean..."
 dialogtxt       "That I..."
 goto            @Label_06aa
@@ -159,7 +159,7 @@ dialogtxt       "the only people who have beaten me"
 dialogtxt       "are Master Benson and Rob..."
 code0309        
 code0479        1, 2, 13
-dialogtxt       "You've definitly inherited"
+dialogtxt       "You've definitely inherited"
 dialogtxt       "their techniques."
 dialogtxt       "With this fight, I understood that."
 code0309        
@@ -174,8 +174,7 @@ code0309
 call            @Func_13d8
 code0479        0, 1, 13
 call            @Func_1336
-dialogtxt       "Thank you!"
-dialogtxt       "Bro!"
+dialogtxt       "Thanks bro!"
 code0309        
 call            @Func_1472
 call            @Func_1354
@@ -235,7 +234,7 @@ code0479        0, 11, 17
 call            @Func_13f0
 call            @Func_1318
 dialogtxt       "Awawa..."
-dialogtxt       "S—Sorry, Bro..."
+dialogtxt       "S—Sorry, bro..."
 code047b        
 code0309        
 call            @Func_136c
@@ -276,8 +275,8 @@ code040d        15
 code047d        0, 132
 code0301        16, 7
 code047e        0, 1
-dialogtxt       "A match with you..."
-dialogtxt       "Would be a long one!"
+dialogtxt       "A real match with you..."
+dialogtxt       "I hop we can have one soon!"
 code0309        
 code047e        0, 0
 code0302        7

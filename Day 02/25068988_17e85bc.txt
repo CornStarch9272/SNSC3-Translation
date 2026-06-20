@@ -17,7 +17,7 @@ code047d        0, 0
 code047d        1, 120
 code0301        8, 7
 code047e        1, 1
-dialogtxt       "The Strays' apprentice, is it?"
+dialogtxt       "The Stray's apprentice, is it?"
 dialogtxt       "Why are you here!?"
 code0309        
 code047e        1, 0
@@ -120,14 +120,12 @@ call            @Func_0d6c
 call            @Func_0c94
 jumpz           @Cond_0538, ($b002 == 0)
 dialogtxt       "Ah, hey!"
-dialogtxt       "That's..."
-dialogtxt       "Lemmy!"
+dialogtxt       "That's... Lemmy!"
 goto            @Label_056a
 
 @Cond_0538:
 dialogtxt       "Ah, hey!"
-dialogtxt       "That's..."
-dialogtxt       "Lemmy!"
+dialogtxt       "That's... Lemmy!"
 goto            @Label_056a
 
 @Label_056a:

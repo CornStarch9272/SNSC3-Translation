@@ -36,9 +36,9 @@ setvar          $h136, 0
 call            @Func_03aa
 jumpz           @Cond_0262, ($f0152 == 1)
 code0304        1
-dialogtxt       "At that moment, she smiled, but"
-dialogtxt       "I couldn't help but feel that there"
-dialogtxt       "was loneliness behind her smile."
+dialogtxt       "　　At that moment, she smiled, but"
+dialogtxt       "　 I couldn't help but feel that there"
+dialogtxt       "　　was loneliness behind her smile."
 code030a        6, 1
 code0304        0
 goto            @Label_030e
@@ -47,9 +47,8 @@ goto            @Label_030e
 jumpz           @Label_030e, ($f0153 == 1)
 jumpz           @Cond_030a, ($b003 == 0)
 code0304        1
-dialogtxt       "       Somehow,       "
-dialogtxt       "  I could tell that   "
-dialogtxt       "   γ looked happy.    "
+dialogtxt       "　　　 Somehow, I could tell that"
+dialogtxt       "　　　 [NAME 1] looked happy."
 code030a        6, 1
 code0304        0
 goto            @Cond_030a
@@ -258,4 +257,3 @@ code031f        7
 code031a        7
 code033e        196
 ret             
-

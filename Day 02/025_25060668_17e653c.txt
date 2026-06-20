@@ -10,7 +10,7 @@ code0479        0, 2, 14
 code047d        0, 0
 call            @Func_1fdc
 call            @Func_1f04
-dialogtxt       "Hey Bro,"
+dialogtxt       "Hey bro,"
 dialogtxt       "Murno said you..."
 code047b        
 code0309        
@@ -54,16 +54,18 @@ dialogtxt       "and seem to be searching everywhere."
 code047b        
 code0309        
 code0479        0, 0, 16
-dialogtxt       "There was an earthquake"
-dialogtxt       "just now, right?"
+dialogtxt       "There was that earthquake"
+dialogtxt       "that happened recently, remember?"
 dialogtxt       "Seems like Strays appeared then."
 code0309        
 call            @Func_1f58
 code0479        1, 2, 16
 call            @Func_1f8e
-dialogtxt       "Doesn't he remember anything?"
-dialogtxt       "Didn't he just recently heal"
-dialogtxt       "back to his full mobility?"
+dialogtxt       "Doesn't he remember what happened"
+dialogtxt       "last time?"
+code0309
+dialogtxt       "He only just started moving"
+dialogtxt       "around again, hasn't he?"
 code0309        
 code0479        1, 2, 14
 dialogtxt       "Even so, talking about"
@@ -105,8 +107,8 @@ code047d        0, 132
 call            @Func_2008
 call            @Func_1f04
 dialogtxt       "There's no helping it."
-dialogtxt       "Bostaph was Rob's"
-dialogtxt       "best friend, after all."
+dialogtxt       "Bostaph and Rob were best"
+dialogtxt       "friends, after all."
 code047b        
 code0309        
 call            @Func_1f58
@@ -136,7 +138,7 @@ code0309
 call            @Func_1fc4
 code0479        0, 0, 13
 call            @Func_1f22
-dialogtxt       "Huh..."
+dialogtxt       "Heh..."
 dialogtxt       "This might be the first time"
 dialogtxt       "I've heard an apology from you."
 code0309        
@@ -237,14 +239,14 @@ call            @Func_1f58
 code0479        1, 2, 14
 call            @Func_1f8e
 jumpz           @Cond_0b7e, ($b002 == 0)
-dialogtxt       "I told you,"
-dialogtxt       "I've trained and become strong!"
+dialogtxt       "I told you, I've trained and"
+dialogtxt       "become strong!"
 dialogtxt       "Now, even Master's enemies will—"
 goto            @Label_0bc8
 
 @Cond_0b7e:
-dialogtxt       "I told you,"
-dialogtxt       "I've trained and become strong!"
+dialogtxt       "I told you, I've trained and"
+dialogtxt       "become strong!"
 dialogtxt       "Now, even Master's enemies will—"
 goto            @Label_0bc8
 
@@ -283,8 +285,8 @@ dialogtxt       "Strength isn't everything!"
 code0309        
 code0479        0, 2, 16
 dialogtxt       "If only Rob were still here..."
-dialogtxt       "Maybe he could talk"
-dialogtxt       "some sense into you..."
+dialogtxt       "Maybe he could talk some sense"
+dialogtxt       "into you..."
 code0309        
 call            @Func_2048
 call            @Func_1f58

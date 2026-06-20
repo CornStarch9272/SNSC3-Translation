@@ -3,7 +3,7 @@ code0479        0, 4, 17
 code047d        0, 0
 call            @Func_08b4
 call            @Func_07dc
-dialogbig       255, 116, 1, 0, 0, "Sigh~~~~..."
+dialogbig       255, 116, 1, 0, 0, "Sigh~~~~"
 code030c        
 code0479        0, 4, 16
 jumpz           @Cond_00ca, ($b002 == 0)

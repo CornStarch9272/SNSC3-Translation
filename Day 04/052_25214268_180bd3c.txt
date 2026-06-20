@@ -72,7 +72,7 @@ goto            @Cond_0278
 
 @Cond_0278:
 jumpz           @Cond_02b8, ($b003 == 3)
-dialogtxt       "Uu... That voice..."
+dialogtxt       "That voice..."
 dialogtxt       "It's the man from earlier."
 goto            @Cond_02b8
 

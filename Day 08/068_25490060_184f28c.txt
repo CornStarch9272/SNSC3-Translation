@@ -90,7 +90,7 @@ code0309
 call            @Func_0f0e
 code0479        0, 4, 13
 call            @Func_0e6c
-dialogtxt       "Now now,"
+dialogtxt       "Now, now,"
 dialogtxt       "don't get so down..."
 code0309        
 call            @Func_0ea2

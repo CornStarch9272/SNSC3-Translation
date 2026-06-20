@@ -438,7 +438,7 @@ code040b
 @Event_12ba:
 code0301        8, 7
 dialogtxt       "　"
-dialogtxt       "　　　Fishing Friends Paper, No. 2"
+dialogtxt       "　 Fishing Friends Newspaper Volume 2"
 code0309        
 dialogtxt       "If you keep fishing for a while,"
 dialogtxt       "you may randomly find a fish that"
@@ -449,7 +449,7 @@ code040b
 
 @Event_1354:
 code0301        8, 7
-dialogtxt       "Care to try our \"Lucky Draw\"?"
+dialogtxt       "Care to try our Lucky Draw?"
 dialogtxt       "It's available all day, everyday!"
 dialogtxt       "No losing tickets, guaranteed!"
 code0309        

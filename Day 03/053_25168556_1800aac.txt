@@ -172,7 +172,7 @@ code0479        0, 2, 15
 call            @Func_1052
 dialogtxt       "Well, my bad then!"
 dialogtxt       "I won't hang out with"
-dialogtxt       "you anymore, Bro!"
+dialogtxt       "you anymore, bro!"
 goto            @Label_0926
 
 @Cond_08c8:
@@ -198,13 +198,13 @@ call            @Func_1052
 jumpz           @Cond_09fa, ($b002 == 0)
 dialogtxt       "Ehehe..."
 dialogtxt       "Do you understand"
-dialogtxt       "how I feel now, Bro?"
+dialogtxt       "how I feel now, bro?"
 goto            @Label_0a3c
 
 @Cond_09fa:
 dialogtxt       "Ehehe..."
 dialogtxt       "Do you understand"
-dialogtxt       "how I feel now, Bro?"
+dialogtxt       "how I feel now, bro?"
 goto            @Label_0a3c
 
 @Label_0a3c:

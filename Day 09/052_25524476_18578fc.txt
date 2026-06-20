@@ -413,7 +413,7 @@ call            @Func_2f6a
 code0301        6, 7
 code047e        0, 1
 code047e        1, 1
-dialogtxt       "Crap!?"
+dialogtxt       "What!?"
 code047b        
 code0309        
 code047e        0, 0

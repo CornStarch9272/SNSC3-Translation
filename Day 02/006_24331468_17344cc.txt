@@ -523,29 +523,29 @@ dialogtxt       "You're a Craftknight, aren't you?"
 dialogtxt       "Want to hear about upgrading?"
 code0309        
 code047e        0, 0
-choicetxt       @Choice_1658, "Sure!"
-choicetxt       @Choice_1922, "Nah, I'm fine."
+choicetxt       @Choice_1658, "Yes, please."
+choicetxt       @Choice_1922, "No, thank you."
 choicewait      
 
 @Choice_1658:
 code047e        0, 1
 dialogtxt       "Okay so, if you add an"
-dialogtxt       "\"Electric Battery\" to a weapon,"
-dialogtxt       "it'll gain the move 'Thunder Shot'."
+dialogtxt       "Electric Battery to a weapon,"
+dialogtxt       "it'll gain the move Thunder Shot."
 code0309        
 dialogtxt       "Oh, but, depending on the weapon,"
 dialogtxt       "there are cases where the move won't"
 dialogtxt       "be added, so be careful."
 code0309        
 dialogtxt       "And so, this time only,"
-dialogtxt       "I'll sell you an \"Electric Battery\""
+dialogtxt       "I'll sell you an Electric Battery"
 dialogtxt       "for a mere 200 boam!"
 code0309        
 dialogtxt       "Will you buy it?"
 code0309        
 code047e        0, 0
-choicetxt       @Choice_17ba, "Buy"
-choicetxt       @Choice_18d0, "Don't buy"
+choicetxt       @Choice_17ba, "I'll take it!"
+choicetxt       @Choice_18d0, "I'll pass."
 choicewait      
 
 @Choice_17ba:
@@ -573,7 +573,7 @@ code0446        17
 code0301        8, 7
 code047e        0, 1
 dialogtxt       "Aww~"
-dialogtxt       "But you don't have the money~"
+dialogtxt       "But you don't have the boam~"
 code0309        
 goto            @Label_1972
 

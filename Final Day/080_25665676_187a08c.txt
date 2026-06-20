@@ -25,7 +25,6 @@ code047d        0, 0
 call            @Func_46a0
 call            @Func_45e6
 jumpz           @Cond_016a, ($b002 == 0)
-dialogtxt       "Damn it!"
 dialogtxt       "Outta my way!"
 goto            @Label_0192
 
@@ -197,14 +196,14 @@ code0479        0, 3, 14
 call            @Func_46a0
 call            @Func_45e6
 dialogtxt       "Stop this already!"
-dialogtxt       "If she learned that her own father"
+dialogtxt       "If SHE learned that her own father"
 dialogtxt       "did something like this, she'd—"
 code047b        
 code0309        
 call            @Func_461c
 code0479        1, 5, 16
 call            @Func_4652
-dialogtxt       "I'm a father?"
+dialogtxt       "I—I'm a father?"
 dialogtxt       "What kind of sick joke..."
 code0309        
 call            @Func_4688
@@ -223,12 +222,11 @@ dialogtxt       "I can't turn back!"
 code0309        
 code0479        1, 3, 14
 dialogtxt       "In order to obtain this power,"
-dialogtxt       "Anise, Voijin,"
-dialogtxt       "and..."
+dialogtxt       "Anise, Voijin, and..."
 code0309        
 code0333        2, 30
 code0479        1, 3, 15
-dialogtxt       "And Rob, were killed by these hands!"
+dialogtxt       "Rob were killed by these hands!"
 code0309        
 call            @Func_4722
 call            @Func_4670
@@ -246,9 +244,8 @@ code047d        0, 0
 code0479        1, 3, 12
 call            @Func_46cc
 call            @Func_45c8
-dialogtxt       "What..."
-dialogtxt       "So you..."
-dialogtxt       "You killed him..."
+dialogtxt       "What?"
+dialogtxt       "So you... killed him..."
 code047b        
 code0309        
 code0479        0, 5, 15
@@ -533,13 +530,13 @@ code0479        0, 4, 16
 call            @Func_46a0
 call            @Func_45c8
 jumpz           @Cond_1644, ($b002 == 0)
-dialogtxt       "Wha—!?"
+dialogtxt       "Wha—"
 dialogtxt       "Hey, [NAME 1]!"
 dialogtxt       "What's wrong!?"
 goto            @Label_1678
 
 @Cond_1644:
-dialogtxt       "Wha—!?"
+dialogtxt       "Wha—"
 dialogtxt       "Hey, [NAME 1]!"
 dialogtxt       "What's wrong!?"
 goto            @Label_1678
@@ -638,13 +635,12 @@ call            @Func_4688
 code0479        0, 2, 16
 call            @Func_45e6
 jumpz           @Cond_1a70, ($b002 == 0)
-dialogtxt       "Wha... What the hell!?"
-dialogtxt       "Are you serious..."
+dialogtxt       "Are you serious...?"
 goto            @Label_1aa2
 
 @Cond_1a70:
 dialogtxt       "Wh—What!?"
-dialogtxt       "Are you serious..."
+dialogtxt       "Are you serious...?"
 goto            @Label_1aa2
 
 @Label_1aa2:
@@ -1002,15 +998,15 @@ code047b
 code0309        
 code0479        1, 3, 13
 dialogtxt       "Stray or partner, it doesn't matter."
-dialogtxt       "No matter what kind of Beast,"
-dialogtxt       "they'll do as I say..."
+dialogtxt       "No matter the Beast, they'll do"
+dialogtxt       "as I say..."
 code0309        
 call            @Func_4688
 call            @Func_46a0
 code0479        0, 4, 14
 call            @Func_45e6
 jumpz           @Cond_27ea, ($b002 == 0)
-dialogtxt       "Dammit..."
+dialogtxt       "No..."
 dialogtxt       "[NAME 1]..."
 goto            @Label_2804
 
@@ -1206,8 +1202,8 @@ code047d        1, 129
 code0479        0, 5, 17
 call            @Func_46cc
 call            @Func_45c8
-dialogtxt       "What..."
-dialogtxt       "Why are you..."
+dialogtxt       "What...?"
+dialogtxt       "Why are you...?"
 code047b        
 code0309        
 call            @Func_4722
@@ -1325,13 +1321,13 @@ dialogtxt       "That Beast isn't listening..."
 code0309        
 code0479        0, 3, 14
 dialogtxt       "The ruin's activation..."
-dialogtxt       "Failed!"
+dialogtxt       "FAILED!"
 code0309        
 call            @Func_461c
 code0479        1, 3, 13
 call            @Func_4652
 dialogtxt       "No..."
-dialogtxt       "It's all going according to plan..."
+dialogtxt       "It's all according to plan..."
 code0309        
 call            @Func_4688
 code0479        0, 5, 16
@@ -1348,10 +1344,10 @@ code0309
 code0479        1, 2, 14
 dialogtxt       "And that's not all. They'll go crazy"
 dialogtxt       "and attack any humans they see."
-dialogtxt       "Just like... Yes,"
 code0309        
 code0479        1, 3, 12
-dialogtxt       "As if they hated all of humanity."
+dialogtxt       "Just as if they hated all of"
+dialogtxt       "humanity."
 code0309        
 call            @Func_46f6
 call            @Func_4688
@@ -1361,7 +1357,7 @@ code0479        0, 2, 14
 code047d        0, 110
 call            @Func_46a0
 call            @Func_45e6
-dialogtxt       "Why would you..."
+dialogtxt       "Why would you...?"
 dialogtxt       "If you knew the power couldn't"
 dialogtxt       "be used, then why?"
 code047b        
@@ -1414,8 +1410,8 @@ code0309
 call            @Func_461c
 code0479        1, 2, 14
 call            @Func_4652
-dialogtxt       "If he's unable to control the"
-dialogtxt       "Phantom Dragon, it can go"
+dialogtxt       "If he's unable to control"
+dialogtxt       "Genryuuki, it can go"
 dialogtxt       "anywhere it wants."
 code0309        
 call            @Func_4688

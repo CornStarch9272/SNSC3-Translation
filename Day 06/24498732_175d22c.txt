@@ -388,7 +388,7 @@ goto            @Label_1128
 @Cond_0e30:
 jumpz           @Cond_0f5e, ($f0133 == 0)
 call            @Func_2f12
-dialogtxt       "The Sword, or the Knuckle..."
+dialogtxt       "The sword, axe, or knuckle..."
 jumpz           @Cond_0e8c, ($b002 == 0)
 dialogtxt       "Which one is the heaviest?"
 goto            @Label_0ea8
@@ -1142,8 +1142,7 @@ code047d        1, 2
 call            @Func_3016
 jumpz           @Cond_2af2, ($b003 == 0)
 call            @Func_2f12
-dialogtxt       "I won't ever let Murno be eaten"
-dialogtxt       "by the Guardian Beast!"
+dialogtxt       "I won't let Murno get eaten!"
 jumpz           @Cond_2a18, ($b002 == 0)
 dialogtxt       "Let's hurry, [NAME 1]!"
 goto            @Label_2a2c
@@ -1265,7 +1264,7 @@ code0309
 call            @Func_2f66
 code0479        1, 2, 12
 call            @Func_2f9c
-dialogtxt       "Lady Murno must be at this Rekui"
+dialogtxt       "Lady Murno must be at the Rekui"
 dialogtxt       "Water Ruins outside the village."
 dialogtxt       "We must move carefully."
 code0309        

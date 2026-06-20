@@ -57,7 +57,7 @@ dialogtxt       "isn't going to change anything."
 code0309        
 code0479        1, 0, 12
 code0479        0, 0, 16
-dialogtxt       "And why are you here, Bro?"
+dialogtxt       "And why are you here, bro?"
 code0309        
 call            @Func_10ae
 code0479        1, 0, 16
@@ -68,8 +68,8 @@ dialogtxt       "so I came out to get some air."
 code0309        
 code0479        0, 1, 16
 code0479        1, 2, 12
-dialogtxt       "... Hey!"
-dialogtxt       "I told you not to call me Bro!"
+dialogtxt       "... And hey!"
+dialogtxt       "I told you not to call me \"bro!\""
 code0309        
 call            @Func_111a
 code0479        1, 0, 12
@@ -135,7 +135,7 @@ call            @Func_10ae
 code0479        1, 0, 13
 call            @Func_10e4
 dialogtxt       "That's suprisingly modest"
-dialogtxt       "coming from you."
+dialogtxt       "of you."
 code0309        
 call            @Func_111a
 code0479        0, 0, 13
@@ -167,9 +167,9 @@ code0309
 call            @Func_10ae
 code0479        1, 0, 16
 call            @Func_10e4
-dialogtxt       "Anyway, make sure to"
-dialogtxt       "deliver a solid victory"
-dialogtxt       "in the match tomorrow."
+dialogtxt       "Anyway, make sure to deliver"
+dialogtxt       "a solid victory in the match"
+dialogtxt       "tomorrow."
 code0309        
 code0479        0, 0, 12
 code0479        1, 2, 13

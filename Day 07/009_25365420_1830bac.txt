@@ -77,11 +77,11 @@ call            @Func_1c16
 code0479        0, 5, 15
 call            @Func_1b74
 jumpz           @Cond_040a, ($b002 == 0)
-dialogtxt       "What?!"
+dialogtxt       "What!?"
 goto            @Label_0420
 
 @Cond_040a:
-dialogtxt       "What's that supposed to mean?!"
+dialogtxt       "What's that supposed to mean!?"
 goto            @Label_0420
 
 @Label_0420:
@@ -108,7 +108,7 @@ code0479        0, 0, 13
 code047d        0, 107
 call            @Func_1c5a
 call            @Func_1b56
-dialogtxt       "Really?!"
+dialogtxt       "Really!?"
 dialogtxt       "Thank you so much!"
 code047b        
 code0309        

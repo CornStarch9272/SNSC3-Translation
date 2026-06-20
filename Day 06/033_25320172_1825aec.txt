@@ -70,7 +70,7 @@ call            @Func_150c
 call            @Func_1434
 dialogtxt       "Huh!?"
 dialogtxt       "Wait..."
-dialogtxt       "What do you mean!?"
+dialogtxt       "What's going on!?"
 code047b        
 code0309        
 call            @Func_1488

@@ -55,7 +55,7 @@ code0479        0, 0, 13
 code047d        0, 138
 call            @Func_0c64
 call            @Func_0baa
-dialogtxt       "Okaaay!"
+dialogtxt       "Yes, sir!"
 code047b        
 code0309        
 call            @Func_0cba

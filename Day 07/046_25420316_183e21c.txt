@@ -77,13 +77,13 @@ call            @Func_0fec
 jumpz           @Cond_043c, ($b002 == 0)
 dialogtxt       "A lot of stuff did happen while"
 dialogtxt       "we were in Louise Village."
-dialogtxt       "I even summoned a dragon!"
+dialogtxt       "I even summoned Genryuuki!"
 goto            @Label_0486
 
 @Cond_043c:
 dialogtxt       "A lot of stuff did happen while"
 dialogtxt       "we were in Louise Village."
-dialogtxt       "I even summoned a dragon!"
+dialogtxt       "I even summoned Genryuuki!"
 goto            @Label_0486
 
 @Label_0486:

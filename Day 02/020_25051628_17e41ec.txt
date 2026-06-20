@@ -211,7 +211,7 @@ goto            @Label_0844
 @Label_0844:
 call            @Func_1592
 call            @Func_148e
-dialogtxt       "...Are they gone?"
+dialogtxt       "... Are they gone?"
 code047b        
 code0309        
 call            @Func_14e2
@@ -246,7 +246,7 @@ call            @Func_0d6a
 call            @Func_14e2
 code0479        1, 0, 12
 call            @Func_1518
-dialogtxt       "\"Bro\"...?"
+dialogtxt       "\"Bro?\""
 dialogtxt       "Is He Part Of Your Family?"
 code0309        
 call            @Func_154e
@@ -270,7 +270,7 @@ call            @Func_0d6a
 call            @Func_14e2
 code0479        1, 0, 16
 call            @Func_1518
-dialogtxt       "\"Bro\"?"
+dialogtxt       "\"Bro?\""
 dialogtxt       "You have a brother?"
 code0309        
 call            @Func_154e
@@ -294,7 +294,7 @@ call            @Func_0d6a
 call            @Func_14e2
 code0479        1, 0, 16
 call            @Func_1518
-dialogtxt       "\"Bro\"...?"
+dialogtxt       "\"Bro?\""
 dialogtxt       "So you have a brother?"
 code0309        
 call            @Func_154e
@@ -318,7 +318,7 @@ call            @Func_0d6a
 call            @Func_14e2
 code0479        1, 0, 16
 call            @Func_1518
-dialogtxt       "\"Bro\"...?"
+dialogtxt       "\"Bro?\""
 dialogtxt       "You had a brother?"
 code0309        
 call            @Func_154e
@@ -355,12 +355,12 @@ done
 @Func_0d6a:
 jumpz           @Cond_0db0, ($b002 == 0)
 dialogtxt       "That guy..."
-dialogtxt       "He kind of sounded like Bro."
+dialogtxt       "He kind of sounded like my bro."
 goto            @Label_0dec
 
 @Cond_0db0:
 dialogtxt       "That guy..."
-dialogtxt       "He kind of sounded like Bro."
+dialogtxt       "He kind of sounded like my bro."
 goto            @Label_0dec
 
 @Label_0dec:

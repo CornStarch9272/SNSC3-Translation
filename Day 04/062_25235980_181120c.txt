@@ -59,7 +59,7 @@ call            @Func_0d3a
 code0479        1, 0, 16
 call            @Func_0d70
 dialogtxt       "You look down."
-dialogtxt       "You've been zoned out"
+dialogtxt       "You've been zoning out"
 dialogtxt       "ever since you got back."
 code0309        
 call            @Func_0da6

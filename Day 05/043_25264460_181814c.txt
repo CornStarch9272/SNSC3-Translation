@@ -324,8 +324,8 @@ code0479        0, 2, 14
 call            @Func_1d06
 jumpz           @Cond_0f72, ($b002 == 0)
 dialogtxt       "Those guys hurt Tier!"
-dialogtxt       "Who knows what"
-dialogtxt       "they'll do next..."
+dialogtxt       "Who knows what they'll do"
+dialogtxt       "next..."
 code0309        
 code0479        0, 2, 15
 dialogtxt       "I can't let that happen again!"
@@ -334,8 +334,8 @@ goto            @Label_1010
 
 @Cond_0f72:
 dialogtxt       "Those guys hurt Tier!"
-dialogtxt       "Who knows what"
-dialogtxt       "they'll do next..."
+dialogtxt       "Who knows what they'll do"
+dialogtxt       "next..."
 code0309        
 code0479        0, 2, 15
 dialogtxt       "I can't let that happen again!"
@@ -378,14 +378,14 @@ call            @Func_1da8
 code0479        0, 2, 12
 call            @Func_1d06
 jumpz           @Cond_11dc, ($b002 == 0)
-dialogtxt       "That wouldn't look good"
-dialogtxt       "for Bostaph... Right?"
+dialogtxt       "Because that wouldn't look"
+dialogtxt       "good for Bostaph... right?"
 dialogtxt       "Got it."
 goto            @Label_1220
 
 @Cond_11dc:
-dialogtxt       "That wouldn't look good"
-dialogtxt       "for Bostaph... Right?"
+dialogtxt       "Because that wouldn't look"
+dialogtxt       "good for Bostaph... right?"
 dialogtxt       "Got it."
 goto            @Label_1220
 

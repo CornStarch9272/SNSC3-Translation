@@ -330,7 +330,7 @@ ret
 code0301        8, 7
 code047d        0, 122
 code047e        0, 1
-dialogtxt       "Azuki beans are good for the body."
+dialogtxt       "Red beans are good for the body."
 code0309        
 code047e        0, 0
 code0302        7
@@ -356,8 +356,8 @@ dialogtxt       "I heard there was someone"
 dialogtxt       "talking about fighting Red Wing."
 dialogtxt       "Going up against that..."
 code0309        
-dialogtxt       "is way too dangerous for"
-dialogtxt       "his own good."
+dialogtxt       "That's way too dangerous for"
+dialogtxt       "your own good."
 code0309        
 code047e        0, 0
 code0302        7

@@ -49,11 +49,11 @@ code0479        0, 2, 14
 call            @Func_2838
 call            @Func_277e
 jumpz           @Cond_02ac, ($b002 == 0)
-dialogtxt       "You guys!"
+dialogtxt       "Anise!"
 goto            @Label_02c0
 
 @Cond_02ac:
-dialogtxt       "You guys!"
+dialogtxt       "Anise!"
 goto            @Label_02c0
 
 @Label_02c0:
@@ -209,18 +209,18 @@ goto            @Cond_0a3a
 
 @Cond_0a3a:
 jumpz           @Cond_0a7c, ($b003 == 1)
-dialogtxt       "It's true we were on your trail."
+dialogtxt       "It's true we WERE on your trail."
 goto            @Cond_0a7c
 
 @Cond_0a7c:
 jumpz           @Cond_0abc, ($b003 == 2)
-dialogtxt       "It's true we were looking for"
+dialogtxt       "It's true we WERE looking for"
 dialogtxt       "you fools."
 goto            @Cond_0abc
 
 @Cond_0abc:
 jumpz           @Cond_0b04, ($b003 == 3)
-dialogtxt       "But, we really were"
+dialogtxt       "But, we really WERE"
 dialogtxt       "looking for you."
 goto            @Cond_0b04
 
@@ -261,7 +261,7 @@ code047d        1, 116
 call            @Func_284e
 call            @Func_27cc
 dialogtxt       "Really!"
-dialogtxt       "That makes me happy!"
+dialogtxt       "That makes me so happy!"
 code0309        
 call            @Func_28a4
 call            @Func_2808
@@ -296,8 +296,8 @@ code030c
 code0479        0, 1, 15
 jumpz           @Cond_0eb8, ($b002 == 0)
 dialogtxt       "What are you doing!?"
-dialogtxt       "Unhand me!"
-dialogtxt       "I said unhand me!!!"
+dialogtxt       "Let go of me!"
+dialogtxt       "I said let go!!!"
 goto            @Label_0eec
 
 @Cond_0eb8:
@@ -464,7 +464,7 @@ code0479        1, 5, 16
 code047d        1, 116
 call            @Func_284e
 call            @Func_27cc
-dialogtxt       "Hey,"
+dialogtxt       "Hey!"
 dialogtxt       "What did you just call me?"
 code047b        
 code0309        

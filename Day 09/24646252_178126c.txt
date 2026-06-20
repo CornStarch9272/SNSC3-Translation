@@ -352,7 +352,7 @@ code047d        1, 2
 call            @Func_2e04
 jumpz           @Cond_0f2e, ($b003 == 0)
 call            @Func_2d00
-dialogtxt       "Let Bro handle the Strays!"
+dialogtxt       "Let bro handle the Strays!"
 dialogtxt       "We have to find Anise!"
 code047b        
 code0309        
@@ -393,7 +393,7 @@ goto            @Cond_0f2e
 @Cond_0f2e:
 jumpz           @Cond_1128, ($b003 == 1)
 call            @Func_2d00
-dialogtxt       "Let Bro handle the Strays!"
+dialogtxt       "Let bro handle the Strays!"
 dialogtxt       "We have to find Anise!"
 code047b        
 code0309        
@@ -434,7 +434,7 @@ goto            @Cond_1128
 @Cond_1128:
 jumpz           @Cond_1330, ($b003 == 2)
 call            @Func_2d00
-dialogtxt       "Let Bro handle the Strays!"
+dialogtxt       "Let bro handle the Strays!"
 dialogtxt       "We have to find Anise!"
 code047b        
 code0309        
@@ -476,8 +476,7 @@ goto            @Cond_1330
 @Cond_1330:
 jumpz           @Cond_1536, ($b003 == 3)
 call            @Func_2d00
-dialogtxt       "Let Bro"
-dialogtxt       "handle the Strays!"
+dialogtxt       "Let bro handle the Strays!"
 dialogtxt       "We'll find Anise."
 code047b        
 code0309        

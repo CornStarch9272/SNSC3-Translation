@@ -354,8 +354,8 @@ dialogtxt       "Hey, hey, let's play pretend!"
 dialogtxt       "I'll be the Craftknight hero..."
 dialogtxt       "And you'll be my master!"
 code0309        
-dialogtxt       "\"There is nothing I can teach you!\"!"
-dialogtxt       "Well!? How did I do!?"
+dialogtxt       "Tell me:"
+dialogtxt       "\"I have nothing more to teach you!\""
 code0309        
 code047e        0, 0
 code0302        7
@@ -381,7 +381,7 @@ code040b
 @Event_0fd0:
 code0301        8, 7
 dialogtxt       "Want to chop some firewood together?"
-dialogtxt       "　　　　　　　　From Grandpa Maki"
+dialogtxt       "　　　　　　　—An Old Woodcutter"
 code0309        
 code0302        7
 code040b        
@@ -401,7 +401,7 @@ code040b
 code0301        8, 7
 dialogtxt       "　"
 dialogtxt       "　"
-dialogtxt       "　●←Peep hole"
+dialogtxt       "　　●←Peep hole"
 code0309        
 dialogtxt       "... Sorry, can't you let"
 dialogtxt       "this slide just one time?"

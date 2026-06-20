@@ -414,14 +414,20 @@ code040b
 
 @Event_10f2:
 code0301        8, 7
-dialogtxt       "Luxury feels so lovely~"
+dialogtxt       "　　　　　　　　  Ex"
+dialogtxt       "　　　　　　　　  tra"
+dialogtxt       "　　　　　　　　  va"
+code0309        
+dialogtxt       "　　　　　　　　  ga"
+dialogtxt       "　　　　　　　　  n"
+dialogtxt       "　　　　　　　　  ce"
 code0309        
 code0302        7
 code040b        
 
 @Event_1192:
 code0301        8, 7
-dialogtxt       "Care to try our \"Lucky Draw\"?"
+dialogtxt       "Care to try our Lucky Draw?"
 dialogtxt       "It's available all day, everyday!"
 dialogtxt       "Guaranteed no losing tickets!"
 code0309        
@@ -436,4 +442,3 @@ dialogtxt       "A message from our shop."
 code0309        
 code0302        7
 code040b        
-

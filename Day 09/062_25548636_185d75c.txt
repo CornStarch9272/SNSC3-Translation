@@ -96,9 +96,9 @@ call            @Func_1470
 jumpz           @Cond_0580, ($b002 == 0)
 dialogtxt       "But you know,"
 dialogtxt       "with the absence of the Demon Stone,"
-dialogtxt       "the Strays are out of control,"
+dialogtxt       "the Strays are out of control."
 code0309        
-dialogtxt       "And the village will be dangerous."
+dialogtxt       "The village will be dangerous."
 dialogtxt       "Isn't that what the"
 dialogtxt       "Gold Faction said?"
 goto            @Label_0618
@@ -106,9 +106,9 @@ goto            @Label_0618
 @Cond_0580:
 dialogtxt       "But you know,"
 dialogtxt       "with the absence of the Demon Stone,"
-dialogtxt       "the Strays are out of control,"
+dialogtxt       "the Strays are out of control."
 code0309        
-dialogtxt       "And the village will be dangerous."
+dialogtxt       "The village will be dangerous."
 dialogtxt       "Isn't that what the"
 dialogtxt       "Gold Faction said?"
 goto            @Label_0618
@@ -136,14 +136,14 @@ call            @Func_1512
 code0479        0, 2, 16
 call            @Func_1470
 jumpz           @Cond_0760, ($b002 == 0)
-dialogtxt       "Even that Lemmy was"
-dialogtxt       "dissuaded by his mother."
+dialogtxt       "Even Lemmy was dissuaded"
+dialogtxt       "by his mother."
 dialogtxt       "She told him not to push himself."
 goto            @Label_07bc
 
 @Cond_0760:
-dialogtxt       "Even that Lemmy was"
-dialogtxt       "dissuaded by his mother."
+dialogtxt       "Even Lemmy was dissuaded"
+dialogtxt       "by his mother."
 dialogtxt       "She told him not to push himself."
 goto            @Label_07bc
 

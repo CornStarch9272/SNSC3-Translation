@@ -464,7 +464,7 @@ code0479        1, 0, 15
 call            @Func_47c6
 dialogtxt       "Aren't you an indecisive lass!"
 dialogtxt       "A woman should only tease the man"
-dialogtxt       "she loves! So, what'll it be?"
+dialogtxt       "she loves! Answer already!"
 code0309        
 call            @Func_47fc
 code0479        0, 5, 17

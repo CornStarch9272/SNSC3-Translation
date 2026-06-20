@@ -19,7 +19,7 @@ code047b
 code030c        
 code0479        0, 2, 14
 jumpz           @Cond_0156, ($b002 == 0)
-dialogtxt       "Dammit!"
+dialogtxt       "Crap!"
 goto            @Label_0166
 
 @Cond_0156:

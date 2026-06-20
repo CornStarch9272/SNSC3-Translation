@@ -26,7 +26,7 @@ code047b
 code0309        
 call            @Func_249c
 code0479        0, 0, 12
-dialogtxt       "I never thought we would be the"
+dialogtxt       "I never thought WE would be the"
 dialogtxt       "ones going up against Red Wing..."
 goto            @Label_019e
 
@@ -125,13 +125,13 @@ code047d        0, 0
 call            @Func_2486
 call            @Func_23cc
 jumpz           @Cond_05f2, ($b002 == 0)
-dialogtxt       "So let's say we all helped"
+dialogtxt       "So let's say we all helped to"
 dialogtxt       "defeat Red Wing."
 dialogtxt       "Me, [NAME 1], and you, together..."
 goto            @Label_062a
 
 @Cond_05f2:
-dialogtxt       "So let's say we all helped"
+dialogtxt       "So let's say we all helped to"
 dialogtxt       "defeat Red Wing."
 dialogtxt       "Me, [NAME 1], and you, together..."
 goto            @Label_062a
@@ -534,8 +534,9 @@ code0479        0, 0, 16
 code047d        0, 108
 call            @Func_2486
 call            @Func_23cc
-dialogtxt       "Then we should've caught"
-dialogtxt       "those guys when we saw them earlier."
+dialogtxt       "Then we should've caught those"
+dialogtxt       "guys when we saw them running"
+dialogtxt       "away earlier."
 code0309        
 call            @Func_2402
 code0479        1, 4, 16
@@ -594,12 +595,12 @@ call            @Func_249c
 call            @Func_2438
 dialogtxt       "Lemmy, is that okay with you?"
 dialogtxt       "We're right on their tail."
-dialogtxt       "Then let's head to the Gold Fac..."
+dialogtxt       "Then let's head to the Gold Fac—"
 code047b        
 code0309        
 code0479        1, 5, 12
 dialogtxt       "Ah... Sorry..."
-dialogtxt       "About Ianna, I still..."
+dialogtxt       "I forgot about Ianna."
 code0309        
 call            @Func_246e
 code0479        0, 0, 13

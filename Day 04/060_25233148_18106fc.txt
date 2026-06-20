@@ -68,7 +68,7 @@ code0309
 call            @Func_0e92
 code0479        1, 2, 12
 call            @Func_0ec8
-dialogtxt       "Just kinda?"
+dialogtxt       "\"Just kinda?\""
 dialogtxt       "I won't help you if you wander"
 dialogtxt       "your way into trouble again."
 code0309        
@@ -128,13 +128,13 @@ call            @Func_0e5c
 jumpz           @Cond_067e, ($b002 == 0)
 dialogtxt       "I see, must be hard..."
 dialogtxt       "Well, we got out of there okay,"
-dialogtxt       "thanks to you."
+dialogtxt       "thanks to you then."
 goto            @Label_06ca
 
 @Cond_067e:
 dialogtxt       "I see, must be hard..."
 dialogtxt       "Well, we got out of there okay,"
-dialogtxt       "thanks to you."
+dialogtxt       "thanks to you then."
 goto            @Label_06ca
 
 @Label_06ca:

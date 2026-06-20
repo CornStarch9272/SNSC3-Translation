@@ -47,7 +47,7 @@ code0309
 call            @Func_13d4
 code0479        0, 0, 16
 call            @Func_1332
-dialogtxt       "You certainly gotten stronger,"
+dialogtxt       "You've certainly become stronger,"
 dialogtxt       "but compared to Rob,"
 dialogtxt       "you've still got a long way to go."
 code0309        
@@ -82,7 +82,7 @@ code0309
 code0479        1, 0, 12
 code0479        0, 0, 13
 dialogtxt       "V.E has absolutely no sense"
-dialogtxt       "of directions, so you'll need"
+dialogtxt       "of direction, so you'll need"
 dialogtxt       "to stick together."
 code0309        
 call            @Func_1458
@@ -220,13 +220,11 @@ code0479        0, 2, 13
 call            @Func_1332
 jumpz           @Cond_0b66, ($b002 == 0)
 dialogtxt       "Yes!"
-dialogtxt       "Alright!"
 dialogtxt       "Let's do our best, [NAME 1]!"
 goto            @Label_0b96
 
 @Cond_0b66:
 dialogtxt       "Yes!"
-dialogtxt       "Alright!"
 dialogtxt       "Let's do our best, [NAME 1]!"
 goto            @Label_0b96
 

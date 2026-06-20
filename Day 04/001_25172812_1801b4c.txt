@@ -300,8 +300,7 @@ dialogtxt       "Just last night, you shouted—"
 code0309        
 jumpz           @Cond_0db0, ($b002 == 0)
 code0479        1, 7, 17
-dialogtxt       "\"Hey!?"
-dialogtxt       "Stop that!\""
+dialogtxt       "\"Hey!? Stop that!\""
 goto            @Label_0dea
 
 @Cond_0db0:

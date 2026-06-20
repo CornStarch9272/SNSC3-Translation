@@ -167,7 +167,7 @@ call            @Func_1d90
 call            @Func_1d2c
 dialogtxt       "Hey!"
 dialogtxt       "Just so you know,"
-dialogtxt       "Mr. Lemmy was..."
+dialogtxt       "Lemmy was..."
 code047b        
 code0309        
 call            @Func_1de6
@@ -210,14 +210,12 @@ code047d        1, 0
 call            @Func_1d90
 call            @Func_1d2c
 jumpz           @Cond_08a0, ($b002 == 0)
-dialogtxt       "Then,"
-dialogtxt       "to thank me for saving you,"
+dialogtxt       "Then, to thank me for saving you,"
 dialogtxt       "you can return the stone!"
 goto            @Label_08e2
 
 @Cond_08a0:
-dialogtxt       "Then,"
-dialogtxt       "to thank me for saving you,"
+dialogtxt       "Then, to thank me for saving you,"
 dialogtxt       "you can return the stone!"
 goto            @Label_08e2
 
@@ -228,7 +226,7 @@ call            @Func_1d62
 code0479        0, 2, 14
 call            @Func_1cc0
 dialogtxt       "Thank you!?"
-dialogtxt       "I never asked you to save me!"
+dialogtxt       "I never ASKED you to save me!"
 code0309        
 call            @Func_1cf6
 code0479        1, 2, 15
@@ -251,7 +249,7 @@ call            @Func_1d62
 code0479        0, 2, 16
 call            @Func_1cc0
 dialogtxt       "Tch..."
-dialogtxt       "It... Is true that"
+dialogtxt       "I guess... it's true that"
 dialogtxt       "I owe you one now..."
 code0309        
 code0479        0, 0, 14
@@ -357,8 +355,8 @@ dialogtxt       "I still have my pride as"
 dialogtxt       "a senior at the workshop."
 code0309        
 code0479        0, 0, 17
-dialogtxt       "I'll set a bad example"
-dialogtxt       "if I just keep losing."
+dialogtxt       "I'll set a bad example if I"
+dialogtxt       "just keep losing."
 dialogtxt       "So fight against me, one last time!"
 code0309        
 call            @Func_1de6
@@ -370,7 +368,7 @@ code047d        1, 0
 call            @Func_1d90
 call            @Func_1d2c
 dialogtxt       "..."
-dialogtxt       "A match, huh..."
+dialogtxt       "A rematch, huh..."
 code047b        
 code0309        
 call            @Func_1d62
@@ -385,12 +383,12 @@ dialogtxt       "..."
 code0309        
 jumpz           @Cond_0fc2, ($b002 == 0)
 choicetxt       @Choice_100a, "Alright! Let's do it!"
-choicetxt       @Choice_112e, "No way...! I can't fight!"
+choicetxt       @Choice_112e, "No way!"
 goto            @Label_1008
 
 @Cond_0fc2:
 choicetxt       @Choice_100a, "Alright! Let's do it!"
-choicetxt       @Choice_112e, "No way...! I can't fight!"
+choicetxt       @Choice_112e, "No way!"
 goto            @Label_1008
 
 @Label_1008:
@@ -551,8 +549,8 @@ code0479        1, 0, 12
 code047d        1, 0
 call            @Func_1da6
 call            @Func_1ca2
-dialogtxt       "This time,"
-dialogtxt       "I won't make any excuses."
+dialogtxt       "This time, I won't make"
+dialogtxt       "any excuses."
 dialogtxt       "We'll have a fair fight."
 code047b        
 code0309        

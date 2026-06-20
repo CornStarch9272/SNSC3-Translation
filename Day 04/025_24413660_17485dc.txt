@@ -391,7 +391,7 @@ code040b
 
 @Event_1086:
 code0301        8, 7
-dialogtxt       "Look down"
+dialogtxt       "Look down ↓"
 code0309        
 dialogtxt       "... And you actually did it."
 code0309        

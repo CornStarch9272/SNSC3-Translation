@@ -95,10 +95,10 @@ call            @Func_0f52
 code0479        1, 2, 14
 call            @Func_0f88
 dialogtxt       "Of course you did!"
-dialogtxt       "You really went ghost on us..."
+dialogtxt       "You disappeared out of nowhere..."
 code0309        
 code0479        1, 5, 15
-dialogtxt       "I—I mean, nope siree!"
+dialogtxt       "I—I mean, no siree!"
 dialogtxt       "I wasn't worried about you at all!"
 code0309        
 call            @Func_102c

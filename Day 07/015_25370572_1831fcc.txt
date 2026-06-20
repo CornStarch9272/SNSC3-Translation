@@ -279,7 +279,7 @@ dialogtxt       "I like that look in your eyes."
 code047b        
 code0309        
 code0479        1, 2, 12
-dialogtxt       "Now then, both of you,"
+dialogtxt       "Now then, both sides,"
 dialogtxt       "choose your weapon."
 code0309        
 call            @Func_13f6

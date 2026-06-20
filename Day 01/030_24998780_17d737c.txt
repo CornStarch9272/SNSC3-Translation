@@ -131,7 +131,7 @@ code0479        1, 0, 12
 call            @Func_2068
 dialogtxt       "Hmm..."
 dialogtxt       "Despite how he looks,"
-dialogtxt       "he's actually pretty cool."
+dialogtxt       "he's works pretty hard."
 goto            @Label_0904
 
 @Label_0904:

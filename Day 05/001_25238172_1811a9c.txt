@@ -28,19 +28,19 @@ code047d        1, 2
 call            @Func_0cb4
 call            @Func_0bdc
 dialogtxt       "(I know Murno doesn't"
-dialogtxt       "　intend to skip town"
-dialogtxt       "　just yet.)"
+dialogtxt       "intend to skip town"
+dialogtxt       "just yet.)"
 code047b        
 code0309        
 code0479        0, 2, 16
 jumpz           @Cond_0206, ($b002 == 0)
 dialogtxt       "(But as for why that is..."
-dialogtxt       "　I have no idea..."
-dialogtxt       "　And neither does [NAME 1]...)"
+dialogtxt       "I have no idea..."
+dialogtxt       "And neither does [NAME 1]...)"
 code0309        
 code0479        0, 4, 16
-dialogtxt       "Sigh..."
-dialogtxt       "What am I supposed to do..."
+dialogtxt       "*Sigh*"
+dialogtxt       "What am I supposed to do...?"
 goto            @Label_0292
 
 @Cond_0206:
@@ -49,7 +49,7 @@ dialogtxt       "　I have no idea..."
 dialogtxt       "　And neither does [NAME 1]...)"
 code0309        
 code0479        0, 4, 16
-dialogtxt       "Sigh..."
+dialogtxt       "*Sigh*"
 dialogtxt       "What am I supposed to do..."
 goto            @Label_0292
 
@@ -80,7 +80,7 @@ call            @Func_0cca
 call            @Func_0c66
 jumpz           @Cond_03e0, ($b003 == 0)
 dialogtxt       "As Long As We Are Here,"
-dialogtxt       "The Possibility That Murno"
+dialogtxt       "The Possibility Of Lady Murno"
 dialogtxt       "Will Be Discovered Is High."
 code047b        
 code0309        
@@ -110,8 +110,8 @@ goto            @Cond_04e8
 @Cond_04e8:
 jumpz           @Cond_0578, ($b003 == 3)
 dialogtxt       "As long as we are here,"
-dialogtxt       "there is always the chance"
-dialogtxt       "Murno could be discovered!"
+dialogtxt       "there is always the chance that"
+dialogtxt       "Lady Murno could be discovered!"
 code047b        
 code0309        
 code0479        1, 2, 14

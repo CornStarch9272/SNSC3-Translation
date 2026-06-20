@@ -78,7 +78,7 @@ code047d        1, 2
 call            @Func_24a6
 call            @Func_2424
 jumpz           @Cond_035e, ($b003 == 0)
-dialogtxt       "Master Wellman..."
+dialogtxt       "Mr. Wellman..."
 goto            @Cond_035e
 
 @Cond_035e:
@@ -96,7 +96,7 @@ goto            @Cond_03c4
 @Cond_03c4:
 jumpz           @Cond_03f8, ($b003 == 3)
 dialogtxt       "That's..."
-dialogtxt       "Master Wellman!"
+dialogtxt       "Mr. Wellman!"
 goto            @Cond_03f8
 
 @Cond_03f8:
@@ -168,8 +168,8 @@ code047d        0, 116
 call            @Func_2490
 code0479        1, 2, 14
 call            @Func_2442
-dialogtxt       "Pathetic... Well,"
-dialogtxt       "it's your fault it turned out like this,"
+dialogtxt       "Pathetic... Well, it's your"
+dialogtxt       "fault that it turned out like this."
 dialogtxt       "Deal with it yourselves."
 code047b        
 code0309        
@@ -503,7 +503,7 @@ code047d        0, 108
 code0479        1, 2, 14
 call            @Func_24bc
 call            @Func_23b8
-dialogtxt       "You piece of...!"
+dialogtxt       "You piece of—"
 code047b        
 code0309        
 call            @Func_2512
@@ -567,8 +567,7 @@ code0479        0, 3, 14
 code047d        0, 132
 call            @Func_2490
 call            @Func_23b8
-dialogtxt       "!"
-dialogtxt       "Shit!"
+dialogtxt       "Crap!"
 code047b        
 code0309        
 call            @Func_240c

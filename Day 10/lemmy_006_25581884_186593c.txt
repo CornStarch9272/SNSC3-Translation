@@ -192,19 +192,19 @@ code0309
 call            @Func_1fda
 code0479        1, 0, 12
 call            @Func_2010
-dialogtxt       "After father died, Mother"
+dialogtxt       "After Father died, Mother"
 dialogtxt       "was obsessed with climbing up"
 dialogtxt       "the ladder in the Council..."
 code0309        
 code0479        1, 2, 14
 code0479        0, 0, 14
 dialogtxt       "She's curried favor with the leader"
-dialogtxt       "of Ringvall house, and became"
+dialogtxt       "of House Ringvald, and became"
 dialogtxt       "Velvoren's secretary..."
 code0309        
 code0479        1, 2, 12
 dialogtxt       "She told me she did it so I could"
-dialogtxt       "study at the Ringvall house, but..."
+dialogtxt       "study at House Ringvald, but..."
 code0309        
 code0479        1, 4, 16
 dialogtxt       "I'm sure she only thought of me"
@@ -290,7 +290,7 @@ code0479        1, 2, 17
 call            @Func_2010
 dialogtxt       "Of course!"
 dialogtxt       "She only wanted to make the Council"
-dialogtxt       "acknowledge the Mortier house..."
+dialogtxt       "acknowledge House Mortier..."
 code0309        
 call            @Func_2046
 code0479        0, 2, 16

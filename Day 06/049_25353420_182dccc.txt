@@ -5,7 +5,7 @@ call            @Func_09de
 call            @Func_0906
 jumpz           @Cond_010a, ($b002 == 0)
 dialogtxt       "But still, I never expected"
-dialogtxt       "I'd have to go 1 on 1"
+dialogtxt       "I'd have to go 1-on-1"
 dialogtxt       "against Tram."
 code047b        
 code0309        
@@ -36,7 +36,7 @@ dialogtxt       "Sigh..."
 code0309        
 code0479        0, 4, 12
 choicetxt       @Choice_0290, "I want to eat Master's stew."
-choicetxt       @Choice_02a0, "I want to see Bro's scary face."
+choicetxt       @Choice_02a0, "I want to see bro's scary face."
 choicetxt       @Choice_02b0, "I wonder how Tier's doing?"
 choicewait      
 

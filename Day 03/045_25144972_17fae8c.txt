@@ -32,8 +32,8 @@ code043c        4, 4
 code0479        0, 0, 17
 call            @Func_2298
 dialogtxt       "Forget 'em, let's go."
-dialogtxt       "They're not who"
-dialogtxt       "we're looking for."
+dialogtxt       "They're not who we're looking"
+dialogtxt       "for."
 code0309        
 call            @Func_23d4
 call            @Func_22b6
@@ -99,13 +99,13 @@ call            @Func_2298
 jumpz           @Cond_052a, ($b002 == 0)
 dialogtxt       "Are you kidding me!?"
 dialogtxt       "You were actually planning on"
-dialogtxt       "keeping that charade going?!"
+dialogtxt       "keeping that charade going!?"
 goto            @Label_0576
 
 @Cond_052a:
 dialogtxt       "Are you kidding me!?"
 dialogtxt       "You were actually planning on"
-dialogtxt       "keeping that charade going?!"
+dialogtxt       "keeping that charade going!?"
 goto            @Label_0576
 
 @Label_0576:
@@ -139,7 +139,7 @@ call            @Func_233a
 code0479        0, 0, 12
 call            @Func_2298
 dialogtxt       "Yeah."
-dialogtxt       "I'm [NAME 0]."
+dialogtxt       "My name is [NAME 0]."
 dialogtxt       "And this is [NAME 1]."
 code0309        
 call            @Func_22ce
@@ -170,7 +170,7 @@ code0479        1, 3, 13
 call            @Func_2368
 call            @Func_22e6
 dialogtxt       "(I just got a great idea..."
-dialogtxt       "　This could really work!)"
+dialogtxt       "This could really work!)"
 code047b        
 code0309        
 code043c        2, 1
@@ -178,7 +178,7 @@ call            @Func_2352
 code0479        1, 2, 12
 dialogtxt       "Hey, how would you like"
 dialogtxt       "to work at our inn,"
-dialogtxt       "as our personal Craftknights?"
+dialogtxt       "as our personal Craftknight?"
 code047b        
 code0309        
 call            @Func_233a
@@ -230,7 +230,7 @@ code0446        -1
 code0479        0, 5, 17
 call            @Func_237e
 call            @Func_227a
-dialogtxt       "Whaa— !?"
+dialogtxt       "Whaa—"
 code047b        
 code0309        
 call            @Func_22ce
@@ -612,7 +612,8 @@ goto            @Cond_19c2
 
 @Cond_19c2:
 jumpz           @Cond_19fa, ($b003 == 3)
-dialogtxt       "I made a promise with Milady..."
+dialogtxt       "I made a promise with"
+dialogtxt       "Lady Murno..."
 dialogtxt       "So..."
 goto            @Cond_19fa
 

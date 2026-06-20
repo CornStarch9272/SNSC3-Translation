@@ -126,8 +126,8 @@ call            @Func_2ff8
 code0479        1, 0, 12
 call            @Func_302e
 dialogtxt       "Some Time Ago, Tram Said That You"
-dialogtxt       "Conveyed Your Soul To The Phantom"
-dialogtxt       "Dragon Through That Fight."
+dialogtxt       "Conveyed Your Soul To Genryuuki"
+dialogtxt       "Through That Fight."
 code0309        
 call            @Func_3064
 code0479        0, 2, 14
@@ -840,11 +840,11 @@ call            @Func_3064
 code0479        0, 2, 15
 call            @Func_2fc2
 jumpz           @Cond_266e, ($b002 == 0)
-dialogbig       255, 116, 1, 0, 0, "... Just one!"
+dialogbig       255, 116, 1, 0, 0, "Just one!"
 goto            @Label_269e
 
 @Cond_266e:
-dialogbig       255, 116, 1, 0, 0, "... Just one!"
+dialogbig       255, 116, 1, 0, 0, "Just one!"
 goto            @Label_269e
 
 @Label_269e:

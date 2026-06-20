@@ -352,7 +352,7 @@ code0309
 call            @Func_2ea0
 code0479        1, 4, 16
 call            @Func_2ed6
-dialogtxt       "That is..."
+dialogtxt       "That is because..."
 dialogtxt       "it seems she still"
 dialogtxt       "has business here..."
 code0309        
@@ -847,7 +847,7 @@ call            @Func_2ea0
 code0479        1, 2, 13
 call            @Func_2ed6
 dialogtxt       "If it is necessary"
-dialogtxt       "to protect Murno,"
+dialogtxt       "to protect Lady Murno,"
 dialogtxt       "I won't think twice!"
 code0309        
 call            @Func_2f0c

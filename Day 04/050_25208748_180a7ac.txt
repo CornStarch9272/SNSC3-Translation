@@ -155,13 +155,13 @@ code047d        0, 0
 call            @Func_1ef6
 call            @Func_1e3c
 jumpz           @Cond_0630, ($b002 == 0)
-dialogtxt       "This is my partner."
-dialogtxt       "They're on our side!"
+dialogtxt       "This is [NAME 1]."
+dialogtxt       "They're my partner!"
 goto            @Label_0668
 
 @Cond_0630:
-dialogtxt       "This is my partner."
-dialogtxt       "They're on our side!"
+dialogtxt       "This is [NAME 1]."
+dialogtxt       "They're my partner!"
 goto            @Label_0668
 
 @Label_0668:
@@ -241,13 +241,11 @@ code0479        0, 5, 15
 call            @Func_1ef6
 call            @Func_1e3c
 jumpz           @Cond_0a5c, ($b002 == 0)
-dialogtxt       "(What the!?"
-dialogtxt       "　Is he crazy!?)"
+dialogtxt       "(What the!? Is he crazy!?)"
 goto            @Label_0a9a
 
 @Cond_0a5c:
-dialogtxt       "(What the!?"
-dialogtxt       "　Is he crazy!?)"
+dialogtxt       "(What the!? Is he crazy!?)"
 goto            @Label_0a9a
 
 @Label_0a9a:
@@ -282,29 +280,29 @@ call            @Func_1f0c
 call            @Func_1ea8
 jumpz           @Cond_0bce, ($b003 == 0)
 dialogtxt       "(Look At His Clothes!"
-dialogtxt       "　He Is One Of Those"
-dialogtxt       "　Targeting Murno!)"
+dialogtxt       "He Is One Of Those"
+dialogtxt       "Targeting Lady Murno!)"
 goto            @Cond_0bce
 
 @Cond_0bce:
 jumpz           @Cond_0c36, ($b003 == 1)
 dialogtxt       "(Forget about that!"
-dialogtxt       "　Look at his clothes!"
-dialogtxt       "　He's one of those after Murno!)"
+dialogtxt       "Look at his clothes!"
+dialogtxt       "He's one of those after Murno!)"
 goto            @Cond_0c36
 
 @Cond_0c36:
 jumpz           @Cond_0c9c, ($b003 == 2)
 dialogtxt       "(That's the first thing you notice!?"
-dialogtxt       "　Look at his clothes."
-dialogtxt       "　He's one of Murno's enemies...)"
+dialogtxt       "Look at his clothes."
+dialogtxt       "He's one of Murno's enemies...)"
 goto            @Cond_0c9c
 
 @Cond_0c9c:
 jumpz           @Cond_0d06, ($b003 == 3)
 dialogtxt       "(Are you blind!?"
-dialogtxt       "　That person is wearing the"
-dialogtxt       "　same outfit as Murno's enemies!)"
+dialogtxt       "That person is wearing the same"
+dialogtxt       "outfit as Lady Murno's enemies!)"
 goto            @Cond_0d06
 
 @Cond_0d06:
@@ -370,8 +368,8 @@ call            @Func_1f4c
 code047b        
 code0479        1, 0, 12
 dialogtxt       "So, back to the subject at hand."
-dialogtxt       "You said the Stray"
-dialogtxt       "looked strong?"
+dialogtxt       "You said the Stray looked"
+dialogtxt       "strong?"
 code0309        
 call            @Func_1f62
 call            @Func_1ede
@@ -380,7 +378,7 @@ code047d        0, 120
 code0301        8, 7
 code047e        0, 1
 dialogtxt       "Ah... Yes..."
-dialogtxt       "Not only that,"
+dialogtxt       "But not only that,"
 dialogtxt       "there's a lot of them!"
 code0309        
 code047e        0, 0
@@ -389,8 +387,8 @@ code0479        1, 2, 12
 call            @Func_1f0c
 call            @Func_1ea8
 dialogtxt       "I see... Hehehe..."
-dialogtxt       "Maybe they'll be"
-dialogtxt       "able to satisfy me..."
+dialogtxt       "Maybe they'll be able to"
+dialogtxt       "satisfy me..."
 code0309        
 call            @Func_1f62
 call            @Func_1ec6
@@ -399,8 +397,8 @@ code0445        3, 10
 code0446        3
 code0301        8, 7
 code047e        0, 1
-dialogtxt       "Eh? Hold on."
-dialogtxt       "You're going to fight them alone?"
+dialogtxt       "Hold on! Don't tell me !?"
+dialogtxt       "You're going to fight them alone!?"
 dialogtxt       "Isn't that dangerous!?"
 code0309        
 code047e        0, 0
@@ -414,8 +412,7 @@ dialogtxt       "I will not back away."
 code0309        
 code0479        1, 2, 12
 code047d        1, 115
-dialogtxt       "For I am..."
-dialogtxt       "Steel Pike!"
+dialogtxt       "For I am... Steel Pike!"
 code0309        
 call            @Func_1ede
 code0478        0, 0
@@ -423,8 +420,7 @@ code0479        0, 2, 16
 code047d        0, 0
 call            @Func_1ef6
 call            @Func_1e3c
-dialogtxt       "Steel..."
-dialogtxt       "Pike...?"
+dialogtxt       "Steel... Pike...?"
 code047b        
 code0309        
 call            @Func_1e72
@@ -432,12 +428,12 @@ code0479        1, 1, 12
 call            @Func_1ea8
 dialogtxt       "Kukuku..."
 dialogtxt       "It would be so great if they"
-dialogtxt       "could give me pain..."
+dialogtxt       "could grant me pain..."
 code0309        
 code0479        1, 2, 12
 dialogtxt       "You shouldn't get too close."
-dialogtxt       "I might mistake you"
-dialogtxt       "for a Stray and attack you!"
+dialogtxt       "I may mistake you for a"
+dialogtxt       "Stray and attack you!"
 code0309        
 call            @Func_1ede
 code0479        0, 2, 15
@@ -579,7 +575,7 @@ call            @Func_1ede
 code0479        0, 2, 16
 call            @Func_1e3c
 dialogtxt       "What should we do?"
-dialogtxt       "I'm worried about him..."
+dialogtxt       "I'm worried about him,"
 dialogtxt       "but Eliez..."
 code0309        
 call            @Func_1f78

@@ -10,7 +10,7 @@ code0412        4, 1
 code0418        2
 setvar          $b075, 1
 setvar          $b072, 0
-placetxt        "Prosban Town　Station"
+placetxt        "Prosban　Station"
 code040c        1, @Label_020a
 code040c        2, @Label_0200
 code0438        16, 391, 645, 1
@@ -281,12 +281,11 @@ code040b
 @Event_0b08:
 code0301        8, 7
 dialogtxt       "　"
-dialogtxt       "　　　　　　Don't look for me."
+dialogtxt       "　　　　 ~Don't look for me~"
 code0309        
 dialogtxt       "I'm going on a journey to find"
-dialogtxt       "Engawa."
+dialogtxt       "some Engawa."
 dialogtxt       "Don't look for me."
 code0309        
 code0302        7
 code040b        
-

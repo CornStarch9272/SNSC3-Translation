@@ -382,14 +382,12 @@ code047d        0, 0
 call            @Func_19d0
 call            @Func_18f8
 jumpz           @Cond_1042, ($b002 == 0)
-dialogtxt       "I had no idea"
-dialogtxt       "the Phantom Dragon"
+dialogtxt       "I had no idea Genryuuki"
 dialogtxt       "would show up here..."
 goto            @Label_109c
 
 @Cond_1042:
-dialogtxt       "I had no idea"
-dialogtxt       "the Phantom Dragon"
+dialogtxt       "I had no idea Genryuuki"
 dialogtxt       "would show up here..."
 goto            @Label_109c
 

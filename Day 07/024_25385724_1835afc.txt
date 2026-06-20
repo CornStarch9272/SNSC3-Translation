@@ -17,7 +17,7 @@ code047d        0, 136
 call            @Func_3530
 call            @Func_342c
 dialogtxt       "Everyone, are you okay!?"
-dialogtxt       "What just happened!?"
+dialogtxt       "What happened in there!?"
 code047b        
 code0309        
 call            @Func_3480
@@ -37,7 +37,7 @@ call            @Func_3480
 code0479        1, 2, 14
 call            @Func_34b6
 dialogtxt       "Just in case, I'm going to "
-dialogtxt       "prepare the Phantom Dragon."
+dialogtxt       "prepare Genryuuki."
 code0309        
 call            @Func_34ec
 code0479        0, 0, 16

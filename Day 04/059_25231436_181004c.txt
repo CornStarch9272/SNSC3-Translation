@@ -195,8 +195,7 @@ call            @Func_1102
 code0479        0, 0, 12
 call            @Func_1060
 dialogtxt       "Yeah..."
-dialogtxt       "Thanks,"
-dialogtxt       "Master..."
+dialogtxt       "Thanks, Master..."
 code0309        
 call            @Func_119c
 call            @Func_107e

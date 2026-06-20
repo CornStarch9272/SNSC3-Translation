@@ -107,7 +107,7 @@ goto            @Cond_04a2
 
 @Cond_04a2:
 jumpz           @Cond_0502, ($b003 == 3)
-dialogtxt       "Uu... This feeling..."
+dialogtxt       "This feeling..."
 dialogtxt       "There must be something inside."
 dialogtxt       "Please be careful."
 goto            @Cond_0502

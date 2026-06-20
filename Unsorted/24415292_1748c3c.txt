@@ -37,12 +37,12 @@ setvar          $h136, 0
 call            @Func_0368
 jumpz           @Cond_02cc, ($f0152 == 1)
 code0304        1
-dialogtxt       "　　　　I couldn't ask Murno　　　　"
-dialogtxt       "　　　why she was being chased.　　　"
-dialogtxt       "　　　Not because I felt sorry,　　　"
+dialogtxt       "　　　　  I couldn't ask Murno"
+dialogtxt       "　　　 why she was being chased."
+dialogtxt       "　　　 Not because I felt sorry,"
 code030a        6, 1
-dialogtxt       "　　　But because I was scared　　　"
-dialogtxt       "　　to learn the real reason why　　"
+dialogtxt       "　　　 But because I was scared"
+dialogtxt       "　　 to learn the real reason why..."
 code030a        6, 1
 code0304        0
 goto            @Cond_02cc
@@ -248,4 +248,3 @@ code031f        7
 code031a        7
 code033e        196
 ret             
-

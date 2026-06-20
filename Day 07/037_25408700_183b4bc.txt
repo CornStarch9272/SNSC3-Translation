@@ -35,7 +35,7 @@ code0479        0, 5, 13
 code047d        0, 0
 call            @Func_1370
 call            @Func_12b6
-dialogtxt       "Ah, Bro!"
+dialogtxt       "Ah, bro!"
 code047b        
 code0309        
 call            @Func_12ec
@@ -89,7 +89,7 @@ dialogtxt       "a satisfactory excuse, riiight?"
 code047b        
 code0309        
 code0479        1, 3, 13
-dialogbig       255, 116, 1, 0, 0, "Ah?"
+dialogbig       255, 116, 1, 0, 0, "Right!?"
 code030c        
 call            @Func_1358
 code0479        0, 5, 15

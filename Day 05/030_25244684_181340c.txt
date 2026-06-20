@@ -72,7 +72,6 @@ goto            @Cond_034e
 
 @Cond_034e:
 jumpz           @Cond_03ac, ($b003 == 3)
-dialogtxt       "Uu..."
 dialogtxt       "Something must have happened..."
 dialogtxt       "Another scary Stray...?"
 goto            @Cond_03ac

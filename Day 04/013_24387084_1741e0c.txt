@@ -379,8 +379,8 @@ code0301        8, 7
 code047d        0, 123
 code047e        0, 1
 dialogtxt       "When I grow up, I'm gonna"
-dialogtxt       "be a hero! Heroes are a way"
-dialogtxt       "lot better than warriors!"
+dialogtxt       "be a hero! Heroes are way"
+dialogtxt       "better than warriors!"
 code0309        
 dialogtxt       "Because heroes are stronger!"
 code0309        

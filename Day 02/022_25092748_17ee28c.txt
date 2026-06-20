@@ -53,9 +53,8 @@ dialogtxt       "I understand how you feel."
 code0309        
 code043c        4, 4
 code0479        1, 0, 13
-dialogtxt       "Well, I guess it's not"
-dialogtxt       "like hating to lose"
-dialogtxt       "to others is a bad thing."
+dialogtxt       "Well, I guess it's not like"
+dialogtxt       "hating to lose is a bad thing."
 code0309        
 call            @Func_1322
 code0479        0, 2, 16
@@ -87,7 +86,7 @@ code0479        0, 2, 14
 call            @Func_1280
 jumpz           @Cond_04da, ($b002 == 0)
 dialogtxt       "What!"
-dialogtxt       "I always train every single day!"
+dialogtxt       "I train every single day!"
 dialogtxt       "I'm sure if we fought now..."
 code0309        
 code0479        0, 2, 13
@@ -96,7 +95,7 @@ goto            @Label_057c
 
 @Cond_04da:
 dialogtxt       "But you're wrong!"
-dialogtxt       "I always train every single day!"
+dialogtxt       "I train every single day!"
 dialogtxt       "I'm sure if we fought now..."
 code0309        
 code0479        0, 2, 13
@@ -109,18 +108,18 @@ call            @Func_12b6
 code0479        1, 4, 13
 call            @Func_12ec
 dialogtxt       "You're so childish..."
-dialogtxt       "This is why you'll"
-dialogtxt       "always be a half-baked amateur."
+dialogtxt       "This is why you'll always be"
+dialogtxt       "a half-baked amateur."
 code0309        
 call            @Func_1322
 code0479        0, 2, 15
 call            @Func_1280
 jumpz           @Cond_062e, ($b002 == 0)
-dialogtxt       "I'm not a half-baked amateur!"
+dialogtxt       "Don't call me that!"
 goto            @Label_064c
 
 @Cond_062e:
-dialogtxt       "I'm not a half-baked amateur!"
+dialogtxt       "Don't call me that!"
 goto            @Label_064c
 
 @Label_064c:

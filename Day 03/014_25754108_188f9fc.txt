@@ -435,17 +435,17 @@ code0445        0, 11
 code0446        0
 code0301        0, 9
 code0305        1
-dialogtxt       "This is a teleporter."
-dialogtxt       "It allows you to warp to"
-dialogtxt       "any other active teleporters."
+dialogtxt       " This is a teleporter."
+dialogtxt       " It allows you to warp to"
+dialogtxt       " any other active teleporters."
 code0309        
-dialogtxt       "Strike it with your hammer,"
-dialogtxt       "then stand on top of it and"
-dialogtxt       "hit the A button."
+dialogtxt       " Strike it with your hammer,"
+dialogtxt       " then stand on top of it and"
+dialogtxt       " hit the A button."
 code0309        
-dialogtxt       "Currently, there are no other"
-dialogtxt       "active teleporters."
-dialogtxt       "The teleporter cannot be used."
+dialogtxt       " Currently, there are no other"
+dialogtxt       " active teleporters."
+dialogtxt       " The teleporter cannot be used."
 code0309        
 code0302        9
 code0461        4

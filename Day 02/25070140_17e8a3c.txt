@@ -44,9 +44,9 @@ code047d        0, 0
 call            @Func_12c8
 call            @Func_11c4
 jumpz           @Cond_027e, ($b002 == 0)
-dialogtxt       "Zakk!"
-dialogtxt       "Perfect timing!"
-dialogtxt       "You know where those guys are?"
+dialogtxt       "Zakk! Perfect timing!"
+dialogtxt       "Do you know where those"
+dialogtxt       "guys are?"
 goto            @Label_02bc
 
 @Cond_027e:
@@ -60,7 +60,7 @@ code0309
 call            @Func_1218
 code0479        1, 5, 15
 call            @Func_124e
-dialogtxt       "\"Those guys\"!?"
+dialogtxt       "\"Those guys?\""
 code0309        
 call            @Func_1284
 code0479        0, 2, 16
@@ -89,14 +89,14 @@ call            @Func_1284
 code0479        0, 2, 16
 call            @Func_11e2
 jumpz           @Cond_04c0, ($b002 == 0)
-dialogtxt       "They took something"
-dialogtxt       "very important to us..."
+dialogtxt       "They took something very"
+dialogtxt       "important to us..."
 dialogtxt       "So..."
 goto            @Label_0510
 
 @Cond_04c0:
-dialogtxt       "They took something"
-dialogtxt       "very important to us..."
+dialogtxt       "They took something very"
+dialogtxt       "important to us..."
 dialogtxt       "So..."
 goto            @Label_0510
 
@@ -109,9 +109,9 @@ dialogtxt       "Those two..."
 dialogtxt       "They're going too far..."
 code0309        
 code0479        1, 0, 14
-dialogtxt       "You know,"
-dialogtxt       "they have been pretty angry"
-dialogtxt       "ever since you beat them..."
+dialogtxt       "You know, they HAVE been"
+dialogtxt       "pretty angry ever since you"
+dialogtxt       "beat them..."
 code0309        
 call            @Func_1284
 code0479        0, 4, 16
@@ -145,26 +145,24 @@ code047d        0, 2
 call            @Func_129c
 call            @Func_11e2
 jumpz           @Cond_0708, ($b003 == 0)
-dialogtxt       "So,"
-dialogtxt       "Where Are They?"
+dialogtxt       "So, Where Are They?"
 goto            @Cond_0708
 
 @Cond_0708:
 jumpz           @Cond_0752, ($b003 == 1)
-dialogtxt       "So,"
-dialogtxt       "where might they be hiding?"
+dialogtxt       "So, where might they be"
+dialogtxt       "hiding?"
 goto            @Cond_0752
 
 @Cond_0752:
 jumpz           @Cond_079a, ($b003 == 2)
-dialogtxt       "So,"
-dialogtxt       "where is that trash hiding?"
+dialogtxt       "So, where is that trash"
+dialogtxt       "hiding?"
 goto            @Cond_079a
 
 @Cond_079a:
 jumpz           @Cond_07e0, ($b003 == 3)
-dialogtxt       "So,"
-dialogtxt       "where are they right now?"
+dialogtxt       "So, where are they right now?"
 goto            @Cond_07e0
 
 @Cond_07e0:
@@ -176,7 +174,7 @@ code043c        1, 2
 code043c        2, 2
 code0479        1, 0, 16
 call            @Func_124e
-dialogtxt       "I know they hang out at"
+dialogtxt       "Well, I know they hang out at"
 dialogtxt       "Deckell Mine often..."
 code0309        
 code0479        1, 0, 12

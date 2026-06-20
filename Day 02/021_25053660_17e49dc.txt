@@ -10,8 +10,8 @@ code040d        15
 code047d        1, 106
 code0301        8, 5
 code047e        1, 1
-dialogtxt       "Hey! You."
-dialogtxt       "What are you doing over there?"
+dialogtxt       "Hey, you over there!"
+dialogtxt       "What are you doing?"
 code047b        
 code0309        
 code047e        1, 0
@@ -138,7 +138,7 @@ goto            @Label_0572
 call            @Func_23c2
 jumpz           @Cond_05b8, ($b003 == 0)
 dialogtxt       "Assigning Identification"
-dialogtxt       "Code To \"Enemy\"."
+dialogtxt       "Code To \"Enemy.\""
 dialogtxt       "Entering Battle Mode."
 goto            @Cond_05b8
 
@@ -203,9 +203,8 @@ call            @Func_247c
 code0479        1, 2, 13
 call            @Func_2492
 call            @Func_2410
-dialogtxt       "You're lucky that you"
-dialogtxt       "get to fight me."
-dialogtxt       "Because..."
+dialogtxt       "You're lucky that you get to"
+dialogtxt       "fight me. Because..."
 code047b        
 code0309        
 code0479        1, 2, 15
@@ -238,8 +237,8 @@ code0479        0, 0, 16
 code0479        1, 3, 17
 call            @Func_24a8
 call            @Func_2410
-dialogtxt       "I told you not to"
-dialogtxt       "call me Bro, [NAME 2]."
+dialogtxt       "I told you not to call me bro"
+dialogtxt       "anymore, [NAME 2]."
 dialogtxt       "The name's Jade."
 code047b        
 code0309        
@@ -256,17 +255,19 @@ dialogtxt       "\"Bro\" is just fine."
 code0309        
 code0479        0, 0, 16
 dialogtxt       "And are you really still"
-dialogtxt       "claiming you're invincible?"
+dialogtxt       "claiming that you're"
+dialogtxt       "invincible?"
 goto            @Label_0aac
 
 @Cond_0a2c:
 dialogtxt       "Jeez..."
 dialogtxt       "It's too late for that..."
-dialogtxt       "Just \"Bro\" is fine."
+dialogtxt       "\"Bro\" is fine, isn't it?"
 code0309        
 code0479        0, 0, 16
 dialogtxt       "And are you really still"
-dialogtxt       "claiming you're invincible?"
+dialogtxt       "claiming that you're"
+dialogtxt       "invincible?"
 goto            @Label_0aac
 
 @Label_0aac:
@@ -279,18 +280,18 @@ dialogtxt       "the day I fought Rob, I'm still up"
 dialogtxt       "even if you try to whittle me down!"
 code0309        
 code0479        1, 2, 17
-dialogtxt       "From that day forward,"
-dialogtxt       "I am... the Invincible Jade!"
+dialogtxt       "On that day, I became..."
+dialogtxt       "the Invincible Jade!"
 code0309        
 code0479        1, 0, 13
 dialogtxt       "And I threw away the part of"
-dialogtxt       "myself which you called \"Bro\"!"
+dialogtxt       "myself which you call \"bro!\""
 code0309        
 call            @Func_2464
 code0479        0, 0, 14
 call            @Func_23c2
-dialogtxt       "... I don't think you"
-dialogtxt       "have at all, though..."
+dialogtxt       "... I don't think you have at all,"
+dialogtxt       "though..."
 code0309        
 call            @Func_23f8
 code0479        1, 3, 17
@@ -335,20 +336,20 @@ goto            @Cond_0d94
 
 @Cond_0d94:
 jumpz           @Cond_0ddc, ($b003 == 1)
-dialogtxt       "So, this \"Bro\"..."
+dialogtxt       "So, this \"bro...\""
 dialogtxt       "He is not an enemy?"
 goto            @Cond_0ddc
 
 @Cond_0ddc:
 jumpz           @Cond_0e1e, ($b003 == 2)
-dialogtxt       "\"Bro\"!?"
+dialogtxt       "\"Bro!?\""
 dialogtxt       "So he's... not an enemy?"
 goto            @Cond_0e1e
 
 @Cond_0e1e:
 jumpz           @Cond_0e7c, ($b003 == 3)
-dialogtxt       "T—This man is your Bro?"
-dialogtxt       "I was sure he was a villian!"
+dialogtxt       "T—This man is your bro?"
+dialogtxt       "I was sure he was a villain!"
 goto            @Cond_0e7c
 
 @Cond_0e7c:
@@ -420,7 +421,7 @@ code0479        0, 0, 12
 call            @Func_23c2
 dialogtxt       "I guess that's true..."
 dialogtxt       "But, believe me! He's a good guy."
-dialogtxt       "Right, Bro?"
+dialogtxt       "Right, bro?"
 code0309        
 call            @Func_24e8
 call            @Func_23f8
@@ -616,7 +617,7 @@ code0309
 code0479        0, 2, 12
 dialogtxt       "I'll have you know,"
 dialogtxt       "I am quite strong!"
-dialogtxt       "I'm not a—afraid of you!"
+dialogtxt       "I'm n—not afraid of you!"
 code0309        
 call            @Func_23f8
 code0479        1, 1, 13
@@ -706,7 +707,7 @@ code0479        1, 0, 13
 code047d        1, 132
 call            @Func_2492
 call            @Func_242e
-dialogtxt       "Ah, so that is why you were here."
+dialogtxt       "Ah, so that's why you were here."
 dialogtxt       "Looks like your job is done!"
 dialogtxt       "Now, let's get back to the village."
 code047b        

@@ -45,7 +45,7 @@ code0479        1, 0, 12
 code047d        1, 108
 call            @Func_0ef0
 call            @Func_0e8c
-dialogtxt       "We're finally halfway."
+dialogtxt       "We're finally halfway!"
 dialogtxt       "Well, at this rate we'll"
 dialogtxt       "get there before dark."
 code0309        

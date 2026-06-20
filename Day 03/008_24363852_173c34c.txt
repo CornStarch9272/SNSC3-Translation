@@ -297,7 +297,7 @@ code0301        8, 7
 code047d        0, 120
 code047e        0, 1
 dialogtxt       "Selling ore can make some"
-dialogtxt       "decent money, but the payout"
+dialogtxt       "decent boam, but the payout"
 dialogtxt       "depends on the ore's quality."
 code0309        
 code047e        0, 0

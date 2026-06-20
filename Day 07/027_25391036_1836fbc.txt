@@ -318,7 +318,7 @@ code0479        1, 3, 15
 call            @Func_1830
 call            @Func_1798
 dialogtxt       "Don't touch me!"
-dialogtxt       "As if I'd let his apprentice—!"
+dialogtxt       "As if I'd let his apprentice—"
 code0309        
 call            @Func_17ec
 code0479        0, 2, 16

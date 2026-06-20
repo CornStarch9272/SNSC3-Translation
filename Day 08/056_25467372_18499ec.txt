@@ -139,8 +139,7 @@ code0479        1, 2, 12
 code047d        1, 110
 call            @Func_2030
 call            @Func_1fae
-dialogtxt       "Seriously,"
-dialogtxt       "what a mess."
+dialogtxt       "Seriously, what a mess."
 code047b        
 code0309        
 call            @Func_2002
@@ -151,12 +150,12 @@ call            @Func_201a
 call            @Func_1f60
 jumpz           @Cond_08b2, ($b002 == 0)
 dialogtxt       "You...?"
-dialogtxt       "Why..."
+dialogtxt       "Why?"
 goto            @Label_08d2
 
 @Cond_08b2:
 dialogtxt       "You...?"
-dialogtxt       "Why..."
+dialogtxt       "Why?"
 goto            @Label_08d2
 
 @Label_08d2:
@@ -216,7 +215,7 @@ code0479        1, 5, 17
 code047d        1, 134
 call            @Func_2030
 call            @Func_1fcc
-dialogtxt       "Shit!"
+dialogtxt       "Crap!"
 dialogtxt       "Red Wing is..."
 code047b        
 code0309        
@@ -437,7 +436,7 @@ walkto          7, ($h128 + 16), $h129, 2
 walkwait        7
 code043e        7, 3, 0
 code043c        7, 2
-popuptxt        "Got your stuff back!"
+popuptxt        " You got your stuff back!"
 code0318        
 code0479        1, 2, 14
 call            @Func_2046
@@ -464,7 +463,7 @@ code0309
 call            @Func_1f96
 code0479        1, 2, 15
 call            @Func_1fcc
-dialogtxt       "Why now!?"
+dialogtxt       "What now!?"
 dialogtxt       "If we don't escape,"
 dialogtxt       "Red Wing will..."
 code0309        
@@ -502,12 +501,12 @@ code043c        7, 3
 code0479        0, 5, 16
 call            @Func_1f60
 jumpz           @Cond_185a, ($b002 == 0)
-dialogtxt       "Wha—!?"
+dialogtxt       "Wha—"
 dialogtxt       "You..."
 goto            @Label_1876
 
 @Cond_185a:
-dialogtxt       "Wha—!?"
+dialogtxt       "Wha—"
 dialogtxt       "You..."
 goto            @Label_1876
 

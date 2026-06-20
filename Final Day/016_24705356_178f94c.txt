@@ -394,9 +394,9 @@ code047d        0, 120
 code047e        0, 1
 dialogtxt       "Don't stop believing in yourself!"
 dialogtxt       "Never stop chasing your dreams!"
-dialogtxt       "... My Gramps would say those a lot."
+dialogtxt       "... My gramps would say that a lot."
 code0309        
-dialogtxt       "What are you aspiring for?"
+dialogtxt       "What are you dreaming for?"
 code0309        
 code047e        0, 0
 code0302        7

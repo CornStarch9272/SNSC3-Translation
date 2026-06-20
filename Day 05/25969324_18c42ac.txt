@@ -477,7 +477,7 @@ code0309
 call            @Func_1f8a
 call            @Func_1fc0
 dialogtxt       "... I'll pay you up real nicely!"
-dialogtxt       "(Not with money, though...)"
+dialogtxt       "(Not with boam, though...)"
 code0309        
 call            @Func_2090
 call            @Func_1fde

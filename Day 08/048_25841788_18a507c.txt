@@ -122,7 +122,7 @@ code046c        1
 goto            @Cond_05e2
 
 @Cond_05e2:
-placetxt        "Surange Mine Area 2"
+placetxt        "Surange Mine　Area 2"
 code040b        
 
 @Event_0600:

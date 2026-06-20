@@ -148,11 +148,12 @@ code0309
 code037c        $h232
 dialogtxt       "I know, why don't you make me one?"
 dialogtxt       "I've been thinking about getting"
-dialogtxt       "a [NAME 4],"
+dialogtxt       "a [NAME 4]..."
 
 code0309        
 code037c        $h233
-dialogtxt       "but it seems I need [NAME 4]."
+dialogtxt       "But it seems I need some"
+dialogtxt       "[NAME 4]."
 code0309        
 code047e        0, 0
 code0302        7
@@ -273,7 +274,7 @@ code047e        0, 1
 dialogtxt       "I'd like to order a weapon."
 code0309        
 code037c        $h232
-dialogtxt       "I'd like the [NAME 4]."
+dialogtxt       "I'd like an [NAME 4]."
 code0309        
 code037c        $h233
 dialogtxt       "You'll need a [NAME 4]"
@@ -423,7 +424,7 @@ code047e        0, 1
 dialogtxt       "Shapestone?"
 code0309        
 dialogtxt       "I thought the craftsman prepared it."
-dialogtxt       "Is it different in this town?"
+dialogtxt       "Is it different where you're from?"
 code0309        
 dialogtxt       "Well, anyway, I'm looking forward"
 dialogtxt       "to the finished product."
@@ -646,7 +647,7 @@ code037c        $h232
 dialogtxt       "I'd like the [NAME 4], but"
 code0309        
 code037c        $h233
-dialogtxt       "It seems you'll need [NAME 4]."
+dialogtxt       "it seems you'll need a [NAME 4]."
 code0309        
 code047e        0, 0
 code0302        7

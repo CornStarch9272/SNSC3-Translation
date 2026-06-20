@@ -289,7 +289,7 @@ call            @Func_17ea
 code0479        0, 1, 17
 call            @Func_1748
 dialogtxt       "Uwah~"
-dialogtxt       "This is too real~"
+dialogtxt       "Talk about a reality check~"
 code0309        
 call            @Func_177e
 code0479        1, 2, 12

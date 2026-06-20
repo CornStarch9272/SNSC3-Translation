@@ -202,7 +202,7 @@ code047d        0, 138
 code047e        0, 1
 dialogtxt       "I'm sorry..."
 dialogtxt       "I don't know where"
-dialogtxt       "big sis went..."
+dialogtxt       "Ms. Murno went..."
 code0309        
 code047e        0, 0
 code0302        7

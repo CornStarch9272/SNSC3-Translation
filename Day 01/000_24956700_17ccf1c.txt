@@ -260,15 +260,15 @@ call            @Func_2d6a
 code0479        0, 0, 12
 call            @Func_2cc8
 jumpz           @Cond_0dde, ($b002 == 0)
-dialogtxt       "Exactly."
-dialogtxt       "But it would've been better if the"
-dialogtxt       "Chief told us yesterday."
+dialogtxt       "Yeah, but it would've been nice"
+dialogtxt       "if Master told us about this"
+dialogtxt       "yesterday."
 goto            @Label_0e28
 
 @Cond_0dde:
-dialogtxt       "Yeah,"
-dialogtxt       "but it would've been better if the"
-dialogtxt       "Chief told us yesterday."
+dialogtxt       "Yeah, but it would've been nice"
+dialogtxt       "if Master told us about this"
+dialogtxt       "yesterday."
 goto            @Label_0e28
 
 @Label_0e28:
@@ -276,6 +276,7 @@ code0309
 call            @Func_2cfe
 code0479        1, 4, 14
 call            @Func_2d34
+dialogtxt       "Yes."
 dialogtxt       "Sadly, this pitiful form"
 dialogtxt       "is hardly suited for that..."
 code0309        

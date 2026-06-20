@@ -99,8 +99,7 @@ code0309
 call            @Func_1206
 code0479        1, 0, 16
 call            @Func_123c
-dialogtxt       "Y—Yeah,"
-dialogtxt       "she's back."
+dialogtxt       "Y—Yeah, she's back."
 dialogtxt       "I think she's inside..."
 code0309        
 call            @Func_1272
@@ -233,15 +232,15 @@ dialogtxt       "　　　　 In the end, I couldn't"
 dialogtxt       "　　　　  give her an answer..."
 code030a        6, 1
 jumpz           @Cond_0aa2, ($b002 == 0)
-dialogtxt       "　　　  I can't just up and say,"
-dialogtxt       "　　　 Murno may have caused the"
+dialogtxt       "　　　　I can't just up and say,"
+dialogtxt       "　　　Murno may have caused the"
 dialogtxt       "　　　　Strays to go berserk..."
 goto            @Label_0b1e
 
 @Cond_0aa2:
-dialogtxt       "　　　  I can't just up and say,"
-dialogtxt       "　　　 Murno may have caused the"
-dialogtxt       "　　　  Strays to go berserk..."
+dialogtxt       "　　　　I can't just up and say,"
+dialogtxt       "　　　Murno may have caused the"
+dialogtxt       "　　　　Strays to go berserk..."
 goto            @Label_0b1e
 
 @Label_0b1e:

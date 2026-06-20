@@ -120,7 +120,7 @@ code0309
 call            @Func_18ae
 code0479        0, 2, 15
 call            @Func_180c
-dialogtxt       "I do know!"
+dialogtxt       "I DO know!"
 dialogtxt       "They're somewhere in Surange Mine!"
 dialogtxt       "Near the west gate!"
 code0309        
@@ -234,7 +234,7 @@ call            @Func_1842
 code0479        1, 0, 16
 call            @Func_1878
 dialogtxt       "Master is investigating Lute Cave,"
-dialogtxt       "and Bro is at Beleet Forest..."
+dialogtxt       "and bro is at Beleet Forest..."
 code0309        
 call            @Func_18ae
 code0479        0, 4, 14

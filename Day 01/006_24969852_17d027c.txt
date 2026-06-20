@@ -992,7 +992,7 @@ call            @Func_484e
 code0479        1, 2, 14
 call            @Func_48e8
 call            @Func_4884
-dialogtxt       "Call me \"Master\", not \"you\"."
+dialogtxt       "Call me \"Master\" not \"you.\""
 dialogtxt       "Seriously, show some respect..."
 code047b        
 code0309        

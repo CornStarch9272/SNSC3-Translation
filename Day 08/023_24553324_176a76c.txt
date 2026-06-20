@@ -296,8 +296,7 @@ code040b
 
 @Event_0bf4:
 code0301        8, 7
-dialogtxt       "You can cash in your lottery tickets"
-dialogtxt       "once the winning numbers are picked!"
+dialogtxt       "　　Use your lottery tickets wisely!"
 code0309        
 code0302        7
 code040b        

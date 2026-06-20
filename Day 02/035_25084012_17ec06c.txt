@@ -146,7 +146,7 @@ call            @Func_3b06
 code0333        2, 30
 code0479        1, 0, 12
 call            @Func_3b3c
-dialogtxt       "Oh~..."
+dialogtxt       "Oh~"
 dialogtxt       "Is that all?"
 dialogtxt       "I see..."
 code0309        
@@ -251,13 +251,12 @@ code0479        1, 8, 14
 call            @Func_3b3c
 dialogtxt       "No..."
 dialogtxt       "I'm sorry..."
-dialogtxt       "Is your wound okay?"
+dialogtxt       "Are you injured at all?"
 code0309        
 call            @Func_3b72
 code0479        0, 5, 12
 call            @Func_3ad0
-dialogtxt       "Hm...?"
-dialogtxt       "Y—Yes, I'm fine..."
+dialogtxt       "N—No, I'm fine..."
 code0309        
 call            @Func_3b06
 code0479        1, 6, 14
@@ -423,7 +422,7 @@ code0479        0, 1, 12
 code047d        0, 0
 call            @Func_3b8a
 call            @Func_3ad0
-dialogtxt       "Hehe~..."
+dialogtxt       "Hehe~"
 code047b        
 code0309        
 call            @Func_3bf6
@@ -500,7 +499,7 @@ code0309
 call            @Func_3b06
 code0479        1, 1, 13
 call            @Func_3b3c
-dialogtxt       "See, there's a difference."
+dialogtxt       "See, there IS a difference."
 dialogtxt       "Good job."
 code0309        
 call            @Func_3b72
@@ -518,6 +517,7 @@ dialogtxt       "But......"
 code0309        
 code0479        1, 2, 14
 dialogtxt       "If it all feels right in the end..."
+dialogtxt       "Then it's... Uhhh..."
 code0309        
 code0333        2, 30
 code0479        1, 1, 15
@@ -635,7 +635,7 @@ code0479        0, 2, 16
 call            @Func_3ad0
 jumpz           @Cond_1be2, ($b002 == 0)
 dialogtxt       "Master..."
-dialogtxt       "Can I come this time?"
+dialogtxt       "Can I come too?"
 dialogtxt       "It's not about revenge this time."
 code0309        
 code0479        0, 2, 14
@@ -646,7 +646,7 @@ goto            @Label_1c98
 
 @Cond_1be2:
 dialogtxt       "Master..."
-dialogtxt       "Can I come this time?"
+dialogtxt       "Can I come too?"
 dialogtxt       "It's not about revenge this time."
 code0309        
 code0479        0, 2, 14
@@ -761,7 +761,7 @@ code0309
 call            @Func_3b72
 code0479        0, 2, 12
 call            @Func_3ad0
-dialogtxt       "But... I want to go."
+dialogtxt       "But, I want to go."
 dialogtxt       "Please..."
 code0309        
 code0479        0, 2, 15
@@ -825,7 +825,7 @@ code047d        1, 108
 code0479        0, 2, 14
 call            @Func_3ba0
 call            @Func_3b3c
-dialogtxt       "Why are you..."
+dialogtxt       "Why are you...?"
 dialogtxt       "Wouldn't it be better to avoid"
 dialogtxt       "standing out as much as pos—"
 code047b        
@@ -855,7 +855,7 @@ code047d        1, 108
 call            @Func_3ba0
 call            @Func_3b3c
 dialogtxt       "Hmmmm..."
-dialogtxt       "I see how it is..."
+dialogtxt       "I understand."
 code0309        
 code0479        1, 4, 12
 dialogtxt       "But there are more Strays out now."
@@ -912,9 +912,9 @@ goto            @Label_2a50
 
 @Choice_2728:
 code0479        0, 0, 14
-dialogtxt       "It'll certainly be"
-dialogtxt       "more dangerous with"
-dialogtxt       "Murno tagging along..."
+dialogtxt       "It would certainly be more"
+dialogtxt       "dangerous with Murno tagging"
+dialogtxt       "along..."
 code0309        
 call            @Func_3bf6
 call            @Func_3b06
@@ -1038,15 +1038,15 @@ code0309
 call            @Func_3b06
 code0479        1, 0, 13
 call            @Func_3b3c
-dialogtxt       "Yeah... Right now, you're"
-dialogtxt       "fully capable of going up against"
-dialogtxt       "me as a fellow Craftknight."
+dialogtxt       "Yeah... Right now, your skill as"
+dialogtxt       "a Craftknight is enough to put up"
+dialogtxt       "a decent fight."
 code0309        
 call            @Func_3b72
 code0479        0, 1, 13
 call            @Func_3ad0
 dialogtxt       "Alright!"
-dialogtxt       "Just I'd expect from you Bro!"
+dialogtxt       "Just I'd expect from you, bro!"
 dialogtxt       "You're awesome!"
 code0309        
 call            @Func_3be0
@@ -1077,7 +1077,7 @@ call            @Func_3b8a
 code043c        5, 2
 call            @Func_3ad0
 choicetxt       @Choice_2e72, "Of course I'll win!"
-choicetxt       @Choice_2ed8, "Actually I'm not that sure..."
+choicetxt       @Choice_2ed8, "Actually, I'm not that sure..."
 code047b        
 choicewait      
 

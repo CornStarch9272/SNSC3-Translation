@@ -343,7 +343,7 @@ call            @Func_1cce
 code0479        1, 2, 16
 call            @Func_1d04
 dialogtxt       "For her, facing Gau was like when"
-dialogtxt       "you challenged the Phantom Dragon."
+dialogtxt       "you challenged Genryuuki."
 dialogtxt       "She put her life on the line..."
 code0309        
 code0479        1, 2, 12

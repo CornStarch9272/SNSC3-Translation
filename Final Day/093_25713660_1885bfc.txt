@@ -104,7 +104,7 @@ code0309
 call            @Func_4f5e
 code0479        0, 2, 15
 call            @Func_4ebc
-dialogtxt       "Ah..., [NAME 1]..."
+dialogtxt       "[NAME 1]..."
 dialogtxt       "Where's [NAME 1]!?"
 code0309        
 call            @Func_4fe2
@@ -129,7 +129,7 @@ dialogtxt       "To save me, they—"
 code0309        
 code0479        0, 4, 17
 dialogtxt       "So that's why [NAME 1] told me to"
-dialogtxt       "take care of Murno... Damn!"
+dialogtxt       "take care of Murno...!"
 dialogtxt       "I'm..."
 goto            @Label_05d8
 
@@ -140,7 +140,7 @@ dialogtxt       "To save me, they—"
 code0309        
 code0479        0, 4, 17
 dialogtxt       "So that's why [NAME 1] told me to"
-dialogtxt       "take care of Murno... [NAME 1]...!"
+dialogtxt       "take care of Murno...!"
 dialogtxt       "I'm..."
 goto            @Label_05d8
 
@@ -209,8 +209,8 @@ code047d        1, 129
 call            @Func_4f8c
 call            @Func_4f0a
 dialogtxt       "That..."
-dialogtxt       "To call a Summon while"
-dialogtxt       "it's already Summoned..."
+dialogtxt       "To call a Summon Beast while"
+dialogtxt       "it's already been summoned..."
 code047b        
 code0309        
 call            @Func_4f5e
@@ -219,14 +219,12 @@ code0479        0, 2, 14
 call            @Func_4f76
 call            @Func_4ebc
 jumpz           @Cond_08fc, ($b002 == 0)
-dialogtxt       "I won't know"
-dialogtxt       "until I try!"
+dialogtxt       "I won't know until I try!"
 dialogtxt       "So!"
 goto            @Label_0940
 
 @Cond_08fc:
-dialogtxt       "I won't know"
-dialogtxt       "until I try!"
+dialogtxt       "I won't know until I try!"
 dialogtxt       "So!"
 goto            @Label_0940
 
@@ -270,7 +268,7 @@ code0479        0, 4, 14
 call            @Func_4f76
 call            @Func_4e9e
 jumpz           @Cond_0b5e, ($b002 == 0)
-dialogtxt       "Damn..."
+dialogtxt       "Crap..."
 dialogtxt       "Summon!"
 code047b        
 code0309        
@@ -322,7 +320,7 @@ code0479        0, 4, 15
 call            @Func_4f76
 call            @Func_4ebc
 jumpz           @Cond_0d10, ($b002 == 0)
-dialogtxt       "Dammit..."
+dialogtxt       "No..."
 dialogtxt       "I..."
 dialogtxt       "I...!"
 goto            @Label_0d40
@@ -727,7 +725,7 @@ call            @Func_4f5e
 code0479        0, 2, 12
 call            @Func_4ebc
 dialogtxt       "I see... Yeah..."
-dialogtxt       "I understand, Bro!"
+dialogtxt       "I understand, bro!"
 code0309        
 call            @Func_4ff8
 call            @Func_4eda
@@ -883,7 +881,7 @@ code0479        1, 2, 12
 code047d        1, 132
 call            @Func_4f8c
 call            @Func_4f28
-dialogtxt       "Don't act so important."
+dialogtxt       "Don't keep us waiting."
 goto            @Label_2910
 
 @Label_2910:
@@ -1069,38 +1067,11 @@ code0301        6, 7
 code047e        0, 1
 code047e        1, 1
 code0479        0, 2, 12
-strlen          280, "[NAME 1]"
-jumpz           @Cond_2e8c, ($h216 == 1)
-dialogtxt       "　　　　　　　　[NAME 1]..."
-goto            @Label_2f5c
-
-@Cond_2e8c:
-jumpz           @Cond_2eb8, ($h216 == 2)
-dialogtxt       "　　　　　　　　[NAME 1]..."
-goto            @Label_2f5c
-
-@Cond_2eb8:
-jumpz           @Cond_2ee2, ($h216 == 3)
-dialogtxt       "　　　　　　　[NAME 1]..."
-goto            @Label_2f5c
-
-@Cond_2ee2:
-jumpz           @Cond_2f0c, ($h216 == 4)
-dialogtxt       "　　　　　　　[NAME 1]..."
-goto            @Label_2f5c
-
-@Cond_2f0c:
-jumpz           @Cond_2f34, ($h216 == 5)
-dialogtxt       "　　　　　　[NAME 1]..."
-goto            @Label_2f5c
-
-@Cond_2f34:
-jumpz           @Label_2f5c, ($h216 == 6)
-dialogtxt       "　　　　　　[NAME 1]..."
+dialogtxt       "[NAME 1]..."
 goto            @Label_2f5c
 
 @Label_2f5c:
-dialogtxt       "　　　　　　  Summon."
+dialogtxt       "　　　　　　　 SUMMON!"
 code0309        
 code047e        0, 0
 code047e        1, 0

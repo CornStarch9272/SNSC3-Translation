@@ -203,7 +203,7 @@ call            @Func_1d2c
 call            @Func_1c94
 jumpz           @Cond_07d0, ($b002 == 0)
 dialogtxt       "Just wait!"
-dialogtxt       "I'll get those shackles off!"
+dialogtxt       "I'll remove those shackles!"
 goto            @Label_0804
 
 @Cond_07d0:
@@ -289,13 +289,13 @@ call            @Func_1c94
 jumpz           @Cond_0a6e, ($b002 == 0)
 dialogtxt       "Okay, here we go..."
 dialogtxt       "Hm?"
-dialogtxt       "Is this it?"
+dialogtxt       "Like this...?"
 goto            @Label_0aa6
 
 @Cond_0a6e:
 dialogtxt       "Okay, here we go..."
 dialogtxt       "Hm?"
-dialogtxt       "Is this it?"
+dialogtxt       "Like this...?"
 goto            @Label_0aa6
 
 @Label_0aa6:
@@ -332,7 +332,7 @@ code0446        0
 code0479        1, 4, 16
 call            @Func_1d2c
 call            @Func_1c94
-dialogtxt       "Do this... Here..."
+dialogtxt       "Do this... here..."
 dialogtxt       "Huh?"
 dialogtxt       "What!?"
 code047b        
@@ -535,7 +535,7 @@ goto            @Label_1290
 @Label_1290:
 call            @Func_1d2c
 call            @Func_1c94
-dialogtxt       "Okay!"
+dialogtxt       "Got it!"
 code047b        
 code0309        
 call            @Func_1ce8

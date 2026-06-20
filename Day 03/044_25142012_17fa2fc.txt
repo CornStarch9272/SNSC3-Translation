@@ -16,13 +16,13 @@ code0479        0, 0, 14
 code047d        0, 0
 call            @Func_1f58
 call            @Func_1e80
-dialogtxt       "Woah... We found them!"
+dialogtxt       "Woah... we found her!"
 jumpz           @Cond_0122, ($b002 == 0)
-dialogtxt       "What're they doing, though?"
+dialogtxt       "What's she doing, though?"
 goto            @Label_0142
 
 @Cond_0122:
-dialogtxt       "What're they up to this time?"
+dialogtxt       "What's she up to this time?"
 goto            @Label_0142
 
 @Label_0142:
@@ -396,7 +396,7 @@ goto            @Cond_0f5a
 
 @Cond_0f5a:
 jumpz           @Cond_1040, ($b003 == 3)
-dialogtxt       "Those people are enemies!"
+dialogtxt       "Those people are the enemy!"
 dialogtxt       "We can't let them get close"
 dialogtxt       "to Lady Murno!"
 code047b        
@@ -479,7 +479,7 @@ code0479        1, 0, 15
 call            @Func_1f6e
 call            @Func_1eec
 dialogtxt       "Stop getting in our way!"
-dialogtxt       "You're this close"
+dialogtxt       "You're THIS close"
 dialogtxt       "to getting a beating!"
 code047b        
 code0309        

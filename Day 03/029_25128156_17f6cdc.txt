@@ -30,7 +30,7 @@ code047d        1, 108
 call            @Func_1e94
 call            @Func_1dbc
 dialogtxt       "But..."
-dialogtxt       "My bonus~..."
+dialogtxt       "My bonus..."
 code047b        
 code0309        
 call            @Func_1e10
@@ -77,11 +77,11 @@ call            @Func_1e7c
 code0479        0, 2, 14
 call            @Func_1dda
 jumpz           @Cond_03da, ($b002 == 0)
-dialogtxt       "Asking for money again?"
+dialogtxt       "Asking for boam again?"
 goto            @Label_03f6
 
 @Cond_03da:
-dialogtxt       "Asking for money again?"
+dialogtxt       "Asking for boam again?"
 goto            @Label_03f6
 
 @Label_03f6:
@@ -205,26 +205,26 @@ code0309
 call            @Func_1e10
 code0479        1, 2, 14
 call            @Func_1e46
-dialogtxt       "What??"
-dialogtxt       "You don't believe me????"
+dialogtxt       "What?"
+dialogtxt       "You don't believe me?"
 code0309        
 call            @Func_1e7c
 code0479        0, 0, 16
 call            @Func_1dda
 dialogtxt       "Well..."
 code0309        
-choicetxt       @Choice_09d8, "She's probably strong."
-choicetxt       @Choice_0afe, "Looks pretty weak to me."
+choicetxt       @Choice_09d8, "(She looks strong.)"
+choicetxt       @Choice_0afe, "(Looks pretty weak to me.)"
 choicewait      
 
 @Choice_09d8:
 code0479        0, 0, 12
 jumpz           @Cond_0a16, ($b002 == 0)
-dialogtxt       "You are strong, aren't you?"
+dialogtxt       "You ARE strong, aren't you?"
 goto            @Label_0a34
 
 @Cond_0a16:
-dialogtxt       "You are strong, aren't you?"
+dialogtxt       "You ARE strong, aren't you?"
 goto            @Label_0a34
 
 @Label_0a34:
@@ -234,7 +234,7 @@ call            @Func_1e10
 code0479        1, 2, 16
 call            @Func_1e46
 dialogtxt       "Hmm..."
-dialogtxt       "You really don't, do you?"
+dialogtxt       "You're mocking me, aren't you?"
 dialogtxt       "I can tell!"
 code0309        
 call            @Func_1e7c

@@ -277,7 +277,7 @@ code0309
 call            @Func_100a
 code0479        1, 1, 12
 call            @Func_1040
-dialogtxt       "Thank you,[NAME 2]"
+dialogtxt       "Thank you, [NAME 2]"
 code0309        
 call            @Func_1110
 call            @Func_105e

@@ -152,7 +152,7 @@ code040b
 @Event_075a:
 code043b        3
 code0439        3
-popuptxt        "Recovered your equipment!"
+popuptxt        " Recovered your equipment!"
 code0318        
 setvar          $f0131, 1
 code0461        4

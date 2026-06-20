@@ -243,7 +243,7 @@ goto            @Cond_0a36
 @Cond_0a36:
 jumpz           @Cond_0d64, ($b003 == 3)
 dialogtxt       "That's true!"
-dialogtxt       "You are terrible at it!"
+dialogtxt       "You ARE terrible at it!"
 code0309        
 call            @Func_13c4
 code0479        0, 1, 16

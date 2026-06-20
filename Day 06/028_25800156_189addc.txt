@@ -304,9 +304,9 @@ setvar          $f1015, 1
 code043e        0, 3, 0
 code0301        0, 9
 code0305        1
-dialogtxt       "Activate a switch by hitting it"
-dialogtxt       "with your hammer. Each switch"
-dialogtxt       "will raise a different platform."
+dialogtxt       " Activate a switch by hitting it"
+dialogtxt       " with your hammer. Each switch"
+dialogtxt       " will raise a different platform."
 code0309        
 code0302        9
 code0461        8

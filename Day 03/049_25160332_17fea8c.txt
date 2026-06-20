@@ -159,8 +159,8 @@ call            @Func_1176
 code0479        1, 2, 15
 call            @Func_11ac
 dialogtxt       "Of course,"
-dialogtxt       "Tier is really cute,"
-dialogtxt       "of course you'd be happy!"
+dialogtxt       "Tier is really cute."
+dialogtxt       "Of course you'd be happy!"
 code0309        
 call            @Func_11e2
 goto            @Label_0a46

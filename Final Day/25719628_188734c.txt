@@ -128,14 +128,14 @@ call            @Func_2266
 jumpz           @Cond_04aa, ($f0261 == 1)
 jumpz           @Cond_0466, ($b002 == 0)
 dialogtxt       "I heard it..."
-dialogtxt       "Everyone's voices... And then..."
-dialogtxt       "Yours..."
+dialogtxt       "Everyone's voices... and then..."
+dialogtxt       "Your's..."
 goto            @Label_04a6
 
 @Cond_0466:
 dialogtxt       "I heard it..."
-dialogtxt       "Everyone's voices... And then..."
-dialogtxt       "Yours..."
+dialogtxt       "Everyone's voices... and then..."
+dialogtxt       "Your's..."
 goto            @Label_04a6
 
 @Label_04a6:
@@ -145,14 +145,14 @@ goto            @Label_07c4
 jumpz           @Cond_054a, ($f0262 == 1)
 jumpz           @Cond_0506, ($b002 == 0)
 dialogtxt       "I heard it..."
-dialogtxt       "Everyone's voices... And then..."
-dialogtxt       "Yours..."
+dialogtxt       "Everyone's voices... and then..."
+dialogtxt       "Your's..."
 goto            @Label_0546
 
 @Cond_0506:
 dialogtxt       "I heard it..."
-dialogtxt       "Everyone's voices... And then..."
-dialogtxt       "Yours..."
+dialogtxt       "Everyone's voices... and then..."
+dialogtxt       "Your's..."
 goto            @Label_0546
 
 @Label_0546:
@@ -162,13 +162,13 @@ goto            @Label_07c4
 jumpz           @Cond_05ea, ($f0263 == 1)
 jumpz           @Cond_05a8, ($b002 == 0)
 dialogtxt       "I heard it..."
-dialogtxt       "Everyone's voices... And then..."
+dialogtxt       "Everyone's voices... and then..."
 dialogtxt       "Master's..."
 goto            @Label_05e6
 
 @Cond_05a8:
 dialogtxt       "I heard it..."
-dialogtxt       "Everyone's voices... And then..."
+dialogtxt       "Everyone's voices... and then..."
 dialogtxt       "Master's..."
 goto            @Label_05e6
 
@@ -179,14 +179,14 @@ goto            @Label_07c4
 jumpz           @Cond_068c, ($f0264 == 1)
 jumpz           @Cond_0648, ($b002 == 0)
 dialogtxt       "I heard it..."
-dialogtxt       "Everyone's voices... And then..."
-dialogtxt       "Yours..."
+dialogtxt       "Everyone's voices... and then..."
+dialogtxt       "Your's..."
 goto            @Label_0688
 
 @Cond_0648:
 dialogtxt       "I heard it..."
-dialogtxt       "Everyone's voices... And then..."
-dialogtxt       "Yours..."
+dialogtxt       "Everyone's voices... and then..."
+dialogtxt       "Your's..."
 goto            @Label_0688
 
 @Label_0688:
@@ -196,13 +196,13 @@ goto            @Label_07c4
 jumpz           @Cond_0730, ($f0265 == 1)
 jumpz           @Cond_06ec, ($b002 == 0)
 dialogtxt       "I heard it..."
-dialogtxt       "Everyone's voices... And then..."
+dialogtxt       "Everyone's voices... and then..."
 dialogtxt       "Bro's..."
 goto            @Label_072c
 
 @Cond_06ec:
 dialogtxt       "I heard it..."
-dialogtxt       "Everyone's voices... And then..."
+dialogtxt       "Everyone's voices... and then..."
 dialogtxt       "Bro's..."
 goto            @Label_072c
 
@@ -212,13 +212,13 @@ goto            @Label_07c4
 @Cond_0730:
 jumpz           @Cond_0780, ($b002 == 0)
 dialogtxt       "I heard it..."
-dialogtxt       "Everyone's voices... And then..."
+dialogtxt       "Everyone's voices... and then..."
 dialogtxt       "Tier's..."
 goto            @Label_07c0
 
 @Cond_0780:
 dialogtxt       "I heard it..."
-dialogtxt       "Everyone's voices... And then..."
+dialogtxt       "Everyone's voices... and then..."
 dialogtxt       "Tier's..."
 goto            @Label_07c0
 
@@ -253,8 +253,7 @@ code0479        0, 5, 16
 code047d        0, 129
 call            @Func_2320
 call            @Func_2248
-dialogtxt       "This is..."
-dialogtxt       "A miracle!"
+dialogtxt       "This is... a miracle!"
 code047b        
 code0309        
 call            @Func_2376

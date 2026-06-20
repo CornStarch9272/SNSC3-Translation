@@ -1,32 +1,32 @@
 code0304        1
 jumpz           @Cond_0088, ($b003 == 0)
-dialogtxt       "　　　  Please Call Me...  "
+dialogtxt       "　　　　　  Please Call Me..."
 code030a        6, 1
-dialogtxt       "　　　  My Name Is...　　"
+dialogtxt       "　　　　　　 My Name Is..."
 code030a        6, 1
 goto            @Cond_0088
 
 @Cond_0088:
 jumpz           @Cond_0106, ($b003 == 1)
-dialogtxt       "　　　  Call me...　　  "
+dialogtxt       "　　　　　　　 Call me..."
 code030a        6, 1
-dialogtxt       "　　　  Hurry up!　　　"
-code030a        6, 1
+dialogtxt       "　　　　　　　Hurry up!"
+code030a        6, 1	
 goto            @Cond_0106
 
 @Cond_0106:
 jumpz           @Cond_0186, ($b003 == 2)
-dialogtxt       "　　　  Call me...　　  "
+dialogtxt       "　　　　　　　 Call me..."
 code030a        6, 1
-dialogtxt       "　 My name... You know it... "
+dialogtxt       "　　　　My name... You know it..."
 code030a        6, 1
 goto            @Cond_0186
 
 @Cond_0186:
 jumpz           @Cond_0206, ($b003 == 3)
-dialogtxt       "　　　  Speak...　　　 "
+dialogtxt       "　　　　　　　 Speak..."
 code030a        6, 1
-dialogtxt       "  Speak my name, right now!  "
+dialogtxt       "　　　  Speak my name, right now!"
 code030a        6, 1
 goto            @Cond_0206
 

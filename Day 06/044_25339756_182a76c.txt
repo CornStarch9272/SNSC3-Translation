@@ -12,9 +12,9 @@ code0479        1, 2, 12
 code047d        1, 134
 call            @Func_296e
 call            @Func_28ec
-dialogtxt       "Hah... What is it?"
-dialogtxt       "What the hell"
-dialogtxt       "are you doing here!?"
+dialogtxt       "Hah... What's this?"
+dialogtxt       "What the hell are you"
+dialogtxt       "doing here!?"
 code047b        
 code0309        
 call            @Func_2940
@@ -132,8 +132,7 @@ call            @Func_28d4
 code0479        1, 2, 14
 call            @Func_290a
 dialogtxt       "You came here looking"
-dialogtxt       "for our master,"
-dialogtxt       "am I wrong!?"
+dialogtxt       "for our master, am I wrong!?"
 code0309        
 call            @Func_2940
 code0479        0, 2, 16
@@ -505,7 +504,7 @@ dialogtxt       "Answer me, lay waste to the land,"
 dialogtxt       "and deliver judgment on these fools!"
 dialogtxt       "Summon..."
 code0309        
-dialogbig       255, 116, 1, 0, 0, "Phantom Dragon!!!"
+dialogbig       255, 116, 1, 0, 0, "Genryuuki!!!"
 code030c        
 call            @Func_29c4
 call            @Func_2928
@@ -619,7 +618,7 @@ code047d        1, 2
 call            @Func_296e
 call            @Func_290a
 jumpz           @Cond_1c9a, ($b003 == 0)
-dialogtxt       "Phantom Dragon..."
+dialogtxt       "Genryuuki..."
 dialogtxt       "This Beast Is The Town's"
 dialogtxt       "Guardian Beast..."
 code047b        
@@ -629,14 +628,13 @@ code0479        0, 2, 14
 call            @Func_289e
 jumpz           @Cond_1b50, ($b002 == 0)
 dialogtxt       "This is bad..."
-dialogtxt       "Can I survive a"
-dialogtxt       "fight with that?"
+dialogtxt       "Can I survive a fight with THAT?"
+dialogtxt       ""
 goto            @Label_1b94
 
 @Cond_1b50:
 dialogtxt       "This is bad..."
-dialogtxt       "Can I survive a"
-dialogtxt       "fight with that?"
+dialogtxt       "Can I survive a fight with THAT?"
 goto            @Label_1b94
 
 @Label_1b94:
@@ -671,7 +669,7 @@ goto            @Cond_1c9a
 
 @Cond_1c9a:
 jumpz           @Cond_1e98, ($b003 == 1)
-dialogtxt       "Phantom Dragon..."
+dialogtxt       "Genryuuki..."
 dialogtxt       "This Beast is the town's"
 dialogtxt       "Guardian Beast..."
 code047b        
@@ -723,7 +721,7 @@ goto            @Cond_1e98
 
 @Cond_1e98:
 jumpz           @Cond_208a, ($b003 == 2)
-dialogtxt       "Phantom Dragon..."
+dialogtxt       "Genryuuki..."
 dialogtxt       "This Beast is the town's"
 dialogtxt       "Guardian Beast..."
 code047b        
@@ -775,7 +773,7 @@ goto            @Cond_208a
 
 @Cond_208a:
 jumpz           @Cond_229a, ($b003 == 3)
-dialogtxt       "Phantom Dragon..."
+dialogtxt       "Genryuuki..."
 dialogtxt       "T—This beast is the town's"
 dialogtxt       "Guardian Beast..."
 code047b        

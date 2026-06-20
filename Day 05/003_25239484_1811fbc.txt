@@ -134,7 +134,7 @@ call            @Func_206a
 code0479        0, 5, 17
 call            @Func_2082
 call            @Func_1fc8
-dialogtxt       "Wha— !"
+dialogtxt       "Wha—"
 dialogtxt       "How long have you been there?"
 code047b        
 code0309        
@@ -250,8 +250,8 @@ code0309
 call            @Func_1ffe
 code0479        1, 0, 13
 call            @Func_2034
-dialogtxt       "Sorry about this,"
-dialogtxt       "can you look after Eliez for me?"
+dialogtxt       "Sorry about this, but could"
+dialogtxt       "you look after Eliez for me?"
 code0309        
 call            @Func_206a
 code0479        0, 1, 12
@@ -320,7 +320,7 @@ goto            @Label_0d2c
 call            @Func_1fc8
 jumpz           @Cond_0d7a, ($b003 == 0)
 dialogtxt       "I Cannot Abandon My Duty."
-dialogtxt       "I Must Protect Murno..."
+dialogtxt       "I Must Protect Lady Murno..."
 goto            @Cond_0d7a
 
 @Cond_0d7a:
@@ -338,8 +338,8 @@ goto            @Cond_0e36
 
 @Cond_0e36:
 jumpz           @Cond_0e96, ($b003 == 3)
-dialogtxt       "But I still have"
-dialogtxt       "to watch out for Murno..."
+dialogtxt       "But I still have to watch out"
+dialogtxt       "for Lady Murno..."
 goto            @Cond_0e96
 
 @Cond_0e96:
@@ -353,8 +353,8 @@ code030c
 code0334        
 code0331        39, 256
 code0479        1, 2, 13
-dialogtxt       "Protect her? From what, Eliez?"
-dialogtxt       "Eliez is going to attack Murno!?"
+dialogtxt       "Protect her? From who?"
+dialogtxt       "Eliez?"
 dialogtxt       "Hah. You're hilarious."
 code0309        
 call            @Func_206a
@@ -533,8 +533,7 @@ code0309
 call            @Func_206a
 code0479        0, 0, 14
 call            @Func_1fc8
-dialogtxt       "Ah..."
-dialogtxt       "Yeah..."
+dialogtxt       "Uh... okay."
 code0309        
 call            @Func_1ffe
 code0479        1, 0, 13
@@ -545,8 +544,7 @@ code0309
 call            @Func_206a
 code0479        0, 0, 16
 call            @Func_1fc8
-dialogtxt       "Ah..."
-dialogtxt       "Yeah..."
+dialogtxt       "Sure."
 code0309        
 call            @Func_1ffe
 code0479        1, 2, 17
@@ -564,8 +562,8 @@ code0479        0, 2, 16
 call            @Func_20ae
 call            @Func_2016
 dialogtxt       "I want you to be careful."
-dialogtxt       "The stuff inside"
-dialogtxt       "is very fragile."
+dialogtxt       "The stuff inside there is"
+dialogtxt       "very fragile."
 code047b        
 code0309        
 code0479        1, 2, 12

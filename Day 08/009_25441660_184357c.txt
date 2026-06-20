@@ -25,9 +25,9 @@ code0479        0, 5, 16
 code047d        0, 0
 call            @Func_19f0
 call            @Func_18ec
-dialogtxt       "Wait, Bro!"
+dialogtxt       "Wait, bro!"
 dialogtxt       "I thought Ianna told you to focus"
-dialogtxt       "on your Vigilante Corps work?"
+dialogtxt       "on your work with the militia?"
 code047b        
 code0309        
 call            @Func_1940
@@ -68,7 +68,7 @@ code0309
 code0479        1, 2, 16
 dialogtxt       "V.E, take Lute Cave, and"
 dialogtxt       "[NAME 2] can go from "
-dialogtxt       "Pubick Forest to Marnail Station?"
+dialogtxt       "Pubick Forest to Marnail Station!"
 code0309        
 call            @Func_19ac
 code0479        0, 0, 16
@@ -157,14 +157,14 @@ code047d        0, 0
 call            @Func_19c4
 call            @Func_190a
 jumpz           @Cond_07b6, ($b002 == 0)
-dialogtxt       "Amazing! So that's why it's"
-dialogtxt       "\"Red Wing\"..."
+dialogtxt       "So that's why it's called"
+dialogtxt       "Red Wing..."
 dialogtxt       "That's kinda cool!"
 goto            @Label_07f2
 
 @Cond_07b6:
-dialogtxt       "Amazing! So that's why it's"
-dialogtxt       "\"Red Wing\"..."
+dialogtxt       "So that's why it's called"
+dialogtxt       "Red Wing..."
 dialogtxt       "That's kinda cool!"
 goto            @Label_07f2
 

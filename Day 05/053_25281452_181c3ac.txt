@@ -410,8 +410,7 @@ goto            @Label_13a0
 @Label_13a0:
 code0309        
 code0479        1, 4, 12
-dialogtxt       "... But first,"
-dialogtxt       "we have to find"
+dialogtxt       "... But first, we have to find"
 dialogtxt       "a way out of this..."
 code0309        
 call            @Func_514c
@@ -753,8 +752,7 @@ goto            @Label_2476
 @Label_2476:
 code0309        
 code0479        1, 4, 12
-dialogtxt       "... But first,"
-dialogtxt       "we have to find"
+dialogtxt       "... But first, we have to find"
 dialogtxt       "a way out of this..."
 code0309        
 call            @Func_514c
@@ -1180,8 +1178,7 @@ goto            @Label_38b0
 @Label_38b0:
 code0309        
 code0479        1, 4, 12
-dialogtxt       "... But first,"
-dialogtxt       "we have to find"
+dialogtxt       "... But first, we have to find"
 dialogtxt       "a way out of this..."
 code0309        
 call            @Func_514c
@@ -1200,8 +1197,8 @@ code0479        0, 4, 13
 call            @Func_50ca
 call            @Func_5010
 dialogtxt       "Yes, it's me..."
-dialogtxt       "I'm glad to know"
-dialogtxt       "you are safe..."
+dialogtxt       "I'm glad to know that you"
+dialogtxt       "are safe..."
 code047b        
 code0309        
 call            @Func_5046
@@ -1444,7 +1441,7 @@ call            @Func_50b2
 code0479        0, 4, 16
 call            @Func_5010
 dialogtxt       "I don't know..."
-dialogtxt       "But it is most likely..."
+dialogtxt       "But most likely..."
 code0309        
 call            @Func_5046
 code0479        1, 4, 16
@@ -1533,8 +1530,7 @@ goto            @Label_49fa
 @Label_49fa:
 code0309        
 code0479        1, 4, 12
-dialogtxt       "... But first,"
-dialogtxt       "we have to find"
+dialogtxt       "... But first, we have to find"
 dialogtxt       "a way out of this..."
 code0309        
 call            @Func_514c

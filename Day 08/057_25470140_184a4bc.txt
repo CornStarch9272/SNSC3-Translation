@@ -212,8 +212,8 @@ goto            @Cond_082e
 
 @Cond_082e:
 jumpz           @Cond_0880, ($b003 == 3)
-dialogtxt       "I heard a loud noise just now,"
-dialogtxt       "is something happening outside?"
+dialogtxt       "I heard a loud noise just now."
+dialogtxt       "Is something happening outside?"
 goto            @Cond_0880
 
 @Cond_0880:

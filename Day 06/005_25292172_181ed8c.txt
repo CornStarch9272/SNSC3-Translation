@@ -427,8 +427,7 @@ code047d        0, 135
 call            @Func_30fe
 call            @Func_2ffa
 dialogtxt       "..."
-dialogtxt       "Is that true?"
-dialogtxt       "Mr Gallahan?"
+dialogtxt       "Is that true, Mr. Gallahan?"
 code047b        
 code0309        
 call            @Func_304e

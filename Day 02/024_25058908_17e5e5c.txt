@@ -91,12 +91,12 @@ code0479        1, 0, 13
 code0479        0, 0, 13
 jumpz           @Cond_04cc, ($b002 == 0)
 dialogtxt       "(Murno looks like she had fun."
-dialogtxt       "　I'm glad it worked out...)"
+dialogtxt       "I'm glad it all worked out...)"
 goto            @Label_050e
 
 @Cond_04cc:
 dialogtxt       "(Murno looks like she had fun."
-dialogtxt       "　I'm glad it worked out...)"
+dialogtxt       "I'm glad it all worked out...)"
 goto            @Label_050e
 
 @Label_050e:
@@ -137,14 +137,14 @@ code0309
 call            @Func_11b2
 code0479        1, 4, 12
 call            @Func_11e8
-dialogtxt       "Not exactly,"
-dialogtxt       "but it was difficult"
+dialogtxt       "Not exactly, but it was difficult"
 dialogtxt       "to stay inside, so..."
 code0309        
 call            @Func_121e
 code0479        0, 2, 14
 call            @Func_117c
-dialogtxt       "*sigh* Bro..."
+dialogtxt       "*sigh*"
+dialogtxt       "Bro..."
 code0309        
 call            @Func_12a2
 call            @Func_11b2
@@ -248,7 +248,6 @@ call            @Func_121e
 code0479        0, 1, 16
 call            @Func_117c
 jumpz           @Cond_0b30, ($b002 == 0)
-dialogtxt       "What..."
 dialogtxt       "You still don't believe me?"
 code0309        
 code0479        0, 2, 12
@@ -257,12 +256,11 @@ dialogtxt       "let's go ask him about it then."
 goto            @Label_0b98
 
 @Cond_0b30:
-dialogtxt       "What..."
 dialogtxt       "You still don't believe me?"
 code0309        
 code0479        0, 2, 12
-dialogtxt       "Alright, well,"
-dialogtxt       "let's go ask him about it then."
+dialogtxt       "Alright, well, let's go ask him"
+dialogtxt       "about it then."
 goto            @Label_0b98
 
 @Label_0b98:

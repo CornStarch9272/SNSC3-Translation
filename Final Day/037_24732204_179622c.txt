@@ -118,7 +118,6 @@ goto            @start
 
 code0301        8, 7
 dialogtxt       "Some kind of message planned."
-dialogtxt       "[TEST MESSAGE]"
 code0309        
 code0302        7
 code040b        
@@ -376,8 +375,8 @@ dialogtxt       "so wholeheartedly..."
 dialogtxt       "I mean, that's nice and all, but..."
 code0309        
 dialogtxt       "If it were me, I think"
-dialogtxt       "Mr. Jade is sooo dreamy~! Oh!"
-dialogtxt       "And Mr. Lemmy is lovely too~...!"
+dialogtxt       "Mr. Jade is sooo dreamy~"
+dialogtxt       "Oh! And Mr. Lemmy is lovely too~"
 code0309        
 jumpz           @Cond_133c, ($f1251 == 0)
 dialogtxt       "You're a Craftknight, aren't you?"
@@ -398,13 +397,13 @@ dialogtxt       "So be reeeaally careful, okay?"
 code0309        
 dialogtxt       "But hey, get this, right now"
 dialogtxt       "I'm selling both materials for"
-dialogtxt       "an amazing... 2000 Boam!"
+dialogtxt       "an amazing... 2000 boam!"
 code0309        
 dialogtxt       "How about it?"
 code0309        
 code047e        0, 0
-choicetxt       @Choice_11dc, "Buy"
-choicetxt       @Choice_12f2, "Don't buy"
+choicetxt       @Choice_11dc, "I'll take it!"
+choicetxt       @Choice_12f2, "I'll pass."
 choicewait      
 
 @Choice_11dc:
@@ -431,8 +430,8 @@ code0445        17, 5
 code0446        17
 code0301        8, 7
 code047e        0, 1
-dialogtxt       "Whaaat!? You make me talk a lot"
-dialogtxt       "but you don't want to buy from me?"
+dialogtxt       "Whaaat!?"
+dialogtxt       "But you don't have enough!"
 dialogtxt       "Cheapskate!"
 code0309        
 goto            @Label_1394
@@ -484,7 +483,7 @@ code040b
 @Event_13f4:
 code0301        8, 7
 dialogtxt       "　"
-dialogtxt       "　　　　　Looking for help!"
+dialogtxt       "　　　　　　　~Oh no!~"
 code0309        
 dialogtxt       "I'm having a hard time trying to"
 dialogtxt       "stock up on spices..."
@@ -503,7 +502,7 @@ code040b
 
 @Event_14c8:
 code0301        8, 7
-dialogtxt       "The Lady of the Bow Support Squad"
+dialogtxt       "The Bow Maiden Fan Club"
 dialogtxt       "has been officially formed!"
 dialogtxt       "We're looking for members!"
 code0309        

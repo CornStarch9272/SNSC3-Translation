@@ -202,7 +202,7 @@ call            @Func_11a6
 call            @Func_1142
 dialogtxt       "Don't joke around about"
 dialogtxt       "making us pay you."
-dialogtxt       "Read the mood."
+dialogtxt       "Read the room."
 code047b        
 code0309        
 call            @Func_1178

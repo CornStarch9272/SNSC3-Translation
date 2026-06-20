@@ -319,7 +319,7 @@ code0479        1, 2, 14
 call            @Func_1b28
 call            @Func_1a90
 dialogtxt       "What?!"
-dialogtxt       "The ruins inside are very dangerous."
+dialogtxt       "The ruins are very dangerous."
 dialogtxt       "You aren't even a Craftknight..."
 code047b        
 code0309        

@@ -80,7 +80,7 @@ gotomap         3151 ; map 18955ec
 code0301        0, 7
 code0305        1
 dialogtxt       "　"
-dialogtxt       "　　　　　　　Closed today!"
+dialogtxt       "　　　　　　Closed today!"
 code0309        
 code0302        7
 code040b        
@@ -344,4 +344,3 @@ dialogtxt       "Want to give the lottery a try?"
 code0309        
 code0302        7
 code040b        
-

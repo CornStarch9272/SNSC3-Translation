@@ -126,7 +126,8 @@ code0309
 call            @Func_3bd4
 code0479        1, 0, 16
 call            @Func_3c0a
-dialogtxt       "I alone am more than enough."
+dialogtxt       "I believe that I alone am"
+dialogtxt       "more than enough for that."
 code0309        
 call            @Func_3c40
 code0479        0, 5, 15
@@ -1115,7 +1116,7 @@ code047d        1, 2
 call            @Func_3c84
 jumpz           @Cond_2dd8, ($b003 == 0)
 call            @Func_3b80
-dialogtxt       "Seems Bro has some "
+dialogtxt       "Seems bro has some "
 dialogtxt       "business with Master."
 dialogtxt       "We should go find them."
 code047b        
@@ -1156,7 +1157,7 @@ goto            @Cond_2dd8
 @Cond_2dd8:
 jumpz           @Cond_3094, ($b003 == 1)
 call            @Func_3b80
-dialogtxt       "Seems Bro has some "
+dialogtxt       "Seems bro has some "
 dialogtxt       "business with Master."
 dialogtxt       "We should go find them."
 code047b        
@@ -1166,13 +1167,13 @@ code0479        1, 2, 16
 call            @Func_3c0a
 dialogtxt       "Let us hurry!"
 dialogtxt       "We don't know what kind of mess this"
-dialogtxt       "Bro person may be causing."
+dialogtxt       "bro person may be causing."
 code0309        
 call            @Func_3c40
 code0479        0, 0, 12
 call            @Func_3b9e
 dialogtxt       "I'm sure it's fine."
-dialogtxt       "Bro and Master are cool."
+dialogtxt       "bro and Master are cool."
 jumpz           @Cond_2f0a, ($b002 == 0)
 dialogtxt       "He's a good person!"
 goto            @Label_2f1e
@@ -1224,7 +1225,7 @@ goto            @Cond_3094
 @Cond_3094:
 jumpz           @Cond_3294, ($b003 == 2)
 call            @Func_3b80
-dialogtxt       "Seems Bro has some "
+dialogtxt       "Seems bro has some "
 dialogtxt       "business with Master."
 dialogtxt       "We should go find them."
 code047b        
@@ -1274,7 +1275,7 @@ goto            @Cond_3294
 @Cond_3294:
 jumpz           @Cond_349c, ($b003 == 3)
 call            @Func_3b80
-dialogtxt       "Seems Bro has some "
+dialogtxt       "Seems bro has some"
 dialogtxt       "business with Master."
 dialogtxt       "We should go find them."
 code047b        

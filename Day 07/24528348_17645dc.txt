@@ -691,20 +691,20 @@ goto            @Cond_1a28
 
 @Cond_1a28:
 jumpz           @Cond_1a72, ($b003 == 1)
-dialogtxt       "Your Bro may"
+dialogtxt       "Your bro may"
 dialogtxt       "do so as well."
 goto            @Cond_1a72
 
 @Cond_1a72:
 jumpz           @Cond_1ac6, ($b003 == 2)
-dialogtxt       "I'm sure your Bro"
+dialogtxt       "I'm sure your bro"
 dialogtxt       "will do the same."
 dialogtxt       "Heh... I'm looking forward to this...."
 goto            @Cond_1ac6
 
 @Cond_1ac6:
 jumpz           @Cond_1b1c, ($b003 == 3)
-dialogtxt       "I'm certain your Bro"
+dialogtxt       "I'm certain your bro"
 dialogtxt       "will put on the scariest"
 dialogtxt       "expression he can manage..."
 goto            @Cond_1b1c

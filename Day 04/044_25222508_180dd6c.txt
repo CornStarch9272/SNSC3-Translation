@@ -29,7 +29,7 @@ dialogtxt       "Miss!"
 goto            @Label_01a0
 
 @Label_01a0:
-dialogtxt       "it's this way!"
+dialogtxt       "It's this way!"
 code047b        
 code0309        
 call            @Func_08a2

@@ -51,7 +51,7 @@ call            @Func_12aa
 code0479        0, 0, 16
 call            @Func_1208
 jumpz           @Cond_02f0, ($b002 == 0)
-dialogtxt       "Ahh, its you."
+dialogtxt       "Oh, its you."
 dialogtxt       "How are you doing?"
 dialogtxt       "Have your wounds healed up?"
 goto            @Label_0332
@@ -67,7 +67,7 @@ code0309
 call            @Func_123e
 code0479        1, 5, 16
 call            @Func_1274
-dialogtxt       "Ah, yeah."
+dialogtxt       "Yeah."
 dialogtxt       "I'm fine now."
 code0309        
 call            @Func_12aa

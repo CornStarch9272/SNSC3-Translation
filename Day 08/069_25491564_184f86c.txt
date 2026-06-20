@@ -61,7 +61,7 @@ code0309
 call            @Func_0dd8
 code0479        0, 4, 12
 call            @Func_0d36
-dialogtxt       "Ah, that..."
+dialogtxt       "Oh, that..."
 dialogtxt       "I'm fine."
 dialogtxt       "Physically."
 code0309        
@@ -107,9 +107,9 @@ code0479        1, 4, 12
 call            @Func_0da2
 dialogtxt       "Poor [NAME 2]..."
 dialogtxt       "But don't worry."
-dialogtxt       "I won't grow to hate you"
 code0309        
 code0479        1, 0, 13
+dialogtxt       "I won't grow to hate you"
 dialogtxt       "over something like that..."
 code0309        
 call            @Func_0dd8

@@ -17,8 +17,7 @@ code0479        1, 0, 14
 code047d        1, 108
 call            @Func_178e
 call            @Func_168a
-dialogtxt       "Ah, Master,"
-dialogtxt       "you're back."
+dialogtxt       "Ah, Master, you're back."
 dialogtxt       "How'd the meeting go?"
 code047b        
 code0309        
@@ -69,9 +68,7 @@ goto            @Label_034c
 code047d        1, 2
 call            @Func_1762
 call            @Func_168a
-dialogtxt       "No,"
-dialogtxt       "big sis Murno"
-dialogtxt       "already left."
+dialogtxt       "No, Ms. Murno already left."
 code047b        
 code0309        
 call            @Func_17b8
@@ -173,7 +170,7 @@ call            @Func_174a
 code0479        0, 4, 16
 call            @Func_16a8
 dialogtxt       "Uh... Um..."
-dialogtxt       "Mr. Jade left to fight Strays,"
+dialogtxt       "My brother left to fight Strays,"
 dialogtxt       "and then, Ms. Murno, umm..."
 code0309        
 call            @Func_17e4
@@ -327,8 +324,8 @@ code031c        8, 1
 code031f        8
 code031c        7, 2
 code031f        7
-dialogtxt       "The rumors say the Stray Summons"
-dialogtxt       "are going berserk because of her..."
+dialogtxt       "The earthquakes, the Strays,"
+dialogtxt       "all of it is caused by one girl."
 code0309        
 code031c        7, 1
 code031f        7
@@ -350,7 +347,7 @@ code031f        7
 code031a        7
 code0479        0, 2, 14
 dialogtxt       "(No way..."
-dialogtxt       "　So she really is...?)"
+dialogtxt       "So she really is...?)"
 code0309        
 call            @Func_16de
 code0333        2, 30
@@ -362,8 +359,7 @@ code0309
 code0334        
 code046e        38, 256, 2
 code0479        1, 2, 15
-dialogtxt       "Split up and"
-dialogtxt       "search the area!"
+dialogtxt       "Split up and search the area!"
 dialogtxt       "Let's go!"
 code0309        
 call            @Func_17e4
@@ -607,4 +603,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-

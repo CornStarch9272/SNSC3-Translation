@@ -250,11 +250,11 @@ ret
 code0301        8, 7
 code047d        0, 120
 code047e        0, 1
-dialogtxt       "Just as when we have so much to do!"
+dialogtxt       "Just when we have so much to do!"
 dialogtxt       "That brat Zakk's parents"
-dialogtxt       "took him back home!"
+dialogtxt       "called him back home!"
 code0309        
-dialogtxt       "The kid's parents took him back"
+dialogtxt       "The kid's parents sent him back"
 dialogtxt       "BECAUSE of his injury, y'know..."
 code0309        
 dialogtxt       "You think Craftknightship"

@@ -144,7 +144,7 @@ code0006        2420
 goto            @Cond_06bc
 
 @Cond_06bc:
-placetxt        "Surange Mine Area 1"
+placetxt        "Surange Mine　Area 1"
 code040b        
 
 setvar          $h096, 47

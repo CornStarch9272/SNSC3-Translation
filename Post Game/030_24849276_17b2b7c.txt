@@ -265,8 +265,8 @@ dialogtxt       "I just can't sit still when"
 dialogtxt       "the weather is perfect today!"
 dialogtxt       "Going outside town's risky, though."
 code0309        
-dialogtxt       "Reasons, I do not need"
-dialogtxt       "Whereto plains and rivers yonder"
+dialogtxt       "Reasons, I do not need."
+dialogtxt       "Whereto plains and rivers yonder."
 dialogtxt       "I travel indeed."
 code0309        
 dialogtxt       "For there is naught a"

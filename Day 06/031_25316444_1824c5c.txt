@@ -252,7 +252,7 @@ call            @Func_15ec
 dialogtxt       "What do I do...?"
 code0309        
 code0479        0, 2, 14
-choicetxt       @Choice_0a30, "Take Tier back to town!"
+choicetxt       @Choice_0a30, "Alright Tier!"
 choicetxt       @Choice_0c40, "I can't, Murno's in danger!"
 choicewait      
 
@@ -261,12 +261,12 @@ setvar          $f0143, 1
 code0479        0, 2, 12
 jumpz           @Cond_0a9a, ($b002 == 0)
 dialogtxt       "I won't leave you"
-dialogtxt       "here alone, Tier."
+dialogtxt       "here alone."
 goto            @Label_0ad4
 
 @Cond_0a9a:
 dialogtxt       "I won't leave you"
-dialogtxt       "here alone, Tier."
+dialogtxt       "here alone."
 goto            @Label_0ad4
 
 @Label_0ad4:
@@ -379,14 +379,12 @@ call            @Func_168e
 code0479        0, 5, 17
 call            @Func_15ec
 jumpz           @Cond_0ff8, ($b002 == 0)
-dialogtxt       "Hey, Tier,"
-dialogtxt       "calm down!"
+dialogtxt       "Hey, Tier, calm down!"
 dialogtxt       "W—Wait!"
 goto            @Label_103c
 
 @Cond_0ff8:
-dialogtxt       "Hey, Tier,"
-dialogtxt       "calm down!"
+dialogtxt       "Hey, Tier, calm down!"
 dialogtxt       "W—Wait!"
 goto            @Label_103c
 

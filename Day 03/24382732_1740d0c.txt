@@ -399,8 +399,8 @@ goto            @Cond_0d98
 
 @Cond_0d98:
 jumpz           @Cond_0ddc, ($b003 == 3)
-dialogtxt       "Now you're suddenly"
-dialogtxt       "back to normal...?"
+dialogtxt       "What happened to your"
+dialogtxt       "injuries...?"
 goto            @Cond_0ddc
 
 @Cond_0ddc:

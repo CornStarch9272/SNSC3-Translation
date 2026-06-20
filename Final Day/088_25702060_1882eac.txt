@@ -122,7 +122,7 @@ code040d        15
 code0479        1, 3, 15
 call            @Func_1772
 call            @Func_16f0
-dialogbig       255, 116, 1, 0, 0, "Uwaa!"
+dialogbig       255, 116, 1, 0, 0, "Waaah!"
 code047b        
 code030c        
 call            @Func_17c8
@@ -233,13 +233,13 @@ goto            @Cond_0982
 
 @Cond_0982:
 jumpz           @Cond_09e2, ($b003 == 2)
-dialogtxt       "What... This awful ill will..."
+dialogtxt       "This awful ill will..."
 dialogtxt       "His body is... being consumed!"
 goto            @Cond_09e2
 
 @Cond_09e2:
 jumpz           @Cond_0a46, ($b003 == 3)
-dialogtxt       "What... This awful power..."
+dialogtxt       "This awful power..."
 dialogtxt       "His body is... being consumed!"
 goto            @Cond_0a46
 
@@ -322,13 +322,13 @@ code0479        0, 2, 15
 call            @Func_175c
 call            @Func_1684
 jumpz           @Cond_0e40, ($b002 == 0)
-dialogtxt       "What is this!"
+dialogtxt       "What is this?"
 dialogtxt       "I'm getting sucked in!?"
 dialogtxt       "[NAME 1]!"
 goto            @Label_0e7c
 
 @Cond_0e40:
-dialogtxt       "What is this!"
+dialogtxt       "What is this?"
 dialogtxt       "I'm getting sucked in!?"
 dialogtxt       "[NAME 1]!"
 goto            @Label_0e7c

@@ -149,7 +149,7 @@ code0309
 call            @Func_3b24
 code0479        1, 2, 14
 call            @Func_3b5a
-dialogtxt       "Some Summon Beast?"
+dialogtxt       "\"Some Summon Beast?\""
 code0309        
 call            @Func_3c2a
 call            @Func_3b78
@@ -723,7 +723,7 @@ call            @Func_3b90
 code043c        5, 2
 code0479        0, 3, 15
 call            @Func_3aee
-dialogtxt       "Had to be done?"
+dialogtxt       "\"Had to be done!?\""
 dialogtxt       "What a joke!"
 goto            @Cond_22ea
 
@@ -750,7 +750,7 @@ call            @Func_3b90
 code043c        5, 2
 code0479        0, 2, 15
 call            @Func_3aee
-dialogtxt       "Had to be done...?"
+dialogtxt       "\"Had to be done!?\""
 dialogtxt       "It did not have to be done!"
 goto            @Cond_241e
 
@@ -862,8 +862,8 @@ code0309
 call            @Func_3b24
 code0479        1, 4, 12
 call            @Func_3b5a
-dialogtxt       "I would, but the Gumag Flame Ruins"
-dialogtxt       "is currently off-limits..."
+dialogtxt       "I would, but the Ghumag Flame Ruins"
+dialogtxt       "are currently off-limits..."
 code0309        
 call            @Func_3bfe
 call            @Func_3b90
@@ -952,14 +952,14 @@ dialogtxt       "called the Room of Judgment."
 dialogtxt       "That would be most fitting..."
 code0309        
 code0479        1, 2, 13
-dialogtxt       "How about a 1 on 1 match with Tram,"
+dialogtxt       "How about a 1-on-1 match with Tram,"
 dialogtxt       "at that place?"
 code0309        
 call            @Func_3b90
 code0479        0, 5, 17
 call            @Func_3aee
 dialogtxt       "The Room of Judgment?"
-dialogtxt       "1 on 1 match!?"
+dialogtxt       "1-on-1 match!?"
 code0309        
 call            @Func_3b24
 code0479        1, 0, 16

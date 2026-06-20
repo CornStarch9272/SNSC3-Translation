@@ -6,8 +6,8 @@ code047e        0, 1
 dialogtxt       "Chopping firewood isn't as"
 dialogtxt       "simple as it looks."
 code0309        
-dialogtxt       "You seem skilled enough."
-dialogtxt       "Want to give it a try?"
+dialogtxt       "Get the fundamentals down and I'll"
+dialogtxt       "let you give it a try."
 code0309        
 code047e        0, 0
 code0302        7
@@ -16,8 +16,8 @@ goto            @Label_0170
 goto            @Cond_00ce
 
 @Cond_00ce:
-menutitle       "Chop firewood?"
-menutxt         @Menu_00fc, "I'll do it!"
+menutitle       "Wanna chop some wood?"
+menutxt         @Menu_00fc, "Yes please!"
 menutxt         @Label_0170, "No thanks."
 menuwait        
 

@@ -69,8 +69,8 @@ goto            @Cond_02f6
 
 @Cond_02f6:
 jumpz           @Cond_033e, ($b003 == 3)
-dialogtxt       "Bro told us earlier"
-dialogtxt       "it's that way!"
+dialogtxt       "Your bro told us earlier"
+dialogtxt       "that it's that way!"
 goto            @Cond_033e
 
 @Cond_033e:

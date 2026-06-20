@@ -36,7 +36,7 @@ code047d        0, 0
 call            @Func_09d8
 call            @Func_0940
 jumpz           @Cond_0178, ($b003 == 0)
-dialogtxt       "That Is!"
+dialogtxt       "Look Over There!"
 goto            @Cond_0178
 
 @Cond_0178:
@@ -51,7 +51,7 @@ goto            @Cond_01b8
 
 @Cond_01b8:
 jumpz           @Cond_01d8, ($b003 == 3)
-dialogtxt       "That is!"
+dialogtxt       "Look over there!"
 goto            @Cond_01d8
 
 @Cond_01d8:
@@ -61,11 +61,11 @@ call            @Func_0994
 code0479        0, 2, 14
 call            @Func_08f2
 jumpz           @Cond_0220, ($b002 == 0)
-dialogtxt       "The one from before!"
+dialogtxt       "That's the one from before!"
 goto            @Label_0238
 
 @Cond_0220:
-dialogtxt       "The Summon Beast from before!"
+dialogtxt       "That's the one from before!"
 goto            @Label_0238
 
 @Label_0238:

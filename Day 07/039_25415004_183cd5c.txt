@@ -54,7 +54,7 @@ code047d        0, 110
 call            @Func_140c
 call            @Func_1334
 dialogtxt       "That's right!"
-dialogtxt       "He must be being deceived!"
+dialogtxt       "They must be deceiving him!"
 code047b        
 code0309        
 code046d        6, 192
@@ -78,11 +78,11 @@ call            @Func_140c
 call            @Func_1334
 dialogtxt       "Wait!"
 jumpz           @Cond_03d2, ($b002 == 0)
-dialogtxt       "What are you...!"
+dialogtxt       "What are you...!?"
 goto            @Label_03ea
 
 @Cond_03d2:
-dialogtxt       "What are you...!"
+dialogtxt       "What are you...!?"
 goto            @Label_03ea
 
 @Label_03ea:
@@ -124,7 +124,7 @@ code043c        2, 1
 code0479        1, 0, 16
 dialogtxt       "If Bostaph was working with"
 dialogtxt       "them, it's not like he would"
-dialogtxt       "just say \"Yup, you got me\"."
+dialogtxt       "just say \"Yup, you got me.\""
 code0309		
 call            @Func_13f4
 code043c        3, 4
@@ -187,7 +187,7 @@ goto            @Cond_085c
 @Cond_085c:
 jumpz           @Cond_089c, ($b003 == 3)
 dialogtxt       "Now that you mention it,"
-dialogtxt       "it might be true. But..."
+dialogtxt       "that might be true. But..."
 goto            @Cond_089c
 
 @Cond_089c:

@@ -95,7 +95,7 @@ code0479        0, 0, 12
 code047d        0, 138
 call            @Func_0ac6
 call            @Func_0a0c
-dialogtxt       "Master looks... Happy."
+dialogtxt       "Master looks... happy."
 code047b        
 code0309        
 call            @Func_0a42

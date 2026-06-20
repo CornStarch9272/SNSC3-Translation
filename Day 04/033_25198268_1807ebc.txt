@@ -88,7 +88,7 @@ dialogtxt       "Uh, yeah, hi."
 code0309        
 code0479        0, 5, 15
 dialogtxt       "Wait, no!"
-dialogtxt       "Your master's—!"
+dialogtxt       "Your master is—!"
 code0309        
 call            @Func_1948
 call            @Func_1858
@@ -376,8 +376,7 @@ code0479        1, 0, 16
 call            @Func_1908
 call            @Func_1870
 jumpz           @Cond_0f9e, ($b002 == 0)
-dialogtxt       "That guy is always"
-dialogtxt       "in a hurry."
+dialogtxt       "That guy is always in a hurry."
 dialogtxt       "Well, let's go."
 goto            @Label_0fe0
 

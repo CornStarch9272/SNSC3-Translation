@@ -43,8 +43,8 @@ call            @Func_39ca
 code0479        1, 5, 12
 call            @Func_3a00
 dialogtxt       "If You Are Going To Talk About"
-dialogtxt       "Milady's Whereabouts, This Isn't."
-dialogtxt       "The Time. Keep Looking For Her."
+dialogtxt       "Lady Murno's Whereabouts,"
+dialogtxt       "This Isn't The Time."
 code0309        
 call            @Func_3a36
 code0479        0, 2, 16
@@ -169,7 +169,7 @@ code0479        1, 4, 14
 call            @Func_3a00
 dialogtxt       "I have bad feeling about this..."
 dialogtxt       "I really hope, just this once,"
-dialogtxt       "that my gut is wrong all along..."
+dialogtxt       "that my gut is wrong..."
 code0309        
 call            @Func_3a36
 code0479        0, 2, 16
@@ -229,8 +229,8 @@ call            @Func_39ca
 code0479        1, 4, 12
 call            @Func_3a00
 dialogtxt       "There Is A Lack Of Data..."
-dialogtxt       "But Judging By Wellman's Condition"
-dialogtxt       "He Can't Have Gotten Far..."
+dialogtxt       "But Judging By Mr. Wellman's"
+dialogtxt       "Condition, He Can't Have Gotten Far..."
 code0309        
 call            @Func_3a36
 code0479        0, 2, 16
@@ -261,9 +261,9 @@ code0309
 call            @Func_39ca
 code0479        1, 2, 14
 call            @Func_3a00
-dialogtxt       "Perhaps it's just me, but Wellman"
-dialogtxt       "acted a bit unusual there...I"
-dialogtxt       "hope nothing bad happened to him..."
+dialogtxt       "It may be just me, but Lord Wellman"
+dialogtxt       "acted a bit unusual there..."
+dialogtxt       "I hope nothing bad happened to him..."
 code0309        
 call            @Func_3a36
 code0479        0, 2, 16
@@ -319,7 +319,7 @@ code0309
 call            @Func_39ca
 code0479        1, 4, 14
 call            @Func_3a00
-dialogtxt       "I noticed Master Wellman was acting"
+dialogtxt       "I noticed Mr. Wellman was acting"
 dialogtxt       "very strange back there..."
 dialogtxt       "I'm worried about him..."
 code0309        
@@ -778,8 +778,8 @@ call            @Func_39ca
 code0479        1, 5, 14
 call            @Func_3a00
 dialogtxt       "Oh... What's the matter?"
-dialogtxt       "[NAME 2], I was certain"
-dialogtxt       "you're right on where Milady is..."
+dialogtxt       "[NAME 2], I was certain you're"
+dialogtxt       "right on where Lady Murno is..."
 code0309        
 call            @Func_3a36
 code0479        0, 2, 12
@@ -801,7 +801,7 @@ code0309
 call            @Func_39ca
 code0479        1, 2, 12
 call            @Func_3a00
-dialogtxt       "...Yes."
+dialogtxt       "... Yes."
 code0309        
 call            @Func_3ad0
 call            @Func_3a1e
@@ -1071,9 +1071,9 @@ code0309
 call            @Func_39ca
 code0479        1, 2, 14
 call            @Func_3a00
-dialogtxt       "It used to be a beautiful village,"
-dialogtxt       "and I want to tell you more, but"
-dialogtxt       "we have no time. We have to..."
+dialogtxt       "It was such a beautiful village..."
+dialogtxt       "I'd love to tell you more,"
+dialogtxt       "but we have no time."
 code0309        
 call            @Func_3a36
 code0479        0, 2, 14

@@ -53,8 +53,8 @@ code047b
 code0309        
 call            @Func_08e6
 call            @Func_0844
-choicetxt       @Choice_0240, "Fight"
-choicetxt       @Choice_025a, "Don't fight"
+choicetxt       @Choice_0240, "Let's fight now!"
+choicetxt       @Choice_025a, "Let's fight later."
 choicewait      
 
 @Choice_0240:

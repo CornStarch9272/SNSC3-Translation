@@ -35,7 +35,7 @@ code0479        1, 0, 12
 code047d        1, 108
 call            @Func_1136
 call            @Func_109e
-dialogtxt       "See, go through here,"
+dialogtxt       "See? Go through here,"
 dialogtxt       "and you'll be at Prosban."
 code047b        
 code0309        
@@ -70,11 +70,11 @@ call            @Func_10f2
 code0479        0, 2, 14
 call            @Func_1050
 jumpz           @Cond_03de, ($b002 == 0)
-dialogtxt       "I wonder who's fault that is...?"
+dialogtxt       "I wonder WHO's fault that is"
 goto            @Label_040c
 
 @Cond_03de:
-dialogtxt       "I wonder who's fault that is...?"
+dialogtxt       "I wonder WHO's fault that is?"
 goto            @Label_040c
 
 @Label_040c:

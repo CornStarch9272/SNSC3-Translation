@@ -104,7 +104,7 @@ code0309
 call            @Func_1b16
 call            @Func_1a64
 code047b        
-popuptxt        "Got your hammer and a broken sword!"
+popuptxt        " Got your hammer and a broken sword!"
 code0318        
 code040d        5
 code046d        0, 192
@@ -493,11 +493,10 @@ goto            @Cond_1268
 
 @Cond_1268:
 jumpz           @Cond_12f4, ($b003 == 3)
-dialogtxt       "Hii!"
 dialogtxt       "U—Understood!"
 code0309        
 code0479        0, 4, 16
-dialogtxt       "(Uu..."
+dialogtxt       "(Uwah..."
 dialogtxt       "He's scary...)"
 code0309        
 call            @Func_1b16
@@ -522,7 +521,6 @@ code0479        1, 2, 12
 code047d        1, 136
 call            @Func_1aaa
 call            @Func_1a28
-dialogtxt       "Okay,"
 dialogtxt       "Now give it a shot."
 code047b        
 code0309        

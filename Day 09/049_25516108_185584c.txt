@@ -167,7 +167,7 @@ code0333        2, 30
 code047d        0, 106
 code0301        8, 0
 code047e        0, 1
-dialogtxt       "You bastards..."
+dialogtxt       "You jerks..."
 code0309        
 code047e        0, 0
 code0302        0
@@ -222,7 +222,6 @@ code0479        0, 0, 12
 code047d        0, 116
 call            @Func_1a7c
 code0479        1, 2, 12
-dialogtxt       "Bastards..."
 dialogtxt       "First you mess up"
 dialogtxt       "the workshop,"
 code047b        
@@ -301,13 +300,13 @@ code0331        5, 256
 code0479        0, 2, 14
 call            @Func_19c2
 jumpz           @Cond_0e4a, ($b002 == 0)
-dialogtxt       "Sorry, Bro..."
+dialogtxt       "Sorry, bro..."
 dialogtxt       "But, I want you to leave"
 dialogtxt       "that Gillan guy to me."
 goto            @Label_0e9c
 
 @Cond_0e4a:
-dialogtxt       "Sorry, Bro..."
+dialogtxt       "Sorry, bro..."
 dialogtxt       "But, I want you to leave"
 dialogtxt       "that Gillan guy to me."
 goto            @Label_0e9c
@@ -324,7 +323,7 @@ code0479        0, 2, 16
 call            @Func_19c2
 dialogtxt       "My master may be a Summon Beast."
 dialogtxt       "She's also messy, violent,"
-dialogtxt       "and foul mouthed, but..."
+dialogtxt       "and foul-mouthed, but..."
 code0309        
 call            @Func_1ae8
 call            @Func_19f8
@@ -395,8 +394,7 @@ code0479        0, 8, 14
 code047d        0, 108
 call            @Func_1a7c
 call            @Func_19c2
-dialogtxt       "Sh—Shut up,"
-dialogtxt       "idiot..."
+dialogtxt       "Sh—Shut up, idiot..."
 code047b        
 code0309        
 call            @Func_19f8
@@ -416,8 +414,8 @@ code047d        0, 115
 call            @Func_1a7c
 call            @Func_19c2
 dialogtxt       "Damn you!"
-dialogtxt       "Stop making fun of my hair!"
-dialogtxt       "This time, I'll bash your head in!"
+dialogtxt       "Don't make fun of my hair!"
+dialogtxt       "I'll bash your head in!"
 code047b        
 code0309        
 call            @Func_1ad2

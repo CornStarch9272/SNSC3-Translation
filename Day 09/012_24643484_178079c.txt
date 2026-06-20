@@ -57,8 +57,7 @@ goto            @start
 code0301        8, 7
 code047d        0, 135
 code047e        0, 1
-dialogtxt       "Seems like the Phantom Dragon"
-dialogtxt       "is acting up..."
+dialogtxt       "Seems like Genryuuki is acting up..."
 dialogtxt       "Hope nothing bad happens..."
 code0309        
 code047e        0, 0

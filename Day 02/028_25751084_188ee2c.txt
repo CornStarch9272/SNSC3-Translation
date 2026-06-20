@@ -174,7 +174,7 @@ code0309
 code047e        0, 0
 code0302        7
 code0366        507, 1
-popuptxt        "You found the lost cat!"
+popuptxt        " Found the lost kitty!"
 code0318        
 code043b        15
 code0439        15

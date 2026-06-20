@@ -71,7 +71,7 @@ call            @Func_0ed6
 code0479        1, 0, 16
 call            @Func_0f0c
 dialogtxt       "I don't think Ms. Ianna"
-dialogtxt       "will give you money,"
+dialogtxt       "will give you a single boam,"
 dialogtxt       "but feel free to try."
 code0309        
 call            @Func_0fdc
@@ -206,8 +206,7 @@ code0479        0, 0, 12
 code047d        0, 132
 call            @Func_0f5a
 call            @Func_0e82
-dialogtxt       "Come,"
-dialogtxt       "this way."
+dialogtxt       "Come, this way."
 code047b        
 code0309        
 call            @Func_0fb0

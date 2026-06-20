@@ -48,7 +48,7 @@ code0479        1, 0, 16
 code047d        1, 135
 call            @Func_0b58
 call            @Func_0ac0
-dialogtxt       "That Phantom Dragon's actions seems to"
+dialogtxt       "Genryuuki's actions seem to"
 dialogtxt       "have become a big problem..."
 code047b        
 code0309        
@@ -101,8 +101,8 @@ code047b
 code0309        
 call            @Func_0b14
 call            @Func_0a72
-choicetxt       @Cond_0464, "Fight"
-choicetxt       @Choice_047e, "Don't fight"
+choicetxt       @Cond_0464, "Let's fight now!"
+choicetxt       @Choice_047e, "Let's fight later."
 choicewait      
 
 goto            @Cond_0464

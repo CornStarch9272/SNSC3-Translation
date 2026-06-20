@@ -223,9 +223,9 @@ code040b
 
 @Event_0a64:
 code0301        8, 7
-dialogtxt       "A lady's secret lies beyond here◎"
+dialogtxt       "A lady's secret lies beyond here ◎"
 dialogtxt       "NO TRESPASSING!!!"
-dialogtxt       "　　　　　　　　　　　—Tier"
+dialogtxt       "　　　　　　　　　　　　　—Tier"
 code0309        
 code0302        7
 code040b        
@@ -446,16 +446,16 @@ dialogtxt       "Oh, that hammer..."
 dialogtxt       "You must be a Craftknight."
 code0309        
 dialogtxt       "I'm traveling with my daughter."
-dialogtxt       "She's not here now though;"
-dialogtxt       "probably out playing somewhere."
+dialogtxt       "She's not here now though."
+dialogtxt       "Probably out playing somewhere."
 code0309        
-dialogtxt       "I know a lot about Smithing,"
+dialogtxt       "I know a lot about smithing,"
 dialogtxt       "so feel free to ask anything."
 code0309        
 code047e        0, 0
-choicetxt       @Choice_14a4, "About manufacturing..."
-choicetxt       @Choice_15b6, "About smithing ranks..."
-choicetxt       @Choice_16dc, "I'm fine for now."
+choicetxt       @Choice_14a4, "Teach me about crafting."
+choicetxt       @Choice_15b6, "Teach me about crafting ranks."
+choicetxt       @Choice_16dc, "Sorry, but not right now."
 choicewait      
 
 @Choice_14a4:
@@ -503,4 +503,3 @@ code040b
 setvar          $bv031, 2
 code0006        3916
 code040b        
-

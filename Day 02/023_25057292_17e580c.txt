@@ -18,8 +18,7 @@ call            @Func_10aa
 call            @Func_0fa6
 jumpz           @Cond_0138, ($b002 == 0)
 dialogtxt       "You guys again?"
-dialogtxt       "What is it?"
-dialogtxt       "We're busy."
+dialogtxt       "What is it? We're busy."
 goto            @Label_0172
 
 @Cond_0138:
@@ -34,9 +33,9 @@ code0309
 call            @Func_0ffa
 code0479        1, 0, 13
 call            @Func_1030
-dialogtxt       "It looks like the"
-dialogtxt       "Stray's apprentice is"
-dialogtxt       "going around hunting Strays."
+dialogtxt       "It looks like the Stray's"
+dialogtxt       "apprentice is going around"
+dialogtxt       "hunting Strays."
 code0309        
 code0479        0, 0, 16
 code0479        1, 4, 12
@@ -110,7 +109,7 @@ goto            @Cond_0458
 @Cond_0458:
 jumpz           @Cond_04a2, ($b003 == 3)
 dialogtxt       "My..."
-dialogtxt       "You were in a hurry"
+dialogtxt       "You were in such a hurry"
 dialogtxt       "just a moment ago."
 goto            @Cond_04a2
 
@@ -168,7 +167,7 @@ code0309
 call            @Func_0ffa
 code0479        1, 2, 15
 call            @Func_1030
-dialogtxt       "Huhh!?"
+dialogtxt       "Huh!?"
 dialogtxt       "You're just a Stray's apprentice,"
 dialogtxt       "don't get so full of yourself!"
 code0309        

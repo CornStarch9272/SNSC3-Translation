@@ -280,13 +280,13 @@ code0479        0, 2, 15
 call            @Func_3880
 jumpz           @Cond_0c08, ($b002 == 0)
 dialogtxt       "I said I know!"
-dialogtxt       "I won't let this Phantom Dragon"
+dialogtxt       "I won't let that Summon Beast"
 dialogtxt       "eat Murno!"
 goto            @Label_0c54
 
 @Cond_0c08:
 dialogtxt       "I said I know!"
-dialogtxt       "I won't let this Phantom Dragon"
+dialogtxt       "I won't let that Summon Beast"
 dialogtxt       "eat Murno!"
 goto            @Label_0c54
 
@@ -325,13 +325,13 @@ code0479        0, 2, 12
 call            @Func_3880
 jumpz           @Cond_0e16, ($b002 == 0)
 dialogtxt       "I said I know!"
-dialogtxt       "I won't let this Phantom Dragon"
+dialogtxt       "I won't let that Summon Beast"
 dialogtxt       "eat Murno!"
 goto            @Label_0e62
 
 @Cond_0e16:
 dialogtxt       "I said I know!"
-dialogtxt       "I won't let this Phantom Dragon"
+dialogtxt       "I won't let that Summon Beast"
 dialogtxt       "eat Murno!"
 goto            @Label_0e62
 
@@ -370,13 +370,13 @@ code0479        0, 2, 12
 call            @Func_3880
 jumpz           @Cond_102e, ($b002 == 0)
 dialogtxt       "Of course I can!"
-dialogtxt       "I won't let this Phantom Dragon"
+dialogtxt       "I won't let that Summon Beast"
 dialogtxt       "eat Murno!"
 goto            @Label_107a
 
 @Cond_102e:
 dialogtxt       "Of course I can!"
-dialogtxt       "I won't let this Phantom Dragon"
+dialogtxt       "I won't let that Summon Beast"
 dialogtxt       "eat Murno!"
 goto            @Label_107a
 
@@ -406,7 +406,7 @@ code0309
 call            @Func_38b6
 code0479        1, 2, 14
 call            @Func_38ec
-dialogtxt       "Lady Murno must be at this Rekui"
+dialogtxt       "Lady Murno must be at the Rekui"
 dialogtxt       "Water Ruins outside the village."
 dialogtxt       "We must move carefully."
 code0309        
@@ -415,13 +415,13 @@ code0479        0, 2, 12
 call            @Func_3880
 jumpz           @Cond_1240, ($b002 == 0)
 dialogtxt       "I said I know!"
-dialogtxt       "I won't let this Phantom Dragon"
+dialogtxt       "I won't let that Summon Beast"
 dialogtxt       "eat Murno!"
 goto            @Label_128c
 
 @Cond_1240:
 dialogtxt       "I said I know!"
-dialogtxt       "I won't let this Phantom Dragon"
+dialogtxt       "I won't let that Summon Beast"
 dialogtxt       "eat Murno!"
 goto            @Label_128c
 

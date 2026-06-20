@@ -426,7 +426,7 @@ call            @Func_3f3c
 jumpz           @Cond_10be, ($b003 == 0)
 call            @Func_3e38
 dialogtxt       "The Room of Judgment"
-dialogtxt       "within the Gumag Flame Ruins..."
+dialogtxt       "within the Ghumag Flame Ruins..."
 code047b        
 code0309        
 call            @Func_3e8c
@@ -457,7 +457,7 @@ goto            @Cond_10be
 jumpz           @Cond_11aa, ($b003 == 1)
 call            @Func_3e38
 dialogtxt       "The Room of Judgment"
-dialogtxt       "within the Gumag Flame Ruins..."
+dialogtxt       "within the Ghumag Flame Ruins..."
 code047b        
 code0309        
 call            @Func_3e8c
@@ -488,7 +488,7 @@ goto            @Cond_11aa
 jumpz           @Cond_12d0, ($b003 == 2)
 call            @Func_3e38
 dialogtxt       "The Room of Judgment"
-dialogtxt       "within the Gumag Flame Ruins..."
+dialogtxt       "within the Ghumag Flame Ruins..."
 code047b        
 code0309        
 call            @Func_3e8c
@@ -521,7 +521,7 @@ goto            @Cond_12d0
 jumpz           @Cond_13c6, ($b003 == 3)
 call            @Func_3e38
 dialogtxt       "The Room of Judgment"
-dialogtxt       "within the Gumag Flame Ruins..."
+dialogtxt       "within the Ghumag Flame Ruins..."
 code047b        
 code0309        
 call            @Func_3e8c

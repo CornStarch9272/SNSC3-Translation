@@ -360,7 +360,7 @@ code0334
 code0331        39, 256
 code0479        1, 2, 14
 call            @Func_26ce
-dialogtxt       "Why, you say..."
+dialogtxt       "What, you say..."
 dialogtxt       "Are you trying to test"
 dialogtxt       "my authenticity too?"
 code0309        
@@ -525,7 +525,7 @@ code0334
 code0331        39, 256
 code0479        1, 2, 14
 call            @Func_26ce
-dialogtxt       "Why, you say..."
+dialogtxt       "What, you say..."
 dialogtxt       "Are you trying to test"
 dialogtxt       "my authenticity too?"
 code0309        
@@ -623,14 +623,14 @@ call            @Func_2748
 call            @Func_2644
 jumpz           @Cond_1dcc, ($b002 == 0)
 dialogtxt       "Murno..."
-dialogtxt       "You're Voijin's accomplice...?"
-dialogtxt       "Wha... What are you saying...?"
+dialogtxt       "You're Voijin's accomplice!?"
+dialogtxt       "What are you saying!?"
 goto            @Label_1e14
 
 @Cond_1dcc:
 dialogtxt       "Murno..."
-dialogtxt       "You're Voijin's accomplice...?"
-dialogtxt       "Wha... What are you saying...?"
+dialogtxt       "You're Voijin's accomplice!?"
+dialogtxt       "What are you saying!?"
 goto            @Label_1e14
 
 @Label_1e14:

@@ -948,7 +948,7 @@ code0479        1, 2, 14
 call            @Func_3ea8
 dialogtxt       "That presence..."
 dialogtxt       "Could not have been stronger than"
-dialogtxt       "your Bro, that much is true."
+dialogtxt       "your bro, that much is true."
 code0309        
 call            @Func_3f4c
 call            @Func_3ede
@@ -1049,7 +1049,7 @@ call            @Func_3e72
 code0479        1, 0, 16
 call            @Func_3ea8
 dialogtxt       "Yes..."
-dialogtxt       "Ruling out your Bro,"
+dialogtxt       "Ruling out your bro,"
 dialogtxt       "who else could it be?"
 code0309        
 call            @Func_3f4c

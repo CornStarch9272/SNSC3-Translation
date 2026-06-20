@@ -34,12 +34,12 @@ code0331        37, 256
 code0479        0, 2, 16
 call            @Func_257c
 jumpz           @Cond_01d0, ($b002 == 0)
-dialogtxt       "Damn you...!"
+dialogtxt       "Y—You!"
 goto            @Label_01f8
 
 @Cond_01d0:
 dialogtxt       "Wait..."
-dialogtxt       "Why are you still!?"
+dialogtxt       "How are you still!?"
 goto            @Label_01f8
 
 @Label_01f8:
@@ -71,7 +71,7 @@ call            @Func_264c
 call            @Func_25ca
 dialogtxt       "If you really want to beat me,"
 dialogtxt       "try hitting me harder!"
-dialogtxt       "Come on! Right here! Do it!"
+dialogtxt       "COME ON! RIGHT HERE! DO IT!"
 code047b        
 code0309        
 call            @Func_261e
@@ -144,8 +144,8 @@ call            @Func_25b2
 code0479        1, 2, 13
 call            @Func_25e8
 dialogtxt       "Is that all!?"
-dialogtxt       "Hit me more!"
-dialogtxt       "Hit me!"
+dialogtxt       "Hit me MORE!"
+dialogtxt       "HIT ME!"
 code0309        
 call            @Func_268c
 call            @Func_261e
@@ -156,12 +156,12 @@ code047d        0, 0
 call            @Func_2636
 call            @Func_257c
 jumpz           @Cond_0662, ($b002 == 0)
-dialogtxt       "W—Wait...!"
+dialogtxt       "W—Wait!"
 dialogtxt       "I...!"
 goto            @Label_068a
 
 @Cond_0662:
-dialogtxt       "W—Wait...!"
+dialogtxt       "W—Wait!"
 dialogtxt       "I...!"
 goto            @Label_068a
 
@@ -223,7 +223,7 @@ code0479        1, 2, 15
 code047d        1, 108
 call            @Func_264c
 call            @Func_25ca
-dialogbig       255, 116, 1, 0, 0, "What are you doing?!"
+dialogbig       255, 116, 1, 0, 0, "What are you doing!?"
 code047b        
 code030c        
 call            @Func_26a2
@@ -313,7 +313,7 @@ call            @Func_261e
 code0479        0, 0, 16
 call            @Func_257c
 dialogtxt       "Yeah!"
-dialogtxt       "... Er, what about Chief Benson?"
+dialogtxt       "... Er, what about Master Benson?"
 code0309        
 call            @Func_25b2
 code0479        1, 0, 13
@@ -441,7 +441,7 @@ code0479        1, 2, 13
 call            @Func_25e8
 dialogtxt       "Rejoice..."
 dialogtxt       "Your wish is coming true."
-dialogtxt       "I'm gonna beat the shit out of you."
+dialogtxt       "I'm gonna beat the crap out of you."
 code0309        
 call            @Func_268c
 call            @Func_261e

@@ -109,7 +109,7 @@ code0439        2
 goto            @Cond_0530
 
 @Cond_0530:
-placetxt        "Rekui Water Ruins Area 2"
+placetxt        "Rekui Water Ruins　Area 2"
 code040b        
 
 @Event_054e:

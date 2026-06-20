@@ -25,13 +25,13 @@ call            @Func_1330
 jumpz           @Cond_018e, ($f0137 == 0)
 setvar          $f0137, 1
 dialogtxt       "Master?!"
-dialogtxt       "You too, Bro!?"
+dialogtxt       "You too, bro!?"
 dialogtxt       "Why are you here!?"
 goto            @Label_020e
 
 @Cond_018e:
 dialogtxt       "Master?!"
-dialogtxt       "You too, Bro!?"
+dialogtxt       "You too, bro!?"
 dialogtxt       "Why are you here!?"
 code047b        
 code0309        
@@ -198,8 +198,8 @@ call            @Func_134e
 dialogtxt       "But..."
 code0309        
 code0479        0, 4, 14
-choicetxt       @Choice_0908, "Do as they say"
-choicetxt       @Choice_0b0e, "Continue onward"
+choicetxt       @Choice_0908, "Okay. We'll head back."
+choicetxt       @Choice_0b0e, "No! WE have to protect Murno!"
 choicewait      
 
 @Choice_0908:

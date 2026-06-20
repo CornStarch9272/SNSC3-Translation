@@ -10,7 +10,7 @@ code043e        0, 3, 0
 code047d        0, 108
 code0301        8, 0
 code047e        0, 1
-dialogtxt       "Hey, Murno."
+dialogtxt       "Heeey, Murno."
 dialogtxt       "It's about time to go."
 code0309        
 code047e        0, 0
@@ -75,7 +75,7 @@ call            @Func_4148
 call            @Func_408e
 jumpz           @Cond_039c, ($b003 == 0)
 dialogtxt       "On That Subject,"
-dialogtxt       "What Is Her Condition...?"
+dialogtxt       "What Is Her Condition?"
 goto            @Cond_039c
 
 @Cond_039c:
@@ -86,13 +86,13 @@ goto            @Cond_03d8
 
 @Cond_03d8:
 jumpz           @Cond_040e, ($b003 == 2)
-dialogtxt       "Meaning, her fever's gone...?"
+dialogtxt       "Meaning, her fever's gone?"
 goto            @Cond_040e
 
 @Cond_040e:
 jumpz           @Cond_044c, ($b003 == 3)
 dialogtxt       "Speaking of which,"
-dialogtxt       "how is her fever...?"
+dialogtxt       "how is her fever?"
 goto            @Cond_044c
 
 @Cond_044c:
@@ -198,8 +198,8 @@ code0309
 call            @Func_40c4
 code0479        1, 2, 14
 call            @Func_40fa
-dialogtxt       "Not 'you', it's 'Master'..."
-dialogtxt       "And you got a problem with that?"
+dialogtxt       "What?"
+dialogtxt       "You got a problem with that?"
 goto            @Cond_08cc
 
 @Cond_08cc:
@@ -233,8 +233,8 @@ code047d        0, 108
 call            @Func_4148
 call            @Func_4148
 call            @Func_4070
-dialogtxt       "Ready?"
-dialogtxt       "Come here."
+dialogtxt       "Are you ready?"
+dialogtxt       "Come on out."
 code047b        
 code0309        
 call            @Func_419e
@@ -719,7 +719,7 @@ code0309
 call            @Func_4130
 code0479        0, 0, 16
 call            @Func_408e
-dialogtxt       "Why...?"
+dialogtxt       "Why is that?"
 code0309        
 call            @Func_40c4
 code0479        1, 0, 16
@@ -755,8 +755,8 @@ code0479        0, 0, 14
 code047d        0, 0
 call            @Func_4174
 call            @Func_40dc
-dialogtxt       "If you were a Craftknight,"
-dialogtxt       "there'd be no problem,"
+dialogtxt       "If Murno was a Craftknight,"
+dialogtxt       "there would be no problem,"
 dialogtxt       "but you don't really look like one."
 code047b        
 code0309        
@@ -928,7 +928,7 @@ call            @Func_415e
 call            @Func_40fa
 dialogtxt       "Returning to the issue at hand..."
 dialogtxt       "The story needs a twist too."
-dialogtxt       "Make it more convincing."
+dialogtxt       "To make it more convincing."
 code047b        
 code0309        
 call            @Func_4130
@@ -978,8 +978,8 @@ code0309
 call            @Func_40c4
 code0479        1, 2, 12
 call            @Func_40fa
-dialogtxt       "So, the setting I made up..."
-dialogtxt       "Is this!"
+dialogtxt       "So, THIS is the setting I "
+dialogtxt       "came up with!"
 code0309        
 call            @Func_4130
 jumpz           @Cond_28f6, ($b003 == 0)
@@ -1080,7 +1080,7 @@ dialogtxt       "Until just recently, I worked"
 dialogtxt       "as a maid in a rich household."
 code0309        
 code0479        1, 0, 16
-dialogtxt       "The Mistress was very strict,"
+dialogtxt       "The mistress was very strict,"
 dialogtxt       "so I had a really hard time."
 code0309        
 code0479        1, 1, 12
@@ -1099,7 +1099,7 @@ dialogtxt       "He really was too kind..."
 dialogtxt       "I became entranced with him..."
 code0309        
 code0479        1, 10, 16
-dialogtxt       "And we...fell in love..."
+dialogtxt       "And we... fell in love..."
 code0309        
 call            @Func_419e
 call            @Func_4130
@@ -1153,7 +1153,7 @@ call            @Func_40c4
 code0479        1, 4, 16
 call            @Func_40fa
 dialogtxt       "But, that love was not to last long."
-dialogtxt       "The Mistress found out and"
+dialogtxt       "The mistress found out and"
 dialogtxt       "exiled me from their household."
 code0309        
 code0479        1, 4, 14
@@ -1162,9 +1162,9 @@ dialogtxt       "I wandered about aimlessly"
 dialogtxt       "until I found this village."
 code0309        
 code0479        1, 0, 12
-dialogtxt       "I came across V.E,"
-dialogtxt       "who very kindly decided"
-dialogtxt       "to hire me as an assistant."
+dialogtxt       "I came across V.E, who very"
+dialogtxt       "kindly decided to hire me as"
+dialogtxt       "an assistant."
 code0309        
 call            @Func_419e
 call            @Func_4130
@@ -1196,12 +1196,12 @@ code0309
 code043c        0, 1
 code043c        1, 1
 code0479        1, 4, 16
-dialogtxt       "If you force her to speak"
-dialogtxt       "it'll only bring more pain..."
-dialogtxt       "For Murno, and her beloved..."
+dialogtxt       "If you force her to speak, it"
+dialogtxt       "will only bring about more pain..."
+dialogtxt       "For Murno, and for her beloved..."
 code0309        
 code0479        1, 7, 15
-dialogtxt       "It's too much!"
+dialogtxt       "It's too much for anyone to bear!"
 code0309        
 call            @Func_4130
 code0479        0, 4, 16
@@ -1267,7 +1267,7 @@ call            @Func_4130
 code0479        0, 1, 16
 call            @Func_4148
 call            @Func_408e
-dialogtxt       "Ummm... Hello~..."
+dialogtxt       "Ummm, hello~"
 code047b        
 code0309        
 call            @Func_40c4
@@ -1292,7 +1292,7 @@ code0309
 call            @Func_4130
 code0479        0, 5, 16
 call            @Func_408e
-dialogtxt       "The... whole world...?"
+dialogtxt       "The... whole world?"
 code0309        
 call            @Func_40c4
 code0479        1, 1, 13
@@ -1402,13 +1402,11 @@ code0479        0, 2, 14
 call            @Func_4148
 call            @Func_408e
 jumpz           @Cond_3a88, ($b002 == 0)
-dialogtxt       "Are they..."
-dialogtxt       "Really going to be okay...?"
+dialogtxt       "Are they going to be okay?"
 goto            @Label_3ab6
 
 @Cond_3a88:
-dialogtxt       "Are they..."
-dialogtxt       "Really going to be okay...?"
+dialogtxt       "Are they going to be okay?"
 goto            @Label_3ab6
 
 @Label_3ab6:

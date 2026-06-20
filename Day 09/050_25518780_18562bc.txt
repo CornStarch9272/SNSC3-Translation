@@ -8,12 +8,14 @@ code047d        1, 116
 call            @Func_1c92
 call            @Func_1b8e
 jumpz           @Cond_00c6, ($b002 == 0)
-dialogtxt       "How's that! You understand now!?"
+dialogtxt       "How's that!?"
+dialogtxt       "Now do you understand?"
 dialogtxt       "There's no way Master's wrong!"
 goto            @Label_0108
 
 @Cond_00c6:
-dialogtxt       "Well, you understand now!?"
+dialogtxt       "How's that!?"
+dialogtxt       "Now do you understand?"
 dialogtxt       "There's no way Master's wrong!"
 goto            @Label_0108
 
@@ -37,9 +39,8 @@ code0479        0, 4, 14
 code047d        0, 115
 call            @Func_1c92
 call            @Func_1bfa
-dialogtxt       "Now do you understand"
-dialogtxt       "just how useless you are?"
-dialogtxt       "What about you?"
+dialogtxt       "Now do you see just how"
+dialogtxt       "useless you are?"
 code047b        
 code0309        
 call            @Func_1c4e
@@ -86,7 +87,7 @@ code0479        1, 2, 15
 call            @Func_1c18
 dialogtxt       "Apologize!?"
 dialogtxt       "Don't screw with me!"
-dialogtxt       "Why do I have to..."
+dialogtxt       "Why do I have to—"
 code0309        
 call            @Func_1ce8
 call            @Func_1c36
@@ -99,7 +100,7 @@ code0479        1, 3, 12
 code047d        1, 132
 call            @Func_1c7c
 call            @Func_1bfa
-dialogtxt       "Apologize..."
+dialogtxt       "Apologize."
 code047b        
 code0309        
 call            @Func_1c4e
@@ -273,7 +274,7 @@ code0479        0, 5, 17
 call            @Func_1c66
 code047c        0, 2
 call            @Func_1b8e
-dialogtxt       "Ah!"
+dialogtxt       "Aaaaaaaaahhhhh!"
 code047b        
 code0309        
 call            @Func_1be2
@@ -294,7 +295,7 @@ call            @Func_1c66
 call            @Func_1bac
 dialogtxt       "Y—You!"
 dialogtxt       "What did you do!?"
-dialogtxt       "Did you just kick his—!?"
+dialogtxt       "Did you just kick his—"
 code047b        
 code0309        
 call            @Func_1be2
@@ -303,7 +304,6 @@ code0479        1, 4, 12
 call            @Func_1c18
 dialogtxt       "It's fine, he wasn't"
 dialogtxt       "gonna use it anyway."
-dialogtxt       "There's no issue here."
 code0309        
 call            @Func_1cbc
 call            @Func_1c4e

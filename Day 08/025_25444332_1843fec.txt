@@ -30,7 +30,7 @@ code0479        0, 0, 16
 code047d        0, 0
 call            @Func_13ca
 call            @Func_12f2
-dialogtxt       "Um, Master?"
+dialogtxt       "Um, Master Benson?"
 code047b        
 code0309        
 call            @Func_1346
@@ -214,7 +214,7 @@ code030c
 code0479        1, 2, 14
 code0479        0, 4, 16
 jumpz           @Cond_0898, ($b002 == 0)
-dialogtxt       "No good..."
+dialogtxt       "No good, huh..."
 goto            @Label_08aa
 
 @Cond_0898:

@@ -354,8 +354,8 @@ dialogtxt       "come along as a Craftknight?"
 dialogtxt       "Come on, I wanna know!"
 code0309        
 code047e        0, 0
-choicetxt       @Choice_0f86, "Tell her"
-choicetxt       @Choice_16c6, "Don't tell her"
+choicetxt       @Choice_0f86, "Sure."
+choicetxt       @Choice_16c6, "No."
 choicewait      
 
 goto            @Choice_0f86
@@ -413,10 +413,10 @@ code0301        8, 7
 code047e        0, 1
 dialogtxt       "WHAAAT!? OMIIIIGOSH!!!"
 dialogtxt       "ALL your Crafting Ranks are higher"
-dialogtxt       "than anyone else's! AMAZING!◎"
+dialogtxt       "than anyone else's! AMAZING! ◎"
 code0309        
 dialogtxt       "Here! This is for you, the"
-dialogtxt       "\"Ultimate Craftknight Manual\"!"
+dialogtxt       "Crafter's Secrets!"
 dialogtxt       "Please put it to good use!"
 code0309        
 code047e        0, 0
@@ -425,9 +425,9 @@ code0366        529, 1
 code0367        
 code0301        0, 7
 code0305        1
-dialogtxt       "Keeping the \"Ultimate Craftknight"
-dialogtxt       "Manual\" in your inventory while"
-dialogtxt       "saving unlocks \"Rob\" in Bonus Mode!"
+dialogtxt       " Keeping the Crafter's Secrets"
+dialogtxt       " in your inventory while saving"
+dialogtxt       " unlocks Rob in Extras!"
 code0309        
 code0302        7
 goto            @Cond_1282
@@ -443,11 +443,11 @@ setvar          $f1269, 1
 code0301        8, 7
 code047e        0, 1
 dialogtxt       "Wow...! Did you"
-dialogtxt       "get all the Secret Techniques?"
+dialogtxt       "get all the Secret Scrolls?"
 dialogtxt       "That's such an amazing feat!"
 code0309        
 dialogtxt       "Here! This is for you. They call"
-dialogtxt       "this an \"Audio Listening Device\"?"
+dialogtxt       "this a Speech Station."
 dialogtxt       "I have no idea what it's for..."
 code0309        
 code047e        0, 0
@@ -456,9 +456,9 @@ code0366        531, 1
 code0367        
 code0301        0, 7
 code0305        1
-dialogtxt       "Having the \"Audio Listening Device\""
-dialogtxt       "in your inventory while saving lets"
-dialogtxt       "you unlock \"VOICE\" in Bonus Mode!"
+dialogtxt       " Having the Speech Station in your"
+dialogtxt       " inventory while saving unlocks"
+dialogtxt       " VOICE in Bonus Mode!"
 code0309        
 code0302        7
 goto            @Cond_1428
@@ -478,7 +478,7 @@ dialogtxt       "Did you really fight every Stray!?"
 dialogtxt       "You are so unreal!◎"
 code0309        
 dialogtxt       "Here! This is for you. They call"
-dialogtxt       "this an \"Ultimate War Ticket\"?"
+dialogtxt       "this an Ultimate War Ticket?"
 dialogtxt       "I have no idea what it's for..."
 code0309        
 code047e        0, 0
@@ -487,9 +487,9 @@ code0366        533, 1
 code0367        
 code0301        0, 7
 code0305        1
-dialogtxt       "Having the \"Ultimate War Ticket\""
-dialogtxt       "in your inventory while saving"
-dialogtxt       "unlocks \"Boss Attack\" in Bonus Mode!"
+dialogtxt       " Having the Ultimate War Ticket in"
+dialogtxt       " your inventory while saving unlocks"
+dialogtxt       " Boss Attack in Bonus Mode!"
 code0309        
 code0302        7
 goto            @Cond_15da
@@ -501,9 +501,9 @@ goto            @Cond_15de
 jumpz           @Cond_1668, ($f1268 == 0 && $f1269 == 0 && $f1270 == 0)
 code0301        8, 7
 code047e        0, 1
-dialogtxt       "Wow, look at you!"
-dialogtxt       "You've got nothing else to improve!"
-dialogtxt       "Well, keep working harder!"
+dialogtxt       "Well, look at you!"
+dialogtxt       "Still so much to improve..."
+dialogtxt       "Keep working harder then!"
 code0309        
 goto            @Label_172c
 

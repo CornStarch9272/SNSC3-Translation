@@ -26,12 +26,12 @@ code0479        0, 2, 16
 call            @Func_1c50
 jumpz           @Cond_018e, ($b002 == 0)
 dialogtxt       "We never get lost,"
-dialogtxt       "right, [NAME 1]?"
+dialogtxt       "right [NAME 1]?"
 goto            @Label_01b8
 
 @Cond_018e:
 dialogtxt       "We never get lost,"
-dialogtxt       "right, [NAME 1]?"
+dialogtxt       "right [NAME 1]?"
 goto            @Label_01b8
 
 @Label_01b8:

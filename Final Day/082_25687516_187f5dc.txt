@@ -101,7 +101,7 @@ code0309
 code0333        2, 30
 code0479        1, 0, 12
 dialogtxt       "Let Us Remove The Problem"
-dialogtxt       "While We Have A Chance."
+dialogtxt       "While We Have A Chance..."
 code0309        
 call            @Func_2e4e
 code0334        
@@ -310,7 +310,7 @@ dialogtxt       "I'm perfectly fine now!"
 code0309        
 code0333        2, 30
 code0479        1, 2, 14
-dialogtxt       "So, now that we have the chance!"
+dialogtxt       "So, now that we have the chance..."
 code0309        
 call            @Func_2e4e
 code0334        

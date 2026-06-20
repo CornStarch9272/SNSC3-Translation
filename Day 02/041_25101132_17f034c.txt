@@ -97,9 +97,8 @@ code0309
 call            @Func_0df0
 code0479        0, 5, 16
 call            @Func_0d4e
-dialogtxt       "True strength...?"
-dialogtxt       "I still don't really understand"
-dialogtxt       "something like that yet."
+dialogtxt       "True strength..."
+dialogtxt       "What's that?"
 code0309        
 call            @Func_0d84
 code0479        1, 0, 12
@@ -123,8 +122,8 @@ call            @Func_0d84
 code0479        1, 1, 13
 call            @Func_0dba
 dialogtxt       "Heh."
-dialogtxt       "I can tell you're"
-dialogtxt       "growing by the day."
+dialogtxt       "I can tell you're growing by"
+dialogtxt       "the day."
 code0309        
 code0479        0, 0, 12
 code0479        1, 2, 12

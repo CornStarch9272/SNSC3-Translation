@@ -124,7 +124,7 @@ code0309
 call            @Func_2f1a
 code0479        1, 0, 12
 call            @Func_2f50
-dialogtxt       "A 1 On 1 Match."
+dialogtxt       "A 1-On-1 Match."
 dialogtxt       "Do You Think You Can Win?"
 code0309        
 call            @Func_2f86
@@ -289,7 +289,7 @@ call            @Func_2f1a
 code0479        1, 4, 12
 call            @Func_2f50
 dialogtxt       "Mm... It's certainly worrying."
-dialogtxt       "A 1 on 1 match, without me."
+dialogtxt       "A 1-on-1 match, without me."
 code0309        
 call            @Func_2f86
 code0479        0, 2, 13
@@ -297,18 +297,18 @@ call            @Func_2ee4
 jumpz           @Cond_0d9e, ($b002 == 0)
 dialogtxt       "Hey!"
 dialogtxt       "I can take him alone easily!"
-dialogtxt       "... Is what I want to say,"
 code0309        
 code0479        0, 4, 13
+dialogtxt       "... Is what I want to say,"
 dialogtxt       "but it's strange being alone."
 goto            @Label_0e2e
 
 @Cond_0d9e:
 dialogtxt       "Hey!"
 dialogtxt       "I can take him alone easily!"
-dialogtxt       "... Is what I want to say,"
 code0309        
 code0479        0, 4, 13
+dialogtxt       "... Is what I want to say,"
 dialogtxt       "but it's strange being alone."
 goto            @Label_0e2e
 
@@ -701,7 +701,7 @@ code0309
 call            @Func_2f1a
 code0479        1, 4, 13
 call            @Func_2f50
-dialogtxt       "A one on one match, huh."
+dialogtxt       "A 1-on-1 match, huh."
 dialogtxt       "Are you scared now that"
 dialogtxt       "I won't be with you?"
 code0309        

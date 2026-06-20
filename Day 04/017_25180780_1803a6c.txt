@@ -103,8 +103,8 @@ code047b
 code047d        0, 120
 code0301        8, 7
 code047e        0, 1
-dialogtxt       "I heard the sounds of"
-dialogtxt       "battle from there!"
+dialogtxt       "I heard the sounds of a"
+dialogtxt       "battle coming from over there!"
 code0309        
 code047e        0, 0
 code0302        7
@@ -326,8 +326,7 @@ call            @Func_2a60
 code033e        396
 code0479        1, 6, 13
 call            @Func_2a12
-dialogtxt       "Okay then,"
-dialogtxt       "Mister Jade~"
+dialogtxt       "Okay then, Mister Jade~"
 code047b        
 code0309        
 call            @Func_2a48
@@ -449,8 +448,7 @@ code0309
 call            @Func_29dc
 code0479        1, 2, 12
 call            @Func_2a12
-dialogtxt       "I won't know"
-dialogtxt       "unless I try!"
+dialogtxt       "I won't know unless I try!"
 dialogtxt       "Who should I talk to?"
 code0309        
 call            @Func_2a48
@@ -497,7 +495,7 @@ code047d        1, 107
 call            @Func_2a76
 call            @Func_2a12
 dialogtxt       "Could this Velvoren be of"
-dialogtxt       "the Ringvald House?"
+dialogtxt       "House Ringvald?"
 dialogtxt       "He's in this town!?"
 code047b        
 code0309        

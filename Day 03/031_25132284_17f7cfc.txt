@@ -28,11 +28,11 @@ code0479        0, 1, 16
 call            @Func_1b08
 jumpz           @Cond_01c4, ($f0142 == 0)
 jumpz           @Cond_019e, ($b002 == 0)
-dialogtxt       "That was MY money, you know..."
+dialogtxt       "That was MY boam, you know..."
 goto            @Label_01c0
 
 @Cond_019e:
-dialogtxt       "That was MY money, you know..."
+dialogtxt       "That was MY boam, you know..."
 goto            @Label_01c0
 
 @Label_01c0:
@@ -180,7 +180,7 @@ code0309
 call            @Func_1baa
 code0479        0, 4, 16
 call            @Func_1b08
-dialogtxt       "I'm... Fine..."
+dialogtxt       "I'm... fine..."
 dialogtxt       "Ouch!!!"
 code0309        
 call            @Func_1b3e
@@ -229,7 +229,7 @@ dialogtxt       "Hmm?"
 code047b        
 code0309        
 choicetxt       @Choice_09f4, "... I understand."
-choicetxt       @Choice_0ad2, "What...?"
+choicetxt       @Choice_0ad2, "... What?"
 choicewait      
 
 @Choice_09f4:

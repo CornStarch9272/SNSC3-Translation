@@ -94,7 +94,7 @@ code047d        1, 131
 call            @Func_1892
 call            @Func_182e
 dialogtxt       "We're transporting ore"
-dialogtxt       "with the railcar."
+dialogtxt       "on the railcar."
 code047b        
 code0309        
 call            @Func_18e8
@@ -139,9 +139,9 @@ code0479        1, 0, 12
 code047d        1, 131
 call            @Func_1892
 call            @Func_182e
-dialogtxt       "Yeah."
-dialogtxt       "It'll take the railcar two"
-dialogtxt       "more days to its destination."
+dialogtxt       "Yeah. It'll take the railcar"
+dialogtxt       "two more days before it"
+dialogtxt       "reaches its destination."
 code047b        
 code0309        
 call            @Func_18d2
@@ -196,8 +196,8 @@ code0309
 call            @Func_17f8
 code0479        1, 0, 13
 call            @Func_182e
-dialogtxt       "It is carrying tons of stuff..."
-dialogtxt       "In any case it's much easier"
+dialogtxt       "It IS carrying tons of stuff..."
+dialogtxt       "In any case it's a lot easier"
 dialogtxt       "than carrying it all ourselves."
 code0309        
 call            @Func_18d2

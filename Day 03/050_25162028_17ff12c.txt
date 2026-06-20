@@ -124,13 +124,13 @@ call            @Func_26c0
 code0479        0, 4, 12
 call            @Func_261e
 jumpz           @Cond_054a, ($b002 == 0)
-dialogtxt       "Sigh..."
+dialogtxt       "*Sigh*"
 dialogtxt       "There's just a lot to take in..."
 dialogtxt       "What should I do...?"
 goto            @Label_058c
 
 @Cond_054a:
-dialogtxt       "Sigh..."
+dialogtxt       "*Sigh*"
 dialogtxt       "There's just a lot to take in..."
 dialogtxt       "What should I do...?"
 goto            @Label_058c
@@ -257,7 +257,7 @@ call            @Func_26c0
 code0479        0, 4, 14
 call            @Func_261e
 jumpz           @Cond_0c16, ($b002 == 0)
-dialogtxt       "*Sigh*..."
+dialogtxt       "*Sigh*"
 dialogtxt       "Seriously, what should I do..."
 goto            @Label_0c46
 
@@ -608,7 +608,7 @@ code0309
 call            @Func_26c0
 code0479        0, 8, 15
 call            @Func_261e
-dialogtxt       "Wha— !"
+dialogtxt       "Wha—"
 dialogtxt       "What are you saying!"
 code0309        
 call            @Func_2654
@@ -646,7 +646,7 @@ goto            @Label_1f40
 @Label_1f40:
 code0479        1, 2, 16
 call            @Func_268a
-dialogtxt       "Please... Don't forget."
+dialogtxt       "Please, don't forget."
 dialogtxt       "My mission is to"
 dialogtxt       "protect Lady Murno."
 code0309        

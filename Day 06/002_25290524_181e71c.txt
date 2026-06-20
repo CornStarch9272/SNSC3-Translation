@@ -12,7 +12,6 @@ code0479        1, 4, 12
 code047d        1, 107
 call            @Func_13aa
 call            @Func_12d2
-dialogtxt       "Ah!"
 dialogtxt       "Murno! [NAME 1]!"
 code047b        
 code0309        
@@ -203,8 +202,8 @@ code047b
 code047d        1, 120
 code0301        8, 7
 code047e        1, 1
-dialogtxt       "I told you to keep it down."
-dialogtxt       "I taught you about the shackles"
+dialogtxt       "I said keep it down!"
+dialogtxt       "I told you about the shackles"
 dialogtxt       "yesterday. Did you forget already?"
 code047b        
 code0309        
@@ -296,7 +295,7 @@ code047d        0, 0
 code047d        1, 120
 code0301        8, 7
 code047e        1, 1
-dialogtxt       "Stop! Complaining!"
+dialogtxt       "Stop complaining!"
 dialogtxt       "Be quiet and come with me."
 code0309        
 code047e        1, 0

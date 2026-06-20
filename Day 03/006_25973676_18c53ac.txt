@@ -62,7 +62,7 @@ goto            @Label_045a
 jumpz           @Cond_0404, ($bv018 == 1)
 code0301        8, 7
 code047e        0, 1
-dialogtxt       "Did you bring the Miga Stone?"
+dialogtxt       "Did you bring the Flat Stone?"
 code0309        
 code047e        0, 0
 code0302        7
@@ -70,7 +70,6 @@ jumpz           @Cond_0400, ($bv029 != 0)
 code0301        8, 7
 code047e        0, 1
 dialogtxt       "Oh, that's it!"
-dialogtxt       "Give it to me."
 code0309        
 code047e        0, 0
 code0302        7
@@ -139,7 +138,8 @@ jumpz           @Cond_0668, ($bv029 != 0)
 code0301        8, 7
 code047e        0, 1
 dialogtxt       "Ah, that's it."
-dialogtxt       "Give it to me, please."
+dialogtxt       "Can I have it?"
+dialogtxt       "Pretty please?"
 code0309        
 code047e        0, 0
 code0302        7
@@ -175,7 +175,7 @@ code0301        8, 7
 code047e        0, 1
 dialogtxt       "Hey, the Cutting Ore..."
 code0309        
-dialogtxt       "Give it. Okay? Please?"
+dialogtxt       "I'm counting on you. Okay?"
 code0309        
 code047e        0, 0
 code0302        7
@@ -183,7 +183,7 @@ jumpz           @Cond_0834, ($bv029 != 0)
 code0301        8, 7
 code047e        0, 1
 dialogtxt       "Ah, that's it."
-dialogtxt       "Give it to me, please."
+dialogtxt       "Right here, please."
 code0309        
 code047e        0, 0
 code0302        7
@@ -249,7 +249,7 @@ jumpz           @Cond_0ad8, ($bv029 != 0)
 code0301        8, 7
 code047e        0, 1
 dialogtxt       "That's it, that's it."
-dialogtxt       "Can you give it to me?"
+dialogtxt       "Could you give it to me?"
 code0309        
 code047e        0, 0
 code0302        7
@@ -298,7 +298,7 @@ jumpz           @Cond_0ccc, ($bv029 != 0)
 code0301        8, 7
 code047e        0, 1
 dialogtxt       "That's it, that's it."
-dialogtxt       "Can you give it to me?"
+dialogtxt       "Could I have it?"
 code0309        
 code047e        0, 0
 code0302        7
@@ -871,7 +871,7 @@ jumpz           @Cond_23ea, ($bv029 != 0)
 code0301        8, 7
 code047e        0, 1
 dialogtxt       "Aha!"
-dialogtxt       "That smell, could it be... Eggs?"
+dialogtxt       "That smell, could it be... eggs?"
 code0309        
 code047e        0, 0
 code0302        7
@@ -913,7 +913,7 @@ goto            @Label_262e
 jumpz           @Cond_25d8, ($bv018 == 1)
 code0301        8, 7
 code047e        0, 1
-dialogtxt       "Rice with egg on top..."
+dialogtxt       "Rice with an egg on top..."
 code0309        
 dialogtxt       "Ahh~"
 code0309        
@@ -923,7 +923,7 @@ jumpz           @Cond_25d4, ($bv029 != 0)
 code0301        8, 7
 code047e        0, 1
 dialogtxt       "Aha!"
-dialogtxt       "That smell, could it be... Eggs?"
+dialogtxt       "That smell, could it be... eggs?"
 code0309        
 code047e        0, 0
 code0302        7

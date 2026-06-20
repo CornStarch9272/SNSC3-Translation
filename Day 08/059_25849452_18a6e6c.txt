@@ -100,7 +100,7 @@ gotomap         1038 ; map 176c62c
 goto            @Cond_0462
 
 @Cond_0462:
-placetxt        "Surange Mine Area 3"
+placetxt        "Surange Mine　Area 3"
 code040b        
 
 @Event_0486:

@@ -5,7 +5,7 @@ code047d        1, 120
 call            @Func_2202
 call            @Func_2180
 dialogtxt       "Damn..."
-dialogtxt       "They're... Strong!"
+dialogtxt       "They're... strong!"
 code047b        
 code0309        
 call            @Func_2258
@@ -589,7 +589,7 @@ code0479        0, 0, 16
 code047d        0, 138
 call            @Func_2218
 call            @Func_2114
-dialogtxt       "?"
+dialogtxt       "...?"
 code047b        
 code0309        
 call            @Func_2168

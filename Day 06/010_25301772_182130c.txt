@@ -54,7 +54,7 @@ code0309
 call            @Func_0aee
 code0479        0, 2, 17
 call            @Func_0a4c
-dialogtxt       "I am a Craftknight!"
+dialogtxt       "I AM a Craftknight!"
 code0309        
 call            @Func_0a82
 code0479        1, 0, 16

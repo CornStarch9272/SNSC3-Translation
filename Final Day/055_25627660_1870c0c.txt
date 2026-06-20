@@ -76,7 +76,7 @@ code0309
 code0479        1, 1, 13
 code0479        0, 2, 16
 dialogtxt       "I'm seriously moved..."
-dialogtxt       "This must be fate!◎"
+dialogtxt       "This must be fate! ◎"
 code0309        
 call            @Func_1e30
 code0479        0, 2, 14
@@ -89,7 +89,7 @@ goto            @Label_04e2
 
 @Cond_049a:
 dialogtxt       "Why are you here?"
-dialogtxt       "What about Master..."
+dialogtxt       "What about Master?"
 dialogtxt       "Where are Master and Jade!?"
 goto            @Label_04e2
 
@@ -131,18 +131,20 @@ call            @Func_1e5e
 call            @Func_1dfa
 dialogtxt       "Fall down a hole there and"
 dialogtxt       "you'll end up squashed."
-dialogtxt       "They'll be Summon fodder by now..."
+dialogtxt       "They're Beast fodder now..."
 code047b        
 code0309        
 call            @Func_1e30
 code0479        0, 2, 14
 call            @Func_1d8e
 jumpz           @Cond_0708, ($b002 == 0)
-dialogtxt       "You... How could you..."
+dialogtxt       "You..."
+dialogtxt       "How could you?"
 goto            @Label_072a
 
 @Cond_0708:
-dialogtxt       "You... How could you..."
+dialogtxt       "You..."
+dialogtxt       "How could you?"
 goto            @Label_072a
 
 @Label_072a:
@@ -189,7 +191,7 @@ code0309
 call            @Func_1e30
 code0479        0, 2, 15
 call            @Func_1d8e
-dialogtxt       "Ku...!"
+dialogtxt       "..."
 code0309        
 call            @Func_1dc4
 code0479        1, 2, 12
@@ -283,7 +285,6 @@ goto            @Cond_0e52
 
 @Cond_0e52:
 jumpz           @Cond_0ea8, ($b003 == 3)
-dialogtxt       "Uu..."
 dialogtxt       "This guy is making me sick..."
 dialogtxt       "If we don't do something soon..."
 goto            @Cond_0ea8
@@ -300,7 +301,7 @@ code047d        1, 116
 call            @Func_1e5e
 call            @Func_1dfa
 dialogtxt       "But this seems like it might"
-dialogtxt       "be somewhat ineresting."
+dialogtxt       "be interesting."
 dialogtxt       "I wanted to stay just a bit longer..."
 code047b        
 code0309        
@@ -332,8 +333,8 @@ goto            @Label_1010
 call            @Func_1e5e
 call            @Func_1dfa
 dialogtxt       "Being looked down upon by a Summon..."
-dialogtxt       "I, Steel Pike..."
-dialogtxt       "Can no longer suppress my feelings!"
+dialogtxt       "I, Steel Pike, can suppress my"
+dialogtxt       "rage no longer!"
 code047b        
 code0309        
 call            @Func_1eca
@@ -429,7 +430,7 @@ dialogtxt       "but I'll take all of my feelings,"
 dialogtxt       "and as a Craftknight..."
 code0309        
 code0479        0, 2, 15
-dialogtxt       "Pour them into my weapon,"
+dialogtxt       "I'll pour them into my weapon"
 dialogtxt       "and defeat you!"
 goto            @Label_15c6
 
@@ -439,7 +440,7 @@ dialogtxt       "but I'll take all of my feelings,"
 dialogtxt       "and as a Craftknight..."
 code0309        
 code0479        0, 2, 15
-dialogtxt       "Pour them into my weapon,"
+dialogtxt       "I'll pour them into my weapon"
 dialogtxt       "and defeat you!"
 goto            @Label_15c6
 

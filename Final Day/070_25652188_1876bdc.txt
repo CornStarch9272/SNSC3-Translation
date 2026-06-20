@@ -138,7 +138,7 @@ dialogtxt       "Ha! That's not going to happen."
 dialogtxt       "So..."
 code0309        
 code0479        1, 3, 15
-dialogtxt       "You'll be returning home empty handed!"
+dialogtxt       "You'll be returning home empty-handed!"
 code0309        
 call            @Func_45c2
 call            @Func_4510
@@ -217,7 +217,7 @@ code0479        0, 5, 15
 code047d        0, 0
 call            @Func_4540
 call            @Func_4468
-dialogtxt       "Wha...!?"
+dialogtxt       "What!?"
 code047b        
 code0309        
 call            @Func_4596
@@ -229,7 +229,7 @@ code047d        0, 134
 code0479        1, 0, 16
 call            @Func_456c
 call            @Func_4468
-dialogtxt       "You... Bastard..."
+dialogtxt       "You... bastard..."
 code047b        
 code0309        
 call            @Func_44bc
@@ -242,7 +242,7 @@ code0309
 call            @Func_4528
 code0479        0, 3, 17
 call            @Func_4486
-dialogtxt       "What... Are you..."
+dialogtxt       "What... are you..."
 code0309        
 call            @Func_44bc
 code0479        1, 0, 16
@@ -258,7 +258,7 @@ code0309
 call            @Func_4528
 code0479        0, 4, 16
 call            @Func_4486
-dialogtxt       "Wait... You..."
+dialogtxt       "Wait... you..."
 dialogtxt       "You can't..."
 code0309        
 call            @Func_45c2
@@ -328,12 +328,10 @@ call            @Func_4528
 code0479        0, 2, 15
 call            @Func_4486
 jumpz           @Cond_0f44, ($b002 == 0)
-dialogtxt       "Wha..."
 dialogtxt       "Will you just wait a second!?"
 goto            @Label_0f68
 
 @Cond_0f44:
-dialogtxt       "Wha..."
 dialogtxt       "Will you just wait a second!?"
 goto            @Label_0f68
 
@@ -370,9 +368,9 @@ code047b
 code0309        
 code0333        2, 30
 code0479        1, 2, 13
-dialogtxt       "The one who killed"
-dialogtxt       "Voijin wasn't Rob..."
-dialogtxt       "It was I."
+dialogtxt       "The one who killed Voijin"
+dialogtxt       "wasn't Rob..."
+dialogtxt       "It was me."
 code0309        
 call            @Func_45ac
 call            @Func_4510
@@ -497,9 +495,9 @@ code043c        1, 4
 code047d        0, 134
 code0301        8, 0
 code047e        0, 1
-dialogtxt       "Damn... It!"
-dialogtxt       "From the start... He..."
-dialogtxt       "Deceived me..."
+dialogtxt       "Damn it!"
+dialogtxt       "From the very start..."
+dialogtxt       "He... deceived me..."
 code0309        
 code047e        0, 0
 code0302        0
@@ -539,8 +537,8 @@ code0479        1, 3, 15
 code047d        1, 134
 call            @Func_4556
 call            @Func_44f2
-dialogtxt       "Un... Forgivable..."
-dialogtxt       "You won't... Get away with this!"
+dialogtxt       "Unforgivable..."
+dialogtxt       "You won't... get away with this!"
 dialogtxt       "Bostaph!"
 code047b        
 code0309        
@@ -619,25 +617,25 @@ call            @Func_4540
 call            @Func_4468
 jumpz           @Cond_1c2a, ($b003 == 0)
 dialogtxt       "Could It Be?"
-dialogtxt       "Her Summon Is—"
+dialogtxt       "She's summoning—"
 goto            @Cond_1c2a
 
 @Cond_1c2a:
 jumpz           @Cond_1c60, ($b003 == 1)
 dialogtxt       "Could it be?"
-dialogtxt       "Her Summon is—"
+dialogtxt       "She's summoning—"
 goto            @Cond_1c60
 
 @Cond_1c60:
 jumpz           @Cond_1c96, ($b003 == 2)
 dialogtxt       "Could it be?"
-dialogtxt       "Her Summon is—"
+dialogtxt       "She's summoning—"
 goto            @Cond_1c96
 
 @Cond_1c96:
 jumpz           @Cond_1ccc, ($b003 == 3)
 dialogtxt       "Could it be?"
-dialogtxt       "Her Summon is—"
+dialogtxt       "She's summoning—"
 goto            @Cond_1ccc
 
 @Cond_1ccc:
@@ -844,13 +842,12 @@ call            @Func_4528
 code0479        0, 4, 14
 call            @Func_4486
 jumpz           @Cond_2736, ($b002 == 0)
-dialogtxt       "Shit... It's..."
-dialogtxt       "stronger than before..."
+dialogtxt       "It's... stronger than before..."
 goto            @Label_2772
 
 @Cond_2736:
-dialogtxt       "Ugh... It's..."
-dialogtxt       "stronger than before..."
+dialogtxt       "Ugh... "
+dialogtxt       "It's... stronger than before..."
 goto            @Label_2772
 
 @Label_2772:
@@ -872,13 +869,12 @@ call            @Func_4528
 code0479        0, 4, 14
 call            @Func_4486
 jumpz           @Cond_2846, ($b002 == 0)
-dialogtxt       "Shit... It's..."
-dialogtxt       "stronger than before..."
+dialogtxt       "It's... stronger than before..."
 goto            @Label_2882
 
 @Cond_2846:
-dialogtxt       "Ugh... It's..."
-dialogtxt       "stronger than before..."
+dialogtxt       "Ugh..."
+dialogtxt       "It's... stronger than before..."
 goto            @Label_2882
 
 @Label_2882:
@@ -899,13 +895,12 @@ call            @Func_4528
 code0479        0, 4, 14
 call            @Func_4486
 jumpz           @Cond_2956, ($b002 == 0)
-dialogtxt       "Shit... It's..."
-dialogtxt       "stronger than before..."
+dialogtxt       "It's... stronger than before..."
 goto            @Label_2992
 
 @Cond_2956:
-dialogtxt       "Ugh... It's..."
-dialogtxt       "stronger than before..."
+dialogtxt       "Ugh..."
+dialogtxt       "It's... stronger than before..."
 goto            @Label_2992
 
 @Label_2992:
@@ -927,13 +922,12 @@ call            @Func_4528
 code0479        0, 4, 14
 call            @Func_4486
 jumpz           @Cond_2a78, ($b002 == 0)
-dialogtxt       "Shit... It's..."
-dialogtxt       "stronger than before..."
+dialogtxt       "It's... stronger than before..."
 goto            @Label_2ab4
 
 @Cond_2a78:
-dialogtxt       "Ugh... It's..."
-dialogtxt       "stronger than before..."
+dialogtxt       "Ugh..."
+dialogtxt       "It's... stronger than before..."
 goto            @Label_2ab4
 
 @Label_2ab4:
@@ -963,7 +957,7 @@ code047d        0, 0
 call            @Func_4540
 call            @Func_4468
 jumpz           @Cond_2c68, ($b002 == 0)
-dialogtxt       "Dammit..."
+dialogtxt       "Darn it..."
 dialogtxt       "Murno is waiting for us..."
 dialogtxt       "I..."
 code047b        
@@ -1076,11 +1070,11 @@ code0479        0, 5, 15
 call            @Func_4540
 call            @Func_4468
 jumpz           @Cond_306e, ($b002 == 0)
-dialogtxt       "What is it this time!?"
+dialogtxt       "What is happening!?"
 goto            @Label_308a
 
 @Cond_306e:
-dialogtxt       "What is it this time!?"
+dialogtxt       "What is happening!?"
 goto            @Label_308a
 
 @Label_308a:
@@ -1400,25 +1394,25 @@ code047d        1, 2
 call            @Func_4556
 call            @Func_44d4
 jumpz           @Cond_3c32, ($b003 == 0)
-dialogtxt       "The Phantom Dragon!"
+dialogtxt       "Genryuuki!"
 dialogtxt       "Why Here!?"
 goto            @Cond_3c32
 
 @Cond_3c32:
 jumpz           @Cond_3c66, ($b003 == 1)
-dialogtxt       "The Phantom Dragon!"
+dialogtxt       "Genryuuki!"
 dialogtxt       "Why here!?"
 goto            @Cond_3c66
 
 @Cond_3c66:
 jumpz           @Cond_3c9c, ($b003 == 2)
-dialogtxt       "The Phantom Dragon!"
+dialogtxt       "Genryuuki!"
 dialogtxt       "Why here...!?"
 goto            @Cond_3c9c
 
 @Cond_3c9c:
 jumpz           @Cond_3cd2, ($b003 == 3)
-dialogtxt       "The Phantom Dragon!"
+dialogtxt       "Genryuuki!"
 dialogtxt       "Why here!?"
 goto            @Cond_3cd2
 
@@ -1434,7 +1428,6 @@ call            @Func_4540
 call            @Func_4468
 jumpz           @Cond_3dc8, ($b002 == 0)
 dialogtxt       "It even came this far."
-dialogtxt       "Dammit..."
 dialogtxt       "It's too cool!"
 code047b        
 code0309        
@@ -1459,7 +1452,7 @@ goto            @Label_3e70
 @Label_3e70:
 code0309        
 code0479        0, 2, 15
-dialogbig       255, 116, 1, 0, 0, "Phantom Dragon!!!"
+dialogbig       255, 116, 1, 0, 0, "Genryuuki!!!"
 code030c        
 call            @Func_4596
 call            @Func_44a4

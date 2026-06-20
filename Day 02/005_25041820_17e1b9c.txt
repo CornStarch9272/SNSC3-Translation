@@ -104,7 +104,7 @@ goto            @Cond_046e
 
 @Cond_046e:
 jumpz           @Cond_04a4, ($b003 == 3)
-dialogtxt       "Have you lost your hammer?"
+dialogtxt       "Have you lost your hammer again?"
 goto            @Cond_04a4
 
 @Cond_04a4:

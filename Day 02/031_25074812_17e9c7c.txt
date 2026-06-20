@@ -332,7 +332,7 @@ goto            @Cond_0c5a
 
 @Cond_0c5a:
 jumpz           @Cond_0c7c, ($b003 == 3)
-dialogtxt       "Huhh!?"
+dialogtxt       "Huh!?"
 goto            @Cond_0c7c
 
 @Cond_0c7c:
@@ -906,7 +906,7 @@ code047d        0, 0
 call            @Func_2c3c
 call            @Func_2b64
 jumpz           @Cond_23c0, ($b002 == 0)
-dialogtxt       "Dammit!"
+dialogtxt       "Crap!"
 dialogtxt       "Let's go, [NAME 1]!"
 goto            @Label_23e2
 

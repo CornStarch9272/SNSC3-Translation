@@ -51,7 +51,7 @@ code047d        0, 0
 call            @Func_0f68
 call            @Func_0eae
 choicetxt       @Choice_01d2, "I'm ready!"
-choicetxt       @Choice_08b2, "Ah, wait just a minute."
+choicetxt       @Choice_08b2, "Wait just a minute."
 choicewait      
 
 @Choice_01d2:
@@ -186,7 +186,7 @@ call            @Func_0f94
 code0301        6, 7
 code047e        0, 1
 code047e        1, 1
-dialogtxt       "[NAME 2]..."
+dialogtxt       "..."
 code0309        
 code047e        0, 0
 code047e        1, 0

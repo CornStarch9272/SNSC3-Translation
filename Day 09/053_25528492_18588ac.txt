@@ -8,13 +8,11 @@ code047d        0, 0
 call            @Func_21fa
 call            @Func_20f6
 jumpz           @Cond_00a0, ($b002 == 0)
-dialogtxt       "Now,"
-dialogtxt       "hold still!"
+dialogtxt       "Now, hold still!"
 goto            @Label_00c4
 
 @Cond_00a0:
-dialogtxt       "Now,"
-dialogtxt       "hold still!"
+dialogtxt       "Now, hold still!"
 goto            @Label_00c4
 
 @Label_00c4:
@@ -58,7 +56,7 @@ code047d        0, 109
 call            @Func_21ce
 call            @Func_2114
 dialogtxt       "Just give up already!"
-dialogtxt       "You lost!"
+dialogtxt       "You've lost!"
 code047b        
 code0309        
 call            @Func_2224
@@ -137,7 +135,7 @@ code0479        1, 4, 15
 code047d        1, 107
 call            @Func_21e4
 call            @Func_2180
-dialogtxt       "F, father!"
+dialogtxt       "F—Father!"
 dialogtxt       "Are you okay?"
 code047b        
 code0309        
@@ -197,15 +195,13 @@ code047d        0, 0
 call            @Func_21fa
 call            @Func_20f6
 jumpz           @Cond_09f6, ($b002 == 0)
-dialogtxt       "This is the end"
-dialogtxt       "of your schemes."
-dialogtxt       "Come, you too..."
+dialogtxt       "This is the end of your"
+dialogtxt       "schemes."
 goto            @Label_0a3c
 
 @Cond_09f6:
-dialogtxt       "This is the end"
-dialogtxt       "of your schemes."
-dialogtxt       "Come, you too..."
+dialogtxt       "This is the end of your"
+dialogtxt       "schemes."
 goto            @Label_0a3c
 
 @Label_0a3c:
@@ -564,7 +560,7 @@ code047d        0, 0
 call            @Func_21fa
 call            @Func_20f6
 jumpz           @Cond_1a24, ($b002 == 0)
-dialogtxt       "Shit!"
+dialogtxt       "Come on!"
 dialogtxt       "Let's do it, [NAME 1]!"
 goto            @Label_1a44
 

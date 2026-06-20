@@ -25,8 +25,8 @@ goto            @Label_0110
 
 @Label_0110:
 code0309        
-choicetxt       @Choice_094c, "Believe Murno!"
-choicetxt       @Choice_013a, "Believe [NAME 1]!"
+choicetxt       @Choice_094c, "I believe Murno!"
+choicetxt       @Choice_013a, "I believe [NAME 1]!"
 choicewait      
 
 @Choice_013a:
@@ -116,7 +116,7 @@ call            @Func_27de
 call            @Func_277a
 dialogtxt       "[NAME 2]..."
 dialogtxt       "Is that what you really think?"
-dialogtxt       "From the bottom of your heart...?"
+dialogtxt       "From the bottom of your heart?"
 code047b        
 code0309        
 code043c        1, 3
@@ -165,7 +165,7 @@ call            @Func_27f4
 call            @Func_26f0
 jumpz           @Cond_0680, ($b002 == 0)
 dialogtxt       "You're...!?"
-dialogtxt       "Wha—What's going on...!"
+dialogtxt       "Wha—What's going on!?"
 goto            @Label_06b6
 
 @Cond_0680:
@@ -181,21 +181,21 @@ code0479        1, 2, 12
 call            @Func_277a
 jumpz           @Cond_0786, ($b002 == 0)
 dialogtxt       "You've thought for a while now..."
-dialogtxt       "That girl is suspicious."
-dialogtxt       "She's a bad person..."
+dialogtxt       "That this girl is suspicious."
+dialogtxt       "That she's a bad person..."
 code0309        
 code0479        1, 4, 12
-dialogtxt       "If you don't leave,"
+dialogtxt       "That if you don't leave,"
 dialogtxt       "you might be killed too..."
 goto            @Label_081e
 
 @Cond_0786:
 dialogtxt       "You've thought for a while now..."
-dialogtxt       "That girl is suspicious."
-dialogtxt       "She's a bad person..."
+dialogtxt       "That this girl is suspicious."
+dialogtxt       "That she's a bad person..."
 code0309        
 code0479        1, 4, 12
-dialogtxt       "If you don't leave,"
+dialogtxt       "That if you don't leave,"
 dialogtxt       "you might be killed too..."
 goto            @Label_081e
 
@@ -620,7 +620,7 @@ goto            @Cond_1994
 @Cond_1994:
 jumpz           @Cond_1e60, ($b003 == 3)
 dialogtxt       "Why!?"
-dialogtxt       "Your partner is surely an imposter!"
+dialogtxt       "That one is clearly the imposter!"
 dialogtxt       "Please listen to me!"
 code047b        
 code0309        

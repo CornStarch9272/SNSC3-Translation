@@ -12,7 +12,7 @@ dialogtxt       "It won't open!?"
 dialogtxt       "I'm stuck!"
 code0309        
 code0479        0, 2, 15
-dialogtxt       "Dammit!"
+dialogtxt       "Darn it!"
 dialogtxt       "What's going on!?"
 dialogtxt       "Heeey! Anyone!"
 code0309        
@@ -71,12 +71,10 @@ code0479        0, 5, 16
 call            @Func_0cc8
 call            @Func_0c0e
 jumpz           @Cond_035a, ($b002 == 0)
-dialogtxt       "Wha...?"
-dialogtxt       "Who's there?"
+dialogtxt       "... Who's there?"
 goto            @Label_037e
 
 @Cond_035a:
-dialogtxt       "Wha...?"
 dialogtxt       "Um... Who's there?"
 goto            @Label_037e
 
@@ -132,8 +130,8 @@ call            @Func_0cc8
 call            @Func_0c0e
 dialogtxt       "..."
 jumpz           @Cond_05ee, ($b002 == 0)
-dialogtxt       "Dammit..."
-dialogtxt       "What's going on..."
+dialogtxt       "Crap..."
+dialogtxt       "What's going on?"
 goto            @Label_0610
 
 @Cond_05ee:

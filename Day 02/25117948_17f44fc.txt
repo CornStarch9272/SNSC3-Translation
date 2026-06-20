@@ -146,7 +146,7 @@ call            @Func_0d0e
 code0479        1, 0, 12
 call            @Func_0d44
 dialogtxt       "I'll be here a while,"
-dialogtxt       "so if you get enough money"
+dialogtxt       "so if you get enough boam"
 dialogtxt       "please come back again."
 code0309        
 call            @Func_0e14

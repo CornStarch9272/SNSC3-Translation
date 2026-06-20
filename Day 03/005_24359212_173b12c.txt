@@ -195,17 +195,17 @@ code043c        0, 3
 code043e        0, 3, 0
 code0301        0, 9
 code0305        1
-dialogtxt       "If you use a Portal Stone inside"
-dialogtxt       "a dungeon, you'll return to the"
-dialogtxt       "last town visited in an instant."
+dialogtxt       " If you use a Portal Stone inside"
+dialogtxt       " a dungeon, you'll return to the"
+dialogtxt       " last town visited in an instant."
 code0309        
-dialogtxt       "You can return to the point you"
-dialogtxt       "used the stone from by pressing"
-dialogtxt       "A in front of this portal."
+dialogtxt       " You can return to the point you"
+dialogtxt       " used the stone from by pressing"
+dialogtxt       " A in front of this portal."
 code0309        
-dialogtxt       "The activated portal can only"
-dialogtxt       "be used once, and will deactivate"
-dialogtxt       "if you leave the current town."
+dialogtxt       " The activated portal can only"
+dialogtxt       " be used once, and will deactivate"
+dialogtxt       " if you leave the current town."
 code0309        
 code0302        9
 code0461        5
@@ -225,7 +225,7 @@ goto            @start
 code0301        8, 7
 code047d        0, 107
 code047e        0, 1
-dialogtxt       "How far away is this \"Prosban\"?"
+dialogtxt       "About how far away is Prosban?"
 code0309        
 code047e        0, 0
 code0302        7

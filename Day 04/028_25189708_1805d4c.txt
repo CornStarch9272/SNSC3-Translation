@@ -59,8 +59,8 @@ code0309
 call            @Func_24e4
 code0479        1, 2, 15
 call            @Func_251a
-dialogtxt       "No,"
-dialogtxt       "because of my good behavior."
+dialogtxt       "No, it's because of my good"
+dialogtxt       "behavior!"
 dialogtxt       "And who are you calling scary!?"
 code0309        
 call            @Func_25be
@@ -74,7 +74,7 @@ call            @Func_2568
 call            @Func_24ae
 dialogtxt       "Fufufu..."
 dialogtxt       "With this, maybe we'll be"
-dialogtxt       "able to get a paycheck..."
+dialogtxt       "able to get our dues..."
 code047b        
 code0309        
 call            @Func_24e4
@@ -95,8 +95,7 @@ code043c        5, 4
 code047d        1, 127
 code0301        8, 5
 code047e        1, 1
-dialogtxt       "This way,"
-dialogtxt       "Lady Ianna."
+dialogtxt       "This way, Lady Ianna."
 code0309        
 code047e        1, 0
 code0302        5
@@ -177,8 +176,8 @@ code0309
 call            @Func_24e4
 code0479        1, 2, 16
 call            @Func_251a
-dialogtxt       "If I recall, you're"
-dialogtxt       "Mishus Village's..."
+dialogtxt       "If I recall, you're from"
+dialogtxt       "Mishus Village..."
 dialogtxt       "Why are you here?"
 code0309        
 call            @Func_25ea
@@ -408,8 +407,7 @@ code0479        0, 5, 17
 code047d        0, 130
 call            @Func_2568
 call            @Func_24ae
-dialogtxt       "Wait,"
-dialogtxt       "Lord Velvoren..."
+dialogtxt       "Wait, Lord Velvoren..."
 code0309        
 call            @Func_25ea
 call            @Func_24cc
@@ -582,8 +580,7 @@ code0479        0, 2, 15
 code047d        0, 130
 call            @Func_2568
 call            @Func_2490
-dialogtxt       "Wait a moment,"
-dialogtxt       "I..."
+dialogtxt       "Wait a moment, I..."
 code047b        
 code0309        
 call            @Func_25be
@@ -634,19 +631,19 @@ code0309
 call            @Func_24e4
 code0479        1, 2, 16
 call            @Func_251a
-dialogtxt       "So...?"
+dialogtxt       "So?"
 code0309        
 call            @Func_2550
 code0479        0, 2, 12
 call            @Func_24ae
-dialogtxt       "Um... So... Could I..."
-dialogtxt       "Have a reward... Or something...?"
+dialogtxt       "Um... so... could I..."
+dialogtxt       "get my reward... or something...?"
 code0309        
 call            @Func_24e4
 code0479        1, 4, 12
 call            @Func_251a
 dialogtxt       "Hmmm..."
-dialogtxt       "So you want money,"
+dialogtxt       "So you seek compensation,"
 dialogtxt       "is that it?"
 code0309        
 code0479        1, 1, 13
@@ -747,8 +744,8 @@ call            @Func_24e4
 code0479        1, 1, 12
 call            @Func_251a
 dialogtxt       "Of course."
-dialogtxt       "Our master loves"
-dialogtxt       "energetic Craftknights."
+dialogtxt       "Our master loves energetic"
+dialogtxt       "Craftknights."
 code0309        
 code0479        1, 0, 13
 dialogtxt       "And don't worry about the others."

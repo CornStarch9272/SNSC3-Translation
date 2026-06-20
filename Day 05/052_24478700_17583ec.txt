@@ -29,9 +29,9 @@ setvar          $h136, 0
 call            @Func_02ae
 jumpz           @Cond_0212, ($f0152 == 1)
 code0304        1
-dialogtxt       "I couldn't see Murno from this"
-dialogtxt       "side of the wall. But I had a"
-dialogtxt       "feeling that she was smiling."
+dialogtxt       "　　 I couldn't see Murno from this"
+dialogtxt       "　　　side of the wall. But I had a"
+dialogtxt       "　　  feeling that she was smiling."
 code030a        6, 1
 code0304        0
 goto            @Cond_0212
@@ -237,4 +237,3 @@ code031f        7
 code031a        7
 code033e        196
 ret             
-

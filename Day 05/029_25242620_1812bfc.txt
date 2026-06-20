@@ -15,8 +15,8 @@ code047d        1, 124
 call            @Func_1a3e
 call            @Func_1966
 dialogtxt       "Good day!"
-dialogtxt       "I have a delivery"
-dialogtxt       "from Benson's Workshop."
+dialogtxt       "I have a delivery from"
+dialogtxt       "Benson's Workshop."
 code0309        
 call            @Func_1a94
 call            @Func_19a2
@@ -337,7 +337,7 @@ code0301        8, 7
 code047e        1, 1
 dialogtxt       "Aren't you a Crafknight?"
 dialogtxt       "You're slow, and sloppy."
-dialogtxt       "You better try harder next time!"
+dialogtxt       "You'd better try harder next time!"
 code0309        
 code047e        1, 0
 code0302        7

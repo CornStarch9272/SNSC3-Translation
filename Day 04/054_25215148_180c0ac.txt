@@ -116,7 +116,7 @@ code0479        0, 5, 17
 call            @Func_38e4
 dialogtxt       "Huh?"
 jumpz           @Cond_043e, ($b002 == 0)
-dialogtxt       "Who is this guy!?"
+dialogtxt       "What's wrong with this guy!?"
 goto            @Label_0458
 
 @Cond_043e:
@@ -347,16 +347,15 @@ code0309
 call            @Func_3986
 code0479        0, 0, 16
 call            @Func_38e4
-dialogtxt       "No,"
-dialogtxt       "the only person I've seen with"
-dialogtxt       "a Summon Beast is this one."
+dialogtxt       "No, the only person I've seen"
+dialogtxt       "with a Summon Beast is this one."
 code0309        
 call            @Func_391a
 code0479        1, 4, 17
 call            @Func_3950
 dialogtxt       "Then that means these two"
 dialogtxt       "probably aren't involved."
-dialogtxt       "Oh no~, I messed up~..."
+dialogtxt       "Oh no, I messed up~"
 code0309        
 jumpz           @Cond_0ec6, ($b002 == 0)
 code0479        1, 0, 13
@@ -382,7 +381,7 @@ code047d        0, 0
 call            @Func_399e
 call            @Func_38c6
 dialogtxt       "Uwah, stop!"
-dialogtxt       "Don't cling to me~!"
+dialogtxt       "Don't hug me!"
 code047b        
 code0309        
 call            @Func_39f4
@@ -617,8 +616,7 @@ goto            @Cond_196c
 
 @Cond_196c:
 jumpz           @Cond_19d0, ($b003 == 3)
-dialogtxt       "Th—That person..."
-dialogtxt       "is Bostaph?"
+dialogtxt       "Th—That person... is Bostaph?"
 dialogtxt       "And he's after Murno?"
 goto            @Cond_19d0
 
@@ -639,7 +637,8 @@ code047b
 code0309        
 code0479        1, 0, 12
 dialogtxt       "And you've brought a Summon Beast..."
-dialogtxt       "You're very much a Craftknight now."
+dialogtxt       "You're beginning to look the"
+dialogtxt       "part of a Craftknight now."
 code0309        
 call            @Func_3986
 code0479        0, 0, 16
@@ -785,7 +784,7 @@ code0479        0, 4, 16
 code047d        0, 0
 call            @Func_399e
 call            @Func_38e4
-dialogtxt       "Ugh~..."
+dialogtxt       "Ugh..."
 code047b        
 code0309        
 call            @Func_3a20
@@ -851,7 +850,7 @@ goto            @Cond_233a
 
 @Cond_233a:
 jumpz           @Cond_2390, ($b003 == 3)
-dialogtxt       "Uu..."
+dialogtxt       "..."
 dialogtxt       "That's a lot of enemies."
 dialogtxt       "If we don't do something..."
 goto            @Cond_2390
@@ -932,9 +931,8 @@ dialogtxt       "all of it is caused by one girl."
 dialogtxt       "Therefore..."
 code0309        
 code0479        1, 3, 14
-dialogtxt       "This scar,"
-dialogtxt       "and Rob's death,"
-dialogtxt       "are all her fault!"
+dialogtxt       "This scar, and Rob's death,"
+dialogtxt       "are all HER fault!"
 code0309        
 call            @Func_3986
 code0479        0, 5, 15
@@ -944,7 +942,6 @@ code0309
 call            @Func_391a
 code0479        1, 2, 13
 call            @Func_3950
-dialogtxt       "If the rumors are to be believed."
 dialogtxt       "Regardless, we should still"
 dialogtxt       "keep the area clear of Strays."
 code0309        
@@ -1045,14 +1042,14 @@ call            @Func_3986
 code0479        0, 2, 16
 call            @Func_38e4
 jumpz           @Cond_2bde, ($b002 == 0)
-dialogtxt       "Is it?!"
-dialogtxt       "Is it really Murno's fault"
+dialogtxt       "Is it!?"
+dialogtxt       "Is it really Murno's fault that"
 dialogtxt       "the Strays are out of control!?"
 goto            @Label_2c2a
 
 @Cond_2bde:
-dialogtxt       "Is it?!"
-dialogtxt       "Is it really Murno's fault"
+dialogtxt       "Is it!?"
+dialogtxt       "Is it really Murno's fault that"
 dialogtxt       "the Strays are out of control!?"
 goto            @Label_2c2a
 
@@ -1197,13 +1194,13 @@ code0479        0, 2, 15
 call            @Func_38c6
 call            @Func_399e
 jumpz           @Cond_3292, ($b002 == 0)
-dialogtxt       "Dammit!"
-dialogtxt       "What am I supposed to do?"
+dialogtxt       "Darn it!"
+dialogtxt       "What am I supposed to do now?"
 dialogtxt       "Master..."
 goto            @Label_32be
 
 @Cond_3292:
-dialogtxt       "What am I supposed to do?"
+dialogtxt       "What am I supposed to do now?"
 dialogtxt       "Master..."
 goto            @Label_32be
 

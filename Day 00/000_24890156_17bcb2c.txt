@@ -4,12 +4,12 @@ code030c
 code033e        155
 code0304        1
 code0331        9, 256
-dialogtxt       "　　　  Artisans of weapons."
-dialogtxt       "　　　  Masters of the sword."
+dialogtxt       "　　　　 Artisans of weapons."
+dialogtxt       "　　　　Masters of the sword."
 code030a        6, 1
-dialogtxt       "　　A special title only given to those"
-dialogtxt       "　　  with a body as firm as a forge,"
-dialogtxt       "　　  and a mind as sharp as a sword."
+dialogtxt       "　 A special title only given to those"
+dialogtxt       "　　with a body as firm as a forge,"
+dialogtxt       "　　and a mind as sharp as a sword."
 code030a        6, 1
 code0304        0
 code040d        30

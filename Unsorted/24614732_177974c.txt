@@ -10,7 +10,7 @@ code0412        4, 1
 code0418        2
 setvar          $b075, 1
 setvar          $b072, 0
-placetxt        "Prosban Town"
+placetxt        "Prosban"
 code040c        1, @Label_03f2
 code040c        2, @Label_03e8
 call            @Func_0b8e
@@ -49,7 +49,7 @@ goto            @Label_0248
 
 @Label_0248:
 code041d        
-placetxt        "Prosban Town　Mining District"
+placetxt        "Prosban　Mining District"
 code040b        
 
 @Event_0266:
@@ -332,7 +332,7 @@ code047d        0, 118
 code047e        0, 1
 dialogtxt       "I'm in charge here."
 dialogtxt       "No matter what happens,"
-dialogtxt       "I may not leave!"
+dialogtxt       "I will NOT run away!"
 code0309        
 code047e        0, 0
 code0302        7

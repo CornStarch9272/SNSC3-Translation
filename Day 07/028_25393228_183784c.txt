@@ -545,7 +545,7 @@ code0479        1, 5, 15
 code047d        1, 0
 call            @Func_304a
 call            @Func_2fc8
-dialogtxt       "H—Hey, you okay!?"
+dialogtxt       "H—Hey, are you okay!?"
 code047b        
 code0309        
 call            @Func_301c
@@ -702,7 +702,7 @@ code047d        0, 0
 call            @Func_3034
 code0479        0, 2, 15
 call            @Func_2f5c
-dialogbig       255, 116, 1, 0, 0, "Ph-Phantom Dragon!"
+dialogbig       255, 116, 1, 0, 0, "Genryuuki!"
 code030c        
 call            @Func_308a
 call            @Func_2f98
@@ -820,11 +820,11 @@ call            @Func_2fb0
 code0479        1, 2, 16
 call            @Func_2fe6
 jumpz           @Cond_2828, ($b002 == 0)
-dialogtxt       "Is... That so...?"
+dialogtxt       "R—Really?"
 goto            @Label_283e
 
 @Cond_2828:
-dialogtxt       "Is... That so...?"
+dialogtxt       "R—Really?"
 goto            @Label_283e
 
 @Label_283e:

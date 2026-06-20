@@ -146,13 +146,13 @@ code0479        0, 0, 16
 call            @Func_1466
 jumpz           @Cond_07ac, ($b002 == 0)
 dialogtxt       "Still... Ever since we met,"
-dialogtxt       "It's been quite a ride."
+dialogtxt       "it's been quite a ride."
 dialogtxt       "Everything went by so fast."
 goto            @Label_0804
 
 @Cond_07ac:
 dialogtxt       "Still... Ever since we met,"
-dialogtxt       "It's been quite a ride."
+dialogtxt       "it's been quite a ride."
 dialogtxt       "Everything went by so fast."
 goto            @Label_0804
 
@@ -233,7 +233,7 @@ goto            @Label_0be0
 code0309        
 code0479        1, 4, 14
 code0479        0, 2, 14
-dialogtxt       "but it's pretty dangerous..."
+dialogtxt       "It can get pretty dangerous..."
 dialogtxt       "I wonder if you can do it..."
 dialogtxt       "If you get hurt..."
 code0309        

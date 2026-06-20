@@ -226,10 +226,10 @@ code0479        0, 2, 13
 code047d        0, 0
 call            @Func_1162
 call            @Func_10a8
-dialogtxt       "Dunno what I'll do next, but..."
+dialogtxt       "Well, not exactly, but..."
 jumpz           @Cond_0a06, ($b002 == 0)
 dialogtxt       "Well, whatever!"
-dialogtxt       "Come at me!"
+dialogtxt       "Let's do this!"
 goto            @Label_0a2a
 
 @Cond_0a06:

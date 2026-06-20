@@ -73,9 +73,9 @@ goto            @Cond_0368
 
 @Cond_0368:
 jumpz           @Cond_0406, ($b003 == 3)
-dialogtxt       "Uu..."
+dialogtxt       "..."
 dialogtxt       "This place is very unsettling..."
-dialogtxt       "We're almost there..."
+dialogtxt       "But we're almost there..."
 code047b        
 code0309        
 code0479        1, 4, 16

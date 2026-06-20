@@ -160,7 +160,7 @@ setvar          $h137, 30
 call            @Func_09ca
 code0421        1
 code0368        
-popuptxt        "You feel refreshed!"
+popuptxt        " You feel refreshed!"
 code0318        
 code0461        2
 code040b        

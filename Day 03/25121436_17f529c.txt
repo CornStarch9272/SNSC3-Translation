@@ -177,7 +177,7 @@ code0479        1, 3, 12
 call            @Func_18a6
 call            @Func_1824
 dialogtxt       "(Almost got 'em"
-dialogtxt       "　this time!)"
+dialogtxt       "this time!)"
 code047b        
 code0309        
 call            @Func_1878
@@ -192,8 +192,7 @@ call            @Func_180c
 code043c        2, 3
 code0479        1, 1, 12
 call            @Func_1842
-dialogtxt       "Yes, yes,"
-dialogtxt       "200 Boam!"
+dialogtxt       "Yes, yes, 200 boam!"
 dialogtxt       "Thank you!"
 code0309        
 call            @Func_1878
@@ -233,7 +232,7 @@ dialogtxt       "Cheapskate..."
 code0309        
 code0479        1, 2, 12
 dialogtxt       "Alright, fine."
-dialogtxt       "100 Boam it is, then."
+dialogtxt       "100 boam it is, then."
 code0309        
 call            @Func_18e6
 call            @Func_1878
@@ -243,7 +242,7 @@ code0479        0, 0, 16
 code047d        0, 0
 call            @Func_1890
 call            @Func_17d6
-dialogtxt       "100 Boam..."
+dialogtxt       "100 boam..."
 dialogtxt       "Hmm..."
 code047b        
 code0309        
@@ -306,7 +305,7 @@ goto            @Choice_0e34
 
 @Cond_0d74:
 dialogtxt       "Huh..."
-dialogtxt       "You don't have enough money..."
+dialogtxt       "You don't have enough boam..."
 code0309        
 call            @Func_180c
 code0479        1, 2, 15
@@ -364,7 +363,7 @@ call            @Func_1912
 call            @Func_17f4
 code047b        
 setvar          $f0142, 1
-popuptxt        "V.E handed over the money!"
+popuptxt        " V.E handed over the boam!"
 code0318        
 code0478        1, 11
 code0479        1, 1, 12

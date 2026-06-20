@@ -113,12 +113,12 @@ code047d        0, 0
 code047e        0, 1
 jumpz           @Cond_05a8, ($b002 == 0)
 dialogtxt       "Wrong way!"
-dialogtxt       "I need to find Bro"
+dialogtxt       "I need to find bro."
 dialogtxt       "at the Gold Faction!"
 goto            @Label_05ca
 
 @Cond_05a8:
-dialogtxt       "I have to follow Bro!"
+dialogtxt       "I have to follow bro!"
 goto            @Label_05ca
 
 @Label_05ca:
@@ -451,7 +451,7 @@ dialogtxt       "earning money for our future."
 code0309        
 jumpz           @Cond_15fc, ($f1247 == 0)
 dialogtxt       "You're a Craftknight, aren't you?"
-dialogtxt       "Wanna hear an upgrade tip?"
+dialogtxt       "Want to hear an upgrade tip?"
 code0309        
 code047e        0, 0
 choicetxt       @Choice_13a6, "Sure thing!"
@@ -460,19 +460,19 @@ choicewait
 
 @Choice_13a6:
 code047e        0, 1
-dialogtxt       "Upgrading with a \"Ruin Switch\""
-dialogtxt       "will add the \"DUR Attack\""
+dialogtxt       "Upgrading with a Ruin Switch"
+dialogtxt       "will add DUR Attack"
 dialogtxt       "to your weapon."
 code0309        
 dialogtxt       "And would you look at that,"
-dialogtxt       "I have one such \"Ruin Switch\""
-dialogtxt       "available for only... 800 Boam!"
+dialogtxt       "I have one such Ruin Switch"
+dialogtxt       "available for only... 800 boam!"
 code0309        
 dialogtxt       "How about it?"
 code0309        
 code047e        0, 0
-choicetxt       @Choice_149c, "Buy"
-choicetxt       @Choice_15b2, "Don't buy"
+choicetxt       @Choice_149c, "I'll take it!"
+choicetxt       @Choice_15b2, "I'll pass."
 choicewait      
 
 @Choice_149c:
@@ -500,7 +500,7 @@ code0446        16
 code0301        8, 7
 code047e        0, 1
 dialogtxt       "Whaaaaaat!? What do you mean"
-dialogtxt       "you don't have enough money!?"
+dialogtxt       "you don't have enough!?"
 dialogtxt       "I'm calling this deal off!"
 code0309        
 goto            @Label_1654
@@ -538,7 +538,7 @@ code0301        8, 7
 code047d        0, 120
 code047e        0, 1
 dialogtxt       "I've saved up quite a lot."
-dialogtxt       "I should got to the"
+dialogtxt       "I should go to the"
 dialogtxt       "lottery shop soon..."
 code0309        
 code047e        0, 0
@@ -565,7 +565,7 @@ code040b
 @Event_17a2:
 code0301        8, 7
 dialogtxt       "　"
-dialogtxt       "Fishing Friends Newspaper No. 1"
+dialogtxt       "　Fishing Friends Newspaper　Volume 1"
 code0309        
 dialogtxt       "It's said the Deckell Village Pond"
 dialogtxt       "contains a fish whose cuteness"
@@ -576,7 +576,7 @@ code040b
 
 @Event_183e:
 code0301        8, 7
-dialogtxt       "Care to try our \"Lucky Draw\"?"
+dialogtxt       "Care to try our Lucky Draw?"
 dialogtxt       "It's available all day, everyday!"
 dialogtxt       "Guaranteed no losing tickets!"
 code0309        
@@ -591,4 +591,3 @@ dialogtxt       "Avoid leaving town."
 code0309        
 code0302        7
 code040b        
-

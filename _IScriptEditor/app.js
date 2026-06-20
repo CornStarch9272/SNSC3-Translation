@@ -1697,15 +1697,30 @@ function validateTranslation(e){
     const data = JSON.parse(div.getAttribute('data'));
     widthDiv.textContent = 'width=' + width;
     lengthDiv.textContent = 'len=' + length;
+    let err = -1;
+    let cnt = 0;
+    for (var i in value){
+        if (value.charCodeAt(i) > 0xff){
+            cnt += 2;
+            if (cnt % 2 != 0 && value.charCodeAt(i) == 0x3000){
+                err = i;
+                break;
+            }
+        } else {
+            cnt += 1;
+        }
+    }
+    let bg_change = false;
     if (!value){
         input.style.backgroundColor = '#c0ca33';
         widthDiv.textContent = 'EMPTY: width=' + width;
     } else {
         input.style.backgroundColor = '#ffffff';
     }
-    if (width > 120 || length > maxLength){
+    if (width > 120 || length > maxLength || err != -1){
         if (length > maxLength){
             div.style.backgroundColor = '#f7dc6f';
+            bg_change = true;
             if (data['type'] !== 'StructArray'){
                 lengthDiv.textContent = 'len=' + length + ' (WARN)';
             }
@@ -1719,13 +1734,20 @@ function validateTranslation(e){
                 let tmp_w = getStringWidth(JSON.parse('"' + tmp.replaceAll('"', '\\"') + '"'));
                 if (tmp_w > 120) {
                     div.style.backgroundColor = '#f19460';
+                    bg_change = true;
                     widthDiv.textContent = 'width=' + width + ' (ERROR B)';
                     break;
                 }
             }
         } else if (width > 224) {
             div.style.backgroundColor = '#f1948a';
+            bg_change = true;
             widthDiv.textContent = 'width=' + width + ' (ERROR)';
+        }
+        if (err != -1) {
+            if (!bg_change) {
+                div.style.backgroundColor = '#8a4a8a';}
+            widthDiv.textContent = widthDiv.textContent + ' (Index Error: ' + err.toString() + ')'
         }
     } else {
         div.style.backgroundColor = '#ffffff';

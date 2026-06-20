@@ -49,7 +49,8 @@ code043c        3, 2
 code0479        1, 5, 17
 call            @Func_1956
 call            @Func_18f2
-dialogtxt       "... Hey, you're not coming with us!"
+dialogtxt       "... Hey!"
+dialogtxt       "You're not coming with us!"
 code047b        
 code0309        
 call            @Func_1928
@@ -213,12 +214,13 @@ code0333        2, 30
 code043c        3, 3
 code0479        1, 0, 14
 dialogtxt       "Well, ignoring her,"
-dialogtxt       "we have our own work to do."
+dialogtxt       "we all have our own work"
+dialogtxt       "cut out for us."
 code0309        
 code0334        
 code046e        38, 256, 1
 code0479        1, 2, 15
-dialogtxt       "It's serious time!"
+dialogtxt       "It's time to get serious!"
 dialogtxt       "Let's do this!"
 code0309        
 call            @Func_1928

@@ -181,19 +181,19 @@ code0333        2, 30
 code0479        0, 5, 16
 call            @Func_14a8
 call            @Func_13ee
-dialogtxt       "Execute...?"
+dialogtxt       "Wait..."
 code047b        
 code0309        
 code0334        
 code046e        37, 256, 1
 code0479        0, 2, 15
 jumpz           @Cond_0712, ($b002 == 0)
-dialogbig       255, 116, 1, 0, 0, "What do you mean, execute!?"
+dialogbig       255, 116, 1, 0, 0, "EXECUTE!?"
 code030c        
 goto            @Label_0748
 
 @Cond_0712:
-dialogbig       255, 116, 1, 0, 0, "What do you mean, execute!?"
+dialogbig       255, 116, 1, 0, 0, "EXECUTE!?"
 code030c        
 goto            @Label_0748
 
@@ -205,7 +205,7 @@ code0301        8, 7
 code047e        1, 1
 dialogtxt       "Quiet down!"
 dialogtxt       "They'll notice us."
-dialogtxt       "Don't you want to go save her?"
+dialogtxt       "Don't you want to save her?"
 code0309        
 code047e        1, 0
 code0302        7
@@ -245,7 +245,7 @@ dialogtxt       "What!?"
 goto            @Label_08f6
 
 @Label_08f6:
-dialogtxt       "Why are you!?"
+dialogtxt       "Who are you!?"
 code047b        
 code0309        
 call            @Func_14fe
@@ -354,7 +354,7 @@ code0479        0, 2, 17
 call            @Func_14a8
 call            @Func_13d0
 jumpz           @Cond_0e1e, ($b002 == 0)
-dialogtxt       "Dammit!"
+dialogtxt       "Crap!"
 dialogtxt       "I have to hurry!"
 goto            @Label_0e3c
 

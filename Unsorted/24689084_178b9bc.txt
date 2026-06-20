@@ -10,7 +10,7 @@ code0412        4, 1
 code0418        2
 setvar          $b075, 1
 setvar          $b072, 0
-placetxt        "Prosban Town　Lottery Shop"
+placetxt        "Prosban　Lottery Shop"
 code040c        1, @Label_0302
 call            @Func_0b04
 code041c        0, 128, 247, 1
@@ -85,7 +85,7 @@ goto            @start
 code0301        8, 7
 dialogtxt       "To our esteemed customers:"
 dialogtxt       "In order to play the lottery,"
-dialogtxt       "5 lottery tickets are needed."
+dialogtxt       "five lottery tickets are needed."
 code0309        
 code0302        7
 code040b        

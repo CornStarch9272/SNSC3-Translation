@@ -140,7 +140,7 @@ call            @Func_16e8
 code0479        1, 2, 15
 call            @Func_171e
 dialogtxt       "Know your place,"
-dialogtxt       "damn Summon Beast!"
+dialogtxt       "you damn Summon Beast!"
 code0309        
 call            @Func_1754
 goto            @Cond_05b4
@@ -170,7 +170,7 @@ call            @Func_16e8
 code0479        1, 2, 15
 call            @Func_171e
 dialogtxt       "Know your place,"
-dialogtxt       "damn Summon Beast!"
+dialogtxt       "you damn Summon Beast!"
 code0309        
 call            @Func_1754
 goto            @Cond_0702
@@ -201,7 +201,7 @@ code0479        1, 2, 15
 call            @Func_171e
 dialogtxt       "What the hell!?"
 dialogtxt       "Know your place,"
-dialogtxt       "damn Summon Beast!"
+dialogtxt       "you damn Summon Beast!"
 code0309        
 call            @Func_1754
 goto            @Cond_0882
@@ -231,7 +231,7 @@ call            @Func_16e8
 code0479        1, 2, 15
 call            @Func_171e
 dialogtxt       "Know your place,"
-dialogtxt       "damn Summon Beast!"
+dialogtxt       "you damn Summon Beast!"
 code0309        
 call            @Func_1754
 goto            @Cond_09d6
@@ -273,7 +273,7 @@ goto            @Cond_0ac6
 
 @Cond_0ac6:
 jumpz           @Cond_0aec, ($b003 == 3)
-dialogtxt       "Uuu..."
+dialogtxt       "Wha—!?"
 goto            @Cond_0aec
 
 @Cond_0aec:
@@ -287,7 +287,7 @@ code047d        0, 0
 call            @Func_176c
 code0479        1, 2, 14
 call            @Func_171e
-dialogtxt       "You're that things owner,"
+dialogtxt       "You're that thing's owner,"
 dialogtxt       "you have to train it correctly."
 code047b        
 code0309        
@@ -295,13 +295,13 @@ call            @Func_1754
 code0479        0, 2, 16
 call            @Func_16b2
 jumpz           @Cond_0bf4, ($b002 == 0)
-dialogtxt       "Owner...? No..."
+dialogtxt       "\"Owner!?\""
 dialogtxt       "I'm [NAME 1]'s equal..."
 dialogtxt       "We're partners!"
 goto            @Label_0c3c
 
 @Cond_0bf4:
-dialogtxt       "Owner...? No..."
+dialogtxt       "\"Owner!?\""
 dialogtxt       "I'm [NAME 1]'s equal..."
 dialogtxt       "We're partners!"
 goto            @Label_0c3c
@@ -323,7 +323,7 @@ code0309
 call            @Func_1754
 code0479        0, 5, 15
 call            @Func_16b2
-dialogtxt       "Wha—!"
+dialogtxt       "Wha—!?"
 code0309        
 call            @Func_16e8
 code0479        1, 2, 12
@@ -383,7 +383,7 @@ goto            @Cond_0faa
 
 @Cond_0faa:
 jumpz           @Cond_100c, ($b003 == 3)
-dialogtxt       "I... Am most definitely..."
+dialogtxt       "I... am most definitely..."
 dialogtxt       "not something to be used!"
 dialogtxt       "Reflect on your words!"
 goto            @Cond_100c
@@ -406,7 +406,7 @@ code047d        0, 0
 call            @Func_176c
 call            @Func_16b2
 jumpz           @Cond_10dc, ($b002 == 0)
-dialogtxt       "Dammit!"
+dialogtxt       "Argh!"
 goto            @Label_10ea
 
 @Cond_10dc:

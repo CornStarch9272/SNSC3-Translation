@@ -36,7 +36,7 @@ code0479        0, 0, 14
 code047d        0, 0
 call            @Func_0c20
 call            @Func_0b48
-dialogtxt       "It's just like Bro said..."
+dialogtxt       "It's just like bro said..."
 code047b        
 code0309        
 call            @Func_0b9c

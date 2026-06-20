@@ -150,7 +150,7 @@ code0309
 code0479        1, 4, 16
 dialogtxt       "It's true, I am easily frightened."
 dialogtxt       "Back when I used to be on Maetropa,"
-dialogtxt       "my brother always teases me a lot..."
+dialogtxt       "my brother always teased me a lot..."
 code0309        
 call            @Func_1aca
 goto            @Label_07f6

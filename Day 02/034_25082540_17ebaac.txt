@@ -45,7 +45,7 @@ code0332
 code0479        0, 0, 13
 call            @Func_0e6e
 dialogtxt       "Who said anything about"
-dialogtxt       "giving it to you?"
+dialogtxt       "giving it to YOU?"
 code0309        
 call            @Func_0ea4
 code0331        39, 256
@@ -109,7 +109,7 @@ call            @Func_0f10
 code0333        2, 30
 code0479        0, 0, 12
 call            @Func_0e6e
-dialogtxt       "Didn't say I wouldn't give it back."
+dialogtxt       "I didn't say I wouldn't give it back."
 dialogtxt       "I'll give it to the girl myself."
 code0309        
 call            @Func_0f94

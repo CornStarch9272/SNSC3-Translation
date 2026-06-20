@@ -147,13 +147,13 @@ code047d        1, 0
 call            @Func_110a
 call            @Func_10a6
 jumpz           @Cond_0678, ($b002 == 0)
-dialogtxt       "Oh! That's great!"
+dialogtxt       "Oh! That's smart!"
 dialogtxt       "Deliberately training in"
 dialogtxt       "such a dangerous place."
 goto            @Label_06ba
 
 @Cond_0678:
-dialogtxt       "Oh! That's great!"
+dialogtxt       "Oh! That's so smart!"
 dialogtxt       "Deliberately training in"
 dialogtxt       "such a dangerous place."
 goto            @Label_06ba

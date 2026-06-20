@@ -228,7 +228,7 @@ dialogtxt       "but one day those people showed up..."
 dialogtxt       "They demanded the Stone, and they..."
 code0309        
 code0479        1, 3, 12
-dialogtxt       "They... Ruined the village..."
+dialogtxt       "They... ruined the village..."
 dialogtxt       "Attacked its people..."
 dialogtxt       "It was horrible..."
 code0309        
@@ -266,7 +266,7 @@ goto            @Label_0d74
 @Cond_0d24:
 dialogtxt       "And then you ran..."
 dialogtxt       "So, how are the village"
-dialogtxt       "and your father doing now..."
+dialogtxt       "and your father doing now?"
 goto            @Label_0d74
 
 @Label_0d74:

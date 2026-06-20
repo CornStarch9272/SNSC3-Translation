@@ -223,7 +223,7 @@ call            @Func_12ce
 code043c        0, 3
 code0479        0, 2, 16
 call            @Func_122c
-dialogtxt       "...Okay."
+dialogtxt       "... Okay."
 dialogtxt       "Guess I have to..."
 code0309        
 call            @Func_1352

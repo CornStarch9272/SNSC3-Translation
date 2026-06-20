@@ -20,7 +20,7 @@ code0479        0, 0, 12
 code047d        0, 106
 call            @Func_2792
 call            @Func_26ba
-dialogtxt       "I'll be going!"
+dialogtxt       "I'll see you all later!"
 code047b        
 code0309        
 call            @Func_270e
@@ -193,15 +193,15 @@ call            @Func_2792
 call            @Func_26d8
 dialogtxt       "Brother?"
 dialogtxt       "... She's your sister!?"
-dialogtxt       "You two are completely different!"
+dialogtxt       "You two look nothing alike!"
 code047b        
 code0309        
 call            @Func_270e
 code0479        1, 0, 12
 call            @Func_2744
-dialogtxt       "Of course we are."
+dialogtxt       "Of course we don't."
 dialogtxt       "We live together,"
-dialogtxt       "but we're not blood related."
+dialogtxt       "but we're not blood-related."
 code0309        
 code0479        1, 2, 13
 dialogtxt       "And hey, there's no way"
@@ -243,12 +243,12 @@ goto            @Cond_0a88
 
 @Cond_0a88:
 jumpz           @Cond_0acc, ($b003 == 2)
-dialogtxt       "So, she is your kid?"
+dialogtxt       "So, she IS your kid?"
 goto            @Cond_0acc
 
 @Cond_0acc:
 jumpz           @Cond_0b2a, ($b003 == 3)
-dialogtxt       "So she's really your daughter?"
+dialogtxt       "So she really IS daughter?"
 goto            @Cond_0b2a
 
 @Cond_0b2a:
@@ -278,8 +278,7 @@ code047d        1, 138
 call            @Func_27a8
 call            @Func_2726
 dialogtxt       "Nice to meet you, I'm Eliez."
-dialogtxt       "I help out"
-dialogtxt       "around the workshop."
+dialogtxt       "I help out around the workshop."
 code047b        
 code0309        
 call            @Func_277a
@@ -498,8 +497,7 @@ code0479        0, 0, 12
 code047d        0, 138
 call            @Func_27be
 call            @Func_26ba
-dialogtxt       "Okay, I'm"
-dialogtxt       "going out!"
+dialogtxt       "Okay, I'm going out now!"
 code047b        
 code0309        
 call            @Func_270e
@@ -524,8 +522,8 @@ dialogtxt       "you that's fine, but..."
 code0309        
 code0479        1, 1, 12
 dialogtxt       "Actually..."
-dialogtxt       "How about you"
-dialogtxt       "take [NAME 2] along?"
+dialogtxt       "How about you take"
+dialogtxt       "[NAME 2] along?"
 code0309        
 call            @Func_27e8
 call            @Func_277a
@@ -604,8 +602,7 @@ call            @Func_277a
 code0479        0, 4, 16
 call            @Func_26d8
 dialogtxt       "Ugh..."
-dialogtxt       "Don't look at"
-dialogtxt       "me like that..."
+dialogtxt       "Don't look at me like that..."
 code0309        
 call            @Func_27fe
 call            @Func_270e

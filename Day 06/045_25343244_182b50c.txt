@@ -203,7 +203,7 @@ code043c        1, 3
 code0479        1, 2, 15
 call            @Func_2aa0
 dialogtxt       "Y—Yeah!"
-dialogtxt       "Go!!! Phantom Dragon!!!"
+dialogtxt       "Go!!! Genryuuki!!!"
 code0309        
 call            @Func_2b70
 call            @Func_2abe
@@ -399,7 +399,7 @@ code043c        1, 3
 code0479        1, 2, 15
 call            @Func_2aa0
 dialogtxt       "Y—Yeah!"
-dialogtxt       "Go!!! Phantom Dragon!!!"
+dialogtxt       "Go!!! Genryuuki!!!"
 code0309        
 call            @Func_2b70
 call            @Func_2abe
@@ -639,19 +639,19 @@ code0479        1, 4, 16
 call            @Func_2b04
 call            @Func_2a82
 dialogtxt       "Uu... [NAME 2] is..."
-dialogtxt       "Fighting, to protect me..."
-dialogtxt       "What am I doing!"
+dialogtxt       "fighting, to protect me..."
+dialogtxt       "What am I doing!?"
 code047b        
 code0309        
 code0479        1, 2, 14
-dialogtxt       "I'm just sitting here"
+dialogtxt       "I'm just sitting here,"
 dialogtxt       "too frightened to move..."
 dialogtxt       "This will not do!"
 code0309        
 code0333        2, 30
 code0479        1, 2, 15
-dialogtxt       "Give me courage..."
-dialogtxt       "Give me strength!"
+dialogtxt       "Give me the courage..."
+dialogtxt       "Give me the strength..."
 dialogtxt       "To protect [NAME 2]!"
 code0309        
 call            @Func_2b5a
@@ -690,7 +690,7 @@ call            @Func_1e2c
 call            @Func_2aee
 call            @Func_2a16
 jumpz           @Cond_1a28, ($b002 == 0)
-dialogtxt       "Dammit!!!"
+dialogtxt       "Crap!!!"
 goto            @Label_1a3e
 
 @Cond_1a28:
@@ -788,7 +788,7 @@ code043c        1, 3
 code0479        1, 2, 15
 call            @Func_2aa0
 dialogtxt       "Y—Yeah!"
-dialogtxt       "Go!!! Phantom Dragon!!!"
+dialogtxt       "Go!!! Genryuuki!!!"
 code0309        
 call            @Func_2b70
 call            @Func_2abe

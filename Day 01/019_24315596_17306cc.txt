@@ -362,9 +362,9 @@ dialogtxt       "I know quite a lot about crafting."
 dialogtxt       "Feel free to ask me anything."
 code0309        
 code047e        0, 0
-choicetxt       @Choice_0fd4, "Teach me about crafting"
-choicetxt       @Choice_107e, "Teach me about crafting ranks"
-choicetxt       @Choice_114a, "Nothing right now"
+choicetxt       @Choice_0fd4, "Teach me about crafting."
+choicetxt       @Choice_107e, "Teach me about crafting ranks."
+choicetxt       @Choice_114a, "Sorry, but not right now."
 choicewait      
 
 @Choice_0fd4:
@@ -412,7 +412,7 @@ dialogtxt       "and save money."
 code0309        
 jumpz           @Cond_1560, ($f1244 == 0)
 dialogtxt       "You're a Craftknight, right?"
-dialogtxt       "Wanna hear about upgrades?"
+dialogtxt       "Want to hear about upgrades?"
 code0309        
 code047e        0, 0
 choicetxt       @Choice_1302, "Yes, please."
@@ -422,12 +422,12 @@ choicewait
 @Choice_1302:
 code047e        0, 1
 dialogtxt       "Um, let's see. If you use a"
-dialogtxt       "\"Water Shard,\" your weapon"
-dialogtxt       "will gain the \"Water\" element."
+dialogtxt       "Water Shard, your weapon"
+dialogtxt       "will gain the Water element."
 code0309        
 dialogtxt       "Astoundingly, for one time only,"
-dialogtxt       "I have one \"Water Shard\" on sale"
-dialogtxt       "for just 100 Boam!"
+dialogtxt       "I have one Water Shard on sale"
+dialogtxt       "for just 100 boam!"
 code0309        
 dialogtxt       "How about it?"
 code0309        
@@ -460,7 +460,7 @@ code0445        17, 5
 code0446        17
 code0301        8, 7
 code047e        0, 1
-dialogtxt       "You don't have enough money..."
+dialogtxt       "You don't have enough boam..."
 dialogtxt       "Negotiations have broken down,"
 dialogtxt       "I think..."
 code0309		

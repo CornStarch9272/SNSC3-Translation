@@ -42,7 +42,7 @@ code0309
 call            @Func_44ac
 code0479        1, 0, 12
 call            @Func_44e2
-dialogtxt       "\"Fun\", You Say?"
+dialogtxt       "\"Fun,\" You Say?"
 dialogtxt       "I Do Not Possess The Capability"
 dialogtxt       "Of Experiencing Human Emotions."
 code0309        
@@ -115,7 +115,7 @@ call            @Func_44ac
 code0479        1, 3, 12
 call            @Func_44e2
 dialogtxt       "So You Have Considered Me \"Cool...\""
-dialogtxt       "...ERROR, Washing Fluid Is"
+dialogtxt       "... ERROR, Washing Fluid Is"
 dialogtxt       "Leaking From My Windshield..."
 code0309        
 call            @Func_4518
@@ -435,7 +435,7 @@ call            @Func_4476
 jumpz           @Cond_11ea, ($b002 == 0)
 dialogtxt       "Y—You really think so,"
 dialogtxt       "[NAME 1]?"
-dialogtxt       "Damn, this is embarassing..."
+dialogtxt       "Gee, this is embarassing..."
 goto            @Label_1214
 
 @Cond_11ea:
@@ -562,9 +562,9 @@ dialogtxt       "Lady Murno. I Conclude Her Safety"
 dialogtxt       "Levels As Relatively High."
 code0309        
 code0479        1, 0, 12
-dialogtxt       "Master Wellman Has Sufficient"
+dialogtxt       "Mr. Wellman Has Sufficient"
 dialogtxt       "Combat Prowess To Be Able To"
-dialogtxt       "Continue Protecting Milady."
+dialogtxt       "Continue Protecting Lady Murno."
 code0309        
 call            @Func_4518
 code0479        0, 5, 16
@@ -592,7 +592,7 @@ call            @Func_4518
 code0479        0, 2, 14
 call            @Func_4476
 dialogtxt       "So that meant you and Wellman would"
-dialogtxt       "often practice sparring together?"
+dialogtxt       "often spar together?"
 dialogtxt       "Somehow, that's hard to believe..."
 code0309        
 call            @Func_44ac
@@ -683,7 +683,7 @@ code0309
 call            @Func_4518
 code0479        0, 2, 16
 call            @Func_4476
-dialogtxt       "But... Isn't her home"
+dialogtxt       "But, isn't her home"
 dialogtxt       "is still infested with Strays?"
 code0309        
 call            @Func_44ac
@@ -724,7 +724,7 @@ call            @Func_4518
 code0479        0, 2, 14
 call            @Func_4476
 dialogtxt       "So that meant you and Wellman would"
-dialogtxt       "often practice sparring together?"
+dialogtxt       "often spar together?"
 dialogtxt       "Somehow, that's hard to believe..."
 code0309        
 call            @Func_44ac
@@ -853,7 +853,7 @@ call            @Func_4518
 code0479        0, 2, 14
 call            @Func_4476
 dialogtxt       "So that meant you and Wellman would"
-dialogtxt       "often practice sparring together?"
+dialogtxt       "often spar together?"
 dialogtxt       "Somehow, that's hard to believe..."
 code0309        
 call            @Func_44ac
@@ -929,8 +929,8 @@ call            @Func_44ac
 code0479        1, 0, 12
 call            @Func_44e2
 dialogtxt       "Of course, and I still do..."
-dialogtxt       "But Master Wellman is protecting"
-dialogtxt       "Milady in my stead, so..."
+dialogtxt       "But Mr. Wellman is protecting"
+dialogtxt       "Lady Murno in my stead, so..."
 code0309        
 code0479        1, 0, 13
 dialogtxt       "I'm sure they'll both be alright!"
@@ -945,7 +945,7 @@ call            @Func_44ac
 code0479        1, 0, 16
 call            @Func_44e2
 dialogtxt       "Indeed, that is still a problem..."
-dialogtxt       "But Master Wellman can manage on"
+dialogtxt       "But Mr. Wellman can manage on"
 dialogtxt       "his own, even against a mighty foe."
 code0309        
 call            @Func_4518
@@ -980,15 +980,15 @@ call            @Func_4518
 code0479        0, 2, 14
 call            @Func_4476
 dialogtxt       "So that meant you and Wellman would"
-dialogtxt       "often practice sparring together?"
+dialogtxt       "often spar together?"
 dialogtxt       "Somehow, that's hard to believe..."
 code0309        
 call            @Func_44ac
 code0479        1, 4, 12
 call            @Func_44e2
 dialogtxt       "You, on the other hand, are more"
-dialogtxt       "reckless than Milady! Goodness,"
-dialogtxt       "[NAME 2]!"
+dialogtxt       "reckless than Lady Murno!"
+dialogtxt       "My goodness, [NAME 2]!"
 code0309        
 call            @Func_4518
 code0479        0, 5, 16

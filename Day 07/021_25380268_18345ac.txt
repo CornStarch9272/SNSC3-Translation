@@ -57,7 +57,7 @@ goto            @Cond_024e
 
 @Cond_024e:
 jumpz           @Cond_029a, ($b003 == 3)
-dialogtxt       "Uu..."
+dialogtxt       "Hmm..."
 dialogtxt       "For some reason, this room gives"
 dialogtxt       "off an unpleasant feeling..."
 goto            @Cond_029a
@@ -84,7 +84,6 @@ code0479        1, 2, 16
 code047d        1, 0
 call            @Func_1354
 call            @Func_12d2
-dialogtxt       "Huh..."
 dialogtxt       "There they are."
 code047b        
 code0309        

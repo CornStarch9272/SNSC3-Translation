@@ -254,8 +254,8 @@ code047a        1, 1, 0
 code047e        1, 1
 code0301        4, 9
 code031f        6
-dialogtxt       "My Master, Voijin."
-dialogtxt       "Rob killed him!"
+dialogtxt       "It's true..."
+dialogtxt       "Your master killed my master!"
 code0309        
 code0479        1, 3, 14
 dialogtxt       "And you are his apprentice."

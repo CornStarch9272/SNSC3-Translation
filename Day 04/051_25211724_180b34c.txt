@@ -132,9 +132,9 @@ dialogtxt       "You're terrible, you know!"
 dialogtxt       "Leaving me behind like that!"
 code0309        
 code0479        1, 4, 16
-dialogtxt       "That Ianna lectured me"
-dialogtxt       "all day, and I didn't get"
-dialogtxt       "a single Boam out of it."
+dialogtxt       "Ianna lectured me all day,"
+dialogtxt       "and I didn't get a single boam"
+dialogtxt       "out of it."
 code0309        
 code0479        1, 1, 17
 dialogtxt       "I'm so unlucky~!"
@@ -144,12 +144,12 @@ code0479        0, 0, 16
 call            @Func_1a22
 jumpz           @Cond_072a, ($b002 == 0)
 dialogtxt       "Sorry I didn't say anything."
-dialogtxt       "But Bro told me to go..."
+dialogtxt       "But bro told me to go..."
 goto            @Label_0764
 
 @Cond_072a:
 dialogtxt       "Sorry I didn't say anything."
-dialogtxt       "But Bro told me to go..."
+dialogtxt       "But bro told me to go..."
 goto            @Label_0764
 
 @Label_0764:
@@ -199,7 +199,7 @@ goto            @Cond_08e0
 @Cond_08e0:
 jumpz           @Cond_0926, ($b003 == 3)
 dialogtxt       "Sorry to interrupt,"
-dialogtxt       "but how Lady Murno doing?"
+dialogtxt       "but how is Lady Murno doing?"
 goto            @Cond_0926
 
 @Cond_0926:
@@ -208,8 +208,8 @@ code0309
 call            @Func_1a58
 code0479        1, 0, 12
 call            @Func_1a8e
-dialogtxt       "She's still talking"
-dialogtxt       "to that Velvoren guy."
+dialogtxt       "She's still talking to that"
+dialogtxt       "Velvoren guy."
 dialogtxt       "V.E's not done either."
 code0309        
 call            @Func_1b32
@@ -222,14 +222,14 @@ call            @Func_1adc
 call            @Func_1a22
 jumpz           @Cond_0a2a, ($b002 == 0)
 dialogtxt       "Actually Tier, I need a favor."
-dialogtxt       "Could you take Eliez"
-dialogtxt       "back to town for me?"
+dialogtxt       "Could you take Eliez back to"
+dialogtxt       "town for me?"
 goto            @Label_0a78
 
 @Cond_0a2a:
 dialogtxt       "Tier, I need a favor."
-dialogtxt       "Could you take Eliez"
-dialogtxt       "back to town for me?"
+dialogtxt       "Could you take Eliez back to"
+dialogtxt       "town for me?"
 goto            @Label_0a78
 
 @Label_0a78:
@@ -245,14 +245,14 @@ code0479        0, 2, 16
 call            @Func_1a22
 jumpz           @Cond_0b3a, ($b002 == 0)
 dialogtxt       "There's something I'm worried about."
-dialogtxt       "There's a Stray that's"
-dialogtxt       "appeared further in."
+dialogtxt       "There's a Stray that's appeared"
+dialogtxt       "further in."
 goto            @Label_0b9a
 
 @Cond_0b3a:
 dialogtxt       "There's something I'm worried about."
-dialogtxt       "There's a Stray that's"
-dialogtxt       "appeared further in."
+dialogtxt       "There's a Stray that's appeared"
+dialogtxt       "further in."
 goto            @Label_0b9a
 
 @Label_0b9a:

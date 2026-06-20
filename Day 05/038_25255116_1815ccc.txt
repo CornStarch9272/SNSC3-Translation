@@ -119,8 +119,8 @@ call            @Func_1f5c
 code043c        2, 2
 code0479        1, 2, 14
 call            @Func_1f92
-dialogtxt       "Jade said he saw them, but now"
-dialogtxt       "they're were nowhere to be found..."
+dialogtxt       "Jade said he saw her, but now"
+dialogtxt       "she's nowhere to be found..."
 dialogtxt       "This guy is useless..."
 code0309        
 call            @Func_2036
@@ -240,8 +240,7 @@ code0479        0, 2, 12
 code047d        0, 0
 call            @Func_1fe0
 call            @Func_1f08
-dialogtxt       "Bro,"
-dialogtxt       "you're so cool!"
+dialogtxt       "Bro, you're so cool!"
 code047b        
 code0309        
 call            @Func_2036
@@ -257,7 +256,7 @@ code047d        0, 110
 call            @Func_200c
 call            @Func_1f08
 dialogtxt       "Helping out is fine,"
-dialogtxt       "but what about the clean-up?"
+dialogtxt       "but what about the extermination?"
 code047b        
 code0309        
 call            @Func_1f5c
@@ -316,8 +315,8 @@ call            @Func_1fc8
 code0479        0, 4, 12
 call            @Func_1f26
 dialogtxt       "I'm sorry."
-dialogtxt       "I don't know those"
-dialogtxt       "people very well..."
+dialogtxt       "I don't know those people"
+dialogtxt       "very well..."
 code0309        
 code0479        0, 0, 12
 dialogtxt       "Anyway, we'll return"

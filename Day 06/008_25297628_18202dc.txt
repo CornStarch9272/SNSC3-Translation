@@ -82,9 +82,9 @@ goto            @Label_03b0
 @Label_03b0:
 code0309        
 code0479        0, 2, 12
-choicetxt       @Choice_080c, "5 types"
-choicetxt       @Choice_080c, "6 types"
-choicetxt       @Choice_03ec, "7 types"
+choicetxt       @Choice_080c, "There's five types!"
+choicetxt       @Choice_080c, "There's six types!"
+choicetxt       @Choice_03ec, "There's seven types!"
 choicewait      
 
 @Choice_03ec:
@@ -111,14 +111,13 @@ code0309
 goto            @Label_04c4
 
 @Cond_04ae:
-dialogtxt       "First question."
+dialogtxt       "Next question."
 code0309        
 goto            @Label_04c4
 
 @Label_04c4:
 code0479        1, 0, 14
-dialogtxt       "Of the following, the heaviest is..."
-dialogtxt       "Which one of the following?"
+dialogtxt       "Which weapon is the heaviest?"
 code0309        
 call            @Func_0f6c
 code0479        0, 2, 16
@@ -136,9 +135,9 @@ goto            @Label_0584
 @Label_0584:
 code0309        
 code0479        0, 2, 12
-choicetxt       @Choice_080c, "Sword"
-choicetxt       @Choice_05c2, "Axe"
-choicetxt       @Choice_080c, "Knuckle"
+choicetxt       @Choice_080c, "The sword!"
+choicetxt       @Choice_05c2, "The axe!"
+choicetxt       @Choice_080c, "Knuckles!"
 choicewait      
 
 @Choice_05c2:
@@ -191,9 +190,9 @@ goto            @Label_0762
 @Label_0762:
 code0309        
 code0479        0, 2, 12
-choicetxt       @Choice_080c, "A strong Shapestone"
-choicetxt       @Choice_080c, "Quality ingredients"
-choicetxt       @Choice_07c0, "A spirit-filled hammer"
+choicetxt       @Choice_080c, "A strong Shapestone!"
+choicetxt       @Choice_080c, "Quality ingredients!"
+choicetxt       @Choice_07c0, "A spirit-filled hammer!"
 choicewait      
 
 @Choice_07c0:

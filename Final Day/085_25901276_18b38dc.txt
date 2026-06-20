@@ -118,7 +118,7 @@ code046c        1
 goto            @Cond_053e
 
 @Cond_053e:
-placetxt        "Govan Ruins　Magic Amplifier Area"
+placetxt        "Govan Ruins　Magic Amplifier"
 code040b        
 
 setvar          $h096, 47
@@ -144,11 +144,13 @@ code0301        8, 7
 code047d        0, 0
 code047e        0, 1
 jumpz           @Cond_0652, ($b002 == 0)
-dialogtxt       "Can't go up this way."
+dialogtxt       "Doesn't look like we can make it"
+dialogtxt       "back this way."
 goto            @Label_0678
 
 @Cond_0652:
-dialogtxt       "Can't go up this way."
+dialogtxt       "Doesn't look like we can make it"
+dialogtxt       "back this way."
 goto            @Label_0678
 
 @Label_0678:

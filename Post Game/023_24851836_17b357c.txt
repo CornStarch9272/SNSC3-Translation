@@ -511,7 +511,7 @@ code043e        0, 59, 1
 code033a        112, 0
 code033e        112
 code043f        0
-popuptxt        "I got the special bow item set!"
+popuptxt        " Got the special bow item set!"
 code0318        
 code0301        8, 7
 code047d        0, 143
@@ -557,7 +557,7 @@ code040b
 @Event_1a8c:
 code0301        8, 7
 dialogtxt       "　"
-dialogtxt       "　　　　 Let's be careful."
+dialogtxt       "　　　　　　　~Hark!~"
 code0309        
 dialogtxt       "If you're travelling in groups,"
 dialogtxt       "make sure to check on your pals!"
@@ -571,7 +571,7 @@ code040b
 @Event_1b28:
 code0301        8, 7
 dialogtxt       "　"
-dialogtxt       "　　　　∞Listen, listen!∞"
+dialogtxt       "　　　　　∞Listen, listen!∞"
 code0309        
 dialogtxt       "I really, really hate sweets!"
 dialogtxt       "Oh, and I love peppers, by the way!"
@@ -582,7 +582,7 @@ code040b
 @Event_1b9e:
 code0301        8, 7
 dialogtxt       "　"
-dialogtxt       "　　　　Seek knowledge!"
+dialogtxt       "　　　　~I desire knowledge!~"
 code0309        
 dialogtxt       "I crave for super-duper spicy food"
 dialogtxt       "so hot, it'll easily put the"
@@ -594,7 +594,7 @@ code040b
 @Event_1c28:
 code0301        8, 7
 dialogtxt       "As I feel at unease,"
-dialogtxt       "I yean to put my mind"
+dialogtxt       "I yearn to put my mind"
 dialogtxt       "Back to peace and silence."
 code0309        
 dialogtxt       "In this town, so far away,"
@@ -702,4 +702,3 @@ code043e        31, 6, 0
 walkto          31, 512, -8, 19
 code0461        19
 code040b        
-

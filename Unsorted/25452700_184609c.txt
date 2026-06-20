@@ -63,7 +63,7 @@ call            @Func_0f22
 code0301        6, 7
 code047e        0, 1
 code047e        1, 1
-dialogtxt       "!!!"
+dialogtxt       "What!!!"
 code047b        
 code0309        
 call            @Func_0f4c

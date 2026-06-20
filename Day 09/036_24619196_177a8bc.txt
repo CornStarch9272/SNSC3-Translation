@@ -391,7 +391,7 @@ dialogtxt       "It was defeated just recently."
 code0309        
 dialogtxt       "However, there are still other"
 dialogtxt       "dangerous Strays in the Mine."
-dialogtxt       "Be careful if you go out∞"
+dialogtxt       "Be careful if you go out ∞"
 code0309        
 code0302        7
 code040b        
@@ -409,7 +409,7 @@ code040b
 code0301        8, 7
 dialogtxt       "Look down ↓"
 code0309        
-dialogtxt       "↑ To look up, press"
+dialogtxt       "To look up ↑, press"
 dialogtxt       "START."
 code0309        
 code0302        7

@@ -22,12 +22,12 @@ code047d        0, 0
 call            @Func_2e60
 call            @Func_2d88
 jumpz           @Cond_015a, ($b002 == 0)
-dialogtxt       "What is that..."
+dialogtxt       "What is THAT?"
 dialogtxt       "A sword?"
 goto            @Label_0176
 
 @Cond_015a:
-dialogtxt       "What is that..."
+dialogtxt       "What is THAT?"
 dialogtxt       "A sword?"
 goto            @Label_0176
 
@@ -203,14 +203,12 @@ code047d        0, 0
 call            @Func_2e60
 call            @Func_2d88
 jumpz           @Cond_07e4, ($b002 == 0)
-dialogtxt       "Damn!"
-dialogtxt       "Murno!"
+dialogtxt       "Hold on Murno!"
 dialogtxt       "I'm coming!"
 goto            @Label_0816
 
 @Cond_07e4:
-dialogtxt       "Hold on!"
-dialogtxt       "Murno!"
+dialogtxt       "Hold on Murno!"
 dialogtxt       "I'm coming!"
 goto            @Label_0816
 
@@ -380,7 +378,7 @@ dialogtxt       "I need not only the Demon Stone..."
 code0309        
 code0479        1, 2, 12
 dialogtxt       "But also a descendant"
-dialogtxt       "of it's ancestors."
+dialogtxt       "of its protector."
 code0309        
 call            @Func_2eb6
 call            @Func_2e48
@@ -427,8 +425,8 @@ goto            @Cond_10fc
 
 @Cond_10fc:
 jumpz           @Cond_114a, ($b003 == 3)
-dialogtxt       "You mean Murno's the key to"
-dialogtxt       "activating these ruins...!"
+dialogtxt       "You mean Lady Murno is the"
+dialogtxt       "key to activating these ruins!?"
 goto            @Cond_114a
 
 @Cond_114a:
@@ -507,23 +505,23 @@ code0479        0, 4, 16
 call            @Func_2da6
 dialogtxt       "But, Master..."
 dialogtxt       "I don't understand."
-dialogtxt       "Just what are you trying to do..."
+dialogtxt       "Just what are you trying to do?"
 code0309        
 code0479        0, 4, 14
-dialogtxt       "Do you intend to separate"
+dialogtxt       "Do you intend to liberate"
 dialogtxt       "humans from Summon Beasts?"
 dialogtxt       "Is that it?"
 code0309        
 call            @Func_2ddc
 code0479        1, 4, 13
 call            @Func_2e12
-dialogtxt       "Separate humans from Beasts..."
+dialogtxt       "Liberate humans from Beasts..."
 dialogtxt       "I have no interest in that."
 dialogtxt       "What I want is power."
 code0309        
 code0479        1, 2, 14
-dialogtxt       "Ultimate power,"
-dialogtxt       "enough to control this world."
+dialogtxt       "Ultimate power!"
+dialogtxt       "Enough to control this world."
 code0309        
 call            @Func_2eb6
 call            @Func_2e48
@@ -673,7 +671,7 @@ call            @Func_2e60
 code047c        0, 2
 call            @Func_2d88
 dialogtxt       "Ugh..."
-dialogtxt       "M... mas...ter..."
+dialogtxt       "Mas...ter..."
 code047b        
 code0309        
 call            @Func_2eb6
@@ -700,11 +698,11 @@ code047d        0, 0
 call            @Func_2e60
 call            @Func_2d88
 jumpz           @Cond_1ec2, ($b002 == 0)
-dialogtxt       "Bastard!"
+dialogtxt       "You...!"
 goto            @Label_1ed6
 
 @Cond_1ec2:
-dialogtxt       "You!"
+dialogtxt       "You jerk!"
 goto            @Label_1ed6
 
 @Label_1ed6:
@@ -721,14 +719,13 @@ code047d        1, 111
 call            @Func_2e76
 call            @Func_2e12
 dialogtxt       "Ever since we met..."
-dialogtxt       "Rob was..."
-dialogtxt       "Always one step ahead of me..."
+dialogtxt       "Rob was always one step ahead"
+dialogtxt       "of me..."
 code047b        
 code0309        
 code0479        1, 2, 14
 code0479        0, 2, 16
-dialogtxt       "As a blacksmith,"
-dialogtxt       "and as a warrior..."
+dialogtxt       "As a blacksmith and as a warrior..."
 dialogtxt       "In every way!"
 code0309        
 code0479        1, 4, 12
@@ -753,7 +750,7 @@ dialogtxt       "Friends, comrades, even my wife."
 dialogtxt       "But that didn't matter!"
 code0309        
 code0479        1, 3, 15
-dialogtxt       "If I could beat Rob!"
+dialogtxt       "As long as I could beat Rob!"
 code0309        
 call            @Func_2eb6
 call            @Func_2e48
@@ -803,7 +800,7 @@ dialogtxt       "these ruins, everything will change."
 dialogtxt       "With this power, I..."
 code0309        
 code0479        1, 3, 13
-dialogtxt       "Will have the world in my hands!"
+dialogtxt       "I WILL have the world in my hands!"
 code0309        
 call            @Func_2eb6
 call            @Func_2e48
