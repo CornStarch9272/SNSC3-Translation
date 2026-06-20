@@ -12,15 +12,15 @@ dialogtxt       "the rhythm of your soul too, huh?"
 code047b        
 code0309        
 code0479        1, 1, 12
-dialogtxt       "Of course, nobody can bang"
-dialogtxt       "one out like Cozy."
+dialogtxt       "Of course, nobody can bang one"
+dialogtxt       "out quite like Cozy."
 dialogtxt       "It's not possible."
 code0309        
 call            @Func_1026
 code0479        0, 0, 16
 call            @Func_0f84
-dialogtxt       "Rolling? Rock? I don't know"
-dialogtxt       "much about the Nameless World's"
+dialogtxt       "Huh? Sorry, I don't know much"
+dialogtxt       "about the Nameless World's"
 dialogtxt       "music..."
 code0309        
 code0479        0, 2, 12
