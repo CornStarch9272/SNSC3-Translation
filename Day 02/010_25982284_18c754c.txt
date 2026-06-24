@@ -12,19 +12,19 @@ dialogtxt       "My name is Zenichi."
 code0309        
 jumpz           @Cond_0216, ($bv037 == 0 && $bv037 == 0 && $bv037 == 0)
 dialogtxt       "When I was young, I was in the"
-dialogtxt       "tree chopping industry."
+dialogtxt       "forestry business."
 code0309        
 dialogtxt       "Whenever I had free time,"
 dialogtxt       "I would break all the boxes"
 dialogtxt       "I could find in forests and caves."
 code0309        
 dialogtxt       "It's pretty fun, so how about it?"
-dialogtxt       "You wanna take the challenge?"
+dialogtxt       "You wanna take on the challenge?"
 code0309        
-dialogtxt       "If you can break all the barrels"
-dialogtxt       "and boxes in each area in one go,"
-dialogtxt       "I'll give you a prize for each area."
-code0309        
+dialogtxt       "For every area where you break all"
+dialogtxt       "the barrels and boxes in one go, I'll"
+dialogtxt       "give you a nice prize!"
+code0309        	
 goto            @Label_026c
 
 @Cond_0216:
@@ -48,30 +48,29 @@ dialogtxt       "My name is Zenzou."
 code0309        
 jumpz           @Cond_0436, ($bv037 == 0 && $bv037 == 0 && $bv037 == 0)
 dialogtxt       "When I was young, I was in the"
-dialogtxt       "tree chopping industry."
+dialogtxt       "forestry business."
 code0309        
-dialogtxt       "If I had free time,"
+dialogtxt       "Whenever I had free time,"
 dialogtxt       "I would break all the boxes"
 dialogtxt       "I could find in forests and caves."
 code0309        
-dialogtxt       "It's pretty fun,"
-dialogtxt       "so how about it?"
-dialogtxt       "You wanna take the challenge?"
+dialogtxt       "It's pretty fun, so how about it?"
+dialogtxt       "You wanna take on the challenge?"
 code0309        
-dialogtxt       "If you can break all the barrels"
-dialogtxt       "and boxes in each area in one go,"
-dialogtxt       "I'll give you a prize for each area."
-code0309        
+dialogtxt       "For every area where you break all"
+dialogtxt       "the barrels and boxes in one go, I'll"
+dialogtxt       "give you a nice prize!"
+code0309        	
 goto            @Label_04d2
 
 @Cond_0436:
 jumpz           @Label_04d2, ($bv038 == 0)
-dialogtxt       "Hm, it's the first time we've met,"
+dialogtxt       "Hm? It's the first time we've met,"
 dialogtxt       "but you seem to recognize me."
 code0309        
-dialogtxt       "Hoho~, it seems you met my brother."
+dialogtxt       "Hoho! It seems you've met my brother."
 code0309        
-dialogtxt       "Then I won't need to explain."
+dialogtxt       "Then, I shouldn't need to explain."
 code0309        
 goto            @Label_04d2
 
@@ -88,20 +87,19 @@ dialogtxt       "My name is Zenji."
 code0309        
 jumpz           @Cond_069a, ($bv037 == 0 && $bv037 == 0 && $bv037 == 0)
 dialogtxt       "When I was young, I was in the"
-dialogtxt       "tree chopping industry."
+dialogtxt       "forestry business."
 code0309        
-dialogtxt       "If I had free time,"
+dialogtxt       "Whenever I had free time,"
 dialogtxt       "I would break all the boxes"
 dialogtxt       "I could find in forests and caves."
 code0309        
-dialogtxt       "It's pretty fun,"
-dialogtxt       "so how about it?"
-dialogtxt       "You wanna take the challenge?"
+dialogtxt       "It's pretty fun, so how about it?"
+dialogtxt       "You wanna take on the challenge?"
 code0309        
-dialogtxt       "If you can break all the barrels"
-dialogtxt       "and boxes in each area in one go,"
-dialogtxt       "I'll give you a prize for each area."
-code0309        
+dialogtxt       "For every area where you break all"
+dialogtxt       "the barrels and boxes in one go, I'll"
+dialogtxt       "give you a nice prize!"
+code0309        	
 goto            @Label_06f2
 
 @Cond_069a:
@@ -127,9 +125,9 @@ goto            @Label_0762
 @Label_0762:
 jumpz           @Cond_082c, ($bv031 == 4)
 jumpz           @Cond_07aa, $f1239
-dialogtxt       "I got you to show me something good~"
-dialogtxt       "Quite the sight."
-code0309        
+dialogtxt       "Ah, you've given me quite the show!"
+dialogtxt       "What a sight for sore eyes."
+code0309		
 goto            @Label_0828
 
 @Cond_07aa:
@@ -137,7 +135,7 @@ jumpz           @Cond_0810, $bv040
 dialogtxt       "You're the legendary..."
 code0309        
 dialogtxt       "Ah, I've heard of you from my sons."
-dialogtxt       "I will give you this."
+dialogtxt       "Here, take this."
 code0309        
 setvar          $f1239, 1
 setvar          $bv029, 12
@@ -231,19 +229,19 @@ goto            @Label_0c54
 
 @Cond_0b92:
 jumpz           @Cond_0c06, $bv040
-dialogtxt       "All the objects in every"
-dialogtxt       "forest and cave are broken."
-dialogtxt       "You've done well."
+dialogtxt       "You've broken every object"
+dialogtxt       "in every forest and cave."
+dialogtxt       "What a showing!"
 code0309        
-dialogtxt       "Could you be the legendary..."
-code0309        
+dialogtxt       "You really are the stuff of legend."
+code0309        	
 goto            @Label_0c50
 
 @Cond_0c06:
 dialogtxt       "... Hm?"
 code0309        
-dialogtxt       "Let me know when you've"
-dialogtxt       "made another breakthrough."
+dialogtxt       "Doesn't seem like you've"
+dialogtxt       "cleared any new areas."
 code0309        
 goto            @Label_0c50
 
@@ -253,7 +251,7 @@ goto            @Label_0c54
 @Label_0c54:
 jumpz           @Cond_0c96, ($bv029 != 0)
 dialogtxt       "Looks like you've broken everything."
-dialogtxt       "So I will give you this."
+dialogtxt       "Here, take this."
 code0309        
 goto            @Cond_0c96
 
@@ -542,4 +540,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-

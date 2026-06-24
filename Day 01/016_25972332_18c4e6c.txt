@@ -11,16 +11,16 @@ jumpz           @Cond_0178, ($bv031 == 1)
 jumpz           @Cond_0106, ($bv029 == 0)
 code0301        8, 7
 code047e        0, 1
-dialogtxt       "Hey..."
-dialogtxt       "[NAME 4]..."
+dialogtxt       "Hey, you!"
+dialogtxt       "[NAME 4]."
 dialogtxt       "Got any?"
 code0309        
-dialogtxt       "[NAME 4]..."
-dialogtxt       "They're my favorites, y'know..."
+dialogtxt       "[NAME 4] is my"
+dialogtxt       "favorite, y'know?"
 code0309        
 dialogtxt       "I want to own every"
-dialogtxt       "[NAME 4] in the world..."
-dialogtxt       "I just can't help myself..."
+dialogtxt       "[NAME 4] in the world."
+dialogtxt       "I want them all!"
 code0309        
 code047e        0, 0
 code0302        7
@@ -30,8 +30,8 @@ goto            @Label_0174
 code0301        8, 7
 code047e        0, 1
 dialogtxt       "I'll buy any [NAME 4]"
-dialogtxt       "you have."
-dialogtxt       "Give 'em here."
+dialogtxt       "you've got."
+dialogtxt       "Give 'em here!"
 code0309        
 code047e        0, 0
 code0302        7
@@ -46,19 +46,19 @@ jumpz           @Cond_031e, ($bv031 == 2)
 jumpz           @Cond_02ac, ($bv029 == 0)
 code0301        8, 7
 code047e        0, 1
-dialogtxt       "Hey..."
-dialogtxt       "[NAME 4]..."
+dialogtxt       "Hey, you!"
+dialogtxt       "[NAME 4]."
 dialogtxt       "Got any?"
 code0309        
 dialogtxt       "They're great for preventing"
 dialogtxt       "drafts from coming in."
 code0309        
 dialogtxt       "You know, my dream is to live"
-dialogtxt       "in a house built by my own hands."
+dialogtxt       "in a house I built all by myself."
 code0309        
-dialogtxt       "I've got one made, but theres"
-dialogtxt       "cracks everywhere, and the wife"
-dialogtxt       "isn't having any of it."
+dialogtxt       "Truth be told, it's pretty much done. "
+dialogtxt       "But it's full of cracks, and the"
+dialogtxt       "family's had it with me..."
 code0309        
 code047e        0, 0
 code0302        7
@@ -68,7 +68,7 @@ goto            @Label_031a
 code0301        8, 7
 code047e        0, 1
 dialogtxt       "I'll buy any [NAME 4]"
-dialogtxt       "you have."
+dialogtxt       "you've got."
 dialogtxt       "Give 'em here."
 code0309        
 code047e        0, 0
@@ -84,13 +84,13 @@ jumpz           @Cond_0444, ($bv031 == 3)
 jumpz           @Cond_03d2, ($bv029 == 0)
 code0301        8, 7
 code047e        0, 1
-dialogtxt       "Hey..."
-dialogtxt       "[NAME 4]..."
+dialogtxt       "Hey, you!"
+dialogtxt       "[NAME 4]."
 dialogtxt       "Got any?"
 code0309        
-dialogtxt       "[NAME 4]..."
-dialogtxt       "They're so mesmerizing..."
-dialogtxt       "They really take your breath away..."
+dialogtxt       "Ah, [NAME 4]..."
+dialogtxt       "Their touch is irresistible!"
+dialogtxt       "Doesn't it just take your breath away?"
 code0309        
 code047e        0, 0
 code0302        7
@@ -118,15 +118,15 @@ jumpz           @Label_05b0, ($bv031 == 4)
 jumpz           @Cond_053e, ($bv029 == 0)
 code0301        8, 7
 code047e        0, 1
-dialogtxt       "Hey..."
-dialogtxt       "[NAME 4]..."
+dialogtxt       "Hey, you!"
+dialogtxt       "[NAME 4]."
 dialogtxt       "Got any?"
 code0309        
-dialogtxt       "I know a guy who'll pay top price"
-dialogtxt       "for this kinda cargo..."
+dialogtxt       "Lately, collectors have been paying"
+dialogtxt       "a fortune just to get a single one!"
 code0309        
-dialogtxt       "He's a bit, uh, shy around strangers,"
-dialogtxt       "so leave the negotiations to me..."
+dialogtxt       "Ah, but it takes a pro to find a buyer."
+dialogtxt       "Let me handle the distribution, 'kay?"
 code0309        
 code047e        0, 0
 code0302        7
@@ -135,10 +135,10 @@ goto            @Label_05ac
 @Cond_053e:
 code0301        8, 7
 code047e        0, 1
-dialogtxt       "I'll buy any [NAME 4]"
-dialogtxt       "you have."
-dialogtxt       "Give 'em here."
-code0309        
+dialogtxt       "Hey, you!"
+dialogtxt       "[NAME 4]."
+dialogtxt       "Got any?"
+code0309		
 code047e        0, 0
 code0302        7
 call            @Func_069e
