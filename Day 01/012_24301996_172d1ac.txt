@@ -419,7 +419,7 @@ code040b
 code0301        8, 7
 code047d        0, 126
 code047e        0, 1
-dialogtxt       "Thanks to all those Strays,"
+dialogtxt       "Thanks to all the Strays,"
 dialogtxt       "weapons and armor have been"
 dialogtxt       "flying right off the shelves!"
 code0309        

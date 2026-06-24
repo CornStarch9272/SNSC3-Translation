@@ -86,7 +86,7 @@ code047d        0, 119
 code047e        0, 1
 dialogtxt       "You finally got yourself"
 dialogtxt       "a Summon Beast, [NAME 2]!"
-dialogtxt       "Great news!"
+dialogtxt       "That's great!"
 code0309        
 code047e        0, 0
 code0302        7
