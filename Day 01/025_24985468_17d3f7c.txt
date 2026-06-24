@@ -128,7 +128,7 @@ code0479        0, 1, 12
 call            @Func_0e40
 dialogtxt       "This is exciting!"
 dialogtxt       "Now that there's two of us,"
-dialogtxt       "let's try going deeper than usual."
+dialogtxt       "we can try going deeper than usual."
 goto            @Label_0716
 
 @Label_0716:
@@ -142,20 +142,20 @@ code0492
 code048c        
 code040d        15
 code043c        0, 2
-popuptxt        " About field actions"
+popuptxt        " About field actions:"
 code0318        
 code0301        0, 0
 code0305        1
 dialogtxt       " In any open area, weapons can"
-dialogtxt       " be used to destroy objects"
+dialogtxt       " be used to destroy objects,"
 dialogtxt       " such as crates and barrels."
 code0309        
-dialogtxt       " Each object has a weapon type"
-dialogtxt       " that works against it."
-dialogtxt       " Change weapons using L/R buttons."
+dialogtxt       " Each object has a weapon type that"
+dialogtxt       " works against it. You can change "
+dialogtxt       " weapons using the L and R buttons."
 code0309        
 dialogtxt       " When you destroy an object,"
-dialogtxt       " you may obtain an item."
+dialogtxt       " you may obtain an item!"
 code0309        
 code0302        9
 done            

@@ -64,7 +64,7 @@ code0333        2, 30
 code0479        0, 0, 12
 call            @Func_23ba
 dialogtxt       "Well..."
-dialogtxt       "I heard you but I couldn't"
+dialogtxt       "I heard you, but I couldn't"
 dialogtxt       "see any difference, so..."
 code0309        
 call            @Func_23f0
@@ -108,6 +108,7 @@ call            @Func_245c
 code0479        0, 2, 14
 call            @Func_23ba
 jumpz           @Cond_056e, ($b002 == 0)
+dialogtxt       "Ugh! "
 dialogtxt       "This is going nowhere!"
 code0309        
 code0479        0, 2, 15
@@ -183,8 +184,8 @@ call            @Func_245c
 code0333        2, 30
 code0479        0, 0, 12
 call            @Func_23ba
-dialogtxt       "No, it's just that I couldn't tell"
-dialogtxt       "the difference, so..."
+dialogtxt       "No, it's just that I couldn't"
+dialogtxt       "see the difference, so..."
 goto            @Label_0992
 
 @Label_0992:
@@ -211,7 +212,7 @@ code0309
 call            @Func_23f0
 code0479        1, 4, 13
 call            @Func_2426
-dialogtxt       "Not your actual color."
+dialogtxt       "Not your literal color."
 dialogtxt       "It means you are inexperienced."
 dialogtxt       "In other words, an amateur."
 code0309        
@@ -231,14 +232,13 @@ call            @Func_23f0
 code0479        1, 4, 12
 call            @Func_2426
 dialogtxt       "*sigh*"
-dialogtxt       "Being so easily provoked"
-dialogtxt       "is another sign."
-code0309        
+dialogtxt       "Being so quick to anger is"
+dialogtxt       "another sign of an amateur."
+code0309		
 code0479        1, 2, 12
-dialogtxt       "From here on, don't think"
-dialogtxt       "too much, and just quietly"
-dialogtxt       "listen to what I tell you."
-code0309        
+dialogtxt       "From here on, you need not think."
+dialogtxt       "Simply listen to my instructions."
+code0309		
 call            @Func_245c
 code0479        0, 2, 16
 call            @Func_23ba
@@ -250,8 +250,8 @@ code0309
 call            @Func_23f0
 code0479        1, 2, 14
 call            @Func_2426
-dialogtxt       "Children do not have the"
-dialogtxt       "right to talk back."
+dialogtxt       "An amateur like you has"
+dialogtxt       "no right to talk back."
 code0309        
 call            @Func_245c
 code0479        0, 2, 15
@@ -372,7 +372,7 @@ code0309
 call            @Func_23f0
 code0479        1, 0, 12
 call            @Func_2426
-dialogtxt       "I remember..."
+dialogtxt       "I remember."
 dialogtxt       "That's why I followed you here."
 code0309        
 call            @Func_245c
@@ -492,7 +492,7 @@ code0332
 code0331        39, 256
 code0479        1, 2, 12
 call            @Func_2426
-dialogtxt       "Well, that can't be helped."
+dialogtxt       "Well, it can't be helped."
 dialogtxt       "My intuition is just too"
 dialogtxt       "sharp in comparison."
 code0309        
