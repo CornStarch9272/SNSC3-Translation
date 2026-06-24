@@ -481,13 +481,13 @@ code0309
 call            @Func_3c40
 code0479        0, 2, 15
 call            @Func_3b9e
-dialogtxt       "First we need to find a"
+dialogtxt       "We'll need to find"
 jumpz           @Cond_1344, ($b002 == 0)
-dialogtxt       "way to the road!"
+dialogtxt       "a way to the road somehow!"
 goto            @Label_135c
 
 @Cond_1344:
-dialogtxt       "A WAY TO THE ROAD!"
+dialogtxt       "a way to the road somehow!"
 goto            @Label_135c
 
 @Label_135c:
@@ -1548,4 +1548,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-

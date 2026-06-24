@@ -218,7 +218,7 @@ goto            @Cond_07d8
 @Cond_07d8:
 jumpz           @Cond_0842, ($b003 == 2)
 dialogtxt       "Tsk..."
-dialogtxt       "Quite the chit chat. Let's"
+dialogtxt       "Quit the chit-chat. Let's"
 dialogtxt       "go find that fruit already."
 goto            @Cond_0842
 
