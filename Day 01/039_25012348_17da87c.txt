@@ -50,7 +50,7 @@ call            @Func_178c
 call            @Func_1728
 jumpz           @Cond_0240, ($b003 == 0)
 dialogtxt       "If We Make Medicine With This,"
-dialogtxt       "Lady Murno's Fever Will..."
+dialogtxt       "Lady Murno's Fever Will Improve..."
 goto            @Cond_0240
 
 @Cond_0240:
@@ -61,14 +61,14 @@ goto            @Cond_027c
 
 @Cond_027c:
 jumpz           @Cond_02b8, ($b003 == 2)
-dialogtxt       "So if we used this,"
-dialogtxt       "Murno's fever would..."
+dialogtxt       "So if we use this,"
+dialogtxt       "Murno's fever will be cured..."
 goto            @Cond_02b8
 
 @Cond_02b8:
 jumpz           @Cond_02f6, ($b003 == 3)
 dialogtxt       "If we make medicine with this,"
-dialogtxt       "Lady Murno's fever will..."
+dialogtxt       "Lady Murno's fever will be cured..."
 goto            @Cond_02f6
 
 @Cond_02f6:
@@ -241,7 +241,7 @@ call            @Func_175e
 code0479        0, 4, 12
 call            @Func_16bc
 dialogtxt       "Now that you mention it,"
-dialogtxt       "I'm kinda worried now."
+dialogtxt       "I am kinda worried..."
 goto            @Label_0af6
 
 @Label_0af6:
@@ -268,14 +268,14 @@ code0309
 call            @Func_16f2
 code0479        1, 4, 12
 call            @Func_1728
-dialogtxt       "However, the boy is quite clumsy."
+dialogtxt       "Granted, the boy is quite clumsy."
 dialogtxt       "I hope he doesn't trip again..."
 code0309        
 call            @Func_175e
 code0479        0, 4, 12
 call            @Func_16bc
 dialogtxt       "Now that you mention it,"
-dialogtxt       "I'm kinda worried now."
+dialogtxt       "I am kinda worried..."
 goto            @Label_0cc0
 
 @Label_0cc0:
@@ -288,7 +288,7 @@ goto            @Cond_0cf2
 @Cond_0cf2:
 jumpz           @Cond_0ee6, ($b003 == 2)
 call            @Func_170a
-dialogtxt       "Are you sure?"
+dialogtxt       "Are you sure about this?"
 code047b        
 code0309        
 call            @Func_175e
@@ -313,7 +313,7 @@ dialogtxt       "Hmm..."
 code0309        
 code0479        0, 0, 16
 dialogtxt       "Now that you mention it,"
-dialogtxt       "I'm kinda worried now."
+dialogtxt       "I am kinda worried..."
 code0309	
 dialogtxt       "Anyway, let's head to the station."
 goto            @Label_0ee0
@@ -339,14 +339,14 @@ code0309
 call            @Func_16f2
 code0479        1, 4, 12
 call            @Func_1728
-dialogtxt       "But he's a bit clumsy."
+dialogtxt       "He is a bit clumsy, though."
 dialogtxt       "I hope he returns safely."
 code0309        
 call            @Func_175e
 code0479        0, 4, 12
 call            @Func_16bc
 dialogtxt       "Now that you mention it,"
-dialogtxt       "I'm kinda worried now..."
+dialogtxt       "I am kinda worried..."
 goto            @Label_1082
 
 @Label_1082:

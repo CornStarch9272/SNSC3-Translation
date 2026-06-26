@@ -55,8 +55,8 @@ call            @Func_1046
 code0479        1, 0, 13
 call            @Func_107c
 dialogtxt       "I'm feeling fine..."
-dialogtxt       "I've been in bed so long,"
-dialogtxt       "I couldn't sleep anyway..."
+dialogtxt       "I've been in bed so long that"
+dialogtxt       "I couldn't sleep, anyway..."
 code0309        
 call            @Func_10b2
 code0479        0, 1, 12
@@ -79,7 +79,7 @@ call            @Func_10b2
 code0479        0, 5, 16
 call            @Func_1010
 dialogtxt       "Don't apologize. I don't mind."
-dialogtxt       "I did it cause I wanted to."
+dialogtxt       "I did it 'cause I wanted to."
 goto            @Label_050c
 
 @Label_050c:
@@ -154,7 +154,7 @@ call            @Func_1046
 code0479        1, 4, 13
 call            @Func_107c
 dialogtxt       "..."
-dialogtxt       "You're too nice..."
+dialogtxt       "You're too kind..."
 code0309        
 call            @Func_10b2
 jumpz           @Cond_09be, ($b002 == 0)

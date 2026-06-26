@@ -57,7 +57,7 @@ code0479        0, 5, 16
 code0479        1, 0, 12
 call            @Func_150e
 call            @Func_1476
-dialogtxt       "See..."
+dialogtxt       "See?"
 dialogtxt       "You woke her up..."
 code047b        
 code0309        
@@ -213,7 +213,7 @@ call            @Func_14ca
 code0479        0, 0, 12
 call            @Func_1428
 dialogtxt       "Ah, right."
-dialogtxt       "Take a look at this..."
+dialogtxt       "Take a look at this."
 dialogtxt       "Will it work on Murno's fever?"
 goto            @Label_088c
 

@@ -159,8 +159,8 @@ code0309
 call            @Func_4cec
 code0479        0, 1, 17
 call            @Func_4c4a
-dialogtxt       "Well it hadn't collapsed yet when I"
-dialogtxt       "walked on it!"
+dialogtxt       "Well it hadn't collapsed yet"
+dialogtxt       "when I walked on it!"
 goto            @Label_0670
 
 @Label_0670:
@@ -168,7 +168,7 @@ code0309
 call            @Func_4c80
 code0479        1, 0, 12
 call            @Func_4cb6
-dialogtxt       "However, You Still Fell In."
+dialogtxt       "Regardless, You Still Fell In."
 code0309        
 call            @Func_4cec
 code0479        0, 2, 14
@@ -215,8 +215,8 @@ code0309
 call            @Func_4cec
 code0479        0, 1, 17
 call            @Func_4c4a
-dialogtxt       "Well it hadn't collapsed yet when I"
-dialogtxt       "walked on it!"
+dialogtxt       "Well, it hadn't collapsed yet"
+dialogtxt       "when I walked on it!"
 goto            @Label_08b6
 
 @Label_08b6:
@@ -225,7 +225,7 @@ call            @Func_4c80
 code0479        1, 4, 12
 call            @Func_4cb6
 dialogtxt       "Perhaps, but that does not change"
-dialogtxt       "the fact that you did."
+dialogtxt       "the fact that you did fall."
 code0309        
 call            @Func_4cec
 code0479        0, 2, 12
@@ -336,8 +336,8 @@ code0309
 call            @Func_4cec
 code0479        0, 1, 14
 call            @Func_4c4a
-dialogtxt       "Well it hadn't collapsed yet when I"
-dialogtxt       "walked on it!"
+dialogtxt       "Hey! It hadn't collapsed yet"
+dialogtxt       "when I walked on it!"
 goto            @Label_0df2
 
 @Label_0df2:
@@ -345,8 +345,8 @@ code0309
 call            @Func_4c80
 code0479        1, 0, 12
 call            @Func_4cb6
-dialogtxt       "That does not change the fact that"
-dialogtxt       "you also fell in."
+dialogtxt       "That does not change the fact"
+dialogtxt       "that you also fell in."
 code0309        
 code0479        1, 0, 12
 dialogtxt       "Take a lesson from me and"
@@ -1046,13 +1046,13 @@ code0309
 call            @Func_4c80
 code0479        1, 5, 15
 call            @Func_4cb6
-dialogtxt       "I swear you are doing this on"
+dialogtxt       "I swear, you are doing this on"
 dialogtxt       "purpose..."
 code0309        
 call            @Func_4cec
 code0479        0, 0, 12
 call            @Func_4c4a
-dialogtxt       "Forget about it, let's go!"
+dialogtxt       "Forget about that, let's go!"
 goto            @Label_2fc4
 
 @Label_2fc4:
@@ -1324,8 +1324,8 @@ code0309
 call            @Func_4c80
 code0479        1, 0, 12
 call            @Func_4cb6
-dialogtxt       "Hm... Interesting..."
 dialogtxt       "You? Win against him?"
+dialogtxt       "Hm... Interesting..."
 code0309        
 call            @Func_4cec
 code0479        0, 2, 14
@@ -1486,7 +1486,7 @@ code0309
 call            @Func_4c80
 code0479        1, 0, 12
 call            @Func_4cb6
-dialogtxt       "\"Slow and steady wins the race.\""
+dialogtxt       "Slow and steady wins the race."
 dialogtxt       "One can never be too careful..."
 code0309        
 call            @Func_4cec
