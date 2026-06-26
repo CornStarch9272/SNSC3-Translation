@@ -119,7 +119,7 @@ code0479        0, 2, 14
 call            @Func_1ffc
 dialogtxt       "Yeah..."
 dialogtxt       "Lemmy hasn't been feeling well."
-dialogtxt       "He's got fever too."
+dialogtxt       "He's got a fever, too."
 code0309        
 code0479        0, 4, 16
 dialogtxt       "But he doesn't want anyone to know..."
@@ -214,7 +214,7 @@ call            @Func_209e
 code0479        0, 0, 16
 call            @Func_1ffc
 dialogtxt       "Huh? Yeah, probably."
-dialogtxt       "You guys want one too?"
+dialogtxt       "You guys want some too?"
 code0309        
 call            @Func_2032
 code0479        1, 0, 12
@@ -232,19 +232,19 @@ call            @Func_209e
 code0479        0, 0, 16
 call            @Func_1ffc
 dialogtxt       "Huh? Yeah, probably."
-dialogtxt       "You guys want one too?"
+dialogtxt       "You guys want some too?"
 code0309        
 call            @Func_2032
 code0479        1, 2, 12
 call            @Func_2068
-dialogtxt       "Mhm..."
-dialogtxt       "If they're effective, we definitely"
-dialogtxt       "want to have one."
+dialogtxt       "Mhm."
+dialogtxt       "If they're effective, we certainly"
+dialogtxt       "want to have some."
 goto            @Cond_0e1a
 
 @Cond_0e1a:
 jumpz           @Cond_0f04, ($b003 == 2)
-dialogtxt       "So is that medicine effective"
+dialogtxt       "So, is that medicine effective"
 dialogtxt       "against fevers?"
 code047b        
 code0309        
@@ -252,7 +252,7 @@ call            @Func_209e
 code0479        0, 0, 16
 call            @Func_1ffc
 dialogtxt       "Huh? Yeah, probably."
-dialogtxt       "You guys want one too?"
+dialogtxt       "You guys want some too?"
 code0309        
 call            @Func_2032
 code0479        1, 0, 16
@@ -271,7 +271,7 @@ call            @Func_209e
 code0479        0, 0, 16
 call            @Func_1ffc
 dialogtxt       "Huh? Yeah, probably."
-dialogtxt       "You guys want one too?"
+dialogtxt       "You guys want some too?"
 code0309        
 call            @Func_2032
 code0479        1, 0, 13
@@ -338,7 +338,7 @@ goto            @Label_1252
 code047b        
 code0309        
 code0479        1, 0, 16
-dialogtxt       "... And he's gone."
+dialogtxt       "... Aaand he's gone."
 code0309        
 call            @Func_2122
 call            @Func_2086
@@ -403,7 +403,7 @@ goto            @Cond_1502
 
 @Cond_1502:
 jumpz           @Cond_1686, ($b003 == 1)
-dialogtxt       "Let's hurry on as well."
+dialogtxt       "Let us hurry on as well."
 code047b        
 code0309        
 call            @Func_209e

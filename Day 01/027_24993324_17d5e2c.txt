@@ -507,20 +507,20 @@ call            @Func_2426
 dialogtxt       "Do you doubt me?"
 code0309        
 code0479        1, 2, 15
-dialogtxt       "The reason I have survived"
-dialogtxt       "this long is due to this"
-dialogtxt       "intuition of mine!"
+dialogtxt       "I've only survived this long"
+dialogtxt       "because of my intuition, "
+dialogtxt       "you know."
 code0309        
 call            @Func_245c
 code0479        0, 4, 12
 call            @Func_23ba
-dialogtxt       "Uh..."
-dialogtxt       "Don't get so angry over it..."
+dialogtxt       "Jeez..."
+dialogtxt       "Don't get so angry over it."
 code0309        
 call            @Func_23f0
 code0479        1, 2, 16
 call            @Func_2426
-dialogtxt       "No, it is of no consequence."
+dialogtxt       "Well, it's of no consequence."
 dialogtxt       "Just don't blame me if something"
 dialogtxt       "happens to you..."
 code0309        

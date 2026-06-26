@@ -52,7 +52,7 @@ code0309
 call            @Func_2ffc
 code0479        0, 1, 12
 call            @Func_2f5a
-dialogtxt       "I see..."
+dialogtxt       "Right..."
 dialogtxt       "I'm still grateful, [NAME 1]."
 code0309        
 call            @Func_2f90
@@ -261,13 +261,13 @@ code0309
 call            @Func_2ffc
 code0479        0, 1, 12
 call            @Func_2f5a
-dialogtxt       "I see..."
+dialogtxt       "Right..."
 dialogtxt       "I'm still grateful, [NAME 1]."
 code0309        
 call            @Func_2f90
 code0479        1, 7, 17
 call            @Func_2fc6
-dialogtxt       "Not a problem,"
+dialogtxt       "Not a problem."
 dialogtxt       "I help when I can."
 code0309        
 call            @Func_3096
@@ -344,7 +344,7 @@ code047d        0, 2
 call            @Func_3040
 call            @Func_2f3c
 dialogtxt       "You trusted me, and I let you down."
-dialogtxt       "I am ashamed..."
+dialogtxt       "I am ashamed."
 code047b        
 code0309        
 call            @Func_2f90
@@ -466,7 +466,7 @@ jumpz           @Cond_1f9a, ($b003 == 2)
 call            @Func_2fc6
 dialogtxt       "Don't fuss over every little thing."
 dialogtxt       "You're the one who said"
-dialogtxt       "thanks is unnecassary."
+dialogtxt       "thanks is unnecessary."
 code047b        
 code0309        
 call            @Func_2ffc
@@ -514,7 +514,8 @@ dialogtxt       "okay."
 code0309        
 code0479        1, 1, 16
 code0479        0, 2, 14
-dialogtxt       "But, Zakk, I'm sorry about that."
+dialogtxt       "But, Zakk, I'm sorry"
+dialogtxt       "about what happened."
 code0309        
 jumpz           @Cond_1928, ($b002 == 0)
 code0479        1, 0, 14
@@ -575,7 +576,7 @@ dialogtxt       "That's not true."
 dialogtxt       "My partner's mistake is my mistake too."
 code0309        
 code0479        0, 0, 12
-dialogtxt       "So we apologize together."
+dialogtxt       "So, we apologize together."
 goto            @Label_1c9c
 
 @Label_1c9c:
@@ -657,14 +658,14 @@ code0309
 call            @Func_2ffc
 code0479        0, 1, 12
 call            @Func_2f5a
-dialogtxt       "I see."
+dialogtxt       "Right."
 dialogtxt       "Thanks anyway, [NAME 1]."
 code0309        
 call            @Func_2f90
 code0479        1, 1, 12
 call            @Func_2fc6
 dialogtxt       "My, my."
-dialogtxt       "Thanking me again."
+dialogtxt       "Thanking me again!"
 code0309        
 call            @Func_3096
 call            @Func_2fe4
@@ -770,7 +771,7 @@ code0479        1, 5, 14
 code047d        1, 2
 call            @Func_302a
 call            @Func_2fc6
-dialogtxt       "Why are you apologizing!"
+dialogtxt       "Why are you apologizing?"
 dialogtxt       "You didn't do anything..."
 code047b        
 code0309        
@@ -779,7 +780,7 @@ code043c        0, 4
 code0479        0, 0, 14
 call            @Func_2f5a
 dialogtxt       "My partner's mistake is my mistake too."
-dialogtxt       "So we apologize together."
+dialogtxt       "So, we apologize together."
 goto            @Label_2642
 
 @Label_2642:

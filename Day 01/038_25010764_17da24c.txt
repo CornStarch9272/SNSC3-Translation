@@ -86,8 +86,8 @@ goto            @Cond_030c
 
 @Cond_030c:
 jumpz           @Cond_035a, ($b003 == 1)
-dialogtxt       "What do you think, boy?"
 dialogtxt       "It was over in an instant."
+dialogtxt       "What do you think, boy?"
 code047b        
 code0309        
 call            @Func_10a8
@@ -96,9 +96,8 @@ goto            @Cond_035a
 
 @Cond_035a:
 jumpz           @Cond_03b2, ($b003 == 2)
-dialogtxt       "That kind of Stray"
-dialogtxt       "was not really a problem"
-dialogtxt       "after all."
+dialogtxt       "Beating a Stray like that"
+dialogtxt       "isn't even worth bragging about."
 code047b        
 code0309        
 call            @Func_10a8
@@ -145,9 +144,9 @@ dialogtxt       "No problem!"
 code047b        
 code0309        
 code0479        1, 0, 16
-dialogtxt       "Hmm?"
+dialogtxt       "Huh?"
 dialogtxt       "You're not going to take"
-dialogtxt       "that back like always, are you?"
+dialogtxt       "that back like you usually do?"
 goto            @Label_059a
 
 @Cond_0534:
@@ -155,7 +154,7 @@ dialogtxt       "Not a problem!"
 code047b        
 code0309        
 code0479        1, 0, 16
-dialogtxt       "Hmm?"
+dialogtxt       "Huh?"
 dialogtxt       "Is that it? You're not"
 dialogtxt       "going to take that back, right?"
 goto            @Label_059a
@@ -173,7 +172,7 @@ call            @Func_0fb8
 code0479        1, 6, 12
 call            @Func_0fee
 dialogtxt       "You're welcome!"
-dialogtxt       "You can just call me [NAME 2]."
+dialogtxt       "And, you can just call me [NAME 2]."
 goto            @Label_0678
 
 @Label_0678:

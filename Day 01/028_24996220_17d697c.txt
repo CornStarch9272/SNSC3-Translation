@@ -101,7 +101,7 @@ call            @Func_20d8
 jumpz           @Cond_0564, ($b002 == 0)
 dialogtxt       "Not to mention..."
 dialogtxt       "If you got hurt,"
-dialogtxt       "she'd be sad right?"
+dialogtxt       "she'd be sad, right?"
 code0309        
 call            @Func_210e
 code0479        0, 0, 12
@@ -111,13 +111,13 @@ code0309
 call            @Func_20a2
 code0479        1, 1, 12
 call            @Func_20d8
-dialogtxt       "Whatever, let's just go!"
+dialogtxt       "Forget it. Let's just go!"
 goto            @Label_0606
 
 @Cond_0564:
 dialogtxt       "Not to mention..."
 dialogtxt       "If you got hurt,"
-dialogtxt       "Murno would be sad right?"
+dialogtxt       "Murno would be sad, right?"
 code0309        
 call            @Func_210e
 code0479        0, 0, 12
@@ -195,7 +195,7 @@ code0331        31, 256
 code0479        0, 4, 16
 call            @Func_206c
 dialogtxt       "If you hadn't been here,"
-dialogtxt       "I would have..."
+dialogtxt       "I might not have made it..."
 code0309        
 code0479        0, 4, 17
 dialogtxt       "And I called you an amateur..."
@@ -206,8 +206,8 @@ call            @Func_20a2
 code0479        1, 0, 13
 call            @Func_20d8
 dialogtxt       "There's no need for that!"
-dialogtxt       "We're partners."
-dialogtxt       "It's natural we help each other!"
+dialogtxt       "We're partners. It's natural "
+dialogtxt       "that we help each other!"
 goto            @Label_09d6
 
 @Label_09d6:
@@ -215,7 +215,7 @@ code0309
 call            @Func_210e
 code0479        0, 0, 16
 call            @Func_206c
-dialogtxt       "Partners, huh..."
+dialogtxt       "Partners, huh...?"
 code0309        
 call            @Func_20a2
 code0479        1, 0, 12
@@ -238,9 +238,9 @@ dialogtxt       "C'mon, let's just go!"
 goto            @Label_0b7e
 
 @Cond_0adc:
-dialogtxt       "Not to mention"
-dialogtxt       "If you got hurt,"
-dialogtxt       "Murno would be sad, right?"
+dialogtxt       "Not to mention,"
+dialogtxt       "if you got hurt, Murno "
+dialogtxt       "would be sad, right?"
 code0309        
 call            @Func_210e
 code0479        0, 0, 12
@@ -303,13 +303,13 @@ goto            @Cond_0d44
 @Cond_0d44:
 jumpz           @Cond_1412, ($b003 == 2)
 call            @Func_206c
-dialogtxt       "\"Am I okay?\" you say?"
+dialogtxt       "\"Am I okay?\" you ask?"
 dialogtxt       "I'm not that weak."
 code0309        
 call            @Func_20a2
 code0479        1, 0, 16
 call            @Func_20d8
-dialogtxt       "Oh, come on..."
+dialogtxt       "Oh, come on!"
 dialogtxt       "You're still like that?"
 goto            @Label_0df6
 
@@ -340,8 +340,8 @@ code0309
 call            @Func_20a2
 code0479        1, 0, 13
 call            @Func_20d8
-dialogtxt       "Well, I figure"
-dialogtxt       "if you can still say stuff"
+dialogtxt       "Well, I figure..."
+dialogtxt       "If you can still say stuff"
 dialogtxt       "like that, you must be fine."
 goto            @Label_0f8c
 
@@ -357,8 +357,8 @@ code0309
 call            @Func_20a2
 code0479        1, 0, 12
 call            @Func_20d8
-dialogtxt       "Nah, we're partners,"
-dialogtxt       "so helping each other is natural!"
+dialogtxt       "Nah. We're partners, so helping "
+dialogtxt       "each other is just natural!"
 goto            @Label_10a4
 
 @Label_10a4:
@@ -443,7 +443,7 @@ code047d        0, 2
 call            @Func_2126
 call            @Func_204e
 dialogtxt       "That voice..."
-dialogtxt       "It sounded like that kid Zakk."
+dialogtxt       "It sounded like that Zakk kid."
 code047b        
 code0309        
 call            @Func_20a2
@@ -590,7 +590,7 @@ code0479        0, 0, 16
 code047d        0, 0
 call            @Func_2126
 call            @Func_204e
-dialogtxt       "Huh..."
+dialogtxt       "Hmm..."
 code047b        
 code0309        
 code0479        0, 5, 17

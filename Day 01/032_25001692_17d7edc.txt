@@ -40,7 +40,7 @@ call            @Func_26ae
 code0479        0, 0, 12
 call            @Func_260c
 dialogtxt       "I see you're being careful now."
-dialogtxt       "Though last time your eyes were"
+dialogtxt       "Last time your eyes were"
 dialogtxt       "more broken than the bridge was."
 goto            @Label_02be
 
@@ -106,7 +106,7 @@ goto            @Cond_04d8
 @Cond_04d8:
 jumpz           @Cond_0518, ($b003 == 1)
 call            @Func_265a
-dialogtxt       "It looks fine this time."
+dialogtxt       "They look fine this time."
 code047b        
 code0309        
 call            @Func_2748
@@ -122,7 +122,7 @@ code0309
 call            @Func_26ae
 code0479        0, 0, 12
 call            @Func_260c
-dialogtxt       "As I expected, I'm clueless..."
+dialogtxt       "As I expected, I'm clueless."
 dialogtxt       "Could you show me?"
 goto            @Label_0602
 
@@ -164,7 +164,7 @@ code047d        0, 0
 call            @Func_26c6
 call            @Func_25ee
 dialogtxt       "Wow..."
-dialogtxt       "[NAME 1] is being helpful?"
+dialogtxt       "[NAME 1], you're being helpful?"
 dialogtxt       "I see you've finally come around!"
 code047b        
 code0309        
@@ -365,12 +365,12 @@ call            @Func_26ae
 code0479        0, 2, 15
 call            @Func_260c
 jumpz           @Cond_1066, ($b002 == 0)
-dialogtxt       "Don't \"Affirmative\" me."
+dialogtxt       "Don't \"Affirmative\" me!"
 dialogtxt       "He trusted you,"
 dialogtxt       "and he fell anyway."
 code0309        
 code0479        0, 2, 14
-dialogtxt       "Don't make excuses, that's lame!"
+dialogtxt       "Don't make excuses! That's lame!"
 goto            @Label_10f6
 
 @Cond_1066:
@@ -461,7 +461,7 @@ call            @Func_2642
 code0479        1, 5, 14
 call            @Func_2678
 dialogtxt       "Y—You're calling me lame!?"
-dialogtxt       "How dare you!"
+dialogtxt       "How dare you!?"
 code0309        
 call            @Func_26ae
 code0479        0, 2, 14
@@ -599,9 +599,9 @@ dialogtxt       "Ah, that must be it!"
 code0309        
 code0479        0, 2, 14
 code0479        1, 2, 15
-dialogtxt       "I'm sure it's his fault."
 dialogtxt       "He must have done something!"
-code0309        
+dialogtxt       "I'm sure it's his fault, somehow."
+code0309		
 call            @Func_26ae
 code0479        0, 2, 15
 call            @Func_260c
