@@ -225,7 +225,7 @@ call            @Func_4c80
 code0479        1, 4, 12
 call            @Func_4cb6
 dialogtxt       "Perhaps, but that does not change"
-dialogtxt       "the fact that you did fall."
+dialogtxt       "the fact that you did."
 code0309        
 call            @Func_4cec
 code0479        0, 2, 12
