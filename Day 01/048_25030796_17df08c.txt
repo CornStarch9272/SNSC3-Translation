@@ -84,7 +84,7 @@ code0309
 call            @Func_1082
 code0479        0, 0, 12
 call            @Func_0fe0
-dialogtxt       "It's okay if you're feeling better."
+dialogtxt       "Well, if you're feeling better, it's okay."
 dialogtxt       "Did you drink Zakk's medicine?"
 dialogtxt       "You promised, you know."
 goto            @Label_055a
@@ -99,7 +99,7 @@ code0309
 call            @Func_1082
 code0479        0, 1, 13
 call            @Func_0fe0
-dialogtxt       "I guess it worked then."
+dialogtxt       "I guess it worked, then."
 dialogtxt       "Zakk will be happy to hear that."
 goto            @Label_0624
 
@@ -115,7 +115,7 @@ code0479        0, 0, 16
 call            @Func_0fe0
 dialogtxt       "But man, you push yourself"
 dialogtxt       "way too hard."
-dialogtxt       "I guess you've got your reasons."
+dialogtxt       "I guess you must have your reasons."
 goto            @Label_06f2
 
 @Label_06f2:
@@ -175,7 +175,7 @@ goto            @Label_0a22
 dialogtxt       "W—Wait a second!"
 code0309        
 code0479        0, 2, 15
-dialogtxt       "What's with him!"
+dialogtxt       "What's with him!?"
 dialogtxt       "I was just trying to be friendly..."
 goto            @Label_0a22
 

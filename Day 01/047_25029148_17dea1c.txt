@@ -52,11 +52,11 @@ call            @Func_116c
 code0479        1, 1, 12
 call            @Func_11a2
 dialogtxt       "Murno's feeling just fine now."
-dialogtxt       "Thanks to your medicine."
+dialogtxt       "It's all thanks to your medicine."
 code0309        
 code0479        1, 0, 12
-dialogtxt       "You went deep in the forest for"
-dialogtxt       "it, right? You did well."
+dialogtxt       "You went deep into the forest"
+dialogtxt       "for it, right? Well done."
 code0309        
 call            @Func_11d8
 code0479        1, 0, 12
@@ -71,14 +71,14 @@ code0479        0, 0, 12
 code0479        1, 4, 12
 call            @Func_11a2
 dialogtxt       "There's that overconfidence again."
-dialogtxt       "Though I'm glad to hear you're"
+dialogtxt       "Though, I'm glad to hear you're"
 dialogtxt       "getting along with [NAME 1]."
 code0309        
 call            @Func_11d8
 code0479        0, 0, 16
 call            @Func_1136
-dialogtxt       "Hmm... Are you sure?"
-dialogtxt       "... Are we really getting along"
+dialogtxt       "Hmm... Are you sure we're"
+dialogtxt       "really getting along"
 dialogtxt       "that well?"
 code0309        
 call            @Func_116c
@@ -103,7 +103,7 @@ code0479        1, 1, 13
 call            @Func_11a2
 dialogtxt       "Hahahaha..."
 dialogtxt       "Thanks for the offer."
-dialogtxt       "I'll be counting on you then."
+dialogtxt       "I'll be counting on you, then."
 code0309        
 call            @Func_11d8
 code0479        1, 0, 12
@@ -202,7 +202,7 @@ call            @Func_116c
 code0479        1, 7, 15
 call            @Func_11a2
 dialogtxt       "You talk too much!"
-dialogtxt       "Jeez!"
+dialogtxt       "Jeez...!"
 code0309        
 call            @Func_1272
 call            @Func_11c0

@@ -38,9 +38,9 @@ code0309
 call            @Func_4758
 code0479        0, 0, 13
 call            @Func_46b6
-dialogtxt       "If you disassemble a weapon you've"
-dialogtxt       "used for a while and reforge it,"
-dialogtxt       "then it'll come out stronger."
+dialogtxt       "If you disassemble and reforge"
+dialogtxt       "a weapon you've used for a while,"
+dialogtxt       "it'll come out stronger."
 goto            @Label_024e
 
 @Label_024e:
@@ -81,9 +81,9 @@ code0309
 call            @Func_4758
 code0479        0, 0, 13
 call            @Func_46b6
-dialogtxt       "If you disassemble a weapon you've"
-dialogtxt       "used for a while and reforge it,"
-dialogtxt       "then it'll come out stronger."
+dialogtxt       "If you disassemble and reforge"
+dialogtxt       "a weapon you've used for a while,"
+dialogtxt       "it'll come out stronger."
 goto            @Label_04f4
 
 @Label_04f4:
@@ -91,8 +91,8 @@ code0309
 call            @Func_46ec
 code0479        1, 0, 14
 call            @Func_4722
-dialogtxt       "Is that so... How strange."
-dialogtxt       "However, this weapon hasn't"
+dialogtxt       "Is that so...? How strange."
+dialogtxt       "That said, this weapon hasn't"
 dialogtxt       "been used at all yet..."
 code0309        
 call            @Func_4758
@@ -124,9 +124,9 @@ code0309
 call            @Func_4758
 code0479        0, 0, 13
 call            @Func_46b6
-dialogtxt       "If you disassemble a weapon you've"
-dialogtxt       "used for a while and reforge it,"
-dialogtxt       "then it'll come out stronger."
+dialogtxt       "If you disassemble and reforge"
+dialogtxt       "a weapon you've used for a while,"
+dialogtxt       "it'll come out stronger."
 goto            @Label_07b0
 
 @Label_07b0:
@@ -134,14 +134,14 @@ code0309
 call            @Func_46ec
 code0479        1, 0, 14
 call            @Func_4722
-dialogtxt       "Can you really say this"
-dialogtxt       "one is well used?"
+dialogtxt       "Can you really call this"
+dialogtxt       "one well-used?"
 code0309        
 call            @Func_4758
 code0479        0, 1, 16
 call            @Func_46b6
 dialogtxt       "I—It's good enough!"
-dialogtxt       "This is just for practice anyway!"
+dialogtxt       "This is just for practice, anyway!"
 goto            @Label_08ce
 
 @Label_08ce:
@@ -167,9 +167,9 @@ code0309
 call            @Func_4758
 code0479        0, 0, 13
 call            @Func_46b6
-dialogtxt       "If you disassemble a weapon you've"
-dialogtxt       "used for a while and reforge it,"
-dialogtxt       "then it'll come out stronger."
+dialogtxt       "If you disassemble and reforge"
+dialogtxt       "a weapon you've used for a while,"
+dialogtxt       "it'll come out stronger."
 goto            @Label_0a56
 
 @Label_0a56:
@@ -178,9 +178,9 @@ call            @Func_46ec
 code0479        1, 0, 12
 call            @Func_4722
 dialogtxt       "I see... That's interesting."
-dialogtxt       "But this one does not look like"
-dialogtxt       "it has been used very much..."
-code0309        
+dialogtxt       "But this one hasn't been used"
+dialogtxt       "very much at all..."
+code0309		
 call            @Func_4758
 code0479        0, 1, 16
 call            @Func_46b6
@@ -239,8 +239,7 @@ code0309
 call            @Func_4758
 code0479        0, 4, 12
 call            @Func_46b6
-dialogtxt       "Well..."
-dialogtxt       "We can't do anything with"
+dialogtxt       "Well, we can't do anything with"
 dialogtxt       "just a shapestone."
 code0309        
 call            @Func_47f2
@@ -258,7 +257,7 @@ call            @Func_46ec
 code0479        1, 0, 16
 call            @Func_4722
 dialogtxt       "We just dismantled it,"
-dialogtxt       "and now we're reforging it."
+dialogtxt       "and now we must reforge it."
 dialogtxt       "Busy, busy."
 code0309        
 call            @Func_4758
@@ -314,13 +313,12 @@ code0309
 call            @Func_46ec
 code0479        1, 0, 16
 call            @Func_4722
-dialogtxt       "Even though we just disassembled"
-dialogtxt       "it?"
+dialogtxt       "Even though we just disassembled it?"
 code0309        
 call            @Func_4758
 code0479        0, 2, 12
 call            @Func_46b6
-dialogtxt       "Well, we ARE practicing."
+dialogtxt       "Well, it IS practice."
 goto            @Label_10bc
 
 @Label_10bc:
@@ -500,7 +498,7 @@ call            @Func_4758
 code0479        0, 5, 17
 call            @Func_46b6
 dialogtxt       "Hey, don't pull my arm!"
-dialogtxt       "No need to rush,"
+dialogtxt       "There's no need to rush,"
 dialogtxt       "I'm sure she's fine!"
 goto            @Label_18e6
 
@@ -637,8 +635,8 @@ code0309
 call            @Func_46ec
 code0479        1, 4, 14
 call            @Func_4722
-dialogtxt       "But Murno is, unlike you,"
-dialogtxt       "very delicate..."
+dialogtxt       "But unlike you,"
+dialogtxt       "Murno is very delicate..."
 code0309        
 call            @Func_4758
 code0479        0, 1, 17
@@ -745,7 +743,7 @@ call            @Func_4758
 code0479        0, 0, 12
 call            @Func_46b6
 dialogtxt       "It'll be fine."
-dialogtxt       "Yeah, she's a bit short-tempered,"
+dialogtxt       "Sure, she's a bit short-tempered,"
 dialogtxt       "but she's good at tending to others."
 goto            @Label_240a
 
@@ -836,7 +834,7 @@ code0309
 call            @Func_4758
 code0479        0, 2, 13
 call            @Func_46b6
-dialogtxt       "Then show it to Murno!"
+dialogtxt       "Then, we show it to Murno!"
 code0309        
 call            @Func_46ec
 code0479        1, 0, 12
@@ -883,7 +881,7 @@ code0309
 call            @Func_46ec
 code0479        1, 2, 15
 call            @Func_4722
-dialogtxt       "The way I say things?"
+dialogtxt       "The way I speak?"
 dialogtxt       "Not the actual words!?"
 code0309        
 call            @Func_47f2
@@ -915,7 +913,7 @@ code0309
 call            @Func_46ec
 code0479        1, 5, 14
 call            @Func_4722
-dialogtxt       "ME worried about her!?"
+dialogtxt       "ME, worried about her!?"
 dialogtxt       "Why would I—"
 code0309        
 call            @Func_4758
@@ -955,7 +953,7 @@ code0479        1, 2, 13
 call            @Func_4722
 dialogtxt       "Of course!"
 dialogtxt       "Let's finish this quickly,"
-dialogtxt       "then return to where Lady Murno is."
+dialogtxt       "then return to Lady Murno."
 code0309        
 call            @Func_4758
 code0479        0, 1, 16
@@ -1015,8 +1013,8 @@ call            @Func_4758
 code0479        0, 0, 12
 call            @Func_46b6
 dialogtxt       "Yeah."
-dialogtxt       "We use it to transport things"
-dialogtxt       "like raw ore and other stuff."
+dialogtxt       "We use it to transport things."
+dialogtxt       "Like, raw ore and stuff."
 code0309        
 code0479        0, 0, 13
 dialogtxt       "Summon Beasts pull the"
@@ -1043,14 +1041,14 @@ code0309
 call            @Func_46ec
 code0479        1, 0, 16
 call            @Func_4722
-dialogtxt       "So this village has a station."
+dialogtxt       "So this village has a station..."
 code0309        
 call            @Func_4758
 code0479        0, 0, 12
 call            @Func_46b6
 dialogtxt       "Yeah."
-dialogtxt       "We use it to transport things"
-dialogtxt       "like raw ore and other stuff."
+dialogtxt       "We use it to transport things."
+dialogtxt       "Like, raw ore and stuff."
 code0309        
 code0479        0, 0, 13
 dialogtxt       "Summon Beasts pull the"
@@ -1083,8 +1081,8 @@ call            @Func_4758
 code0479        0, 0, 12
 call            @Func_46b6
 dialogtxt       "Yeah."
-dialogtxt       "We use it to transport things"
-dialogtxt       "like raw ore and other stuff."
+dialogtxt       "We use it to transport things."
+dialogtxt       "Like, raw ore and stuff."
 code0309        
 code0479        0, 0, 13
 dialogtxt       "Summon Beasts pull the"
@@ -1119,8 +1117,8 @@ call            @Func_4758
 code0479        0, 0, 12
 call            @Func_46b6
 dialogtxt       "Yeah."
-dialogtxt       "We use it for transporting stuff"
-dialogtxt       "like raw ore."
+dialogtxt       "We use it to transport things."
+dialogtxt       "Like, raw ore and stuff."
 code0309        
 code0479        0, 0, 13
 dialogtxt       "Summon Beasts pull the cars"
@@ -1179,7 +1177,7 @@ code0479        0, 1, 16
 call            @Func_46b6
 dialogtxt       "Umm..."
 dialogtxt       "Can you sound more excited"
-dialogtxt       "about this please?"
+dialogtxt       "about this, please?"
 code0309        
 call            @Func_47f2
 call            @Func_46d4
@@ -1234,7 +1232,7 @@ code0479        0, 2, 14
 call            @Func_46b6
 dialogtxt       "Huh!?"
 jumpz           @Cond_3a1c, ($b002 == 0)
-dialogtxt       "Not a complaint."
+dialogtxt       "No complaints?"
 dialogtxt       "That's a first..."
 goto            @Label_3a4c
 
@@ -1261,7 +1259,7 @@ call            @Func_46ec
 code0479        1, 2, 14
 call            @Func_4722
 dialogtxt       "Who knows."
-dialogtxt       "But you better watch your mouth."
+dialogtxt       "But you'd better watch your mouth."
 code0309        
 call            @Func_47f2
 call            @Func_4740
@@ -1382,7 +1380,7 @@ goto            @Cond_3f46
 jumpz           @Cond_42f0, ($b003 == 1)
 call            @Func_4704
 dialogtxt       "Hmm..."
-dialogtxt       "There seems to be a number"
+dialogtxt       "There seem to be a number"
 dialogtxt       "of Stray Summons around here."
 code047b        
 code0309        
@@ -1396,15 +1394,15 @@ goto            @Label_403e
 @Label_403e:
 code0309        
 code0479        0, 0, 14
-dialogtxt       "Don't cats have a"
-dialogtxt       "good sense of smell?"
+dialogtxt       "Cats do have a good sense"
+dialogtxt       "of smell, don't they?"
 code0309        
 call            @Func_46ec
 code0479        1, 3, 15
 call            @Func_4722
-dialogtxt       "I have told you before,"
+dialogtxt       "As I have told you before,"
 dialogtxt       "I am not a cat, I am a tiger!"
-dialogtxt       "A youkai! The Toramata!"
+dialogtxt       "A youkai! A Toramata!"
 code0309        
 call            @Func_4758
 code0479        0, 1, 17
@@ -1421,14 +1419,14 @@ dialogtxt       "It's their presence!"
 code0309        
 code0479        0, 0, 14
 code0479        1, 2, 12
-dialogtxt       "If I had my true power,"
+dialogtxt       "When I have my true power,"
 dialogtxt       "there is nothing I cannot sense."
 code0309        
 call            @Func_4758
 code0479        0, 0, 16
 call            @Func_46b6
 dialogtxt       "I see. So you're not using"
-dialogtxt       "your whiskers or hearing either."
+dialogtxt       "your whiskers or hearing, either."
 goto            @Label_429a
 
 @Label_429a:

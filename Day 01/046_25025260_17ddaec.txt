@@ -48,7 +48,7 @@ goto            @Label_022c
 
 @Cond_01d0:
 jumpz           @Cond_01fc, ($b003 == 1)
-dialogtxt       "Hm, there you are."
+dialogtxt       "Ah, there you are."
 goto            @Label_022c
 
 @Cond_01fc:
@@ -155,7 +155,7 @@ dialogtxt       "Ahh, I see."
 code0309        
 code0479        0, 0, 13
 dialogtxt       "Well, it wasn't just me, you worked"
-dialogtxt       "hard too. And even Zakk helped out"
+dialogtxt       "hard too. Even Zakk helped out"
 dialogtxt       "a lot."
 goto            @Label_071c
 
@@ -170,11 +170,11 @@ call            @Func_2c94
 code0479        0, 0, 12
 call            @Func_2bf2
 dialogtxt       "And Master was watching Murno"
-dialogtxt       "while we were out."
+dialogtxt       "while we were out..."
 code0309        
 code0479        0, 4, 13
 dialogtxt       "There isn't much I could've done"
-dialogtxt       "on my own..."
+dialogtxt       "on my own."
 goto            @Label_08ae
 
 @Label_08ae:
@@ -189,13 +189,13 @@ code0479        0, 2, 14
 call            @Func_2bf2
 dialogtxt       "..."
 dialogtxt       "You know, sometimes you"
-dialogtxt       "can be very irritating."
+dialogtxt       "can be really irritating."
 goto            @Label_0954
 
 @Label_0954:
 code0309        
 code0479        0, 0, 12
-dialogtxt       "But, yeah, thanks to you, I'm able"
+dialogtxt       "But yeah. Thanks to you, I'm able"
 dialogtxt       "to craft strong weapons and keep"
 dialogtxt       "up with strong opponents now."
 code0309        
@@ -250,8 +250,8 @@ call            @Func_2c28
 code0479        1, 0, 13
 call            @Func_2c5e
 dialogtxt       "Murno has awoken."
-dialogtxt       "She seems to have made a full"
-dialogtxt       "recovery."
+dialogtxt       "She appears to have made"
+dialogtxt       "a full recovery."
 code0309        
 call            @Func_2c94
 code0479        0, 1, 13
@@ -272,12 +272,12 @@ code0309
 call            @Func_2c94
 code0479        0, 0, 13
 call            @Func_2bf2
-dialogtxt       "Don't worry about it..."
+dialogtxt       "Don't worry about it."
 dialogtxt       "After all, we only succeeded"
 dialogtxt       "because you were there, [NAME 1]."
 code0309        
 code0479        0, 0, 12
-dialogtxt       "We had Zakk help out too."
+dialogtxt       "We had Zakk help out, too."
 dialogtxt       "I don't know if I could've done"
 dialogtxt       "anything all by myself."
 goto            @Label_0e54
@@ -308,7 +308,7 @@ code0309
 code0479        1, 4, 12
 dialogtxt       "I truly regret doubting her..."
 dialogtxt       "Though I may be a tiger,"
-dialogtxt       "I do not forget my debts."
+dialogtxt       "I cannot betray your kindness."
 code0309        
 call            @Func_2c94
 code0479        0, 0, 16
@@ -318,7 +318,7 @@ code0309
 call            @Func_2c28
 code0479        1, 2, 12
 call            @Func_2c5e
-dialogtxt       "So I'll do my best to help"
+dialogtxt       "So, I'll do my best to help"
 dialogtxt       "you with your crafting."
 code0309        
 call            @Func_2c94
@@ -415,15 +415,15 @@ call            @Func_2c28
 code0479        1, 5, 15
 call            @Func_2c5e
 dialogtxt       "W—What are you going on about!?"
-dialogtxt       "I wasn't even trying!"
-dialogtxt       "That was because you..."
+dialogtxt       "I was barely even trying!"
+dialogtxt       "That was all you..."
 code0309        
 call            @Func_2c94
 code0479        0, 4, 12
 call            @Func_2bf2
 dialogtxt       "This again..."
 dialogtxt       "No need to be so embarrassed."
-dialogtxt       "I guess you're still a kid."
+dialogtxt       "I guess you're still a kid after all."
 goto            @Label_1610
 
 @Label_1610:
@@ -461,8 +461,8 @@ code0309
 call            @Func_2c94
 code0479        0, 2, 17
 call            @Func_2bf2
-dialogtxt       "I got the Kicker Berry only"
-dialogtxt       "because you were there."
+dialogtxt       "We were only able to get the"
+dialogtxt       "Kicker Berry because of you."
 dialogtxt       "You're a big help!"
 goto            @Label_18c6
 
@@ -471,12 +471,12 @@ code0309
 code0479        1, 0, 12
 code0479        0, 0, 13
 dialogtxt       "Being able to craft strong weapons,"
-dialogtxt       "and keep up with strong opponents,"
-dialogtxt       "it's all thanks to you."
+dialogtxt       "and keep up with strong opponents..."
+dialogtxt       "It's all thanks to you."
 code0309        
 code0479        0, 0, 12
-dialogtxt       "So I think that you worked"
-dialogtxt       "hard for this too."
+dialogtxt       "So yeah, I think you worked"
+dialogtxt       "hard for this, too."
 goto            @Label_19d6
 
 @Label_19d6:
@@ -490,9 +490,9 @@ call            @Func_2c94
 code0479        1, 8, 12
 code0479        0, 0, 16
 call            @Func_2bf2
-dialogtxt       "Not just us, there's also Zakk"
-dialogtxt       "and Master, too."
-code0309        
+dialogtxt       "And it's not just us."
+dialogtxt       "There's Zakk and Master, too."
+code0309		
 code0479        1, 2, 12
 code0479        0, 0, 12
 dialogtxt       "Everyone's trying their best."
@@ -511,7 +511,7 @@ code0309
 call            @Func_2c28
 code0479        1, 4, 16
 call            @Func_2c5e
-dialogtxt       "After you've said all that,"
+dialogtxt       "After everything you've said,"
 dialogtxt       "I have no choice but to devote"
 dialogtxt       "myself to our training."
 code0309        
@@ -557,7 +557,7 @@ code0479        0, 0, 16
 code0479        1, 1, 13
 call            @Func_2c5e
 dialogtxt       "Lady Murno has just awoken!"
-dialogtxt       "She has made a full recovery."
+dialogtxt       "She's made a full recovery."
 code0309        
 call            @Func_2c94
 code0479        0, 0, 13
@@ -580,7 +580,7 @@ code0479        0, 1, 13
 call            @Func_2bf2
 dialogtxt       "Don't worry about it."
 dialogtxt       "I did it because I wanted to."
-dialogtxt       "I can't just treat her like a stranger."
+dialogtxt       "I can't just treat her like a stranger!"
 goto            @Label_1ee6
 
 @Label_1ee6:
@@ -601,14 +601,14 @@ code0479        0, 11, 17
 call            @Func_2bf2
 dialogtxt       "W—What!? It's not like that!"
 dialogtxt       "Master said we were in the way,"
-dialogtxt       "a—and it also counts as training!"
-code0309        
+dialogtxt       "a—and it also counted as training!"
+code0309	
 call            @Func_2c28
 code0479        0, 7, 16
 code0479        1, 0, 16
 call            @Func_2c5e
 dialogtxt       "Mmhmm~"
-dialogtxt       "Is that so~"
+dialogtxt       "Is that so?"
 code0309        
 call            @Func_2c94
 code0479        0, 0, 13
@@ -624,7 +624,7 @@ code0479        0, 0, 12
 code0479        1, 0, 16
 call            @Func_2c5e
 dialogtxt       "That is certainly true."
-dialogtxt       "It is thanks to everyone."
+dialogtxt       "It's thanks to everyone."
 code0309        
 code0479        1, 4, 16
 dialogtxt       "And yet, I doubted our master."
@@ -642,20 +642,20 @@ call            @Func_2c28
 code0479        1, 4, 16
 call            @Func_2c5e
 dialogtxt       "If Master knew what I was thinking,"
-dialogtxt       "she'd be so mad..."
-dialogtxt       "And scary too..."
+dialogtxt       "she'd be terribly mad."
+dialogtxt       "And scary, too..."
 code0309        
 call            @Func_2c94
 code0479        0, 1, 15
 call            @Func_2bf2
-dialogtxt       "THAT'S what you care about!?"
+dialogtxt       "THAT'S what you're worried about!?"
 goto            @Label_231c
 
 @Label_231c:
 code0309        
 code0479        1, 0, 12
 code0479        0, 0, 13
-dialogtxt       "Well anyway, let's just"
+dialogtxt       "Well, anyway, let's just"
 dialogtxt       "do our best with training."
 goto            @Label_23d2
 
@@ -679,7 +679,7 @@ code0309
 code0479        0, 0, 12
 dialogtxt       "With you here, I can craft"
 dialogtxt       "stronger weapons, and keep up"
-dialogtxt       "with tougher opponents now."
+dialogtxt       "with tougher opponents."
 code0309        
 call            @Func_2c28
 code0479        1, 1, 13
