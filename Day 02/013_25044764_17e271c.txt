@@ -6,8 +6,8 @@ code047d        0, 0
 code047d        1, 118
 code0301        8, 5
 code047e        1, 1
-dialogtxt       "Strays have appeared just ahead."
-dialogtxt       "It's too dangerous to go outside."
+dialogtxt       "Strays have appeared up ahead."
+dialogtxt       "It's too dangerous to go out there."
 dialogtxt       "Come back another time."
 code0309        
 code047e        1, 0
@@ -17,11 +17,11 @@ call            @Func_0be2
 call            @Func_0b28
 code047b        
 jumpz           @Cond_013c, ($b002 == 0)
-dialogtxt       "I want to help hunt the Strays too."
+dialogtxt       "I want to help hunt the Strays!"
 goto            @Label_0170
 
 @Cond_013c:
-dialogtxt       "I want to help hunt the Strays too."
+dialogtxt       "I want to help hunt the Strays!"
 goto            @Label_0170
 
 @Label_0170:
@@ -40,7 +40,7 @@ code0479        0, 2, 14
 call            @Func_0be2
 call            @Func_0b28
 code047b        
-dialogtxt       "But!"
+dialogtxt       "But—!"
 code0309        
 call            @Func_0c38
 call            @Func_0b5e
@@ -89,21 +89,20 @@ goto            @Cond_0398
 
 @Cond_0398:
 jumpz           @Cond_03fa, ($b003 == 1)
-dialogtxt       "As expected,"
-dialogtxt       "a frontal assault seems"
-dialogtxt       "impossible."
+dialogtxt       "As expected, a frontal assault"
+dialogtxt       "seems impossible."
 goto            @Cond_03fa
 
 @Cond_03fa:
 jumpz           @Cond_045c, ($b003 == 2)
-dialogtxt       "I can't just erase him, can I...?"
 dialogtxt       "What do you intend to do?"
+dialogtxt       "I can't just erase him, can I...?"
 goto            @Cond_045c
 
 @Cond_045c:
 jumpz           @Cond_04b2, ($b003 == 3)
-dialogtxt       "Looks like we can't just"
-dialogtxt       "barge in, huh?"
+dialogtxt       "Looks like we can't"
+dialogtxt       "just barge in, huh?"
 dialogtxt       "What shall we do...?"
 goto            @Cond_04b2
 
@@ -346,4 +345,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-

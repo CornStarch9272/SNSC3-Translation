@@ -60,14 +60,14 @@ code0479        0, 0, 13
 call            @Func_0b24
 jumpz           @Cond_0264, ($b002 == 0)
 dialogtxt       "That's it!"
-dialogtxt       "There should be a way around"
-dialogtxt       "through Deckell Mine!"
+dialogtxt       "There should be a way around if"
+dialogtxt       "we go through Deckell Mine!"
 goto            @Label_02b8
 
 @Cond_0264:
 dialogtxt       "That's it!"
-dialogtxt       "There should be a way around"
-dialogtxt       "through Deckell Mine!"
+dialogtxt       "There should be a way around if"
+dialogtxt       "we go through Deckell Mine!"
 goto            @Label_02b8
 
 @Label_02b8:
@@ -94,26 +94,26 @@ goto            @Label_034e
 @Label_034e:
 call            @Func_0b90
 jumpz           @Cond_038c, ($b003 == 0)
-dialogtxt       "Should?"
+dialogtxt       "\"Should\" Be?"
 dialogtxt       "That Is Not A Guarantee."
 goto            @Cond_038c
 
 @Cond_038c:
 jumpz           @Cond_03ce, ($b003 == 1)
-dialogtxt       "Should... You say?"
-dialogtxt       "That's not reliable..."
+dialogtxt       "There \"should\" be?"
+dialogtxt       "That seems... unreliable."
 goto            @Cond_03ce
 
 @Cond_03ce:
 jumpz           @Cond_040c, ($b003 == 2)
-dialogtxt       "Should...?"
+dialogtxt       "There \"should\" be?"
 dialogtxt       "This better not be a fool's errand..."
 goto            @Cond_040c
 
 @Cond_040c:
 jumpz           @Cond_0452, ($b003 == 3)
 dialogtxt       "There... \"should\" be?"
-dialogtxt       "Your intuition is a bit flaky..."
+dialogtxt       "Your intuition sounds a bit flaky..."
 goto            @Cond_0452
 
 @Cond_0452:
@@ -371,4 +371,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-
