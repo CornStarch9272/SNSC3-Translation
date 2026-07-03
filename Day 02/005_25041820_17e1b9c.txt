@@ -147,11 +147,11 @@ call            @Func_1e0c
 code0479        1, 4, 12
 call            @Func_1e42
 jumpz           @Cond_064a, ($b002 == 0)
-dialogtxt       "You know I beat him..."
+dialogtxt       "You know I beat him, right?"
 goto            @Label_066a
 
 @Cond_064a:
-dialogtxt       "You know I beat him..."
+dialogtxt       "You know I beat him, right?"
 goto            @Label_066a
 
 @Label_066a:
@@ -159,8 +159,8 @@ code0309
 call            @Func_1e78
 code0479        0, 2, 17
 call            @Func_1dd6
-dialogtxt       "He wasn't feeling well then!"
-code0309        
+dialogtxt       "He was feeling sick that time!"
+code0309		
 code0479        0, 2, 12
 dialogtxt       "Now that his fever's calmed down,"
 dialogtxt       "he won't lose to anyone!"
@@ -192,7 +192,7 @@ call            @Func_1e78
 code0479        0, 1, 12
 call            @Func_1dd6
 dialogtxt       "Yeah!"
-dialogtxt       "That's thanks to you too..."
+dialogtxt       "That's thanks to you, too!"
 code0309        
 code0479        0, 5, 15
 dialogtxt       "... But Lemmy—"
@@ -214,12 +214,12 @@ code0333        2, 30
 code0479        1, 2, 16
 call            @Func_1e42
 jumpz           @Cond_098e, ($b002 == 0)
-dialogtxt       "Huge Stray...?"
+dialogtxt       "A huge Stray...?"
 dialogtxt       "What are you talking about?"
 goto            @Label_09b8
 
 @Cond_098e:
-dialogtxt       "Huge Stray...?"
+dialogtxt       "A huge Stray...?"
 dialogtxt       "What are you talking about?"
 goto            @Label_09b8
 
@@ -230,8 +230,8 @@ code0334
 code0331        38, 256
 code0479        0, 0, 16
 call            @Func_1dd6
-dialogtxt       "A massive one showed up"
-dialogtxt       "along the road to the town."
+dialogtxt       "A massive one showed up along "
+dialogtxt       "the road leading into town."
 dialogtxt       "He went to help fight it."
 code0309        
 call            @Func_1e0c
@@ -239,12 +239,12 @@ code0479        1, 2, 14
 call            @Func_1e42
 jumpz           @Cond_0a9c, ($b002 == 0)
 dialogtxt       "I see..."
-dialogtxt       "Then we're gonna go too."
+dialogtxt       "Then we're gonna go, too."
 goto            @Label_0ad0
 
 @Cond_0a9c:
 dialogtxt       "I see..."
-dialogtxt       "Then we're gonna go too."
+dialogtxt       "Then we're gonna go, too."
 goto            @Label_0ad0
 
 @Label_0ad0:
@@ -253,8 +253,8 @@ call            @Func_1e78
 code0479        0, 4, 12
 call            @Func_1dd6
 dialogtxt       "Don't even try!"
-dialogtxt       "You guys definitely can't"
-dialogtxt       "do anything against it."
+dialogtxt       "There's no way you guys will"
+dialogtxt       "be able to do anything to it."
 code0309        
 call            @Func_1e0c
 code0479        1, 2, 15
@@ -274,8 +274,8 @@ code0309
 call            @Func_1e78
 code0479        0, 0, 13
 call            @Func_1dd6
-dialogtxt       "The fact that you weren't asked"
-dialogtxt       "to help is proof enough."
+dialogtxt       "The fact that they didn't ask you"
+dialogtxt       "to help is proof enough!"
 code0309        
 code0479        0, 0, 16
 dialogtxt       "Either way, the gatekeeper"
@@ -286,8 +286,8 @@ code0479        1, 2, 14
 call            @Func_1e42
 dialogtxt       "Ugh..."
 code0309        
-choicetxt       @Choice_0cd0, "Even so, I want to go!"
-choicetxt       @Choice_0e06, "I guess I'll give up."
+choicetxt       @Choice_0cd0, "But I want to go!"
+choicetxt       @Choice_0e06, "I guess I should give up..."
 choicewait      
 
 @Choice_0cd0:
@@ -296,13 +296,13 @@ code0334
 code0331        40, 256
 code0479        1, 2, 13
 jumpz           @Cond_0d5c, ($b002 == 0)
-dialogtxt       "I'll make it work!"
+dialogtxt       "No, I'll make it work!"
 dialogtxt       "No matter what,"
 dialogtxt       "I'm gonna beat that Stray!"
 goto            @Label_0daa
 
 @Cond_0d5c:
-dialogtxt       "I'll make it work!"
+dialogtxt       "No, I'll make it work!"
 dialogtxt       "No matter what,"
 dialogtxt       "I'm gonna beat that Stray!"
 goto            @Label_0daa
@@ -795,4 +795,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-

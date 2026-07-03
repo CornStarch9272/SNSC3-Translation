@@ -241,9 +241,9 @@ code0309
 call            @Func_2106
 code0479        1, 2, 14
 call            @Func_213c
-dialogtxt       "Of course."
-dialogtxt       "The cure might not be permanent."
-dialogtxt       "Her fever may have returned."
+dialogtxt       "Naturally."
+dialogtxt       "The cure may well have worn off."
+dialogtxt       "It's possible her fever has returned."
 code0309        
 call            @Func_2172
 jumpz           @Cond_0c72, ($f0260 == 1)
@@ -282,21 +282,21 @@ code0309
 call            @Func_2106
 code0479        1, 3, 15
 call            @Func_213c
-dialogtxt       "You..."
-dialogtxt       "Dragged a sick girl out, at night!?"
-dialogtxt       "What are you thinking!?"
+dialogtxt       "You...!"
+dialogtxt       "You dragged a sick girl out at night!?"
+dialogtxt       "What were you thinking!?"
 code0309        
 call            @Func_2172
 code0479        0, 5, 17
 call            @Func_20d0
 jumpz           @Cond_0bd2, ($b002 == 0)
-dialogtxt       "I didn't do anything..."
-dialogtxt       "It was just a coincidence..."
+dialogtxt       "I didn't drag her anywhere..."
+dialogtxt       "It was just a coincidence!"
 goto            @Label_0c02
 
 @Cond_0bd2:
-dialogtxt       "I didn't do anything..."
-dialogtxt       "It was just a coincidence..."
+dialogtxt       "I didn't drag her anywhere..."
+dialogtxt       "It was just a coincidence!"
 goto            @Label_0c02
 
 @Label_0c02:
@@ -313,13 +313,13 @@ goto            @Label_0e7c
 code0479        0, 0, 12
 call            @Func_20d0
 jumpz           @Cond_0cde, ($b002 == 0)
-dialogtxt       "She's sleeping soundly right now."
-dialogtxt       "That means she's fine, right?"
+dialogtxt       "She seemed like she was fast asleep,"
+dialogtxt       "so I think she's fine now."
 goto            @Label_0d32
 
 @Cond_0cde:
-dialogtxt       "She's sleeping soundly right now."
-dialogtxt       "That means she's fine, right?"
+dialogtxt       "She seemed like she was fast asleep,"
+dialogtxt       "so I think she's fine now."
 goto            @Label_0d32
 
 @Label_0d32:
@@ -327,7 +327,7 @@ code0309
 call            @Func_2106
 code0479        1, 3, 15
 call            @Func_213c
-dialogtxt       "How can you..."
+dialogtxt       "How could you...?"
 dialogtxt       "You said you would protect Murno,"
 dialogtxt       "and yet you act so irresponsibly!"
 code0309        
@@ -511,7 +511,7 @@ dialogtxt       "Of course I am!"
 dialogtxt       "She had a fever!"
 code0309        
 code0479        1, 2, 14
-dialogtxt       "Also, [NAME 2],"
+dialogtxt       "Besides, [NAME 2],"
 dialogtxt       "if you intend to protect her,"
 dialogtxt       "you should be worried as well!"
 code0309        
@@ -520,7 +520,7 @@ jumpz           @Cond_1872, ($f0260 == 1)
 code0479        0, 0, 12
 call            @Func_20d0
 dialogtxt       "Oh, the fever."
-dialogtxt       "It looked like it's calmed down..."
+dialogtxt       "It looked like it had calmed down..."
 code0309        
 call            @Func_2106
 code0479        1, 5, 17
@@ -546,20 +546,20 @@ call            @Func_2106
 code0479        1, 2, 15
 call            @Func_213c
 dialogtxt       "\"Last night?\""
-dialogtxt       "You dragged her outside last night!?"
+dialogtxt       "You dragged her out of bed last night!?"
 dialogtxt       "She's sick! How could you!?"
 code0309        
 call            @Func_2172
 code0479        0, 5, 16
 call            @Func_20d0
 jumpz           @Cond_16ac, ($b002 == 0)
-dialogtxt       "I didn't do anything..."
-dialogtxt       "It was just a coincidence..."
+dialogtxt       "I didn't drag her anywhere..."
+dialogtxt       "It was just a coincidence!"
 goto            @Label_16dc
 
 @Cond_16ac:
-dialogtxt       "I didn't do anything..."
-dialogtxt       "It was just a coincidence..."
+dialogtxt       "I didn't drag her anywhere..."
+dialogtxt       "It was just a coincidence!"
 goto            @Label_16dc
 
 @Label_16dc:
@@ -596,19 +596,19 @@ code0309
 call            @Func_2172
 code0479        0, 1, 14
 call            @Func_20d0
-dialogtxt       "... Right..."
+dialogtxt       "Uh... Sure..."
 goto            @Label_1a40
 
 @Cond_1872:
 code0479        0, 0, 12
 call            @Func_20d0
 jumpz           @Cond_18d6, ($b002 == 0)
-dialogtxt       "She was sleeping soundly yesterday,"
+dialogtxt       "She seemed like she was fast asleep,"
 dialogtxt       "so I'm sure she's fine."
 goto            @Label_1914
 
 @Cond_18d6:
-dialogtxt       "She was sleeping soundly yesterday,"
+dialogtxt       "She seemed like she was fast asleep,"
 dialogtxt       "so I'm sure she's fine."
 goto            @Label_1914
 
@@ -885,4 +885,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-

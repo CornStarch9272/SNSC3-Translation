@@ -365,7 +365,7 @@ code047e        0, 1
 dialogtxt       "Hey, have you seen a white"
 dialogtxt       "cat anywhere?"
 code0309        
-dialogtxt       "I think I can hear one crying"
+dialogtxt       "I think I can hear her crying"
 dialogtxt       "for help."
 code0309        
 code047e        0, 0
@@ -421,7 +421,7 @@ dialogtxt       "Shiro has disappeared, but..."
 code0309        
 dialogtxt       "I don't think she's lost."
 dialogtxt       "I think she set out"
-dialogtxt       "on a journey on her own."
+dialogtxt       "on a journey of her own."
 code0309        
 dialogtxt       "And it looks like I've"
 dialogtxt       "found a new friend."
@@ -471,7 +471,7 @@ dialogtxt       "Hey, have you seen a"
 dialogtxt       "white cat somewhere?"
 code0309        
 dialogtxt       "I think I can hear"
-dialogtxt       "one crying for help."
+dialogtxt       "her crying for help."
 code0309        
 code047e        0, 0
 code0302        7
@@ -526,8 +526,8 @@ code0301        8, 7
 code047e        0, 1
 dialogtxt       "Shiro has left."
 code0309        
-dialogtxt       "But, they seemed full of"
-dialogtxt       "determination when they left."
+dialogtxt       "But, she seemed full of"
+dialogtxt       "determination when she left."
 code0309        
 dialogtxt       "It's hard being apart"
 dialogtxt       "from Shiro."
@@ -561,14 +561,14 @@ dialogtxt       "Hey, have you seen a"
 dialogtxt       "white cat somewhere?"
 code0309        
 jumpz           @Cond_1040, ($h311 == 8 && ($bv034 != 0 ? 1 : 0))
-dialogtxt       "They came back the other day,"
+dialogtxt       "She came back the other day,"
 dialogtxt       "but disappeared again..."
 code0309        
 goto            @Cond_1040
 
 @Cond_1040:
 dialogtxt       "I think I can hear"
-dialogtxt       "one crying for help."
+dialogtxt       "her crying for help."
 code0309        
 code047e        0, 0
 code0302        7
@@ -578,11 +578,11 @@ goto            @Label_11a4
 @Cond_109c:
 code0301        8, 7
 code047e        0, 1
-dialogtxt       "Ohh, there, there."
+dialogtxt       "Ohh, there, there!"
 code0309        
 dialogtxt       "I'm sorry."
 dialogtxt       "I don't think this is enough,"
-dialogtxt       "but accept this as thanks."
+dialogtxt       "but please accept this as thanks."
 code0309        
 code047e        0, 0
 code0302        7
@@ -619,11 +619,11 @@ code047e        0, 1
 dialogtxt       "Shiro went off somewhere..."
 code0309        
 dialogtxt       "Mysteriously, I'm at peace."
-dialogtxt       "I can feel they're happy,"
-dialogtxt       "wherever they are."
+dialogtxt       "I can feel that she's happy,"
+dialogtxt       "wherever she is."
 code0309        
-dialogtxt       "And it looks like they"
-dialogtxt       "got new friends."
+dialogtxt       "And it looks like"
+dialogtxt       "she made some new friends!"
 dialogtxt       "Aah~ I'm quite happy."
 code0309        
 code047e        0, 0
@@ -653,7 +653,7 @@ dialogtxt       "Hey, have you seen a"
 dialogtxt       "white cat somewhere?"
 code0309        
 dialogtxt       "I think I can hear"
-dialogtxt       "one crying for help."
+dialogtxt       "her crying for help."
 code0309        
 code047e        0, 0
 code0302        7
@@ -740,7 +740,7 @@ code0309
 dialogtxt       "No cat lover is a bad person."
 code0309        
 dialogtxt       "And so, I'll give you this,"
-dialogtxt       "as a present."
+dialogtxt       "as a present!"
 code0309        
 code047e        0, 0
 code0302        7
@@ -1058,4 +1058,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-
