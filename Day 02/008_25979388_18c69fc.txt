@@ -532,8 +532,8 @@ code0309
 dialogtxt       "It's hard being apart"
 dialogtxt       "from Shiro."
 code0309        
-dialogtxt       "I'll have to get along"
-dialogtxt       "with the one left in her place."
+dialogtxt       "I'll just have to get along with"
+dialogtxt       "this one she left behind!"
 code0309        
 code047e        0, 0
 code0302        7
