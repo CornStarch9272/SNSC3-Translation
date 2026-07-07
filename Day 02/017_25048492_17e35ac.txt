@@ -66,14 +66,14 @@ code0479        0, 2, 16
 call            @Func_0fec
 jumpz           @Cond_02ee, ($b002 == 0)
 dialogtxt       "We haven't gotten to the road,"
-dialogtxt       "so this is probably different"
-dialogtxt       "from the one everyone else is after."
+dialogtxt       "so this probably isn't the one"
+dialogtxt       "that everyone else is after."
 goto            @Label_0346
 
 @Cond_02ee:
 dialogtxt       "We haven't gotten to the road,"
-dialogtxt       "so this is probably different"
-dialogtxt       "from the one everyone else is after."
+dialogtxt       "so this probably isn't the one"
+dialogtxt       "that everyone else is after."
 goto            @Label_0346
 
 @Label_0346:
@@ -106,12 +106,12 @@ call            @Func_108e
 code0479        0, 2, 14
 call            @Func_0fec
 jumpz           @Cond_0482, ($b002 == 0)
-dialogtxt       "This is the only way out..."
+dialogtxt       "This is the only way out."
 dialogtxt       "We have to make it move!"
 goto            @Label_04d6
 
 @Cond_0482:
-dialogtxt       "This is the only way out..."
+dialogtxt       "This is the only way out."
 dialogtxt       "We have to make it move!"
 goto            @Label_04d6
 
@@ -155,8 +155,8 @@ call            @Func_1022
 code0479        1, 2, 12
 call            @Func_1058
 dialogtxt       "Indeed."
-dialogtxt       "From what I can see,"
-dialogtxt       "it should be no match for us!"
+dialogtxt       "It seems to me like it should be"
+dialogtxt       "a simple matter to deal with."
 code0309        
 call            @Func_108e
 code0479        0, 2, 12
@@ -167,8 +167,7 @@ goto            @Cond_06bc
 
 @Cond_06bc:
 jumpz           @Cond_0846, ($b003 == 2)
-dialogtxt       "So we'll have to fight"
-dialogtxt       "whatever is in our way, yeah?"
+dialogtxt       "Tch... What a nuisance."
 code0309        
 call            @Func_108e
 code0479        0, 2, 14
@@ -176,13 +175,13 @@ call            @Func_0fec
 jumpz           @Cond_075c, ($b002 == 0)
 dialogtxt       "Yeah."
 dialogtxt       "If we want to keep going,"
-dialogtxt       "we have to take it down."
+dialogtxt       "we'll have to take it down."
 goto            @Label_0794
 
 @Cond_075c:
 dialogtxt       "Yeah."
 dialogtxt       "If we want to keep going,"
-dialogtxt       "we have to take it down."
+dialogtxt       "we'll have to take it down."
 goto            @Label_0794
 
 @Label_0794:
@@ -220,13 +219,13 @@ call            @Func_0fec
 jumpz           @Cond_0900, ($b002 == 0)
 dialogtxt       "Yeah."
 dialogtxt       "If we want to keep going,"
-dialogtxt       "we have to take it down."
+dialogtxt       "we'll have to take it down."
 goto            @Label_0938
 
 @Cond_0900:
 dialogtxt       "Yeah."
 dialogtxt       "If we want to keep going,"
-dialogtxt       "we have to take it down."
+dialogtxt       "we'll have to take it down."
 goto            @Label_0938
 
 @Label_0938:
@@ -235,8 +234,7 @@ call            @Func_1022
 code0479        1, 2, 12
 call            @Func_1058
 dialogtxt       "O—Okay."
-dialogtxt       "Together..."
-dialogtxt       "We'll definitely win!"
+dialogtxt       "Together, we'll definitely win!"
 code0309        
 call            @Func_108e
 code0479        0, 2, 12
@@ -468,4 +466,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-

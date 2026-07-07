@@ -67,7 +67,7 @@ goto            @Cond_0226
 @Cond_0226:
 jumpz           @Cond_0264, ($b003 == 1)
 dialogtxt       "Indeed."
-dialogtxt       "I hoped it would have had"
+dialogtxt       "I'd hoped it would have"
 dialogtxt       "a bit more mettle."
 goto            @Cond_0264
 
@@ -171,7 +171,7 @@ goto            @Cond_0594
 @Cond_0594:
 jumpz           @Cond_05da, ($b003 == 1)
 dialogtxt       "Having a close fight with"
-dialogtxt       "such an opponent is a bit saddening."
+dialogtxt       "such an opponent is rather pitiful."
 goto            @Cond_05da
 
 @Cond_05da:
@@ -183,8 +183,8 @@ goto            @Cond_0628
 
 @Cond_0628:
 jumpz           @Cond_066c, ($b003 == 3)
-dialogtxt       "Th—That was just"
-dialogtxt       "a liiiitle bit dangerous..."
+dialogtxt       "Th—That was just a biiiit"
+dialogtxt       "of a close call..."
 goto            @Cond_066c
 
 @Cond_066c:
@@ -276,7 +276,7 @@ goto            @Cond_090a
 @Cond_090a:
 jumpz           @Cond_0942, ($b003 == 1)
 dialogtxt       "Hm..."
-dialogtxt       "That went alright."
+dialogtxt       "That was passable."
 goto            @Cond_0942
 
 @Cond_0942:
@@ -527,4 +527,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-

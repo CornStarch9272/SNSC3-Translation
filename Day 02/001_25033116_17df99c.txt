@@ -242,7 +242,7 @@ call            @Func_2106
 code0479        1, 2, 14
 call            @Func_213c
 dialogtxt       "Naturally."
-dialogtxt       "The cure may well have worn off."
+dialogtxt       "The treatment may well have worn off."
 dialogtxt       "It's possible her fever has returned."
 code0309        
 call            @Func_2172

@@ -47,7 +47,7 @@ goto            @Cond_01a0
 
 @Cond_01a0:
 jumpz           @Cond_01d0, ($b003 == 1)
-dialogtxt       "What about it?"
+dialogtxt       "What's the matter?"
 goto            @Cond_01d0
 
 @Cond_01d0:
@@ -57,7 +57,7 @@ goto            @Cond_01f8
 
 @Cond_01f8:
 jumpz           @Cond_0224, ($b003 == 3)
-dialogtxt       "What is the matter with it?"
+dialogtxt       "What is it?"
 goto            @Cond_0224
 
 @Cond_0224:
@@ -73,13 +73,13 @@ call            @Func_0d06
 jumpz           @Cond_02d2, ($b002 == 0)
 dialogtxt       "I remember coming here before..."
 dialogtxt       "If we go through here,"
-dialogtxt       "we should be able to get outside."
+dialogtxt       "we should be able to get outside!"
 goto            @Label_0320
 
 @Cond_02d2:
 dialogtxt       "I remember coming here before..."
 dialogtxt       "If we go through here,"
-dialogtxt       "we should be able to get outside."
+dialogtxt       "we should be able to get outside!"
 goto            @Label_0320
 
 @Label_0320:
@@ -107,18 +107,18 @@ goto            @Label_03b8
 @Label_03b8:
 call            @Func_0d72
 jumpz           @Cond_0400, ($b003 == 0)
-dialogtxt       "You Have Quite A Vague Memory."
+dialogtxt       "Your Memory Is Very Unreliable."
 goto            @Cond_0400
 
 @Cond_0400:
 jumpz           @Cond_0460, ($b003 == 1)
-dialogtxt       "That's quite a vague memory..."
+dialogtxt       "You don't sound terribly confident..."
 goto            @Cond_0460
 
 @Cond_0460:
 jumpz           @Cond_04aa, ($b003 == 2)
 dialogtxt       "Tch..."
-dialogtxt       "You sure we can even"
+dialogtxt       "Are you even sure we can"
 dialogtxt       "trust your memory...?"
 goto            @Cond_04aa
 
@@ -134,14 +134,12 @@ call            @Func_0da8
 code0479        0, 2, 15
 call            @Func_0d06
 jumpz           @Cond_057c, ($b002 == 0)
-dialogtxt       "Hey, I've been right"
-dialogtxt       "up until now, at least."
+dialogtxt       "Hey, at least I've been right this far!"
 dialogtxt       "Let's just go and find out."
 goto            @Label_05ba
 
 @Cond_057c:
-dialogtxt       "Hey, I've been right"
-dialogtxt       "up until now, at least."
+dialogtxt       "Hey, at least I've been right this far!"
 dialogtxt       "Let's just go and find out."
 goto            @Label_05ba
 
@@ -174,7 +172,7 @@ goto            @Cond_0682
 
 @Cond_0682:
 jumpz           @Cond_06c2, ($b003 == 1)
-dialogtxt       "I suppose that may be true..."
+dialogtxt       "I suppose that is true..."
 dialogtxt       "We'll see for ourselves"
 dialogtxt       "once we proceed onwards."
 goto            @Cond_06c2
@@ -186,8 +184,8 @@ goto            @Cond_06f6
 
 @Cond_06f6:
 jumpz           @Cond_0736, ($b003 == 3)
-dialogtxt       "I—Is that so...?"
-dialogtxt       "Then let's get going!"
+dialogtxt       "Th—that is true..."
+dialogtxt       "Well then, let's get going!"
 goto            @Cond_0736
 
 @Cond_0736:
@@ -412,4 +410,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-
