@@ -117,7 +117,7 @@ goto            @Cond_03ec
 @Cond_03ec:
 jumpz           @Cond_0426, ($b003 == 3)
 dialogtxt       "Someone's here..."
-dialogtxt       "They're coming!"
+dialogtxt       "They're coming towards us!"
 goto            @Cond_0426
 
 @Cond_0426:
@@ -150,7 +150,7 @@ code047d        0, 120
 code047d        1, 106
 code0301        8, 7
 code047e        0, 1
-dialogtxt       "... That was tough wasn't it?"
+dialogtxt       "... That was tough, huh?"
 dialogtxt       "Who would've thought the"
 dialogtxt       "bridge would collapse?"
 code0309        
@@ -158,7 +158,7 @@ code047e        0, 0
 code0302        8
 code0301        8, 7
 code047e        1, 1
-dialogtxt       "It was a bit surprising,"
+dialogtxt       "It was a bit of a surprise,"
 dialogtxt       "but there are other ways around."
 code0309        
 code047e        1, 0
@@ -355,12 +355,12 @@ done
 @Func_0d6a:
 jumpz           @Cond_0db0, ($b002 == 0)
 dialogtxt       "That guy..."
-dialogtxt       "He kind of sounded like my bro."
+dialogtxt       "He kind of sounded like Bro."
 goto            @Label_0dec
 
 @Cond_0db0:
 dialogtxt       "That guy..."
-dialogtxt       "He kind of sounded like my bro."
+dialogtxt       "He kind of sounded like Bro."
 goto            @Label_0dec
 
 @Label_0dec:
@@ -373,11 +373,11 @@ dialogtxt       "He's a friend of Master Rob."
 dialogtxt       "He's a blacksmith."
 code0309        
 code0479        0, 0, 16
-dialogtxt       "I trained with him once a"
-dialogtxt       "long time ago in Prosban..."
+dialogtxt       "I trained with him once, in Prosban."
+dialogtxt       "That was a long time ago, though."
 code0309        
 code0479        0, 4, 12
-dialogtxt       "But I haven't seen him"
+dialogtxt       "I haven't seen him"
 dialogtxt       "since Master Rob passed away..."
 code0309        
 ret             
@@ -594,4 +594,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-

@@ -18,7 +18,8 @@ call            @Func_10aa
 call            @Func_0fa6
 jumpz           @Cond_0138, ($b002 == 0)
 dialogtxt       "You guys again?"
-dialogtxt       "What is it? We're busy."
+dialogtxt       "What is it?"
+dialogtxt       "We're kinda busy."
 goto            @Label_0172
 
 @Cond_0138:
@@ -47,11 +48,11 @@ call            @Func_1066
 code0479        0, 2, 15
 call            @Func_0fc4
 jumpz           @Cond_0268, ($b002 == 0)
-dialogtxt       "What was that!? You!"
+dialogtxt       "What was that!? You—!"
 goto            @Label_0278
 
 @Cond_0268:
-dialogtxt       "What was that!? You!"
+dialogtxt       "What was that!? You—!"
 goto            @Label_0278
 
 @Label_0278:
@@ -95,8 +96,8 @@ goto            @Cond_03e0
 
 @Cond_03e0:
 jumpz           @Cond_041e, ($b003 == 1)
-dialogtxt       "Ho..."
-dialogtxt       "Weren't we in a hurry?"
+dialogtxt       "Oho..."
+dialogtxt       "Aren't we in a hurry?"
 goto            @Cond_041e
 
 @Cond_041e:
@@ -153,13 +154,15 @@ call            @Func_1066
 code0479        0, 2, 12
 call            @Func_0fc4
 jumpz           @Cond_069a, ($b002 == 0)
-dialogtxt       "Besides, preying on the weak"
-dialogtxt       "is what the bad guys do."
+dialogtxt       "Besides, if I keep preying on the weak,"
+dialogtxt       "they'll keep treating me like"
+dialogtxt       "some half-baked kid."
 goto            @Label_06e6
 
 @Cond_069a:
-dialogtxt       "Besides, preying on the weak"
-dialogtxt       "is what the bad guys do."
+dialogtxt       "Besides, if I keep preying on the weak,"
+dialogtxt       "they'll keep treating me like"
+dialogtxt       "some half-baked kid."
 goto            @Label_06e6
 
 @Label_06e6:
@@ -167,7 +170,7 @@ code0309
 call            @Func_0ffa
 code0479        1, 2, 15
 call            @Func_1030
-dialogtxt       "Huh!?"
+dialogtxt       "What!?"
 dialogtxt       "You're just a Stray's apprentice,"
 dialogtxt       "don't get so full of yourself!"
 code0309        
@@ -224,7 +227,7 @@ goto            @Cond_0976
 
 @Cond_0976:
 jumpz           @Cond_0992, ($b003 == 1)
-dialogtxt       "Acknowledged."
+dialogtxt       "I concur."
 goto            @Cond_0992
 
 @Cond_0992:
@@ -461,4 +464,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-

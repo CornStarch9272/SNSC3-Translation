@@ -6,23 +6,23 @@ code0479        1, 0, 12
 code047d        1, 132
 call            @Func_1366
 call            @Func_12ce
-dialogtxt       "Anyway, why did you two"
-dialogtxt       "want to fight the Strays?"
+dialogtxt       "Why did you two want to "
+dialogtxt       "fight the Strays, anyway?"
 code047b        
 code0309        
 call            @Func_1322
 code0479        0, 2, 16
 call            @Func_1280
 jumpz           @Cond_013a, ($b002 == 0)
-dialogtxt       "Because... I've gotten stronger"
-dialogtxt       "since I got a partner now."
-dialogtxt       "And I..."
+dialogtxt       "Well... Now that I have a partner,"
+dialogtxt       "I've gotten a lot stronger."
+dialogtxt       "And..."
 goto            @Label_018a
 
 @Cond_013a:
-dialogtxt       "Because... I've gotten stronger"
-dialogtxt       "since I got a partner now."
-dialogtxt       "And I..."
+dialogtxt       "Well... Now that I have a partner,"
+dialogtxt       "I've gotten a lot stronger."
+dialogtxt       "And..."
 goto            @Label_018a
 
 @Label_018a:
@@ -48,23 +48,23 @@ code047d        1, 132
 call            @Func_1350
 code0479        0, 2, 14
 call            @Func_12ec
-dialogtxt       "I see how it is."
+dialogtxt       "Ah, so that's it."
 dialogtxt       "I understand how you feel."
 code0309        
 code043c        4, 4
 code0479        1, 0, 13
-dialogtxt       "Well, I guess it's not like"
-dialogtxt       "hating to lose is a bad thing."
-code0309        
+dialogtxt       "Well, I don't think it's bad"
+dialogtxt       "to be competitive like that."
+code0309		
 call            @Func_1322
 code0479        0, 2, 16
 call            @Func_1280
 jumpz           @Cond_032a, ($b002 == 0)
-dialogtxt       "Just what are you implying?"
+dialogtxt       "What are you trying to say?"
 goto            @Label_033e
 
 @Cond_032a:
-dialogtxt       "Just what are you implying?"
+dialogtxt       "What are you trying to say?"
 goto            @Label_033e
 
 @Label_033e:
@@ -72,34 +72,34 @@ code0309
 call            @Func_12b6
 code0479        1, 4, 12
 call            @Func_12ec
-dialogtxt       "You guys are Craftknights, right?"
-dialogtxt       "The area you're gonna challenge"
-dialogtxt       "others in is a bit different, yeah?"
+dialogtxt       "You guys are Craftknights, arent you?"
+dialogtxt       "This isn't really the place you"
+dialogtxt       "should be challenging people, right?"
 code0309        
 code0479        1, 0, 16
-dialogtxt       "Keep that up, and you'll never"
-dialogtxt       "be in the same league as"
-dialogtxt       "an elite Craftknight like Rob."
+dialogtxt       "Keep it up, and you'll never"
+dialogtxt       "grow into an elite Craftknight"
+dialogtxt       "like Rob."
 code0309        
 call            @Func_1322
 code0479        0, 2, 14
 call            @Func_1280
 jumpz           @Cond_04da, ($b002 == 0)
-dialogtxt       "What!"
+dialogtxt       "What!?"
 dialogtxt       "I train every single day!"
 dialogtxt       "I'm sure if we fought now..."
 code0309        
 code0479        0, 2, 13
-dialogtxt       "I'm strong enough to beat you!"
+dialogtxt       "I'd be strong enough to beat you!"
 goto            @Label_057c
 
 @Cond_04da:
-dialogtxt       "But you're wrong!"
+dialogtxt       "You're wrong!"
 dialogtxt       "I train every single day!"
 dialogtxt       "I'm sure if we fought now..."
 code0309        
 code0479        0, 2, 13
-dialogtxt       "I'm strong enough to beat you!"
+dialogtxt       "I'd be strong enough to beat you!"
 goto            @Label_057c
 
 @Label_057c:
@@ -107,9 +107,9 @@ code0309
 call            @Func_12b6
 code0479        1, 4, 13
 call            @Func_12ec
-dialogtxt       "You're so childish..."
-dialogtxt       "This is why you'll always be"
-dialogtxt       "a half-baked amateur."
+dialogtxt       "See, stuff like that is why"
+dialogtxt       "you're always going to be"
+dialogtxt       "a half-baked Craftknight."
 code0309        
 call            @Func_1322
 code0479        0, 2, 15
@@ -138,9 +138,9 @@ code0309
 call            @Func_12b6
 code0479        1, 5, 16
 call            @Func_12ec
-dialogtxt       "Ah, that's right."
-dialogtxt       "This isn't the time for"
-dialogtxt       "kid's stuff like this."
+dialogtxt       "Yeah, you're right."
+dialogtxt       "I shouldn't be wasting time"
+dialogtxt       "on this kid's stuff, either."
 code0309        
 call            @Func_1390
 call            @Func_1322
@@ -150,7 +150,7 @@ code0479        0, 2, 15
 code047d        0, 0
 call            @Func_133a
 call            @Func_1280
-dialogtxt       "K—Kid's stuff!?"
+dialogtxt       "K-kid's stuff!?"
 code047b        
 code0309        
 call            @Func_12b6
@@ -196,12 +196,12 @@ call            @Func_133a
 call            @Func_1262
 jumpz           @Cond_09e4, ($b002 == 0)
 dialogtxt       "Stop right there!"
-dialogtxt       "We're not done yet!"
+dialogtxt       "We're not done here!"
 goto            @Label_0a14
 
 @Cond_09e4:
 dialogtxt       "Wait a second!"
-dialogtxt       "We're not done yet!"
+dialogtxt       "We're not done here!"
 goto            @Label_0a14
 
 @Label_0a14:
@@ -502,4 +502,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-
