@@ -58,30 +58,30 @@ call            @Func_1262
 call            @Func_11ca
 dialogtxt       "Ah, [NAME 2]!"
 dialogtxt       "Welcome back. I just got"
-dialogtxt       "back from the chief's house."
+dialogtxt       "back from the chief's house!"
 code047b        
 code0309        
 code0479        1, 1, 12
-dialogtxt       "The whole \"Forbidden Love\""
+dialogtxt       "The whole \"forbidden love\""
 dialogtxt       "story was a huge success!"
 dialogtxt       "It's all thanks to Miss V.E."
 code0309        
 code0479        1, 4, 13
-dialogtxt       "The village chief was so moved."
-dialogtxt       "I kinda felt bad lying to him..."
+dialogtxt       "The chief was so moved."
+dialogtxt       "Though, I kinda felt bad lying to him..."
 code0309        
 call            @Func_121e
 code0479        0, 1, 16
 call            @Func_117c
 jumpz           @Cond_0406, ($b002 == 0)
 dialogtxt       "That's great!"
-dialogtxt       "Honestly though, I'm surprised"
+dialogtxt       "Honestly, I'm surprised"
 dialogtxt       "it went over so well."
 goto            @Label_0450
 
 @Cond_0406:
 dialogtxt       "Really!? That's awesome!"
-dialogtxt       "Honestly though, I'm surprised"
+dialogtxt       "Honestly, I'm surprised"
 dialogtxt       "it went over so well."
 goto            @Label_0450
 
@@ -103,13 +103,13 @@ goto            @Label_050e
 code0309        
 code0479        0, 0, 12
 jumpz           @Cond_0564, ($b002 == 0)
-dialogtxt       "By the way, what are you up to?"
-dialogtxt       "Why are you just standing here?"
+dialogtxt       "What are you up to, by the way?"
+dialogtxt       "Why are you just standing out here?"
 goto            @Label_0592
 
 @Cond_0564:
-dialogtxt       "By the way, what are you up to?"
-dialogtxt       "Why are you just standing here?"
+dialogtxt       "What are you up to, by the way?"
+dialogtxt       "Why are you just standing out here?"
 goto            @Label_0592
 
 @Label_0592:
@@ -118,8 +118,8 @@ call            @Func_11b2
 code0479        1, 4, 16
 call            @Func_11e8
 dialogtxt       "Um..."
-dialogtxt       "A scary man came by earlier,"
-dialogtxt       "and told me I wasn't needed."
+dialogtxt       "A scary man came by earlier."
+dialogtxt       "He told me I wasn't needed..."
 code0309        
 call            @Func_121e
 code0479        0, 5, 16
@@ -137,8 +137,8 @@ code0309
 call            @Func_11b2
 code0479        1, 4, 12
 call            @Func_11e8
-dialogtxt       "Not exactly, but it was difficult"
-dialogtxt       "to stay inside, so..."
+dialogtxt       "Not exactly, but I wasn't really"
+dialogtxt       "comfortable staying there, sooo..."
 code0309        
 call            @Func_121e
 code0479        0, 2, 14
@@ -182,7 +182,7 @@ call            @Func_121e
 code043c        0, 4
 code0479        0, 5, 17
 call            @Func_117c
-dialogtxt       "I told you he's not a bad guy!"
+dialogtxt       "I told you, he's not a bad guy!"
 code0309        
 call            @Func_11b2
 code0479        1, 4, 12
@@ -200,7 +200,7 @@ call            @Func_121e
 code043c        0, 4
 code0479        0, 5, 17
 call            @Func_117c
-dialogtxt       "I told you he's not a bad guy!"
+dialogtxt       "I told you, he's not a bad guy!"
 code0309        
 call            @Func_11b2
 code0479        1, 2, 16
@@ -217,7 +217,7 @@ call            @Func_121e
 code043c        0, 4
 code0479        0, 5, 17
 call            @Func_117c
-dialogtxt       "I told you he's not a bad guy!"
+dialogtxt       "I told you, he's not a bad guy!"
 code0309        
 call            @Func_11b2
 code0479        1, 2, 14
@@ -228,13 +228,13 @@ goto            @Cond_09ce
 @Cond_09ce:
 jumpz           @Cond_0a98, ($b003 == 3)
 dialogtxt       "So that scary-faced man"
-dialogtxt       "really is an enemy then!"
+dialogtxt       "really is an enemy!"
 code0309        
 call            @Func_121e
 code043c        0, 4
 code0479        0, 5, 17
 call            @Func_117c
-dialogtxt       "I told you he's not a bad guy!"
+dialogtxt       "I told you, he's not a bad guy!"
 code0309        
 call            @Func_11b2
 code0479        1, 2, 14
@@ -259,8 +259,8 @@ goto            @Label_0b98
 dialogtxt       "You still don't believe me?"
 code0309        
 code0479        0, 2, 12
-dialogtxt       "Alright, well, let's go ask him"
-dialogtxt       "about it then."
+dialogtxt       "Alright, well,"
+dialogtxt       "let's go ask him about it then."
 goto            @Label_0b98
 
 @Label_0b98:
@@ -489,4 +489,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-

@@ -49,14 +49,14 @@ code0479        1, 2, 14
 call            @Func_2008
 call            @Func_1f04
 dialogtxt       "Yeah."
-dialogtxt       "They've even hired thugs,"
-dialogtxt       "and seem to be searching everywhere."
+dialogtxt       "They've even hired thugs, and "
+dialogtxt       "they seem to be searching all over."
 code047b        
 code0309        
 code0479        0, 0, 16
 dialogtxt       "There was that earthquake"
 dialogtxt       "that happened recently, remember?"
-dialogtxt       "Seems like Strays appeared then."
+dialogtxt       "It seems like the Strays appeared then."
 code0309        
 call            @Func_1f58
 code0479        1, 2, 16
@@ -64,13 +64,14 @@ call            @Func_1f8e
 dialogtxt       "Doesn't he remember what happened"
 dialogtxt       "last time?"
 code0309
-dialogtxt       "He only just started moving"
-dialogtxt       "around again, hasn't he?"
-code0309        
+dialogtxt       "It's only recently he's started"
+dialogtxt       "being able to move again, right?"
+code0309
 code0479        1, 2, 14
-dialogtxt       "Even so, talking about"
-dialogtxt       "avenging Rob again..."
-code0309        
+dialogtxt       "And despite that, he's"
+dialogtxt       "still talking about avenging Rob!"
+dialogtxt       "It's—"
+code0309		
 call            @Func_205e
 call            @Func_1fac
 code047b        
@@ -114,33 +115,33 @@ code0309
 call            @Func_1f58
 code0479        1, 4, 16
 call            @Func_1f8e
-dialogtxt       "Best friends, huh..."
+dialogtxt       "Best friends, huh...?"
 code0309        
 call            @Func_1fc4
 code0479        0, 0, 12
 call            @Func_1f22
 dialogtxt       "Lately, Strays have been causing"
-dialogtxt       "even more injuries in town,"
-dialogtxt       "so we can't just stop him."
+dialogtxt       "even more damage in town, so it's "
+dialogtxt       "not like we can tell him to stop."
 code0309        
 code0479        0, 0, 16
 code0479        1, 0, 14
 dialogtxt       "But since it involves Bostaph,"
-dialogtxt       "I thought it'd be better"
-dialogtxt       "if you knew anyway."
+dialogtxt       "I thought I should still let"
+dialogtxt       "you know."
 code0309        
 call            @Func_1f58
 code0479        1, 4, 12
 call            @Func_1f8e
-dialogtxt       "Is that so..."
-dialogtxt       "Sorry for the bother."
+dialogtxt       "I see..."
+dialogtxt       "Well, sorry to bother you."
 code0309        
 call            @Func_1fc4
 code0479        0, 0, 13
 call            @Func_1f22
 dialogtxt       "Heh..."
-dialogtxt       "This might be the first time"
-dialogtxt       "I've heard an apology from you."
+dialogtxt       "This might be the first time I've"
+dialogtxt       "heard you apologize for something."
 code0309        
 call            @Func_1f58
 code0479        1, 0, 13
@@ -151,20 +152,20 @@ code0309
 call            @Func_1fc4
 code0479        0, 1, 12
 call            @Func_1f22
-dialogtxt       "Hah, yeah I guess so..."
-dialogtxt       "You haven't changed a bit..."
+dialogtxt       "Hah, yeah, I guess so..."
+dialogtxt       "You haven't changed a bit."
 code0309        
 code0479        0, 0, 12
 code0479        1, 2, 12
 dialogtxt       "So..."
-dialogtxt       "What are you going to do?"
+dialogtxt       "What are you gonna do?"
 code0309        
 call            @Func_1f58
 code0479        1, 2, 12
 call            @Func_1f8e
-dialogtxt       "I think..."
-dialogtxt       "It'd be better if I talked to him."
-dialogtxt       "So I'll be going to town."
+dialogtxt       "At this point... I think it'd"
+dialogtxt       "be better if I talked to him."
+dialogtxt       "I'll go into town."
 code0309        
 call            @Func_205e
 call            @Func_1fac
@@ -189,7 +190,7 @@ dialogbig       255, 116, 1, 0, 0, "I'm going too!"
 goto            @Label_0950
 
 @Cond_091c:
-dialogbig       255, 116, 1, 0, 0, "I wanna go too!"
+dialogbig       255, 116, 1, 0, 0, "I'm going too!"
 goto            @Label_0950
 
 @Label_0950:
@@ -279,14 +280,14 @@ code0309
 call            @Func_1fc4
 code0479        0, 2, 15
 call            @Func_1f22
-dialogtxt       "Well aren't you confident!"
-dialogtxt       "This is why you're an amateur!"
+dialogtxt       "A match!? Quit being so arrogant!"
+dialogtxt       "This is why you're an amateur."
 dialogtxt       "Strength isn't everything!"
 code0309        
 code0479        0, 2, 16
 dialogtxt       "If only Rob were still here..."
 dialogtxt       "Maybe he could talk some sense"
-dialogtxt       "into you..."
+dialogtxt       "into you."
 code0309        
 call            @Func_2048
 call            @Func_1f58
@@ -780,4 +781,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-
