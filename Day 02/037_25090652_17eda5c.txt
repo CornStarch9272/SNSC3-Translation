@@ -17,7 +17,7 @@ jumpz           @Cond_00f2, ($b062 == 0)
 code0479        0, 0, 17
 call            @Func_1332
 dialogtxt       "Ugh..."
-dialogtxt       "You got me good..."
+dialogtxt       "You really got me good."
 code0309        
 call            @Func_1368
 goto            @Label_0156
@@ -25,8 +25,8 @@ goto            @Label_0156
 @Cond_00f2:
 code0479        0, 0, 17
 call            @Func_1332
-dialogtxt       "You broke my weapon..."
-dialogtxt       "You got me good..."
+dialogtxt       "You even broke my weapon...!"
+dialogtxt       "You really got me good."
 code0309        
 call            @Func_1368
 goto            @Label_0156
@@ -35,11 +35,11 @@ goto            @Label_0156
 code0479        1, 2, 12
 call            @Func_139e
 jumpz           @Cond_01a8, ($b002 == 0)
-dialogtxt       "So what do you think?"
+dialogtxt       "So? What do you think?"
 goto            @Label_01d4
 
 @Cond_01a8:
-dialogtxt       "So what do you think?"
+dialogtxt       "So? What do you think?"
 goto            @Label_01d4
 
 @Label_01d4:
@@ -48,14 +48,14 @@ call            @Func_13d4
 code0479        0, 0, 16
 call            @Func_1332
 dialogtxt       "You've certainly become stronger,"
-dialogtxt       "but compared to Rob,"
-dialogtxt       "you've still got a long way to go."
+dialogtxt       "but compared to Rob, you've still"
+dialogtxt       "got a long way to go."
 code0309        
 code0479        1, 2, 16
 code0479        0, 1, 13
-dialogtxt       "But, if it's just protecting"
-dialogtxt       "the village, then your abilities"
-dialogtxt       "are more than enough."
+dialogtxt       "But, if it's just a trip into"
+dialogtxt       "town, you're more than capable"
+dialogtxt       "at this point."
 code0309        
 call            @Func_1368
 code0479        1, 1, 13
@@ -76,8 +76,8 @@ call            @Func_13d4
 code0479        0, 0, 16
 call            @Func_1332
 dialogtxt       "Now, let's discuss your journey."
-dialogtxt       "So you know the bridge collapsed."
-dialogtxt       "There is a way past, but..."
+dialogtxt       "As you know, the bridge has collapsed."
+dialogtxt       "There's still a way to get there, but..."
 code0309        
 code0479        1, 0, 12
 code0479        0, 0, 13
@@ -108,14 +108,14 @@ code0309
 call            @Func_1368
 code0479        1, 2, 12
 call            @Func_139e
-dialogtxt       "I get your point,"
-dialogtxt       "but I still can't approve!"
+dialogtxt       "I get what you're trying to say,"
+dialogtxt       "but I still can't approve of this!"
 code0309        
 call            @Func_13d4
 code0479        0, 5, 15
 call            @Func_1332
 dialogtxt       "Huh!?"
-dialogtxt       "Well why not?"
+dialogtxt       "Why not?"
 code0309        
 call            @Func_1368
 code0479        1, 2, 13
@@ -141,11 +141,11 @@ code047d        0, 0
 call            @Func_13ec
 call            @Func_1332
 jumpz           @Cond_0726, ($b002 == 0)
-dialogtxt       "Then what should I do?"
+dialogtxt       "What should I do, then?"
 goto            @Label_074a
 
 @Cond_0726:
-dialogtxt       "Then what should I do?"
+dialogtxt       "What should I do, then?"
 goto            @Label_074a
 
 @Label_074a:
@@ -154,22 +154,22 @@ code0309
 call            @Func_1368
 code0479        1, 2, 13
 call            @Func_139e
-dialogtxt       "Now then, I have no choice but"
+dialogtxt       "At this point, I have no choice but"
 dialogtxt       "to test your strength myself!"
 code0309        
 call            @Func_13d4
 code0479        0, 2, 16
 call            @Func_1332
 jumpz           @Cond_083a, ($b002 == 0)
-dialogtxt       "Wait, Master!"
-dialogtxt       "You mean have a match?"
-dialogtxt       "But you're still injured..."
+dialogtxt       "Hold on..."
+dialogtxt       "You mean you want to have a match?"
+dialogtxt       "But Master, you're still injured...!"
 goto            @Label_0894
 
 @Cond_083a:
-dialogtxt       "Wait, Master!"
-dialogtxt       "You mean have a match?"
-dialogtxt       "But you're still injured..."
+dialogtxt       "Hold on..."
+dialogtxt       "You mean you want to have a match?"
+dialogtxt       "But Master, you're still injured...!"
 goto            @Label_0894
 
 @Label_0894:
@@ -189,7 +189,8 @@ code047d        0, 132
 call            @Func_13ec
 call            @Func_1332
 dialogtxt       "Wait a sec!"
-dialogtxt       "Then you're saying that I'm..."
+dialogtxt       "Are you saying I'm weaker than"
+dialogtxt       "you, even when you're injured!?"
 code047b        
 code0309        
 call            @Func_1442
@@ -201,9 +202,9 @@ code047d        0, 0
 call            @Func_13ec
 code0479        1, 2, 14
 call            @Func_139e
-dialogtxt       "Prepare yourself for tomorrow,"
-dialogtxt       "and come find me when"
-dialogtxt       "it's time to leave."
+dialogtxt       "You prepare yourself, and"
+dialogtxt       "come find me before it's"
+dialogtxt       "time to leave tomorrow."
 code047b        
 code0309        
 code0479        1, 2, 12
@@ -211,8 +212,8 @@ dialogtxt       "If you really have grown,"
 dialogtxt       "I'll take you with me."
 code0309        
 code0479        1, 2, 13
-dialogtxt       "And if not,"
-dialogtxt       "then you're to stay here quietly!"
+dialogtxt       "And if not, then you're"
+dialogtxt       "to stay here quietly!"
 dialogtxt       "Understood?"
 code0309        
 call            @Func_13d4
@@ -289,7 +290,7 @@ code047d        0, 132
 call            @Func_13ec
 call            @Func_1314
 dialogtxt       "Dammit! Don't ignore me!"
-dialogtxt       "I am the Invincible Jade!"
+dialogtxt       "I'm the Invincible Jade!"
 code047b        
 code0309        
 call            @Func_1442
@@ -513,4 +514,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-

@@ -4,9 +4,9 @@ code047d        0, 0
 call            @Func_0968
 call            @Func_0890
 jumpz           @Cond_0110, ($b002 == 0)
-dialogtxt       "It's hopeless..."
-dialogtxt       "Murno doesn't want to talk."
-dialogtxt       "I'll just leave it be."
+dialogtxt       "Murno doesn't want to talk about it."
+dialogtxt       "There's no point in pushing her..."
+dialogtxt       "I'll just drop it."
 code047b        
 code0309        
 code0479        0, 2, 12
@@ -16,9 +16,9 @@ dialogtxt       "... I think."
 goto            @Label_01d4
 
 @Cond_0110:
-dialogtxt       "It's no good..."
-dialogtxt       "Murno doesn't want to talk,"
-dialogtxt       "I'll just have to leave it be."
+dialogtxt       "Murno doesn't want to talk about it."
+dialogtxt       "There's no point in pushing her..."
+dialogtxt       "I'll just drop it."
 code047b        
 code0309        
 code0479        0, 2, 12
@@ -290,4 +290,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-

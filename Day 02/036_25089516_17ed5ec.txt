@@ -49,8 +49,8 @@ dialogtxt       "Show me what you've got!"
 code047b        
 code0309        
 code0479        1, 2, 15
-dialogtxt       "I, the Invincible Jade, am ready."
-code0309        
+dialogtxt       "The Invincible Jade is ready!"
+code0309		
 call            @Func_0c30
 call            @Func_0bac
 code047b        
@@ -113,7 +113,7 @@ goto            @Label_044a
 @Label_044a:
 call            @Func_0b76
 jumpz           @Cond_046c, ($b003 == 0)
-dialogtxt       "Roger!"
+dialogtxt       "Affirmative!"
 goto            @Cond_046c
 
 @Cond_046c:
@@ -123,7 +123,7 @@ goto            @Cond_048a
 
 @Cond_048a:
 jumpz           @Cond_04ac, ($b003 == 2)
-dialogtxt       "Yeah."
+dialogtxt       "Fine."
 goto            @Cond_04ac
 
 @Cond_04ac:
@@ -365,4 +365,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-
