@@ -42,7 +42,7 @@ goto            @Cond_0196
 
 @Cond_0196:
 jumpz           @Cond_01b6, ($b003 == 1)
-dialogtxt       "Who's there!?"
+dialogtxt       "Who goes there!?"
 goto            @Cond_01b6
 
 @Cond_01b6:
@@ -88,9 +88,9 @@ code0479        0, 1, 17
 code047d        0, 132
 call            @Func_0fc2
 call            @Func_0eea
-dialogtxt       "Oh man~"
-dialogtxt       "Like I thought, I'm too pissed"
-dialogtxt       "to be sneaking around..."
+dialogtxt       "Aww man~"
+dialogtxt       "Go figure. I'm too mad"
+dialogtxt       "to be sneaking around like this."
 code047b        
 code0309        
 call            @Func_0f3e
@@ -106,9 +106,9 @@ code0309
 call            @Func_0faa
 code0479        0, 5, 16
 call            @Func_0f08
-dialogtxt       "Nothing to do with you."
-dialogtxt       "Look, there's talk on how Strays"
-dialogtxt       "were showing up here and stuff, so..."
+dialogtxt       "It's nothing to do with you!"
+dialogtxt       "Look, I heard Strays have been"
+dialogtxt       "showing up here. So, uh..."
 code0309        
 call            @Func_0f3e
 code0479        1, 2, 14
@@ -118,23 +118,20 @@ code0309
 call            @Func_0faa
 code0479        0, 4, 12
 call            @Func_0f08
-dialogtxt       "Ugh..."
-dialogtxt       "Oh, fine!"
+dialogtxt       "Ugh! Fine..."
 code0309        
 code0479        0, 0, 12
-dialogtxt       "You see, V.E told me not to say"
-dialogtxt       "anything, but it really bothers"
-dialogtxt       "me..."
+dialogtxt       "Look, V.E told me not to say anything."
+dialogtxt       "But it's really bothering me."
 code0309        
 code0479        0, 2, 12
-dialogtxt       "After all, we don't know"
-dialogtxt       "what kind of things those punks"
-dialogtxt       "would do, right?"
-code0309        
+dialogtxt       "After all, there's no telling what"
+dialogtxt       "those punks are gonna do, right?"
+code0309	
 code0479        0, 0, 13
-dialogtxt       "So, I figured, just in case,"
-dialogtxt       "a reliable guy like me should"
-dialogtxt       "be around to protect you..."
+dialogtxt       "So I figured you should have"
+dialogtxt       "a reliable guy around to protect"
+dialogtxt       "you, just in case."
 code0309        
 call            @Func_0f3e
 code0333        2, 20
@@ -154,12 +151,12 @@ code0479        1, 2, 12
 call            @Func_0f74
 jumpz           @Cond_0702, ($b002 == 0)
 dialogtxt       "But this time..."
-dialogtxt       "I want to settle things by myself."
+dialogtxt       "I want to settle things myself."
 goto            @Label_0746
 
 @Cond_0702:
-dialogtxt       "But this time..."
-dialogtxt       "I want to settle things by myself."
+dialogtxt       "But this time, I want to"
+dialogtxt       "settle things myself."
 goto            @Label_0746
 
 @Label_0746:
@@ -172,18 +169,18 @@ code0479        0, 1, 12
 call            @Func_0f08
 dialogtxt       "I know, I know."
 dialogtxt       "I'll stay out of the way."
-dialogtxt       "I said \"just in case,\" you know."
+dialogtxt       "I said \"just in case,\" you know!"
 code0309        
 call            @Func_0f3e
 code0479        1, 0, 12
 call            @Func_0f74
-dialogtxt       "Thanks bro."
+dialogtxt       "Thanks, bro."
 code0309        
 call            @Func_0faa
 code0479        0, 0, 13
 call            @Func_0f08
 dialogtxt       "Don't mention it."
-dialogtxt       "But seriously,"
+dialogtxt       "Seriously though,"
 dialogtxt       "stop calling me \"bro!\""
 code0309        
 call            @Func_0f3e
@@ -427,4 +424,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-

@@ -13,7 +13,7 @@ call            @Func_0a64
 code0479        0, 0, 16
 call            @Func_09c2
 choicetxt       @Choice_00d6, "Bring it on!"
-choicetxt       @Choice_0414, "Uhh, wait a bit..."
+choicetxt       @Choice_0414, "Uhh, now that you mention it..."
 choicewait      
 
 @Choice_00d6:
@@ -97,7 +97,7 @@ goto            @Label_0384
 @Label_0384:
 call            @Func_0a2e
 jumpz           @Cond_03a6, ($b003 == 0)
-dialogtxt       "Yes!"
+dialogtxt       "Affirmative!"
 goto            @Cond_03a6
 
 @Cond_03a6:
@@ -340,4 +340,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-
