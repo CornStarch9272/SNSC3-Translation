@@ -10,12 +10,12 @@ call            @Func_0f54
 call            @Func_0ebc
 jumpz           @Cond_00b2, ($b002 == 0)
 dialogtxt       "Yeah!"
-dialogtxt       "I won!"
+dialogtxt       "We won!"
 goto            @Label_00d2
 
 @Cond_00b2:
 dialogtxt       "Yeah!"
-dialogtxt       "I won!"
+dialogtxt       "We won!"
 goto            @Label_00d2
 
 @Label_00d2:
@@ -29,13 +29,13 @@ code0309
 call            @Func_0ea4
 code0479        1, 2, 12
 call            @Func_0eda
-dialogtxt       "Now..."
+dialogtxt       "Now then..."
 jumpz           @Cond_016c, ($b002 == 0)
-dialogtxt       "Time to give back the stone!"
+dialogtxt       "Give back the stone already!"
 goto            @Label_017c
 
 @Cond_016c:
-dialogtxt       "I'll be taking it back!"
+dialogtxt       "I'll be taking the stone back!"
 goto            @Label_017c
 
 @Label_017c:
@@ -44,19 +44,19 @@ call            @Func_0f10
 code0332        
 code0479        0, 0, 13
 call            @Func_0e6e
-dialogtxt       "Who said anything about"
-dialogtxt       "giving it to YOU?"
+dialogtxt       "Who said I'd give it"
+dialogtxt       "back to you?"
 code0309        
 call            @Func_0ea4
 code0331        39, 256
 code0479        1, 5, 15
 call            @Func_0eda
 jumpz           @Cond_020a, ($b002 == 0)
-dialogtxt       "But you did!"
+dialogtxt       "What? YOU did!"
 goto            @Label_0222
 
 @Cond_020a:
-dialogtxt       "But you did!"
+dialogtxt       "What? YOU did!"
 goto            @Label_0222
 
 @Label_0222:
@@ -99,7 +99,7 @@ code047d        1, 2
 call            @Func_0f3e
 call            @Func_0eda
 dialogtxt       "..."
-dialogtxt       "I'm seriously going to..."
+dialogtxt       "I'm seriously about to snap."
 goto            @Label_03b6
 
 @Label_03b6:
@@ -109,8 +109,8 @@ call            @Func_0f10
 code0333        2, 30
 code0479        0, 0, 12
 call            @Func_0e6e
-dialogtxt       "I didn't say I wouldn't give it back."
-dialogtxt       "I'll give it to the girl myself."
+dialogtxt       "Relax. I'm gonna give it back."
+dialogtxt       "I'll give it to her myself."
 code0309        
 call            @Func_0f94
 call            @Func_0ea4
@@ -122,7 +122,7 @@ code0479        1, 5, 14
 code047d        1, 0
 call            @Func_0f3e
 call            @Func_0eda
-dialogtxt       "... Really?"
+dialogtxt       "... You'll do it yourself?"
 code0309        
 code0479        1, 1, 12
 dialogtxt       "Thanks!"
@@ -172,11 +172,11 @@ code0479        0, 1, 12
 call            @Func_0e6e
 dialogtxt       "Yeah!"
 jumpz           @Cond_06b6, ($b002 == 0)
-dialogtxt       "Let's head back too!"
+dialogtxt       "Alright! We should head back, too!"
 goto            @Label_06dc
 
 @Cond_06b6:
-dialogtxt       "Alright, let's head back too!"
+dialogtxt       "Now then! We should head back, too!"
 goto            @Label_06dc
 
 @Label_06dc:
@@ -208,7 +208,7 @@ code047d        1, 2
 call            @Func_0f3e
 call            @Func_0eda
 jumpz           @Cond_07ba, ($b003 == 0)
-dialogtxt       "Yes!"
+dialogtxt       "Affirmative!"
 goto            @Cond_07ba
 
 @Cond_07ba:
@@ -218,7 +218,7 @@ goto            @Cond_07d8
 
 @Cond_07d8:
 jumpz           @Cond_07fa, ($b003 == 2)
-dialogtxt       "Alright."
+dialogtxt       "If you insist."
 goto            @Cond_07fa
 
 @Cond_07fa:
@@ -459,4 +459,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-
