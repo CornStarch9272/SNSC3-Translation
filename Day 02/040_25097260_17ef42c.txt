@@ -52,7 +52,7 @@ goto            @Label_022c
 
 @Cond_01f0:
 jumpz           @Cond_0218, ($b003 == 2)
-dialogtxt       "So this is where you were..."
+dialogtxt       "So that's where you were..."
 goto            @Label_022c
 
 @Cond_0218:
@@ -109,22 +109,22 @@ code047d        1, 2
 call            @Func_3018
 jumpz           @Cond_0cee, ($b003 == 0)
 call            @Func_2f80
-dialogtxt       "Are There Still Preperations"
-dialogtxt       "Required For The Match?"
+dialogtxt       "Are More Preparations Required"
+dialogtxt       "For The Match Tomorrow?"
 code047b        
 code0309        
 call            @Func_2fd4
 code0479        0, 0, 13
 call            @Func_2f32
 jumpz           @Cond_04da, ($b002 == 0)
-dialogtxt       "I've done enough today."
-dialogtxt       "I'll rest well tonight,"
+dialogtxt       "Nope, I've done enough today."
+dialogtxt       "All that's left is to rest up"
 dialogtxt       "and be ready for tomorrow!"
 goto            @Label_051a
 
 @Cond_04da:
-dialogtxt       "I've done enough today."
-dialogtxt       "I'll rest well tonight,"
+dialogtxt       "Nope, I've done enough today."
+dialogtxt       "All that's left is to rest up"
 dialogtxt       "and be ready for tomorrow!"
 goto            @Label_051a
 
@@ -133,9 +133,8 @@ code0309
 call            @Func_2f68
 code0479        1, 0, 12
 call            @Func_2f9e
-dialogtxt       "I See."
-dialogtxt       "Affirmative."
-code0309        
+dialogtxt       "Roger. Understood."
+code0309		
 call            @Func_2fd4
 code0479        0, 0, 12
 call            @Func_2f32
@@ -154,9 +153,9 @@ code0309
 call            @Func_2f68
 code0479        1, 5, 12
 call            @Func_2f9e
-dialogtxt       "Holding Back?"
-dialogtxt       "When Did I Do That?"
-code0309        
+dialogtxt       "Meaning Unclear."
+dialogtxt       "When Did I Hold Back?"
+code0309		
 call            @Func_2fd4
 code0479        0, 2, 13
 call            @Func_2f32
@@ -164,24 +163,24 @@ jumpz           @Cond_073e, ($b002 == 0)
 dialogtxt       "When we went to get the stone back."
 code0309        
 code0479        0, 0, 13
-dialogtxt       "You just wanted to beat them up,"
+dialogtxt       "You wanted to just beat him up"
 dialogtxt       "and take it back, didn't you?"
 code0309        
 code0479        0, 1, 12
-dialogtxt       "But, for my sake, you didn't..."
-dialogtxt       "I appreciate that."
+dialogtxt       "But you were patient, for my sake."
+dialogtxt       "I appreciate it."
 goto            @Label_0810
 
 @Cond_073e:
 dialogtxt       "When we went to get the stone back."
 code0309        
 code0479        0, 0, 13
-dialogtxt       "You just wanted to beat them up,"
+dialogtxt       "You wanted to just beat him up"
 dialogtxt       "and take it back, didn't you?"
 code0309        
 code0479        0, 1, 12
-dialogtxt       "But, for my sake, you didn't..."
-dialogtxt       "I appreciate that."
+dialogtxt       "But you were patient, for my sake."
+dialogtxt       "I appreciate it."
 goto            @Label_0810
 
 @Label_0810:
@@ -189,7 +188,7 @@ code0309
 call            @Func_2f68
 code0479        1, 0, 12
 call            @Func_2f9e
-dialogtxt       "Tolerance Is Defined As Enduring."
+dialogtxt       "Patience Is Defined As Enduring."
 dialogtxt       "I Only Followed Your Orders."
 dialogtxt       "The One Enduring Was You."
 code0309        
@@ -201,10 +200,10 @@ code0309
 call            @Func_2f68
 code0479        1, 0, 12
 call            @Func_2f9e
-dialogtxt       "You Even Bowed Down"
-dialogtxt       "Despite Having No Need To,"
-dialogtxt       "For Lady Murno's Sake."
-code0309        
+dialogtxt       "For Lady Murno's Sake,"
+dialogtxt       "You Even Bowed Down,"
+dialogtxt       "Though You Had No Need To."
+code0309		
 call            @Func_2fd4
 code0479        0, 4, 13
 call            @Func_2f32
@@ -223,14 +222,14 @@ code0309
 call            @Func_2f68
 code0479        1, 0, 12
 call            @Func_2f9e
-dialogtxt       "No."
-dialogtxt       "You Kept Your Promise, Even If"
+dialogtxt       "Negative."
+dialogtxt       "You Kept Your Promise, Though"
 dialogtxt       "It Required Repressing Emotions."
 code0309        
 code0479        0, 5, 16
 code0479        1, 1, 12
-dialogtxt       "That Is What I Would Define As"
-dialogtxt       "A \"Cool\" Action To Take."
+dialogtxt       "I Would Define This"
+dialogtxt       "As A \"Cool\" Action."
 code0309        
 call            @Func_2fd4
 code0479        0, 6, 16
@@ -240,23 +239,21 @@ code0309
 call            @Func_2f68
 code0479        1, 0, 12
 call            @Func_2f9e
-dialogtxt       "As A Result,"
-dialogtxt       "You Were Successful In Not"
-dialogtxt       "Creating Any Further Problems."
-code0309        
+dialogtxt       "As A Result, You"
+dialogtxt       "Successfully Avoided"
+dialogtxt       "Causing Future Problems."
+code0309		
 call            @Func_2fd4
 code0479        0, 7, 13
 call            @Func_2f32
 jumpz           @Cond_0ba4, ($b002 == 0)
-dialogtxt       "Haha..."
-dialogtxt       "I'm really happy"
-dialogtxt       "to hear that from you!"
+dialogtxt       "Gosh... I'm really happy"
+dialogtxt       "to hear that coming from you!"
 goto            @Label_0be4
 
 @Cond_0ba4:
-dialogtxt       "Haha..."
-dialogtxt       "I'm really happy"
-dialogtxt       "to hear that from you!"
+dialogtxt       "Gosh... I'm really happy"
+dialogtxt       "to hear that coming from you!"
 goto            @Label_0be4
 
 @Label_0be4:
@@ -271,13 +268,13 @@ code0479        1, 0, 12
 code0479        0, 0, 13
 call            @Func_2f32
 jumpz           @Cond_0c80, ($b002 == 0)
-dialogtxt       "Alright, well,"
-dialogtxt       "let's do our best tomorrow!"
+dialogtxt       "Alright, well, let's give it our"
+dialogtxt       "all tomorrow!"
 goto            @Label_0cb6
 
 @Cond_0c80:
-dialogtxt       "Alright, well,"
-dialogtxt       "let's do our best tomorrow!"
+dialogtxt       "Alright, well, let's give it our"
+dialogtxt       "all tomorrow!"
 goto            @Label_0cb6
 
 @Label_0cb6:
@@ -285,8 +282,8 @@ code0309
 call            @Func_2f68
 code0479        1, 1, 12
 call            @Func_2f9e
-dialogtxt       "Roger!"
-code0309        
+dialogtxt       "Affirmative!"
+code0309		
 call            @Func_306e
 call            @Func_2fbc
 code047b        
@@ -296,33 +293,33 @@ goto            @Cond_0cee
 jumpz           @Cond_15c0, ($b003 == 1)
 call            @Func_2f80
 dialogtxt       "You seem quite relaxed,"
-dialogtxt       "despite your match approaching."
+dialogtxt       "despite the upcoming match."
 code0309        
 code047b        
 call            @Func_2fd4
 code0479        0, 4, 13
 call            @Func_2f32
 dialogtxt       "Well, yeah."
-dialogtxt       "I'm going up against Master,"
-dialogtxt       "so getting worked up now is useless."
-code0309        
+dialogtxt       "I'm going up against Master."
+dialogtxt       "Panicking now is just pointless."
+code0309		
 call            @Func_2f68
 code0479        0, 4, 12
 code0479        1, 4, 16
 call            @Func_2f9e
-dialogtxt       "That's certainly true."
+dialogtxt       "That is certainly true."
 code0309        
 call            @Func_2fd4
 code0479        1, 0, 12
 code0479        0, 0, 13
 call            @Func_2f32
 jumpz           @Cond_0e72, ($b002 == 0)
-dialogtxt       "Speaking of which,"
+dialogtxt       "Speaking of panicking..."
 dialogtxt       "thanks for holding back today."
 goto            @Label_0eb0
 
 @Cond_0e72:
-dialogtxt       "Speaking of which,"
+dialogtxt       "Speaking of panicking..."
 dialogtxt       "thanks for holding back today."
 goto            @Label_0eb0
 
@@ -335,40 +332,41 @@ call            @Func_2f9e
 dialogtxt       "Holding back?"
 code0309        
 code0479        1, 4, 12
-dialogtxt       "You realize I've been doing that the"
-dialogtxt       "whole time I've been your partner?"
-code0309        
+dialogtxt       "Do you not realize I've been"
+dialogtxt       "doing that the entire time I've"
+dialogtxt       "been your partner?"
+code0309		
 call            @Func_2fd4
 code0479        0, 1, 17
 call            @Func_2f32
 jumpz           @Cond_106e, ($b002 == 0)
-dialogtxt       "No, not that!"
-dialogtxt       "I'm talking about when"
-dialogtxt       "we went to get the stone back."
+dialogtxt       "That's not what I mean!"
+dialogtxt       "I'm talking about when we"
+dialogtxt       "went to get the stone back."
 code0309        
 code0479        1, 0, 16
 code0479        0, 0, 13
-dialogtxt       "You just wanted to beat them up,"
+dialogtxt       "You wanted to just beat him up"
 dialogtxt       "and take it back, didn't you?"
 code0309        
 code0479        0, 1, 12
-dialogtxt       "But, for my sake, you didn't..."
-dialogtxt       "I appreciate that."
+dialogtxt       "But you held back, for my sake."
+dialogtxt       "I appreciate it."
 goto            @Label_1168
 
 @Cond_106e:
-dialogtxt       "No, not that!"
-dialogtxt       "I'm talking about when"
-dialogtxt       "we went to get the stone back."
+dialogtxt       "That's not what I mean!"
+dialogtxt       "I'm talking about when we"
+dialogtxt       "went to get the stone back."
 code0309        
 code0479        1, 0, 16
 code0479        0, 0, 13
-dialogtxt       "You just wanted to beat them up,"
+dialogtxt       "You wanted to just beat him up"
 dialogtxt       "and take it back, didn't you?"
 code0309        
 code0479        0, 1, 12
-dialogtxt       "But, for my sake, you didn't..."
-dialogtxt       "I appreciate that."
+dialogtxt       "But you held back, for my sake."
+dialogtxt       "I appreciate it."
 goto            @Label_1168
 
 @Label_1168:
@@ -376,15 +374,15 @@ code0309
 call            @Func_2f68
 code0479        1, 0, 13
 call            @Func_2f9e
-dialogtxt       "No thanks needed."
-dialogtxt       "I could have taken them out"
-dialogtxt       "whenever I wanted."
-code0309        
+dialogtxt       "There's no need to thank me."
+dialogtxt       "I could have felled the lot"
+dialogtxt       "of them at any point."
+code0309		
 code0479        1, 2, 12
 code0479        0, 0, 12
-dialogtxt       "I only wanted to see"
-dialogtxt       "how far you were willing to go"
-dialogtxt       "for Murno's sake."
+dialogtxt       "I only wished to see how far"
+dialogtxt       "you were willing to go for"
+dialogtxt       "Murno's sake."
 code0309        
 call            @Func_2fd4
 code0479        0, 0, 16
@@ -394,8 +392,8 @@ code0309
 call            @Func_2f68
 code0479        1, 4, 12
 call            @Func_2f9e
-dialogtxt       "And you were even willing"
-dialogtxt       "to bow down to them..."
+dialogtxt       "You were even willing to"
+dialogtxt       "prostrate yourself for her..."
 code0309        
 call            @Func_2fd4
 code0479        0, 4, 12
@@ -415,7 +413,7 @@ code0309
 call            @Func_2f68
 code0479        1, 0, 13
 call            @Func_2f9e
-dialogtxt       "Not at all."
+dialogtxt       "Not at all. In fact,"
 dialogtxt       "I was quite impressed"
 dialogtxt       "by your conviction."
 code0309        
@@ -432,15 +430,13 @@ code0479        0, 6, 16
 code0479        1, 0, 12
 call            @Func_2f9e
 jumpz           @Cond_147a, ($b002 == 0)
-dialogtxt       "It may be because you're capable"
-dialogtxt       "of such, that you managed to move"
-dialogtxt       "Murno's heart like so."
+dialogtxt       "Perhaps it's that kind of dedication"
+dialogtxt       "that allowed you to stir Murno's heart."
 goto            @Label_14c6
 
 @Cond_147a:
-dialogtxt       "It may be because you're capable"
-dialogtxt       "of such, that you managed to move"
-dialogtxt       "Murno's heart like so."
+dialogtxt       "Perhaps it's that kind of dedication"
+dialogtxt       "that allowed you to stir Murno's heart."
 goto            @Label_14c6
 
 @Label_14c6:
@@ -461,11 +457,11 @@ call            @Func_2fd4
 code0479        0, 2, 15
 call            @Func_2f32
 jumpz           @Cond_1594, ($b002 == 0)
-dialogtxt       "W—What's that supposed to mean?"
+dialogtxt       "H-hey! What's that supposed to mean?"
 goto            @Label_15b0
 
 @Cond_1594:
-dialogtxt       "W—What's that supposed to mean?"
+dialogtxt       "H-hey! What's that supposed to mean?"
 goto            @Label_15b0
 
 @Label_15b0:
@@ -1085,4 +1081,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-
