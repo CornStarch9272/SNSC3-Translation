@@ -474,16 +474,16 @@ goto            @Cond_15c0
 @Cond_15c0:
 jumpz           @Cond_1ecc, ($b003 == 2)
 call            @Func_2f80
-dialogtxt       "Does your being here mean"
+dialogtxt       "Does you being here mean"
 dialogtxt       "you've given up on the match?"
 code047b        
 code0309        
 call            @Func_2fd4
 code0479        0, 4, 13
 call            @Func_2f32
-dialogtxt       "Of course not."
-dialogtxt       "I'm going up against Master so,"
-dialogtxt       "it's useless to get worked up now."
+dialogtxt       "Of course not. I'm going up"
+dialogtxt       "against Master, so there's"
+dialogtxt       "no use panicking at this point."
 code0309        
 code0479        0, 0, 12
 jumpz           @Cond_16ea, ($b002 == 0)
@@ -509,13 +509,13 @@ code0479        1, 0, 12
 code0479        0, 0, 13
 call            @Func_2f32
 jumpz           @Cond_17e4, ($b002 == 0)
-dialogtxt       "Speaking of which,"
-dialogtxt       "thanks for being holding back today."
+dialogtxt       "Speaking of wise decisions..."
+dialogtxt       "Thanks for holding back today."
 goto            @Label_1822
 
 @Cond_17e4:
-dialogtxt       "Speaking of which,"
-dialogtxt       "thanks for being holding back today."
+dialogtxt       "Speaking of wise decisions..."
+dialogtxt       "Thanks for holding back today."
 goto            @Label_1822
 
 @Label_1822:
@@ -526,22 +526,22 @@ call            @Func_2f9e
 dialogtxt       "Holding back?"
 code0309        
 code0479        1, 2, 14
-dialogtxt       "I've been doing that ever since"
-dialogtxt       "I was forced to be your partner."
+dialogtxt       "I've been doing that ever"
+dialogtxt       "since I became your partner!"
 code0309        
 call            @Func_2fd4
 code0479        0, 1, 17
 call            @Func_2f32
 jumpz           @Cond_1928, ($b002 == 0)
 dialogtxt       "That's not what I meant!"
-dialogtxt       "I'm talking about when"
-dialogtxt       "we went to get the stone back."
+dialogtxt       "I'm talking about when we"
+dialogtxt       "went to get the stone back."
 goto            @Label_197e
 
 @Cond_1928:
 dialogtxt       "That's not what I meant!"
-dialogtxt       "I'm talking about when"
-dialogtxt       "we went to get the stone back."
+dialogtxt       "I'm talking about when we"
+dialogtxt       "went to get the stone back."
 goto            @Label_197e
 
 @Label_197e:
@@ -550,29 +550,29 @@ call            @Func_2f68
 code0479        0, 0, 12
 code0479        1, 2, 12
 call            @Func_2f9e
-dialogtxt       "?"
+dialogtxt       "Hmm?"
 code0309        
 call            @Func_2fd4
 code0479        0, 0, 13
 call            @Func_2f32
 jumpz           @Cond_1a86, ($b002 == 0)
-dialogtxt       "You really wanted to beat"
-dialogtxt       "those guys up and just take"
+dialogtxt       "You really wanted to just"
+dialogtxt       "beat those guys up and take"
 dialogtxt       "the stone back, right?"
 code0309        
 code0479        0, 1, 12
-dialogtxt       "But, for my sake, you didn't..."
-dialogtxt       "I appreciate that."
+dialogtxt       "But you held back, for my sake."
+dialogtxt       "I appreciate it."
 goto            @Label_1b2c
 
 @Cond_1a86:
-dialogtxt       "You really wanted to beat"
-dialogtxt       "those guys up and just take"
+dialogtxt       "You really wanted to just"
+dialogtxt       "beat those guys up and take"
 dialogtxt       "the stone back, right?"
 code0309        
 code0479        0, 1, 12
-dialogtxt       "But, for my sake, you didn't..."
-dialogtxt       "I appreciate that."
+dialogtxt       "But you held back, for my sake."
+dialogtxt       "I appreciate it."
 goto            @Label_1b2c
 
 @Label_1b2c:
@@ -581,17 +581,17 @@ call            @Func_2f68
 code0479        1, 2, 14
 call            @Func_2f9e
 dialogtxt       "As if I'd do that for you."
-dialogtxt       "Don't be ridiculous."
+dialogtxt       "Don't be ridiculous!"
 code0309        
 code0479        0, 0, 16
 code0479        1, 0, 12
-dialogtxt       "I only wanted to see"
-dialogtxt       "how far you were going to go."
+dialogtxt       "I just wanted to see how"
+dialogtxt       "far you were gonna go."
 code0309        
 code0479        1, 3, 13
-dialogtxt       "But I didn't think you'd take it"
-dialogtxt       "so far as to bow your head..."
-code0309        
+dialogtxt       "I never thought you'd go as far"
+dialogtxt       "as bowing down for them, though..."
+code0309		
 call            @Func_2fd4
 code0479        0, 4, 12
 call            @Func_2f32
@@ -610,25 +610,24 @@ code0309
 call            @Func_2f68
 code0479        1, 0, 13
 call            @Func_2f9e
-dialogtxt       "Yeah."
-dialogtxt       "There's no way I could do"
+dialogtxt       "Yeah. I would never do"
 dialogtxt       "something so degrading."
 code0309        
 call            @Func_2fd4
 code0479        0, 1, 17
 call            @Func_2f32
-dialogtxt       "You sure say it straight..."
+dialogtxt       "You sure keep it straight..."
 code0309        
 call            @Func_2f68
 code0479        1, 0, 16
 call            @Func_2f9e
-dialogtxt       "Though I hate to admit it,"
-dialogtxt       "that's the decisive difference"
-dialogtxt       "between us..."
+dialogtxt       "I hate to say it, but that's"
+dialogtxt       "the real difference between us."
 code0309        
 code0479        1, 4, 12
-dialogtxt       "And also the reason Murno..."
-code0309        
+dialogtxt       "And maybe that's what"
+dialogtxt       "Murno sees in you, too..."
+code0309		
 call            @Func_2fd4
 code0479        0, 5, 16
 call            @Func_2f32
@@ -644,11 +643,11 @@ call            @Func_2fd4
 code0479        0, 2, 15
 call            @Func_2f32
 jumpz           @Cond_1ea0, ($b002 == 0)
-dialogtxt       "W—What's that supposed to mean?"
+dialogtxt       "W-What's that supposed to mean?"
 goto            @Label_1ebc
 
 @Cond_1ea0:
-dialogtxt       "W—What's that supposed to mean?"
+dialogtxt       "W-What's that supposed to mean?"
 goto            @Label_1ebc
 
 @Label_1ebc:
@@ -661,16 +660,17 @@ goto            @Cond_1ecc
 @Cond_1ecc:
 jumpz           @Cond_2980, ($b003 == 3)
 call            @Func_2f80
-dialogtxt       "You're up against Master,"
-dialogtxt       "so shouldn't you still be preparing?"
+dialogtxt       "Shouldn't you still be preparing?"
+dialogtxt       "You're going up against Master,"
+dialogtxt       "after all."
 code047b        
 code0309        
 call            @Func_2fd4
 code0479        0, 4, 13
 call            @Func_2f32
-dialogtxt       "Well, yeah."
-dialogtxt       "I'm going up against Master,"
-dialogtxt       "so getting worked up now is useless."
+dialogtxt       "Well, yeah. I'm going up "
+dialogtxt       "against Master, so getting"
+dialogtxt       "worked up now is useless."
 code0309        
 code0479        0, 0, 12
 jumpz           @Cond_1fec, ($b002 == 0)
@@ -686,7 +686,7 @@ code0309
 call            @Func_2f68
 code0479        1, 4, 16
 call            @Func_2f9e
-dialogtxt       "That may be true..."
+dialogtxt       "That may be true."
 dialogtxt       "We must be calm..."
 code0309        
 call            @Func_2fd4
@@ -694,12 +694,12 @@ code0479        1, 0, 12
 code0479        0, 0, 13
 call            @Func_2f32
 jumpz           @Cond_20fa, ($b002 == 0)
-dialogtxt       "Speaking of which,"
+dialogtxt       "Speaking of staying calm..."
 dialogtxt       "thanks for holding back today."
 goto            @Label_2138
 
 @Cond_20fa:
-dialogtxt       "Speaking of which,"
+dialogtxt       "Speaking of staying calm..."
 dialogtxt       "thanks for holding back today."
 goto            @Label_2138
 
@@ -712,9 +712,9 @@ dialogtxt       "Holding back?"
 code0309        
 code0479        0, 0, 16
 code0479        1, 4, 13
-dialogtxt       "I've been doing that"
-dialogtxt       "since I became your partner."
-code0309        
+dialogtxt       "I've been doing that since I"
+dialogtxt       "became your partner, you know."
+code0309		
 call            @Func_2fd4
 code0479        0, 1, 17
 call            @Func_2f32
@@ -725,8 +725,8 @@ dialogtxt       "we went to get the stone back."
 goto            @Label_22ae
 
 @Cond_2258:
-dialogtxt       "That's not what I meant!"
-dialogtxt       "I'm talking about when"
+dialogtxt       "Uh... Right..."
+dialogtxt       "But I'm talking about when"
 dialogtxt       "we went to get the stone back."
 goto            @Label_22ae
 
@@ -741,23 +741,23 @@ call            @Func_2fd4
 code0479        0, 0, 13
 call            @Func_2f32
 jumpz           @Cond_23a4, ($b002 == 0)
-dialogtxt       "You really wanted to beat"
-dialogtxt       "those guys up and just take"
-dialogtxt       "the stone back, right?"
+dialogtxt       "You really wanted to just beat"
+dialogtxt       "those guys up and take the stone"
+dialogtxt       "back, right?"
 code0309        
 code0479        0, 0, 12
-dialogtxt       "But, for my sake, you didn't..."
-dialogtxt       "I appreciate that."
+dialogtxt       "But you held back, for my sake."
+dialogtxt       "I appreciate it."
 goto            @Label_244a
 
 @Cond_23a4:
-dialogtxt       "You really wanted to beat"
-dialogtxt       "those guys up and just take"
-dialogtxt       "the stone back, right?"
+dialogtxt       "You really wanted to just beat"
+dialogtxt       "those guys up and take the stone"
+dialogtxt       "back, right?"
 code0309        
 code0479        0, 0, 12
-dialogtxt       "But, for my sake, you didn't..."
-dialogtxt       "I appreciate that."
+dialogtxt       "But you held back, for my sake."
+dialogtxt       "I appreciate it."
 goto            @Label_244a
 
 @Label_244a:
@@ -767,19 +767,19 @@ code0479        0, 5, 16
 code0479        1, 2, 17
 call            @Func_2f9e
 dialogtxt       "That's right!"
-dialogtxt       "But don't ever put me through"
-dialogtxt       "anything like that again!"
-code0309        
+dialogtxt       "But please, don't ever put me"
+dialogtxt       "through anything like that again!"
+code0309		
 call            @Func_2fd4
 code0479        0, 4, 17
 call            @Func_2f32
-dialogtxt       "H—Hey..."
+dialogtxt       "H-Hey..."
 code0309        
 call            @Func_2f68
 code0479        1, 4, 16
 call            @Func_2f9e
 dialogtxt       "You tried so hard to avoid"
-dialogtxt       "unnecessary conflict..."
+dialogtxt       "unnecessary conflict."
 code0309        
 call            @Func_2fd4
 code0479        0, 6, 16
@@ -789,13 +789,13 @@ code0309
 call            @Func_2f68
 code0479        1, 4, 14
 call            @Func_2f9e
-dialogtxt       "You even went so far as to"
-dialogtxt       "bow your head for Lady Murno..."
+dialogtxt       "You even went so far as to bow"
+dialogtxt       "your head for Lady Murno's sake."
 dialogtxt       "And all I could do was watch..."
 code0309        
 code0479        1, 10, 16
 dialogtxt       "I don't want to feel"
-dialogtxt       "so useless ever again..."
+dialogtxt       "so useless ever again."
 code0309        
 call            @Func_2fd4
 code0479        0, 4, 12
@@ -815,14 +815,14 @@ code0309
 call            @Func_2f68
 code0479        1, 5, 15
 call            @Func_2f9e
-dialogtxt       "That's not true!"
-dialogtxt       "Seeing you so earnestly enduring"
-dialogtxt       "it to protect someone..."
+dialogtxt       "That's not true at all! Seeing you"
+dialogtxt       "endure that kind of humiliation,"
+dialogtxt       "to protect someone you hold dear..."
 code0309        
 code0479        1, 1, 13
-dialogtxt       "It was really moving."
-dialogtxt       "You were very cool."
-code0309        
+dialogtxt       "It was very moving."
+dialogtxt       "You were really cool!"
+code0309		
 call            @Func_2fd4
 code0479        1, 1, 12
 code0479        0, 6, 12
@@ -832,9 +832,8 @@ code0309
 call            @Func_2f68
 code0479        1, 0, 12
 call            @Func_2f9e
-dialogtxt       "That may be the reason"
-dialogtxt       "you have managed to stir"
-dialogtxt       "Lady Murno's heart."
+dialogtxt       "Perhaps that's the reason you've"
+dialogtxt       "been able to stir Murno's heart."
 code0309        
 call            @Func_2fd4
 code0479        0, 5, 17
@@ -845,17 +844,17 @@ call            @Func_2f68
 code0479        1, 4, 17
 call            @Func_2f9e
 dialogtxt       "*Sigh*..."
-dialogtxt       "How can you be so incredibly dense...?"
+dialogtxt       "How are you so oblivious...?"
 code0309        
 call            @Func_2fd4
 code0479        0, 2, 15
 call            @Func_2f32
 jumpz           @Cond_2954, ($b002 == 0)
-dialogtxt       "W—What's that supposed to mean?"
+dialogtxt       "W-What's that supposed to mean?"
 goto            @Label_2970
 
 @Cond_2954:
-dialogtxt       "W—What's that supposed to mean?"
+dialogtxt       "W-What's that supposed to mean?"
 goto            @Label_2970
 
 @Label_2970:
