@@ -27,15 +27,15 @@ call            @Func_3daa
 jumpz           @Cond_0340, ($b003 == 0)
 call            @Func_3ca6
 jumpz           @Cond_0192, ($b002 == 0)
-dialogtxt       "We have to find those two."
-dialogtxt       "They took Murno's stone..."
-dialogtxt       "Where could they be...?"
+dialogtxt       "We have to find those guys"
+dialogtxt       "who took Murno's stone..."
+dialogtxt       "Where could they be?"
 goto            @Label_0204
 
 @Cond_0192:
-dialogtxt       "We have to find those two."
-dialogtxt       "They took Murno's stone..."
-dialogtxt       "Where could they be...?"
+dialogtxt       "We have to find those guys"
+dialogtxt       "who took Murno's stone..."
+dialogtxt       "Where could they be?"
 goto            @Label_0204
 
 @Label_0204:
@@ -53,13 +53,13 @@ code0479        0, 0, 16
 call            @Func_3cc4
 jumpz           @Cond_02e6, ($b002 == 0)
 dialogtxt       "Comrades..."
-dialogtxt       "Bostaph's Workshop then."
+dialogtxt       "Bostaph's Workshop, then."
 dialogtxt       "Let's check it out."
 goto            @Label_0330
 
 @Cond_02e6:
 dialogtxt       "Comrades..."
-dialogtxt       "Bostaph's Workshop then."
+dialogtxt       "Bostaph's Workshop, then."
 dialogtxt       "Let's check it out."
 goto            @Label_0330
 
@@ -74,15 +74,15 @@ goto            @Cond_0340
 jumpz           @Cond_0532, ($b003 == 1)
 call            @Func_3ca6
 jumpz           @Cond_03d6, ($b002 == 0)
-dialogtxt       "We have to find those two."
-dialogtxt       "They took Murno's stone..."
-dialogtxt       "Where could they be...?"
+dialogtxt       "We have to find those guys"
+dialogtxt       "who took Murno's stone..."
+dialogtxt       "Where could they be?"
 goto            @Label_0448
 
 @Cond_03d6:
-dialogtxt       "We have to find those two."
-dialogtxt       "They took Murno's stone..."
-dialogtxt       "Where could they be...?"
+dialogtxt       "We have to find those guys"
+dialogtxt       "who took Murno's stone..."
+dialogtxt       "Where could they be?"
 goto            @Label_0448
 
 @Label_0448:
@@ -98,14 +98,13 @@ code0309
 call            @Func_3d66
 code0479        0, 0, 16
 call            @Func_3cc4
-dialogtxt       "Headquarters..."
+dialogtxt       "Their headquarters..."
 jumpz           @Cond_0506, ($b002 == 0)
-dialogtxt       "So Bostaph's Workshop..."
+dialogtxt       "Bostaph's Workshop, then?"
 goto            @Label_0522
 
 @Cond_0506:
-dialogtxt       "Bostaph's Workshop then."
-dialogtxt       "Let's go."
+dialogtxt       "Bostaph's Workshop, then?"
 goto            @Label_0522
 
 @Label_0522:
@@ -119,15 +118,15 @@ goto            @Cond_0532
 jumpz           @Cond_0702, ($b003 == 2)
 call            @Func_3ca6
 jumpz           @Cond_05c8, ($b002 == 0)
-dialogtxt       "We have to find those two."
-dialogtxt       "They took Murno's stone..."
-dialogtxt       "Where could they be...?"
+dialogtxt       "We have to find those guys"
+dialogtxt       "who took Murno's stone..."
+dialogtxt       "Where could they be?"
 goto            @Label_063a
 
 @Cond_05c8:
-dialogtxt       "We have to find those two."
-dialogtxt       "They took Murno's stone..."
-dialogtxt       "Where could they be...?"
+dialogtxt       "We have to find those guys"
+dialogtxt       "who took Murno's stone..."
+dialogtxt       "Where could they be?"
 goto            @Label_063a
 
 @Label_063a:
@@ -143,9 +142,9 @@ code0309
 call            @Func_3d66
 code0479        0, 0, 16
 call            @Func_3cc4
-dialogtxt       "Hideout..."
-dialogtxt       "So Bostaph's Workshop..."
-code0309        
+dialogtxt       "Their hideout..."
+dialogtxt       "Bostaph's Workshop, then?"
+code0309		
 call            @Func_3e00
 call            @Func_3ce2
 code047b        
@@ -155,15 +154,15 @@ goto            @Cond_0702
 jumpz           @Cond_08e2, ($b003 == 3)
 call            @Func_3ca6
 jumpz           @Cond_0798, ($b002 == 0)
-dialogtxt       "We have to find those two."
-dialogtxt       "They took Murno's stone..."
-dialogtxt       "Where could they be...?"
+dialogtxt       "We have to find those guys"
+dialogtxt       "who took Murno's stone..."
+dialogtxt       "Where could they be?"
 goto            @Label_080a
 
 @Cond_0798:
-dialogtxt       "We have to find those two."
-dialogtxt       "They took Murno's stone..."
-dialogtxt       "Where could they be...?"
+dialogtxt       "We have to find those guys"
+dialogtxt       "who took Murno's stone..."
+dialogtxt       "Where could they be?"
 goto            @Label_080a
 
 @Label_080a:
@@ -180,7 +179,7 @@ call            @Func_3d66
 code0479        0, 2, 16
 call            @Func_3cc4
 dialogtxt       "Maybe they went back"
-dialogtxt       "to their workshop..."
+dialogtxt       "to their workshop?"
 code0309        
 call            @Func_3e00
 call            @Func_3ce2
@@ -245,7 +244,7 @@ code0309
 call            @Func_3d66
 code0479        0, 1, 16
 call            @Func_3cc4
-dialogtxt       "F—For now,"
+dialogtxt       "F-For now,"
 dialogtxt       "let's just go and see!"
 code0309        
 call            @Func_3e00
@@ -268,21 +267,21 @@ dialogtxt       "they may be setting up a trap..."
 code0309        
 code0479        1, 2, 12
 dialogtxt       "However..."
-dialogtxt       "If you don't enter the tiger's den"
-dialogtxt       "you cannot catch it's cub!"
+dialogtxt       "If you don't enter the tiger's den,"
+dialogtxt       "you cannot catch its cub!"
 code0309        
 call            @Func_3d66
 jumpz           @Cond_0cf2, ($b002 == 0)
 code0479        0, 2, 16
 call            @Func_3cc4
-dialogtxt       "Tiger... Den?"
+dialogtxt       "Tiger... den?"
 dialogtxt       "They live in places like this?"
 goto            @Label_0d3e
 
 @Cond_0cf2:
 code0479        0, 8, 16
 call            @Func_3cc4
-dialogtxt       "Tiger... Den?"
+dialogtxt       "Tiger... den?"
 dialogtxt       "They live in places like this?"
 goto            @Label_0d3e
 
@@ -310,7 +309,8 @@ call            @Func_3cfa
 code0479        1, 2, 13
 call            @Func_3d30
 dialogtxt       "Kuku... Inside a dark cave..."
-dialogtxt       "The perfect grave..."
+dialogtxt       "What better place for"
+dialogtxt       "their grave?"
 code0309        
 call            @Func_3d66
 code0479        0, 5, 16
@@ -333,8 +333,8 @@ code0309
 call            @Func_3cfa
 code0479        1, 2, 16
 call            @Func_3d30
-dialogtxt       "Inside of a hole..."
-dialogtxt       "How fitting for rats like them."
+dialogtxt       "Hiding in a hole?"
+dialogtxt       "Quite fitting for rats like them."
 code0309        
 code0479        1, 2, 13
 dialogtxt       "Let's go."
@@ -408,7 +408,7 @@ code0309
 call            @Func_3d66
 code0479        0, 2, 17
 call            @Func_3cc4
-dialogtxt       "C—Come on now,"
+dialogtxt       "C-Come on now,"
 dialogtxt       "let's hurry!"
 code0309        
 call            @Func_3e00
@@ -454,22 +454,22 @@ code0309
 call            @Func_3cfa
 code0479        1, 2, 14
 call            @Func_3d30
-dialogtxt       "I'm sure that was their"
-dialogtxt       "ally we noticed earlier."
-dialogtxt       "Spying on us..."
+dialogtxt       "I'm sure that was their ally we noticed"
+dialogtxt       "earlier. I bet they're crawling around"
+dialogtxt       "like trash, spying on us...!"
 code0309        
 call            @Func_3d66
 code0479        0, 2, 14
 call            @Func_3cc4
 dialogtxt       "That may be so,"
 jumpz           @Cond_1550, ($b002 == 0)
-dialogtxt       "but no use worrying about it now."
-dialogtxt       "Let's go."
+dialogtxt       "but there's no use worrying"
+dialogtxt       "about it now. Let's go!"
 goto            @Label_1586
 
 @Cond_1550:
-dialogtxt       "No point worrying about it now."
-dialogtxt       "Let's go."
+dialogtxt       "but there's no use worrying"
+dialogtxt       "about it now. C'mon, let's go."
 goto            @Label_1586
 
 @Label_1586:
@@ -478,7 +478,7 @@ call            @Func_3cfa
 code0479        1, 2, 13
 call            @Func_3d30
 dialogtxt       "Fine."
-dialogtxt       "Whatever plan those trash have"
+dialogtxt       "Whatever plan those scumbags have"
 dialogtxt       "have come up with, we'll crush them."
 code0309        
 call            @Func_3e00
@@ -501,7 +501,7 @@ dialogtxt       "attempting to spy on us."
 dialogtxt       "Sneaky little rats..."
 code0309        
 code0479        1, 2, 13
-dialogtxt       "No matter, I shall hunt them"
+dialogtxt       "No matter. I shall hunt them"
 dialogtxt       "down if the opportunity arises."
 code0309        
 call            @Func_3d66
@@ -554,9 +554,9 @@ code0309
 call            @Func_3cfa
 code0479        1, 0, 12
 call            @Func_3d30
-dialogtxt       "Our Spy Turned Out To Be"
-dialogtxt       "Your Bro. But That Possibility"
-dialogtxt       "Was Accounted For."
+dialogtxt       "The Suspicious Person Has Been"
+dialogtxt       "Identified As Your Bro. But That"
+dialogtxt       "Possibility Was Accounted For."
 code0309        
 call            @Func_3d66
 code0479        0, 0, 14
@@ -573,7 +573,7 @@ code0309
 call            @Func_3d66
 code0479        0, 1, 16
 call            @Func_3cc4
-dialogtxt       "O—Oh, I see..."
+dialogtxt       "O-Oh, I see..."
 code0309        
 call            @Func_3e00
 call            @Func_3ce2
@@ -655,11 +655,11 @@ code0479        0, 5, 12
 call            @Func_3cc4
 dialogtxt       "Ah, I see."
 jumpz           @Cond_1da4, ($b002 == 0)
-dialogtxt       "So you're saying you'll be fine..."
+dialogtxt       "So you're saying you'll be fine"
 goto            @Label_1dbe
 
 @Cond_1da4:
-dialogtxt       "So you're saying you'll be fine..."
+dialogtxt       "So you're saying you'll be fine"
 goto            @Label_1dbe
 
 @Label_1dbe:
@@ -668,8 +668,7 @@ code0309
 call            @Func_3cfa
 code0479        1, 5, 16
 call            @Func_3d30
-dialogtxt       "How..."
-dialogtxt       "You are unbelievable..."
+dialogtxt       "Hmph. You are unbelievable..."
 code0309        
 call            @Func_3e00
 call            @Func_3d4e
@@ -685,31 +684,31 @@ code0309
 call            @Func_3cfa
 code0479        1, 4, 14
 call            @Func_3d30
-dialogtxt       "... What should I do..."
-dialogtxt       "Your bro was"
-dialogtxt       "obviously very angry..."
+dialogtxt       "... What should we do...?"
+dialogtxt       "Your bro was obviously"
+dialogtxt       "very angry."
 code0309        
 code0479        1, 4, 16
 dialogtxt       "I thought he was an enemy..."
-dialogtxt       "I'm sure he hates me now..."
-code0309        
+dialogtxt       "He must hate me now, right?"
+code0309		
 call            @Func_3d66
 code0479        0, 0, 12
 call            @Func_3cc4
-dialogtxt       "Umm, that's what he"
-dialogtxt       "normally looks like, so..."
-dialogtxt       "Try not to be so afraid of him..."
+dialogtxt       "Umm, that's just what he normally"
+dialogtxt       "looks like. So... try not to be afraid"
+dialogtxt       "of him, okay?"
 code0309        
 call            @Func_3cfa
 code0479        1, 2, 14
 call            @Func_3d30
 dialogtxt       "He could be observing"
-dialogtxt       "our reaction right now..."
+dialogtxt       "our reaction right now."
 code0309        
 code0479        1, 4, 16
 dialogtxt       "Perhaps I'd be safer if I"
 dialogtxt       "gave him a compliment..."
-dialogtxt       "Even if it is a lie."
+dialogtxt       "Even if it's merely a lie."
 code0309        
 call            @Func_3d66
 code0479        0, 1, 16
@@ -733,7 +732,7 @@ call            @Func_3d7e
 jumpz           @Cond_2266, ($b003 == 0)
 call            @Func_3ca6
 dialogtxt       "Me, apologize to him?"
-dialogtxt       "Hmm..."
+dialogtxt       "What to do...?"
 code047b        
 code0309        
 call            @Func_3cfa
@@ -744,19 +743,19 @@ call            @Func_3d94
 call            @Func_3d30
 dialogtxt       "It Is Possible For Me"
 dialogtxt       "To Defeat Them Before They"
-dialogtxt       "Break The Stone..."
+dialogtxt       "Break The Stone."
 code0309        
 call            @Func_3d66
 code0479        0, 2, 16
 call            @Func_3cc4
 jumpz           @Cond_222c, ($b002 == 0)
 dialogtxt       "We should try to solve this"
-dialogtxt       "without fighting, [NAME 1]..."
+dialogtxt       "without fighting, [NAME 1]."
 goto            @Label_2256
 
 @Cond_222c:
 dialogtxt       "We should try to solve this"
-dialogtxt       "without fighting, [NAME 1]..."
+dialogtxt       "without fighting, [NAME 1]."
 goto            @Label_2256
 
 @Label_2256:
@@ -770,7 +769,7 @@ goto            @Cond_2266
 jumpz           @Cond_23f0, ($b003 == 1)
 call            @Func_3ca6
 dialogtxt       "Me, apologize to him?"
-dialogtxt       "Hmm..."
+dialogtxt       "What to do...?"
 code047b        
 code0309        
 call            @Func_3cfa
@@ -792,12 +791,12 @@ code0479        0, 2, 16
 call            @Func_3cc4
 jumpz           @Cond_23b6, ($b002 == 0)
 dialogtxt       "We should try to solve this"
-dialogtxt       "without fighting, [NAME 1]..."
+dialogtxt       "without fighting, [NAME 1]."
 goto            @Label_23e0
 
 @Cond_23b6:
 dialogtxt       "We should try to solve this"
-dialogtxt       "without fighting, [NAME 1]..."
+dialogtxt       "without fighting, [NAME 1]."
 goto            @Label_23e0
 
 @Label_23e0:
@@ -811,8 +810,8 @@ goto            @Cond_23f0
 jumpz           @Cond_2556, ($b003 == 2)
 call            @Func_3ca6
 dialogtxt       "Me, apologize to him?"
-dialogtxt       "Hmm..."
-code0309        
+dialogtxt       "What to do...?"
+code0309		
 call            @Func_3cfa
 code0478        1, 2
 code0479        1, 0, 12
@@ -831,12 +830,12 @@ code0479        0, 2, 16
 call            @Func_3cc4
 jumpz           @Cond_2526, ($b002 == 0)
 dialogtxt       "We should try to solve this"
-dialogtxt       "without fighting, [NAME 1]..."
+dialogtxt       "without fighting, [NAME 1]."
 goto            @Label_2546
 
 @Cond_2526:
 dialogtxt       "We should try to solve this"
-dialogtxt       "without fighting, [NAME 1]..."
+dialogtxt       "without fighting, [NAME 1]."
 goto            @Label_2546
 
 @Label_2546:
@@ -850,7 +849,7 @@ goto            @Cond_2556
 jumpz           @Cond_26c0, ($b003 == 3)
 call            @Func_3ca6
 dialogtxt       "Me, apologize to him?"
-dialogtxt       "Hmm..."
+dialogtxt       "What to do...?"
 code047b        
 code0309        
 call            @Func_3cfa
@@ -859,7 +858,7 @@ code0479        1, 2, 14
 code047d        1, 2
 call            @Func_3d94
 call            @Func_3d30
-dialogtxt       "It's okay; don't force it."
+dialogtxt       "You don't have to push yourself."
 dialogtxt       "I can defeat them before they"
 dialogtxt       "have a chance to destroy the stone."
 code0309        
@@ -868,12 +867,12 @@ code0479        0, 2, 16
 call            @Func_3cc4
 jumpz           @Cond_2686, ($b002 == 0)
 dialogtxt       "We should try to solve this"
-dialogtxt       "without fighting, [NAME 1]..."
+dialogtxt       "without fighting, [NAME 1]."
 goto            @Label_26b0
 
 @Cond_2686:
 dialogtxt       "We should try to solve this"
-dialogtxt       "without fighting, [NAME 1]..."
+dialogtxt       "without fighting, [NAME 1]."
 goto            @Label_26b0
 
 @Label_26b0:
@@ -980,8 +979,7 @@ code0309
 call            @Func_3cfa
 code0479        1, 2, 14
 call            @Func_3d30
-dialogtxt       "Tch..."
-dialogtxt       "How annoying..."
+dialogtxt       "Tch... How annoying."
 dialogtxt       "I should have erased them earlier..."
 code0309        
 call            @Func_3d66
@@ -1013,7 +1011,7 @@ code0309
 call            @Func_3d66
 code0479        0, 5, 17
 call            @Func_3cc4
-dialogtxt       "H—Hold on!"
+dialogtxt       "H-Hold on!"
 dialogtxt       "It's just a match!"
 code0309        
 call            @Func_3e00
@@ -1068,7 +1066,7 @@ code0309
 call            @Func_3d66
 code0479        0, 2, 16
 call            @Func_3cc4
-dialogtxt       "Umm, how should I put this..."
+dialogtxt       "Umm, how should I put this...?"
 dialogtxt       "When we fought, I kinda started"
 dialogtxt       "to understand him a bit more..."
 code0309        
@@ -1079,9 +1077,8 @@ dialogtxt       "..."
 dialogtxt       "That Is Impossible To Understand."
 code0309        
 code0479        1, 0, 12
-dialogtxt       "However,"
-dialogtxt       "As You Believe In Him,"
-dialogtxt       "I Will Also."
+dialogtxt       "However, As You Believe"
+dialogtxt       "In Him, I Will Also Believe."
 code0309        
 call            @Func_3e00
 call            @Func_3d4e
@@ -1100,13 +1097,13 @@ call            @Func_3cfa
 code0479        1, 0, 16
 call            @Func_3d30
 dialogtxt       "..."
-dialogtxt       "Seems like you believe"
-dialogtxt       "him this time."
+dialogtxt       "It seems that you actually "
+dialogtxt       "believe him this time."
 code0309        
 call            @Func_3d66
 code0479        0, 2, 16
 call            @Func_3cc4
-dialogtxt       "Umm, how should I put this..."
+dialogtxt       "Umm, how should I put this...?"
 dialogtxt       "When we fought, I kinda started"
 dialogtxt       "to understand him a bit more..."
 code0309        
@@ -1139,7 +1136,7 @@ code0309
 call            @Func_3d66
 code0479        0, 2, 16
 call            @Func_3cc4
-dialogtxt       "Umm, how should I put this..."
+dialogtxt       "Umm, how should I put this...?"
 dialogtxt       "When we fought, I kinda started"
 dialogtxt       "to understand him a bit more..."
 code0309        
@@ -1167,12 +1164,12 @@ code0479        1, 0, 16
 call            @Func_3d30
 dialogtxt       "Umm..."
 dialogtxt       "You really seem"
-dialogtxt       "like you believe him..."
+dialogtxt       "like you believe him, huh?"
 code0309        
 call            @Func_3d66
 code0479        0, 2, 16
 call            @Func_3cc4
-dialogtxt       "Umm, how should I put this..."
+dialogtxt       "Umm, how should I put this...?"
 dialogtxt       "When we fought, I kinda started"
 dialogtxt       "to understand him a bit more..."
 code0309        
@@ -1180,8 +1177,8 @@ call            @Func_3cfa
 code0479        1, 1, 12
 call            @Func_3d30
 dialogtxt       "I see..."
-dialogtxt       "If you say so,"
-dialogtxt       "I will trust him as well."
+dialogtxt       "If you say so, then I"
+dialogtxt       "will trust him as well."
 code0309        
 call            @Func_3e00
 call            @Func_3d4e
@@ -1271,7 +1268,7 @@ code0479        1, 2, 12
 call            @Func_3d30
 dialogtxt       "I'm sure you must be nervous."
 dialogtxt       "Focus on your goal, and the"
-dialogtxt       "waters will part before you..."
+dialogtxt       "waters will part before you."
 code0309        
 call            @Func_3d66
 code0479        0, 2, 16
@@ -1293,15 +1290,15 @@ call            @Func_3d66
 code0479        0, 2, 12
 call            @Func_3cc4
 jumpz           @Cond_37be, ($b002 == 0)
-dialogtxt       "T—Thanks, [NAME 1]..."
-dialogtxt       "You're right."
-dialogtxt       "Let's give it everything we've got!"
+dialogtxt       "T-Thanks, [NAME 1]..."
+dialogtxt       "You're right. Let's give it"
+dialogtxt       "everything we've got!"
 goto            @Label_37f8
 
 @Cond_37be:
-dialogtxt       "T—Thanks, [NAME 1]..."
-dialogtxt       "You're right."
-dialogtxt       "Let's give it everything we've got!"
+dialogtxt       "T-Thanks, [NAME 1]..."
+dialogtxt       "You're right. Let's give it"
+dialogtxt       "everything we've got!"
 goto            @Label_37f8
 
 @Label_37f8:
@@ -1334,15 +1331,15 @@ call            @Func_3d66
 code0479        0, 2, 12
 call            @Func_3cc4
 jumpz           @Cond_395a, ($b002 == 0)
-dialogtxt       "Aren't you reliable."
+dialogtxt       "Well isn't that reassuring?"
 dialogtxt       "Somehow I feel like"
-dialogtxt       "I can do this too."
+dialogtxt       "I can do this, too."
 goto            @Label_39a2
 
 @Cond_395a:
-dialogtxt       "Aren't you reliable."
+dialogtxt       "Well isn't that reassuring?"
 dialogtxt       "Somehow I feel like"
-dialogtxt       "I can do this too."
+dialogtxt       "I can do this, too."
 goto            @Label_39a2
 
 @Label_39a2:
@@ -1491,4 +1488,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-

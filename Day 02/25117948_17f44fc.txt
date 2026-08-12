@@ -60,8 +60,8 @@ code047b
 code0309        
 code0479        1, 7, 12
 dialogtxt       "You're already the second"
-dialogtxt       "one today."
-dialogtxt       "Business is booming."
+dialogtxt       "customer today."
+dialogtxt       "Business is booming!"
 code0309        
 call            @Func_0d7a
 code0479        0, 0, 16
@@ -71,9 +71,9 @@ code0309
 call            @Func_0d0e
 code0479        1, 1, 16
 call            @Func_0d44
-dialogtxt       "No, no~."
+dialogtxt       "No, no~!"
 dialogtxt       "Just talking to myself."
-dialogtxt       "Pay me no attention."
+dialogtxt       "Pay it no mind."
 code0309        
 call            @Func_0de8
 call            @Func_0d7a
@@ -146,7 +146,7 @@ call            @Func_0d0e
 code0479        1, 0, 12
 call            @Func_0d44
 dialogtxt       "I'll be here a while,"
-dialogtxt       "so if you get enough boam"
+dialogtxt       "so if you get enough boam,"
 dialogtxt       "please come back again."
 code0309        
 call            @Func_0e14
@@ -370,4 +370,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-

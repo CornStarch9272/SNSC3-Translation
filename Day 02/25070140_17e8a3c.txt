@@ -67,13 +67,13 @@ code0479        0, 2, 16
 call            @Func_11e2
 jumpz           @Cond_0392, ($b002 == 0)
 dialogtxt       "You know! Umm..."
-dialogtxt       "They always want to fight me,"
+dialogtxt       "They always want to fight, they"
 dialogtxt       "glare at me, and have spiky hair..."
 goto            @Label_03f2
 
 @Cond_0392:
 dialogtxt       "You know! Umm..."
-dialogtxt       "They always want to fight me,"
+dialogtxt       "They always want to fight, they"
 dialogtxt       "glare at me, and have spiky hair..."
 goto            @Label_03f2
 
@@ -90,14 +90,14 @@ code0479        0, 2, 16
 call            @Func_11e2
 jumpz           @Cond_04c0, ($b002 == 0)
 dialogtxt       "They took something very"
-dialogtxt       "important to us..."
-dialogtxt       "So..."
+dialogtxt       "important to us, so we're"
+dialogtxt       "looking for them."
 goto            @Label_0510
 
 @Cond_04c0:
 dialogtxt       "They took something very"
-dialogtxt       "important to us..."
-dialogtxt       "So..."
+dialogtxt       "important to us, so we're"
+dialogtxt       "looking for them."
 goto            @Label_0510
 
 @Label_0510:
@@ -106,7 +106,7 @@ call            @Func_1218
 code0479        1, 4, 15
 call            @Func_124e
 dialogtxt       "Those two..."
-dialogtxt       "They're going too far..."
+dialogtxt       "They're going too far...!"
 code0309        
 code0479        1, 0, 14
 dialogtxt       "You know, they HAVE been"
@@ -150,14 +150,12 @@ goto            @Cond_0708
 
 @Cond_0708:
 jumpz           @Cond_0752, ($b003 == 1)
-dialogtxt       "So, where might they be"
-dialogtxt       "hiding?"
+dialogtxt       "So, where might they be hiding?"
 goto            @Cond_0752
 
 @Cond_0752:
 jumpz           @Cond_079a, ($b003 == 2)
-dialogtxt       "So, where is that trash"
-dialogtxt       "hiding?"
+dialogtxt       "So, where is that trash hiding?"
 goto            @Cond_079a
 
 @Cond_079a:
@@ -178,8 +176,9 @@ dialogtxt       "Well, I know they hang out at"
 dialogtxt       "Deckell Mine often..."
 code0309        
 code0479        1, 0, 12
-dialogtxt       "You'll find them deep inside,"
-dialogtxt       "past the door to the inner section."
+dialogtxt       "If they're there, you'll find them"
+dialogtxt       "deep inside, past the door to the"
+dialogtxt       "inner section."
 code0309        
 call            @Func_12f2
 call            @Func_1284
@@ -209,8 +208,8 @@ call            @Func_1218
 code0479        1, 5, 16
 call            @Func_124e
 dialogtxt       "One more thing!"
-dialogtxt       "Strays have appeared in there,"
-dialogtxt       "so I told them to be careful..."
+dialogtxt       "Strays have been appearing in there,"
+dialogtxt       "so I told them to be careful."
 code0309        
 call            @Func_1284
 code0479        0, 2, 12
@@ -471,4 +470,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-
