@@ -14,7 +14,7 @@ code0482
 code047d        0, 132
 code0301        16, 3
 code047e        0, 1
-dialogtxt       "Hey [NAME 2]."
+dialogtxt       "Hey, [NAME 2]."
 code0309        
 code047e        0, 0
 code0302        3
@@ -45,15 +45,15 @@ code0479        1, 0, 13
 code047d        1, 132
 call            @Func_115e
 call            @Func_10c6
-dialogtxt       "It's right before your match."
-dialogtxt       "Sure you've got time to waste?"
+dialogtxt       "You and V.E have a match coming up."
+dialogtxt       "You sure you've got time to waste?"
 code0309        
 call            @Func_111a
 code0479        0, 4, 13
 call            @Func_1078
-dialogtxt       "No, but..."
-dialogtxt       "Freaking out about it this late"
-dialogtxt       "isn't going to change anything."
+dialogtxt       "No, but... freaking out about it"
+dialogtxt       "this late isn't going to change"
+dialogtxt       "anything."
 code0309        
 code0479        1, 0, 12
 code0479        0, 0, 16
@@ -62,8 +62,8 @@ code0309
 call            @Func_10ae
 code0479        1, 0, 16
 call            @Func_10e4
-dialogtxt       "There's this noisy guy staying at"
-dialogtxt       "Chief's place that was bothering me,"
+dialogtxt       "I'm staying at the Chief's place,"
+dialogtxt       "but there's this noisy guy there,"
 dialogtxt       "so I came out to get some air."
 code0309        
 code0479        0, 1, 16
@@ -83,13 +83,13 @@ code0479        1, 4, 16
 call            @Func_10e4
 dialogtxt       "You say it like it's no big deal,"
 dialogtxt       "but you already have two guests."
-dialogtxt       "It's tough in a lot of ways, right?"
+dialogtxt       "Don't you have enough to deal with?"
 code0309        
 call            @Func_111a
 code0479        0, 0, 16
 call            @Func_1078
-dialogtxt       "Well yeah."
-dialogtxt       "And Master's injured too..."
+dialogtxt       "Yeah..."
+dialogtxt       "Plus, Master's injured, too..."
 code0309        
 call            @Func_10ae
 code0479        1, 2, 13
@@ -143,13 +143,13 @@ call            @Func_1078
 jumpz           @Cond_088a, ($b002 == 0)
 dialogtxt       "When you're serious,"
 dialogtxt       "you get really terrifying."
-dialogtxt       "And your face becomes a perfect fit."
+dialogtxt       "And your face becomes a perfect fit!"
 goto            @Label_08e4
 
 @Cond_088a:
 dialogtxt       "When you're serious,"
 dialogtxt       "you get really terrifying."
-dialogtxt       "And your face becomes a perfect fit."
+dialogtxt       "And your face becomes a perfect fit!"
 goto            @Label_08e4
 
 @Label_08e4:
@@ -162,12 +162,12 @@ code0309
 call            @Func_111a
 code0479        0, 1, 16
 call            @Func_1078
-dialogtxt       "See, like that."
+dialogtxt       "See, like that!"
 code0309        
 call            @Func_10ae
 code0479        1, 0, 16
 call            @Func_10e4
-dialogtxt       "Anyway, make sure to deliver"
+dialogtxt       "Anyway... Make sure to deliver"
 dialogtxt       "a solid victory in the match"
 dialogtxt       "tomorrow."
 code0309        
@@ -175,12 +175,12 @@ code0479        0, 0, 12
 code0479        1, 2, 13
 dialogtxt       "You beat me, so if V.E beats you,"
 dialogtxt       "that would mean..."
-dialogtxt       "... You can't lose this one."
+dialogtxt       "Well, you can't lose this one."
 code0309        
 call            @Func_111a
 code0479        0, 4, 16
 call            @Func_1078
-dialogtxt       "W—Well..."
+dialogtxt       "W-Well..."
 code0309        
 call            @Func_10ae
 code0479        1, 3, 15
@@ -409,4 +409,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-

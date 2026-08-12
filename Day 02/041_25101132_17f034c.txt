@@ -52,21 +52,22 @@ call            @Func_0d84
 code0479        1, 0, 12
 call            @Func_0dba
 dialogtxt       "You seem pretty relaxed."
-dialogtxt       "You know we have a match tomorrow?"
+dialogtxt       "You know we have a match"
+dialogtxt       "tomorrow, right?"
 code0309        
 call            @Func_0df0
 code0479        0, 0, 12
 call            @Func_0d4e
 jumpz           @Cond_034c, ($b002 == 0)
-dialogtxt       "Of course I do."
-dialogtxt       "It's more that there's no point"
-dialogtxt       "in getting worked up this late."
+dialogtxt       "Of course I do!"
+dialogtxt       "But there's no point in"
+dialogtxt       "getting worked up this late."
 goto            @Label_0396
 
 @Cond_034c:
-dialogtxt       "Of course I do."
-dialogtxt       "It's more that there's no point"
-dialogtxt       "in getting worked up this late."
+dialogtxt       "Of course I do!"
+dialogtxt       "But there's no point in"
+dialogtxt       "getting worked up this late."
 goto            @Label_0396
 
 @Label_0396:
@@ -86,26 +87,28 @@ dialogtxt       "I'm gonna try my best to show you"
 dialogtxt       "the results of my training."
 code0309        
 code0479        0, 2, 12
-dialogtxt       "So just watch me!"
+dialogtxt       "Just wait and see!"
 code0309        
 call            @Func_0d84
 code0479        1, 1, 13
 call            @Func_0dba
-dialogtxt       "Looks like you're slowly coming"
-dialogtxt       "to understand what true strength is."
-code0309        
+dialogtxt       "Little by little, it seems like"
+dialogtxt       "you're finally starting to understand"
+dialogtxt       "what true strength is, huh?"
+code0309		
 call            @Func_0df0
 code0479        0, 5, 16
 call            @Func_0d4e
-dialogtxt       "True strength..."
-dialogtxt       "What's that?"
-code0309        
+dialogtxt       "True strength?"
+dialogtxt       "I don't really get what"
+dialogtxt       "you mean by that."
+code0309		
 call            @Func_0d84
 code0479        1, 0, 12
 call            @Func_0dba
-dialogtxt       "Strength isn't just physical..."
+dialogtxt       "Strength isn't just physical."
 dialogtxt       "Like, how should I put this...?"
-dialogtxt       "Your conviction is important too."
+dialogtxt       "Your conviction is important, too."
 code0309        
 code0479        0, 0, 16
 code0479        1, 2, 16
@@ -115,21 +118,22 @@ code0309
 call            @Func_0df0
 code0479        0, 2, 12
 call            @Func_0d4e
-dialogtxt       "Feel their spirit..."
+dialogtxt       "Feel their spirit, huh...?"
 dialogtxt       "I think I kind of get it."
 code0309        
 call            @Func_0d84
 code0479        1, 1, 13
 call            @Func_0dba
 dialogtxt       "Heh."
-dialogtxt       "I can tell you're growing by"
-dialogtxt       "the day."
+dialogtxt       "You've really started talking"
+dialogtxt       "like a grown-up."
 code0309        
 code0479        0, 0, 12
 code0479        1, 2, 12
-dialogtxt       "Tomorrow I'll have you show me"
-dialogtxt       "your true abilities in combat."
-code0309        
+dialogtxt       "Well then. Tomorrow you'll"
+dialogtxt       "show me your true power in"
+dialogtxt       "combat!"
+code0309		
 call            @Func_0df0
 code0479        0, 2, 13
 call            @Func_0d4e
@@ -353,4 +357,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-

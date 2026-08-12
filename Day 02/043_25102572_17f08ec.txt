@@ -14,7 +14,7 @@ code0482
 code047d        0, 110
 code0301        16, 3
 code047e        0, 1
-dialogtxt       "Well look who it is..."
+dialogtxt       "Well, look who it is..."
 code0309        
 code047e        0, 0
 code0302        3
@@ -45,18 +45,18 @@ code0479        1, 4, 12
 code047d        1, 110
 call            @Func_1106
 call            @Func_106e
-dialogtxt       "Of course it's you..."
+dialogtxt       "Of course it's you."
 code047b        
 code0309        
 call            @Func_10c2
 code0479        0, 0, 16
 call            @Func_1020
 jumpz           @Cond_02da, ($b002 == 0)
-dialogtxt       "\"Of course?\""
+dialogtxt       "What do you mean, \"of course?!\""
 goto            @Label_02f6
 
 @Cond_02da:
-dialogtxt       "\"Of course?\""
+dialogtxt       "What do you mean, \"of course?!\""
 goto            @Label_02f6
 
 @Label_02f6:
@@ -109,17 +109,17 @@ call            @Func_10c2
 code0479        0, 4, 16
 call            @Func_1020
 dialogtxt       "Huh..."
-dialogtxt       "I guess that true..."
+dialogtxt       "I can't really argue with that."
 code0309        
 code0479        0, 5, 16
 jumpz           @Cond_058c, ($b002 == 0)
-dialogtxt       "But anyway, what happened"
-dialogtxt       "to those injured people?"
+dialogtxt       "Now that you mention it, what"
+dialogtxt       "happened with the injured people?"
 goto            @Label_05ca
 
 @Cond_058c:
-dialogtxt       "But anyway, what happened"
-dialogtxt       "to those injured people?"
+dialogtxt       "Now that you mention it, what"
+dialogtxt       "happened with the injured people?"
 goto            @Label_05ca
 
 @Label_05ca:
@@ -129,7 +129,7 @@ code0479        1, 0, 16
 call            @Func_108c
 dialogtxt       "Their injuries weren't severe,"
 dialogtxt       "so physically, they're fine."
-dialogtxt       "... Mentally, maybe not..."
+dialogtxt       "Maybe not mentally, though..."
 code0309        
 call            @Func_10c2
 code0479        0, 2, 16
@@ -150,22 +150,22 @@ call            @Func_1056
 code0479        1, 0, 12
 call            @Func_108c
 dialogtxt       "They've quieted down."
-dialogtxt       "It's as if they're truly"
+dialogtxt       "Hopefully it means they're"
 dialogtxt       "reflecting on their actions."
 code0309        
 call            @Func_10c2
 code0479        0, 1, 12
 call            @Func_1020
 jumpz           @Cond_0782, ($b002 == 0)
-dialogtxt       "I see."
-dialogtxt       "But I mean, isn't that fine?"
-dialogtxt       "Especially for Serge."
+dialogtxt       "I see. That's probably"
+dialogtxt       "for the best. Especially"
+dialogtxt       "with Serge."
 goto            @Label_07b8
 
 @Cond_0782:
-dialogtxt       "I see."
-dialogtxt       "But I mean, isn't that fine?"
-dialogtxt       "Especially for Serge."
+dialogtxt       "I see. That's probably"
+dialogtxt       "for the best. Especially"
+dialogtxt       "with Serge."
 goto            @Label_07b8
 
 @Label_07b8:
@@ -202,13 +202,13 @@ code0479        0, 2, 16
 call            @Func_1020
 jumpz           @Cond_0918, ($b002 == 0)
 dialogtxt       "They're completely different!"
-dialogtxt       "... How do I put this..."
+dialogtxt       "How do I put this...?"
 dialogtxt       "They're different at heart!"
 goto            @Label_0952
 
 @Cond_0918:
 dialogtxt       "They're completely different!"
-dialogtxt       "... How do I put this..."
+dialogtxt       "How do I put this...?"
 dialogtxt       "They're different at heart!"
 goto            @Label_0952
 
@@ -217,7 +217,7 @@ code0309
 call            @Func_1056
 code0479        1, 4, 13
 call            @Func_108c
-dialogtxt       "Hah..."
+dialogtxt       "Hmm..."
 dialogtxt       "At heart, huh...?"
 dialogtxt       "I envy you sometimes."
 code0309        
@@ -458,4 +458,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-

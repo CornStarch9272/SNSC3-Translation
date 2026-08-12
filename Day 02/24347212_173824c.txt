@@ -69,8 +69,8 @@ goto            @start
 code0301        8, 7
 code047d        0, 108
 code047e        0, 1
-dialogtxt       "I've no doubt he'll be"
-dialogtxt       "moved by my brilliant setting!"
+dialogtxt       "With my brilliant scenario,"
+dialogtxt       "the Chief will be moved to tears!"
 code0309        
 dialogtxt       "By the way, aren't you"
 dialogtxt       "supposed to be training?"
@@ -83,7 +83,7 @@ code040b
 code0301        8, 7
 code047d        0, 107
 code047e        0, 1
-dialogtxt       "He's seems nice..."
+dialogtxt       "He seems nice."
 dialogtxt       "What a relief..."
 code0309        
 code047e        0, 0
@@ -306,4 +306,3 @@ ret
 @Talk_0c70:
 code0006        3914
 code040b        
-

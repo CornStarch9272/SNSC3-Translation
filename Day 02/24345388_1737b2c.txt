@@ -372,9 +372,9 @@ ret
 code0301        8, 7
 code047d        0, 148
 code047e        0, 1
-dialogtxt       "My, you must be a Craftknight."
-dialogtxt       "Right now I'm on a journey to meet"
-dialogtxt       "many Craftknights and blacksmiths."
+dialogtxt       "Ah! You must be a Craftknight. Right"
+dialogtxt       "now, I'm on a journey to meet as many"
+dialogtxt       "Craftknights and blacksmiths as I can."
 code0309        
 dialogtxt       "I hope that some of them"
 dialogtxt       "will become regular customers"
@@ -409,11 +409,11 @@ code047e        0, 1
 dialogtxt       "I'll teach you how to raise"
 dialogtxt       "your smithing rank."
 code0309        
-dialogtxt       "When you do anything outside"
+dialogtxt       "When you do anything besides"
 dialogtxt       "of repairing, you'll gain"
 dialogtxt       "experience."
 code0309        
-dialogtxt       "Gather enough and you'll"
+dialogtxt       "Gather enough, and you'll"
 dialogtxt       "raise your rank."
 code0309        
 goto            @Label_127c
@@ -426,4 +426,3 @@ code0309
 code047e        0, 0
 code0302        7
 code040b        
-
