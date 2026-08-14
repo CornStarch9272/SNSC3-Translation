@@ -5,8 +5,7 @@ code043e        0, 3, 0
 code047d        0, 108
 code0301        8, 7
 code047e        0, 1
-dialogtxt       "I see..."
-dialogtxt       "I can tell you've got guts, kid."
+dialogtxt       "I see. You're serious about this, then?"
 code0309        
 code047e        0, 0
 code0302        7
@@ -56,8 +55,8 @@ call            @Func_10de
 code0479        1, 2, 12
 call            @Func_1114
 dialogtxt       "Don't get gloomy on me now."
-dialogtxt       "I'm going to need your help."
-dialogtxt       "Okay?"
+dialogtxt       "I'm going to need your help,"
+dialogtxt       "okay?"
 code0309        
 call            @Func_114a
 code0479        0, 2, 13
@@ -91,9 +90,9 @@ code043c        2, 3
 code043c        3, 3
 call            @Func_1178
 call            @Func_1114
-dialogtxt       "Ah, [NAME 2]."
-dialogtxt       "I'm ready for you any time."
-dialogtxt       "Come outside when you're done."
+dialogtxt       "Ah, [NAME 2]!"
+dialogtxt       "I'm ready for you any time, so"
+dialogtxt       "come outside when you're done!"
 code047b        
 code0309        
 call            @Func_114a
@@ -104,14 +103,14 @@ code0309
 call            @Func_10de
 code0479        1, 2, 12
 call            @Func_1114
-dialogtxt       "Jade's already left,"
-dialogtxt       "and the clock's ticking."
-dialogtxt       "Can't wait forever, you know."
+dialogtxt       "Jade's already left, so the"
+dialogtxt       "clock's ticking. I can't wait"
+dialogtxt       "forever, you know."
 code0309        
 code0479        1, 0, 13
-dialogtxt       "So, I'm not gonna waste"
-dialogtxt       "time warming up for this."
-dialogtxt       "Might even give you a chance."
+dialogtxt       "And hey! If we fight before"
+dialogtxt       "I'm finished warming up, it"
+dialogtxt       "might even give you a chance!"
 code0309        
 call            @Func_114a
 code0479        0, 2, 12
@@ -157,7 +156,7 @@ code0309
 code0479        1, 6, 12
 jumpz           @Cond_07b2, ($b002 == 0)
 code0479        0, 2, 12
-dialogtxt       "Y—Yeah!"
+dialogtxt       "Y-Yeah!"
 dialogtxt       "I will!"
 goto            @Label_07f0
 
@@ -226,7 +225,7 @@ code0479        0, 2, 13
 code047d        0, 0
 call            @Func_1162
 call            @Func_10a8
-dialogtxt       "Well, not exactly, but..."
+dialogtxt       "This doesn't feel quite right, but..."
 jumpz           @Cond_0a06, ($b002 == 0)
 dialogtxt       "Well, whatever!"
 dialogtxt       "Let's do this!"
@@ -473,4 +472,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-

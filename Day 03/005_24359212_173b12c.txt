@@ -225,7 +225,7 @@ goto            @start
 code0301        8, 7
 code047d        0, 107
 code047e        0, 1
-dialogtxt       "About how far away is Prosban?"
+dialogtxt       "How far away is Prosban?"
 code0309        
 code047e        0, 0
 code0302        7
@@ -502,4 +502,3 @@ walkto          30, -8, -8, 67
 code0461        30
 code0461        31
 code040b        
-

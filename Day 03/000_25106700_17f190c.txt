@@ -27,14 +27,14 @@ call            @Func_0f9c
 call            @Func_0e98
 jumpz           @Cond_0164, ($b002 == 0)
 dialogtxt       "Alright, we have a match"
-dialogtxt       "with Master today!"
-dialogtxt       "Let's show her what we can do!"
+dialogtxt       "with Master today! Let's"
+dialogtxt       "show her what we can do!"
 goto            @Label_01c8
 
 @Cond_0164:
 dialogtxt       "Alright, we have a match"
-dialogtxt       "with Master today!"
-dialogtxt       "Let's show her what we can do!"
+dialogtxt       "with Master today! Let's"
+dialogtxt       "show her what we can do!"
 goto            @Label_01c8
 
 @Label_01c8:
@@ -71,14 +71,14 @@ goto            @Cond_02e2
 
 @Cond_02e2:
 jumpz           @Cond_033c, ($b003 == 1)
-dialogtxt       "..."
-dialogtxt       "Are you certain you want"
-dialogtxt       "Murno to come with us...?"
+dialogtxt       "But..."
+dialogtxt       "Are you certain you wish"
+dialogtxt       "for Murno to come with us?"
 goto            @Cond_033c
 
 @Cond_033c:
 jumpz           @Cond_03c0, ($b003 == 2)
-dialogtxt       "So unconcerned..."
+dialogtxt       "You're so unconcerned..."
 code0309        
 code0479        1, 0, 16
 dialogtxt       "Are you sure it's okay"
@@ -87,9 +87,9 @@ goto            @Cond_03c0
 
 @Cond_03c0:
 jumpz           @Cond_041c, ($b003 == 3)
-dialogtxt       "..."
+dialogtxt       "But..."
 dialogtxt       "Is it really okay to"
-dialogtxt       "bring Lady Murno with us...?"
+dialogtxt       "bring Lady Murno with us?"
 goto            @Cond_041c
 
 @Cond_041c:
@@ -102,9 +102,9 @@ dialogtxt       "We're fighting Master this time!"
 dialogtxt       "We need to go all out!"
 code0309        
 code0479        0, 0, 16
-dialogtxt       "And you know..."
-dialogtxt       "If we lose, Murno's going"
-dialogtxt       "to be stuck here too."
+dialogtxt       "Besides, if we lose,"
+dialogtxt       "Murno's going to be"
+dialogtxt       "stuck here, too."
 goto            @Label_05e4
 
 @Cond_0516:
@@ -112,9 +112,9 @@ dialogtxt       "We're fighting Master this time!"
 dialogtxt       "We need to give it our all!"
 code0309        
 code0479        0, 0, 16
-dialogtxt       "And you know..."
-dialogtxt       "If we lose, Murno's going"
-dialogtxt       "to be stuck here too."
+dialogtxt       "Besides, if we lose,"
+dialogtxt       "Murno's going to be"
+dialogtxt       "stuck here, too."
 goto            @Label_05e4
 
 @Label_05e4:
@@ -150,7 +150,7 @@ goto            @Cond_06ea
 
 @Cond_06ea:
 jumpz           @Cond_0756, ($b003 == 1)
-dialogtxt       "Stuck here with you..."
+dialogtxt       "Stuck here with you...?"
 code0309        
 code0479        1, 2, 15
 dialogtxt       "Very well, then."
@@ -163,7 +163,7 @@ dialogtxt       "Stuck here with you...?"
 code0309        
 code0479        1, 3, 12
 dialogtxt       "Alright."
-dialogtxt       "We'll just have to win then."
+dialogtxt       "We'll just have to win, then."
 goto            @Cond_07ba
 
 @Cond_07ba:
@@ -172,7 +172,7 @@ dialogtxt       "Stuck here with you...?"
 code0309        
 code0479        1, 2, 12
 dialogtxt       "Okay!"
-dialogtxt       "We have to win no matter what!"
+dialogtxt       "We have to win, no matter what!"
 goto            @Cond_0822
 
 @Cond_0822:
@@ -181,12 +181,12 @@ call            @Func_0f58
 code0479        0, 5, 12
 call            @Func_0eb6
 jumpz           @Cond_0890, ($b002 == 0)
-dialogtxt       "Y—Yeah, exactly..."
+dialogtxt       "Y-Yeah, that's the spirit!"
 dialogtxt       "I'm counting on you."
 goto            @Label_08d0
 
 @Cond_0890:
-dialogtxt       "Y—Yeah, exactly..."
+dialogtxt       "Y-Yeah, that's the spirit!"
 dialogtxt       "I'm counting on you."
 goto            @Label_08d0
 
