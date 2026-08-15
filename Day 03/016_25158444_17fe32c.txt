@@ -37,6 +37,7 @@ code047d        0, 0
 call            @Func_0c20
 call            @Func_0b48
 dialogtxt       "It's just like bro said..."
+dialogtxt       "The bridge really is out."
 code047b        
 code0309        
 call            @Func_0b9c
@@ -355,4 +356,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-

@@ -12,8 +12,8 @@ code0309
 call            @Func_0cc2
 code0479        0, 0, 12
 call            @Func_0c20
-choicetxt       @Choice_00e2, "Totally ready!"
-choicetxt       @Choice_0672, "Um, wait a bit longer..."
+choicetxt       @Choice_00e2, "Yep, all set!"
+choicetxt       @Choice_0672, "Um, gimme a minute..."
 choicewait      
 
 @Choice_00e2:
@@ -64,8 +64,8 @@ code0479        0, 2, 12
 code047d        0, 108
 call            @Func_0d06
 call            @Func_0c02
-dialogtxt       "We're counting on you two."
 dialogtxt       "[NAME 2], [NAME 1]."
+dialogtxt       "I'll be counting on you two."
 code047b        
 code0309        
 call            @Func_0c56
@@ -117,7 +117,7 @@ goto            @Cond_047c
 
 @Cond_047c:
 jumpz           @Cond_04b2, ($b003 == 3)
-dialogtxt       "Please leave Lady Murno to us!"
+dialogtxt       "Please, leave Lady Murno to us!"
 goto            @Cond_04b2
 
 @Cond_04b2:
@@ -388,4 +388,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-

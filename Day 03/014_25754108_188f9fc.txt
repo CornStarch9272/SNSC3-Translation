@@ -227,8 +227,8 @@ code043e        0, 3, 0
 code0301        8, 7
 code047d        0, 118
 code047e        0, 1
+dialogtxt       "The main road is too dangerous."
 dialogtxt       "You should train elsewhere."
-dialogtxt       "The main road is dangerous."
 code0309        
 code047e        0, 0
 code0302        7
@@ -250,8 +250,8 @@ code043e        3, 3, 0
 code0301        8, 7
 code047d        0, 118
 code047e        0, 1
-dialogtxt       "Work hard on your training."
-code0309        
+dialogtxt       "Good luck with your training!"
+code0309		
 code047e        0, 0
 code0302        7
 code043e        3, 0, 0
@@ -661,4 +661,3 @@ code031f        7
 code031a        7
 code033e        196
 ret             
-

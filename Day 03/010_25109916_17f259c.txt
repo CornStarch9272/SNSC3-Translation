@@ -8,7 +8,7 @@ call            @Func_1260
 call            @Func_11c8
 dialogtxt       "Ready to take me on?"
 dialogtxt       "I hope you've made a weapon"
-dialogtxt       "that can satisfy me."
+dialogtxt       "cool enough to satisfy me!"
 code047b        
 code0309        
 call            @Func_121c
@@ -27,12 +27,11 @@ code0479        1, 2, 16
 call            @Func_11e6
 dialogtxt       "... Seriously?"
 dialogtxt       "What're you planning to"
-dialogtxt       "do without equipment?"
+dialogtxt       "do without a weapon?"
 code0309        
 code0479        0, 1, 14
 code0479        1, 2, 15
-dialogtxt       "Don't come back without"
-dialogtxt       "a weapon in hand!"
+dialogtxt       "Go equip yourself and come back!"
 code0309        
 call            @Func_12b6
 call            @Func_1204
@@ -47,8 +46,10 @@ goto            @Label_01fc
 @Label_01fc:
 code0479        1, 2, 12
 call            @Func_11e6
-dialogtxt       "Well then, show me."
-code0309        
+dialogtxt       "Alright then."
+dialogtxt       "Time to show me"
+dialogtxt       "what you can do!"
+code0309		
 call            @Func_12b6
 call            @Func_1204
 code047b        
@@ -118,14 +119,14 @@ code0309
 call            @Func_121c
 code0479        0, 2, 16
 call            @Func_117a
-dialogtxt       "So...?"
-code0309        
+dialogtxt       "How's this?"
+code0309		
 call            @Func_11b0
 code0479        1, 0, 12
 call            @Func_11e6
-dialogtxt       "Well... It's not bad."
-dialogtxt       "Definitely full of your spirit."
-dialogtxt       "And [NAME 1]'s as well."
+dialogtxt       "Hmm... not bad at all."
+dialogtxt       "Your spirit is on full display."
+dialogtxt       "And [NAME 1]'s, as well."
 code0309        
 call            @Func_128a
 call            @Func_121c
@@ -159,17 +160,17 @@ goto            @Cond_06ac
 
 @Cond_06ac:
 jumpz           @Cond_06ce, ($b003 == 1)
-dialogtxt       "Of course."
+dialogtxt       "Naturally."
 goto            @Cond_06ce
 
 @Cond_06ce:
 jumpz           @Cond_06f0, ($b003 == 2)
-dialogtxt       "Of course it is."
+dialogtxt       "Of course it was!"
 goto            @Cond_06f0
 
 @Cond_06f0:
 jumpz           @Cond_071c, ($b003 == 3)
-dialogtxt       "Thank you!"
+dialogtxt       "Thank you, Miss V.E!"
 goto            @Cond_071c
 
 @Cond_071c:
@@ -185,26 +186,26 @@ call            @Func_1234
 code0479        1, 2, 12
 call            @Func_11e6
 dialogtxt       "However, a full-fledged"
-dialogtxt       "Craftknight must be able to"
-dialogtxt       "wield their weapons as well."
+dialogtxt       "Craftknight must also be able"
+dialogtxt       "to wield their weapons!"
 code047b        
 code0309        
 call            @Func_121c
 code0479        0, 2, 14
 call            @Func_117a
 dialogtxt       "Master..."
-dialogtxt       "Are you sure about this...?"
+dialogtxt       "Are you sure about this?"
 code0309        
 call            @Func_11b0
 code0479        1, 2, 14
 call            @Func_11e6
-dialogtxt       "Injured or not,"
-dialogtxt       "I won't lose to any amateur."
+dialogtxt       "Injured or not, I won't"
+dialogtxt       "lose to any amateur."
 code0309        
 code0479        1, 2, 13
 dialogtxt       "But hey, if you wanna stay here"
-dialogtxt       "and watch over the house,"
-dialogtxt       "I'm okay with that too."
+dialogtxt       "and housesit while we're gone,"
+dialogtxt       "that's fine by me."
 code0309        
 call            @Func_121c
 code0479        0, 2, 16
@@ -257,17 +258,17 @@ code047d        1, 2
 call            @Func_124a
 call            @Func_11e6
 jumpz           @Cond_0a68, ($b003 == 0)
-dialogtxt       "Yes!"
+dialogtxt       "Affirmative!"
 goto            @Cond_0a68
 
 @Cond_0a68:
 jumpz           @Cond_0a86, ($b003 == 1)
-dialogtxt       "Yeah!"
+dialogtxt       "En garde!"
 goto            @Cond_0a86
 
 @Cond_0a86:
 jumpz           @Cond_0aa8, ($b003 == 2)
-dialogtxt       "Right."
+dialogtxt       "If you say so."
 goto            @Cond_0aa8
 
 @Cond_0aa8:
@@ -286,7 +287,7 @@ code0479        1, 2, 13
 code047d        1, 108
 call            @Func_124a
 call            @Func_11c8
-dialogtxt       "Now you're talking!"
+dialogtxt       "Now we're talking!"
 code047b        
 code0309        
 call            @Func_12a0
@@ -529,4 +530,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-

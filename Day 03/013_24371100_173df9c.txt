@@ -268,10 +268,9 @@ code0301        8, 7
 code047d        0, 122
 code047e        0, 1
 dialogtxt       "Young'uns these days are too lax!"
-dialogtxt       "Sigh, nothing I say goes"
-dialogtxt       "past their ears..."
+dialogtxt       "Sigh... Everything I say goes in one"
+dialogtxt       "ear and out the other!"
 code0309        
 code047e        0, 0
 code0302        7
 code040b        
-
