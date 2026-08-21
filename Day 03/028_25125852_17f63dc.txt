@@ -45,7 +45,7 @@ goto            @Cond_01b6
 @Cond_01b6:
 jumpz           @Cond_01e2, ($b003 == 2)
 dialogtxt       "Tch..."
-dialogtxt       "A Stray..."
+dialogtxt       "It's a Stray."
 goto            @Cond_01e2
 
 @Cond_01e2:
@@ -98,9 +98,9 @@ code0479        1, 2, 12
 code047d        1, 108
 call            @Func_1946
 call            @Func_18e2
-dialogtxt       "Welp..."
-dialogtxt       "I guess it's time for the mature,"
-dialogtxt       "strong, cool me to step up..."
+dialogtxt       "Well, I guess we have no choice..."
+dialogtxt       "I'll have to handle this, as the cool,"
+dialogtxt       "strong, mature one of the group."
 code047b        
 code0309        
 call            @Func_19b2
@@ -115,7 +115,7 @@ code047d        1, 109
 call            @Func_1946
 call            @Func_18c4
 dialogtxt       "(Wait!"
-dialogtxt       "If I beat the Stray..."
+dialogtxt       "If I beat the Stray,"
 dialogtxt       "maybe I'll get a bonus!)"
 code047b        
 code0309        
@@ -273,7 +273,7 @@ code047d        0, 109
 call            @Func_195c
 call            @Func_1858
 dialogtxt       "Hey, let go of me!"
-dialogtxt       "I'll defeat that Stray!"
+dialogtxt       "I'm gonna defeat that Stray!"
 code047b        
 code0309        
 code0479        0, 1, 12
@@ -287,7 +287,7 @@ code0479        1, 5, 17
 code047d        1, 0
 call            @Func_1946
 call            @Func_18e2
-dialogtxt       "You're charging for it too!?"
+dialogtxt       "You're CHARGING?!"
 code047b        
 code0309        
 call            @Func_199c
@@ -299,8 +299,8 @@ code047d        1, 108
 call            @Func_1946
 call            @Func_18e2
 dialogtxt       "What are you saying!?"
-dialogtxt       "At times like these,"
-dialogtxt       "you should let an adult handle it!"
+dialogtxt       "At times like these, you"
+dialogtxt       "should let an adult handle it!"
 code047b        
 code0309        
 call            @Func_19b2
@@ -314,15 +314,13 @@ code047d        0, 0
 call            @Func_1930
 call            @Func_1858
 jumpz           @Cond_0f0e, ($b002 == 0)
-dialogtxt       "Hey!"
-dialogtxt       "Now's not the time"
-dialogtxt       "to argue..."
+dialogtxt       "Hey! This isn't the"
+dialogtxt       "time to argue!"
 goto            @Label_0f4c
 
 @Cond_0f0e:
-dialogtxt       "Hey!"
-dialogtxt       "Now's not the time"
-dialogtxt       "to argue..."
+dialogtxt       "Hey! This isn't the"
+dialogtxt       "time to argue!"
 goto            @Label_0f4c
 
 @Label_0f4c:
@@ -381,13 +379,14 @@ goto            @Cond_112e
 
 @Cond_112e:
 jumpz           @Cond_116e, ($b003 == 1)
-dialogtxt       "We'll protect Murno!"
+dialogtxt       "We must stand our ground."
+dialogtxt       "Protect Murno!"
 goto            @Cond_116e
 
 @Cond_116e:
 jumpz           @Cond_119a, ($b003 == 2)
-dialogtxt       "Fine..."
-dialogtxt       "We'll take care of this!"
+dialogtxt       "Fine... Guess we've gotta"
+dialogtxt       "handle this one."
 goto            @Cond_119a
 
 @Cond_119a:
@@ -412,7 +411,7 @@ dialogtxt       "Let's do this!"
 goto            @Label_1258
 
 @Cond_123e:
-dialogtxt       "Alright!"
+dialogtxt       "Right!"
 dialogtxt       "Let's do this!"
 goto            @Label_1258
 
@@ -647,4 +646,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-

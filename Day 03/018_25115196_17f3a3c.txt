@@ -44,8 +44,9 @@ code0479        1, 0, 12
 code047d        1, 106
 call            @Func_1c36
 call            @Func_1b9e
-dialogtxt       "A Summon Beast!"
-dialogtxt       "They're quite rare around here."
+dialogtxt       "Oh! A Summon Beast!"
+dialogtxt       "They're pretty rare around"
+dialogtxt       "here, y'know."
 code047b        
 code0309        
 call            @Func_1bf2
@@ -91,8 +92,7 @@ call            @Func_1c0a
 jumpz           @Cond_0512, ($b003 == 0)
 code0479        1, 2, 12
 call            @Func_1bbc
-dialogtxt       "Oh!"
-dialogtxt       "It's so cool~!"
+dialogtxt       "Whoa! It's so cool!"
 code047b        
 code0309        
 call            @Func_1bf2
@@ -103,24 +103,24 @@ code0309
 call            @Func_1b86
 code0479        1, 1, 16
 call            @Func_1bbc
-dialogtxt       "Hey..."
-dialogtxt       "It's not responding at all..."
+dialogtxt       "Hello...?"
+dialogtxt       "How come it isn't responding?"
 goto            @Cond_0512
 
 @Cond_0512:
 jumpz           @Cond_0634, ($b003 == 1)
 code0479        1, 1, 12
 call            @Func_1bbc
-dialogtxt       "Oh, how cute!"
+dialogtxt       "Gosh, how cute!"
 dialogtxt       "A cat Summon Beast~!"
 code047b        
 code0309        
 call            @Func_1bf2
 code0479        0, 3, 15
 call            @Func_1b50
-dialogtxt       "I am not! I'm a tiger!"
-dialogtxt       "A graceful Toramata!"
-dialogtxt       "Are those glasses for show?!"
+dialogtxt       "Look at me! I am clearly a tiger!"
+dialogtxt       "A graceful Toramata! Are those"
+dialogtxt       "glasses just for show?!"
 code0309        
 call            @Func_1b86
 code0479        1, 5, 15
@@ -133,8 +133,7 @@ goto            @Cond_0634
 jumpz           @Cond_0706, ($b003 == 2)
 code0479        1, 0, 13
 call            @Func_1bbc
-dialogtxt       "Oh!"
-dialogtxt       "He looks smart!"
+dialogtxt       "Ooh! He looks smart!"
 code047b        
 code0309        
 call            @Func_1bf2
@@ -146,15 +145,14 @@ code0309
 call            @Func_1b86
 code0479        1, 4, 16
 call            @Func_1bbc
-dialogtxt       "He must be hard to deal with..."
+dialogtxt       "Jeez, he must be hard to deal with..."
 goto            @Cond_0706
 
 @Cond_0706:
 jumpz           @Cond_07c4, ($b003 == 3)
 code0479        1, 1, 12
 call            @Func_1bbc
-dialogtxt       "Oh!"
-dialogtxt       "What a cute Summon Beast!"
+dialogtxt       "Oh! What a cute Summon Beast!"
 code047b        
 code0309        
 call            @Func_1bf2
@@ -182,14 +180,13 @@ code0479        0, 2, 14
 code047d        0, 107
 call            @Func_1c0a
 call            @Func_1b50
-dialogtxt       "Who are you...?"
+dialogtxt       "Who the heck are you...?"
 code047b        
 code0309        
 call            @Func_1b86
 code0479        1, 1, 12
 call            @Func_1bbc
-dialogtxt       "Ah!"
-dialogtxt       "No, no,"
+dialogtxt       "Ah! Don't worry!"
 dialogtxt       "I'm not suspicious at all!"
 code0309        
 code047d        1, 109
@@ -246,7 +243,7 @@ code0479        1, 3, 13
 call            @Func_1c20
 call            @Func_1b9e
 dialogtxt       "(This might just work!"
-dialogtxt       "Just a bit more!)"
+dialogtxt       "C'mon, this is my chance!)"
 code047b        
 code0309        
 call            @Func_1bf2
@@ -256,7 +253,7 @@ code047d        0, 108
 call            @Func_1c0a
 call            @Func_1b50
 dialogtxt       "We'd love to have a guide,"
-dialogtxt       "but it won't be free, right?"
+dialogtxt       "but it won't be free, will it?"
 code047b        
 code0309        
 call            @Func_1c60
@@ -281,7 +278,6 @@ dialogtxt       "Oh!?"
 dialogtxt       "Ohohohohoho..."
 code0309        
 code0479        1, 2, 14
-dialogtxt       "Tch!"
 dialogtxt       "Well, aren't you sharp?"
 code0309        
 call            @Func_1c60
@@ -299,19 +295,20 @@ call            @Func_1b86
 code0479        1, 0, 12
 call            @Func_1bbc
 dialogtxt       "200 boam."
-dialogtxt       "It's easy to get lost in here..."
+dialogtxt       "It's really easy to get lost"
+dialogtxt       "around here, you know."
 code0309        
 code0479        1, 2, 12
-dialogtxt       "Definitely better to"
-dialogtxt       "have a guide..."
+dialogtxt       "It's definitely better"
+dialogtxt       "to have a guide."
 code0309        
 call            @Func_1bf2
 code0479        0, 4, 12
 call            @Func_1b50
-dialogtxt       "Hmm..."
-dialogtxt       "But unless I see it for myself,"
-dialogtxt       "I won't feel like paying."
-code0309        
+dialogtxt       "Hmm... You say that, but I don't"
+dialogtxt       "wanna pay until I can see it"
+dialogtxt       "for myself."
+code0309		
 call            @Func_1c60
 call            @Func_1b86
 code047b        
@@ -322,7 +319,7 @@ call            @Func_1c0a
 code0479        1, 2, 15
 call            @Func_1bbc
 dialogtxt       "And how about you?"
-dialogtxt       "You want a guide, right?"
+dialogtxt       "You want a guide, don't you?"
 code047b        
 code0309        
 call            @Func_1bf2
@@ -368,8 +365,8 @@ dialogtxt       "Thank you!"
 code047b        
 code0309        
 code0479        1, 7, 12
-dialogtxt       "Already the second one today..."
-dialogtxt       "Today's a good day~"
+dialogtxt       "That's the second one today!"
+dialogtxt       "What a good day~!"
 code0309        
 call            @Func_1bf2
 code0479        0, 0, 16
@@ -379,9 +376,8 @@ code0309
 call            @Func_1b86
 code0479        1, 1, 16
 call            @Func_1bbc
-dialogtxt       "Oh no~"
-dialogtxt       "Don't mind me~"
-dialogtxt       "Just talking to myself~"
+dialogtxt       "Oh no, don't mind me!"
+dialogtxt       "Just talking to myself~!"
 code0309        
 call            @Func_1c60
 call            @Func_1bf2
@@ -397,10 +393,10 @@ code0309
 call            @Func_1b86
 code0479        1, 0, 12
 call            @Func_1bbc
-dialogtxt       "Alright then, follow me."
-dialogtxt       "Please be careful, as there"
-dialogtxt       "are many Strays around too~"
-code0309        
+dialogtxt       "Alright then, please follow me."
+dialogtxt       "There are a lot of Strays around"
+dialogtxt       "here, so please be careful~!"
+code0309		
 call            @Func_1c8c
 call            @Func_1bda
 code047b        
@@ -418,7 +414,7 @@ setvar          $f0135, 1
 call            @Func_1bf2
 code0479        0, 0, 16
 call            @Func_1b50
-dialogtxt       "Huh..."
+dialogtxt       "Err..."
 dialogtxt       "I don't have enough..."
 code0309        
 call            @Func_1b86
@@ -430,13 +426,14 @@ code0309
 call            @Func_1bf2
 code0479        0, 5, 14
 call            @Func_1b50
-dialogtxt       "No no, we're not..."
+dialogtxt       "No no, that wasn't our intent!"
 code0309        
 call            @Func_1b86
 code0479        1, 0, 12
 call            @Func_1bbc
 dialogtxt       "Well, I'll be waiting here"
-dialogtxt       "for when you do have enough."
+dialogtxt       "whenever you get the money"
+dialogtxt       "together."
 code0309        
 call            @Func_1c8c
 call            @Func_1bda
@@ -453,12 +450,12 @@ code0309
 call            @Func_1b86
 code0479        1, 2, 17
 call            @Func_1bbc
-dialogtxt       "No way!?"
+dialogtxt       "For real!?"
 dialogtxt       "Well, that's what you say now!"
 code0309        
 code0479        1, 0, 12
 dialogtxt       "I'll be waiting here,"
-dialogtxt       "so come tell me when you"
+dialogtxt       "so come see me when you"
 dialogtxt       "inevitably change your mind."
 code0309        
 call            @Func_1c8c
@@ -703,4 +700,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-

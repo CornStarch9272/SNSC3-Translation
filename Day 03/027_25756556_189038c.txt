@@ -426,7 +426,7 @@ code040b
 code0301        8, 7
 code047d        0, 109
 code047e        0, 1
-dialogtxt       "That's unusual..."
+dialogtxt       "Don't see that every day..."
 code0309        
 code047e        0, 0
 code0302        7
@@ -436,9 +436,8 @@ code040b
 code0301        8, 7
 code047d        0, 108
 code047e        0, 1
-dialogtxt       "Hmm..."
-dialogtxt       "It's in the way..."
-code0309        
+dialogtxt       "That guy's in the way, isn't he?"
+code0309		
 code047e        0, 0
 code0302        7
 code040b        
@@ -457,9 +456,9 @@ code040b
 code0301        8, 7
 code047d        0, 108
 code047e        0, 1
-dialogtxt       "Listen up..."
-dialogtxt       "You're not allowed to lose!"
-dialogtxt       "Got it!"
+dialogtxt       "Listen up!"
+dialogtxt       "You're not allowed to"
+dialogtxt       "lose, got it?"
 code0309        
 code047e        0, 0
 code0302        7
@@ -469,7 +468,7 @@ code040b
 code0301        8, 7
 code047d        0, 107
 code047e        0, 1
-dialogtxt       "This is quite troublesome..."
+dialogtxt       "How troublesome..."
 dialogtxt       "Good luck, [NAME 2]!"
 code0309        
 code047e        0, 0
@@ -667,4 +666,3 @@ code031f        7
 code031a        7
 code033e        196
 ret             
-
