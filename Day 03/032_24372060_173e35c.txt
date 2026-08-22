@@ -185,7 +185,7 @@ goto            @Label_0858
 
 @Cond_0828:
 dialogtxt       "I should really check out"
-dialogtxt       "this \"Smile Inn\" first..."
+dialogtxt       "this \"Smile Inn\" first."
 goto            @Label_0858
 
 @Label_0858:
@@ -203,11 +203,11 @@ code0301        8, 7
 code047d        0, 0
 code047e        0, 1
 jumpz           @Cond_08e4, ($b002 == 0)
-dialogtxt       "Let's head back to the inn."
+dialogtxt       "Why don't we head back to the inn."
 goto            @Label_0900
 
 @Cond_08e4:
-dialogtxt       "Let's go back to the inn."
+dialogtxt       "We should go back to the inn."
 goto            @Label_0900
 
 @Label_0900:
@@ -556,35 +556,35 @@ code0301        8, 7
 code047d        0, 149
 code047e        0, 1
 dialogtxt       "You know, my mom is a peddler."
-dialogtxt       "We're trying to make ourselves"
-dialogtxt       "known with craftsmen."
+dialogtxt       "We're trying to make a name for"
+dialogtxt       "ourselves amongst craftsmen."
 code0309        
-dialogtxt       "We plan on opening a shop."
-dialogtxt       "That's why I have to work hard"
-dialogtxt       "to save up money."
+dialogtxt       "We're hoping to open up a shop."
+dialogtxt       "That's why I have to work hard!"
+dialogtxt       "So we can save up money."
 code0309        
 jumpz           @Cond_18aa, ($f1246 == 0)
 dialogtxt       "You're a Craftknight, right?"
-dialogtxt       "Want to hear about upgrading?"
+dialogtxt       "Want to learn about upgrading?"
 code0309        
 code047e        0, 0
 choicetxt       @Choice_15f6, "Yes, please."
-choicetxt       @Choice_18b2, "No, thank you."
+choicetxt       @Choice_18b2, "No thank you."
 choicewait      
 
 @Choice_15f6:
 code047e        0, 1
-dialogtxt       "Do you know Speed Winders?"
+dialogtxt       "Do you know about Speed Winders?"
 dialogtxt       "If you use one on your weapon,"
-dialogtxt       "it'll get Double Attack."
+dialogtxt       "it'll get Double Attack!"
 code0309        
-dialogtxt       "Ah! But based on the weapon type"
-dialogtxt       "some abilities become unusable."
-dialogtxt       "So, watch out, okay?"
+dialogtxt       "Oh! But depending on the weapon type,"
+dialogtxt       "some abilities will become unusable."
+dialogtxt       "So watch out, okay?"
 code0309        
-dialogtxt       "But anyway, I have this special"
-dialogtxt       "material on sale right now,"
-dialogtxt       "at a paltry price of 350 boam~."
+dialogtxt       "And check this out! I actually have"
+dialogtxt       "one on sale right now, at the low,"
+dialogtxt       "low price of 350 boam~!"
 code0309        
 dialogtxt       "Wanna buy it?"
 code0309        
@@ -605,7 +605,7 @@ code0445        16, 4
 code0446        16
 code0301        8, 7
 code047e        0, 1
-dialogtxt       "Thanks~"
+dialogtxt       "Thanks~!"
 code0309        
 goto            @Label_1902
 
@@ -617,8 +617,9 @@ code0445        16, 5
 code0446        16
 code0301        8, 7
 code047e        0, 1
-dialogtxt       "Ehh~ What's this~"
-dialogtxt       "You don't have enough boam~"
+dialogtxt       "Huuuuuh? What do you mean"
+dialogtxt       "you don't have the money?"
+dialogtxt       "I'm not giving you a discount!"
 code0309        
 goto            @Label_1902
 
@@ -626,9 +627,8 @@ goto            @Choice_1860
 
 @Choice_1860:
 code047e        0, 1
-dialogtxt       "Ehh..."
-dialogtxt       "You're not buying anything?"
-dialogtxt       "Cheapskate~"
+dialogtxt       "Jeez! You're just window shopping?"
+dialogtxt       "What a cheapskate!"
 code0309        
 goto            @Label_1902
 
@@ -641,9 +641,9 @@ goto            @Choice_18b2
 
 @Choice_18b2:
 code047e        0, 1
-dialogtxt       "You won't even listen?!"
-dialogtxt       "Just when I thought"
-dialogtxt       "I finally had a new client..."
+dialogtxt       "You won't even hear me out?"
+dialogtxt       "Just when I thought I finally"
+dialogtxt       "had a new client!"
 code0309        
 @Label_1902:
 code047e        0, 0
@@ -654,15 +654,14 @@ code040b
 code0301        8, 7
 code047d        0, 120
 code047e        0, 1
-dialogtxt       "That person is such a pain."
+dialogtxt       "That guy is such a pain."
 dialogtxt       "He wants help chopping wood,"
 dialogtxt       "but only from a professional."
 code0309        
-dialogtxt       "Everyone's an amateur at first."
+dialogtxt       "Everyone's an amateur at first!"
 dialogtxt       "If I don't get a chance, how am I"
-dialogtxt       "going to get experience at all?"
+dialogtxt       "ever going to get any experience?"
 code0309        
 code047e        0, 0
 code0302        7
 code040b        
-

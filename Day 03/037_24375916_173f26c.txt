@@ -215,7 +215,7 @@ code040b
 code0301        8, 7
 code047d        0, 114
 code047e        0, 1
-dialogtxt       "Please take care of our daughter."
+dialogtxt       "Please, take care of our daughter."
 code0309        
 code047e        0, 0
 code0302        7
@@ -223,7 +223,7 @@ code040b
 
 @Event_0a64:
 code0301        8, 7
-dialogtxt       "A lady's secret lies beyond here ◎"
+dialogtxt       "Beyond here lays a lady's secret ◎"
 dialogtxt       "NO TRESPASSING!!!"
 dialogtxt       "　　　　　　　　　　　　　—Tier"
 code0309        
@@ -442,51 +442,51 @@ ret
 code0301        8, 7
 code047d        0, 148
 code047e        0, 1
-dialogtxt       "Oh, that hammer..."
+dialogtxt       "Oh, that hammer!"
 dialogtxt       "You must be a Craftknight."
 code0309        
 dialogtxt       "I'm traveling with my daughter."
-dialogtxt       "She's not here now though."
+dialogtxt       "She's not here right now, though."
 dialogtxt       "Probably out playing somewhere."
 code0309        
-dialogtxt       "I know a lot about smithing,"
-dialogtxt       "so feel free to ask anything."
+dialogtxt       "I know a lot about smithing."
+dialogtxt       "Did you have any questions?"
 code0309        
 code047e        0, 0
 choicetxt       @Choice_14a4, "Teach me about crafting."
 choicetxt       @Choice_15b6, "Teach me about crafting ranks."
-choicetxt       @Choice_16dc, "Sorry, but not right now."
+choicetxt       @Choice_16dc, "Nope, I'm good."
 choicewait      
 
 @Choice_14a4:
 code047e        0, 1
-dialogtxt       "Then, I'll tell you about"
-dialogtxt       "Superior Weapons,"
-dialogtxt       "as a special service."
+dialogtxt       "Then, as a special service,"
+dialogtxt       "let me tell you all about"
+dialogtxt       "Superior Weapons."
 code0309        
-dialogtxt       "Sometimes you'll create weapons"
+dialogtxt       "Sometimes, you'll create weapons"
 dialogtxt       "that are better than usual."
-dialogtxt       "Those are Superior Weapons."
+dialogtxt       "Those are called \"Superior Weapons.\""
 code0309        
-dialogtxt       "Superior Weapons have higher"
-dialogtxt       "stats and swing faster with"
-dialogtxt       "more efficiency."
+dialogtxt       "Superior Weapons have better stats,"
+dialogtxt       "and they swing faster. They have"
+dialogtxt       "other powerful effects, too!"
 code0309        
 goto            @Label_1706
 
 @Choice_15b6:
 code047e        0, 1
-dialogtxt       "Alright, I'll teach you the"
-dialogtxt       "important points about"
-dialogtxt       "increasing your smithing rank."
+dialogtxt       "Alright, I'll give you some"
+dialogtxt       "pointers about increasing your"
+dialogtxt       "smithing rank."
 code0309        
-dialogtxt       "Crafting experience is important,"
-dialogtxt       "but you won't know if you'll"
-dialogtxt       "gain it until you make a weapon."
+dialogtxt       "Crafting experience is important, but"
+dialogtxt       "you won't know if how much you'll"
+dialogtxt       "gain until you actually make the weapon."
 code0309        
 dialogtxt       "If huge sparks start coming out,"
-dialogtxt       "it means you're gaining"
-dialogtxt       "experience."
+dialogtxt       "that means your rank is about to"
+dialogtxt       "increase!"
 code0309        
 goto            @Label_1706
 

@@ -10,7 +10,7 @@ goto            @Label_00b6
 goto            @Cond_005c
 
 @Cond_005c:
-menutitle       "Return to dungeon?"
+menutitle       "Return to the dungeon?"
 menutxt         @Menu_008a, "Return"
 menutxt         @Label_00b6, "Quit"
 menuwait        
@@ -23,4 +23,3 @@ code041d
 code040a        
 @Label_00b6:
 done            
-
