@@ -60,15 +60,15 @@ call            @Func_10ae
 code0479        0, 5, 17
 call            @Func_100c
 jumpz           @Cond_036e, ($b002 == 0)
-dialogtxt       "Well, about that..."
+dialogtxt       "Uh, about that..."
 dialogtxt       "I, uh..."
-dialogtxt       "About being your husband..."
+dialogtxt       "Being your husband is..."
 goto            @Label_03b0
 
 @Cond_036e:
 dialogtxt       "Well, about that..."
 dialogtxt       "I, uh..."
-dialogtxt       "About being a poster girl..."
+dialogtxt       "Being a poster girl is..."
 goto            @Label_03b0
 
 @Label_03b0:
@@ -78,7 +78,7 @@ code0479        1, 1, 12
 call            @Func_1078
 dialogtxt       "Jeez!"
 dialogtxt       "Stop getting so embarrassed!"
-dialogtxt       "You're actually happy, right!"
+dialogtxt       "You're happy about it, right?"
 code0309        
 call            @Func_10ae
 code0479        0, 2, 15
@@ -93,8 +93,7 @@ dialogtxt       "You recognized my skill."
 code0309        
 code0479        1, 0, 13
 code0479        0, 2, 17
-dialogtxt       "But marriage is"
-dialogtxt       "a different matter!"
+dialogtxt       "But marriage is a different matter!"
 goto            @Label_05f0
 
 @Cond_0522:
@@ -136,20 +135,20 @@ call            @Func_1042
 code0479        1, 0, 13
 call            @Func_1078
 dialogtxt       "First off, we go to the village"
-dialogtxt       "and beat the Strays together,"
-dialogtxt       "then help the villagers..."
+dialogtxt       "and beat the Strays together."
+dialogtxt       "Then we help the villagers..."
 code0309        
 code0479        0, 2, 14
 code0479        1, 1, 12
 jumpz           @Cond_0802, ($b002 == 0)
 dialogtxt       "Then they'll spread rumors!"
-dialogtxt       "About there's a brave couple"
-dialogtxt       "working at an amazing inn!"
+dialogtxt       "About the brave couple working"
+dialogtxt       "at an amazing inn!"
 goto            @Label_0858
 
 @Cond_0802:
 dialogtxt       "Then they'll spread rumors!"
-dialogtxt       "About a pair of cute girls"
+dialogtxt       "About the pair of cute girls"
 dialogtxt       "working at an amazing inn!"
 goto            @Label_0858
 
@@ -175,8 +174,8 @@ code0309
 call            @Func_10ae
 code0479        0, 4, 13
 call            @Func_100c
-dialogtxt       "W—Wow..."
-dialogtxt       "She's really thought this out..."
+dialogtxt       "W-Wow..."
+dialogtxt       "You've put a lot of thought into this."
 code0309        
 call            @Func_1042
 code0479        1, 1, 12
@@ -189,8 +188,7 @@ call            @Func_10ae
 code0479        0, 1, 16
 call            @Func_100c
 dialogtxt       "Ugh..."
-dialogtxt       "Tier might be crazier"
-dialogtxt       "than Master..."
+dialogtxt       "You might be even crazier than Master..."
 code0309        
 call            @Func_1148
 call            @Func_102a
@@ -409,4 +407,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-

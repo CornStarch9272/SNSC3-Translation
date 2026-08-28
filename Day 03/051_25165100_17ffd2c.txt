@@ -52,22 +52,22 @@ code0309
 call            @Func_10d0
 code0479        1, 1, 13
 call            @Func_1106
-dialogtxt       "What's the matter?"
-dialogtxt       "Running from your popularity?"
+dialogtxt       "What's the matter? Running from"
+dialogtxt       "your newfound popularity?"
 code0309        
 call            @Func_113c
 code0479        0, 2, 15
 call            @Func_109a
 jumpz           @Cond_0376, ($b002 == 0)
-dialogtxt       "What are you saying!"
-dialogtxt       "It's your fault I'm going"
-dialogtxt       "through all this trouble!"
+dialogtxt       "Excuse me?!"
+dialogtxt       "It's your fault I'm dealing with"
+dialogtxt       "all this in the first place!"
 goto            @Label_03ce
 
 @Cond_0376:
-dialogtxt       "What are you saying!"
-dialogtxt       "It's your fault I'm going"
-dialogtxt       "through all this trouble!"
+dialogtxt       "Excuse me?!"
+dialogtxt       "It's your fault I'm dealing with"
+dialogtxt       "all this in the first place!"
 goto            @Label_03ce
 
 @Label_03ce:
@@ -77,18 +77,18 @@ code0479        1, 2, 15
 call            @Func_1106
 dialogtxt       "Don't drag me into it!"
 dialogtxt       "A first-rate Craftknight should"
-dialogtxt       "be able to deal with this much!"
+dialogtxt       "be able to handle this easily!"
 code0309        
 call            @Func_113c
 code0479        0, 2, 15
 call            @Func_109a
 jumpz           @Cond_04a4, ($b002 == 0)
-dialogtxt       "W—What does being a Craftknight"
+dialogtxt       "W-What does being a Craftknight"
 dialogtxt       "have to do with this!?"
 goto            @Label_04ca
 
 @Cond_04a4:
-dialogtxt       "W—What does being a Craftknight"
+dialogtxt       "W-What does being a Craftknight"
 dialogtxt       "have to do with this!?"
 goto            @Label_04ca
 
@@ -115,7 +115,7 @@ call            @Func_113c
 jumpz           @Cond_064a, ($b002 == 0)
 code0479        0, 0, 14
 call            @Func_109a
-dialogtxt       "A—And? So what?"
+dialogtxt       "A-And? So what?"
 code0309        
 call            @Func_10d0
 goto            @Label_070a
@@ -153,27 +153,28 @@ code0309
 call            @Func_10d0
 code0479        1, 1, 13
 call            @Func_1106
-dialogtxt       "And finally, everyone realized."
-dialogtxt       "The fact that... I was the"
+dialogtxt       "Eventually, everyone got it."
+dialogtxt       "They realized... that I was the"
 dialogtxt       "only one he had eyes for."
 code0309        
 call            @Func_113c
 code0479        0, 0, 13
 call            @Func_109a
-dialogtxt       "How cool..."
-code0309        
+dialogtxt       "Whoa..."
+dialogtxt       "How cool."
+code0309		
 call            @Func_10d0
 code0479        1, 2, 13
 call            @Func_1106
-dialogtxt       "Such a man fell for me,"
-dialogtxt       "meaning I must be an"
+dialogtxt       "If a man like that could fall"
+dialogtxt       "for me, it must mean I'm an"
 dialogtxt       "expert Craftknight too, right?"
 code0309        
 call            @Func_113c
 code0479        0, 4, 12
 call            @Func_109a
 dialogtxt       "Hmmm..."
-dialogtxt       "Really...?"
+dialogtxt       "Really?"
 code0309        
 call            @Func_10d0
 call            @Func_1106
@@ -202,13 +203,13 @@ code0479        1, 0, 13
 call            @Func_1106
 jumpz           @Cond_0a08, ($b002 == 0)
 dialogtxt       "So keep up with your training,"
-dialogtxt       "and become so awesome even"
+dialogtxt       "and become so awesome that even"
 dialogtxt       "I would fall for you!"
 goto            @Label_0a56
 
 @Cond_0a08:
 dialogtxt       "So keep up with your training,"
-dialogtxt       "and become so awesome even"
+dialogtxt       "and become so awesome that even"
 dialogtxt       "I would fall for you!"
 goto            @Label_0a56
 
@@ -448,4 +449,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-

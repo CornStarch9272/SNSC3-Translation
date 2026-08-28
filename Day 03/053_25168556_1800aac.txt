@@ -46,13 +46,13 @@ code047d        1, 132
 call            @Func_1138
 call            @Func_10a0
 jumpz           @Cond_02b4, ($b002 == 0)
-dialogtxt       "You sound tired,"
-dialogtxt       "lady killer."
+dialogtxt       "You sound awfully tired,"
+dialogtxt       "Mr. Lady Killer."
 goto            @Label_02e6
 
 @Cond_02b4:
-dialogtxt       "You sound tired,"
-dialogtxt       "popular girl."
+dialogtxt       "You sound awfully tired,"
+dialogtxt       "Ms. Popular."
 goto            @Label_02e6
 
 @Label_02e6:
@@ -62,13 +62,13 @@ call            @Func_10f4
 code0479        0, 0, 16
 call            @Func_1052
 jumpz           @Cond_034c, ($b002 == 0)
-dialogtxt       "Now you're messing with me too?"
-dialogtxt       "I'm seriously worried over here."
+dialogtxt       "Now you're messing with me, too?"
+dialogtxt       "I'm getting seriously worried over here."
 goto            @Label_0380
 
 @Cond_034c:
-dialogtxt       "Now you're messing with me too?"
-dialogtxt       "I'm seriously worried over here."
+dialogtxt       "Now you're messing with me, too?"
+dialogtxt       "I'm getting seriously worried over here."
 goto            @Label_0380
 
 @Label_0380:
@@ -76,7 +76,7 @@ code047b
 code0309        
 call            @Func_1088
 call            @Func_10be
-dialogtxt       "Like I care."
+dialogtxt       "Like I care!"
 dialogtxt       "It's your fault for not"
 dialogtxt       "saying something earlier."
 code0309        
@@ -84,13 +84,11 @@ call            @Func_10f4
 code0479        0, 2, 15
 call            @Func_1052
 jumpz           @Cond_0424, ($b002 == 0)
-dialogtxt       "That's not it,"
-dialogtxt       "I was just..."
+dialogtxt       "I really tried to, though..."
 goto            @Label_0452
 
 @Cond_0424:
-dialogtxt       "That's not it,"
-dialogtxt       "I was just..."
+dialogtxt       "I really tried to, though..."
 goto            @Label_0452
 
 @Label_0452:
@@ -98,40 +96,39 @@ code0309
 call            @Func_1088
 code0479        1, 2, 16
 call            @Func_10be
-dialogtxt       "Then..."
 dialogtxt       "Between Murno and Tier,"
-dialogtxt       "which would you choose?"
-code0309        
+dialogtxt       "who would you go for?"
+code0309		
 call            @Func_10f4
 code0479        0, 11, 15
 call            @Func_1052
-dialogtxt       "Choose?"
+dialogtxt       "\"Who would I go for?\""
 dialogtxt       "What kind of question is that!?"
 code0309        
 call            @Func_1088
 code0479        1, 5, 12
 call            @Func_10be
-dialogtxt       "Then neither?"
+dialogtxt       "Neither, then?"
 dialogtxt       "Is there someone else you like?"
 code0309        
 call            @Func_10f4
 code0479        0, 7, 15
 call            @Func_1052
-dialogtxt       "Th—That's not what I was"
+dialogtxt       "Th-That's not what I was"
 dialogtxt       "worrying about!"
 code0309        
 code0479        0, 4, 12
 code0479        1, 0, 12
 jumpz           @Cond_0602, ($b002 == 0)
-dialogtxt       "First Tier mentioned me being"
-dialogtxt       "the inn's Craftknight,"
+dialogtxt       "First Tier was talking about me"
+dialogtxt       "becoming the inn's Craftknight,"
 dialogtxt       "then her husband..."
 goto            @Label_065c
 
 @Cond_0602:
-dialogtxt       "First Tier mentioned me being"
-dialogtxt       "the inn's Craftknight,"
-dialogtxt       "then a poster girl..."
+dialogtxt       "First Tier was talking about me"
+dialogtxt       "becoming the inn's Craftknight,"
+dialogtxt       "then its poster girl..."
 goto            @Label_065c
 
 @Label_065c:
@@ -140,8 +137,8 @@ call            @Func_1088
 code0479        1, 2, 12
 call            @Func_10be
 dialogtxt       "In this world, everyone wants"
-dialogtxt       "things to go the way they want."
-dialogtxt       "If you want to get your way..."
+dialogtxt       "everything to go their way."
+dialogtxt       "If you want to get your own way..."
 code0309        
 code0479        1, 2, 13
 dialogtxt       "You have to do just that,"
@@ -151,21 +148,21 @@ call            @Func_10f4
 code0479        0, 4, 12
 call            @Func_1052
 dialogtxt       "Uh..."
-dialogtxt       "I'll try..."
+dialogtxt       "I'll do my best..."
 code0309        
 call            @Func_1088
 code0479        0, 0, 16
 code0479        1, 0, 13
 call            @Func_10be
 dialogtxt       "I'm kind of jealous, actually."
-dialogtxt       "Must feel nice to be"
-dialogtxt       "so loved by other girls."
+dialogtxt       "Must feel nice to have women"
+dialogtxt       "fawning over you."
 code0309        
 code0479        1, 4, 16
-dialogtxt       "The only people who gather"
-dialogtxt       "around me are men..."
-dialogtxt       "That sucks..."
-code0309        
+dialogtxt       "The people who flock to"
+dialogtxt       "me are all men..."
+dialogtxt       "It sucks."
+code0309		
 call            @Func_10f4
 jumpz           @Cond_08c8, ($b002 == 0)
 code0479        0, 2, 15
@@ -179,7 +176,7 @@ goto            @Label_0926
 code0479        0, 8, 15
 call            @Func_1052
 dialogtxt       "Meanie!"
-dialogtxt       "I'm a girl, you know!"
+dialogtxt       "I'm a girl too, you know!"
 dialogtxt       "You're the worst..."
 goto            @Label_0926
 
@@ -188,9 +185,9 @@ code0309
 call            @Func_1088
 code0479        1, 5, 15
 call            @Func_10be
-dialogtxt       "H—Hey..."
+dialogtxt       "H-Hey..."
 dialogtxt       "That's not what"
-dialogtxt       "I was trying to say..."
+dialogtxt       "I was trying to say!"
 code0309        
 call            @Func_10f4
 code0479        0, 1, 13
@@ -214,7 +211,7 @@ code0479        1, 4, 13
 call            @Func_10be
 dialogtxt       "Tch!"
 dialogtxt       "You're becoming more and"
-dialogtxt       "more like V.E by the day."
+dialogtxt       "more like V.E every day."
 code0309        
 call            @Func_118e
 call            @Func_10dc
@@ -433,4 +430,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-
