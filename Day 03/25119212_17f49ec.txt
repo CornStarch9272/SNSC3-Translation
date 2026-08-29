@@ -6,9 +6,8 @@ code0479        1, 0, 12
 code047d        1, 109
 call            @Func_1012
 call            @Func_0f7a
-dialogtxt       "So?"
-dialogtxt       "You'd love to have me"
-dialogtxt       "guide you around, right?"
+dialogtxt       "So? You'd love to have me"
+dialogtxt       "as a guide, right?"
 code047b        
 code0309        
 call            @Func_0fce
@@ -85,8 +84,8 @@ dialogtxt       "Thank you!"
 code047b        
 code0309        
 code0479        1, 7, 12
-dialogtxt       "Already the second one today..."
-dialogtxt       "Today's a good day~"
+dialogtxt       "That's the second one today!"
+dialogtxt       "What a good day~!"
 code0309        
 call            @Func_0fce
 code0479        0, 0, 16
@@ -96,8 +95,8 @@ code0309
 call            @Func_0f62
 code0479        1, 1, 16
 call            @Func_0f98
-dialogtxt       "Oh don't mind me~"
-dialogtxt       "Just talking to myself~"
+dialogtxt       "Oh no, don't mind me!"
+dialogtxt       "Just talking to myself~!"
 code0309        
 call            @Func_103c
 call            @Func_0fce
@@ -113,9 +112,9 @@ code0309
 call            @Func_0f62
 code0479        1, 0, 12
 call            @Func_0f98
-dialogtxt       "Alright then, follow me."
-dialogtxt       "Please be careful, as there"
-dialogtxt       "are many Strays around too~."
+dialogtxt       "Alright then, please follow me."
+dialogtxt       "There are a lot of Strays around"
+dialogtxt       "here, so please be careful~!"
 code0309        
 call            @Func_1068
 call            @Func_0fb6
@@ -155,7 +154,7 @@ setvar          $f0135, 1
 call            @Func_0fce
 code0479        0, 0, 16
 call            @Func_0f2c
-dialogtxt       "Huh..."
+dialogtxt       "Err..."
 dialogtxt       "You don't have enough boam..."
 code0309        
 call            @Func_0f62
@@ -167,13 +166,14 @@ code0309
 call            @Func_0fce
 code0479        0, 5, 14
 call            @Func_0f2c
-dialogtxt       "No no, we're not..."
+dialogtxt       "No no, that wasn't our intent!"
 code0309        
 call            @Func_0f62
 code0479        1, 0, 12
 call            @Func_0f98
 dialogtxt       "Well, I'll be waiting here"
-dialogtxt       "when you do have the money."
+dialogtxt       "whenever you get the money"
+dialogtxt       "together."
 code0309        
 call            @Func_1068
 call            @Func_0fb6
@@ -191,7 +191,7 @@ call            @Func_0f62
 code0479        1, 2, 17
 call            @Func_0f98
 dialogtxt       "Really!?"
-dialogtxt       "You'd better reconsider!"
+dialogtxt       "Well, that's what you say now!"
 code0309        
 code0479        1, 0, 12
 dialogtxt       "Let me know when"
@@ -414,4 +414,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-
