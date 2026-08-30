@@ -62,7 +62,7 @@ goto            @start
 
 @Event_0296:
 code0301        8, 7
-dialogtxt       "Please watch your step when you"
+dialogtxt       "Please watch your step as you"
 dialogtxt       "board the Summon Beast railway!"
 code0309        
 code0302        7
