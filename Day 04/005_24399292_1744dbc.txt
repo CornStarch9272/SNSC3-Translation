@@ -256,7 +256,7 @@ ret
 code0301        8, 7
 code047d        0, 122
 code047e        0, 1
-dialogtxt       "This place is nice and quiet..."
+dialogtxt       "This place is nice and quiet."
 code0309        
 code047e        0, 0
 code0302        7
@@ -266,4 +266,3 @@ code040b
 setvar          $bv031, 2
 code0006        3917
 code040b        
-
