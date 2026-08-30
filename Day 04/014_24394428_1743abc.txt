@@ -251,9 +251,8 @@ code0301        8, 7
 code047d        0, 120
 code047e        0, 1
 dialogtxt       "Bostaph's Workshop is the only"
-dialogtxt       "smithy this town needs."
+dialogtxt       "smithy this town needs!"
 code0309        
 code047e        0, 0
 code0302        7
 code040b        
-
