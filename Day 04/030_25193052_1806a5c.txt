@@ -56,7 +56,7 @@ goto            @Cond_01e6
 
 @Cond_01e6:
 jumpz           @Cond_0206, ($b003 == 1)
-dialogtxt       "Hmmm..."
+dialogtxt       "Mmm..."
 goto            @Cond_0206
 
 @Cond_0206:
@@ -66,7 +66,7 @@ goto            @Cond_0222
 
 @Cond_0222:
 jumpz           @Cond_0246, ($b003 == 3)
-dialogtxt       "S—Scary..."
+dialogtxt       "S-Scary..."
 goto            @Cond_0246
 
 @Cond_0246:
@@ -81,8 +81,8 @@ code0479        1, 1, 12
 code047d        1, 132
 call            @Func_0b06
 call            @Func_0aa2
-dialogtxt       "Master's glad to meet you."
-dialogtxt       "That's great."
+dialogtxt       "Master's pleased to meet you!"
+dialogtxt       "How wonderful."
 code047b        
 code0309        
 call            @Func_0b46
@@ -99,8 +99,8 @@ code0309
 call            @Func_0a6c
 code0479        1, 0, 13
 call            @Func_0aa2
-dialogtxt       "Take it easy for now."
 dialogtxt       "I've got stuff to take care of."
+dialogtxt       "You two take it easy."
 dialogtxt       "I'll be back later."
 code0309        
 call            @Func_0ad8
@@ -348,4 +348,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-

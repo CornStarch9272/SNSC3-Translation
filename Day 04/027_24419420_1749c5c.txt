@@ -323,7 +323,7 @@ code0301        8, 7
 code047d        0, 127
 code047e        0, 1
 dialogtxt       "Lately there've been so many"
-dialogtxt       "Strays even we can't keep up."
+dialogtxt       "Strays that even we can't keep up."
 code0309        
 code047e        0, 0
 code0302        7
@@ -336,8 +336,8 @@ code047e        0, 1
 dialogtxt       "There's just too many Strays"
 dialogtxt       "for us to deal with."
 code0309        
-dialogtxt       "You'll think you've defeated them,"
-dialogtxt       "but go back and they'll be there."
+dialogtxt       "You think you've defeated them all, but"
+dialogtxt       "as soon as you come back, there's more."
 code0309        
 code047e        0, 0
 code0302        7
@@ -347,4 +347,3 @@ code040b
 code0445        18, 7
 code0446        18
 code040b        
-

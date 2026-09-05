@@ -23,8 +23,8 @@ code0479        0, 0, 12
 code047d        0, 109
 call            @Func_2594
 call            @Func_2490
-dialogtxt       "It really feels like we're about"
-dialogtxt       "to meet someone important."
+dialogtxt       "We're really about to meet the"
+dialogtxt       "big-wig, huh?"
 code047b        
 code0309        
 call            @Func_25be
@@ -42,7 +42,7 @@ call            @Func_24e4
 code0479        1, 0, 13
 call            @Func_251a
 dialogtxt       "Well, it's my request."
-dialogtxt       "They'll have to listen."
+dialogtxt       "They have to listen!"
 dialogtxt       "Because..."
 code0309        
 call            @Func_25be
@@ -59,8 +59,7 @@ code0309
 call            @Func_24e4
 code0479        1, 2, 15
 call            @Func_251a
-dialogtxt       "No, it's because of my good"
-dialogtxt       "behavior!"
+dialogtxt       "No, it's because of my good behavior!"
 dialogtxt       "And who are you calling scary!?"
 code0309        
 call            @Func_25be
@@ -72,9 +71,9 @@ code0479        0, 3, 12
 code047d        0, 109
 call            @Func_2568
 call            @Func_24ae
-dialogtxt       "Fufufu..."
+dialogtxt       "Heh heh heh..."
 dialogtxt       "With this, maybe we'll be"
-dialogtxt       "able to get our dues..."
+dialogtxt       "able to get our due."
 code047b        
 code0309        
 call            @Func_24e4
@@ -117,8 +116,8 @@ code047d        1, 130
 call            @Func_257e
 call            @Func_24fc
 dialogtxt       "Hello, I am Ianna Mortier."
-dialogtxt       "You wish to meet"
-dialogtxt       "Lord Velvoren, is that right?"
+dialogtxt       "You wish to meet Lord Velvoren,"
+dialogtxt       "is that right?"
 code047b        
 code0309        
 call            @Func_2550
@@ -127,9 +126,8 @@ code0479        0, 5, 12
 code047d        0, 109
 call            @Func_2568
 call            @Func_24ae
-dialogtxt       "Ah!"
-dialogtxt       "Yes, yes!"
-dialogtxt       "Um, about that!"
+dialogtxt       "Ah! Yes, yes!"
+dialogtxt       "Um, about that...!"
 code047b        
 code0309        
 call            @Func_25ea
@@ -156,7 +154,7 @@ code0479        1, 0, 17
 code047d        1, 112
 call            @Func_257e
 call            @Func_24fc
-dialogtxt       "Y—You're!"
+dialogtxt       "Y-You're!"
 code047b        
 code0309        
 call            @Func_2550
@@ -177,7 +175,7 @@ call            @Func_24e4
 code0479        1, 2, 16
 call            @Func_251a
 dialogtxt       "If I recall, you're from"
-dialogtxt       "Mishus Village..."
+dialogtxt       "Mishus Village, aren't you?"
 dialogtxt       "Why are you here?"
 code0309        
 call            @Func_25ea
@@ -233,8 +231,7 @@ call            @Func_24e4
 code0479        1, 4, 15
 call            @Func_257e
 call            @Func_251a
-dialogtxt       "Eh...?"
-dialogtxt       "Ehhh!?"
+dialogtxt       "Huh?!"
 code047b        
 code0309        
 call            @Func_25d4
@@ -299,13 +296,13 @@ code047d        1, 112
 call            @Func_2594
 call            @Func_2490
 jumpz           @Cond_0c98, ($b002 == 0)
-dialogtxt       "Why...?"
-dialogtxt       "What did you do!?"
+dialogtxt       "Why..."
+dialogtxt       "What did you do to her?!"
 goto            @Label_0cc4
 
 @Cond_0c98:
-dialogtxt       "Why...?"
-dialogtxt       "What did you do!?"
+dialogtxt       "Why..."
+dialogtxt       "What did you do to her?!"
 goto            @Label_0cc4
 
 @Label_0cc4:
@@ -314,8 +311,8 @@ code0309
 call            @Func_24e4
 code0479        1, 5, 17
 call            @Func_251a
-dialogtxt       "Wha—!?"
-dialogtxt       "I didn't..."
+dialogtxt       "What!?"
+dialogtxt       "I didn't do anything...!"
 code0309        
 call            @Func_25d4
 call            @Func_2550
@@ -327,7 +324,7 @@ call            @Func_257e
 call            @Func_251a
 dialogtxt       "Stop, [NAME 2]."
 dialogtxt       "That's..."
-dialogtxt       "That's not it..."
+dialogtxt       "That's not it!"
 code047b        
 code0309        
 call            @Func_2550
@@ -375,7 +372,7 @@ code0479        0, 5, 17
 code047d        0, 109
 call            @Func_2594
 call            @Func_2490
-dialogtxt       "Y—Yeah!"
+dialogtxt       "Y-Yeah!"
 dialogtxt       "Um... the Stray!"
 code047b        
 code0309        
@@ -389,14 +386,13 @@ call            @Func_2568
 call            @Func_24ae
 dialogtxt       "But..."
 dialogtxt       "It's about my village..."
-dialogtxt       "Can we...?"
+dialogtxt       "Can we talk in private?"
 code047b        
 code0309        
 call            @Func_24e4
 code0479        1, 0, 12
 call            @Func_251a
-dialogtxt       "Ah, I see."
-dialogtxt       "T—Then..."
+dialogtxt       "R-Right, of course."
 dialogtxt       "Let's go to my office."
 code0309        
 call            @Func_25be
@@ -407,7 +403,7 @@ code0479        0, 5, 17
 code047d        0, 130
 call            @Func_2568
 call            @Func_24ae
-dialogtxt       "Wait, Lord Velvoren..."
+dialogtxt       "Wait, Lord Velvoren...!"
 code0309        
 call            @Func_25ea
 call            @Func_24cc
@@ -436,22 +432,22 @@ code047d        0, 2
 call            @Func_2568
 call            @Func_2490
 jumpz           @Cond_1192, ($b003 == 0)
-dialogtxt       "Lady Murno, I Will Also..."
+dialogtxt       "Lady Murno, I Will Follow You."
 goto            @Cond_1192
 
 @Cond_1192:
 jumpz           @Cond_11c0, ($b003 == 1)
-dialogtxt       "Murno, I will also..."
+dialogtxt       "Murno, I will accompany you."
 goto            @Cond_11c0
 
 @Cond_11c0:
 jumpz           @Cond_11e4, ($b003 == 2)
-dialogtxt       "Hey, let me..."
+dialogtxt       "Hey, let me come with."
 goto            @Cond_11e4
 
 @Cond_11e4:
 jumpz           @Cond_120e, ($b003 == 3)
-dialogtxt       "Lady Murno, I will also..."
+dialogtxt       "Lady Murno, I will also join you."
 goto            @Cond_120e
 
 @Cond_120e:
@@ -464,8 +460,8 @@ code0479        1, 2, 14
 code047d        1, 107
 call            @Func_257e
 call            @Func_251a
-dialogtxt       "I'm sorry, [NAME 1]."
-dialogtxt       "I can handle it myself."
+dialogtxt       "That's alright, [NAME 1]."
+dialogtxt       "I can handle it myself!"
 dialogtxt       "Stay here with [NAME 2]."
 code047b        
 code0309        
@@ -479,12 +475,12 @@ call            @Func_2568
 call            @Func_24ae
 jumpz           @Cond_1328, ($b002 == 0)
 dialogtxt       "That means..."
-dialogtxt       "I can't come either...?"
+dialogtxt       "I can't come either?"
 goto            @Label_135c
 
 @Cond_1328:
 dialogtxt       "Umm..."
-dialogtxt       "So I can't come either?"
+dialogtxt       "So, I can't come either?"
 goto            @Label_135c
 
 @Label_135c:
@@ -518,7 +514,7 @@ call            @Func_2568
 call            @Func_24ae
 jumpz           @Cond_144e, ($b003 == 0)
 dialogtxt       "Understood."
-dialogtxt       "I Shall Stay Behind."
+dialogtxt       "I Will Stay Behind."
 goto            @Cond_144e
 
 @Cond_144e:
@@ -580,7 +576,7 @@ code0479        0, 2, 15
 code047d        0, 130
 call            @Func_2568
 call            @Func_2490
-dialogtxt       "Wait a moment, I..."
+dialogtxt       "Wait a moment, I—"
 code047b        
 code0309        
 call            @Func_25be
@@ -592,8 +588,7 @@ code0479        0, 5, 17
 code047d        0, 109
 call            @Func_2568
 call            @Func_2490
-dialogtxt       "Ahh!"
-dialogtxt       "Miss Ianna, right?"
+dialogtxt       "Ahh! Miss Ianna, right?"
 dialogtxt       "We need to talk!"
 code047b        
 code0309        
@@ -617,38 +612,38 @@ code0479        1, 5, 15
 code047d        1, 130
 call            @Func_2594
 call            @Func_24fc
-dialogtxt       "Hey,"
-dialogtxt       "what are you doing?"
+dialogtxt       "Hey, what are you doing?"
 code047b        
 code0309        
 call            @Func_2550
 code0479        0, 2, 15
 call            @Func_24ae
 dialogtxt       "Well, you see,"
-dialogtxt       "I beat a Stray Summon"
-dialogtxt       "and protected the town, so..."
+dialogtxt       "I defeated a Stray"
+dialogtxt       "and protected the town!"
 code0309        
 call            @Func_24e4
 code0479        1, 2, 16
 call            @Func_251a
-dialogtxt       "So?"
+dialogtxt       "... So?"
 code0309        
 call            @Func_2550
 code0479        0, 2, 12
 call            @Func_24ae
-dialogtxt       "Um... so... could I..."
-dialogtxt       "get my reward... or something...?"
+dialogtxt       "Um... so... could I... get "
+dialogtxt       "a reward? Or something"
+dialogtxt       "like that?"
 code0309        
 call            @Func_24e4
 code0479        1, 4, 12
 call            @Func_251a
 dialogtxt       "Hmmm..."
-dialogtxt       "So you seek compensation,"
-dialogtxt       "is that it?"
+dialogtxt       "So, you were hoping for"
+dialogtxt       "compensation, then?"
 code0309        
 code0479        1, 1, 13
 dialogtxt       "Ohohohoho..."
-dialogtxt       "What a lovely topic."
+dialogtxt       "What a lovely story."
 code0309        
 call            @Func_2550
 code0479        0, 0, 16
@@ -670,8 +665,7 @@ code0309
 call            @Func_2550
 code0479        0, 5, 17
 call            @Func_24ae
-dialogtxt       "Um..."
-dialogtxt       "What?"
+dialogtxt       "Um... What?!"
 dialogtxt       "Wait!"
 code0309        
 call            @Func_25ea
@@ -703,7 +697,8 @@ code0479        1, 0, 12
 code047d        1, 132
 call            @Func_257e
 call            @Func_24fc
-dialogtxt       "They'll be gone for a while."
+dialogtxt       "Welp. Those two are gonna"
+dialogtxt       "be gone for a while."
 code047b        
 code0309        
 call            @Func_2550
@@ -714,13 +709,13 @@ code047d        0, 0
 call            @Func_2568
 call            @Func_24ae
 jumpz           @Cond_1d40, ($b002 == 0)
-dialogtxt       "Hmm..."
-dialogtxt       "So what do we do?"
+dialogtxt       "Right..."
+dialogtxt       "So, what do we do now?"
 goto            @Label_1d62
 
 @Cond_1d40:
-dialogtxt       "Hmm..."
-dialogtxt       "So what do we do?"
+dialogtxt       "Right..."
+dialogtxt       "So, what do we do now?"
 goto            @Label_1d62
 
 @Label_1d62:
@@ -731,25 +726,25 @@ code0334
 code046e        31, 256, 1
 code0479        1, 0, 13
 call            @Func_251a
-dialogtxt       "Nothing we can do here."
-dialogtxt       "Come visit our workshop."
-dialogtxt       "Master Benson will be happy."
+dialogtxt       "Nothing to do here. Why don't you come"
+dialogtxt       "visit our workshop? I'm sure Master"
+dialogtxt       "Benson would be delighted to meet you."
 code0309        
 call            @Func_2550
 code0479        0, 0, 16
 call            @Func_24ae
-dialogtxt       "Y—You think so?"
+dialogtxt       "Y-You think so?"
 code0309        
 call            @Func_24e4
 code0479        1, 1, 12
 call            @Func_251a
-dialogtxt       "Of course."
-dialogtxt       "Our master loves energetic"
-dialogtxt       "Craftknights."
+dialogtxt       "Of course!"
+dialogtxt       "Our master loves to see"
+dialogtxt       "a lively Craftknight."
 code0309        
 code0479        1, 0, 13
-dialogtxt       "And don't worry about the others."
-dialogtxt       "I'll ask someone to let them"
+dialogtxt       "Don't worry about those two."
+dialogtxt       "I'll have someone let them"
 dialogtxt       "know where we've gone."
 code0309        
 call            @Func_25ea
@@ -972,4 +967,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-

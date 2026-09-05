@@ -195,7 +195,7 @@ dialogtxt       "I have to follow bro!"
 goto            @Label_09cc
 
 @Cond_09aa:
-dialogtxt       "I have to go after bro!"
+dialogtxt       "I have to follow bro!"
 goto            @Label_09cc
 
 @Label_09cc:
@@ -223,13 +223,13 @@ code047e        0, 1
 jumpz           @Cond_0ac6, ($b002 == 0)
 dialogtxt       "This is Bostaph"
 dialogtxt       "Workshop's headquarters..."
-dialogtxt       "It'd be best not to intrude."
+dialogtxt       "I'd better not intrude."
 goto            @Label_0b08
 
 @Cond_0ac6:
 dialogtxt       "This is Bostaph"
 dialogtxt       "Workshop's headquarters..."
-dialogtxt       "It'd be best not to intrude."
+dialogtxt       "I'd better not intrude."
 goto            @Label_0b08
 
 @Label_0b08:
@@ -574,12 +574,11 @@ ret
 code0301        8, 7
 code047d        0, 120
 code047e        0, 1
-dialogtxt       "To the east of Prosban"
-dialogtxt       "is Lute Cave."
+dialogtxt       "To the east of Prosban is Lute Cave."
 code0309        
-dialogtxt       "There's a lot of valuable"
-dialogtxt       "ore to be mined there."
-dialogtxt       "But watch out for Strays."
+dialogtxt       "There's a lot of valuable ore to be"
+dialogtxt       "mined in there. But there are lots"
+dialogtxt       "of dangerous Strays, too!"
 code0309        
 code047e        0, 0
 code0302        7
@@ -587,9 +586,9 @@ code040b
 
 @Event_18b4:
 code0301        8, 7
-dialogtxt       "A weapon upgrading tip"
-dialogtxt       "will be posted here tomorrow."
-dialogtxt       "Please watch out for it."
+dialogtxt       "Tomorrow, we'll be posting a tip here"
+dialogtxt       "on how to upgrade your weapons."
+dialogtxt       "If you're interested, please come look!"
 code0309        
 code0302        7
 code040b        
@@ -611,4 +610,3 @@ walkto          30, -8, -8, 67
 code0461        30
 code0461        31
 code040b        
-

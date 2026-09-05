@@ -15,7 +15,7 @@ code047d        1, 0
 call            @Func_0f70
 call            @Func_0f70
 call            @Func_0eee
-dialogtxt       "So this is the Gold Faction."
+dialogtxt       "So this is the Gold Faction?"
 code047b        
 code0309        
 call            @Func_0fc6
@@ -33,9 +33,8 @@ code040d        60
 code047d        0, 132
 code0301        8, 4
 code047e        0, 1
-dialogtxt       "That's right."
-dialogtxt       "This is where the Summoners"
-dialogtxt       "who manage Prosban gather..."
+dialogtxt       "That's right. The Summoners"
+dialogtxt       "who run Prosban meet in there."
 code0309        
 code047e        0, 0
 code0302        4
@@ -56,7 +55,7 @@ code047d        1, 132
 call            @Func_0f70
 call            @Func_0eee
 dialogtxt       "Now that we're all here,"
-dialogtxt       "let's head inside."
+dialogtxt       "let's go in."
 code047b        
 code0309        
 call            @Func_0f42
@@ -72,7 +71,7 @@ code0479        1, 0, 16
 call            @Func_0f0c
 dialogtxt       "I don't think Ms. Ianna"
 dialogtxt       "will give you a single boam,"
-dialogtxt       "but feel free to try."
+dialogtxt       "but you're free to try."
 code0309        
 call            @Func_0fdc
 call            @Func_0f2a
@@ -90,7 +89,7 @@ code0479        0, 4, 14
 code047d        0, 107
 call            @Func_0f86
 call            @Func_0e82
-dialogtxt       "Fuu..."
+dialogtxt       "Whew..."
 code047b        
 code0309        
 call            @Func_0ed6
@@ -108,13 +107,13 @@ code047d        0, 2
 code0479        1, 2, 14
 call            @Func_0f5a
 jumpz           @Cond_0534, ($b002 == 0)
-dialogtxt       "Hey, [NAME 1],"
-dialogtxt       "what kind of person is Velvoren?"
+dialogtxt       "Hey, [NAME 1]."
+dialogtxt       "What kind of person is Velvoren?"
 goto            @Label_0568
 
 @Cond_0534:
-dialogtxt       "Hey, [NAME 1],"
-dialogtxt       "what kind of person is Velvoren?"
+dialogtxt       "Hey, [NAME 1]."
+dialogtxt       "What kind of person is Velvoren?"
 goto            @Label_0568
 
 @Label_0568:
@@ -142,14 +141,13 @@ goto            @Label_0600
 @Label_0600:
 call            @Func_0ea0
 jumpz           @Cond_06ba, ($b003 == 0)
-dialogtxt       "I Do Not Have Any Records Of"
-dialogtxt       "A Person By That Name."
+dialogtxt       "Error: No Record Found For"
+dialogtxt       "Person Named \"Vel※oren.\""
 code0309        
 call            @Func_0ed6
 code0479        1, 2, 16
 call            @Func_0f0c
-dialogtxt       "Umm,"
-dialogtxt       "meaning?"
+dialogtxt       "Uhh... come again?"
 code0309        
 call            @Func_0f42
 code0479        0, 0, 12
@@ -165,7 +163,7 @@ goto            @Cond_0702
 
 @Cond_0702:
 jumpz           @Cond_0774, ($b003 == 2)
-dialogtxt       "No idea."
+dialogtxt       "No clue."
 code0309        
 call            @Func_0ed6
 code0479        1, 2, 16
@@ -181,7 +179,7 @@ goto            @Cond_0774
 @Cond_0774:
 jumpz           @Cond_085a, ($b003 == 3)
 dialogtxt       "I don't know either."
-dialogtxt       "I have never met him."
+dialogtxt       "I've never met him."
 code0309        
 call            @Func_0ed6
 code0479        1, 0, 16
@@ -206,7 +204,7 @@ code0479        0, 0, 12
 code047d        0, 132
 call            @Func_0f5a
 call            @Func_0e82
-dialogtxt       "Come, this way."
+dialogtxt       "Come on, let's go."
 code047b        
 code0309        
 call            @Func_0fb0
@@ -433,4 +431,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-

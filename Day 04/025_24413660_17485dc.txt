@@ -117,7 +117,7 @@ dialogtxt       "Nothing to do here..."
 goto            @Label_05e2
 
 @Cond_05bc:
-dialogtxt       "I shouldn't wander off..."
+dialogtxt       "I shouldn't wander off."
 goto            @Label_05e2
 
 @Label_05e2:
@@ -382,8 +382,7 @@ code040b
 
 @Event_1020:
 code0301        8, 7
-dialogtxt       "Bows require patience and"
-dialogtxt       "composure!"
+dialogtxt       "Bows require patience and composure!"
 dialogtxt       "Here are some tips!"
 code0309        
 code0302        7
@@ -393,8 +392,7 @@ code040b
 code0301        8, 7
 dialogtxt       "Look down ↓"
 code0309        
-dialogtxt       "... And you actually did it."
+dialogtxt       "... You actually did it, huh?"
 code0309        
 code0302        7
 code040b        
-

@@ -36,20 +36,20 @@ code047d        1, 108
 call            @Func_1136
 call            @Func_109e
 dialogtxt       "See? Go through here,"
-dialogtxt       "and you'll be at Prosban."
+dialogtxt       "and we'll be at Prosban."
 code047b        
 code0309        
 call            @Func_10f2
 code0479        0, 4, 12
 call            @Func_1050
 jumpz           @Cond_02e2, ($b002 == 0)
+dialogtxt       "We're finally here?"
 dialogtxt       "Phew..."
-dialogtxt       "We're finally here..."
 goto            @Label_0302
 
 @Cond_02e2:
+dialogtxt       "We're finally here?"
 dialogtxt       "Phew..."
-dialogtxt       "We're finally here..."
 goto            @Label_0302
 
 @Label_0302:
@@ -62,7 +62,7 @@ code0479        1, 0, 14
 code047d        1, 109
 call            @Func_1120
 call            @Func_10bc
-dialogtxt       "You're already tired?"
+dialogtxt       "You're tired already?"
 dialogtxt       "You're a mess."
 code047b        
 code0309        
@@ -70,11 +70,11 @@ call            @Func_10f2
 code0479        0, 2, 14
 call            @Func_1050
 jumpz           @Cond_03de, ($b002 == 0)
-dialogtxt       "I wonder WHO's fault that is"
+dialogtxt       "Gee, I wonder whose fault that is!?"
 goto            @Label_040c
 
 @Cond_03de:
-dialogtxt       "I wonder WHO's fault that is?"
+dialogtxt       "Gee, I wonder whose fault that is!?"
 goto            @Label_040c
 
 @Label_040c:
@@ -201,7 +201,7 @@ goto            @Cond_09bc
 
 @Cond_09bc:
 jumpz           @Cond_09e8, ($b003 == 2)
-dialogtxt       "... Tsk!"
+dialogtxt       "... Tch!"
 dialogtxt       "I let my guard down!"
 goto            @Cond_09e8
 
@@ -451,4 +451,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-

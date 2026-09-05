@@ -7,7 +7,7 @@ code047d        0, 131
 code0301        8, 4
 code047e        0, 1
 dialogtxt       "Ah, [NAME 2]!"
-dialogtxt       "Ow!?"
+dialogtxt       "Ow!!"
 code0309        
 call            @Func_0ef2
 code048d        1, 0
@@ -63,20 +63,20 @@ code0309
 call            @Func_0f0a
 code0479        1, 1, 16
 call            @Func_0f40
-dialogtxt       "Is that so?"
+dialogtxt       "You don't say?"
 code0309        
 code0479        1, 0, 12
 code0479        0, 0, 14
 jumpz           @Cond_038a, ($b002 == 0)
-dialogtxt       "Oh, that's right, my master is"
-dialogtxt       "heading over to your place."
-dialogtxt       "Take care of her, will you?"
+dialogtxt       "Now that you mention it, my master"
+dialogtxt       "is heading over to your workshop."
+dialogtxt       "Take good care of her, alright?"
 goto            @Label_03d6
 
 @Cond_038a:
-dialogtxt       "Oh, that's right, my master is"
-dialogtxt       "heading over to your place."
-dialogtxt       "Take care of her, will you?"
+dialogtxt       "Now that you mention it, my master"
+dialogtxt       "is heading over to your workshop."
+dialogtxt       "Take good care of her, alright?"
 goto            @Label_03d6
 
 @Label_03d6:
@@ -84,21 +84,20 @@ code0309
 call            @Func_0f76
 code0479        0, 5, 17
 call            @Func_0ed4
-dialogtxt       "Huh!?"
-dialogtxt       "Your master?"
-dialogtxt       "Why!?"
+dialogtxt       "Huh!? Your master is coming over?"
+dialogtxt       "Why?"
 code0309        
 call            @Func_0f0a
 code0479        1, 0, 16
 call            @Func_0f40
 jumpz           @Cond_047c, ($b002 == 0)
-dialogtxt       "Well, stuff."
-dialogtxt       "She wants to have a meeting..."
+dialogtxt       "Well, y'know, a bunch of reasons."
+dialogtxt       "She wants to have a meeting."
 goto            @Label_04a8
 
 @Cond_047c:
-dialogtxt       "Well, stuff."
-dialogtxt       "She wants to have a meeting..."
+dialogtxt       "Well, y'know, a bunch of reasons."
+dialogtxt       "She wants to have a meeting."
 goto            @Label_04a8
 
 @Label_04a8:
@@ -136,7 +135,7 @@ goto            @Cond_05ae
 
 @Cond_05ae:
 jumpz           @Cond_05ec, ($b003 == 1)
-dialogtxt       "Hey,"
+dialogtxt       "Hey."
 dialogtxt       "Murno and the others have left."
 goto            @Cond_05ec
 
@@ -167,14 +166,12 @@ code047d        0, 131
 call            @Func_0fba
 call            @Func_0f22
 jumpz           @Cond_0754, ($b002 == 0)
-dialogtxt       "Ah, that's right."
-dialogtxt       "We're kinda busy."
+dialogtxt       "Ah, right. We're kinda busy today."
 dialogtxt       "No time for idle conversation."
 goto            @Label_07a8
 
 @Cond_0754:
-dialogtxt       "Ah, that's right."
-dialogtxt       "We're kinda busy."
+dialogtxt       "Ah, right. We're kinda busy today."
 dialogtxt       "No time for idle conversation."
 goto            @Label_07a8
 
@@ -207,7 +204,7 @@ code047d        0, 0
 call            @Func_0f8e
 call            @Func_0f8e
 call            @Func_0eb6
-dialogtxt       "Then, shall we go?"
+dialogtxt       "Alright, let's go."
 code047b        
 code0309        
 call            @Func_0fe4
@@ -436,4 +433,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-

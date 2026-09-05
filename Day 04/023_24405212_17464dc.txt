@@ -113,8 +113,8 @@ code047d        0, 0
 code047e        0, 1
 jumpz           @Cond_05a8, ($b002 == 0)
 dialogtxt       "Wrong way!"
-dialogtxt       "I need to find bro."
-dialogtxt       "at the Gold Faction!"
+dialogtxt       "I need to meet up with bro at"
+dialogtxt       "the Gold Faction headquarters!"
 goto            @Label_05ca
 
 @Cond_05a8:
@@ -442,7 +442,7 @@ code0301        8, 7
 code047d        0, 149
 code047e        0, 1
 dialogtxt       "My mom and I are peddlers!"
-dialogtxt       "Currently we're getting to know"
+dialogtxt       "Right now, we're getting to know"
 dialogtxt       "lots of Craftknights and artisans!"
 code0309        
 dialogtxt       "My mom thinks I'm out"
@@ -460,15 +460,15 @@ choicewait
 
 @Choice_13a6:
 code047e        0, 1
-dialogtxt       "Upgrading with a Ruin Switch"
-dialogtxt       "will add DUR Attack"
-dialogtxt       "to your weapon."
+dialogtxt       "Upgrading your weapon with a"
+dialogtxt       "Ruin Switch will give it the "
+dialogtxt       "\"DUR Attack\" ability!"
 code0309        
 dialogtxt       "And would you look at that,"
 dialogtxt       "I have one such Ruin Switch"
-dialogtxt       "available for only... 800 boam!"
+dialogtxt       "available for only 800 boam!"
 code0309        
-dialogtxt       "How about it?"
+dialogtxt       "Would you like to buy it?"
 code0309        
 code047e        0, 0
 choicetxt       @Choice_149c, "I'll take it!"
@@ -509,8 +509,8 @@ goto            @Choice_15b2
 
 @Choice_15b2:
 code047e        0, 1
-dialogtxt       "Whaaat!? You make me talk a lot"
-dialogtxt       "but you don't want to buy from me?"
+dialogtxt       "Whaaat!? You asked about it,"
+dialogtxt       "but you're not gonna buy it?"
 dialogtxt       "Cheapskate!"
 code0309        
 goto            @Label_1654
@@ -525,8 +525,8 @@ goto            @Choice_1604
 @Choice_1604:
 code047e        0, 1
 dialogtxt       "Whaaat? You're not interested?!"
-dialogtxt       "Just when I thought"
-dialogtxt       "I finally had a customer..."
+dialogtxt       "Just when I thought I finally"
+dialogtxt       "had a customer..."
 code0309        
 @Label_1654:
 code047e        0, 0
@@ -537,9 +537,9 @@ code040b
 code0301        8, 7
 code047d        0, 120
 code047e        0, 1
-dialogtxt       "I've saved up quite a lot."
-dialogtxt       "I should go to the"
-dialogtxt       "lottery shop soon..."
+dialogtxt       "I've really let these tickets"
+dialogtxt       "pile up. I should head to the"
+dialogtxt       "Lottery Shop soon..."
 code0309        
 code047e        0, 0
 code0302        7
@@ -549,7 +549,7 @@ code040b
 code0301        8, 7
 code047d        0, 120
 code047e        0, 1
-dialogtxt       "Oh, you have a Summon Beast too."
+dialogtxt       "Oh, you have a Summon Beast too!"
 dialogtxt       "Nice to meet you. This is"
 dialogtxt       "my Summon Beast, Myoutarou."
 code0309        
@@ -578,7 +578,7 @@ code040b
 code0301        8, 7
 dialogtxt       "Care to try our Lucky Draw?"
 dialogtxt       "It's available all day, everyday!"
-dialogtxt       "Guaranteed no losing tickets!"
+dialogtxt       "No losing tickets, guaranteed!"
 code0309        
 code0302        7
 code040b        
