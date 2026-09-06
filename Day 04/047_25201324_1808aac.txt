@@ -86,27 +86,27 @@ goto            @Label_0330
 @Label_0330:
 call            @Func_0c9e
 jumpz           @Cond_0382, ($b003 == 0)
-dialogtxt       "It Appears As If Something"
-dialogtxt       "Was Following Us."
+dialogtxt       "Sensors Indicate Something"
+dialogtxt       "Following Us."
 goto            @Cond_0382
 
 @Cond_0382:
 jumpz           @Cond_03ec, ($b003 == 1)
-dialogtxt       "I felt something."
-dialogtxt       "Someone's following us..."
+dialogtxt       "I feel a presence."
+dialogtxt       "It's only a vague sense, but..."
+dialogtxt       "someone is following us."
 goto            @Cond_03ec
 
 @Cond_03ec:
 jumpz           @Cond_0446, ($b003 == 2)
-dialogtxt       "Something's been watching us..."
-dialogtxt       "I have a bad feeling about this."
+dialogtxt       "Something's been watching us."
+dialogtxt       "I have a bad feeling about this..."
 goto            @Cond_0446
 
 @Cond_0446:
 jumpz           @Cond_04b4, ($b003 == 3)
-dialogtxt       "It feels as if someone"
-dialogtxt       "is following us..."
-dialogtxt       "I have a bad feeling about this..."
+dialogtxt       "It feels like someone is following us..."
+dialogtxt       "I have a bad feeling about this."
 goto            @Cond_04b4
 
 @Cond_04b4:
@@ -114,8 +114,8 @@ code0309
 call            @Func_0cd4
 code0479        0, 4, 14
 call            @Func_0c32
-dialogtxt       "Just like before..."
-dialogtxt       "It might be my bro again."
+dialogtxt       "This again, huh?"
+dialogtxt       "Think it's just bro this time, too?"
 code0309        
 call            @Func_0d58
 call            @Func_0c68
@@ -126,17 +126,17 @@ code047d        1, 138
 call            @Func_0d02
 call            @Func_0c9e
 dialogtxt       "Eh?"
-dialogtxt       "He's here too?"
+dialogtxt       "Jade is here too?"
 code047b        
 code0309        
 call            @Func_0cd4
 code043c        0, 1
 code0479        0, 0, 16
 call            @Func_0c32
-dialogtxt       "So I thought, but..."
-dialogtxt       "Of course he's not here."
-dialogtxt       "What is it..."
-code0309        
+dialogtxt       "That's what I thought, but"
+dialogtxt       "it doesn't look like it."
+dialogtxt       "Wonder what it is..."
+code0309		
 code0479        0, 0, 14
 dialogtxt       "I hope it's just my imagination."
 code0309        
@@ -367,4 +367,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-

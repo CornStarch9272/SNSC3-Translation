@@ -105,9 +105,9 @@ code040b
 
 @Event_049e:
 code0301        8, 7
-dialogtxt       "Have you ever been injured"
-dialogtxt       "with no inn in sight?"
-dialogtxt       "When that happens, think of Bandage!"
+dialogtxt       "Have you ever been injured with"
+dialogtxt       "no inn in sight? When that happens,"
+dialogtxt       "you'll be glad bought a Bandage!"
 code0309        
 code0302        7
 code040b        
@@ -321,7 +321,7 @@ dialogtxt       "My, you must be a Craftknight."
 dialogtxt       "Right now I'm on a journey to meet"
 dialogtxt       "many Craftknights and blacksmiths."
 code0309        
-dialogtxt       "I only hope that some of them"
+dialogtxt       "I can only hope that some of them"
 dialogtxt       "will become regular customers"
 dialogtxt       "when my daughter and I open a shop."
 code0309        
@@ -336,8 +336,8 @@ choicewait
 
 @Choice_0e8c:
 code047e        0, 1
-dialogtxt       "Upgrading is when you"
-dialogtxt       "combine items with a weapon"
+dialogtxt       "Upgrading is when you combined a"
+dialogtxt       "weapon with other items in order"
 dialogtxt       "to make it stronger."
 code0309        
 dialogtxt       "You can do it up to three times,"
@@ -348,15 +348,15 @@ goto            @Label_1096
 
 @Choice_0f54:
 code047e        0, 1
-dialogtxt       "Disassembly lets you break"
-dialogtxt       "down a weapon into a Shapestone."
+dialogtxt       "Disassembly lets you break a weapon"
+dialogtxt       "back down into its Shapestone."
 code0309        
-dialogtxt       "But that's not all."
+dialogtxt       "But that's not all!"
 dialogtxt       "The Shapestone will retain some"
 dialogtxt       "of the weapon's original strength."
 code0309        
-dialogtxt       "How much depends on your skill,"
-dialogtxt       "and your smithing rank."
+dialogtxt       "How much depends on its experience,"
+dialogtxt       "as well as your smithing rank."
 dialogtxt       "The higher, the better."
 code0309        
 goto            @Label_1096
@@ -369,4 +369,3 @@ code0309
 code047e        0, 0
 code0302        7
 code040b        
-

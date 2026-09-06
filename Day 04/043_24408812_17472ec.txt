@@ -382,10 +382,9 @@ code047e        0, 1
 dialogtxt       "Sorry, but only VIPs can"
 dialogtxt       "pass through here."
 code0309        
-dialogtxt       "But, if you have a Membership"
-dialogtxt       "Card, we might let you in."
+dialogtxt       "If you get a Membership Card,"
+dialogtxt       "maybe we'll let you in."
 code0309        
 code047e        0, 0
 code0302        7
 code040b        
-

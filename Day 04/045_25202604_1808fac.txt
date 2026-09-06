@@ -27,9 +27,8 @@ code0309
 call            @Func_0be0
 code0479        1, 0, 12
 call            @Func_0c16
-dialogtxt       "Yep!"
-dialogtxt       "There's lots of different kinds"
-dialogtxt       "of materials to find there."
+dialogtxt       "Yep! You can find lots of"
+dialogtxt       "different materials in here."
 code047b        
 code0309        
 call            @Func_0ce6
@@ -42,7 +41,7 @@ code0301        8, 7
 code047e        0, 1
 dialogtxt       "Oh, Eliez!"
 dialogtxt       "Going gathering today?"
-dialogtxt       "Lute Cave should be fine but..."
+dialogtxt       "Lute Cave should be fine, but..."
 code0309        
 dialogtxt       "Spoat Grotto's become dangerous"
 dialogtxt       "thanks to that earthquake."
@@ -117,7 +116,7 @@ goto            @Cond_0546
 
 @Cond_0546:
 jumpz           @Cond_0568, ($b003 == 2)
-dialogtxt       "Do as you like."
+dialogtxt       "Whatever."
 goto            @Cond_0568
 
 @Cond_0568:
@@ -355,4 +354,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-

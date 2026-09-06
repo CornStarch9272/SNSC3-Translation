@@ -35,7 +35,7 @@ code0309
 call            @Func_08a4
 call            @Func_08bc
 call            @Func_0802
-dialogtxt       "Oh, right."
+dialogtxt       "Right, got it!"
 code047b        
 code0309        
 call            @Func_093e
@@ -258,4 +258,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-

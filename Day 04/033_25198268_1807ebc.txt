@@ -30,8 +30,7 @@ code0309
 call            @Func_18c4
 code0479        0, 0, 12
 call            @Func_1822
-dialogtxt       "Um, let's see."
-dialogtxt       "That way."
+dialogtxt       "Err... should be that way."
 code0309        
 call            @Func_195e
 call            @Func_1840
@@ -78,7 +77,7 @@ code0479        1, 1, 12
 call            @Func_18f2
 call            @Func_188e
 dialogtxt       "Oh, it's Zakk!"
-dialogtxt       "Hi!"
+dialogtxt       "Hello!"
 code047b        
 code0309        
 call            @Func_18c4
@@ -101,14 +100,14 @@ call            @Func_18f2
 call            @Func_188e
 jumpz           @Cond_0550, ($b002 == 0)
 dialogtxt       "What is it?"
-dialogtxt       "She couldn't be"
-dialogtxt       "going crazy right?"
+dialogtxt       "She's not going on a"
+dialogtxt       "rampage, is she?"
 goto            @Label_058a
 
 @Cond_0550:
 dialogtxt       "What is it?"
-dialogtxt       "She couldn't be"
-dialogtxt       "going crazy right?"
+dialogtxt       "She's not going on a"
+dialogtxt       "rampage, is she?"
 goto            @Label_058a
 
 @Label_058a:
@@ -140,22 +139,22 @@ code0309
 call            @Func_18c4
 code0479        0, 4, 16
 call            @Func_1822
-dialogtxt       "It's gotten out of hand,"
-dialogtxt       "I can't control her."
+dialogtxt       "She's really going crazy."
+dialogtxt       "We can't get her under control."
 code0309        
 call            @Func_1858
 code0479        1, 2, 16
 call            @Func_188e
 jumpz           @Cond_0720, ($b002 == 0)
-dialogtxt       "Master!"
-dialogtxt       "After all that lecturing,"
-dialogtxt       "she's the one picking a fight."
+dialogtxt       "What the heck, Master?!"
+dialogtxt       "After all those lectures about staying"
+dialogtxt       "cool, she's the one starting fights?"
 goto            @Label_0772
 
 @Cond_0720:
-dialogtxt       "Master!"
-dialogtxt       "After all that lecturing,"
-dialogtxt       "she's the one picking a fight."
+dialogtxt       "What the heck, Master?!"
+dialogtxt       "After all those lectures about staying"
+dialogtxt       "cool, she's the one starting fights?"
 goto            @Label_0772
 
 @Label_0772:
@@ -191,7 +190,7 @@ code047d        1, 2
 call            @Func_18f2
 call            @Func_1870
 jumpz           @Cond_0932, ($b003 == 0)
-dialogtxt       "Did You Want To"
+dialogtxt       "Did You Wish To"
 dialogtxt       "Fight As Well?"
 code047b        
 code0309        
@@ -201,11 +200,11 @@ code0479        0, 1, 16
 call            @Func_18dc
 call            @Func_1822
 jumpz           @Cond_0910, ($b002 == 0)
-dialogtxt       "Th—That's not what I meant!"
+dialogtxt       "Th-That's not what I meant!"
 goto            @Label_092e
 
 @Cond_0910:
-dialogtxt       "Th—That's not what I meant!"
+dialogtxt       "Th-That's not what I meant!"
 goto            @Label_092e
 
 @Label_092e:
@@ -214,7 +213,7 @@ goto            @Cond_0932
 @Cond_0932:
 jumpz           @Cond_09c8, ($b003 == 1)
 dialogtxt       "That woman is no fool."
-dialogtxt       "She must have a reason."
+dialogtxt       "She must have her reasons."
 code047b        
 code0309        
 call            @Func_18c4
@@ -222,12 +221,12 @@ code043c        0, 4
 code0479        0, 2, 14
 call            @Func_18dc
 call            @Func_1822
-dialogtxt       "I wonder...?"
+dialogtxt       "You really think so...?"
 goto            @Cond_09c8
 
 @Cond_09c8:
 jumpz           @Cond_0a60, ($b003 == 2)
-dialogtxt       "\"Do as I say, not as I do.\""
+dialogtxt       "\"Do as I say, not as I do,\" huh?"
 code047b        
 code0309        
 call            @Func_18c4
@@ -248,8 +247,8 @@ goto            @Cond_0a60
 
 @Cond_0a60:
 jumpz           @Cond_0aea, ($b003 == 3)
-dialogtxt       "How should I say this..."
-dialogtxt       "That's just like her."
+dialogtxt       "How should I put this...?"
+dialogtxt       "That's just like her, isn't it?"
 code047b        
 code0309        
 call            @Func_18c4
@@ -273,9 +272,9 @@ code0479        0, 2, 14
 code047d        0, 131
 call            @Func_18dc
 call            @Func_1822
-dialogtxt       "Anyway, everyone's angry."
-dialogtxt       "I think it'd be better if you"
-dialogtxt       "avoided our workshop for now."
+dialogtxt       "Anyway, everyone's mad now."
+dialogtxt       "It'd probably be best to just"
+dialogtxt       "avoid our workshop for a while."
 code047b        
 code0309        
 call            @Func_1948
@@ -306,9 +305,9 @@ dialogtxt       "It's no big deal."
 code0309        
 code0479        0, 5, 15
 dialogtxt       "... Wait, no!"
-dialogtxt       "I was only telling you because"
-dialogtxt       "of Eliez..."
-code0309        
+dialogtxt       "I just didn't want Eliez to"
+dialogtxt       "get caught up in all this..."
+code0309		
 call            @Func_1858
 code0479        1, 1, 12
 call            @Func_188e
@@ -330,9 +329,9 @@ code0309
 call            @Func_18c4
 code0479        0, 6, 12
 call            @Func_1822
-dialogtxt       "I—It's nothing."
-dialogtxt       "Well that's all,"
-dialogtxt       "see ya!"
+dialogtxt       "I-It's nothing."
+dialogtxt       "Anyway, that's all I had"
+dialogtxt       "to tell you. See ya!"
 code0309        
 call            @Func_195e
 call            @Func_1840
@@ -376,13 +375,12 @@ code0479        1, 0, 16
 call            @Func_1908
 call            @Func_1870
 jumpz           @Cond_0f9e, ($b002 == 0)
-dialogtxt       "That guy is always in a hurry."
+dialogtxt       "That guy is always in a hurry, huh?"
 dialogtxt       "Well, let's go."
 goto            @Label_0fe0
 
 @Cond_0f9e:
-dialogtxt       "Why is he always in"
-dialogtxt       "such a rush?"
+dialogtxt       "Why is he always in such a rush?"
 dialogtxt       "Anyway, let's go."
 goto            @Label_0fe0
 

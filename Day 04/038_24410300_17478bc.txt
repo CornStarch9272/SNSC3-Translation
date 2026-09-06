@@ -330,8 +330,8 @@ dialogtxt       "down a little bit, but now"
 dialogtxt       "there are reports of miners"
 code0309        
 dialogtxt       "having their lunch stolen."
-dialogtxt       "It's said a kid is ordering Summon"
-dialogtxt       "Beasts to doing their dirty work."
+dialogtxt       "They're saying some kid is ordering"
+dialogtxt       "Summon Beasts to do their dirty work."
 code0309        
 code047e        0, 0
 code0302        7
@@ -347,8 +347,8 @@ code040b
 @Event_0eb0:
 code0301        8, 7
 dialogtxt       "You too can protect Prosban!"
-dialogtxt       "The Prosban militia"
-dialogtxt       "is now accepting applications."
+dialogtxt       "The Prosban militia is now"
+dialogtxt       "accepting applications."
 code0309        
 code0302        7
 code040b        
@@ -364,9 +364,9 @@ code040b
 
 @Event_0f90:
 code0301        8, 7
-dialogtxt       "Lost cats are increasing in number."
-dialogtxt       "Pet owners, please watch out for"
-dialogtxt       "Strays and keep track of your pets."
+dialogtxt       "Lost cats are increasing in number. Pet"
+dialogtxt       "owners, please keep track of your pets,"
+dialogtxt       "and watch out for Stray Summon Beasts!"
 code0309        
 code0302        7
 code040b        
@@ -379,4 +379,3 @@ dialogtxt       "forge weapons!"
 code0309        
 code0302        7
 code040b        
-
