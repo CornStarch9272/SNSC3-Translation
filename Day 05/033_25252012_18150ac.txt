@@ -26,15 +26,16 @@ code0309
 call            @Func_0b3a
 code0479        0, 2, 14
 call            @Func_0a98
-dialogtxt       "I thought so!"
-dialogtxt       "That's where the Strays are!"
+dialogtxt       "That's what I thought!"
+dialogtxt       "She really is going after"
+dialogtxt       "the Strays, then..."
 code0309        
 call            @Func_0ace
 code0479        1, 2, 16
 call            @Func_0b04
-dialogtxt       "For some reason Tier"
-dialogtxt       "was with her too."
-dialogtxt       "Geez, what is she doing..."
+dialogtxt       "For some reason, she brought"
+dialogtxt       "Tier with her, too. What the"
+dialogtxt       "heck is she doing...?"
 code0309        
 call            @Func_0ba8
 call            @Func_0b3a
@@ -63,7 +64,7 @@ code047d        0, 2
 call            @Func_0b52
 call            @Func_0a98
 jumpz           @Cond_0314, ($b003 == 0)
-dialogtxt       "Tier...?"
+dialogtxt       "She Brought Tier?"
 goto            @Cond_0314
 
 @Cond_0314:
@@ -78,7 +79,7 @@ goto            @Cond_035a
 
 @Cond_035a:
 jumpz           @Cond_0380, ($b003 == 3)
-dialogtxt       "That girl is...!?"
+dialogtxt       "That girl is with her?!"
 goto            @Cond_0380
 
 @Cond_0380:
@@ -87,9 +88,8 @@ code0309
 call            @Func_0ace
 code0479        1, 2, 14
 call            @Func_0b04
-dialogtxt       "In any case,"
-dialogtxt       "we have to check it out."
-dialogtxt       "Be careful you two."
+dialogtxt       "In any case, we'd better check it out."
+dialogtxt       "Be careful, you two."
 code0309        
 call            @Func_0ba8
 call            @Func_0b3a
@@ -332,4 +332,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-

@@ -17,15 +17,16 @@ code0479        1, 0, 14
 code047d        1, 108
 call            @Func_178e
 call            @Func_168a
-dialogtxt       "Ah, Master, you're back."
+dialogtxt       "Ah, Master, you're back!"
 dialogtxt       "How'd the meeting go?"
 code047b        
 code0309        
 call            @Func_16de
 code0479        1, 2, 14
 call            @Func_1714
-dialogtxt       "Oh, a Stray showed up so we"
-dialogtxt       "really didn't get anything done."
+dialogtxt       "The meeting? Oh, right."
+dialogtxt       "A Stray showed up, so we"
+dialogtxt       "didn't really get anything done."
 code0309        
 code0479        1, 2, 16
 dialogtxt       "More importantly,"
@@ -35,9 +36,8 @@ code0309
 call            @Func_174a
 code0479        0, 2, 16
 call            @Func_16a8
-dialogtxt       "Bro asked me to"
-dialogtxt       "run an errand for him."
-dialogtxt       "Murno should be with Eliez."
+dialogtxt       "Bro asked me to run an errand for him."
+dialogtxt       "Murno is looking after　Eliez, I think."
 code0309        
 call            @Func_17e4
 call            @Func_16c6
@@ -93,7 +93,7 @@ goto            @Cond_044a
 @Cond_044a:
 jumpz           @Cond_047c, ($b003 == 1)
 dialogtxt       "She left?"
-dialogtxt       "Where to?"
+dialogtxt       "Where did she go?"
 goto            @Cond_047c
 
 @Cond_047c:
@@ -146,7 +146,7 @@ goto            @Cond_060a
 @Cond_060a:
 jumpz           @Cond_066e, ($b003 == 1)
 dialogtxt       "What!?"
-dialogtxt       "Try to remember!"
+dialogtxt       "You must try to remember!"
 dialogtxt       "Did she say anything?"
 goto            @Cond_066e
 
@@ -159,7 +159,7 @@ goto            @Cond_06ba
 
 @Cond_06ba:
 jumpz           @Cond_0712, ($b003 == 3)
-dialogtxt       "No way!?"
+dialogtxt       "No way!"
 dialogtxt       "Did she really not"
 dialogtxt       "tell you anything?"
 goto            @Cond_0712
@@ -222,9 +222,9 @@ goto            @Label_090e
 code047d        0, 2
 code0479        1, 2, 14
 call            @Func_1762
-dialogtxt       "Hey, [NAME 1]."
-dialogtxt       "You can't blame her,"
-dialogtxt       "she's just a child."
+dialogtxt       "Hey, [NAME 1]!"
+dialogtxt       "She's just a child."
+dialogtxt       "You can't blame her!"
 code047b        
 code0309        
 call            @Func_174a
@@ -254,18 +254,18 @@ goto            @Cond_0a4e
 
 @Cond_0a4e:
 jumpz           @Cond_0a7a, ($b003 == 1)
-dialogtxt       "That's... True..."
+dialogtxt       "I... suppose that's true..."
 goto            @Cond_0a7a
 
 @Cond_0a7a:
 jumpz           @Cond_0a98, ($b003 == 2)
-dialogtxt       "Tsk..."
+dialogtxt       "Tch..."
 goto            @Cond_0a98
 
 @Cond_0a98:
 jumpz           @Cond_0ace, ($b003 == 3)
 dialogtxt       "You're right..."
-dialogtxt       "I'm sorry..."
+dialogtxt       "I'm sorry."
 goto            @Cond_0ace
 
 @Cond_0ace:
@@ -282,7 +282,7 @@ code047d        0, 0
 code0479        1, 2, 16
 call            @Func_16f6
 call            @Func_1778
-dialogtxt       "Murno... Ever since we arrived,"
+dialogtxt       "That girl... Ever since we arrived,"
 dialogtxt       "she's been acting strange."
 dialogtxt       "And now she's gone missing..."
 code047b        
@@ -290,9 +290,9 @@ code0309
 code043c        2, 2
 call            @Func_1762
 code0479        1, 0, 16
-dialogtxt       "Jade is out there with the militia."
-dialogtxt       "What about you guys,"
-dialogtxt       "do you know anything?"
+dialogtxt       "Jade is still out there with the"
+dialogtxt       "militia. What about you guys?"
+dialogtxt       "Do you know anything?"
 code047b        
 code0309        
 call            @Func_174a
@@ -324,8 +324,8 @@ code031c        8, 1
 code031f        8
 code031c        7, 2
 code031f        7
-dialogtxt       "The earthquakes, the Strays,"
-dialogtxt       "all of it is caused by one girl."
+dialogtxt       "The earthquakes, the Strays."
+dialogtxt       "All of it is caused by one girl."
 code0309        
 code031c        7, 1
 code031f        7
@@ -347,14 +347,14 @@ code031f        7
 code031a        7
 code0479        0, 2, 14
 dialogtxt       "(No way..."
-dialogtxt       "So she really is...?)"
+dialogtxt       "So she really is responsible?)"
 code0309        
 call            @Func_16de
 code0333        2, 30
 code0479        1, 2, 14
 call            @Func_1714
 dialogtxt       "..."
-dialogtxt       "No choice."
+dialogtxt       "We have no choice."
 code0309        
 code0334        
 code046e        38, 256, 2

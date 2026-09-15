@@ -30,9 +30,9 @@ call            @Func_1f5c
 code043c        3, 3
 call            @Func_1ff6
 call            @Func_1f92
-dialogtxt       "They should still be alive."
-dialogtxt       "Because..."
-dialogtxt       "The Invincible Jade was with them."
+dialogtxt       "Everyone should still be alive."
+dialogtxt       "After all, they were were with"
+dialogtxt       "The Invincible Jade!"
 code047b        
 code0309        
 call            @Func_2062
@@ -53,16 +53,15 @@ code0479        1, 2, 16
 code047d        1, 108
 call            @Func_200c
 call            @Func_1f74
-dialogtxt       "Looks like there was"
-dialogtxt       "quite a few Strays..."
-dialogtxt       "What about you? Any injuries?"
+dialogtxt       "Looks like there were quite"
+dialogtxt       "a few Strays... What about you?"
+dialogtxt       "Any injuries?"
 code047b        
 code0309        
 call            @Func_1fc8
 code0479        0, 0, 16
 call            @Func_1f26
-dialogtxt       "Ah..."
-dialogtxt       "No..."
+dialogtxt       "Ah... No."
 code0309        
 call            @Func_2036
 call            @Func_1f5c
@@ -96,20 +95,17 @@ goto            @Cond_0422
 
 @Cond_0422:
 jumpz           @Cond_0462, ($b003 == 1)
-dialogtxt       "So..."
-dialogtxt       "Was Murno here?"
+dialogtxt       "So... was Murno with you?"
 goto            @Cond_0462
 
 @Cond_0462:
 jumpz           @Cond_04a0, ($b003 == 2)
-dialogtxt       "So..."
-dialogtxt       "Was Murno here?"
+dialogtxt       "So... was Murno here?"
 goto            @Cond_04a0
 
 @Cond_04a0:
 jumpz           @Cond_04e4, ($b003 == 3)
-dialogtxt       "So..."
-dialogtxt       "Was Lady Murno here?"
+dialogtxt       "So... was Lady Murno here?"
 goto            @Cond_04e4
 
 @Cond_04e4:
@@ -120,8 +116,8 @@ code043c        2, 2
 code0479        1, 2, 14
 call            @Func_1f92
 dialogtxt       "Jade said he saw her, but now"
-dialogtxt       "she's nowhere to be found..."
-dialogtxt       "This guy is useless..."
+dialogtxt       "she's nowhere to be found."
+dialogtxt       "How useless can you get...?"
 code0309        
 call            @Func_2036
 call            @Func_1fc8
@@ -137,10 +133,10 @@ dialogtxt       "..."
 code047b        
 code0309        
 code0479        0, 4, 12
-dialogtxt       "No... You're right..."
-dialogtxt       "I wasn't paying enough attention."
-dialogtxt       "Sorry."
-code0309        
+dialogtxt       "No. You're right."
+dialogtxt       "I should have paid more"
+dialogtxt       "attention. I'm sorry."
+code0309		
 call            @Func_204c
 call            @Func_1f5c
 code047b        
@@ -155,9 +151,9 @@ dialogtxt       "you had to focus on the fight."
 code047b        
 code0309        
 code0479        1, 2, 14
-dialogtxt       "If anyone is at fault,"
-dialogtxt       "it's those two idiotic girls."
-code0309        
+dialogtxt       "If anyone was careless here,"
+dialogtxt       "it's those two girls."
+code0309		
 call            @Func_2036
 call            @Func_1fc8
 code047b        
@@ -167,11 +163,11 @@ code047d        0, 0
 call            @Func_1fe0
 call            @Func_1f26
 jumpz           @Cond_07ba, ($b002 == 0)
-dialogtxt       "What!?"
+dialogtxt       "What?!"
 goto            @Label_07e6
 
 @Cond_07ba:
-dialogtxt       "What!?"
+dialogtxt       "What?!"
 goto            @Label_07e6
 
 @Label_07e6:
@@ -256,15 +252,14 @@ code047d        0, 110
 call            @Func_200c
 call            @Func_1f08
 dialogtxt       "Helping out is fine,"
-dialogtxt       "but what about the extermination?"
+dialogtxt       "but what about the hunt?"
 code047b        
 code0309        
 call            @Func_1f5c
 code0479        1, 2, 12
 call            @Func_1f92
-dialogtxt       "Sorry, Lemmy."
-dialogtxt       "Right now, my friends"
-dialogtxt       "take priority..."
+dialogtxt       "Sorry, Lemmy. Right now,"
+dialogtxt       "my friends take priority."
 code0309        
 call            @Func_2036
 call            @Func_1fc8
@@ -274,7 +269,7 @@ code0479        0, 4, 12
 code047d        0, 0
 call            @Func_1fe0
 call            @Func_1f26
-dialogtxt       "B—Brooo..."
+dialogtxt       "B-Brooo...!"
 code047b        
 code0309        
 call            @Func_2036
@@ -286,21 +281,19 @@ code047d        0, 110
 call            @Func_1fe0
 code0479        1, 0, 16
 call            @Func_1f92
-dialogtxt       "The rest is up to you..."
-dialogtxt       "Ah, that's right,"
-dialogtxt       "and about the Gold Faction..."
+dialogtxt       "The rest is up to you."
+dialogtxt       "Oh, and about the Gold Faction..."
 code047b        
 code0309        
 call            @Func_1fc8
 code0479        0, 2, 12
 call            @Func_1f26
-dialogtxt       "It's fine."
-dialogtxt       "I'll take care of it."
-dialogtxt       "I'll be off to town then..."
+dialogtxt       "Don't worry, I'll take care of it."
+dialogtxt       "I'll be off to town, then."
 code0309        
 code0333        2, 30
 code0479        0, 5, 16
-dialogtxt       "Wait, where's the other three?"
+dialogtxt       "Wait, where did the other three go?"
 code0309        
 call            @Func_1f5c
 code0334        
@@ -314,13 +307,12 @@ code0309
 call            @Func_1fc8
 code0479        0, 4, 12
 call            @Func_1f26
-dialogtxt       "I'm sorry."
-dialogtxt       "I don't know those people"
-dialogtxt       "very well..."
+dialogtxt       "I'm sorry. I don't know"
+dialogtxt       "those people very well..."
 code0309        
 code0479        0, 0, 12
-dialogtxt       "Anyway, we'll return"
-dialogtxt       "to town for the time being."
+dialogtxt       "Anyway, we'll hed back to"
+dialogtxt       "town for the time being."
 code0309        
 call            @Func_2062
 call            @Func_1f44
@@ -394,7 +386,7 @@ code047d        1, 2
 call            @Func_200c
 call            @Func_1f08
 dialogtxt       "A group of three..."
-dialogtxt       "Could it be..."
+dialogtxt       "Could it be them?"
 code047b        
 code0309        
 call            @Func_1f5c
@@ -419,7 +411,7 @@ goto            @Label_132e
 @Label_132e:
 call            @Func_1f92
 jumpz           @Cond_138a, ($b003 == 0)
-dialogtxt       "The Possibility Is High."
+dialogtxt       "The Probability Is High."
 dialogtxt       "We Must Find Them."
 goto            @Cond_138a
 
@@ -452,8 +444,8 @@ code0479        1, 2, 16
 code047d        1, 108
 call            @Func_1ff6
 call            @Func_1f92
-dialogtxt       "Wait a second!"
-dialogtxt       "Just what are you hiding..."
+dialogtxt       "Wait a second, you two!"
+dialogtxt       "Just what are you hiding...?"
 code047b        
 code0309        
 call            @Func_1fc8
@@ -496,9 +488,8 @@ goto            @Cond_162a
 
 @Cond_162a:
 jumpz           @Cond_1670, ($b003 == 1)
-dialogtxt       "Right now,"
-dialogtxt       "it's a race against time."
-dialogtxt       "We'll talk about it later."
+dialogtxt       "Right now, we're in a race against time."
+dialogtxt       "It's a matter best discussed later."
 goto            @Cond_1670
 
 @Cond_1670:
@@ -508,8 +499,8 @@ goto            @Cond_16b6
 
 @Cond_16b6:
 jumpz           @Cond_1702, ($b003 == 3)
-dialogtxt       "I'm sorry,"
-dialogtxt       "but we don't have time to chat."
+dialogtxt       "I'm sorry, but we don't"
+dialogtxt       "have time to chat."
 goto            @Cond_1702
 
 @Cond_1702:
@@ -518,12 +509,11 @@ code0309
 call            @Func_1f5c
 code0479        1, 2, 14
 call            @Func_1f92
-dialogtxt       "... I see."
-dialogtxt       "Understood."
-dialogtxt       "Then when you get back..."
+dialogtxt       "... I see. Understood."
+dialogtxt       "Then, when you get back..."
 code0309        
 code0479        1, 2, 17
-dialogtxt       "Let's have a nice long chat..."
+dialogtxt       "Let's have a nice long chat."
 code0309        
 call            @Func_2036
 call            @Func_1fc8
@@ -556,9 +546,9 @@ code0479        0, 2, 15
 code047d        0, 108
 call            @Func_1fe0
 call            @Func_1f26
-dialogtxt       "... Hey, I'm the one"
-dialogtxt       "who calls the shots here."
-dialogtxt       "Okay, now go!"
+dialogtxt       "Hey, I'm the one who"
+dialogtxt       "calls the shots here!"
+dialogtxt       "... Everyone, move out!"
 code0309        
 call            @Func_2062
 call            @Func_1f44
@@ -795,4 +785,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-

@@ -42,7 +42,7 @@ goto            @Label_01ce
 code047d        1, 2
 call            @Func_0ed0
 call            @Func_0df8
-dialogtxt       "Hm? Isn't that..."
+dialogtxt       "Hm? That sound..."
 code047b        
 code0309        
 call            @Func_0e4c
@@ -53,27 +53,25 @@ call            @Func_0e82
 jumpz           @Cond_028c, ($b003 == 0)
 dialogtxt       "Something Must Have"
 dialogtxt       "Happened Near Town."
-dialogtxt       "Another Stray Summon...?"
+dialogtxt       "Another Stray Summon?"
 goto            @Cond_028c
 
 @Cond_028c:
 jumpz           @Cond_02f4, ($b003 == 1)
 dialogtxt       "Something must have happened."
-dialogtxt       "Perhaps it is another"
-dialogtxt       "Stray Summon...?"
+dialogtxt       "Perhaps it's another Stray Summon?"
 goto            @Cond_02f4
 
 @Cond_02f4:
 jumpz           @Cond_034e, ($b003 == 2)
-dialogtxt       "Tch..."
-dialogtxt       "Something must have happened..."
-dialogtxt       "Another nasty Stray...?"
+dialogtxt       "Tch... Something must have happened."
+dialogtxt       "Another nasty Stray?"
 goto            @Cond_034e
 
 @Cond_034e:
 jumpz           @Cond_03ac, ($b003 == 3)
 dialogtxt       "Something must have happened..."
-dialogtxt       "Another scary Stray...?"
+dialogtxt       "Another scary Stray?"
 goto            @Cond_03ac
 
 @Cond_03ac:
@@ -84,12 +82,12 @@ code0479        0, 0, 14
 call            @Func_0e16
 jumpz           @Cond_03f6, ($b002 == 0)
 dialogtxt       "It's coming from the"
-dialogtxt       "southern gate this time..."
+dialogtxt       "southern gate this time."
 goto            @Label_040e
 
 @Cond_03f6:
 dialogtxt       "It's coming from the"
-dialogtxt       "southern gate this time..."
+dialogtxt       "southern gate this time."
 goto            @Label_040e
 
 @Label_040e:
@@ -132,13 +130,13 @@ call            @Func_0efc
 call            @Func_0df8
 dialogtxt       "A Stray Summon..."
 jumpz           @Cond_05a0, ($b002 == 0)
-dialogtxt       "Those guys might"
-dialogtxt       "show up again..."
+dialogtxt       "That means those guys"
+dialogtxt       "might show up again."
 goto            @Label_05de
 
 @Cond_05a0:
-dialogtxt       "Those guys might"
-dialogtxt       "show up again..."
+dialogtxt       "That means those guys"
+dialogtxt       "might show up again."
 goto            @Label_05de
 
 @Label_05de:
@@ -166,29 +164,29 @@ goto            @Label_0676
 @Label_0676:
 call            @Func_0e82
 jumpz           @Cond_06e4, ($b003 == 0)
-dialogtxt       "Our Enemies..."
-dialogtxt       "The Possibility Is High."
+dialogtxt       "The Possibility Is High That"
+dialogtxt       "Our Enemies Will Appear."
 dialogtxt       "Let Us Return To Lady Murno!"
 goto            @Cond_06e4
 
 @Cond_06e4:
 jumpz           @Cond_073c, ($b003 == 1)
-dialogtxt       "Our enemies, yes..."
-dialogtxt       "Mm, I'm worried about Murno."
+dialogtxt       "Yes, our enemies may be approaching."
+dialogtxt       "We must ensure Murno's safety."
 dialogtxt       "Let's hurry back!"
 goto            @Cond_073c
 
 @Cond_073c:
 jumpz           @Cond_078a, ($b003 == 2)
-dialogtxt       "Enemies..."
 dialogtxt       "I feel an unpleasant presence."
-dialogtxt       "Shouldn't we head back?"
+dialogtxt       "It could be our enemies..."
+dialogtxt       "Should we head back?"
 goto            @Cond_078a
 
 @Cond_078a:
 jumpz           @Cond_07e8, ($b003 == 3)
-dialogtxt       "O—Our enemies, yes..."
-dialogtxt       "I'm worried about Lady Murno!"
+dialogtxt       "O-Our enemies, yes..."
+dialogtxt       "I'm worried about Lady Murno."
 dialogtxt       "Let's hurry back!"
 goto            @Cond_07e8
 
@@ -423,4 +421,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-

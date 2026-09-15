@@ -44,15 +44,13 @@ code047d        1, 2
 call            @Func_0b0a
 call            @Func_0a32
 jumpz           @Cond_0232, ($b002 == 0)
-dialogtxt       "Those must be..."
-dialogtxt       "The leftovers of Jade's"
-dialogtxt       "Stray extermination...?"
+dialogtxt       "Those must be the Strays left"
+dialogtxt       "behind from Jade's hunt..."
 goto            @Label_0280
 
 @Cond_0232:
-dialogtxt       "Those must be..."
-dialogtxt       "The leftovers of Jade's"
-dialogtxt       "Stray extermination...?"
+dialogtxt       "Those must be the Strays left"
+dialogtxt       "behind from Jade's hunt..."
 goto            @Label_0280
 
 @Label_0280:
@@ -62,24 +60,24 @@ call            @Func_0a86
 call            @Func_0b20
 call            @Func_0abc
 jumpz           @Cond_02ca, ($b003 == 0)
-dialogtxt       "Lady Murno Must Be Close..."
+dialogtxt       "Lady Murno Is Likely Nearby."
 goto            @Cond_02ca
 
 @Cond_02ca:
 jumpz           @Cond_0310, ($b003 == 1)
-dialogtxt       "Murno must be close by..."
+dialogtxt       "Murno must be close by."
 goto            @Cond_0310
 
 @Cond_0310:
 jumpz           @Cond_035a, ($b003 == 2)
-dialogtxt       "... That means"
-dialogtxt       "Murno must also be nearby..."
+dialogtxt       "That means Murno"
+dialogtxt       "should also be nearby..."
 goto            @Cond_035a
 
 @Cond_035a:
 jumpz           @Cond_03a4, ($b003 == 3)
 dialogtxt       "In that case, Lady Murno"
-dialogtxt       "must be nearby..."
+dialogtxt       "must be nearby."
 goto            @Cond_03a4
 
 @Cond_03a4:
@@ -89,12 +87,12 @@ call            @Func_0af2
 code0479        0, 2, 15
 call            @Func_0a50
 jumpz           @Cond_03f8, ($b002 == 0)
-dialogtxt       "Right..."
+dialogtxt       "Right."
 dialogtxt       "We have to break through!"
 goto            @Label_041e
 
 @Cond_03f8:
-dialogtxt       "Right..."
+dialogtxt       "Right."
 dialogtxt       "We have to break through!"
 goto            @Label_041e
 
@@ -323,4 +321,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-
