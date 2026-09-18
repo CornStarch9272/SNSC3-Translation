@@ -7,13 +7,11 @@ code047d        1, 131
 call            @Func_08da
 call            @Func_07d6
 jumpz           @Cond_00a8, ($b002 == 0)
-dialogtxt       "Hey, Zakk,"
-dialogtxt       "have you seen Murno?"
+dialogtxt       "Hey Zakk, have you seen Murno?"
 goto            @Label_00d4
 
 @Cond_00a8:
-dialogtxt       "Hey, Zakk,"
-dialogtxt       "have you seen Murno?"
+dialogtxt       "Hey Zakk, have you seen Murno?"
 goto            @Label_00d4
 
 @Label_00d4:
@@ -22,8 +20,7 @@ code0309
 call            @Func_082a
 code0479        1, 0, 16
 call            @Func_0860
-dialogtxt       "Uhh..."
-dialogtxt       "Yeah, she was headed"
+dialogtxt       "Uhh... Yeah, she was headed"
 dialogtxt       "towards the shops."
 code0309        
 code0479        1, 2, 14
@@ -33,14 +30,12 @@ code0309
 call            @Func_0896
 code0479        0, 2, 14
 call            @Func_07f4
-dialogtxt       "The shops..."
-dialogtxt       "Alright, thanks!"
+dialogtxt       "The shops... alright, thanks!"
 code0309        
 call            @Func_082a
 code0479        1, 1, 12
 call            @Func_0860
-dialogtxt       "Heheheh,"
-dialogtxt       "no problem!"
+dialogtxt       "Hehehe, no problem!"
 code0309        
 code0479        0, 2, 12
 code0479        1, 5, 15
@@ -260,4 +255,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-
