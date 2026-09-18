@@ -89,7 +89,7 @@ code0479        0, 3, 14
 code047d        0, 134
 call            @Func_2aca
 call            @Func_29f2
-dialogtxt       "Damn it..."
+dialogtxt       "Damn it...!"
 code047b        
 code0309        
 call            @Func_2b20
@@ -109,14 +109,13 @@ code047d        0, 0
 call            @Func_2af6
 call            @Func_2a5e
 dialogtxt       "Well done, [NAME 2]."
-dialogtxt       "You guys are awesome."
+dialogtxt       "You guys were awesome."
 code047b        
 code0309        
 call            @Func_2ab2
 code0479        0, 1, 12
 call            @Func_2a10
-dialogtxt       "R—Really...?"
-dialogtxt       "Ehehe..."
+dialogtxt       "R-Really...? Ehehe..."
 code0309        
 call            @Func_2b36
 call            @Func_2a46
@@ -126,8 +125,7 @@ code0479        1, 4, 12
 code047d        1, 110
 call            @Func_2ae0
 call            @Func_2a7c
-dialogtxt       "Jeez..."
-dialogtxt       "So reckless..."
+dialogtxt       "Jeez... So reckless."
 code047b        
 code0309        
 call            @Func_2b4c
@@ -209,9 +207,9 @@ code043e        3, 3, 0
 code043c        3, 1
 code0479        0, 2, 14
 call            @Func_2a10
-dialogtxt       "I will have it..."
-dialogtxt       "Because of that Demon Stone, he..."
-dialogtxt       "Voijin he..."
+dialogtxt       "I will have it... Because of"
+dialogtxt       "that Demon Stone... He..."
+dialogtxt       "Voijin..."
 code0309        
 code0479        0, 3, 15
 dialogtxt       "Voijin died!"
@@ -238,8 +236,7 @@ code0479        0, 5, 14
 code047d        0, 107
 call            @Func_2aca
 call            @Func_29f2
-dialogtxt       "The Stone..."
-dialogtxt       "No..."
+dialogtxt       "The Stone...?! No..."
 code0309        
 code0479        0, 5, 17
 dialogbig       255, 116, 1, 0, 0, "Nooo!!!"
@@ -282,20 +279,17 @@ goto            @Cond_0ada
 
 @Cond_0ada:
 jumpz           @Cond_0b12, ($b003 == 1)
-dialogtxt       "Hey, Murno!"
-dialogtxt       "Where...!?"
+dialogtxt       "Hey, Murno! Where are you going?!"
 goto            @Cond_0b12
 
 @Cond_0b12:
 jumpz           @Cond_0b46, ($b003 == 2)
-dialogtxt       "Wait!"
-dialogtxt       "Murno!"
+dialogtxt       "Wait! Murno!"
 goto            @Cond_0b46
 
 @Cond_0b46:
 jumpz           @Cond_0b82, ($b003 == 3)
-dialogtxt       "Lady Murno!"
-dialogtxt       "Where are you going!?"
+dialogtxt       "Lady Murno! Where are you going!?"
 goto            @Cond_0b82
 
 @Cond_0b82:
@@ -438,9 +432,8 @@ code0479        1, 3, 15
 code047d        1, 134
 call            @Func_2af6
 call            @Func_2a5e
-dialogtxt       "Let me go!"
-dialogtxt       "The Stone... The Demon Stone!"
-dialogtxt       "Give it to me!!!"
+dialogtxt       "Let me go! The Stone... The"
+dialogtxt       "Demon Stone! Give it to me!!!"
 code047b        
 code0309        
 call            @Func_2ab2
@@ -465,20 +458,17 @@ goto            @Label_1232
 @Label_1232:
 call            @Func_2a10
 jumpz           @Cond_1276, ($b003 == 0)
-dialogtxt       "Partner!"
-dialogtxt       "Take Care Of Murno!"
+dialogtxt       "Partner! Take Care Of Murno!"
 goto            @Cond_1276
 
 @Cond_1276:
 jumpz           @Cond_12aa, ($b003 == 1)
-dialogtxt       "[NAME 2]!"
-dialogtxt       "You take care of Murno!"
+dialogtxt       "[NAME 2]! You take care of Murno!"
 goto            @Cond_12aa
 
 @Cond_12aa:
 jumpz           @Cond_12de, ($b003 == 2)
-dialogtxt       "[NAME 2]!"
-dialogtxt       "You take care of Murno!"
+dialogtxt       "[NAME 2]! You take care of Murno!"
 goto            @Cond_12de
 
 @Cond_12de:
@@ -523,9 +513,8 @@ code0479        0, 4, 14
 code047d        0, 107
 call            @Func_2aca
 call            @Func_29f2
-dialogtxt       "No..."
-dialogtxt       "Don't, [NAME 2]..."
-dialogtxt       "Don't come near me..."
+dialogtxt       "No... [NAME 2], don't..."
+dialogtxt       "Don't come near me!"
 code047b        
 code0309        
 code0479        0, 4, 17
@@ -549,7 +538,7 @@ code0309
 call            @Func_2ab2
 code0479        0, 4, 16
 call            @Func_2a10
-dialogtxt       "Oh... okay..."
+dialogtxt       "Oh... I..."
 code0309        
 call            @Func_2b4c
 call            @Func_2a2e
@@ -828,26 +817,22 @@ code047d        1, 2
 call            @Func_2ae0
 call            @Func_2a5e
 jumpz           @Cond_2264, ($b003 == 0)
-dialogtxt       "Lady Murno!"
-dialogtxt       "Partner!"
+dialogtxt       "Lady Murno! Partner!"
 goto            @Cond_2264
 
 @Cond_2264:
 jumpz           @Cond_228e, ($b003 == 1)
-dialogtxt       "Murno!"
-dialogtxt       "[NAME 2]!"
+dialogtxt       "Murno! [NAME 2]!"
 goto            @Cond_228e
 
 @Cond_228e:
 jumpz           @Cond_22b8, ($b003 == 2)
-dialogtxt       "Murno!"
-dialogtxt       "[NAME 2]!"
+dialogtxt       "Murno! [NAME 2]!"
 goto            @Cond_22b8
 
 @Cond_22b8:
 jumpz           @Cond_22e8, ($b003 == 3)
-dialogtxt       "Lady Murno!"
-dialogtxt       "Partner!"
+dialogtxt       "Lady Murno! [NAME 2]!"
 goto            @Cond_22e8
 
 @Cond_22e8:
@@ -1095,4 +1080,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-

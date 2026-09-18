@@ -6,13 +6,13 @@ code047d        0, 0
 call            @Func_08c0
 call            @Func_07e8
 jumpz           @Cond_00c6, ($b002 == 0)
-dialogtxt       "Why am I locked up in here..."
-dialogtxt       "Just what in the world is going on?"
+dialogtxt       "Why am I locked up in here?"
+dialogtxt       "What in the world is going on?"
 goto            @Label_012c
 
 @Cond_00c6:
-dialogtxt       "Why am I locked up in here..."
-dialogtxt       "Just what in the world is going on?"
+dialogtxt       "Why am I locked up in here?"
+dialogtxt       "What in the world is going on?"
 goto            @Label_012c
 
 @Label_012c:
@@ -267,4 +267,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-

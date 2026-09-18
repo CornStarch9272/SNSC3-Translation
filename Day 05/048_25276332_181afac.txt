@@ -20,8 +20,7 @@ code047d        0, 0
 call            @Func_0a1a
 call            @Func_0942
 jumpz           @Cond_024a, ($b002 == 0)
-dialogtxt       "Where..."
-dialogtxt       "Where am I?"
+dialogtxt       "Where... Where am I?"
 code0309        
 call            @Func_0a70
 call            @Func_097e
@@ -34,8 +33,7 @@ code040d        15
 code0479        0, 5, 16
 call            @Func_0a1a
 call            @Func_0942
-dialogtxt       "[NAME 1]!?"
-dialogtxt       "Murno!?"
+dialogtxt       "[NAME 1]!? Murno!?"
 code047b        
 code0309        
 call            @Func_0a70
@@ -47,19 +45,16 @@ code0446        0
 code0479        0, 5, 17
 call            @Func_0a1a
 call            @Func_0942
-dialogtxt       "Huh?"
-dialogtxt       "My weapon's gone?"
-dialogtxt       "What about...!?"
+dialogtxt       "Huh? My weapon's gone!"
+dialogtxt       "What about..."
 code047b        
 code0309        
 code0479        0, 2, 15
-dialogtxt       "Crap!"
-dialogtxt       "No hammer either!?"
+dialogtxt       "Crap! My hammer, too?!"
 goto            @Label_0398
 
 @Cond_024a:
-dialogtxt       "Where..."
-dialogtxt       "Where am I?"
+dialogtxt       "Where... Where am I?"
 code0309        
 call            @Func_0a70
 call            @Func_097e
@@ -72,8 +67,7 @@ code040d        15
 code0479        0, 5, 16
 call            @Func_0a1a
 call            @Func_0942
-dialogtxt       "[NAME 1]!?"
-dialogtxt       "Murno!?"
+dialogtxt       "[NAME 1]!? Murno!?"
 code047b        
 code0309        
 call            @Func_0a70
@@ -85,14 +79,12 @@ code0446        0
 code0479        0, 5, 17
 call            @Func_0a1a
 call            @Func_0942
-dialogtxt       "Huh?"
-dialogtxt       "My weapon's gone?"
-dialogtxt       "What about...!?"
+dialogtxt       "Huh? My weapon's gone!"
+dialogtxt       "What about..."
 code047b        
 code0309        
 code0479        0, 2, 15
-dialogtxt       "What!?"
-dialogtxt       "No hammer either!?"
+dialogtxt       "Crap! My hammer, too?!"
 goto            @Label_0398
 
 @Label_0398:
@@ -310,4 +302,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-
