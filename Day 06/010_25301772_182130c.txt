@@ -26,8 +26,7 @@ code0479        0, 0, 16
 code0479        1, 0, 13
 call            @Func_0b32
 call            @Func_0a9a
-dialogtxt       "I see."
-dialogtxt       "You aren't half bad."
+dialogtxt       "I see. You aren't half bad."
 code047b        
 code0309        
 call            @Func_0aee
@@ -47,9 +46,9 @@ code0309
 call            @Func_0a82
 code0479        1, 0, 12
 call            @Func_0ab8
-dialogtxt       "Well, I don't know about"
-dialogtxt       "being a Craftknight,"
-dialogtxt       "but you're at least a blacksmith."
+dialogtxt       "Well, I don't know about being"
+dialogtxt       "a Craftknight, but you're at"
+dialogtxt       "least a blacksmith."
 code0309        
 call            @Func_0aee
 code0479        0, 2, 17
@@ -59,21 +58,18 @@ code0309
 call            @Func_0a82
 code0479        1, 0, 16
 call            @Func_0ab8
-dialogtxt       "Anyway, I'll have to"
-dialogtxt       "consult with Tram."
+dialogtxt       "Anyway, I'll have to consult with Tram."
 dialogtxt       "It's back to prison for you."
 code0309        
 call            @Func_0aee
 code0479        0, 4, 17
 call            @Func_0a4c
 jumpz           @Cond_02f4, ($b002 == 0)
-dialogtxt       "What~"
-dialogtxt       "No way~"
+dialogtxt       "What? No way!"
 goto            @Label_0312
 
 @Cond_02f4:
-dialogtxt       "What~"
-dialogtxt       "No way~"
+dialogtxt       "What? No way!"
 goto            @Label_0312
 
 @Label_0312:
@@ -81,9 +77,8 @@ code0309
 call            @Func_0a82
 code0479        1, 2, 12
 call            @Func_0ab8
-dialogtxt       "Enough whining."
-dialogtxt       "Now, hand over the hammer."
-dialogtxt       "Summon Beast, your seal as well."
+dialogtxt       "Enough whining. Hand over the hammer."
+dialogtxt       "Summon Beast, you'll be sealed, too."
 code0309        
 call            @Func_0b72
 call            @Func_0aee
@@ -338,4 +333,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-

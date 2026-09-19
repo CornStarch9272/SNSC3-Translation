@@ -7,14 +7,12 @@ code047d        1, 120
 call            @Func_0a5e
 call            @Func_0986
 jumpz           @Cond_00a4, ($b002 == 0)
-dialogtxt       "Oh man..."
-dialogtxt       "How long am I going"
-dialogtxt       "to be stuck in here...?"
+dialogtxt       "Maaaan... How long am I going"
+dialogtxt       "to be stuck in here?"
 goto            @Label_00d8
 
 @Cond_00a4:
-dialogtxt       "Geez..."
-dialogtxt       "How long am I going"
+dialogtxt       "Geez... How long am I going"
 dialogtxt       "to be stuck in here...?"
 goto            @Label_00d8
 
@@ -35,9 +33,8 @@ code0446        0
 code040d        15
 code0301        8, 7
 code047e        1, 1
-dialogtxt       "Hey..."
-dialogtxt       "Come out..."
-code0309        
+dialogtxt       "Hey! Come out here."
+code0309		
 code047e        1, 0
 code0302        7
 code0479        0, 5, 14
@@ -72,7 +69,7 @@ dialogtxt       "... What is it this time?"
 goto            @Label_02c2
 
 @Cond_0294:
-dialogtxt       "W—Wait."
+dialogtxt       "W-Wait a second."
 dialogtxt       "... What is it this time?"
 goto            @Label_02c2
 
@@ -84,9 +81,8 @@ call            @Func_09da
 code047b        
 code0301        8, 7
 code047e        1, 1
-dialogtxt       "Stop complaining!"
-dialogtxt       "Hurry it up!"
-code0309        
+dialogtxt       "Hurry up! And quit complaining!"
+code0309		
 code047e        1, 0
 code0302        7
 code0479        0, 2, 14
@@ -94,12 +90,11 @@ call            @Func_0a5e
 call            @Func_09a4
 jumpz           @Cond_037e, ($b002 == 0)
 dialogtxt       "I said—"
-dialogtxt       "Crap... Fine..."
+dialogtxt       "Oh, forget it. I'm coming..."
 goto            @Label_03a0
 
 @Cond_037e:
-dialogtxt       "Hey..."
-dialogtxt       "Alright, fine..."
+dialogtxt       "Hey! Alright, I'm coming..."
 goto            @Label_03a0
 
 @Label_03a0:
@@ -322,4 +317,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-

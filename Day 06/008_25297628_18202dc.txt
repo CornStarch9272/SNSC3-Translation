@@ -70,21 +70,19 @@ call            @Func_0f6c
 code0479        0, 2, 14
 call            @Func_0eca
 jumpz           @Cond_0380, ($b002 == 0)
-dialogtxt       "Weapon types, huh!"
-dialogtxt       "It's obviously..."
+dialogtxt       "Weapon types, huh? It's obviously..."
 goto            @Label_03b0
 
 @Cond_0380:
-dialogtxt       "Weapon types, huh!"
-dialogtxt       "It's obviously..."
+dialogtxt       "Weapon types, huh? It's obviously..."
 goto            @Label_03b0
 
 @Label_03b0:
 code0309        
 code0479        0, 2, 12
-choicetxt       @Choice_080c, "There's five types!"
-choicetxt       @Choice_080c, "There's six types!"
-choicetxt       @Choice_03ec, "There's seven types!"
+choicetxt       @Choice_080c, "There are five types!"
+choicetxt       @Choice_080c, "There are six types!"
+choicetxt       @Choice_03ec, "There are seven types!"
 choicewait      
 
 @Choice_03ec:
@@ -92,9 +90,8 @@ setvar          $f0132, 1
 call            @Func_0f00
 code0479        1, 0, 12
 call            @Func_0f36
-dialogtxt       "That's right..."
-dialogtxt       "Well, as a supposed Craftknight,"
-dialogtxt       "that one should be easy."
+dialogtxt       "That's right. Well, as a supposed"
+dialogtxt       "Craftknight, that much should be easy."
 code0309        
 goto            @Label_0482
 
@@ -123,13 +120,11 @@ call            @Func_0f6c
 code0479        0, 2, 16
 call            @Func_0eca
 jumpz           @Cond_055e, ($b002 == 0)
-dialogtxt       "The heaviest weapon!"
-dialogtxt       "That's..."
+dialogtxt       "The heaviest weapon! That's..."
 goto            @Label_0584
 
 @Cond_055e:
-dialogtxt       "The heaviest weapon!"
-dialogtxt       "That's..."
+dialogtxt       "The heaviest weapon! That's..."
 goto            @Label_0584
 
 @Label_0584:
@@ -137,7 +132,7 @@ code0309
 code0479        0, 2, 12
 choicetxt       @Choice_080c, "The sword!"
 choicetxt       @Choice_05c2, "The axe!"
-choicetxt       @Choice_080c, "Knuckles!"
+choicetxt       @Choice_080c, "The knuckles!"
 choicewait      
 
 @Choice_05c2:
@@ -145,8 +140,7 @@ setvar          $f0133, 1
 call            @Func_0f00
 code0479        1, 0, 12
 call            @Func_0f36
-dialogtxt       "Correct."
-dialogtxt       "I see, looks like you know"
+dialogtxt       "Correct. It seems　you know"
 dialogtxt       "quite a bit about weapons."
 code0309        
 goto            @Label_0642
@@ -159,32 +153,30 @@ call            @Func_0f18
 @Label_0642:
 code047b        
 jumpz           @Cond_0670, ($f0142 == 0)
-dialogtxt       "This is the final question."
+dialogtxt       "This will be the final question."
 code0309        
 goto            @Label_0686
 
 @Cond_0670:
-dialogtxt       "This is the final question."
+dialogtxt       "This will be the final question."
 code0309        
 goto            @Label_0686
 
 @Label_0686:
 code0479        1, 2, 14
-dialogtxt       "As a Craftknight, the most"
-dialogtxt       "important thing when forging is..."
-dialogtxt       "Which one of the following?"
+dialogtxt       "As a Craftknight, which of"
+dialogtxt       "the following is the most"
+dialogtxt       "important thing when crafting?"
 code0309        
 call            @Func_0f6c
 code0479        0, 2, 14
 call            @Func_0eca
 jumpz           @Cond_0736, ($b002 == 0)
-dialogtxt       "The most important thing...?"
-dialogtxt       "That's..."
+dialogtxt       "The most important thing? That's..."
 goto            @Label_0762
 
 @Cond_0736:
-dialogtxt       "The most important thing...?"
-dialogtxt       "That's..."
+dialogtxt       "The most important thing? That's..."
 goto            @Label_0762
 
 @Label_0762:
@@ -192,7 +184,7 @@ code0309
 code0479        0, 2, 12
 choicetxt       @Choice_080c, "A strong Shapestone!"
 choicetxt       @Choice_080c, "Quality ingredients!"
-choicetxt       @Choice_07c0, "A spirit-filled hammer!"
+choicetxt       @Choice_07c0, "A spirited hammer!"
 choicewait      
 
 @Choice_07c0:
@@ -200,8 +192,7 @@ setvar          $f0134, 1
 call            @Func_0f00
 code0479        1, 2, 13
 call            @Func_0f36
-dialogtxt       "Mm..."
-dialogtxt       "Good answer!"
+dialogtxt       "Mm... Good answer!"
 code0309        
 goto            @Label_08e0
 
@@ -448,4 +439,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-

@@ -22,23 +22,22 @@ code0309
 call            @Func_0a52
 code0479        1, 0, 12
 call            @Func_0a88
-dialogtxt       "That's right."
-dialogtxt       "Now then, let us"
-dialogtxt       "begin the test."
+dialogtxt       "That's right. Now then,"
+dialogtxt       "let us begin the test."
 code0309        
 call            @Func_0abe
 code0479        0, 0, 16
 call            @Func_0a1c
 jumpz           @Cond_01b6, ($b002 == 0)
 dialogtxt       "So, what do I need to do?"
-dialogtxt       "Craft a weapon?"
-dialogtxt       "Or prove my skill with a sword?"
+dialogtxt       "Craft a weapon? Or should I"
+dialogtxt       "prove my skill with a sword?"
 goto            @Label_021c
 
 @Cond_01b6:
 dialogtxt       "So, what do I need to do?"
-dialogtxt       "Craft a weapon?"
-dialogtxt       "Or prove my skill with a sword?"
+dialogtxt       "Craft a weapon? Or should I"
+dialogtxt       "prove my skill with a sword?"
 goto            @Label_021c
 
 @Label_021c:
@@ -46,22 +45,20 @@ code0309
 call            @Func_0a52
 code0479        1, 0, 13
 call            @Func_0a88
-dialogtxt       "First is knowledge."
-dialogtxt       "We'll determine just how"
-dialogtxt       "much you know as a Craftknight."
+dialogtxt       "First comes knowledge. We'll"
+dialogtxt       "determine just how much you"
+dialogtxt       "know about being a Craftknight."
 code0309        
 call            @Func_0abe
 code0479        0, 2, 12
 call            @Func_0a1c
 jumpz           @Cond_02f4, ($b002 == 0)
-dialogtxt       "Okay!"
-dialogtxt       "Ask me anything!"
+dialogtxt       "Okay! Ask me anything!"
 dialogtxt       "Let's do this, [NAME 1]!"
 goto            @Label_032e
 
 @Cond_02f4:
-dialogtxt       "Okay!"
-dialogtxt       "Ask me anything!"
+dialogtxt       "Okay! Ask me anything!"
 dialogtxt       "Let's do this, [NAME 1]!"
 goto            @Label_032e
 
@@ -331,4 +328,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-

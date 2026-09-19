@@ -58,7 +58,7 @@ code0479        1, 1, 17
 code047d        1, 107
 call            @Func_13c0
 call            @Func_133e
-dialogtxt       "Kyaa!"
+dialogtxt       "Eek!"
 code047b        
 code0309        
 call            @Func_1392
@@ -202,9 +202,9 @@ code047b
 code047d        1, 120
 code0301        8, 7
 code047e        1, 1
-dialogtxt       "I said keep it down!"
-dialogtxt       "I told you about the shackles"
-dialogtxt       "yesterday. Did you forget already?"
+dialogtxt       "I said keep it down! I told you"
+dialogtxt       "about the shackles yesterday."
+dialogtxt       "Did you forget already?"
 code047b        
 code0309        
 code047e        1, 0
@@ -215,13 +215,13 @@ code047d        1, 0
 call            @Func_13c0
 call            @Func_135c
 jumpz           @Cond_0928, ($b002 == 0)
-dialogtxt       "You bastard...!"
-dialogtxt       "What did you do to [NAME 1]!?"
+dialogtxt       "You creep! What did you"
+dialogtxt       "do to [NAME 1]?!"
 goto            @Label_0950
 
 @Cond_0928:
-dialogtxt       "You bastard...!"
-dialogtxt       "What did you do to [NAME 1]!?"
+dialogtxt       "You creep! What did you"
+dialogtxt       "do to [NAME 1]!?"
 goto            @Label_0950
 
 @Label_0950:
@@ -282,8 +282,7 @@ code0479        1, 5, 17
 code047d        1, 107
 call            @Func_13c0
 call            @Func_133e
-dialogtxt       "Hey!?"
-dialogtxt       "[NAME 2]!?"
+dialogtxt       "No way, [NAME 2]?!"
 code047b        
 code0309        
 call            @Func_1416
@@ -295,8 +294,8 @@ code047d        0, 0
 code047d        1, 120
 code0301        8, 7
 code047e        1, 1
-dialogtxt       "Stop complaining!"
-dialogtxt       "Be quiet and come with me."
+dialogtxt       "Stop complaining! Shut up"
+dialogtxt       "and come with me."
 code0309        
 code047e        1, 0
 code0302        7
@@ -304,11 +303,11 @@ code0479        0, 2, 14
 call            @Func_13aa
 call            @Func_12f0
 jumpz           @Cond_0d28, ($b002 == 0)
-dialogtxt       "Darn!"
+dialogtxt       "Ugh!"
 goto            @Label_0d36
 
 @Cond_0d28:
-dialogtxt       "Ugh...!"
+dialogtxt       "Hmph...!"
 goto            @Label_0d36
 
 @Label_0d36:
@@ -534,4 +533,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-
