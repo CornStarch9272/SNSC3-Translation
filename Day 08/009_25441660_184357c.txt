@@ -68,7 +68,7 @@ code0309
 code0479        1, 2, 16
 dialogtxt       "V.E, take Lute Cave, and"
 dialogtxt       "[NAME 2] can go from "
-dialogtxt       "Pubick Forest to Marnail Station!"
+dialogtxt       "Purbeak Forest to Marnail Station!"
 code0309        
 call            @Func_19ac
 code0479        0, 0, 16

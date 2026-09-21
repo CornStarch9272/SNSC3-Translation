@@ -15,7 +15,7 @@ const findRplceBtn = document.getElementById('find-replace-button');
 const replaceAllBtn = document.getElementById('replace-files-button');
 
 // Folders for find and replace
-const FindAndRepFolders = ["Day 00", "Day 01", "Day 02", "Day 03", "Day 04", "Day 05", "Day 06", "Day 07", "Day 08", "Day 09", "Day 10", "Final Day", "Post Game"];
+const FindAndRepFolders = ["Day 00", "Day 01", "Day 02", "Day 03", "Day 04", "Day 05", "Day 06", "Day 07", "Day 08", "Day 09", "Day 10", "Final Day", "Post Game","Unsorted"];
 
 const openJsonBtn = document.getElementById('open-json-button');
 const saveJsonBtn = document.getElementById('save-json-button');
