@@ -40,14 +40,12 @@ code047d        1, 2
 call            @Func_0f52
 call            @Func_0e4e
 jumpz           @Cond_01ea, ($b002 == 0)
-dialogtxt       "Brr..."
-dialogtxt       "It's cold in here..."
+dialogtxt       "Brr... It's too cold in here!"
 dialogtxt       "Is it because of the water?"
 goto            @Label_0220
 
 @Cond_01ea:
-dialogtxt       "Brr..."
-dialogtxt       "It's cold in here..."
+dialogtxt       "Brr... It's too cold in here!"
 dialogtxt       "Is it because of the water?"
 goto            @Label_0220
 
@@ -76,9 +74,8 @@ goto            @Label_02b8
 @Label_02b8:
 call            @Func_0ed8
 jumpz           @Cond_0420, ($b003 == 0)
-dialogtxt       "I Can Detect A Faint"
-dialogtxt       "Energy Within The Ruins."
-dialogtxt       "Take Caution."
+dialogtxt       "I Detect A Faint Energy Within"
+dialogtxt       "The Ruins. Proceed With Caution."
 code0309        
 call            @Func_0f0e
 code0479        0, 2, 12
@@ -96,18 +93,18 @@ code0309
 call            @Func_0ea2
 code0479        1, 0, 12
 call            @Func_0ed8
-dialogtxt       "You May Understand, But You Must"
-dialogtxt       "Also Show That In Your Actions..."
+dialogtxt       "You May Understand, But Your"
+dialogtxt       "Actions Should Also Reflect This."
 code0309        
 call            @Func_0f0e
 code0479        0, 1, 17
 call            @Func_0e6c
 jumpz           @Cond_0404, ($b002 == 0)
-dialogtxt       "Yeah, I know!"
+dialogtxt       "I know!"
 goto            @Label_041c
 
 @Cond_0404:
-dialogtxt       "Yeah, I know!"
+dialogtxt       "I know!"
 goto            @Label_041c
 
 @Label_041c:
@@ -115,8 +112,8 @@ goto            @Cond_0420
 
 @Cond_0420:
 jumpz           @Cond_0578, ($b003 == 1)
-dialogtxt       "I can feel an unpleasant presence..."
-dialogtxt       "Be cautious."
+dialogtxt       "Take heed. I can feel an"
+dialogtxt       "unpleasant presence inside."
 code0309        
 call            @Func_0f0e
 code0479        0, 2, 12
@@ -140,11 +137,11 @@ call            @Func_0f0e
 code0479        0, 1, 17
 call            @Func_0e6c
 jumpz           @Cond_0556, ($b002 == 0)
-dialogtxt       "Yeah, yeah, let's go already!"
+dialogtxt       "I said I know!"
 goto            @Label_0574
 
 @Cond_0556:
-dialogtxt       "Yeah, yeah, let's go already!"
+dialogtxt       "I said I know!"
 goto            @Label_0574
 
 @Label_0574:
@@ -153,18 +150,18 @@ goto            @Cond_0578
 @Cond_0578:
 jumpz           @Cond_0708, ($b003 == 2)
 dialogtxt       "What the? This energy..."
-dialogtxt       "An unpleasant aura"
-dialogtxt       "different from yours..."
+dialogtxt       "That's an unpleasant aura in"
+dialogtxt       "here. Not like yours."
 code0309        
 call            @Func_0f0e
 code0479        0, 2, 14
 call            @Func_0e6c
 jumpz           @Cond_061e, ($b002 == 0)
-dialogtxt       "Hey, what's your problem?"
+dialogtxt       "Hey! What's your problem?"
 goto            @Label_0644
 
 @Cond_061e:
-dialogtxt       "Hey, what's your problem?"
+dialogtxt       "Hey! What's your problem?"
 goto            @Label_0644
 
 @Label_0644:
@@ -172,20 +169,17 @@ code0309
 call            @Func_0ea2
 code0479        1, 0, 13
 call            @Func_0ed8
-dialogtxt       "Nothing."
-dialogtxt       "I'm already used to you."
+dialogtxt       "Nothing. I'm already used to you."
 code0309        
 call            @Func_0f0e
 code0479        0, 2, 16
 call            @Func_0e6c
 jumpz           @Cond_06de, ($b002 == 0)
-dialogtxt       "Ugh."
-dialogtxt       "Alright, let's just keep moving!"
+dialogtxt       "Ugh. Whatever, let's keep moving."
 goto            @Label_0704
 
 @Cond_06de:
-dialogtxt       "Ugh."
-dialogtxt       "Alright, let's just keep moving!"
+dialogtxt       "Ugh. Whatever, let's keep moving."
 goto            @Label_0704
 
 @Label_0704:
@@ -200,13 +194,11 @@ call            @Func_0f0e
 code0479        0, 0, 14
 call            @Func_0e6c
 jumpz           @Cond_079a, ($b002 == 0)
-dialogtxt       "Hm?"
-dialogtxt       "Are you scared?"
+dialogtxt       "Hm? Are you scared?"
 goto            @Label_07b6
 
 @Cond_079a:
-dialogtxt       "Hm?"
-dialogtxt       "Are you scared?"
+dialogtxt       "Hm? Are you scared?"
 goto            @Label_07b6
 
 @Label_07b6:
@@ -214,7 +206,7 @@ code0309
 call            @Func_0ea2
 code0479        1, 5, 17
 call            @Func_0ed8
-dialogtxt       "I—I never said that."
+dialogtxt       "I-I never said that."
 dialogtxt       "Just that it's unpleasant."
 dialogtxt       "Anyway, please be careful!"
 code0309        
@@ -222,11 +214,11 @@ call            @Func_0f0e
 code0479        0, 1, 16
 call            @Func_0e6c
 jumpz           @Cond_0876, ($b002 == 0)
-dialogtxt       "I know."
+dialogtxt       "I know!"
 goto            @Label_088a
 
 @Cond_0876:
-dialogtxt       "I know."
+dialogtxt       "I know!"
 goto            @Label_088a
 
 @Label_088a:
@@ -453,4 +445,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-

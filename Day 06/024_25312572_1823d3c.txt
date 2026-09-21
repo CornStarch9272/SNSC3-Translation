@@ -46,13 +46,13 @@ code047d        1, 2
 call            @Func_0f22
 call            @Func_0e1e
 jumpz           @Cond_0238, ($b002 == 0)
-dialogtxt       "Looks like Gramps isn't here..."
-dialogtxt       "I'll be borrowing his workshop."
+dialogtxt       "Looks like Gramps isn't here."
+dialogtxt       "Guess I can borrow his workshop..."
 goto            @Label_0276
 
 @Cond_0238:
-dialogtxt       "Looks like Gallahan isn't here..."
-dialogtxt       "I'll be borrowing his workshop."
+dialogtxt       "Looks like Gramps isn't here."
+dialogtxt       "Guess I can borrow his workshop..."
 goto            @Label_0276
 
 @Label_0276:
@@ -88,13 +88,13 @@ call            @Func_0e3c
 jumpz           @Cond_03ba, ($b002 == 0)
 dialogtxt       "I can't ask if he's not here."
 dialogtxt       "I'll pay for whatever I use,"
-dialogtxt       "it'll be fine."
+dialogtxt       "so it's fine."
 goto            @Label_0410
 
 @Cond_03ba:
 dialogtxt       "I can't ask if he's not here."
 dialogtxt       "I'll pay for whatever I use,"
-dialogtxt       "it'll be fine."
+dialogtxt       "so it's fine."
 goto            @Label_0410
 
 @Label_0410:
@@ -107,22 +107,22 @@ goto            @Cond_0444
 
 @Cond_0444:
 jumpz           @Cond_059a, ($b003 == 1)
-dialogtxt       "You're gonna borrow it "
+dialogtxt       "You intend to just borrow it"
 dialogtxt       "without his permission?"
-code0309        
+code0309		
 call            @Func_0ede
 code0479        0, 0, 14
 call            @Func_0e3c
 jumpz           @Cond_04f6, ($b002 == 0)
 dialogtxt       "I can't ask if he's not here."
 dialogtxt       "I'll pay for whatever I use,"
-dialogtxt       "it'll be fine."
+dialogtxt       "so it's fine."
 goto            @Label_054c
 
 @Cond_04f6:
 dialogtxt       "I can't ask if he's not here."
 dialogtxt       "I'll pay for whatever I use,"
-dialogtxt       "it'll be fine."
+dialogtxt       "so it's fine."
 goto            @Label_054c
 
 @Label_054c:
@@ -130,28 +130,25 @@ code0309
 call            @Func_0e72
 code0479        1, 2, 14
 call            @Func_0ea8
-dialogtxt       "That is true, however..."
-dialogtxt       "You shouldn't think that way."
+dialogtxt       "You are correct. Even still,"
+dialogtxt       "though, we mustn't be too lax."
 goto            @Cond_059a
 
 @Cond_059a:
 jumpz           @Cond_06c6, ($b003 == 2)
-dialogtxt       "Hmph."
-dialogtxt       "So you're stealing from him?"
+dialogtxt       "Hmph. So you're stealing from him?"
 code0309        
 call            @Func_0ede
 code0479        0, 1, 17
 call            @Func_0e3c
 jumpz           @Cond_0642, ($b002 == 0)
-dialogtxt       "I'm not!"
-dialogtxt       "I'm just borrowing!"
-dialogtxt       "I'll pay for whatever I use."
+dialogtxt       "I'm not! I'm just borrowing!"
+dialogtxt       "I'll pay for anything I use."
 goto            @Label_0690
 
 @Cond_0642:
-dialogtxt       "I'm not!"
-dialogtxt       "I'm just borrowing!"
-dialogtxt       "I'll pay for whatever I use."
+dialogtxt       "I'm not! I'm just borrowing!"
+dialogtxt       "I'll pay for anything I use."
 goto            @Label_0690
 
 @Label_0690:
@@ -159,13 +156,12 @@ code0309
 call            @Func_0e72
 code0479        1, 2, 14
 call            @Func_0ea8
-dialogtxt       "Tch."
-dialogtxt       "Boring."
+dialogtxt       "Tch. How boring."
 goto            @Cond_06c6
 
 @Cond_06c6:
 jumpz           @Cond_085e, ($b003 == 3)
-dialogtxt       "W—Without permission?"
+dialogtxt       "W-Without permission?"
 code0309        
 call            @Func_0ede
 code0479        0, 0, 14
@@ -187,9 +183,8 @@ code0309
 call            @Func_0e72
 code0479        1, 2, 12
 call            @Func_0ea8
-dialogtxt       "Oh, I'm not scared"
-dialogtxt       "of that at all."
-dialogtxt       "Borrow away!"
+dialogtxt       "Oh, I'm not scared of that."
+dialogtxt       "Not at all! Borrow away!"
 goto            @Cond_085e
 
 @Cond_085e:

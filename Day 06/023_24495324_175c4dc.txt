@@ -119,9 +119,9 @@ code040b
 
 @Event_04f6:
 code0301        8, 7
-dialogtxt       "A notice From Gallahan's Workshop:"
-dialogtxt       "When a clerk is not at the counter,"
-dialogtxt       "please shop at your own convenience."
+dialogtxt       "A notice from Gallahan's Workshop:"
+dialogtxt       "Customers are welcome to continue"
+dialogtxt       "shopping, even if no clerk is present."
 code0309        
 code0302        7
 code040b        
@@ -317,4 +317,3 @@ code031f        7
 code031a        7
 code033e        196
 ret             
-

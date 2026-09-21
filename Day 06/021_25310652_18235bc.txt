@@ -65,8 +65,7 @@ goto            @Cond_0266
 
 @Cond_0266:
 jumpz           @Cond_0298, ($b003 == 2)
-dialogtxt       "Tch..."
-dialogtxt       "There's a human there."
+dialogtxt       "Tch... There's a human there."
 goto            @Cond_0298
 
 @Cond_0298:
@@ -81,15 +80,13 @@ call            @Func_09c2
 code0479        0, 2, 14
 call            @Func_0920
 jumpz           @Cond_032a, ($b002 == 0)
-dialogtxt       "We might get caught"
-dialogtxt       "if we head this way..."
-dialogtxt       "We'll have to be careful."
+dialogtxt       "We might get caught if we head"
+dialogtxt       "this way. We'll have to be careful."
 goto            @Label_0366
 
 @Cond_032a:
-dialogtxt       "We might get caught"
-dialogtxt       "if we head this way..."
-dialogtxt       "We'll have to be careful."
+dialogtxt       "We might get caught if we head"
+dialogtxt       "this way. We'll have to be careful."
 goto            @Label_0366
 
 @Label_0366:
@@ -308,4 +305,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-

@@ -31,7 +31,7 @@ code047d        1, 2
 call            @Func_0940
 call            @Func_08a8
 jumpz           @Cond_014e, ($b003 == 0)
-dialogtxt       "Please Be Careful!"
+dialogtxt       "Please Use Caution!"
 goto            @Cond_014e
 
 @Cond_014e:
@@ -46,7 +46,7 @@ goto            @Cond_0192
 
 @Cond_0192:
 jumpz           @Cond_01b8, ($b003 == 3)
-dialogtxt       "Please wait!"
+dialogtxt       "Hold on!"
 goto            @Cond_01b8
 
 @Cond_01b8:
@@ -64,13 +64,13 @@ code047d        1, 0
 call            @Func_092a
 call            @Func_08c6
 jumpz           @Cond_0254, ($b002 == 0)
-dialogtxt       "There's someone there..."
-dialogtxt       "Can't go this way..."
+dialogtxt       "There's someone there."
+dialogtxt       "I'd better find a different way."
 goto            @Label_027c
 
 @Cond_0254:
-dialogtxt       "There's someone there..."
-dialogtxt       "Can't go this way..."
+dialogtxt       "There's someone there."
+dialogtxt       "I'd better find a different way."
 goto            @Label_027c
 
 @Label_027c:
@@ -293,4 +293,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-

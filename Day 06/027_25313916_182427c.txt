@@ -43,15 +43,13 @@ code047d        1, 2
 call            @Func_0b1c
 call            @Func_0a18
 jumpz           @Cond_0216, ($b002 == 0)
-dialogtxt       "This is the ruins where"
-dialogtxt       "their master is..."
-dialogtxt       "It's huge..."
+dialogtxt       "These are the ruins where their"
+dialogtxt       "master lives. They're huge...!"
 goto            @Label_0252
 
 @Cond_0216:
-dialogtxt       "This is the ruins where"
-dialogtxt       "their master is..."
-dialogtxt       "It's huge..."
+dialogtxt       "These are the ruins where their"
+dialogtxt       "master lives. They're huge...!"
 goto            @Label_0252
 
 @Label_0252:
@@ -80,15 +78,13 @@ goto            @Label_02ea
 call            @Func_0aa2
 jumpz           @Cond_0356, ($b003 == 0)
 dialogtxt       "Lady Murno Is Underground."
-dialogtxt       "There Must Be A Way In."
-dialogtxt       "Let Us Hurry."
+dialogtxt       "There Must Be A Way In. Proceed."
 goto            @Cond_0356
 
 @Cond_0356:
 jumpz           @Cond_03ae, ($b003 == 1)
 dialogtxt       "Murno is being held underground."
-dialogtxt       "There must be a way in!"
-dialogtxt       "Hurry!"
+dialogtxt       "Make haste! We must find a way inside."
 goto            @Cond_03ae
 
 @Cond_03ae:
@@ -100,8 +96,7 @@ goto            @Cond_0402
 @Cond_0402:
 jumpz           @Cond_0466, ($b003 == 3)
 dialogtxt       "Lady Murno is being held here!"
-dialogtxt       "There must be a way in!"
-dialogtxt       "Let's hurry!"
+dialogtxt       "There must be a way in! Hurry!"
 goto            @Cond_0466
 
 @Cond_0466:
@@ -322,4 +317,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-

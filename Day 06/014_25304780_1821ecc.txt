@@ -37,7 +37,7 @@ code046e        38, 256, 1
 code047d        1, 151
 code0301        8, 7
 code047e        1, 1
-dialogtxt       "... Zzz"
+dialogtxt       "Zzz..."
 code0309        
 code047e        1, 0
 code0302        7
@@ -53,13 +53,11 @@ code0479        0, 2, 14
 call            @Func_0d56
 call            @Func_0c7e
 jumpz           @Cond_02a2, ($b002 == 0)
-dialogtxt       "He's sleeping...?"
-dialogtxt       "... Right?"
+dialogtxt       "He's sleeping... right?"
 goto            @Label_02c4
 
 @Cond_02a2:
-dialogtxt       "He's sleeping...?"
-dialogtxt       "... Right?"
+dialogtxt       "He's sleeping... right?"
 goto            @Label_02c4
 
 @Label_02c4:
@@ -70,7 +68,7 @@ call            @Func_0cd2
 code047b        
 code0301        8, 7
 code047e        1, 1
-dialogtxt       "... Zzz"
+dialogtxt       "Zzz..."
 code0309        
 code047e        1, 0
 code0302        7
@@ -83,12 +81,12 @@ call            @Func_0d6c
 call            @Func_0d08
 jumpz           @Cond_03a0, ($b002 == 0)
 dialogtxt       "Anyway, we have to hurry!"
-dialogtxt       "[NAME 1], what are you doing!?"
+dialogtxt       "[NAME 1], what are you doing?"
 goto            @Label_03d6
 
 @Cond_03a0:
 dialogtxt       "Anyway, we have to hurry!"
-dialogtxt       "[NAME 1], what are you doing!?"
+dialogtxt       "[NAME 1], what are you doing?"
 goto            @Label_03d6
 
 @Label_03d6:
@@ -124,26 +122,22 @@ code047d        0, 2
 code0301        8, 4
 code047e        0, 1
 jumpz           @Cond_0524, ($b003 == 0)
-dialogtxt       "I Cannot Get Out."
-dialogtxt       "The Door Is Locked."
+dialogtxt       "I Cannot Get Out. The Door Is Locked."
 goto            @Cond_0524
 
 @Cond_0524:
 jumpz           @Cond_056e, ($b003 == 1)
-dialogtxt       "The door won't open!"
-dialogtxt       "I can't get out!"
+dialogtxt       "The door won't open! I can't get out!"
 goto            @Cond_056e
 
 @Cond_056e:
 jumpz           @Cond_05b2, ($b003 == 2)
-dialogtxt       "The door won't open!"
-dialogtxt       "Do something!"
+dialogtxt       "The door won't open! Do something!"
 goto            @Cond_05b2
 
 @Cond_05b2:
 jumpz           @Cond_061c, ($b003 == 3)
-dialogtxt       "The door won't open!"
-dialogtxt       "Please do something!"
+dialogtxt       "The door won't open! Some help, please?"
 goto            @Cond_061c
 
 @Cond_061c:

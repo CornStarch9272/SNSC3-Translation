@@ -30,8 +30,7 @@ code047d        0, 0
 call            @Func_1d00
 call            @Func_1d00
 call            @Func_1c28
-dialogtxt       "I'm sorry!"
-dialogtxt       "I'm gonna break it!"
+dialogtxt       "Sorryy, I'm gonna have to break it!"
 code0309        
 call            @Func_1d56
 call            @Func_1c64
@@ -77,13 +76,11 @@ code047d        1, 2
 call            @Func_1d00
 call            @Func_1c28
 jumpz           @Cond_035c, ($b002 == 0)
-dialogtxt       "There, it's open!"
-dialogtxt       "[NAME 1]!"
+dialogtxt       "There, it's open! [NAME 1]!"
 goto            @Label_037c
 
 @Cond_035c:
-dialogtxt       "There, it's open!"
-dialogtxt       "[NAME 1]!"
+dialogtxt       "There, it's open! [NAME 1]!"
 goto            @Label_037c
 
 @Label_037c:
@@ -124,7 +121,7 @@ goto            @Cond_0478
 
 @Cond_0478:
 jumpz           @Cond_0498, ($b003 == 2)
-dialogtxt       "You took too long."
+dialogtxt       "Took you long enough."
 goto            @Cond_0498
 
 @Cond_0498:
@@ -202,13 +199,13 @@ code047d        0, 2
 call            @Func_1d2c
 call            @Func_1c94
 jumpz           @Cond_07d0, ($b002 == 0)
-dialogtxt       "Just wait!"
-dialogtxt       "I'll remove those shackles!"
+dialogtxt       "Give me a minute, I'll get those"
+dialogtxt       "shackles off you, too!"
 goto            @Label_0804
 
 @Cond_07d0:
-dialogtxt       "Just wait!"
-dialogtxt       "I'll get those shackles off!"
+dialogtxt       "Give me a minute, I'll help you"
+dialogtxt       "out of those shackles, too!"
 goto            @Label_0804
 
 @Label_0804:
@@ -241,7 +238,7 @@ goto            @Cond_08cc
 
 @Cond_08cc:
 jumpz           @Cond_08ec, ($b003 == 1)
-dialogtxt       "Sorry, thanks!"
+dialogtxt       "My apologies!"
 goto            @Cond_08ec
 
 @Cond_08ec:
@@ -287,15 +284,13 @@ goto            @Label_0a22
 call            @Func_1d2c
 call            @Func_1c94
 jumpz           @Cond_0a6e, ($b002 == 0)
-dialogtxt       "Okay, here we go..."
-dialogtxt       "Hm?"
-dialogtxt       "Like this...?"
+dialogtxt       "Alright, here we go. So, I should"
+dialogtxt       "be able to just... Hmm?"
 goto            @Label_0aa6
 
 @Cond_0a6e:
-dialogtxt       "Okay, here we go..."
-dialogtxt       "Hm?"
-dialogtxt       "Like this...?"
+dialogtxt       "Alright, here we go. So, I should"
+dialogtxt       "be able to just... Hmm?"
 goto            @Label_0aa6
 
 @Label_0aa6:
@@ -332,9 +327,9 @@ code0446        0
 code0479        1, 4, 16
 call            @Func_1d2c
 call            @Func_1c94
-dialogtxt       "Do this... here..."
-dialogtxt       "Huh?"
-dialogtxt       "What!?"
+dialogtxt       "Just gotta do this..."
+dialogtxt       "Then over here, I..."
+dialogtxt       "Huh? Wait, that's..."
 code047b        
 code0309        
 call            @Func_1ce8
@@ -391,15 +386,13 @@ code0479        1, 1, 15
 call            @Func_1d2c
 call            @Func_1c94
 jumpz           @Cond_0d8c, ($b002 == 0)
-dialogtxt       "Argh! Forget it."
-dialogtxt       "This is annoying."
-dialogtxt       "I'll just break them!"
+dialogtxt       "Argh! This sucks! Forget it,"
+dialogtxt       "I'm just gonna break 'em."
 goto            @Label_0dba
 
 @Cond_0d8c:
-dialogtxt       "..."
-dialogtxt       "Forget it. This is annoying."
-dialogtxt       "I'll just break them!"
+dialogtxt       "This sucks! Forget this,"
+dialogtxt       "let me just break 'em."
 goto            @Label_0dba
 
 @Label_0dba:
@@ -427,17 +420,17 @@ goto            @Label_0e52
 @Label_0e52:
 call            @Func_1c46
 jumpz           @Cond_0e80, ($b003 == 0)
-dialogtxt       "Be Careful!"
+dialogtxt       "Use Caution!"
 goto            @Cond_0e80
 
 @Cond_0e80:
 jumpz           @Cond_0eaa, ($b003 == 1)
-dialogtxt       "Hey, watch it..."
+dialogtxt       "Hey, be careful..."
 goto            @Cond_0eaa
 
 @Cond_0eaa:
 jumpz           @Cond_0ed4, ($b003 == 2)
-dialogtxt       "Hey, watch it..."
+dialogtxt       "Hey, watch it!"
 goto            @Cond_0ed4
 
 @Cond_0ed4:
@@ -560,27 +553,26 @@ goto            @Label_1344
 @Label_1344:
 call            @Func_1c46
 jumpz           @Cond_1390, ($b003 == 0)
-dialogtxt       "I Hoped You Would Have"
-dialogtxt       "Been More Careful."
+dialogtxt       "My Instructions Were Disregarded..."
 goto            @Cond_1390
 
 @Cond_1390:
 jumpz           @Cond_13e0, ($b003 == 1)
-dialogtxt       "Hey, be careful!"
-dialogtxt       "If you had missed..."
+dialogtxt       "Stop being so reckless!  I shudder"
+dialogtxt       "to think what would have happened"
+dialogtxt       "if you had missed..."
 goto            @Cond_13e0
 
 @Cond_13e0:
 jumpz           @Cond_142c, ($b003 == 2)
-dialogtxt       "Hey, couldn't you have been"
-dialogtxt       "at least a little bit more careful?"
+dialogtxt       "Jeez, couldn't you have been"
+dialogtxt       "at least a little more careful?!"
 goto            @Cond_142c
 
 @Cond_142c:
 jumpz           @Cond_1490, ($b003 == 3)
-dialogtxt       "You almost hit me!"
-dialogtxt       "I wish you had been"
-dialogtxt       "a bit more careful!"
+dialogtxt       "You almost hit me! I wish you'd"
+dialogtxt       "be at least a bit more careful!"
 goto            @Cond_1490
 
 @Cond_1490:
@@ -589,18 +581,18 @@ call            @Func_1c7c
 code0479        1, 2, 12
 call            @Func_1cb2
 jumpz           @Cond_153c, ($b002 == 0)
-dialogtxt       "Come on, Murno's at"
-dialogtxt       "the Rekui Water Ruins"
-dialogtxt       "outside the village!"
+dialogtxt       "Come on, we've gotta go!"
+dialogtxt       "Murno's at the Rekui Water"
+dialogtxt       "Ruins, outside the village!"
 code0309        
 code0479        1, 2, 15
-dialogtxt       "Let's hurry!"
+dialogtxt       "Hurry!"
 goto            @Label_15c2
 
 @Cond_153c:
-dialogtxt       "Come on, Murno's at"
-dialogtxt       "the Rekui Water Ruins"
-dialogtxt       "outside the village!"
+dialogtxt       "Come on, we've gotta go!"
+dialogtxt       "Murno's at the Rekui Water"
+dialogtxt       "Ruins, outside the village!"
 code0309        
 code0479        1, 2, 15
 dialogtxt       "Let's hurry!"

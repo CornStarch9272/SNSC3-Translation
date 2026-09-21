@@ -4,15 +4,13 @@ code047d        0, 0
 call            @Func_0720
 call            @Func_0648
 jumpz           @Cond_007e, ($b002 == 0)
-dialogtxt       "It's locked..."
-dialogtxt       "Maybe I can break it "
-dialogtxt       "with my hammer."
+dialogtxt       "It's locked. Maybe I can break"
+dialogtxt       "it  with my hammer?"
 goto            @Label_00b4
 
 @Cond_007e:
-dialogtxt       "It's locked..."
-dialogtxt       "Maybe I can break it "
-dialogtxt       "with my hammer."
+dialogtxt       "It's locked. Maybe I can break"
+dialogtxt       "it  with my hammer?"
 goto            @Label_00b4
 
 @Label_00b4:
@@ -228,4 +226,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-
