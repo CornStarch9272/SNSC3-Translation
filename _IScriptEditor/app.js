@@ -2114,7 +2114,7 @@ function saveJsonFile(){
         }
     }
     const a = document.createElement('a');
-    jsonText = JSON.stringify(jsonData, null, 4).replaceAll('\\\\', '\\') + '\n';
+    jsonText = JSON.stringify(jsonData, null, 2).replaceAll('\\\\', '\\') + '\n';
     const blob = new Blob([jsonText], {type: 'text/plain;charset=utf-8'});
     const url = URL.createObjectURL(blob);
     a.href = url;
