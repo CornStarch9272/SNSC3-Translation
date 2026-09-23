@@ -53179,7 +53179,7 @@
           }
         ],
         "raw": "強化を無効にしてアイテムを\u0000\u0000",
-        "translation": " Clear the weapon of the\u0000",
+        "translation": " Spend TEC to remove the items\u0000",
         "type": "SJIS string"
       },
       {
@@ -53196,7 +53196,7 @@
           }
         ],
         "raw": "取り出せます\u0000\u0000\u0000\u0000",
-        "translation": " items used to upgrade it\u0000\u0000",
+        "translation": " a weapon was upgraded with\u0000\u0000",
         "type": "SJIS string"
       },
       {

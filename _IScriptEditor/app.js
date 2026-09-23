@@ -2085,7 +2085,7 @@ function readJsonFile() {
         reader.onload = function(e){
             jsonText = e.target.result;
             document.getElementById('json-content').innerHTML = '';
-            jsonData = JSON.parse(jsonText.replaceAll('\\u', '\\\\u'));
+            jsonData = JSON.parse(jsonText.replaceAll('\\', '\\\\'));
             PAGES = Array();
             PAGE_MAX = 0;
             CURRENT_PAGE = 0;
@@ -2114,7 +2114,7 @@ function saveJsonFile(){
         }
     }
     const a = document.createElement('a');
-    jsonText = JSON.stringify(jsonData, null, 4).replaceAll('\\\\u', '\\u') + '\n';
+    jsonText = JSON.stringify(jsonData, null, 4).replaceAll('\\\\', '\\') + '\n';
     const blob = new Blob([jsonText], {type: 'text/plain;charset=utf-8'});
     const url = URL.createObjectURL(blob);
     a.href = url;
