@@ -15,7 +15,7 @@ const findRplceBtn = document.getElementById('find-replace-button');
 const replaceAllBtn = document.getElementById('replace-files-button');
 
 // Folders for find and replace
-const FindAndRepFolders = ["Day 00", "Day 01", "Day 02", "Day 03", "Day 04", "Day 05", "Day 06", "Day 07", "Day 08", "Day 09", "Day 10", "Final Day", "Post Game"];
+const FindAndRepFolders = ["Day 00", "Day 01", "Day 02", "Day 03", "Day 04", "Day 05", "Day 06", "Day 07", "Day 08", "Day 09", "Day 10", "Final Day", "Post Game","Unsorted"];
 
 const openJsonBtn = document.getElementById('open-json-button');
 const saveJsonBtn = document.getElementById('save-json-button');
@@ -2085,7 +2085,7 @@ function readJsonFile() {
         reader.onload = function(e){
             jsonText = e.target.result;
             document.getElementById('json-content').innerHTML = '';
-            jsonData = JSON.parse(jsonText.replaceAll('\\u', '\\\\u'));
+            jsonData = JSON.parse(jsonText.replaceAll('\\', '\\\\'));
             PAGES = Array();
             PAGE_MAX = 0;
             CURRENT_PAGE = 0;
@@ -2114,7 +2114,7 @@ function saveJsonFile(){
         }
     }
     const a = document.createElement('a');
-    jsonText = JSON.stringify(jsonData, null, 4).replaceAll('\\\\u', '\\u') + '\n';
+    jsonText = JSON.stringify(jsonData, null, 2).replaceAll('\\\\', '\\') + '\n';
     const blob = new Blob([jsonText], {type: 'text/plain;charset=utf-8'});
     const url = URL.createObjectURL(blob);
     a.href = url;
