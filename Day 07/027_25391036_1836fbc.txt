@@ -167,8 +167,8 @@ code0309
 call            @Func_17ec
 code0479        0, 2, 16
 call            @Func_174a
-dialogtxt       "Whoever would believe you after"
-dialogtxt       "after all this is an idiot."
+dialogtxt       "Only an idiot would believe you"
+dialogtxt       "after all this."
 code0309        
 call            @Func_1780
 code0479        1, 2, 13
