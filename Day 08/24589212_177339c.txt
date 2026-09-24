@@ -222,7 +222,7 @@ call            @Func_350a
 code0479        1, 0, 12
 call            @Func_3540
 dialogtxt       "There Is A Ferocious Summon Beast"
-dialogtxt       "Called Red Wing In That Area."
+dialogtxt       "Called Crimson Wing In That Area."
 dialogtxt       "Please Take Caution."
 code0309        
 call            @Func_3576
@@ -257,7 +257,7 @@ call            @Func_350a
 code0479        1, 2, 14
 call            @Func_3540
 dialogtxt       "There's a ferocious Summon Beast"
-dialogtxt       "called Red Wing in that area."
+dialogtxt       "called Crimson Wing in that area."
 dialogtxt       "As the saying goes,"
 code0309        
 code0479        1, 2, 14
@@ -302,7 +302,7 @@ call            @Func_350a
 code0479        1, 0, 13
 call            @Func_3540
 dialogtxt       "I hear there's a ferocious Summon"
-dialogtxt       "Beast called Red Wing there."
+dialogtxt       "Beast called Crimson Wing there."
 dialogtxt       "This will be fun..."
 code0309        
 call            @Func_3576
@@ -337,7 +337,7 @@ call            @Func_350a
 code0479        1, 2, 16
 call            @Func_3540
 dialogtxt       "I've heard that a ferocious Summon"
-dialogtxt       "Beast called Red Wing is there."
+dialogtxt       "Beast called Crimson Wing is there."
 dialogtxt       "We must be careful..."
 code0309        
 call            @Func_3576
@@ -401,7 +401,7 @@ call            @Func_350a
 code0479        1, 0, 12
 call            @Func_3540
 dialogtxt       "There Is A Ferocious Summon Beast"
-dialogtxt       "Called Red Wing In That Area."
+dialogtxt       "Called Crimson Wing In That Area."
 dialogtxt       "Please Take Caution."
 code0309        
 call            @Func_3576
@@ -436,7 +436,7 @@ call            @Func_350a
 code0479        1, 2, 14
 call            @Func_3540
 dialogtxt       "There's a ferocious Summon Beast"
-dialogtxt       "called Red Wing in that area."
+dialogtxt       "called Crimson Wing in that area."
 dialogtxt       "As the saying goes,"
 code0309        
 code0479        1, 2, 14
@@ -481,7 +481,7 @@ call            @Func_350a
 code0479        1, 0, 13
 call            @Func_3540
 dialogtxt       "I hear there's a ferocous Summon"
-dialogtxt       "Beast called Red Wing there."
+dialogtxt       "Beast called Crimson Wing there."
 dialogtxt       "This will be fun..."
 code0309        
 call            @Func_3576
@@ -516,7 +516,7 @@ call            @Func_350a
 code0479        1, 2, 16
 call            @Func_3540
 dialogtxt       "I've heard of a ferocious Summon"
-dialogtxt       "Beast called Red Wing in there."
+dialogtxt       "Beast called Crimson Wing in there."
 dialogtxt       "Now, we must be careful..."
 code0309        
 call            @Func_3576

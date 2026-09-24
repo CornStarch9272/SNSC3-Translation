@@ -82,7 +82,7 @@ code0479        1, 2, 12
 call            @Func_1976
 dialogtxt       "Oh, and don't go to Surange Mine."
 dialogtxt       "There's a dangerous Summon Beast,"
-dialogtxt       "Red Wing, in there."
+dialogtxt       "Crimson Wing, in there."
 code0309        
 call            @Func_1a1a
 call            @Func_19ac
@@ -111,19 +111,19 @@ code047d        0, 2
 call            @Func_19c4
 call            @Func_190a
 jumpz           @Cond_05b6, ($b003 == 0)
-dialogtxt       "Red Wing?"
+dialogtxt       "Crimson Wing?"
 dialogtxt       "Its Feathers Are Red?"
 goto            @Cond_05b6
 
 @Cond_05b6:
 jumpz           @Cond_05ee, ($b003 == 1)
-dialogtxt       "Red Wing?"
+dialogtxt       "Crimson Wing?"
 dialogtxt       "So, its feathers are red?"
 goto            @Cond_05ee
 
 @Cond_05ee:
 jumpz           @Cond_0630, ($b003 == 2)
-dialogtxt       "Red Wing?"
+dialogtxt       "Crimson Wing?"
 dialogtxt       "So..."
 dialogtxt       "Does that mean it has red feathers?"
 goto            @Cond_0630
@@ -158,13 +158,13 @@ call            @Func_19c4
 call            @Func_190a
 jumpz           @Cond_07b6, ($b002 == 0)
 dialogtxt       "So that's why it's called"
-dialogtxt       "Red Wing..."
+dialogtxt       "Crimson Wing..."
 dialogtxt       "That's kinda cool!"
 goto            @Label_07f2
 
 @Cond_07b6:
 dialogtxt       "So that's why it's called"
-dialogtxt       "Red Wing..."
+dialogtxt       "Crimson Wing..."
 dialogtxt       "That's kinda cool!"
 goto            @Label_07f2
 

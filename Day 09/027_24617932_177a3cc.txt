@@ -323,7 +323,7 @@ code0301        8, 7
 code047d        0, 120
 code047e        0, 1
 dialogtxt       "It seems the kid who beat"
-dialogtxt       "Red Wing is around here."
+dialogtxt       "Crimson Wing is around here."
 code0309        
 dialogtxt       "By now, they've turned into a demon,"
 dialogtxt       "no longer recognizable as"

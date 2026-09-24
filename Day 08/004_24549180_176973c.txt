@@ -520,8 +520,8 @@ code047e        0, 1
 dialogtxt       "West of Prosban is"
 dialogtxt       "the Surange Mine."
 code0309        
-dialogtxt       "Be careful though. I've heard a"
-dialogtxt       "Stray called Red Wing is there,"
+dialogtxt       "Be careful though. I've heard that a"
+dialogtxt       "Stray called Crimson Wing is there,"
 dialogtxt       "and people have gone missing."
 code0309        
 code047e        0, 0

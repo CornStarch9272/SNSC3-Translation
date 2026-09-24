@@ -207,7 +207,7 @@ call            @Func_322e
 code0479        0, 5, 14
 call            @Func_318c
 dialogtxt       "Nest?"
-dialogtxt       "So Red Wing really is..."
+dialogtxt       "So Crimson Wing really is..."
 code0309        
 call            @Func_31c2
 code0479        1, 1, 12
@@ -339,9 +339,8 @@ code048c
 call            @Func_325c
 call            @Func_31da
 code0479        1, 0, 13
-dialogtxt       "Our cute Red Wing is just inside,"
-dialogtxt       "but it's been sealed"
-dialogtxt       "with that thing."
+dialogtxt       "Our cute Crimson Wing is just inside,"
+dialogtxt       "but it's been sealed with that thing."
 code0309        
 call            @Func_32b2
 call            @Func_3216

@@ -343,7 +343,7 @@ code0301        8, 7
 code047d        0, 120
 code047e        0, 1
 dialogtxt       "Apparently the one who"
-dialogtxt       "fought off the Red Wing was"
+dialogtxt       "fought off Crimson Wing was"
 dialogtxt       "spotted around here..."
 code0309        
 dialogtxt       "... That kinda person seems dangerous"

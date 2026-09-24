@@ -116,13 +116,13 @@ call            @Func_12aa
 code0479        0, 4, 12
 call            @Func_1208
 jumpz           @Cond_05d6, ($b002 == 0)
-dialogtxt       "And with Red Wing. I don't know if"
-dialogtxt       "we could have won without you."
+dialogtxt       "I don't know if we could have won"
+dialogtxt       "against Crimson Wing without you."
 goto            @Label_0626
 
 @Cond_05d6:
-dialogtxt       "And with Red Wing. I don't know if"
-dialogtxt       "we could have won without you."
+dialogtxt       "I don't know if we could have won"
+dialogtxt       "against Crimson Wing without you."
 goto            @Label_0626
 
 @Label_0626:

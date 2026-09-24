@@ -154,7 +154,7 @@ code047d        0, 118
 code047e        0, 1
 dialogtxt       "You shouldn't go any further."
 dialogtxt       "There's a dangerous Stray"
-dialogtxt       "past here called Red Wing."
+dialogtxt       "past here called Crimson Wing."
 code0309        
 code047e        0, 0
 code0302        7

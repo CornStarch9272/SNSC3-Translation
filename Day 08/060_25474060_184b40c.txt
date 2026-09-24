@@ -30,7 +30,7 @@ goto            @Label_0150
 code047b        
 code0309        
 code0479        0, 0, 16
-dialogtxt       "Huh, where's Red Wing?"
+dialogtxt       "Huh, where's Crimson Wing?"
 code0309        
 call            @Func_0f0e
 code043c        2, 1

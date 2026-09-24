@@ -364,7 +364,7 @@ ret
 code0301        8, 7
 code047d        0, 118
 code047e        0, 1
-dialogtxt       "You beat Red Wing?"
+dialogtxt       "You beat Crimson Wing?"
 dialogtxt       "Amazing..."
 code0309        
 code047e        0, 0
@@ -386,7 +386,7 @@ code040b
 @Event_0f8c:
 code0301        8, 7
 dialogtxt       "Up ahead in Surange Mine was"
-dialogtxt       "a terrifying Stray, Red Wing."
+dialogtxt       "a terrifying Stray, Crimson Wing."
 dialogtxt       "It was defeated just recently."
 code0309        
 dialogtxt       "However, there are still other"

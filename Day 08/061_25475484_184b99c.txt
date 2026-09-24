@@ -16,7 +16,7 @@ code0309
 call            @Func_249c
 code0479        0, 0, 12
 dialogtxt       "Never thought we'd be the ones"
-dialogtxt       "going up against Red Wing..."
+dialogtxt       "going up against Crimson Wing..."
 goto            @Label_019e
 
 @Cond_0114:
@@ -26,8 +26,8 @@ code047b
 code0309        
 call            @Func_249c
 code0479        0, 0, 12
-dialogtxt       "I never thought WE would be the"
-dialogtxt       "ones going up against Red Wing..."
+dialogtxt       "I never thought WE would be the ones"
+dialogtxt       "going up against Crimson Wing..."
 goto            @Label_019e
 
 @Label_019e:
@@ -88,20 +88,20 @@ code047d        0, 2
 call            @Func_2486
 call            @Func_23cc
 jumpz           @Cond_0436, ($b003 == 0)
-dialogtxt       "Red Wing Appears To Have"
+dialogtxt       "Crimson Wing Appears To Have"
 dialogtxt       "Suffered Considerable Damage"
 dialogtxt       "Prior To Our Fight."
 goto            @Cond_0436
 
 @Cond_0436:
 jumpz           @Cond_0486, ($b003 == 1)
-dialogtxt       "Certainly, Red Wing seemed as"
+dialogtxt       "Certainly, Crimson Wing seemed as"
 dialogtxt       "if it were already quite tired."
 goto            @Cond_0486
 
 @Cond_0486:
 jumpz           @Cond_0504, ($b003 == 2)
-dialogtxt       "Thanks to you, that Red Wing"
+dialogtxt       "Thanks to you, that Crimson Wing"
 dialogtxt       "was quite worn out already..."
 dialogtxt       "Tch... You took all the fun out of it."
 goto            @Cond_0504
@@ -125,14 +125,14 @@ code047d        0, 0
 call            @Func_2486
 call            @Func_23cc
 jumpz           @Cond_05f2, ($b002 == 0)
-dialogtxt       "So let's say we all helped to"
-dialogtxt       "defeat Red Wing."
+dialogtxt       "So let's say that we all helped to"
+dialogtxt       "defeat Crimson Wing."
 dialogtxt       "Me, [NAME 1], and you, together..."
 goto            @Label_062a
 
 @Cond_05f2:
-dialogtxt       "So let's say we all helped to"
-dialogtxt       "defeat Red Wing."
+dialogtxt       "So let's say that we all helped to"
+dialogtxt       "defeat Crimson Wing."
 dialogtxt       "Me, [NAME 1], and you, together..."
 goto            @Label_062a
 
@@ -352,7 +352,7 @@ call            @Func_24b2
 call            @Func_241a
 dialogtxt       "Hurry, hurry!"
 dialogtxt       "We need to run, or else"
-dialogtxt       "Red Wing is going to eat us!"
+dialogtxt       "Crimson Wing is gonna eat us!"
 code0309        
 call            @Func_2508
 call            @Func_2456
@@ -365,7 +365,7 @@ code047d        1, 108
 code0479        0, 0, 12
 call            @Func_24b2
 call            @Func_241a
-dialogtxt       "So, where is this Red Wing hiding?"
+dialogtxt       "So, where is Crimson Wing hiding?"
 dialogtxt       "I can't sense it's presence..."
 code047b        
 code0309        
@@ -377,7 +377,7 @@ code0479        1, 2, 13
 code047d        1, 132
 call            @Func_249c
 call            @Func_2438
-dialogtxt       "Even the famed Red Wing"
+dialogtxt       "Even the famed Crimson Wing"
 dialogtxt       "is afraid of us."
 dialogtxt       "Because..."
 code047b        
@@ -387,8 +387,7 @@ code0478        0, 0
 code0479        0, 0, 13
 code047d        0, 0
 call            @Func_23cc
-dialogtxt       "But we've already"
-dialogtxt       "defeated Red Wing."
+dialogtxt       "Oh, we just beat Crimson Wing."
 code0309        
 call            @Func_2508
 call            @Func_23ea
@@ -407,7 +406,7 @@ code0309
 code0332        
 code0479        0, 1, 16
 code0479        1, 5, 17
-dialogtxt       "... Wait, what?"
+dialogtxt       "... Wait, what!?"
 dialogtxt       "You beat it!?"
 code0309        
 call            @Func_24f2
@@ -522,7 +521,7 @@ code0479        1, 2, 13
 code047d        1, 132
 call            @Func_249c
 call            @Func_241a
-dialogtxt       "So, you guys beat Red Wing..."
+dialogtxt       "So, you guys beat Crimson Wing..."
 dialogtxt       "But it's too bad for you guys."
 dialogtxt       "Because..."
 code047b        
@@ -560,8 +559,8 @@ code0479        0, 2, 14
 call            @Func_2486
 call            @Func_23cc
 dialogtxt       "I wanted to capture them,"
-dialogtxt       "but when I heard you were"
-dialogtxt       "being attacked by Red Wing..."
+dialogtxt       "but when I heard you had been"
+dialogtxt       "attacked by Crimson Wing..."
 code0309        
 call            @Func_2508
 call            @Func_23ea

@@ -159,29 +159,29 @@ call            @Func_18f2
 call            @Func_185a
 jumpz           @Cond_0840, ($b003 == 0)
 dialogtxt       "I Have Heard That A Stray"
-dialogtxt       "Called Red Wing Lives There."
+dialogtxt       "Called Crimson Wing Lives There."
 dialogtxt       "And To Stay Away From The Area."
 goto            @Cond_0840
 
 @Cond_0840:
 jumpz           @Cond_08b0, ($b003 == 1)
 dialogtxt       "However, I have heard that a Stray"
-dialogtxt       "called Red Wing lives there, and"
+dialogtxt       "called Crimson Wing lives there, and"
 dialogtxt       "no one is willing to go near it."
 goto            @Cond_08b0
 
 @Cond_08b0:
 jumpz           @Cond_0916, ($b003 == 2)
 dialogtxt       "What?"
-dialogtxt       "Isn't that Red Wing living there?"
-dialogtxt       "No one's supposed to go there."
+dialogtxt       "Doesn't that Crimson Wing live there?"
+dialogtxt       "No one's allowed to go there."
 goto            @Cond_0916
 
 @Cond_0916:
 jumpz           @Cond_0978, ($b003 == 3)
 dialogtxt       "Are you sure?"
 dialogtxt       "I thought everyone was too scared"
-dialogtxt       "of Red Wing to go there..."
+dialogtxt       "of Crimson Wing to go there..."
 goto            @Cond_0978
 
 @Cond_0978:

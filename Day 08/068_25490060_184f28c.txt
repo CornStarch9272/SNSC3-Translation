@@ -49,7 +49,7 @@ dialogtxt       "Thanks to you, we learned"
 dialogtxt       "about Anise and her gang."
 code0309        
 code0479        1, 0, 13
-dialogtxt       "And you eliminated Red Wing."
+dialogtxt       "And you eliminated Crimson Wing."
 code0309        
 call            @Func_0f0e
 code0479        0, 0, 13
@@ -97,8 +97,8 @@ call            @Func_0ea2
 code0479        1, 0, 12
 call            @Func_0ed8
 dialogtxt       "But still, I'm amazed"
-dialogtxt       "you guys managed to"
-dialogtxt       "defeat Red Wing by yourselves."
+dialogtxt       "you guys managed to defeat"
+dialogtxt       "Crimson Wing by yourselves."
 code0309        
 call            @Func_0f0e
 code0479        0, 2, 12
@@ -128,7 +128,7 @@ call            @Func_0f0e
 code0479        0, 0, 16
 call            @Func_0e6c
 dialogtxt       "Summon Beast?"
-dialogtxt       "None besides Red Wing..."
+dialogtxt       "None besides Crimson Wing..."
 code0309        
 call            @Func_0ea2
 code0479        1, 4, 12
