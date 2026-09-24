@@ -183,7 +183,7 @@ goto            @Cond_0802
 
 @Cond_0802:
 jumpz           @Cond_0832, ($b003 == 2)
-dialogtxt       " So he says."
+dialogtxt       "So he says."
 dialogtxt       "Murno."
 goto            @Cond_0832
 
