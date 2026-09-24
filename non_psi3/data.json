@@ -20643,7 +20643,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "アキニール鉱\u0000\u0000\u0000\u0000\u0000\u0000",
-              "translation": "Akineel Ore\u0000",
+              "translation": "Achneil Ore\u0000",
               "type": "SJIS string"
             },
             "offset": 0,
@@ -39335,7 +39335,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "グレイブアロウ\u0000\u0000\u0000\u0000",
-              "translation": "Glaive Arrow\u0000",
+              "translation": "Grave Arrow\u0000",
               "type": "SJIS string"
             },
             "offset": 0,
