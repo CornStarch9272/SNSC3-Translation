@@ -267,7 +267,7 @@ code0301        8, 7
 code047d        0, 121
 code047e        0, 1
 dialogtxt       "I hear there's someone looking"
-dialogtxt       "to go up against Red Wing."
+dialogtxt       "to go up against Crimson Wing."
 code0309        
 dialogtxt       "I wonder what is so interesting"
 dialogtxt       "about something so scary."

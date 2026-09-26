@@ -182,7 +182,7 @@ goto            @Label_0c54
 jumpz           @Cond_09b8, ($f1108 && $f1232 == 0)
 setvar          $f1232, 1
 setvar          $bv029, 5
-dialogtxt       "Hmm... Pubick Forest..."
+dialogtxt       "Hmm... Purbeak Forest..."
 goto            @Label_0c54
 
 @Cond_09b8:

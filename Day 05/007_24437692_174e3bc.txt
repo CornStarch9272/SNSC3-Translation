@@ -398,8 +398,8 @@ ret
 code0301        8, 7
 code047d        0, 120
 code047e        0, 1
-dialogtxt       "I heard there's a Stray called Red"
-dialogtxt       "Wing that's been causing trouble."
+dialogtxt       "I heard of a Stray called Crimson Wing"
+dialogtxt       "that's been causing trouble near here."
 dialogtxt       "Someone from Prosban told me."
 code0309        
 dialogtxt       "It's supposed to be especially"

@@ -16,7 +16,7 @@ code049b        0, 0, 0, 112, 136, 240
 code046c        1
 setvar          $b075, 1
 setvar          $b072, 1
-placetxt        "Pubick Forest"
+placetxt        "Purbeak Forest"
 code040c        0, @Label_0704
 code040c        1, @Label_0a10
 code040c        2, @Label_0a06
@@ -131,7 +131,7 @@ goto            @Cond_06e2
 goto            @Label_06e6
 
 @Label_06e6:
-placetxt        "Pubick Forest　Area 1"
+placetxt        "Purbeak Forest　Area 1"
 code040b        
 
 @Label_0704:

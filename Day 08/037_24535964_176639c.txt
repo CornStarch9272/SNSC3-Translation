@@ -298,7 +298,7 @@ code047d        0, 122
 code047e        0, 1
 dialogtxt       "Young'uns these days are too lax!"
 dialogtxt       "If I were your age, I would've beat"
-dialogtxt       "this Red Wing into a pulp already!"
+dialogtxt       "Crimson Wing into a pulp already!"
 code0309        
 dialogtxt       "..."
 code0309        

@@ -408,8 +408,8 @@ dialogtxt       "Now I have to take his place..."
 dialogtxt       "What a pain."
 code0309        
 dialogtxt       "Just ahead is a really scary Stray"
-dialogtxt       "called Red Wing. If you really want"
-dialogtxt       "to go, I won't stop you."
+dialogtxt       "called Crimson Wing. If you really"
+dialogtxt       "want to go, I won't stop you."
 code0309        
 code047e        0, 0
 code0302        7

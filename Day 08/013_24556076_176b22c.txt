@@ -354,7 +354,7 @@ code040b
 code0301        8, 7
 code047d        0, 120
 code047e        0, 1
-dialogtxt       "Red Wing's coloration..."
+dialogtxt       "Crimson Wing's coloration..."
 dialogtxt       "There's a rumor that it comes"
 dialogtxt       "from its victims!?"
 code0309        

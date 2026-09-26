@@ -47,13 +47,13 @@ call            @Func_10a6
 jumpz           @Cond_0232, ($b002 == 0)
 dialogtxt       "You didn't know?"
 dialogtxt       "They say a scary Stray named"
-dialogtxt       "Red Wing lives here."
+dialogtxt       "Crimson Wing lives here."
 goto            @Label_0282
 
 @Cond_0232:
 dialogtxt       "You didn't know?"
 dialogtxt       "They say a scary Stray named"
-dialogtxt       "Red Wing lives here."
+dialogtxt       "Crimson Wing lives here."
 goto            @Label_0282
 
 @Label_0282:

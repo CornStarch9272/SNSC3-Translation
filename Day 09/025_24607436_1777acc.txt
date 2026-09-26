@@ -146,7 +146,7 @@ goto            @start
 code0301        8, 7
 code047d        0, 114
 code047e        0, 1
-dialogtxt       "You defeated Red Wing!"
+dialogtxt       "You defeated Crimson Wing!"
 dialogtxt       "That's amazing!"
 code0309        
 dialogtxt       "I might be falling for you too."
@@ -159,7 +159,7 @@ code040b
 code0301        8, 7
 code047d        0, 113
 code047e        0, 1
-dialogtxt       "So you defeated Red Wing..."
+dialogtxt       "So you defeated Crimson Wing..."
 dialogtxt       "Impressive!"
 code0309        
 dialogtxt       "That must be why my daughter"

@@ -482,7 +482,7 @@ ret
 code0301        8, 7
 code047d        0, 118
 code047e        0, 1
-dialogtxt       "Even with Red Wing gone,"
+dialogtxt       "Even with Crimson Wing gone,"
 dialogtxt       "the damage caused by Strays"
 dialogtxt       "isn't going down."
 code0309        
