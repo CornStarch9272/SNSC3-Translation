@@ -6,57 +6,57 @@ code0321        8, 60
 code040d        60
 code0304        1
 dialogtxt       "　　 We spoke with the Gold Faction"
-dialogtxt       "　　about the events that occurred"
+dialogtxt       "　　 about everything that happened"
 dialogtxt       "　　　　in Mishus Village, but..."
 code030a        6, 1
 jumpz           @Cond_030e, ($b002 == 0)
 dialogtxt       "　  Velvoren's family, House Ringvald,"
-dialogtxt       "　　　  don't want to make a big"
-dialogtxt       "　　　  deal of what's happened."
+dialogtxt       "　　didn't want there to be a big scene"
+dialogtxt       "　　　about everything that happened."
 code030a        6, 1
-dialogtxt       "　　  Thanks to that, they put the"
-dialogtxt       "　　 issue of Murno and the others"
-dialogtxt       "　　　　 on indefinite hiatus."
+dialogtxt       "　 Because of that, the whole situation"
+dialogtxt       "　　with Murno and the others just got"
+dialogtxt       "　　　　　　 swept under the rug."
 code030a        6, 1
 dialogtxt       "　　  The folks at the Gold Faction"
-dialogtxt       "　　　　 visited Mishus Village"
-dialogtxt       "　　　　　 many times, but..."
+dialogtxt       "　 went to investigate Mishus Village"
+dialogtxt       "　　　　　 a bunch of times, but..."
 code030a        6, 1
-dialogtxt       "　The Demon Stone and the sword were"
-dialogtxt       "　　 no longer there, and the ruins"
-dialogtxt       "　nonfunctional, so they left it alone"
+dialogtxt       "　　The Demon Stone and the sword were"
+dialogtxt       "　  nowhere to be found, and the ruins"
+dialogtxt       "　 were deactivated. So they let it go."
 code030a        6, 1
 goto            @Label_052a
 
 @Cond_030e:
 dialogtxt       "　  Velvoren's family, House Ringvald,"
-dialogtxt       "　　　  don't want to make a big"
-dialogtxt       "　　　  deal of what's happened."
+dialogtxt       "　　didn't want there to be a big scene"
+dialogtxt       "　　　about everything that happened."
 code030a        6, 1
-dialogtxt       "　　  Thanks to that, they put the"
-dialogtxt       "　　 issue of Murno and the others"
-dialogtxt       "　　　　 on indefinite hiatus."
+dialogtxt       "　 Because of that, the whole situation"
+dialogtxt       "　　with Murno and the others just got"
+dialogtxt       "　　　　　　 swept under the rug."
 code030a        6, 1
 dialogtxt       "　　  The folks at the Gold Faction"
-dialogtxt       "　　　　 visited Mishus Village"
-dialogtxt       "　　　　　 many times, but..."
+dialogtxt       "　 went to investigate Mishus Village"
+dialogtxt       "　　　　　 a bunch of times, but..."
 code030a        6, 1
-dialogtxt       "　The Demon Stone and the sword were"
-dialogtxt       "　　 no longer there, and the ruins"
-dialogtxt       "　nonfunctional, so they left it alone"
+dialogtxt       "　　The Demon Stone and the sword were"
+dialogtxt       "　  nowhere to be found, and the ruins"
+dialogtxt       "　 were deactivated. So they let it go."
 code030a        6, 1
 goto            @Label_052a
 
 @Label_052a:
 code031d        8, 0
-dialogtxt       "　　　　  Well, this way Murno"
-dialogtxt       "　　　  is able to live in peace,"
-dialogtxt       "　　　　　　 so it's fine."
+dialogtxt       "　　  Well, this way Murno and her"
+dialogtxt       "　  family can finally live in peace,"
+dialogtxt       "　　　　　 so it's fine by me."
 code030a        6, 1
 code031f        8
-dialogtxt       "　　　　　　　  And so,"
-dialogtxt       "　 this concludes the chain of events"
-dialogtxt       "　　involving Govan's Demon Stone..."
+dialogtxt       "　　　And with that, the whole"
+dialogtxt       "　adventure with Govan's Demon Stone"
+dialogtxt       "　　 has finally come to an end."
 code030a        6, 1
 code0304        0
 done            

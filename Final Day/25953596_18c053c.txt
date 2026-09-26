@@ -10,9 +10,9 @@ code0479        1, 0, 12
 code047d        1, 0
 call            @Func_0ef8
 call            @Func_0df4
-dialogtxt       "It seems the higher-ups at the"
-dialogtxt       "Gold Faction don't want to"
-dialogtxt       "meet with us anymore..."
+dialogtxt       "It seems like the higher-ups at the"
+dialogtxt       "Gold Faction don't want to talk to"
+dialogtxt       "us anymore..."
 code047b        
 code0309        
 call            @Func_0e48
@@ -20,15 +20,13 @@ code043c        0, 2
 code0479        1, 2, 16
 call            @Func_0e7e
 jumpz           @Cond_0168, ($b002 == 0)
-dialogtxt       "Really."
-dialogtxt       "It's not like it's our fault"
-dialogtxt       "any of this happened..."
+dialogtxt       "For real? It's not like it's our "
+dialogtxt       "ault all this stuff happened..."
 goto            @Label_01ac
 
 @Cond_0168:
-dialogtxt       "Really."
-dialogtxt       "It's not like it's our fault"
-dialogtxt       "any of this happened..."
+dialogtxt       "For real? It's not like it's our "
+dialogtxt       "ault all this stuff happened..."
 goto            @Label_01ac
 
 @Label_01ac:
@@ -36,15 +34,15 @@ code0309
 call            @Func_0eb4
 code0479        0, 0, 12
 call            @Func_0e12
-dialogtxt       "And I've finished everything"
-dialogtxt       "I needed to do here."
-dialogtxt       "I need to focus on the village next."
+dialogtxt       "I've finished everything I needed"
+dialogtxt       "to do here. I have to focus on"
+dialogtxt       "the village next."
 code0309        
 code043c        2, 1
 code0479        1, 0, 16
 code0479        0, 4, 12
-dialogtxt       "We have a long way to go..."
-dialogtxt       "It's in a terrible state..."
+dialogtxt       "We have a long way to go, too."
+dialogtxt       "It's in such a terrible state..."
 dialogtxt       "*Sigh*"
 code0309        
 call            @Func_0e48
@@ -55,21 +53,19 @@ code0309
 call            @Func_0eb4
 code0479        0, 4, 16
 call            @Func_0e12
-dialogtxt       "Thanks to the Demon Stone,"
-dialogtxt       "the villagers all..."
-dialogtxt       "I—"
+dialogtxt       "Thanks to the Demon Stone, the"
+dialogtxt       "villagers are all... I—"
 code0309        
 call            @Func_0e48
 code0479        1, 2, 15
 call            @Func_0e7e
-dialogtxt       "No!"
-dialogtxt       "It's not your fault..."
-dialogtxt       "Nor is it the Demon Stone's!"
+dialogtxt       "No! It's not your fault! And it's"
+dialogtxt       "not the Demon Stone's fault, either!"
 code0309        
 code043c        2, 4
 code0479        1, 2, 16
-dialogtxt       "The real problem here is those"
-dialogtxt       "who attacked your village..."
+dialogtxt       "The real problem here is the people"
+dialogtxt       "who attacked your village!"
 code0309        
 call            @Func_0eb4
 code0479        0, 4, 12
@@ -80,13 +76,13 @@ call            @Func_0e48
 code0479        1, 0, 12
 call            @Func_0e7e
 jumpz           @Cond_0468, ($b002 == 0)
-dialogtxt       "And it's because of the"
-dialogtxt       "Demon Stone that I met you, Murno..."
+dialogtxt       "And it's only because of the Demon"
+dialogtxt       "Stone that I met you, Murno..."
 goto            @Label_04ac
 
 @Cond_0468:
-dialogtxt       "And it's because of the"
-dialogtxt       "Demon Stone that I met you, Murno..."
+dialogtxt       "And it's only because of the Demon"
+dialogtxt       "Stone that I met you, Murno..."
 goto            @Label_04ac
 
 @Label_04ac:
@@ -97,23 +93,22 @@ call            @Func_0e12
 dialogtxt       "[NAME 2]..."
 code0309        
 code0479        0, 2, 12
-dialogtxt       "You're right..."
-dialogtxt       "I won't give up..."
+dialogtxt       "You're right... I can't give up."
 dialogtxt       "I have to be strong, like you..."
 code0309        
 call            @Func_0e48
 code0479        1, 2, 12
 call            @Func_0e7e
 jumpz           @Cond_059c, ($b002 == 0)
-dialogtxt       "Yeah, you can do it!"
-dialogtxt       "I'm still getting stronger too."
-dialogtxt       "Let's work at it together."
+dialogtxt       "Yeah! You can do it! I'm still"
+dialogtxt       "getting stronger, too. Let's both"
+dialogtxt       "work at it. Together."
 goto            @Label_05ec
 
 @Cond_059c:
-dialogtxt       "Yeah, you can do it!"
-dialogtxt       "I'm still getting stronger too."
-dialogtxt       "Let's work at it together."
+dialogtxt       "Yeah! You can do it! I'm still"
+dialogtxt       "getting stronger, too. Let's both"
+dialogtxt       "work at it. Together."
 goto            @Label_05ec
 
 @Label_05ec:
@@ -121,23 +116,22 @@ code0309
 call            @Func_0eb4
 code0479        0, 2, 13
 call            @Func_0e12
-dialogtxt       "I'll think of you"
-dialogtxt       "every day then,"
+dialogtxt       "I'll think of you every day then,"
 dialogtxt       "and try even harder."
 code0309        
 call            @Func_0e48
 code0479        1, 2, 13
 call            @Func_0e7e
 jumpz           @Cond_06c8, ($b002 == 0)
-dialogtxt       "Me too, I'll think about"
-dialogtxt       "you every day Murno,"
-dialogtxt       "and try even harder than that!"
+dialogtxt       "Me too! I'll think about you every"
+dialogtxt       "day, Murno! And I'll try even harder"
+dialogtxt       "than that!"
 goto            @Label_0714
 
 @Cond_06c8:
-dialogtxt       "Me too, I'll think about"
-dialogtxt       "you every day Murno,"
-dialogtxt       "and try even harder than that!"
+dialogtxt       "Me too! I'll think about you every"
+dialogtxt       "day, Murno! And I'll try even harder"
+dialogtxt       "than that!"
 goto            @Label_0714
 
 @Label_0714:
@@ -145,8 +139,8 @@ code0309
 call            @Func_0eb4
 code0479        0, 1, 12
 call            @Func_0e12
-dialogtxt       "Hehe. [NAME 2],"
-dialogtxt       "you really hate to lose."
+dialogtxt       "Hehe. You really hate losing, don't"
+dialogtxt       "you, [NAME 2]?"
 code0309        
 call            @Func_0e48
 code0479        1, 1, 12
@@ -172,9 +166,8 @@ code0479        1, 1, 12
 code0479        0, 6, 13
 call            @Func_0ef8
 call            @Func_0df4
-dialogtxt       "But I..."
-dialogtxt       "Don't mind that [NAME 2]..."
-dialogtxt       "Actually I..."
+dialogtxt       "But I... Well... If it's you,"
+dialogtxt       "[NAME 2], I actually..."
 code047b        
 code0309        
 call            @Func_0f4e
