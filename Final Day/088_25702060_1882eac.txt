@@ -67,8 +67,7 @@ code0479        1, 3, 16
 code047d        1, 112
 call            @Func_1772
 call            @Func_16f0
-dialogtxt       "No..."
-dialogtxt       "I... I want power too..."
+dialogtxt       "No... I... I want power, too..."
 code047b        
 code0309        
 call            @Func_1744
@@ -220,27 +219,26 @@ code047d        1, 2
 call            @Func_1772
 call            @Func_170e
 jumpz           @Cond_091a, ($b003 == 0)
-dialogtxt       "The Sword's Energy!"
-dialogtxt       "His Body Is..."
+dialogtxt       "The Sword's Energy! His Body Is..."
 dialogtxt       "Being Consumed By The Sword!"
 goto            @Cond_091a
 
 @Cond_091a:
 jumpz           @Cond_0982, ($b003 == 1)
-dialogtxt       "What is this dreadful ill will..."
-dialogtxt       "No, his body is... being consumed!"
+dialogtxt       "What is this dreadful ill will...?"
+dialogtxt       "No! His body is... it's being consumed!"
 goto            @Cond_0982
 
 @Cond_0982:
 jumpz           @Cond_09e2, ($b003 == 2)
-dialogtxt       "This awful ill will..."
-dialogtxt       "His body is... being consumed!"
+dialogtxt       "This awful ill will...!"
+dialogtxt       "His body is... it's being consumed!"
 goto            @Cond_09e2
 
 @Cond_09e2:
 jumpz           @Cond_0a46, ($b003 == 3)
-dialogtxt       "This awful power..."
-dialogtxt       "His body is... being consumed!"
+dialogtxt       "This awful power... His body is..."
+dialogtxt       "it's being consumed!"
 goto            @Cond_0a46
 
 @Cond_0a46:
@@ -271,7 +269,7 @@ code0479        1, 3, 15
 code047d        1, 112
 call            @Func_1772
 call            @Func_16f0
-dialogbig       255, 116, 1, 0, 0, "Uwaaah!!!"
+dialogbig       255, 116, 1, 0, 0, "GYAAAAAHHH!!!"
 code047b        
 code030c        
 call            @Func_17c8
@@ -322,14 +320,12 @@ code0479        0, 2, 15
 call            @Func_175c
 call            @Func_1684
 jumpz           @Cond_0e40, ($b002 == 0)
-dialogtxt       "What is this?"
-dialogtxt       "I'm getting sucked in!?"
+dialogtxt       "What is this?! I'm getting sucked in!"
 dialogtxt       "[NAME 1]!"
 goto            @Label_0e7c
 
 @Cond_0e40:
-dialogtxt       "What is this?"
-dialogtxt       "I'm getting sucked in!?"
+dialogtxt       "What is this?! I'm getting sucked in!"
 dialogtxt       "[NAME 1]!"
 goto            @Label_0e7c
 
