@@ -49,18 +49,19 @@ goto            @Cond_01b2
 
 @Cond_01b2:
 jumpz           @Cond_01e0, ($b003 == 1)
-dialogtxt       "The ill will has gotten weaker!"
+dialogtxt       "The negative energy has diminished!"
 goto            @Cond_01e0
 
 @Cond_01e0:
 jumpz           @Cond_0216, ($b003 == 2)
-dialogtxt       "The unpleasant atmosphere's lessened."
+dialogtxt       "The unpleasant atmosphere has"
+dialogtxt       "gotten a lot weaker."
 goto            @Cond_0216
 
 @Cond_0216:
 jumpz           @Cond_0264, ($b003 == 3)
 dialogtxt       "The unpleasant feeling has lessened."
-dialogtxt       "It was definitely a huge success!"
+dialogtxt       "This is a huge success!"
 goto            @Cond_0264
 
 @Cond_0264:
@@ -85,9 +86,8 @@ code0479        0, 0, 16
 code047d        0, 110
 call            @Func_1e5e
 call            @Func_1d86
-dialogtxt       "Eh..."
-dialogtxt       "He fainted?"
-dialogtxt       "I didn't mean to hurt him."
+dialogtxt       "Huh...? He fainted? I didn't mean"
+dialogtxt       "to hurt him."
 code047b        
 code0309        
 call            @Func_1eb4
@@ -100,7 +100,7 @@ code0479        1, 4, 16
 code047d        1, 134
 call            @Func_1e74
 call            @Func_1df2
-dialogtxt       "How could this..."
+dialogtxt       "Gah... How could this happen...?"
 code047b        
 code0309        
 call            @Func_1eca
@@ -111,8 +111,7 @@ code0479        0, 4, 16
 code047d        0, 111
 call            @Func_1e5e
 call            @Func_1d86
-dialogtxt       "The ruins..."
-dialogtxt       "My power..."
+dialogtxt       "The ruins... My power..."
 code047b        
 code0309        
 call            @Func_1eb4
@@ -157,8 +156,7 @@ code0479        0, 4, 15
 code047d        0, 0
 call            @Func_1e5e
 call            @Func_1d86
-dialogtxt       "Murno!"
-dialogtxt       "Murno!!!"
+dialogtxt       "Murno! Murno!!!"
 code0309        
 call            @Func_1eb4
 call            @Func_1dc2
@@ -190,9 +188,7 @@ code0309
 call            @Func_1e46
 code0479        0, 7, 13
 call            @Func_1da4
-dialogtxt       "Thank goodness..."
-dialogtxt       "Murno..."
-dialogtxt       "You're okay..."
+dialogtxt       "Murno... Thank goodness you're okay..."
 code0309        
 call            @Func_1dda
 code0479        1, 4, 16
@@ -205,15 +201,13 @@ call            @Func_1e46
 code0479        0, 2, 16
 call            @Func_1da4
 jumpz           @Cond_0954, ($b002 == 0)
-dialogtxt       "I'm the one who should apologize..."
-dialogtxt       "I was late..."
-dialogtxt       "I'm really sorry..."
+dialogtxt       "I'm the one who should apologize."
+dialogtxt       "I was late... I'm really sorry!"
 goto            @Label_09a6
 
 @Cond_0954:
-dialogtxt       "I'm the one who should apologize..."
-dialogtxt       "I was late..."
-dialogtxt       "I'm really sorry..."
+dialogtxt       "I'm the one who should apologize."
+dialogtxt       "I was late... I'm really sorry!"
 goto            @Label_09a6
 
 @Label_09a6:
@@ -250,29 +244,27 @@ code047d        0, 2
 call            @Func_1e5e
 call            @Func_1da4
 jumpz           @Cond_0aec, ($b003 == 0)
-dialogtxt       "Lady Murno,"
-dialogtxt       "In This Situation, Your Response"
-dialogtxt       "Should Not Be I Am Sorry, But..."
+dialogtxt       "Lady Murno, In This Situation, "
+dialogtxt       "Your Response Should Not Be An"
+dialogtxt       "Apology, But Rather..."
 goto            @Cond_0aec
 
 @Cond_0aec:
 jumpz           @Cond_0b30, ($b003 == 1)
 dialogtxt       "Murno, in times like these,"
-dialogtxt       "you shouldn't apologize. Instead..."
+dialogtxt       "you needn't apologize. Rather..."
 goto            @Cond_0b30
 
 @Cond_0b30:
 jumpz           @Cond_0b78, ($b003 == 2)
-dialogtxt       "Murno,"
-dialogtxt       "now's not the time"
-dialogtxt       "to apologize. Rather..."
+dialogtxt       "Murno, now's not the time"
+dialogtxt       "to apologize. Instead..."
 goto            @Cond_0b78
 
 @Cond_0b78:
 jumpz           @Cond_0bca, ($b003 == 3)
 dialogtxt       "Lady Murno, this is not the"
-dialogtxt       "appropriate time to apologize."
-dialogtxt       "Instead..."
+dialogtxt       "time to apologize. Instead..."
 goto            @Cond_0bca
 
 @Cond_0bca:
@@ -357,7 +349,7 @@ goto            @Cond_0e8a
 
 @Cond_0e8a:
 jumpz           @Cond_0ebc, ($b003 == 3)
-dialogtxt       "It has finally stopped."
+dialogtxt       "It's finally stopped."
 goto            @Cond_0ebc
 
 @Cond_0ebc:
@@ -386,8 +378,7 @@ code0479        1, 4, 15
 code047d        1, 134
 call            @Func_1e74
 call            @Func_1df2
-dialogtxt       "No..."
-dialogtxt       "It can't be!"
+dialogtxt       "No... It can't be!"
 code0309        
 call            @Func_1eca
 call            @Func_1e2e
@@ -475,8 +466,7 @@ code0479        1, 5, 15
 code047d        1, 110
 call            @Func_1e74
 call            @Func_1df2
-dialogtxt       "Ah!"
-dialogtxt       "Master!"
+dialogtxt       "Ah! Master!"
 code047b        
 code0309        
 call            @Func_1eca
@@ -560,13 +550,11 @@ code047d        0, 0
 call            @Func_1e5e
 call            @Func_1d86
 jumpz           @Cond_1700, ($b002 == 0)
-dialogtxt       "Murno!"
-dialogtxt       "Uwah!"
+dialogtxt       "Murno! Uwaaaah!!"
 goto            @Label_1724
 
 @Cond_1700:
-dialogtxt       "Murno!"
-dialogtxt       "Kya!"
+dialogtxt       "Murno! Gaaahh!!"
 goto            @Label_1724
 
 @Label_1724:

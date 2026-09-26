@@ -190,14 +190,13 @@ code0479        1, 1, 13
 code047d        1, 134
 call            @Func_1c4a
 call            @Func_1be6
-dialogtxt       "Hahaha..."
-dialogtxt       "They've already forgotten"
-dialogtxt       "who you are."
+dialogtxt       "Hahaha... They've already forgotten"
+dialogtxt       "who you are!"
 code0309        
 code047b        
 code0479        1, 3, 12
-dialogtxt       "Right now, all of humanity is"
-dialogtxt       "considered an enemy!"
+dialogtxt       "Right now, they consider all of humanity"
+dialogtxt       "to be their enemy!"
 code0309        
 call            @Func_1ca0
 call            @Func_1c1c
@@ -205,13 +204,11 @@ code047b
 code0479        0, 4, 15
 call            @Func_1b7a
 jumpz           @Cond_08f6, ($b002 == 0)
-dialogtxt       "No..."
-dialogtxt       "That's a lie, right [NAME 1]!"
+dialogtxt       "No... That's a lie! Right, [NAME 1]?!"
 goto            @Label_092a
 
 @Cond_08f6:
-dialogtxt       "No..."
-dialogtxt       "That's a lie, right [NAME 1]!"
+dialogtxt       "No... That's a lie! Right, [NAME 1]?!"
 goto            @Label_092a
 
 @Label_092a:
@@ -250,13 +247,11 @@ code0479        0, 4, 16
 call            @Func_1c34
 call            @Func_1b7a
 jumpz           @Cond_0a78, ($b002 == 0)
-dialogtxt       "Crap..."
-dialogtxt       "What should I do..."
+dialogtxt       "Crap! What should I do...?"
 goto            @Label_0aae
 
 @Cond_0a78:
-dialogtxt       "Then..."
-dialogtxt       "What should I do..."
+dialogtxt       "Uh oh... What should I do...?"
 goto            @Label_0aae
 
 @Label_0aae:
@@ -268,9 +263,8 @@ code047b
 code047d        0, 106
 code0301        8, 0
 code047e        0, 1
-dialogtxt       "What are you doing?"
-dialogtxt       "Givin up already?"
-dialogtxt       "Put more energy into it."
+dialogtxt       "What are you doing? You're gonna give"
+dialogtxt       "up already? Put your heart into it!"
 code0309        
 code047e        0, 0
 code0302        0
@@ -317,20 +311,20 @@ code0479        0, 5, 15
 code047d        0, 134
 call            @Func_1c34
 call            @Func_1b7a
-dialogtxt       "What!? You're a Summon Beast."
-dialogtxt       "How are you not affected!?"
+dialogtxt       "What?! You're a Summon Beast!"
+dialogtxt       "How are you not affected?!"
 code0309        
 call            @Func_1bb0
 code0479        1, 2, 14
 call            @Func_1be6
-dialogtxt       "Sorry, but I'm"
-dialogtxt       "a rock 'n' roller."
-dialogtxt       "I'm built differently."
-code0309        
+dialogtxt       "Sorry, but I'm more than a"
+dialogtxt       "mere Beast! I was forged in the"
+dialogtxt       "fires of Rock n' Roll!"
+code0309	
 code0479        1, 2, 13
-dialogtxt       "If this was enough to do me in,"
-dialogtxt       "I couldn't face Darrell's"
-dialogtxt       "guitar ever again!"
+dialogtxt       "After rocking out to Darrell's guitar,"
+dialogtxt       "how's a little noise like that gonna"
+dialogtxt       "mess me up?!"
 code0309        
 call            @Func_1c8a
 call            @Func_1c1c
@@ -340,8 +334,7 @@ code0479        0, 2, 13
 code047d        0, 0
 call            @Func_1c34
 call            @Func_1b7a
-dialogtxt       "That's my master!"
-dialogtxt       "So cool!"
+dialogtxt       "That's my master! So cool!"
 code047b        
 code0309        
 call            @Func_1cb6
@@ -358,24 +351,21 @@ code0479        0, 2, 14
 code0479        1, 2, 14
 call            @Func_1c60
 call            @Func_1bc8
-dialogtxt       "So, what're you doing?"
-dialogtxt       "[NAME 1] is in pain,"
-dialogtxt       "aren't they?"
+dialogtxt       "So, what're you doing? [NAME 1]"
+dialogtxt       "is in pain, aren't they?"
 code047b        
 code0309        
 call            @Func_1c1c
 code0479        0, 4, 15
 call            @Func_1b7a
 jumpz           @Cond_1042, ($b002 == 0)
-dialogtxt       "Even if you say that,"
-dialogtxt       "[NAME 1] doesn't"
-dialogtxt       "recognize me anymore..."
+dialogtxt       "That's easy to say, but [NAME 1]"
+dialogtxt       "doesn't even recognize me anymore..."
 goto            @Label_1090
 
 @Cond_1042:
-dialogtxt       "Even if you say that,"
-dialogtxt       "[NAME 1] doesn't"
-dialogtxt       "recognize me anymore..."
+dialogtxt       "That's easy to say, but [NAME 1]"
+dialogtxt       "doesn't even recognize me anymore..."
 goto            @Label_1090
 
 @Label_1090:
@@ -383,19 +373,19 @@ code0309
 call            @Func_1bb0
 code0479        1, 2, 16
 call            @Func_1be6
-dialogtxt       "How pathetic..."
-dialogtxt       "Have more faith in [NAME 1]."
+dialogtxt       "How pathetic. You've gotta have more"
+dialogtxt       "faith in [NAME 1]!"
 code0309        
 call            @Func_1c1c
 code0479        0, 5, 16
 call            @Func_1b7a
-dialogtxt       "Faith... in [NAME 1]?"
+dialogtxt       "Faith in [NAME 1]...?"
 code0309        
 call            @Func_1bb0
 code0479        1, 2, 12
 call            @Func_1be6
 dialogtxt       "You've been together all this time."
-dialogtxt       "There's no way they'd forget that."
+dialogtxt       "There's no way they'd forget you!"
 dialogtxt       "You know that much, don't you?"
 code0309        
 call            @Func_1c1c
@@ -406,7 +396,7 @@ code0309
 call            @Func_1bb0
 code0479        1, 2, 15
 call            @Func_1be6
-dialogtxt       "And don't you forget either!"
+dialogtxt       "And don't you forget, either!"
 dialogtxt       "You're a Craftknight!"
 code0309        
 call            @Func_1c1c
@@ -418,9 +408,8 @@ dialogtxt       "..."
 dialogtxt       "Heh, so that's it..."
 code0309        
 code0479        0, 2, 12
-dialogtxt       "I understand now, Master."
-dialogtxt       "I'll definitely make"
-dialogtxt       "[NAME 1] snap out of it."
+dialogtxt       "I understand now, Master. I'll"
+dialogtxt       "make [NAME 1] snap out of it!"
 goto            @Label_136e
 
 @Cond_12e2:
@@ -429,9 +418,8 @@ dialogtxt       "..."
 dialogtxt       "Ahah, so that's it..."
 code0309        
 code0479        0, 2, 12
-dialogtxt       "I understand now, Master."
-dialogtxt       "I'll definitely make"
-dialogtxt       "[NAME 1] snap out of it."
+dialogtxt       "I understand now, Master. I'll"
+dialogtxt       "make [NAME 1] snap out of it!"
 goto            @Label_136e
 
 @Label_136e:
@@ -439,7 +427,7 @@ code0309
 call            @Func_1bb0
 code0479        1, 2, 13
 call            @Func_1be6
-dialogtxt       "That's the spirit, [NAME 2]."
+dialogtxt       "That's the spirit, [NAME 2]!"
 code0309        
 call            @Func_1cb6
 call            @Func_1c04
@@ -489,15 +477,15 @@ code047d        0, 0
 call            @Func_1c34
 call            @Func_1b5c
 jumpz           @Cond_1576, ($b002 == 0)
-dialogtxt       "Come! [NAME 1]!"
-dialogtxt       "I'll bring you back right now"
-dialogtxt       "with the weapons we forged together!"
+dialogtxt       "Come! [NAME 1]! I'll bring you"
+dialogtxt       "back right now through the weapons"
+dialogtxt       "we forged together!"
 goto            @Label_15c8
 
 @Cond_1576:
-dialogtxt       "Come! [NAME 1]!"
-dialogtxt       "I'll bring you back right now"
-dialogtxt       "with the weapons we forged together!"
+dialogtxt       "Come! [NAME 1]! I'll bring you"
+dialogtxt       "back right now through the weapons"
+dialogtxt       "we forged together!"
 goto            @Label_15c8
 
 @Label_15c8:
