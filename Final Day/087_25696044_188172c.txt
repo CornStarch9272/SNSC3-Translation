@@ -543,8 +543,7 @@ call            @Func_42f6
 code0479        1, 0, 16
 call            @Func_432c
 dialogtxt       "I am not the legitimate successor."
-dialogtxt       "It was my wife,"
-dialogtxt       "the Murno's mother..."
+dialogtxt       "It was my wife, Murno's mother..."
 code0309        
 call            @Func_43d0
 call            @Func_4362

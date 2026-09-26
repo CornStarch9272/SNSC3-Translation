@@ -195,23 +195,22 @@ code0443        4, 32, 1
 code0479        0, 3, 14
 call            @Func_46a0
 call            @Func_45e6
-dialogtxt       "Stop this already!"
-dialogtxt       "If SHE learned that her own father"
-dialogtxt       "did something like this, she'd—"
+dialogtxt       "Stop this already! If your daughter"
+dialogtxt       "learned that her own father did"
+dialogtxt       "something like this, she'd—"
 code047b        
 code0309        
 call            @Func_461c
 code0479        1, 5, 16
 call            @Func_4652
-dialogtxt       "I—I'm a father?"
-dialogtxt       "What kind of sick joke..."
+dialogtxt       "I-I'm a father?"
+dialogtxt       "What kind of sick joke is that?!"
 code0309        
 call            @Func_4688
 code0479        0, 2, 15
 call            @Func_45e6
-dialogtxt       "I'm serious!"
-dialogtxt       "Sorry I didn't tell you until now."
-dialogtxt       "You have a daughter..."
+dialogtxt       "I'm sorry I didn't tell you until now..."
+dialogtxt       "But, I'm serious. You have a daughter."
 code0309        
 call            @Func_461c
 code0479        1, 3, 17

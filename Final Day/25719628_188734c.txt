@@ -129,13 +129,13 @@ jumpz           @Cond_04aa, ($f0261 == 1)
 jumpz           @Cond_0466, ($b002 == 0)
 dialogtxt       "I heard it..."
 dialogtxt       "Everyone's voices... and then..."
-dialogtxt       "Your's..."
+dialogtxt       "Yours..."
 goto            @Label_04a6
 
 @Cond_0466:
 dialogtxt       "I heard it..."
 dialogtxt       "Everyone's voices... and then..."
-dialogtxt       "Your's..."
+dialogtxt       "Yours..."
 goto            @Label_04a6
 
 @Label_04a6:
@@ -146,13 +146,13 @@ jumpz           @Cond_054a, ($f0262 == 1)
 jumpz           @Cond_0506, ($b002 == 0)
 dialogtxt       "I heard it..."
 dialogtxt       "Everyone's voices... and then..."
-dialogtxt       "Your's..."
+dialogtxt       "Yours..."
 goto            @Label_0546
 
 @Cond_0506:
 dialogtxt       "I heard it..."
 dialogtxt       "Everyone's voices... and then..."
-dialogtxt       "Your's..."
+dialogtxt       "Yours..."
 goto            @Label_0546
 
 @Label_0546:
@@ -180,13 +180,13 @@ jumpz           @Cond_068c, ($f0264 == 1)
 jumpz           @Cond_0648, ($b002 == 0)
 dialogtxt       "I heard it..."
 dialogtxt       "Everyone's voices... and then..."
-dialogtxt       "Your's..."
+dialogtxt       "Yours..."
 goto            @Label_0688
 
 @Cond_0648:
 dialogtxt       "I heard it..."
 dialogtxt       "Everyone's voices... and then..."
-dialogtxt       "Your's..."
+dialogtxt       "Yours..."
 goto            @Label_0688
 
 @Label_0688:
