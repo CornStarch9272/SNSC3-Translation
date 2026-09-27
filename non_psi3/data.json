@@ -17679,7 +17679,7 @@
           }
         ],
         "raw": "リッチバーン\u0000\u0000\u0000\u0000",
-        "translation": "Ritchburn\u0000",
+        "translation": "Ritchburn\u0000\u0000",
         "type": "SJIS string"
       },
       {
@@ -17696,7 +17696,7 @@
           }
         ],
         "raw": "リフモニカ\u0000\u0000",
-        "translation": "Rifmonica\u0000",
+        "translation": "Rifmonica\u0000\u0000",
         "type": "SJIS string"
       },
       {
