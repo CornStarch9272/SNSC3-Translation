@@ -1,6 +1,6 @@
 code0304        1
 dialogtxt       "　　　　　　　　　　　　　　　　　　"
-dialogtxt       "　　　　  Several days pass..."
+dialogtxt       "　　　　  Several days later..."
 dialogtxt       "　　　　　　　　　　　　　　　　　　"
 code030a        6, 1
 code0488        -1, 1
@@ -22,9 +22,9 @@ code031c        8, 1
 code0321        8, 60
 code040d        15
 code0304        1
-dialogtxt       "　　　  Thanks to the militia, the"
-dialogtxt       "　　 Gold Faction, and the citizens,"
-dialogtxt       "　　　 Prosban is back to normal."
+dialogtxt       "　　Thanks to the militia, the Gold"
+dialogtxt       "　Faction, and especially the townsfolk,"
+dialogtxt       "　　  Prosban is back to normal."
 code030a        6, 1
 code0304        0
 done            

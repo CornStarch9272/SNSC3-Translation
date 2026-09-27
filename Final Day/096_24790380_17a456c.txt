@@ -303,7 +303,7 @@ goto            @Label_0f00
 @Cond_0c6e:
 jumpz           @Cond_0e10, ($b003 == 1)
 dialogtxt       "I'll be counting on"
-dialogtxt       "you from here on..."
+dialogtxt       "you from here on,"
 dialogtxt       "[NAME 2]..."
 goto            @Label_0e0c
 
@@ -313,7 +313,7 @@ goto            @Label_0f00
 @Cond_0e10:
 jumpz           @Cond_0e9c, ($b003 == 2)
 dialogtxt       "Until I repay my debt,"
-dialogtxt       "I'll be by your side..."
+dialogtxt       "I'll be by your side."
 dialogtxt       "As long as it takes..."
 goto            @Label_0f00
 
@@ -339,21 +339,19 @@ dialogtxt       "Thank you, [NAME 2]...　 "
 goto            @Label_10c2
 
 @Label_10c2:
-dialogtxt       "It's been a while since"
-dialogtxt       "I had this much fun."
+dialogtxt       "It's been a long time since"
+dialogtxt       "I've had this much fun."
 goto            @Label_1344
 
 @Cond_1116:
 jumpz           @Cond_11a2, ($f0265 == 1)
-dialogtxt       "I'll reforge myself,"
-dialogtxt       "so I can be a man"
+dialogtxt       "I'll reforge myself, so I can be a man"
 dialogtxt       "worthy of being your rival!"
 goto            @Label_1344
 
 @Cond_11a2:
 jumpz           @Label_1344, ($f0266 == 1)
-dialogtxt       "Until we fulfill"
-dialogtxt       "our dreams together..."
+dialogtxt       "Until we fulfill our dreams together..."
 dialogtxt       "[NAME 2]..."
 goto            @Label_1340
 
@@ -638,8 +636,7 @@ code0301        8, 7
 code047d        0, 118
 code047e        0, 1
 dialogtxt       "The Strays are on a rampage"
-dialogtxt       "again! This is when we need"
-dialogtxt       "to remain extra vigilant!"
+dialogtxt       "again! We must remain extra vigilant!"
 code0309        
 code047e        0, 0
 code0302        7
@@ -649,9 +646,9 @@ code040b
 code0301        8, 7
 code047d        0, 149
 code047e        0, 1
-dialogtxt       "Mom started to talk a lot to"
-dialogtxt       "Master Benson."
-dialogtxt       "... Well, if you see it that way."
+dialogtxt       "Mom has been talking a lot with"
+dialogtxt       "Master Benson. ... Well, that's one"
+dialogtxt       "way of looking at it, anyway."
 code0309        
 dialogtxt       "Me, I'm looking for a cool kinda"
 dialogtxt       "person! Work is super boring if you"
@@ -668,13 +665,13 @@ choicewait
 
 @Choice_1f3c:
 code047e        0, 1
-dialogtxt       "Let's see... Using an Old"
-dialogtxt       "Rubstone to upgrade your weapon"
-dialogtxt       "imbues the Battle Repair effect."
+dialogtxt       "Let's see... Using an Old Rubstone"
+dialogtxt       "to upgrade your weapon imbues the"
+dialogtxt       "Battle Repair effect."
 code0309        
-dialogtxt       "And would you look at that,"
-dialogtxt       "I have one such item"
-dialogtxt       "available for only... 4500 boam!"
+dialogtxt       "And would you look at that? I have"
+dialogtxt       "one such item available for only..."
+dialogtxt       "4500 boam!"
 code0309        
 dialogtxt       "How about it?"
 code0309        
@@ -707,8 +704,8 @@ code0445        17, 5
 code0446        17
 code0301        8, 7
 code047e        0, 1
-dialogtxt       "Whaaaaaat!? What do you mean"
-dialogtxt       "you don't have enough!?"
+dialogtxt       "Whaaaaaat?! What do you mean"
+dialogtxt       "you don't have enough?!"
 dialogtxt       "I'm calling this deal off!"
 code0309        
 goto            @Label_21f6
@@ -717,8 +714,8 @@ goto            @Choice_2154
 
 @Choice_2154:
 code047e        0, 1
-dialogtxt       "Whaaat!? You make me talk a lot"
-dialogtxt       "but you don't want to buy from me?"
+dialogtxt       "Whaaat?! You're not gonna buy it, even"
+dialogtxt       "after making me do all that talking?!"
 dialogtxt       "Cheapskate!"
 code0309        
 goto            @Label_21f6
@@ -733,8 +730,8 @@ goto            @Choice_21a6
 @Choice_21a6:
 code047e        0, 1
 dialogtxt       "Whaaat? You're not interested?!"
-dialogtxt       "Just when I thought"
-dialogtxt       "I finally had a customer..."
+dialogtxt       "Just when I thought I finally"
+dialogtxt       "had a customer..."
 code0309        
 @Label_21f6:
 code047e        0, 0

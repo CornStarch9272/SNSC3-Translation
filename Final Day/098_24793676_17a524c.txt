@@ -466,8 +466,8 @@ dialogtxt       "　"
 dialogtxt       "　　　　　　　~Oh no!~"
 code0309        
 dialogtxt       "I'm having a hard time trying to"
-dialogtxt       "stock up on spices..."
-dialogtxt       "Do you know where I can get them?"
+dialogtxt       "stock up on spices... Does anyone know"
+dialogtxt       "where I can find them?"
 code0309        
 code0302        7
 code040b        
@@ -478,7 +478,7 @@ dialogtxt       "　"
 dialogtxt       "　"
 dialogtxt       "　　　　　　●←Peep hole"
 code0309        
-dialogtxt       "You've got guts kid!"
+dialogtxt       "You've got guts, kid!"
 code0309        
 code0302        7
 code040b        
