@@ -125,12 +125,12 @@ call            @Func_0ce2
 code0479        0, 2, 16
 call            @Func_0c40
 jumpz           @Cond_05a4, ($b002 == 0)
-dialogtxt       "What are talking about...?"
+dialogtxt       "What are you talking about...?"
 dialogtxt       "I don't see anyone else here."
 goto            @Label_05da
 
 @Cond_05a4:
-dialogtxt       "What are talking about...?"
+dialogtxt       "What are you talking about...?"
 dialogtxt       "I don't see anyone else here."
 goto            @Label_05da
 
