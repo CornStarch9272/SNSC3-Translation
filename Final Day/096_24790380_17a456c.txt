@@ -646,13 +646,13 @@ code040b
 code0301        8, 7
 code047d        0, 149
 code047e        0, 1
-dialogtxt       "Mom has been talking a lot with"
-dialogtxt       "Master Benson. ... Well, that's one"
-dialogtxt       "way of looking at it, anyway."
+dialogtxt       "Mom has been talking a lot with Master"
+dialogtxt       "Benson… Well, at this point, I think"
+dialogtxt       "they're doing more than just talking."
 code0309        
-dialogtxt       "Me, I'm looking for a cool kinda"
-dialogtxt       "person! Work is super boring if you"
-dialogtxt       "don't know how to have fun, y'know!"
+dialogtxt       "Me, I'm looking for someone cool!"
+dialogtxt       "Work is super boring if you don't"
+dialogtxt       "know how to have fun, y'know!"
 code0309        
 jumpz           @Cond_219e, ($f1252 == 0)
 dialogtxt       "You're a Craftknight, aren't you?"
