@@ -337,8 +337,8 @@ code0301        8, 7
 code047d        0, 118
 code047e        0, 1
 dialogtxt       "Feel free to visit anytime!"
-dialogtxt       "Not that we'd be able to give"
-dialogtxt       "you a proper welcome, though."
+dialogtxt       "Well, not that we'd be able to"
+dialogtxt       "give you a proper welcome, though..."
 code0309        
 code047e        0, 0
 code0302        7
@@ -348,9 +348,9 @@ code040b
 code0301        8, 7
 code047d        0, 120
 code047e        0, 1
-dialogtxt       "We need powerful weapons if"
-dialogtxt       "we are to protect this village."
-code0309        
+dialogtxt       "If we're to protect this village,"
+dialogtxt       "we need to have strong weapons."
+code0309		
 code047e        0, 0
 code0302        7
 code040b        

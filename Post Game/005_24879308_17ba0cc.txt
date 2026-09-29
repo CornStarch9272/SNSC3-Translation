@@ -259,10 +259,10 @@ ret
 code0301        8, 7
 code047d        0, 122
 code047e        0, 1
-dialogtxt       "Gallahan's late wife and"
-dialogtxt       "child were slain by a man"
+dialogtxt       "Poor Gallahan... his wife and child"
+dialogtxt       "were both murdered by this man"
 dialogtxt       "named Voijin..."
-code0309        
+code0309		
 code047e        0, 0
 code0302        7
 code040b        
@@ -273,9 +273,8 @@ code047d        0, 121
 code047e        0, 1
 dialogtxt       "I wanna leave this musty old village"
 dialogtxt       "and head for the big city! But..."
-dialogtxt       "Sigh, village rules and all..."
+dialogtxt       "Sigh... village rules and all..."
 code0309        
 code047e        0, 0
 code0302        7
 code040b        
-
