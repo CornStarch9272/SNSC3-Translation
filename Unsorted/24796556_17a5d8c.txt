@@ -76,8 +76,7 @@ goto            @start
 code0301        8, 7
 code047d        0, 138
 code047e        0, 1
-dialogtxt       "Everyone,"
-dialogtxt       "please come back soon."
+dialogtxt       "Everyone, please come back soon."
 code0309        
 code047e        0, 0
 code0302        7
@@ -87,10 +86,10 @@ code040b
 code0301        8, 7
 code047d        0, 120
 code047e        0, 1
-dialogtxt       "Master Benson's condition"
-dialogtxt       "has improved, but it's best"
-dialogtxt       "not to push him too hard yet."
-code0309        
+dialogtxt       "Master Benson has gotten a lot better,"
+dialogtxt       "but still, he shouldn't push himself"
+dialogtxt       "too much."
+code0309		
 code047e        0, 0
 code0302        7
 code040b        
@@ -105,10 +104,10 @@ code040b
 
 @Event_0496:
 code0301        8, 7
-dialogtxt       "<This is a reminder from Eliez>"
 dialogtxt       "Please make sure to put the tools"
 dialogtxt       "back where you found them!"
-code0309        
+dialogtxt       "　　　　　　　　　　　　　— Eliez"
+code0309		
 code0302        7
 code040b        
 
@@ -303,4 +302,3 @@ code031f        7
 code031a        7
 code033e        196
 ret             
-

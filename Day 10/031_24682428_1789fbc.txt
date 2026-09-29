@@ -167,8 +167,7 @@ goto            @Cond_0088
 code0301        8, 7
 code047d        0, 138
 code047e        0, 1
-dialogtxt       "Everyone looks"
-dialogtxt       "really busy today."
+dialogtxt       "Everyone looks really busy today!"
 code0309        
 code047e        0, 0
 code0302        7
@@ -178,8 +177,8 @@ code040b
 code0301        8, 7
 code047d        0, 120
 code047e        0, 1
-dialogtxt       "Master Benson is resting,"
-dialogtxt       "keep it down."
+dialogtxt       "Master Benson is resting, so please"
+dialogtxt       "try to keep it down."
 code0309        
 code047e        0, 0
 code0302        7
@@ -195,10 +194,10 @@ code040b
 
 @Event_0922:
 code0301        8, 7
-dialogtxt       "<This is a reminder from Eliez>"
 dialogtxt       "Please make sure to put the tools"
 dialogtxt       "back where you found them!"
-code0309        
+dialogtxt       "　　　　　　　　　　　　　— Eliez"
+code0309		
 code0302        7
 code040b        
 

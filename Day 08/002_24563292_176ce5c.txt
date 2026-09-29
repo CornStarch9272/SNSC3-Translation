@@ -223,10 +223,10 @@ code040b
 
 @Event_09f0:
 code0301        8, 7
-dialogtxt       "<This is a reminder from Eliez>"
 dialogtxt       "Please make sure to put the tools"
 dialogtxt       "back where you found them!"
-code0309        
+dialogtxt       "　　　　　　　　　　　　　— Eliez"
+code0309		
 code0302        7
 code040b        
 
@@ -421,4 +421,3 @@ code031f        7
 code031a        7
 code033e        196
 ret             
-
