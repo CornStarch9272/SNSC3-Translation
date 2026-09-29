@@ -57,9 +57,8 @@ goto            @start
 code0301        8, 7
 code047d        0, 135
 code047e        0, 1
-dialogtxt       "Pardon me..."
-dialogtxt       "Deep down, I really wanted"
-dialogtxt       "to believe in Anise..."
+dialogtxt       "My apologies. Deep down, I really"
+dialogtxt       "wanted to trust Anise..."
 code0309        
 code047e        0, 0
 code0302        7
@@ -259,4 +258,3 @@ ret
 
 @Func_0a3a:
 ret             
-

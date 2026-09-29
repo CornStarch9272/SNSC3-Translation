@@ -307,11 +307,10 @@ ret
 code0301        8, 7
 code047d        0, 151
 code047e        0, 1
-dialogtxt       "It's for the best if no one"
-dialogtxt       "get sent to prison, yeah? But won't"
-dialogtxt       "that mean I'll lose my job though?"
+dialogtxt       "It would be good if nobody gets sent"
+dialogtxt       "to prison, right? But if that happened,"
+dialogtxt       "I would be out of a job..."
 code0309        
 code047e        0, 0
 code0302        7
 code040b        
-
