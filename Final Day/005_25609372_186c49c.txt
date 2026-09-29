@@ -15,8 +15,7 @@ code0479        1, 2, 16
 code047d        1, 108
 call            @Func_0e20
 call            @Func_0d9e
-dialogtxt       "How'd it go?"
-dialogtxt       "Find anything?"
+dialogtxt       "How'd it go? Find anything?"
 code047b        
 code0309        
 call            @Func_0df2
@@ -25,9 +24,8 @@ code0479        0, 2, 16
 code047d        0, 132
 call            @Func_0e0a
 call            @Func_0d50
-dialogtxt       "No, nothing at all."
-dialogtxt       "Like I thought, they don't seem"
-dialogtxt       "to be inside the workshop..."
+dialogtxt       "No, nothing at all. Like I thought,"
+dialogtxt       "they don't seem to be at the workshop..."
 code047b        
 code0309        
 call            @Func_0e8c
@@ -59,9 +57,8 @@ code0479        0, 0, 16
 code047d        0, 109
 call            @Func_0e0a
 call            @Func_0d50
-dialogtxt       "Could it be that Murno"
-dialogtxt       "already returned home"
-dialogtxt       "with her father?"
+dialogtxt       "Could it be that Murno is already"
+dialogtxt       "going back home with her father?"
 code047b        
 code0309        
 call            @Func_0e76
@@ -94,30 +91,28 @@ code043c        2, 4
 code043c        4, 4
 call            @Func_0dbc
 jumpz           @Cond_0446, ($b003 == 0)
-dialogtxt       "The Possibility Of That"
-dialogtxt       "Is Exceedingly Low."
-dialogtxt       "I Will Also Aid In The Search."
+dialogtxt       "The Possibility Of That Is Exceedingly"
+dialogtxt       "Low. I Will Also Aid In The Search."
 goto            @Cond_0446
 
 @Cond_0446:
 jumpz           @Cond_04aa, ($b003 == 1)
-dialogtxt       "Murno would not do that"
-dialogtxt       "without telling me!"
-dialogtxt       "I will search as well!"
+dialogtxt       "Murno would never do that without"
+dialogtxt       "informing me! I will join in the"
+dialogtxt       "Search as well!"
 goto            @Cond_04aa
 
 @Cond_04aa:
 jumpz           @Cond_04fa, ($b003 == 2)
-dialogtxt       "No way."
-dialogtxt       "She's not a person who would"
-dialogtxt       "leave without saying anything."
+dialogtxt       "No way. She'd never leave without"
+dialogtxt       "saying anything."
 goto            @Cond_04fa
 
 @Cond_04fa:
 jumpz           @Cond_0552, ($b003 == 3)
-dialogtxt       "In that case, I'm sure she"
-dialogtxt       "would have told me."
-dialogtxt       "I will look for them as well!"
+dialogtxt       "If that were the case, I'm sure she"
+dialogtxt       "would have told me. I will look for"
+dialogtxt       "them as well!"
 goto            @Cond_0552
 
 @Cond_0552:
@@ -132,13 +127,11 @@ code047d        0, 0
 call            @Func_0e0a
 call            @Func_0d50
 jumpz           @Cond_05dc, ($b002 == 0)
-dialogtxt       "You're right."
-dialogtxt       "Let's look around for a bit longer."
+dialogtxt       "You're right. Let's keep looking."
 goto            @Label_0610
 
 @Cond_05dc:
-dialogtxt       "You're right."
-dialogtxt       "Let's look around for a bit longer."
+dialogtxt       "You're right. Let's keep looking."
 goto            @Label_0610
 
 @Label_0610:
@@ -154,7 +147,7 @@ code0479        1, 2, 12
 code047d        1, 108
 call            @Func_0e20
 call            @Func_0d9e
-dialogtxt       "Alright, then we'll split up."
+dialogtxt       "Alright then. Let's split up."
 code047b        
 code0309        
 call            @Func_0e76

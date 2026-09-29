@@ -25,13 +25,11 @@ code047d        1, 2
 call            @Func_0f5a
 call            @Func_0e56
 jumpz           @Cond_0116, ($b002 == 0)
-dialogtxt       "Alright!"
-dialogtxt       "So today I'll—"
+dialogtxt       "Alright! So, today I'll—"
 goto            @Label_0138
 
 @Cond_0116:
-dialogtxt       "Alright!"
-dialogtxt       "So today I'll—"
+dialogtxt       "Alright! So, today I'll—"
 goto            @Label_0138
 
 @Label_0138:
@@ -67,8 +65,8 @@ code0479        0, 0, 16
 code047d        0, 108
 call            @Func_0f2e
 call            @Func_0e56
-dialogtxt       "Hey, [NAME 2],"
-dialogtxt       "have you seen Murno today?"
+dialogtxt       "Hey, [NAME 2]. Have you seen"
+dialogtxt       "Murno today?"
 code047b        
 code0309        
 call            @Func_0eaa
@@ -78,8 +76,7 @@ code047d        1, 0
 code0479        1, 0, 16
 call            @Func_0f44
 call            @Func_0ee0
-dialogtxt       "Eh?"
-dialogtxt       "No, I haven't."
+dialogtxt       "Huh? No, I haven't."
 code047b        
 code0309        
 call            @Func_0f9a
@@ -133,8 +130,7 @@ code0309
 call            @Func_0f16
 code0479        0, 2, 14
 call            @Func_0e74
-dialogtxt       "That's right."
-dialogtxt       "Mr. Wellman is gone too."
+dialogtxt       "That's right. Mr. Wellman is gone too."
 dialogtxt       "Maybe they went out together?"
 code0309        
 call            @Func_0fb0
@@ -178,7 +174,7 @@ code0479        0, 2, 16
 code047d        0, 0
 call            @Func_0f5a
 call            @Func_0e56
-dialogtxt       "I wonder what happened?"
+dialogtxt       "I wonder what they're up to..."
 code047b        
 code0309        
 call            @Func_0eaa
@@ -208,8 +204,8 @@ goto            @Cond_07f4
 
 @Cond_07f4:
 jumpz           @Cond_0830, ($b003 == 1)
-dialogtxt       "Hmm... Murno..."
-dialogtxt       "Shall we have a look?"
+dialogtxt       "Ah... How nerve-wracking. We should"
+dialogtxt       "search for them as well."
 goto            @Cond_0830
 
 @Cond_0830:
@@ -220,8 +216,7 @@ goto            @Cond_0860
 
 @Cond_0860:
 jumpz           @Cond_0896, ($b003 == 3)
-dialogtxt       "I'm worried."
-dialogtxt       "Let's have a look around."
+dialogtxt       "I'm worried. Let's have a look around."
 goto            @Cond_0896
 
 @Cond_0896:

@@ -459,7 +459,7 @@ code047d        0, 118
 code047e        0, 1
 dialogtxt       "Seems like the gatekeeper at"
 dialogtxt       "the west gate is injured."
-dialogtxt       "I have to be careful too..."
+dialogtxt       "I'd better be careful, too..."
 code0309        
 code047e        0, 0
 code0302        7
@@ -469,11 +469,10 @@ code040b
 code0301        8, 7
 code047d        0, 123
 code047e        0, 1
-dialogtxt       "Hey, it's about time we do a drama."
+dialogtxt       "Hey, we should play \"house\" this time!"
 code0309        
-dialogtxt       "I'll give you a divorce letter"
-dialogtxt       "and you say, \"Let's take this"
-dialogtxt       "somewhere official.\""
+dialogtxt       "I'll divorce you, and you'll go, \"get"
+dialogtxt       "out of here, then!\""
 code0309        
 code047e        0, 0
 code0302        7
@@ -486,7 +485,7 @@ dialogtxt       "Committee released a statement saying"
 dialogtxt       "drills are great for breaking weapons."
 code0309        
 dialogtxt       "In response, they received a flood of"
-dialogtxt       "complaints from blacksmiths asking "
+dialogtxt       "complaints from blacksmiths, asking "
 dialogtxt       "why they completely ignored axes."
 code0309        
 code0302        7
