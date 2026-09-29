@@ -457,7 +457,7 @@ code047d        0, 121
 code047e        0, 1
 dialogtxt       "I wanna leave this musty old village"
 dialogtxt       "and head for the big city! But..."
-dialogtxt       "Sigh, village rules and all..."
+dialogtxt       "Sigh... village rules and all..."
 code0309        
 code047e        0, 0
 code0302        7
@@ -484,4 +484,3 @@ walkto          30, -8, -8, 67
 code0461        30
 code0461        31
 code040b        
-
