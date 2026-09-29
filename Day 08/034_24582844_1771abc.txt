@@ -136,9 +136,8 @@ goto            @start
 code0301        8, 7
 code047d        0, 136
 code047e        0, 1
-dialogtxt       "Hm? You again?"
-dialogtxt       "What an incorrigible fellow..."
-dialogtxt       "Well, take your time."
+dialogtxt       "Hm? You again? You're incorrigible,"
+dialogtxt       "you know that? Well, take your time."
 code0309        
 code047e        0, 0
 code0302        7
@@ -146,9 +145,9 @@ code040b
 
 @Event_06b6:
 code0301        8, 7
-dialogtxt       "A notice From Gallahan's Workshop:"
-dialogtxt       "When a clerk is not at the counter,"
-dialogtxt       "please shop at your own convenience."
+dialogtxt       "A notice from Gallahan's Workshop:"
+dialogtxt       "Customers are welcome to continue"
+dialogtxt       "shopping, even if no clerk is present."
 code0309        
 code0302        7
 code040b        
@@ -362,12 +361,12 @@ dialogtxt       "That's a Craftknight's hammer. I'm a "
 dialogtxt       "traveling peddler, trying to make a name"
 dialogtxt       "for myself among fellow professionals."
 code0309        
-dialogtxt       "Eventually I'd like to open"
-dialogtxt       "a shop with my daugher. And for"
-dialogtxt       "that, we need customers."
+dialogtxt       "Eventually I'd like to open a shop with"
+dialogtxt       "my daugher. And for that, we'll need"
+dialogtxt       "lots of customers."
 code0309        
-dialogtxt       "I know quite a lot about smithing."
-dialogtxt       "Feel free to ask me anything."
+dialogtxt       "I know quite a bit about smithing."
+dialogtxt       "Feel free to ask me anything!"
 code0309        
 code047e        0, 0
 choicetxt       @Choice_10a6, "Teach me about crafting."
@@ -377,22 +376,22 @@ choicewait
 
 @Choice_10a6:
 code047e        0, 1
-dialogtxt       "This is very information."
-dialogtxt       "I'll teach you the secret"
-dialogtxt       "to making high quality weapons."
+dialogtxt       "Here's a useful tip! I'll teach you"
+dialogtxt       "the secret to making high quality"
+dialogtxt       "weapons."
 code0309        
-dialogtxt       "Normally, your weapon rank will"
-dialogtxt       "not exceed your smithing rank,"
-dialogtxt       "and you have a low chance of"
-dialogtxt       "achieving high quality."
+dialogtxt       "Normally, your weapon rank will not"
+dialogtxt       "exceed your crafting rank, and you have"
+dialogtxt       "a low chance of making a great weapon."
 code0309        
-dialogtxt       "However, if you craft a weapon"
-dialogtxt       "with a rank lower than your smithing"
-dialogtxt       "rank, that chance increases."
+dialogtxt       "However, if you craft a weapon with a"
+dialogtxt       "rank lower than your crafting rank,"
+dialogtxt       "that chance increases."
 code0309        
 dialogtxt       "What's more, that chance will be"
 dialogtxt       "even higher for weapons matching"
 dialogtxt       "your partner's specialty."
+code0309        
 dialogtxt       "Understand?"
 code0309        
 goto            @Label_1372
@@ -402,17 +401,16 @@ code047e        0, 1
 dialogtxt       "Well then, this time I'll teach"
 dialogtxt       "you about disassembly."
 code0309        
-dialogtxt       "Did you know that in addition to"
-dialogtxt       "normal disassembly, there is"
-dialogtxt       "also revision disassembly?"
+dialogtxt       "Did you know that, in addition to"
+dialogtxt       "normal disassembly, there's actually"
+dialogtxt       "another form of disassembly?"
 code0309        
 dialogtxt       "When you disassemble weapons with"
 dialogtxt       "maxed skill, the leftover materials"
 dialogtxt       "may have special skills or effects."
 code0309        
-dialogtxt       "You can use those materials"
-dialogtxt       "to add special effects to any"
-dialogtxt       "weapon you like."
+dialogtxt       "You can use those materials to add"
+dialogtxt       "special effects to any weapon you like!"
 code0309        
 goto            @Label_1372
 
