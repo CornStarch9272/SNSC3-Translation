@@ -21,15 +21,11 @@ call            @Func_11a8
 code0479        0, 4, 16
 call            @Func_1106
 jumpz           @Cond_0132, ($b002 == 0)
-dialogtxt       "Uwah..."
-dialogtxt       "Sorry, Master..."
-dialogtxt       "I broke it again..."
+dialogtxt       "Gaaaah! I broke it again! Sorry, Master..."
 goto            @Label_0172
 
 @Cond_0132:
-dialogtxt       "Uwah..."
-dialogtxt       "Sorry, Master..."
-dialogtxt       "I broke it again..."
+dialogtxt       "Gaaaah! I broke it again! Sorry, Master..."
 goto            @Label_0172
 
 @Label_0172:
@@ -42,9 +38,7 @@ code0309
 call            @Func_11a8
 code0479        0, 4, 17
 call            @Func_1106
-dialogtxt       "Uu...!"
-dialogtxt       "Um......!!!"
-dialogtxt       "I.........!!!"
+dialogtxt       "Guh! Uh...! I...!!"
 code0309        
 call            @Func_1242
 call            @Func_1124
@@ -59,14 +53,14 @@ code0479        1, 7, 13
 call            @Func_11ec
 call            @Func_1154
 dialogtxt       "You've gotten much better,"
-dialogtxt       "[NAME 2]..."
+dialogtxt       "[NAME 2]."
 code047b        
 code0309        
 code0479        0, 0, 16
 code0479        1, 2, 12
-dialogtxt       "You defeated me, even though I'm"
+dialogtxt       "You defeated me, even while I was"
 dialogtxt       "using the axe I made with Rob."
-dialogtxt       "You're great!"
+dialogtxt       "You're really something else!"
 code0309        
 call            @Func_11a8
 goto            @Label_04da
@@ -91,9 +85,7 @@ dialogtxt       "I really won!"
 goto            @Label_0412
 
 @Cond_03e4:
-dialogtxt       "I..."
-dialogtxt       "I won..."
-dialogtxt       "I really won!"
+dialogtxt       "I... I won. I won!"
 goto            @Label_0412
 
 @Label_0412:
@@ -103,13 +95,13 @@ call            @Func_113c
 code0479        1, 7, 13
 call            @Func_1172
 dialogtxt       "You've gotten much better,"
-dialogtxt       "[NAME 2]..."
-code0309        
+dialogtxt       "[NAME 2]."
+code0309		
 code0479        0, 0, 16
 code0479        1, 2, 12
-dialogtxt       "You defeated me, even though I'm"
+dialogtxt       "You defeated me, even while I was"
 dialogtxt       "using the axe I made with Rob."
-dialogtxt       "You're great!"
+dialogtxt       "You're really something else!"
 code0309        
 call            @Func_11a8
 goto            @Label_04da
@@ -117,29 +109,25 @@ goto            @Label_04da
 @Label_04da:
 code0479        0, 5, 12
 call            @Func_1106
-dialogtxt       "Ah..."
-dialogtxt       "Master..."
-dialogtxt       "Thank you!"
+dialogtxt       "Ah... Master... thank you!"
 code0309        
 call            @Func_113c
 code0479        1, 0, 12
 call            @Func_1172
-dialogtxt       "If you're this good"
-dialogtxt       "even without [NAME 1],"
-dialogtxt       "I'm sure you'll be fine."
+dialogtxt       "If you're this good even without"
+dialogtxt       "[NAME 1], I'm sure you'll be fine."
 code0309        
 call            @Func_11a8
 code0479        0, 4, 14
 call            @Func_1106
-dialogtxt       "That's right..."
-dialogtxt       "[NAME 1] is..."
+dialogtxt       "That's right... [NAME 1] is still"
+dialogtxt       "with Murno..."
 code0309        
 call            @Func_113c
 code0479        1, 4, 12
 call            @Func_1172
-dialogtxt       "Don't make that face."
-dialogtxt       "I'm sure those two feel"
-dialogtxt       "the same way you do."
+dialogtxt       "Don't make that face. I'm sure those"
+dialogtxt       "two feel the same way you do."
 code0309        
 code0479        1, 2, 12
 dialogtxt       "We have to be there for them."
@@ -162,23 +150,23 @@ dialogtxt       "I have to work hard too."
 code0309        
 code0479        1, 2, 12
 dialogtxt       "I can't keep clinging to Rob."
-dialogtxt       "I have to be able to be proud,"
+dialogtxt       "I have to be proud of myself,"
 dialogtxt       "as your second master!"
 code0309        
 call            @Func_11a8
 code0333        2, 30
 code0479        0, 2, 16
 call            @Func_1106
-dialogtxt       "Second master..."
+dialogtxt       "My second master..."
 code0309        
 call            @Func_113c
 code0334        
 code0331        40, 256
 code0479        1, 2, 13
 call            @Func_1172
-dialogtxt       "Together, all of Lyndbaum will"
-dialogtxt       "shiver in the face of your skills"
-dialogtxt       "and my rock 'n' roll."
+dialogtxt       "Together, all of Lyndbaum will shiver"
+dialogtxt       "in the face of your skills and my rock"
+dialogtxt       "'n' roll!"
 code0309        
 code0479        1, 2, 15
 dialogtxt       "Until I hold the world in these"
@@ -188,25 +176,23 @@ code0309
 call            @Func_11a8
 code0479        0, 4, 17
 call            @Func_1106
-dialogtxt       "Eh~~"
+dialogtxt       "Huuuh?!"
 code0309        
 call            @Func_113c
 code0479        1, 2, 17
 call            @Func_1172
-dialogtxt       "What is it!?"
-dialogtxt       "Put your back into it or I'll"
-dialogtxt       "kick your butt! You want that!?"
+dialogtxt       "What is it?! Put your back into it, or I'll"
+dialogtxt       "kick your butt! You want that?!"
 code0309        
 call            @Func_11a8
 code0479        0, 1, 15
 call            @Func_1106
-dialogbig       255, 116, 1, 0, 0, "Nooo~!!!"
+dialogbig       255, 116, 1, 0, 0, "Nooooooo!!!"
 code030c        
 call            @Func_113c
 code0479        1, 7, 13
 call            @Func_1172
-dialogtxt       "Alright!"
-dialogtxt       "That was a rocking shout!"
+dialogtxt       "Alright! That was a rockin' shout!"
 code0309        
 call            @Func_1242
 call            @Func_1190
@@ -223,13 +209,13 @@ code047d        0, 108
 code0301        16, 7
 code047e        0, 1
 jumpz           @Cond_0afe, ($b002 == 0)
-dialogtxt       "That's what makes you the"
-dialogtxt       "man I've been expecting!"
+dialogtxt       "That's the man I always knew you"
+dialogtxt       "could be!"
 goto            @Label_0b32
 
 @Cond_0afe:
-dialogtxt       "That's what makes you the"
-dialogtxt       "woman I've been expecting!"
+dialogtxt       "That's the woman I always knew"
+dialogtxt       "you could be!"
 goto            @Label_0b32
 
 @Label_0b32:

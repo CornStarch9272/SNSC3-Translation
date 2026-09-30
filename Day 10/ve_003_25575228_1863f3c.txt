@@ -6,9 +6,8 @@ code0479        0, 0, 12
 code047d        0, 0
 call            @Func_0836
 call            @Func_079e
-dialogtxt       "So, [NAME 2]."
-dialogtxt       "Have you chosen the weapon"
-dialogtxt       "you're going to use?"
+dialogtxt       "So, [NAME 2]. Have you chosen"
+dialogtxt       "which weapon you want to use?"
 code0309        
 call            @Func_07f2
 code0479        0, 0, 16
@@ -33,8 +32,8 @@ goto            @Label_019e
 call            @Func_0786
 code0479        1, 2, 17
 call            @Func_07bc
-dialogtxt       "I told you to only bring one!"
-code0309        
+dialogtxt       "I told you! One weapon, no more!"
+code0309		
 call            @Func_088c
 call            @Func_07da
 code047b        
@@ -260,4 +259,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-

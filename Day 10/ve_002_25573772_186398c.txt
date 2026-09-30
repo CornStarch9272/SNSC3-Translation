@@ -15,22 +15,19 @@ code0479        1, 2, 14
 code047d        1, 108
 call            @Func_0e6c
 call            @Func_0dd4
-dialogtxt       "Hmmm..."
-dialogtxt       "I see."
+dialogtxt       "Hmmm... I see."
 code047b        
 code0309        
 call            @Func_0e28
 code0479        0, 2, 16
 call            @Func_0d86
-dialogtxt       "Um..."
-dialogtxt       "How is it?"
+dialogtxt       "Um... How is it?"
 code0309        
 call            @Func_0dbc
 code0479        1, 2, 13
 call            @Func_0df2
-dialogtxt       "Alright, looks good."
-dialogtxt       "You pass!"
-dialogtxt       "Rob would be proud of you too."
+dialogtxt       "Alright, looks good. You pass!"
+dialogtxt       "Rob would be proud of you, y'know."
 code0309        
 call            @Func_0e28
 code0333        2, 30
@@ -56,19 +53,19 @@ call            @Func_0dbc
 code0479        1, 2, 16
 call            @Func_0df2
 dialogtxt       "It's still too early to celebrate."
-dialogtxt       "It may look fine, but we don't"
-dialogtxt       "know if it's truly up to snuff..."
+dialogtxt       "Sure, it looks fine. But there's only"
+dialogtxt       "one way to know if it's up to snuff."
 code0309        
 call            @Func_0e28
 code0479        0, 2, 12
 call            @Func_0d86
 jumpz           @Cond_034a, ($b002 == 0)
-dialogtxt       "Until we test it."
+dialogtxt       "We've gotta test it."
 dialogtxt       "... Right?"
 goto            @Label_0376
 
 @Cond_034a:
-dialogtxt       "Until we test it."
+dialogtxt       "We've gotta test it."
 dialogtxt       "... Right?"
 goto            @Label_0376
 
@@ -77,9 +74,8 @@ code0309
 call            @Func_0dbc
 code0479        1, 2, 12
 call            @Func_0df2
-dialogtxt       "It's been a while since we've"
-dialogtxt       "had a match, hasn't it?"
-dialogtxt       "How about it, [NAME 2]?"
+dialogtxt       "It's been a while since we've had a"
+dialogtxt       "match, huh? How about it, [NAME 2]?"
 code0309        
 call            @Func_0e28
 code0479        0, 5, 16
@@ -89,9 +85,8 @@ code0309
 call            @Func_0dbc
 code0479        1, 0, 12
 call            @Func_0df2
-dialogtxt       "I'll use the axe you"
-dialogtxt       "just repaired."
-dialogtxt       "You can use whatever you want."
+dialogtxt       "I'll use the axe you just repaired."
+dialogtxt       "You can use whatever weapon you want."
 code0309        
 code0479        1, 2, 14
 code0479        0, 0, 16
@@ -105,31 +100,30 @@ code0309
 call            @Func_0dbc
 code0479        1, 2, 16
 call            @Func_0df2
-dialogtxt       "Right... Think of it as"
-dialogtxt       "putting your all of your training"
-dialogtxt       "with [NAME 1] to the test..."
+dialogtxt       "Right. Think of it as you putting"
+dialogtxt       "all of your training with [NAME 1]"
+dialogtxt       "to the test."
 code0309        
 code0479        1, 2, 12
-dialogtxt       "Bring me the best you've got."
+dialogtxt       "Bring me the best you've got!"
 code0309        
 call            @Func_0e28
 code0479        0, 2, 16
 call            @Func_0d86
-dialogtxt       "All of my training"
-dialogtxt       "with [NAME 1]..."
+dialogtxt       "All of my training with"
+dialogtxt       "[NAME 1], huh...?"
 code0309        
 call            @Func_0dbc
 code0479        1, 1, 13
 call            @Func_0df2
-dialogtxt       "Heheh... I see you're taking"
-dialogtxt       "this seriously. I'll wait outside,"
-dialogtxt       "come out whenever you're ready."
-code0309        
+dialogtxt       "Heheh... I can see you're taking this"
+dialogtxt       "seriously. Good. I'll wait outside, so"
+dialogtxt       "come see me whenever you're ready."
+code0309		
 call            @Func_0e28
 code0479        0, 0, 14
 call            @Func_0d86
-dialogtxt       "Outside."
-dialogtxt       "Got it..."
+dialogtxt       "Outside. Got it."
 code0309        
 call            @Func_0ec2
 call            @Func_0da4
@@ -148,12 +142,12 @@ code0479        0, 0, 12
 call            @Func_0e40
 call            @Func_0d68
 jumpz           @Cond_0794, ($b002 == 0)
-dialogtxt       "The best one I've got, huh..."
+dialogtxt       "The best weapon I've got, huh...?"
 dialogtxt       "I wonder which one to choose."
 goto            @Label_07d4
 
 @Cond_0794:
-dialogtxt       "The best one I've got, huh..."
+dialogtxt       "The best weapon I've got, huh...?"
 dialogtxt       "I wonder which one to choose."
 goto            @Label_07d4
 

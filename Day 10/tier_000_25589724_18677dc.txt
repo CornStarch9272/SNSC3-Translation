@@ -56,29 +56,28 @@ code047d        0, 2
 call            @Func_0fa4
 call            @Func_0eea
 jumpz           @Cond_02a8, ($b003 == 0)
-dialogtxt       "I Must Meet Lady Murno"
-dialogtxt       "To Discuss Our Plans From Hereon."
-dialogtxt       "I Will Be Away For Some Time."
+dialogtxt       "I Must Meet With Lady Murno To Discuss"
+dialogtxt       "Our Future Plans. I Will Be Going."
 goto            @Cond_02a8
 
 @Cond_02a8:
 jumpz           @Cond_030c, ($b003 == 1)
-dialogtxt       "I need to talk to Murno about"
-dialogtxt       "our plans from here on out."
-dialogtxt       "My apologies. I will be off."
+dialogtxt       "My apologies. I'll be meeting with Murno"
+dialogtxt       "to discuss our future plans. I'll be"
+dialogtxt       "heading to see her now."
 goto            @Cond_030c
 
 @Cond_030c:
 jumpz           @Cond_0352, ($b003 == 2)
-dialogtxt       "I have to talk to Murno."
-dialogtxt       "It has nothing to do with you."
+dialogtxt       "I have to talk to Murno. It's none of"
+dialogtxt       "your business."
 goto            @Cond_0352
 
 @Cond_0352:
 jumpz           @Cond_03ae, ($b003 == 3)
-dialogtxt       "I want to talk with Lady Murno"
-dialogtxt       "about what to do going forward..."
-dialogtxt       "I'm sorry, but..."
+dialogtxt       "I'd like to talk with Lady Murno about"
+dialogtxt       "what we're going to do going forward."
+dialogtxt       "Please excuse me."
 goto            @Cond_03ae
 
 @Cond_03ae:
@@ -88,15 +87,11 @@ call            @Func_0f20
 code0479        1, 0, 12
 call            @Func_0f56
 jumpz           @Cond_040a, ($b002 == 0)
-dialogtxt       "Oh..."
-dialogtxt       "Okay..."
-dialogtxt       "Understood."
+dialogtxt       "Oh... Okay... Got it."
 goto            @Label_0436
 
 @Cond_040a:
-dialogtxt       "Oh..."
-dialogtxt       "Okay..."
-dialogtxt       "Understood."
+dialogtxt       "Oh... Okay... Got it."
 goto            @Label_0436
 
 @Label_0436:
@@ -153,8 +148,8 @@ code0479        0, 0, 14
 code047d        0, 0
 call            @Func_0fd0
 call            @Func_0f38
-dialogtxt       "Now, [NAME 2],"
-dialogtxt       "let's head to Smile Inn."
+dialogtxt       "Now then, [NAME 2]! Let's head"
+dialogtxt       "back to the Smile Inn."
 code0309        
 call            @Func_0f8c
 code0479        0, 0, 16
@@ -177,13 +172,11 @@ choicewait
 @Choice_07c8:
 code0479        0, 0, 12
 jumpz           @Cond_081a, ($b002 == 0)
-dialogtxt       "I need to get ready,"
-dialogtxt       "wait a moment."
+dialogtxt       "Give me a minute. I've gotta get ready."
 goto            @Label_0842
 
 @Cond_081a:
-dialogtxt       "I need to get ready,"
-dialogtxt       "wait a moment."
+dialogtxt       "Give me a minute. I've gotta get ready."
 goto            @Label_0842
 
 @Label_0842:
@@ -191,9 +184,9 @@ code0309
 call            @Func_0f20
 code0479        1, 0, 16
 call            @Func_0f56
-dialogtxt       "I'll be waiting here."
-dialogtxt       "Don't take too long."
-code0309        
+dialogtxt       "I'll be waiting here. Don't keep"
+dialogtxt       "me waiting!"
+code0309		
 call            @Func_1026
 call            @Func_0f74
 code047b        
@@ -205,13 +198,11 @@ goto            @Label_0946
 setvar          $f0138, 1
 code0479        0, 0, 12
 jumpz           @Cond_090c, ($b002 == 0)
-dialogtxt       "Alright."
-dialogtxt       "Let's go."
+dialogtxt       "Alright, let's go."
 goto            @Label_092a
 
 @Cond_090c:
-dialogtxt       "Okay then,"
-dialogtxt       "let's go."
+dialogtxt       "'kay then. Let's go."
 goto            @Label_092a
 
 @Label_092a:
