@@ -33,15 +33,14 @@ goto            @Label_01cc
 call            @Func_07b4
 code0479        1, 0, 16
 call            @Func_07ea
-dialogtxt       "It looks like you've"
-dialogtxt       "brought more than one..."
-code0309        
+dialogtxt       "Didn't you say you were only going"
+dialogtxt       "to bring one weapon?"
+code0309		
 call            @Func_0820
 code0479        0, 5, 16
 call            @Func_077e
-dialogtxt       "Ah, you're right."
-dialogtxt       "Give me a minute."
-code0309        
+dialogtxt       "Whoops, you're right. Gimme a minute."
+code0309		
 call            @Func_08ba
 call            @Func_079c
 code047b        
@@ -266,4 +265,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-
