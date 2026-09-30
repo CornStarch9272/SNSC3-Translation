@@ -160,7 +160,7 @@ call            @Func_176c
 code0479        0, 2, 15
 call            @Func_16b2
 dialogtxt       "I am not a cat!"
-dialogtxt       "I am a Tiger Youkai, a Toramata!"
+dialogtxt       "I am a tiger youkai, a Toramata!"
 code047b        
 code0309        
 call            @Func_16e8

@@ -354,7 +354,7 @@ code0479        0, 2, 14
 call            @Func_26d8
 dialogtxt       "I'll say this first!"
 dialogtxt       "I am not a cat. I am a"
-dialogtxt       "tiger Youkai, a Toramata!"
+dialogtxt       "tiger youkai, a Toramata!"
 code0309        
 call            @Func_270e
 code0479        1, 4, 16
