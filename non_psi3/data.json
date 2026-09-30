@@ -20735,7 +20735,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "エルヴィヌ原石\u0000\u0000\u0000\u0000",
-              "translation": "Eruvine Crystal\u0000",
+              "translation": "Irwinite Crystal\u0000",
               "type": "SJIS string"
             },
             "offset": 0,
@@ -21195,7 +21195,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "幻想鉱\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
-              "translation": "Illusion Ore\u0000",
+              "translation": "Illusionite\u0000",
               "type": "SJIS string"
             },
             "offset": 0,
@@ -21333,7 +21333,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "サッシュ鉱石\u0000\u0000\u0000\u0000\u0000\u0000",
-              "translation": "Sash Ore\u0000",
+              "translation": "Sashite\u0000",
               "type": "SJIS string"
             },
             "offset": 0,
@@ -21379,7 +21379,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "ガリア鉱石\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
-              "translation": "Gaul Ore\u0000",
+              "translation": "Gaulite\u0000",
               "type": "SJIS string"
             },
             "offset": 0,
@@ -21793,7 +21793,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "ユウビス鉱石\u0000\u0000\u0000\u0000\u0000\u0000",
-              "translation": "Yubis Ore\u0000",
+              "translation": "Elegant Ore\u0000",
               "type": "SJIS string"
             },
             "offset": 0,
