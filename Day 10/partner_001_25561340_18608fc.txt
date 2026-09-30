@@ -25,26 +25,24 @@ code047d        0, 0
 call            @Func_0d1e
 call            @Func_0c86
 jumpz           @Cond_012a, ($b003 == 0)
-dialogtxt       "Have You Selected Your"
-dialogtxt       "Favorite Weapon?"
+dialogtxt       "Have You Selected Your Favorite"
+dialogtxt       "Weapon?"
 goto            @Cond_012a
 
 @Cond_012a:
 jumpz           @Cond_0162, ($b003 == 1)
-dialogtxt       "Well?"
-dialogtxt       "Are you prepared?"
+dialogtxt       "Well then. Are you prepared?"
 goto            @Cond_0162
 
 @Cond_0162:
 jumpz           @Cond_019a, ($b003 == 2)
-dialogtxt       "Hm..."
-dialogtxt       "Ready?"
+dialogtxt       "Mm... Ready?"
 goto            @Cond_019a
 
 @Cond_019a:
 jumpz           @Cond_01da, ($b003 == 3)
-dialogtxt       "How are you?"
-dialogtxt       "Are you prepared for the match?"
+dialogtxt       "How are you? Have you prepared for"
+dialogtxt       "our match?"
 goto            @Cond_01da
 
 @Cond_01da:
@@ -100,18 +98,21 @@ goto            @Label_034c
 @Label_034c:
 call            @Func_0ca4
 jumpz           @Cond_0476, ($b003 == 0)
-dialogtxt       "You Say Favorite, But Does That"
-dialogtxt       "Not Imply Only A Single Weapon?"
-code0309        
+dialogtxt       "Error: You Have Selected Multiple"
+dialogtxt       "Weapons. Did You Not Intend To"
+dialogtxt       "Bring Only One?"
+code0309		
 call            @Func_0cda
 code0479        0, 0, 16
 call            @Func_0c38
 jumpz           @Cond_0410, ($b002 == 0)
-dialogtxt       "Well, you're right about that..."
+dialogtxt       "Right... I guess I can only have"
+dialogtxt       "one favorite, huh?"
 goto            @Label_0448
 
 @Cond_0410:
-dialogtxt       "Well, you're right about that..."
+dialogtxt       "Right... I guess I can only have"
+dialogtxt       "one favorite, huh?"
 goto            @Label_0448
 
 @Label_0448:
@@ -122,44 +123,39 @@ goto            @Cond_0476
 
 @Cond_0476:
 jumpz           @Cond_052c, ($b003 == 1)
-dialogtxt       "But your equipment...?"
-dialogtxt       "Weren't you supposed to choose"
+dialogtxt       "Hmm? You're rather well-armed..."
+dialogtxt       "Weren't you intending to bring"
 dialogtxt       "only your single greatest weapon?"
-code0309        
+code0309		
 call            @Func_0cda
 code0479        0, 0, 16
 call            @Func_0c38
-dialogtxt       "Ah, right."
-dialogtxt       "It's supposed to be just one."
-dialogtxt       "Give me a minute."
+dialogtxt       "Oh, right, I was only supposed to bring"
+dialogtxt       "one. Give me a minute here..."
 goto            @Cond_052c
 
 @Cond_052c:
 jumpz           @Cond_05ce, ($b003 == 2)
-dialogtxt       "Fu..."
-dialogtxt       "You said you'd choose your"
-dialogtxt       "single greatest weapon."
+dialogtxt       "Heh... Didn't you say you would only"
+dialogtxt       "bring your single best weapon?"
 code0309        
 call            @Func_0cda
 code0479        0, 0, 16
 call            @Func_0c38
-dialogtxt       "Ah, right."
-dialogtxt       "It's supposed to be just one."
-dialogtxt       "Give me a minute."
+dialogtxt       "Oh, right, I was only supposed to bring"
+dialogtxt       "one. Give me a minute here..."
 goto            @Cond_05ce
 
 @Cond_05ce:
 jumpz           @Cond_0676, ($b003 == 3)
-dialogtxt       "Oh?"
-dialogtxt       "Weren't you supposed to choose only"
-dialogtxt       "your single greatest weapon?"
-code0309        
+dialogtxt       "Hmm? Didn't you say you would only"
+dialogtxt       "bring your single strongest weapon?"
+code0309		
 call            @Func_0cda
 code0479        0, 0, 16
 call            @Func_0c38
-dialogtxt       "Ah, right."
-dialogtxt       "It's supposed to be just one."
-dialogtxt       "Give me a minute."
+dialogtxt       "Oh, right, I was only supposed to bring"
+dialogtxt       "one. Give me a minute here..."
 goto            @Cond_0676
 
 @Cond_0676:
@@ -388,4 +384,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-

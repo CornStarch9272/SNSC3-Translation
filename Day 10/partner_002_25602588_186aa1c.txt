@@ -30,13 +30,13 @@ call            @Func_0fac
 jumpz           @Cond_01e6, ($b003 == 0)
 code0479        0, 2, 12
 jumpz           @Cond_016a, ($b002 == 0)
-dialogtxt       "With this weapon..."
-dialogtxt       "I'll show you my determination!"
+dialogtxt       "With this weapon, I'll show you"
+dialogtxt       "my determination!"
 goto            @Label_01a8
 
 @Cond_016a:
-dialogtxt       "With this weapon..."
-dialogtxt       "I'll show you my determination!"
+dialogtxt       "With this weapon, I'll show you"
+dialogtxt       "my determination!"
 goto            @Label_01a8
 
 @Label_01a8:
@@ -45,7 +45,7 @@ code0309
 call            @Func_1000
 code0479        1, 5, 12
 call            @Func_1036
-dialogtxt       "Now Then, A Serious Match!"
+dialogtxt       "Initiating A Serious Match!"
 goto            @Cond_01e6
 
 @Cond_01e6:
@@ -53,12 +53,12 @@ jumpz           @Cond_02b4, ($b003 == 1)
 code0479        0, 2, 12
 jumpz           @Cond_0244, ($b002 == 0)
 dialogtxt       "Show me what you're made of,"
-dialogtxt       "[NAME 1]..."
+dialogtxt       "[NAME 1]!"
 goto            @Label_0270
 
 @Cond_0244:
 dialogtxt       "Show me what you're made of,"
-dialogtxt       "[NAME 1]..."
+dialogtxt       "[NAME 1]!"
 goto            @Label_0270
 
 @Label_0270:
@@ -66,21 +66,18 @@ code0309
 call            @Func_1000
 code0479        1, 2, 12
 call            @Func_1036
-dialogtxt       "Mm..."
-dialogtxt       "Try not to regret it!"
+dialogtxt       "Mmm... try not to regret it!"
 goto            @Cond_02b4
 
 @Cond_02b4:
 jumpz           @Cond_0382, ($b003 == 2)
 code0479        0, 2, 12
 jumpz           @Cond_030a, ($b002 == 0)
-dialogtxt       "Don't hold back,"
-dialogtxt       "[NAME 1]..."
+dialogtxt       "Don't hold back, [NAME 1]."
 goto            @Label_032e
 
 @Cond_030a:
-dialogtxt       "Don't hold back,"
-dialogtxt       "[NAME 1]..."
+dialogtxt       "Don't hold back, [NAME 1]."
 goto            @Label_032e
 
 @Label_032e:
@@ -88,22 +85,20 @@ code0309
 call            @Func_1000
 code0479        1, 2, 13
 call            @Func_1036
-dialogtxt       "Fu..."
-dialogtxt       "As always, your mouth is"
-dialogtxt       "as quick as ever..."
+dialogtxt       "Heh... Your mouth is as quick as ever..."
 goto            @Cond_0382
 
 @Cond_0382:
 jumpz           @Cond_0470, ($b003 == 3)
 code0479        0, 2, 12
 jumpz           @Cond_03ec, ($b002 == 0)
-dialogtxt       "With this weapon, you won't be"
-dialogtxt       "able to hold back, right?"
+dialogtxt       "With a weapon this strong, you won't"
+dialogtxt       "be able to hold back, right?"
 goto            @Label_0426
 
 @Cond_03ec:
-dialogtxt       "With this weapon, you won't be"
-dialogtxt       "able to hold back, right?"
+dialogtxt       "With a weapon this strong, you won't"
+dialogtxt       "be able to hold back, right?"
 goto            @Label_0426
 
 @Label_0426:
@@ -111,8 +106,8 @@ code0309
 call            @Func_1000
 code0479        1, 2, 12
 call            @Func_1036
-dialogtxt       "That's true..."
-dialogtxt       "Well then, I shall also get serious..."
+dialogtxt       "You are correct. Then, let me get"
+dialogtxt       "serious as well..."
 goto            @Cond_0470
 
 @Cond_0470:
@@ -236,7 +231,7 @@ goto            @Cond_0906
 
 @Cond_0906:
 jumpz           @Cond_0964, ($b003 == 1)
-dialogbig       255, 116, 1, 0, 0, "Prepare yourself!!!"
+dialogbig       255, 116, 1, 0, 0, "En guarde!!!"
 code030c        
 code047e        0, 0
 code0302        1
@@ -244,8 +239,7 @@ goto            @Cond_0964
 
 @Cond_0964:
 jumpz           @Cond_09c0, ($b003 == 2)
-dialogtxt       "I'll soon make you"
-dialogtxt       "regret those words..."
+dialogtxt       "I'll make you eat those words!"
 code0309        
 code047e        0, 0
 code0302        1
@@ -470,4 +464,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-

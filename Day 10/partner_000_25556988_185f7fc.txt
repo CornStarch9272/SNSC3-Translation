@@ -26,15 +26,13 @@ call            @Func_30a8
 jumpz           @Cond_0d6c, ($b003 == 0)
 call            @Func_2fa4
 jumpz           @Cond_014e, ($b002 == 0)
-dialogtxt       "Come to think of it, [NAME 1],"
-dialogtxt       "we've crafted quite a few"
-dialogtxt       "weapons so far."
+dialogtxt       "You know, [NAME 1], we've crafted"
+dialogtxt       "quite a few weapons together now."
 goto            @Label_0198
 
 @Cond_014e:
-dialogtxt       "Come to think of it, [NAME 1],"
-dialogtxt       "we've crafted quite a few"
-dialogtxt       "weapons so far."
+dialogtxt       "You know, [NAME 1], we've crafted"
+dialogtxt       "quite a few weapons together now."
 goto            @Label_0198
 
 @Label_0198:
@@ -51,23 +49,22 @@ dialogtxt       "..."
 dialogtxt       "What Do You Mean?"
 code0309        
 code0479        1, 0, 12
-dialogtxt       "The Most Durable?"
-dialogtxt       "Or The One With"
+dialogtxt       "The Most Durable? Or The One With"
 dialogtxt       "The Sharpest Edge?"
 code0309        
 call            @Func_3064
 code0479        0, 1, 16
 call            @Func_2fc2
 jumpz           @Cond_0326, ($b002 == 0)
-dialogtxt       "Not like that, the one you like."
-dialogtxt       "We've crafted so many, you have to"
-dialogtxt       "have one, right? A favorite."
+dialogtxt       "Not like that! Just, which one do you"
+dialogtxt       "like the most? We've crafted so many,"
+dialogtxt       "you have to have a favorite, right?"
 goto            @Label_0386
 
 @Cond_0326:
-dialogtxt       "Not like that, the one you like."
-dialogtxt       "We've crafted so many, you have to"
-dialogtxt       "have one, right? A favorite."
+dialogtxt       "Not like that! Just, which one do you"
+dialogtxt       "like the most? We've crafted so many,"
+dialogtxt       "you have to have a favorite, right?"
 goto            @Label_0386
 
 @Label_0386:
@@ -75,36 +72,31 @@ code0309
 call            @Func_2ff8
 code0479        1, 0, 12
 call            @Func_302e
-dialogtxt       "A Favorite..."
-dialogtxt       "I Do Not Like Nor Dislike"
+dialogtxt       "A Favorite... I Neither Like Nor Dislike"
 dialogtxt       "Any of The Weapons We've Crafted."
 code0309        
 call            @Func_3064
 code0479        0, 4, 14
 call            @Func_2fc2
-dialogtxt       "I see..."
-dialogtxt       "Well, I guess that's fine..."
+dialogtxt       "I see... Well, I guess that's fine..."
 code0309        
 call            @Func_2ff8
 code0479        1, 0, 12
 call            @Func_302e
 dialogtxt       "Let Me Return The Question."
-dialogtxt       "Which Weapon"
-dialogtxt       "Do You Like?"
+dialogtxt       "Which Weapon Do You Like?"
 code0309        
 call            @Func_3064
 code0479        0, 2, 16
 call            @Func_2fc2
 jumpz           @Cond_04fe, ($b002 == 0)
-dialogtxt       "Eh~!"
-dialogtxt       "Hold on..."
-dialogtxt       "I can't decide so quickly..."
+dialogtxt       "Whaaat?! Okay, hold on... I've gotta"
+dialogtxt       "think about this for a minute."
 goto            @Label_0540
 
 @Cond_04fe:
-dialogtxt       "Whaaat!?"
-dialogtxt       "Hold on..."
-dialogtxt       "I can't decide so quickly..."
+dialogtxt       "Whaaat?! Okay, hold on... I've gotta"
+dialogtxt       "think about this for a minute."
 goto            @Label_0540
 
 @Label_0540:
@@ -112,15 +104,14 @@ code0309
 call            @Func_2ff8
 code0479        1, 0, 12
 call            @Func_302e
-dialogtxt       "I see... If I Also Possessed"
-dialogtxt       "A Heart Or Soul, Would I Be"
-dialogtxt       "Able To Understand That Feeling?"
+dialogtxt       "I See... If I Also Possessed A Heart"
+dialogtxt       "Or Soul, Would I Be Able To Understand"
+dialogtxt       "That Feeling?"
 code0309        
 call            @Func_3064
 code0479        0, 5, 14
 call            @Func_2fc2
-dialogtxt       "Erm..."
-dialogtxt       "Well, probably..."
+dialogtxt       "Err... Well, probably..."
 code0309        
 call            @Func_2ff8
 code0479        1, 0, 12
@@ -133,23 +124,23 @@ call            @Func_3064
 code0479        0, 2, 14
 call            @Func_2fc2
 jumpz           @Cond_073a, ($b002 == 0)
-dialogtxt       "Ummm... Yeah."
-dialogtxt       "If you fight seriously, others will"
-dialogtxt       "see what you truly strive for."
+dialogtxt       "Ummm... Yeah. If you fight seriously,"
+dialogtxt       "the person you're fighting will"
+dialogtxt       "understand your true feelings."
 code0309        
 code0479        0, 0, 12
-dialogtxt       "... Is what Master taught me,"
-dialogtxt       "and I do feel that is true."
+dialogtxt       "... That's what Master always tells me,"
+dialogtxt       "anyway. But I think she's right."
 goto            @Label_07c0
 
 @Cond_073a:
-dialogtxt       "Ummm... Yeah."
-dialogtxt       "If you fight seriously, others will"
-dialogtxt       "see what you truly strive for."
+dialogtxt       "Ummm... Yeah. If you fight seriously,"
+dialogtxt       "the person you're fighting will"
+dialogtxt       "understand your true feelings."
 code0309        
 code0479        0, 0, 12
-dialogtxt       "... Is what Master taught me,"
-dialogtxt       "and I do feel that is true."
+dialogtxt       "... That's what Master always tells me,"
+dialogtxt       "anyway. But I think she's right."
 goto            @Label_07c0
 
 @Label_07c0:
@@ -158,22 +149,22 @@ call            @Func_2ff8
 code0479        1, 4, 12
 call            @Func_302e
 dialogtxt       "However, When I Fought With You,"
-dialogtxt       "I Did Not Feel Your Soul"
-dialogtxt       "Conveying Itself To Me."
+dialogtxt       "I Did Not Feel Your Soul Conveying"
+dialogtxt       "Itself To Me."
 code0309        
 call            @Func_3064
 code0479        0, 0, 16
 call            @Func_2fc2
 jumpz           @Cond_08b8, ($b002 == 0)
-dialogtxt       "Well..."
-dialogtxt       "That reminds me, you couldn't"
-dialogtxt       "bring out your true strength."
+dialogtxt       "Well... that reminds me, actually. For a"
+dialogtxt       "while, you couldn't bring out your"
+dialogtxt       "true power, right?"
 goto            @Label_0904
 
 @Cond_08b8:
-dialogtxt       "Well..."
-dialogtxt       "That reminds me, you couldn't"
-dialogtxt       "bring out your true strength."
+dialogtxt       "Well... that reminds me, actually. For a"
+dialogtxt       "while, you couldn't bring out your"
+dialogtxt       "true power, right?"
 goto            @Label_0904
 
 @Label_0904:
@@ -181,26 +172,23 @@ code0309
 call            @Func_2ff8
 code0479        1, 0, 12
 call            @Func_302e
-dialogtxt       "That Is True..."
-dialogtxt       "I Could Not Initiate Transformation."
-dialogtxt       "However, I Am Now Able To."
+dialogtxt       "That Is True... I Could Not Initiate"
+dialogtxt       "Transformation. However, That Error"
+dialogtxt       "Has Been Resolved."
 code0309        
 code0479        1, 5, 12
-dialogtxt       "Perhaps If I Were To"
-dialogtxt       "Fight With You Once More,"
-dialogtxt       "I May..."
+dialogtxt       "Perhaps If I Were To Fight With"
+dialogtxt       "You Once More, I May Grow Further."
 code0309        
 call            @Func_3064
 code0479        0, 2, 12
 call            @Func_2fc2
 jumpz           @Cond_0a14, ($b002 == 0)
-dialogtxt       "You're right..."
-dialogtxt       "Why don't we have a match?"
+dialogtxt       "You're right. Why don't we have a match?"
 goto            @Label_0a38
 
 @Cond_0a14:
-dialogtxt       "You're right..."
-dialogtxt       "Why don't we have a match?"
+dialogtxt       "You're right. Why don't we have a match?"
 goto            @Label_0a38
 
 @Label_0a38:
@@ -208,22 +196,19 @@ code0309
 call            @Func_2ff8
 code0479        1, 1, 12
 call            @Func_302e
-dialogtxt       "Affirmative."
-dialogtxt       "Thank You Very Much."
+dialogtxt       "Affirmative. Thank You Very Much."
 code0309        
 call            @Func_3064
 code0479        0, 1, 16
 call            @Func_2fc2
 jumpz           @Cond_0b08, ($b002 == 0)
-dialogtxt       "Oh, it's nothing..."
-dialogtxt       "Rather, I'm touched that you'd thank"
-dialogtxt       "me for challenging you to a fight..."
+dialogtxt       "Oh, it's nothing... Honestly, I'm touched"
+dialogtxt       "that you'd thank me for challenging you!"
 goto            @Label_0b6c
 
 @Cond_0b08:
-dialogtxt       "Oh, it's nothing..."
-dialogtxt       "Rather, I'm touched that you'd thank"
-dialogtxt       "me for challenging you to a fight..."
+dialogtxt       "Oh, it's nothing... Honestly, I'm touched"
+dialogtxt       "that you'd thank me for challenging you!"
 goto            @Label_0b6c
 
 @Label_0b6c:
@@ -231,21 +216,19 @@ code0309
 call            @Func_2ff8
 code0479        1, 0, 12
 call            @Func_302e
-dialogtxt       "Then, Please Fight Me With"
-dialogtxt       "The Weapon You Like The Most."
-dialogtxt       "It May Increase Your Chances."
+dialogtxt       "Then, Please Fight Me With The Weapon"
+dialogtxt       "You Like The Most. It May Increase"
+dialogtxt       "Your Chances."
 code0309        
 call            @Func_3064
 code0479        0, 2, 16
 call            @Func_2fc2
 jumpz           @Cond_0c36, ($b002 == 0)
-dialogtxt       "I see..."
-dialogtxt       "That might be true."
+dialogtxt       "I see... You might be right."
 goto            @Label_0c66
 
 @Cond_0c36:
-dialogtxt       "I see..."
-dialogtxt       "That might be true."
+dialogtxt       "I see... You might be right."
 goto            @Label_0c66
 
 @Label_0c66:
@@ -253,21 +236,19 @@ code0309
 call            @Func_2ff8
 code0479        1, 0, 12
 call            @Func_302e
-dialogtxt       "Then I Will Stand By In"
-dialogtxt       "Front Of The Workshop."
+dialogtxt       "Then, I Will Stand By In Front"
+dialogtxt       "Of The Workshop."
 code0309        
 call            @Func_3064
 code0479        0, 2, 12
 call            @Func_2fc2
 jumpz           @Cond_0d2a, ($b002 == 0)
-dialogtxt       "In front of the workshop."
-dialogtxt       "Alright!"
+dialogtxt       "In front of the workshop. Alright!"
 dialogtxt       "Just you wait!"
 goto            @Label_0d5c
 
 @Cond_0d2a:
-dialogtxt       "In front of the workshop."
-dialogtxt       "Alright!"
+dialogtxt       "In front of the workshop. Alright!"
 dialogtxt       "Just you wait!"
 goto            @Label_0d5c
 
@@ -282,15 +263,13 @@ goto            @Cond_0d6c
 jumpz           @Cond_15c0, ($b003 == 1)
 call            @Func_2fa4
 jumpz           @Cond_0dda, ($b002 == 0)
-dialogtxt       "Come to think of it, [NAME 1],"
-dialogtxt       "we've crafted quite a few"
-dialogtxt       "weapons so far."
+dialogtxt       "You know, [NAME 1], we've crafted"
+dialogtxt       "quite a few weapons together now."
 goto            @Label_0e24
 
 @Cond_0dda:
-dialogtxt       "Come to think of it, [NAME 1],"
-dialogtxt       "we've crafted quite a few"
-dialogtxt       "weapons so far."
+dialogtxt       "You know, [NAME 1], we've crafted"
+dialogtxt       "quite a few weapons together now."
 goto            @Label_0e24
 
 @Label_0e24:
@@ -299,26 +278,21 @@ code0309
 call            @Func_2ff8
 code0479        1, 0, 12
 call            @Func_302e
-dialogtxt       "Truly."
-dialogtxt       "To think I would"
-dialogtxt       "end up like this..."
+dialogtxt       "Truly. To think I would end up like this..."
 code0309        
 code0479        1, 4, 14
-dialogtxt       "If only I hadn't"
-dialogtxt       "lost to you, none of this..."
-dialogtxt       "..."
-code0309        
+dialogtxt       "If I hadn't lost to you, none of this"
+dialogtxt       "would ever have happened."
+code0309		
 call            @Func_3064
 code0479        0, 0, 14
 call            @Func_2fc2
 jumpz           @Cond_0f18, ($b002 == 0)
-dialogtxt       "Hm?"
-dialogtxt       "What's up?"
+dialogtxt       "Hm? What's up?"
 goto            @Label_0f34
 
 @Cond_0f18:
-dialogtxt       "Hm?"
-dialogtxt       "What's up?"
+dialogtxt       "Hm? What's up?"
 goto            @Label_0f34
 
 @Label_0f34:
@@ -326,9 +300,8 @@ code0309
 call            @Func_2ff8
 code0479        1, 2, 12
 call            @Func_302e
-dialogtxt       "How about it, [NAME 2]."
-dialogtxt       "Will you not fight against"
-dialogtxt       "me once more?"
+dialogtxt       "How about it, [NAME 2]? Would you"
+dialogtxt       "have another bout with me?"
 code0309        
 call            @Func_3064
 code0479        0, 5, 16
@@ -346,23 +319,21 @@ code0309
 call            @Func_2ff8
 code0479        1, 2, 16
 call            @Func_302e
-dialogtxt       "That time, I lost because I"
-dialogtxt       "could not use my spiritual power."
-dialogtxt       "But now, I can."
+dialogtxt       "In our last match, I lost because I"
+dialogtxt       "could not use my true power. But now,"
+dialogtxt       "I can."
 code0309        
 call            @Func_3064
 code0479        0, 4, 12
 call            @Func_2fc2
 jumpz           @Cond_10c0, ($b002 == 0)
-dialogtxt       "Aren't you a sore loser?"
-dialogtxt       "Don't worry about it, that was"
-dialogtxt       "already long ago..."
+dialogtxt       "Aren't you a sore loser? Don't worry"
+dialogtxt       "about it. That was a long time ago."
 goto            @Label_10f4
 
 @Cond_10c0:
-dialogtxt       "Aren't you a sore loser?"
-dialogtxt       "Don't worry about it, that was"
-dialogtxt       "already long ago..."
+dialogtxt       "Aren't you a sore loser? Don't worry"
+dialogtxt       "about it. That was a long time ago."
 goto            @Label_10f4
 
 @Label_10f4:
@@ -370,27 +341,23 @@ code0309
 call            @Func_2ff8
 code0479        1, 4, 13
 call            @Func_302e
-dialogtxt       "Could it be you are afraid"
-dialogtxt       "of fighting me at full strength?"
+dialogtxt       "Could it be that you're afraid of"
+dialogtxt       "fighting me, now that I'm at my"
+dialogtxt       "full strength?"
 code0309        
 code0479        1, 2, 12
-dialogtxt       "Rest assured."
-dialogtxt       "Even if I win, I will"
+dialogtxt       "Rest assured. Even if I win, I will"
 dialogtxt       "continue to be your partner."
 code0309        
 call            @Func_3064
 code0479        0, 2, 14
 call            @Func_2fc2
 jumpz           @Cond_1226, ($b002 == 0)
-dialogtxt       "The nerve!"
-dialogtxt       "Fine."
-dialogtxt       "Let's fight then!"
+dialogtxt       "The nerve! Fine. Let's fight, then!"
 goto            @Label_125c
 
 @Cond_1226:
-dialogtxt       "Now you've done it..."
-dialogtxt       "Alright, fine."
-dialogtxt       "Let's fight then!"
+dialogtxt       "Oh, come on... Alright, fine. Let's fight!"
 goto            @Label_125c
 
 @Label_125c:
@@ -398,26 +365,24 @@ code0309
 call            @Func_2ff8
 code0479        1, 0, 16
 call            @Func_302e
-dialogtxt       "That's how it should be."
-dialogtxt       "However, isn't the difference in"
-dialogtxt       "strength too large?"
-code0309        
+dialogtxt       "As it should be. Though, isn't our"
+dialogtxt       "difference in strength too extreme?"
+code0309		
 code0479        1, 2, 12
-dialogtxt       "I will allow you to use"
-dialogtxt       "as many weapons"
-dialogtxt       "as you like."
-code0309        
+dialogtxt       "As a handicap, you may use as many"
+dialogtxt       "weapons as you'd like."
+code0309		
 call            @Func_3064
 code0479        0, 2, 15
 call            @Func_2fc2
 jumpz           @Cond_1362, ($b002 == 0)
-dialogtxt       "Don't mess with me."
-dialogtxt       "I'll use one!"
+dialogtxt       "Quit messing with me! I only need"
+dialogtxt       "one weapon!"
 goto            @Label_1386
 
 @Cond_1362:
-dialogtxt       "Don't make fun of me."
-dialogtxt       "I'll use one!"
+dialogtxt       "Don't make fun of me! I only need"
+dialogtxt       "one weapon!"
 goto            @Label_1386
 
 @Label_1386:
@@ -431,9 +396,8 @@ call            @Func_3064
 code0479        0, 2, 14
 call            @Func_2fc2
 jumpz           @Cond_1490, ($b002 == 0)
-dialogtxt       "Didn't hear me?"
-dialogtxt       "Then I'll say it again."
-dialogtxt       "I'm only using one weapon!"
+dialogtxt       "Did you not hear me? I said, I'm only"
+dialogtxt       "gonna use one weapon!"
 code0309        
 code0479        1, 5, 16
 code0479        0, 2, 12
@@ -442,9 +406,8 @@ dialogtxt       "No complaints, right?"
 goto            @Label_1542
 
 @Cond_1490:
-dialogtxt       "Didn't hear me?"
-dialogtxt       "Then I'll say it again."
-dialogtxt       "I'm only using one weapon!"
+dialogtxt       "Did you not hear me? I said, I'm only"
+dialogtxt       "gonna use one weapon!"
 code0309        
 code0479        1, 5, 16
 code0479        0, 2, 12
@@ -457,9 +420,8 @@ code0309
 call            @Func_2ff8
 code0479        1, 2, 12
 call            @Func_302e
-dialogtxt       "Hmhmhm... Interesting."
-dialogtxt       "Choose your weapon carefully."
-dialogtxt       "I will be waiting outside."
+dialogtxt       "Mhmm... Interesting. Then, choose your"
+dialogtxt       "armaments carefully. I will wait outside."
 code0309        
 call            @Func_30fe
 call            @Func_304c
@@ -470,15 +432,13 @@ goto            @Cond_15c0
 jumpz           @Cond_1fd8, ($b003 == 2)
 call            @Func_2fa4
 jumpz           @Cond_162e, ($b002 == 0)
-dialogtxt       "Come to think of it, [NAME 1],"
-dialogtxt       "we've crafted quite a few"
-dialogtxt       "weapons so far."
+dialogtxt       "You know, [NAME 1], we've crafted"
+dialogtxt       "quite a few weapons together now."
 goto            @Label_1678
 
 @Cond_162e:
-dialogtxt       "Come to think of it, [NAME 1],"
-dialogtxt       "we've crafted quite a few"
-dialogtxt       "weapons so far."
+dialogtxt       "You know, [NAME 1], we've crafted"
+dialogtxt       "quite a few weapons together now."
 goto            @Label_1678
 
 @Label_1678:
@@ -487,8 +447,7 @@ code0309
 call            @Func_2ff8
 code0479        1, 2, 12
 call            @Func_302e
-dialogtxt       "That we have..."
-dialogtxt       "To think I would be forced"
+dialogtxt       "Yeah... To think I would be forced"
 dialogtxt       "to do something like this."
 code0309        
 call            @Func_3064
@@ -496,12 +455,12 @@ code0479        0, 4, 14
 call            @Func_2fc2
 jumpz           @Cond_1740, ($b002 == 0)
 dialogtxt       "You said the same thing yesterday..."
-dialogtxt       "You're surprisingly stubborn..."
+dialogtxt       "Why are you so stubborn?"
 goto            @Label_177e
 
 @Cond_1740:
 dialogtxt       "You said the same thing yesterday..."
-dialogtxt       "You're surprisingly stubborn..."
+dialogtxt       "Why are you so stubborn?"
 goto            @Label_177e
 
 @Label_177e:
@@ -509,8 +468,7 @@ code0309
 call            @Func_2ff8
 code0479        1, 3, 14
 call            @Func_302e
-dialogtxt       "What did you say?"
-dialogtxt       "Don't get cocky."
+dialogtxt       "What did you say? Don't get cocky."
 dialogtxt       "As I am now, I could easily..."
 code0309        
 code0479        1, 5, 12
@@ -520,13 +478,11 @@ call            @Func_3064
 code0479        0, 0, 16
 call            @Func_2fc2
 jumpz           @Cond_1848, ($b002 == 0)
-dialogtxt       "Hm?"
-dialogtxt       "What's up?"
+dialogtxt       "Hm? What's up?"
 goto            @Label_1864
 
 @Cond_1848:
-dialogtxt       "Hm?"
-dialogtxt       "What's up?"
+dialogtxt       "Hm? What's up?"
 goto            @Label_1864
 
 @Label_1864:
@@ -534,8 +490,7 @@ code0309
 call            @Func_2ff8
 code0479        1, 3, 12
 call            @Func_302e
-dialogtxt       "You..."
-dialogtxt       "Let's fight once more."
+dialogtxt       "You... Fight me. Again."
 code0309        
 call            @Func_3064
 code0479        0, 5, 14
@@ -553,28 +508,26 @@ code0309
 call            @Func_2ff8
 code0479        1, 0, 14
 call            @Func_302e
-dialogtxt       "I was thinking that I'd correct"
-dialogtxt       "that misunderstanding of yours"
-dialogtxt       "before we return the Demon Stone."
+dialogtxt       "I want to teach you a lesson before"
+dialogtxt       "we go return the Demon Stone."
 code0309        
 code0479        1, 2, 13
-dialogtxt       "I'll make you understand"
-dialogtxt       "the difference in power"
-dialogtxt       "between you and me."
+dialogtxt       "I'll make you understand the difference"
+dialogtxt       "in power between you and me."
 code0309        
 call            @Func_3064
 code0479        0, 4, 12
 call            @Func_2fc2
 jumpz           @Cond_1a2c, ($b002 == 0)
-dialogtxt       "Aren't you a sore loser?"
-dialogtxt       "Don't worry about it, that was"
-dialogtxt       "already long ago..."
+dialogtxt       "Wow, someone's a sore loser..."
+dialogtxt       "Don't worry about it. That was a"
+dialogtxt       "long time ago."
 goto            @Label_1a60
 
 @Cond_1a2c:
-dialogtxt       "Aren't you a sore loser?"
-dialogtxt       "Don't worry about it, that was"
-dialogtxt       "already long ago..."
+dialogtxt       "Wow, someone's a sore loser..."
+dialogtxt       "Don't worry about it. That was a"
+dialogtxt       "long time ago."
 goto            @Label_1a60
 
 @Label_1a60:
@@ -582,28 +535,23 @@ code0309
 call            @Func_2ff8
 code0479        1, 2, 12
 call            @Func_302e
-dialogtxt       "What is it? Scared?"
-dialogtxt       "Hmph..."
+dialogtxt       "What is it? Scared? Hmph..."
 dialogtxt       "So that's the kind of person you are?"
 code0309        
 code0479        1, 2, 14
 dialogtxt       "The fact that I lost to a human is"
-dialogtxt       "merely an annoyance for me, but I"
+dialogtxt       "a mere annoyance for me, but I"
 dialogtxt       "suppose you hold it in high regard."
 code0309        
 call            @Func_3064
 code0479        0, 2, 14
 call            @Func_2fc2
 jumpz           @Cond_1b8c, ($b002 == 0)
-dialogtxt       "The nerve!"
-dialogtxt       "Fine."
-dialogtxt       "Let's fight then!"
+dialogtxt       "The nerve! Fine. Let's fight, then!"
 goto            @Label_1bc2
 
 @Cond_1b8c:
-dialogtxt       "Now you've done it..."
-dialogtxt       "Alright, fine."
-dialogtxt       "Let's fight then!"
+dialogtxt       "Oh, come on... Alright, fine. Let's fight!"
 goto            @Label_1bc2
 
 @Label_1bc2:
@@ -611,21 +559,18 @@ code0309
 call            @Func_2ff8
 code0479        1, 4, 12
 call            @Func_302e
-dialogtxt       "Hmph..."
-dialogtxt       "Don't push yourself."
+dialogtxt       "Hmph... Don't push yourself."
 code0309        
 call            @Func_3064
 code0479        0, 2, 15
 call            @Func_2fc2
 jumpz           @Cond_1c5e, ($b002 == 0)
-dialogtxt       "Shut up!"
-dialogtxt       "I said I'll fight you,"
+dialogtxt       "Shut up! I said I'll fight you,"
 dialogtxt       "so let's go!"
 goto            @Label_1c90
 
 @Cond_1c5e:
-dialogtxt       "Shut up!"
-dialogtxt       "I said I'll fight you,"
+dialogtxt       "Shut up! I said I'll fight you,"
 dialogtxt       "so let's go!"
 goto            @Label_1c90
 
@@ -634,26 +579,26 @@ code0309
 call            @Func_2ff8
 code0479        1, 0, 14
 call            @Func_302e
-dialogtxt       "If you're going that far, then fine."
-dialogtxt       "But the difference in power is"
-dialogtxt       "too big. It'll be over quickly..."
+dialogtxt       "If you insist, then fine. But the"
+dialogtxt       "difference in power between us is"
+dialogtxt       "too vast. It'll be over quickly."
 code0309        
 code0479        1, 3, 12
-dialogtxt       "What do you think?"
-dialogtxt       "How about I allow you bring as many"
-dialogtxt       "weapons to be broken as you like?"
-code0309        
+dialogtxt       "What do you think? How about I allow you"
+dialogtxt       "to bring as many weapons as you like?"
+dialogtxt       "I'll break them all, of course."
+code0309		
 call            @Func_3064
 code0479        0, 2, 14
 call            @Func_2fc2
 jumpz           @Cond_1dca, ($b002 == 0)
-dialogtxt       "Don't mess with me."
-dialogtxt       "I'll use one!"
+dialogtxt       "Quit messing with me! I only need"
+dialogtxt       "one weapon!"
 goto            @Label_1dee
 
 @Cond_1dca:
-dialogtxt       "Don't make fun of me."
-dialogtxt       "I'll use one!"
+dialogtxt       "Don't make fun of me! I only need"
+dialogtxt       "one weapon!"
 goto            @Label_1dee
 
 @Label_1dee:
@@ -667,9 +612,8 @@ call            @Func_3064
 code0479        0, 2, 15
 call            @Func_2fc2
 jumpz           @Cond_1ed6, ($b002 == 0)
-dialogtxt       "Didn't hear me?"
-dialogtxt       "Then I'll say it again."
-dialogtxt       "I'm only using one weapon!"
+dialogtxt       "Did you not hear me? I said, I'm only"
+dialogtxt       "gonna use one weapon!"
 code0309        
 code0479        0, 2, 12
 dialogtxt       "This way, it will be a fair fight."
@@ -677,9 +621,8 @@ dialogtxt       "No complaints, right?"
 goto            @Label_1f66
 
 @Cond_1ed6:
-dialogtxt       "Didn't hear me?"
-dialogtxt       "Then I'll say it again."
-dialogtxt       "I'm only using one weapon!"
+dialogtxt       "Did you not hear me? I said, I'm only"
+dialogtxt       "gonna use one weapon!"
 code0309        
 code0479        0, 2, 12
 dialogtxt       "This way, it will be a fair fight."
@@ -691,9 +634,8 @@ code0309
 call            @Func_2ff8
 code0479        1, 2, 13
 call            @Func_302e
-dialogtxt       "Hmm... Interesting."
-dialogtxt       "Then hurry up and get ready."
-dialogtxt       "I'll be waiting outside."
+dialogtxt       "Hmm... Interesting. Hurry up and get"
+dialogtxt       "ready, then. I'll be waiting outside."
 code0309        
 call            @Func_30fe
 call            @Func_304c
@@ -704,15 +646,13 @@ goto            @Cond_1fd8
 jumpz           @Cond_2988, ($b003 == 3)
 call            @Func_2fa4
 jumpz           @Cond_2046, ($b002 == 0)
-dialogtxt       "Come to think of it, [NAME 1],"
-dialogtxt       "we've crafted quite a few"
-dialogtxt       "weapons so far."
+dialogtxt       "You know, [NAME 1], we've crafted"
+dialogtxt       "quite a few weapons together now."
 goto            @Label_2090
 
 @Cond_2046:
-dialogtxt       "Come to think of it, [NAME 1],"
-dialogtxt       "we've crafted quite a few"
-dialogtxt       "weapons so far."
+dialogtxt       "You know, [NAME 1], we've crafted"
+dialogtxt       "quite a few weapons together now."
 goto            @Label_2090
 
 @Label_2090:
@@ -720,40 +660,38 @@ code0309
 call            @Func_2ff8
 code0479        1, 0, 13
 call            @Func_302e
-dialogtxt       "Certainly."
-dialogtxt       "I loved all of them."
-dialogtxt       "They've become very good memories."
+dialogtxt       "Certainly. I loved each and every one."
+dialogtxt       "They've become cherished memories."
 code0309        
 call            @Func_3064
 code0479        0, 0, 12
 call            @Func_2fc2
-dialogtxt       "Are you saying you're glad you"
-dialogtxt       "lost to me that time?"
-code0309        
+dialogtxt       "Does that mean you're glad you lost to"
+dialogtxt       "me, way back when?"
+code0309		
 call            @Func_2ff8
 code0479        1, 0, 16
 call            @Func_302e
-dialogtxt       "That may be."
-dialogtxt       "Though you were fortunate"
-dialogtxt       "I was unable to use my full power."
+dialogtxt       "That may be. Though, you were fortunate"
+dialogtxt       "that I was unable to use my full power."
 code0309        
 code0479        1, 2, 12
 dialogtxt       "Right now, if I went all out,"
-dialogtxt       "I definitely would not lose."
+dialogtxt       "I would surely win."
 code0309        
 call            @Func_3064
 code0479        0, 2, 16
 call            @Func_2fc2
 jumpz           @Cond_2272, ($b002 == 0)
-dialogtxt       "Definitely? You can't be so sure,"
-dialogtxt       "can you? Then how about we fight,"
-dialogtxt       "one last time?"
+dialogtxt       "Surely, huh? How can you be so sure?"
+dialogtxt       "If you want to know the truth, we should"
+dialogtxt       "have another match. One more time."
 goto            @Label_22b8
 
 @Cond_2272:
-dialogtxt       "Definitely? You can't be so sure,"
-dialogtxt       "can you? Then how about we fight,"
-dialogtxt       "one last time?"
+dialogtxt       "Surely, huh? How can you be so sure?"
+dialogtxt       "If you want to know the truth, we should"
+dialogtxt       "have another match. One more time."
 goto            @Label_22b8
 
 @Label_22b8:
@@ -762,21 +700,19 @@ call            @Func_2ff8
 code0479        1, 2, 16
 call            @Func_302e
 dialogtxt       "It would be better if we didn't."
-dialogtxt       "I'm sure you would be injured."
-code0309        
+dialogtxt       "You would surely get injured."
+code0309		
 call            @Func_3064
 code0479        0, 5, 17
 call            @Func_2fc2
 jumpz           @Cond_2370, ($b002 == 0)
-dialogtxt       "What!?"
-dialogtxt       "Argh, alright, let's do this!"
-dialogtxt       "Let's have a match!"
+dialogtxt       "\"Surely?!\" Alright, that's it."
+dialogtxt       "Now we've gotta fight!"
 goto            @Label_23a4
 
 @Cond_2370:
-dialogtxt       "What!?"
-dialogtxt       "Argh, alright, let's do this!"
-dialogtxt       "Let's have a match!"
+dialogtxt       "\"Surely?!\" Alright, that's it."
+dialogtxt       "Now we've gotta fight!"
 goto            @Label_23a4
 
 @Label_23a4:
@@ -784,26 +720,25 @@ code0309
 call            @Func_2ff8
 code0479        1, 5, 14
 call            @Func_302e
-dialogtxt       "Wait, are you serious?"
-dialogtxt       "For the moment, I think it's better"
-dialogtxt       "if you don't do anything reckless."
+dialogtxt       "Wait, are you serious? Surely, it would"
+dialogtxt       "be best if you didn't do anything too"
+dialogtxt       "reckless, at least for right now."
 code0309        
 call            @Func_3064
 code0479        0, 2, 14
 call            @Func_2fc2
-dialogtxt       "Definitely..."
-code0309        
+dialogtxt       "S-Surely..."
+code0309		
 call            @Func_2ff8
 code0479        1, 1, 16
 call            @Func_302e
-dialogtxt       "A—Ahaha..."
-dialogtxt       "We've reached an impasse..."
-dialogtxt       "Hmm, maybe..."
+dialogtxt       "A-Ahaha... Well, when you look at me"
+dialogtxt       "like that... maybe we can figure"
+dialogtxt       "something out."
 code0309        
 code0479        1, 0, 13
-dialogtxt       "How about this."
-dialogtxt       "[NAME 2], you can bring as many"
-dialogtxt       "weapons as you like."
+dialogtxt       "How about this? [NAME 2], you may"
+dialogtxt       "bring as many weapons as you like."
 code0309        
 call            @Func_3064
 code0479        0, 2, 16
@@ -832,19 +767,17 @@ code0309
 call            @Func_2ff8
 code0479        1, 0, 14
 call            @Func_302e
-dialogtxt       "Huh?"
-dialogtxt       "What's wrong?"
-dialogtxt       "[NAME 2]?"
+dialogtxt       "Huh? What's wrong? [NAME 2]?"
 code0309        
 call            @Func_3064
 code0479        0, 2, 15
 call            @Func_2fc2
 jumpz           @Cond_266e, ($b002 == 0)
-dialogbig       255, 116, 1, 0, 0, "Just one!"
+dialogbig       255, 116, 1, 0, 0, "One weapon!"
 goto            @Label_269e
 
 @Cond_266e:
-dialogbig       255, 116, 1, 0, 0, "Just one!"
+dialogbig       255, 116, 1, 0, 0, "One weapon!"
 goto            @Label_269e
 
 @Label_269e:
@@ -852,22 +785,19 @@ code030c
 call            @Func_2ff8
 code0479        1, 5, 16
 call            @Func_302e
-dialogtxt       "Huh?"
-dialogtxt       "What do you mean?"
+dialogtxt       "Huh? What do you mean?"
 code0309        
 call            @Func_3064
 code0479        0, 2, 14
 call            @Func_2fc2
 jumpz           @Cond_274a, ($b002 == 0)
-dialogtxt       "I'm saying that using"
-dialogtxt       "only one weapon will be"
-dialogtxt       "enough to deal with you..."
+dialogtxt       "I'm saying that I'll only need one weapon"
+dialogtxt       "to defeat you...!"
 goto            @Label_2796
 
 @Cond_274a:
-dialogtxt       "I'm saying that using"
-dialogtxt       "only one weapon will be"
-dialogtxt       "enough to deal with you..."
+dialogtxt       "I'm saying that I'll only need one weapon"
+dialogtxt       "to defeat you...!"
 goto            @Label_2796
 
 @Label_2796:
@@ -875,32 +805,31 @@ code0309
 call            @Func_2ff8
 code0479        1, 4, 17
 call            @Func_302e
-dialogtxt       "But that's so reckless..."
-dialogtxt       "It's surely better if we didn't..."
-code0309        
+dialogtxt       "But that's so reckless. Surely, it would"
+dialogtxt       "be best not to limit yourself..."
+code0309		
 call            @Func_3064
 code0479        0, 1, 15
 call            @Func_2fc2
-dialogbig       255, 116, 1, 0, 0, "I'll do it!"
-code030c        
+dialogbig       255, 116, 1, 0, 0, "I'm doing it!"
+code0309		
 call            @Func_2ff8
 code0479        1, 2, 14
 call            @Func_302e
-dialogtxt       "I—Is that so..."
-dialogtxt       "If you insist,"
+dialogtxt       "I-Is that so...? If you insist,"
 dialogtxt       "then I have no choice."
 code0309        
 call            @Func_3064
 code0479        0, 2, 12
 call            @Func_2fc2
 jumpz           @Cond_28f8, ($b002 == 0)
-dialogtxt       "Then I need to pick out a weapon,"
-dialogtxt       "so wait a bit."
+dialogtxt       "Alright, let me pick out a weapon."
+dialogtxt       "Give me a minute."
 goto            @Label_2930
 
 @Cond_28f8:
-dialogtxt       "Then I need to pick out a weapon,"
-dialogtxt       "so wait a bit."
+dialogtxt       "Alright, let me pick out a weapon."
+dialogtxt       "Give me a minute."
 goto            @Label_2930
 
 @Label_2930:
@@ -908,8 +837,7 @@ code0309
 call            @Func_2ff8
 code0479        1, 0, 14
 call            @Func_302e
-dialogtxt       "Understood."
-dialogtxt       "I will wait outside."
+dialogtxt       "Understood. I will wait outside."
 code0309        
 call            @Func_30fe
 call            @Func_304c
