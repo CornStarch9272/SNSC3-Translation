@@ -30,8 +30,8 @@ code047d        1, 2
 code043c        1, 2
 call            @Func_1456
 call            @Func_13d4
-dialogtxt       "O, what misery!"
-dialogtxt       "To think I would lose yet again."
+dialogtxt       "O, what misery! To think that I would"
+dialogtxt       "lose yet again... Though, to be honest,"
 dialogtxt       "I expected no less."
 code047b        
 code0309        
@@ -40,14 +40,12 @@ code0479        0, 4, 16
 call            @Func_1440
 call            @Func_1386
 jumpz           @Cond_0296, ($b002 == 0)
-dialogtxt       "[NAME 1]......"
-dialogtxt       "The way you fought..."
+dialogtxt       "[NAME 1]...... The way you fought..."
 dialogtxt       "You were obviously holding back."
 goto            @Label_02ee
 
 @Cond_0296:
-dialogtxt       "[NAME 1]......"
-dialogtxt       "The way you fought..."
+dialogtxt       "[NAME 1]...... The way you fought..."
 dialogtxt       "You were obviously holding back."
 goto            @Label_02ee
 
@@ -56,9 +54,9 @@ code0309
 call            @Func_13bc
 code0479        1, 2, 13
 call            @Func_13f2
-dialogtxt       "No, you have a splendid weapon."
-dialogtxt       "The reason you've been able to do"
-dialogtxt       "so well is also because of me!"
+dialogtxt       "Not at all. In fact, your weapon is doing"
+dialogtxt       "a lot of the work. If anything, your"
+dialogtxt       "success is due to my aid!"
 code0309        
 call            @Func_1428
 code0479        0, 5, 17
@@ -67,15 +65,13 @@ dialogbig       255, 116, 1, 0, 0, "Wha?"
 code030c        
 code0479        0, 7, 13
 jumpz           @Cond_0438, ($b002 == 0)
-dialogtxt       "Ahaha! You're right!"
-dialogtxt       "I won thanks to this weapon..."
-dialogtxt       "And you, too!"
+dialogtxt       "Hahaha! You're right! I won thanks to"
+dialogtxt       "this weapon... and thanks to you."
 goto            @Label_0498
 
 @Cond_0438:
-dialogtxt       "Ahaha! You're right!"
-dialogtxt       "I won thanks to this weapon..."
-dialogtxt       "And you, too!"
+dialogtxt       "Hahaha! You're right! I won thanks to"
+dialogtxt       "this weapon... and thanks to you."
 goto            @Label_0498
 
 @Label_0498:
@@ -86,8 +82,8 @@ code0309
 call            @Func_13bc
 code0479        1, 1, 12
 call            @Func_13f2
-dialogtxt       "Hm..."
-dialogtxt       "You are truly an interesting person."
+dialogtxt       "Hm... You truly are an interesting"
+dialogtxt       "person."
 code0309        
 call            @Func_1428
 code0479        0, 5, 14
@@ -107,34 +103,31 @@ code0309
 call            @Func_13bc
 code0479        1, 0, 12
 call            @Func_13f2
-dialogtxt       "I am not."
-dialogtxt       "I've never met a human"
-dialogtxt       "like you before..."
+dialogtxt       "I am not. I've never met a human"
+dialogtxt       "like you before."
 code0309        
 code0479        1, 0, 16
 code0479        0, 0, 14
-dialogtxt       "In Silturn, I was seen as something"
-dialogtxt       "like the guardian spirit of..."
-dialogtxt       "the mountain where I resided..."
+dialogtxt       "In Silturn, the people regarded me as"
+dialogtxt       "something like a guardian spirit for"
+dialogtxt       "the mountain where I lived..."
 code0309        
 code0479        1, 4, 12
 dialogtxt       "The only humans around me were those"
-dialogtxt       "who feared me, worshipped me,"
-dialogtxt       "or hated me..."
+dialogtxt       "who feared me, worshipped me, or"
+dialogtxt       "hated me."
 code0309        
 call            @Func_1428
 code0479        0, 0, 16
 call            @Func_1386
 jumpz           @Cond_0770, ($b002 == 0)
-dialogtxt       "They hated you?"
-dialogtxt       "Why?"
-dialogtxt       "Did you do something bad to them?"
+dialogtxt       "They hated you? Why? Did you do"
+dialogtxt       "something bad to them?"
 goto            @Label_07ae
 
 @Cond_0770:
-dialogtxt       "They hated you?"
-dialogtxt       "Why?"
-dialogtxt       "Did you do something bad to them?"
+dialogtxt       "They hated you? Why? Did you do"
+dialogtxt       "something bad to them?"
 goto            @Label_07ae
 
 @Label_07ae:
@@ -143,20 +136,20 @@ call            @Func_13bc
 code0479        1, 0, 12
 call            @Func_13f2
 dialogtxt       "I did not intend to, but..."
-dialogtxt       "There was a time where I"
-dialogtxt       "punished a human for their crimes."
+dialogtxt       "There was a time where I punished"
+dialogtxt       "a human for their crimes."
 code0309        
 call            @Func_1428
 code0479        0, 2, 14
 call            @Func_1386
 jumpz           @Cond_08a4, ($b002 == 0)
 dialogtxt       "Isn't that the right thing to do?"
-dialogtxt       "Why would they hate you for it?"
+dialogtxt       "Why would people hate you for that?"
 goto            @Label_08fa
 
 @Cond_08a4:
 dialogtxt       "Isn't that the right thing to do?"
-dialogtxt       "Why would they hate you for it?"
+dialogtxt       "Why would people hate you for that?"
 goto            @Label_08fa
 
 @Label_08fa:
@@ -164,7 +157,7 @@ code0309
 call            @Func_13bc
 code0479        1, 4, 14
 call            @Func_13f2
-dialogtxt       "\"Right\" depends on your viewpoint."
+dialogtxt       "Justice is in the eye of the beholder."
 dialogtxt       "One side may view an action as good,"
 dialogtxt       "the other as evil..."
 code0309        
@@ -181,14 +174,14 @@ code0309
 call            @Func_13bc
 code0479        1, 4, 14
 call            @Func_13f2
-dialogtxt       "Against those who resented me,"
-dialogtxt       "I believed the only outcomes from"
-dialogtxt       "a fight were hatred or sadness..."
-code0309        
+dialogtxt       "Fighting those who resented me, I"
+dialogtxt       "thought the only possible outcomes"
+dialogtxt       "were hatred or misery."
+code0309		
 code0479        1, 2, 12
-dialogtxt       "But I have learned from you,"
-dialogtxt       "from your pure spirit."
-dialogtxt       "That a fight may also be enjoyable."
+dialogtxt       "But I have learned from you. From your"
+dialogtxt       "pure spirit. With the right attitude,"
+dialogtxt       "a fight can also be enjoyable."
 code0309        
 call            @Func_1428
 code0479        0, 5, 16
@@ -199,27 +192,24 @@ call            @Func_13bc
 code0479        1, 0, 13
 call            @Func_13f2
 dialogtxt       "I, who have lived for more than"
-dialogtxt       "a century, learned from a child!"
+dialogtxt       "a century, learning from a child!"
 dialogtxt       "Who would have thought?"
 code0309        
 code0479        1, 7, 12
 code0479        0, 0, 16
-dialogtxt       "So thank you, [NAME 2]..."
-dialogtxt       "I'm truly grateful"
-dialogtxt       "that I met you!"
+dialogtxt       "So thank you, [NAME 2]."
+dialogtxt       "I'm truly grateful that I met you!"
 code0309        
 call            @Func_1428
 code0479        0, 11, 16
 call            @Func_1386
 jumpz           @Cond_0c8a, ($b002 == 0)
-dialogtxt       "Wha, um..."
-dialogtxt       "I'm really happy I met"
+dialogtxt       "Wha, um... I'm really happy I met"
 dialogtxt       "you too, [NAME 1]!"
 goto            @Label_0cd0
 
 @Cond_0c8a:
-dialogtxt       "Wha, um..."
-dialogtxt       "I'm really happy I met"
+dialogtxt       "Wha, um... I'm really happy I met"
 dialogtxt       "you too, [NAME 1]!"
 goto            @Label_0cd0
 
@@ -241,8 +231,8 @@ code040d        15
 code047d        0, 2
 code0301        16, 7
 code047e        0, 1
-dialogtxt       "If I could continue on like this,"
-dialogtxt       "that might not be so bad."
+dialogtxt       "Perhaps it wouldn't be the worst thing"
+dialogtxt       "if we carried on like this."
 code0309        
 code047e        0, 0
 code0302        7

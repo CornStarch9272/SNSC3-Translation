@@ -55,29 +55,28 @@ code047d        0, 2
 call            @Func_0d7a
 call            @Func_0cc0
 jumpz           @Cond_029c, ($b003 == 0)
-dialogtxt       "I Must Meet Lady Murno"
-dialogtxt       "To Discuss Our Plans From Hereon."
-dialogtxt       "I Will Be Away For Some Time."
+dialogtxt       "I Must Meet With Lady Murno To Discuss"
+dialogtxt       "Our Future Plans. I Will Be Going."
 goto            @Cond_029c
 
 @Cond_029c:
 jumpz           @Cond_0300, ($b003 == 1)
-dialogtxt       "I need to talk to Murno about"
-dialogtxt       "our plans from here on out."
-dialogtxt       "My apologies. I will be off."
+dialogtxt       "My apologies. I'll be meeting with Murno"
+dialogtxt       "to discuss our future plans. I'll be"
+dialogtxt       "heading to see her now."
 goto            @Cond_0300
 
 @Cond_0300:
 jumpz           @Cond_0346, ($b003 == 2)
-dialogtxt       "I have to talk to Murno. Alone."
-dialogtxt       "It has nothing to do with you."
+dialogtxt       "I have to talk to Murno. It's none of"
+dialogtxt       "your business."
 goto            @Cond_0346
 
 @Cond_0346:
 jumpz           @Cond_03a2, ($b003 == 3)
-dialogtxt       "I want to talk with Lady Murno"
-dialogtxt       "about what to do going forward..."
-dialogtxt       "I'm sorry, but..."
+dialogtxt       "I'd like to talk with Lady Murno about"
+dialogtxt       "what we're going to do going forward."
+dialogtxt       "Please excuse me."
 goto            @Cond_03a2
 
 @Cond_03a2:
@@ -87,13 +86,11 @@ call            @Func_0cf6
 code0479        1, 0, 14
 call            @Func_0d2c
 jumpz           @Cond_03f0, ($b002 == 0)
-dialogtxt       "Oh..."
-dialogtxt       "Sure, go on ahead."
+dialogtxt       "Oh, okay... Got it."
 goto            @Label_040e
 
 @Cond_03f0:
-dialogtxt       "Oh..."
-dialogtxt       "Sure, go on ahead."
+dialogtxt       "Oh, okay... Got it."
 goto            @Label_040e
 
 @Label_040e:
@@ -115,37 +112,33 @@ code047d        0, 0
 call            @Func_0d7a
 call            @Func_0ca2
 jumpz           @Cond_05ec, ($b002 == 0)
-dialogtxt       "With her father's condition, and"
-dialogtxt       "returning to the village,"
-dialogtxt       "they've got a lot to think about."
+dialogtxt       "With her father's condition, and us all"
+dialogtxt       "going to their village, they've got"
+dialogtxt       "a lot to think about..."
 code047b        
 code0309        
 code0479        0, 0, 12
-dialogtxt       "Oh well."
-dialogtxt       "I need to get my own"
-dialogtxt       "things ready too."
+dialogtxt       "Oh well. I need to get ready myself."
 code0309        
 code0479        0, 0, 14
-dialogtxt       "That reminds me, I wonder if "
-dialogtxt       "Lemmy is really not going"
-dialogtxt       "to tell his mother anything."
+dialogtxt       "That reminds me... Is Lemmy really not"
+dialogtxt       "going to talk to his mother about"
+dialogtxt       "everyone going there?"
 goto            @Label_0710
 
 @Cond_05ec:
-dialogtxt       "With her father's condition, and"
-dialogtxt       "returning to the village,"
-dialogtxt       "they've got a lot to think about."
+dialogtxt       "With her father's condition, and us all"
+dialogtxt       "going to their village, they've got"
+dialogtxt       "a lot to think about..."
 code047b        
 code0309        
 code0479        0, 0, 12
-dialogtxt       "Oh well."
-dialogtxt       "I need to get my own"
-dialogtxt       "things ready too."
+dialogtxt       "Oh well. I need to get ready myself."
 code0309        
 code0479        0, 0, 14
-dialogtxt       "That reminds me, I wonder if "
-dialogtxt       "Lemmy is really not going"
-dialogtxt       "to tell his mother anything."
+dialogtxt       "That reminds me... Is Lemmy really not"
+dialogtxt       "going to talk to his mother about"
+dialogtxt       "everyone going there?"
 goto            @Label_0710
 
 @Label_0710:

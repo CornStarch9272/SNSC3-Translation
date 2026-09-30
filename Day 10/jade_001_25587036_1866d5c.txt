@@ -33,8 +33,8 @@ call            @Func_07a8
 code0479        1, 4, 12
 call            @Func_07de
 dialogtxt       "It's only one weapon, okay?"
-dialogtxt       "This should be simple..."
-code0309        
+dialogtxt       "Don't think too hard about it."
+code0309		
 call            @Func_08ae
 call            @Func_07fc
 code047b        
@@ -260,4 +260,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-

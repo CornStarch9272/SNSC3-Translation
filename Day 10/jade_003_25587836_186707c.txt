@@ -15,15 +15,13 @@ code047d        1, 132
 call            @Func_141c
 call            @Func_1318
 jumpz           @Cond_010c, ($b002 == 0)
-dialogtxt       "Br—Bro!"
-dialogtxt       "Such a precious weapon, yet..."
-dialogtxt       "Sorry... I..."
+dialogtxt       "B-Bro! Your precious weapon... I..."
+dialogtxt       "I'm so sorry...!"
 goto            @Label_014e
 
 @Cond_010c:
-dialogtxt       "Br—Bro!"
-dialogtxt       "Such a precious weapon, yet..."
-dialogtxt       "Sorry... I..."
+dialogtxt       "B-Bro! Your precious weapon... I..."
+dialogtxt       "I'm so sorry...!"
 goto            @Label_014e
 
 @Label_014e:
@@ -52,13 +50,11 @@ code047d        1, 132
 call            @Func_141c
 call            @Func_1318
 jumpz           @Cond_02ba, ($b002 == 0)
-dialogtxt       "What's wrong, bro?"
-dialogtxt       "You're acting strange..."
+dialogtxt       "What's wrong, bro? You're acting weird..."
 goto            @Label_02f6
 
 @Cond_02ba:
-dialogtxt       "What's wrong, bro?"
-dialogtxt       "You're acting strange..."
+dialogtxt       "What's wrong, bro? You're acting weird..."
 goto            @Label_02f6
 
 @Label_02f6:
@@ -97,15 +93,13 @@ code0479        1, 4, 12
 call            @Func_141c
 call            @Func_1318
 jumpz           @Cond_049a, ($b002 == 0)
-dialogtxt       "Uwah!"
-dialogtxt       "But... I—"
-dialogtxt       "I didn't mean to break it..."
+dialogtxt       "Waah! But...! I-I didn't mean"
+dialogtxt       "to break it..."
 goto            @Label_04d6
 
 @Cond_049a:
-dialogtxt       "Uwah!"
-dialogtxt       "But... I—"
-dialogtxt       "I didn't mean to break it..."
+dialogtxt       "Waah! But...! I- I didn't mean"
+dialogtxt       "to break it..."
 goto            @Label_04d6
 
 @Label_04d6:
@@ -117,36 +111,30 @@ goto            @Label_04e2
 @Label_04e2:
 code0479        1, 4, 16
 call            @Func_13a2
-dialogtxt       "It's not your fault."
-dialogtxt       "It was already weakened"
-dialogtxt       "from when I fought Rob."
-code0309        
+dialogtxt       "It's not your fault. It was already"
+dialogtxt       "worn out from the time I fought Rob."
+code0309		
 code0333        2, 30
 code0479        1, 1, 12
 code0479        0, 0, 16
-dialogtxt       "But I'm sure this is what"
-dialogtxt       "these knuckles wanted."
-dialogtxt       "Because..."
+dialogtxt       "But I'm sure this is what these knuckles"
+dialogtxt       "wanted. Because..."
 code0309        
 code0334        
 code046e        31, 256, 1
 code0479        1, 2, 13
-dialogtxt       "We had one last fight against"
-dialogtxt       "old Rob's techniques."
-code0309        
+dialogtxt       "They were beaten by a Craftknight who"
+dialogtxt       "inherited Rob's techniques."
+code0309		
 call            @Func_13d8
 code0479        0, 6, 12
 call            @Func_1336
 jumpz           @Cond_067a, ($b002 == 0)
-dialogtxt       "Ah... bro..."
-dialogtxt       "You mean..."
-dialogtxt       "That I..."
+dialogtxt       "Ah... bro... You mean... I..."
 goto            @Label_06aa
 
 @Cond_067a:
-dialogtxt       "Ah... bro..."
-dialogtxt       "You mean..."
-dialogtxt       "That I..."
+dialogtxt       "Ah... bro... You mean... I..."
 goto            @Label_06aa
 
 @Label_06aa:
@@ -154,15 +142,14 @@ code0309
 call            @Func_136c
 code0479        1, 0, 16
 call            @Func_13a2
-dialogtxt       "Since I became a smithy,"
-dialogtxt       "the only people who have beaten me"
-dialogtxt       "are Master Benson and Rob..."
-code0309        
+dialogtxt       "Since the day I became a blacksmith, the"
+dialogtxt       "only people who have bested me have"
+dialogtxt       "been Master Benson and Rob."
+code0309		
 code0479        1, 2, 13
-dialogtxt       "You've definitely inherited"
-dialogtxt       "their techniques."
-dialogtxt       "With this fight, I understood that."
-code0309        
+dialogtxt       "You definitely inherited his techniques."
+dialogtxt       "Our battle made that clear."
+code0309		
 code0443        2, 16, 1
 code0443        2, 32, 1
 code043b        3
@@ -174,7 +161,7 @@ code0309
 call            @Func_13d8
 code0479        0, 1, 13
 call            @Func_1336
-dialogtxt       "Thanks bro!"
+dialogtxt       "Thanks, bro!"
 code0309        
 call            @Func_1472
 call            @Func_1354
@@ -233,17 +220,16 @@ code0446        0
 code0479        0, 11, 17
 call            @Func_13f0
 call            @Func_1318
-dialogtxt       "Awawa..."
-dialogtxt       "S—Sorry, bro..."
+dialogtxt       "Ahhh... S-Sorry, bro..."
 code047b        
 code0309        
 call            @Func_136c
 call            @Func_1406
 code0479        1, 1, 12
 call            @Func_13a2
-dialogtxt       "But you've still got a ways to go,"
-dialogtxt       "birdbrain. As Rob's apprentice,"
-dialogtxt       "you've got to be more reliable."
+dialogtxt       "You've still got a ways to go, birdbrain."
+dialogtxt       "As Rob's disciple, you've got to be more"
+dialogtxt       "reliable."
 code047b        
 code0309        
 code0479        0, 0, 16
@@ -255,11 +241,11 @@ call            @Func_13d8
 code0479        0, 7, 12
 call            @Func_1336
 jumpz           @Cond_0cc2, ($b002 == 0)
-dialogtxt       "Heheh."
+dialogtxt       "Heh."
 goto            @Label_0cd0
 
 @Cond_0cc2:
-dialogtxt       "Heheh."
+dialogtxt       "Heh."
 goto            @Label_0cd0
 
 @Label_0cd0:
@@ -275,8 +261,8 @@ code040d        15
 code047d        0, 132
 code0301        16, 7
 code047e        0, 1
-dialogtxt       "A real match with you..."
-dialogtxt       "I hop we can have one soon!"
+dialogtxt       "I hope we can have another match soon."
+dialogtxt       "A real one, this time!"
 code0309        
 code047e        0, 0
 code0302        7

@@ -30,8 +30,7 @@ code047d        1, 2
 code043c        1, 2
 call            @Func_1d68
 call            @Func_1ce6
-dialogtxt       "Tch..."
-dialogtxt       "I'm so pathetic..."
+dialogtxt       "Tch... I'm so pathetic."
 code047b        
 code0309        
 call            @Func_1d3a
@@ -51,22 +50,19 @@ code0309
 call            @Func_1cce
 code0479        1, 5, 16
 call            @Func_1d04
-dialogtxt       "Wha..."
-dialogtxt       "For what?"
-code0309        
+dialogtxt       "Huh...? Why are you thanking me?"
+code0309	
 call            @Func_1d3a
 code0479        0, 0, 12
 call            @Func_1c98
 jumpz           @Cond_030e, ($b002 == 0)
-dialogtxt       "Well, if you used your magic,"
-dialogtxt       "I would have been"
-dialogtxt       "blown away in an instant."
+dialogtxt       "Well, if you used your magic, I would"
+dialogtxt       "have been blown away in an instant."
 goto            @Label_0360
 
 @Cond_030e:
-dialogtxt       "Well, if you used your magic,"
-dialogtxt       "I would have been"
-dialogtxt       "blown away in an instant."
+dialogtxt       "Well, if you used your magic, I would"
+dialogtxt       "have been blown away in an instant."
 goto            @Label_0360
 
 @Label_0360:
@@ -74,33 +70,28 @@ code0309
 call            @Func_1cce
 code0479        1, 2, 14
 call            @Func_1d04
-dialogtxt       "Wha—!"
-dialogtxt       "It's not like I was"
+dialogtxt       "Wha—! It's not like I was"
 dialogtxt       "holding back for you!"
 code0309        
 call            @Func_1d3a
 code0479        0, 1, 12
 call            @Func_1c98
 jumpz           @Cond_04a6, ($b002 == 0)
-dialogtxt       "I know, I know."
-dialogtxt       "For Murno's sake,"
-dialogtxt       "right?"
+dialogtxt       "I know, I know. For Murno's sake, right?"
 code0309        
 code0479        0, 0, 16
-dialogtxt       "Of course, if you had really"
-dialogtxt       "tried to erase me, then even"
-dialogtxt       "Murno would be angry at you."
+dialogtxt       "Of course, if you had really tried"
+dialogtxt       "to erase me, then even Murno would"
+dialogtxt       "lose her patience with you."
 goto            @Label_0564
 
 @Cond_04a6:
-dialogtxt       "I know, I know."
-dialogtxt       "For Murno's sake,"
-dialogtxt       "right?"
+dialogtxt       "I know, I know. For Murno's sake, right?"
 code0309        
 code0479        0, 0, 16
-dialogtxt       "Of course, if you had really"
-dialogtxt       "tried to erase me, then even"
-dialogtxt       "Murno would be angry at you."
+dialogtxt       "Of course, if you had really tried"
+dialogtxt       "to erase me, then even Murno would"
+dialogtxt       "lose her patience with you."
 goto            @Label_0564
 
 @Label_0564:
@@ -108,22 +99,20 @@ code0309
 call            @Func_1cce
 code0479        1, 3, 15
 call            @Func_1d04
-dialogtxt       "Don't mess with me!"
-dialogtxt       "Why would I care about her..."
+dialogtxt       "Don't mess with me! Why would I"
+dialogtxt       "care about her?"
 code0309        
 call            @Func_1d3a
 code0479        0, 4, 12
 call            @Func_1c98
 jumpz           @Cond_0632, ($b002 == 0)
-dialogtxt       "Oh, cut the act already..."
-dialogtxt       "I know you really"
-dialogtxt       "treasure her."
+dialogtxt       "Oh, cut the act already! I know you"
+dialogtxt       "really treasure her."
 goto            @Label_0686
 
 @Cond_0632:
-dialogtxt       "Oh, cut the act already..."
-dialogtxt       "I know you really"
-dialogtxt       "treasure her."
+dialogtxt       "Oh, cut the act already! I know you"
+dialogtxt       "really treasure her."
 goto            @Label_0686
 
 @Label_0686:
@@ -131,21 +120,21 @@ code0309
 call            @Func_1cce
 code0479        1, 5, 17
 call            @Func_1d04
-dialogtxt       "Wha—! No I don't!"
+dialogtxt       "What?! No I don't!"
 code0309        
 call            @Func_1d3a
 code0479        0, 0, 16
 call            @Func_1c98
 jumpz           @Cond_0748, ($b002 == 0)
-dialogtxt       "If you would just come out and"
-dialogtxt       "tell her your feelings, I'm sure"
-dialogtxt       "Murno would be happy."
+dialogtxt       "If you would just come out and tell"
+dialogtxt       "her your true feelings, I'm sure it"
+dialogtxt       "would make Murno happy."
 goto            @Label_07a0
 
 @Cond_0748:
-dialogtxt       "If you would just come out and"
-dialogtxt       "tell her your feelings, I'm sure"
-dialogtxt       "Murno would be happy."
+dialogtxt       "If you would just come out and tell"
+dialogtxt       "her your true feelings, I'm sure it"
+dialogtxt       "would make Murno happy."
 goto            @Label_07a0
 
 @Label_07a0:
@@ -153,22 +142,19 @@ code0309
 call            @Func_1cce
 code0479        1, 3, 14
 call            @Func_1d04
-dialogtxt       "Give me a break!"
-dialogtxt       "Listen to me!"
+dialogtxt       "Give me a break! Listen to me!"
 code0309        
 call            @Func_1d3a
 code0479        0, 2, 14
 call            @Func_1c98
 jumpz           @Cond_0854, ($b002 == 0)
-dialogtxt       "What now!?"
-dialogtxt       "Then are you saying you don't"
-dialogtxt       "want to protect her?"
+dialogtxt       "What now?! Are you telling me you don't"
+dialogtxt       "really want to protect her?"
 goto            @Label_08a0
 
 @Cond_0854:
-dialogtxt       "What now!?"
-dialogtxt       "Then are you saying you don't"
-dialogtxt       "want to protect her?"
+dialogtxt       "What now?! Are you telling me you don't"
+dialogtxt       "really want to protect her?"
 goto            @Label_08a0
 
 @Label_08a0:
@@ -179,8 +165,7 @@ call            @Func_1d04
 dialogtxt       "No!"
 code0309        
 code0479        1, 0, 17
-dialogtxt       "It's just, I..."
-dialogtxt       "I owe her a debt..."
+dialogtxt       "It's just, I... I owe her a debt."
 code0309        
 call            @Func_1d3a
 code0479        0, 0, 16
@@ -190,21 +175,20 @@ code0309
 call            @Func_1cce
 code0479        1, 0, 12
 call            @Func_1d04
-dialogtxt       "Years ago, Murno once"
-dialogtxt       "risked her life for me..."
-dialogtxt       "So..."
-code0309        
+dialogtxt       "Years ago, Murno risked her life"
+dialogtxt       "for me. That's all."
+code0309		
 call            @Func_1d3a
 code0479        0, 5, 14
 call            @Func_1c98
 jumpz           @Cond_0a0a, ($b002 == 0)
-dialogtxt       "Murno risked her life for you..."
-dialogtxt       "What on earth happened?"
+dialogtxt       "Murno risked her life for you...?"
+dialogtxt       "What the heck happened?"
 goto            @Label_0a46
 
 @Cond_0a0a:
-dialogtxt       "Murno risked her life for you..."
-dialogtxt       "What on earth happened?"
+dialogtxt       "Murno risked her life for you...?"
+dialogtxt       "What the heck happened?"
 goto            @Label_0a46
 
 @Label_0a46:
@@ -212,8 +196,8 @@ code0309
 call            @Func_1cce
 code0479        1, 2, 13
 call            @Func_1d04
-dialogtxt       "Don't freak out now..."
-code0309        
+dialogtxt       "Don't laugh..."
+code0309		
 code0479        1, 2, 16
 code0479        0, 0, 14
 dialogtxt       "It was a dog."
@@ -226,34 +210,30 @@ code030c
 call            @Func_1cce
 code0479        1, 2, 14
 call            @Func_1d04
-dialogtxt       "I said, a dog."
-code0309        
+dialogtxt       "You heard me. A dog."
+code0309		
 call            @Func_1d3a
 code0479        0, 4, 14
 call            @Func_1c98
-dialogtxt       "Ummm..."
-dialogtxt       "Murno risked her life,"
+dialogtxt       "Ummm... Murno risked her life,"
 dialogtxt       "to protect you from... a dog?"
 code0309        
 call            @Func_1cce
 code0479        1, 2, 16
 call            @Func_1d04
-dialogtxt       "That's what I said."
-dialogtxt       "Don't make me repeat myself."
-dialogtxt       "It's annoying."
+dialogtxt       "That's what I said. Don't make me"
+dialogtxt       "repeat myself."
 code0309        
 call            @Func_1d3a
 code0479        0, 5, 17
 call            @Func_1c98
 jumpz           @Cond_0c5a, ($b002 == 0)
-dialogtxt       "Woah, hold on!"
-dialogtxt       "What do you mean?"
+dialogtxt       "Woah, hold on! What do you mean?"
 dialogtxt       "[NAME 1], are you scared of dogs?"
 goto            @Label_0ca6
 
 @Cond_0c5a:
-dialogtxt       "Woah, hold on!"
-dialogtxt       "What do you mean?"
+dialogtxt       "Woah, hold on! What do you mean?"
 dialogtxt       "[NAME 1], are you scared of dogs?"
 goto            @Label_0ca6
 
@@ -262,9 +242,8 @@ code0309
 call            @Func_1cce
 code0479        1, 5, 15
 call            @Func_1d04
-dialogtxt       "N—No way!"
-dialogtxt       "There's no way I'd be"
-dialogtxt       "scared of a mere dog!"
+dialogtxt       "N-No way! There's no way I'd be"
+dialogtxt       "frightened of a mere dog!"
 code0309        
 code0479        1, 2, 12
 code0479        0, 0, 14
@@ -273,26 +252,24 @@ code0309
 call            @Func_1d3a
 code0479        0, 1, 16
 call            @Func_1c98
-dialogtxt       "Um..."
-dialogtxt       "I'm not following..."
+dialogtxt       "Um... I'm not following."
 code0309        
 call            @Func_1cce
 code0479        1, 0, 16
 call            @Func_1d04
-dialogtxt       "There was a noisy dog in the"
-dialogtxt       "village. Murno couldn't handle it."
-dialogtxt       "You could even say she was afraid."
+dialogtxt       "There was a noisy dog in the village."
+dialogtxt       "Murno couldn't handle it. You could"
+dialogtxt       "even say she was afraid."
 code0309        
 code0479        1, 0, 12
 code0479        0, 0, 16
-dialogtxt       "It's name was Gau."
-dialogtxt       "One day, I stealthily"
+dialogtxt       "Its name was Gau. One day, I stealthily"
 dialogtxt       "lured her close to the dog."
 code0309        
 call            @Func_1d3a
 code0479        0, 4, 14
 call            @Func_1c98
-dialogtxt       "Why'd you do tha—"
+dialogtxt       "Why would you..."
 dialogtxt       "... Actually, that does sound"
 dialogtxt       "like something you'd do."
 code0309        
@@ -300,8 +277,8 @@ call            @Func_1cce
 code0479        1, 2, 13
 call            @Func_1d04
 dialogtxt       "Then, obviously, the dog barked,"
-dialogtxt       "and she fled in terror."
-dialogtxt       "Her scream was simply amazing..."
+dialogtxt       "and she fled in terror. Her scream"
+dialogtxt       "was simply amazing..."
 code0309        
 call            @Func_1d3a
 code0479        0, 4, 16
@@ -319,15 +296,15 @@ code0309
 call            @Func_1cce
 code0479        1, 0, 14
 call            @Func_1d04
-dialogtxt       "However, after she ran, the dog"
-dialogtxt       "kept barking at me. It was annoying,"
-dialogtxt       "so I thought I'd get rid of it."
+dialogtxt       "But after she ran, the dog kept barking"
+dialogtxt       "at me. It was annoying, so I thought I'd"
+dialogtxt       "get rid of it."
 code0309        
 code0479        1, 0, 16
 code0479        0, 0, 14
 dialogtxt       "Murno must have misunderstood,"
-dialogtxt       "because she stepped between the"
-dialogtxt       "dog and I, and said..."
+dialogtxt       "because she stepped between me"
+dialogtxt       "and the dog, and said,"
 code0309        
 code0479        1, 4, 13
 dialogtxt       "\"It's okay, [NAME 1]."
@@ -336,21 +313,20 @@ code0309
 call            @Func_1d3a
 code0479        0, 5, 16
 call            @Func_1c98
-dialogtxt       "Eh?"
-dialogtxt       "So that's..."
+dialogtxt       "Huh? You mean..."
 code0309        
 call            @Func_1cce
 code0479        1, 2, 16
 call            @Func_1d04
-dialogtxt       "For her, facing Gau was like when"
-dialogtxt       "you challenged Genryuuki."
-dialogtxt       "She put her life on the line..."
+dialogtxt       "For her, facing Gau was like when you"
+dialogtxt       "challenged Genryuuki. She felt like she"
+dialogtxt       "was putting her life on the line."
 code0309        
 code0479        1, 2, 12
 code0479        0, 0, 16
-dialogtxt       "It doesn't feel right to owe"
-dialogtxt       "such a large debt to a human."
-dialogtxt       "So until I can repay her..."
+dialogtxt       "It doesn't feel right to owe such a"
+dialogtxt       "large debt to a human. So until I"
+dialogtxt       "can pay her back..."
 code0309        
 code0479        1, 3, 13
 dialogtxt       "I decided I would protect her."
@@ -358,8 +334,8 @@ code0309
 call            @Func_1d3a
 code0479        0, 2, 14
 call            @Func_1c98
-dialogtxt       "So, just because of that,"
-dialogtxt       "you've been protecting Murno?"
+dialogtxt       "So, the whole reason you've been"
+dialogtxt       "protecting Murno is... a dog?"
 code0309        
 call            @Func_1cce
 code0479        1, 0, 16
@@ -370,13 +346,11 @@ call            @Func_1d3a
 code0479        0, 5, 17
 call            @Func_1c98
 jumpz           @Cond_1380, ($b002 == 0)
-dialogtxt       "... Wait, what!?"
-dialogtxt       "What do you mean?"
+dialogtxt       "... Wait, what?! What do you mean?"
 goto            @Label_13b4
 
 @Cond_1380:
-dialogtxt       "... Wait, what!?"
-dialogtxt       "What do you mean?"
+dialogtxt       "... Wait, what?! What do you mean?"
 goto            @Label_13b4
 
 @Label_13b4:
@@ -384,33 +358,31 @@ code0309
 call            @Func_1cce
 code0479        1, 0, 17
 call            @Func_1d04
-dialogtxt       "You've said it yourself. I quote,"
-dialogtxt       "\"while we are partners, I'm going"
+dialogtxt       "You said it yourself. I quote:"
+dialogtxt       "\"While we are partners, I'm going"
 dialogtxt       "to protect Murno myself.\""
 code0309        
 code0479        1, 0, 16
 code0479        0, 2, 14
-dialogtxt       "Moreover, you've defeated me."
-dialogtxt       "Now that you are protecting her,"
-dialogtxt       "you don't need my help, right?"
+dialogtxt       "Moreover, you've defeated me. Now that"
+dialogtxt       "you're the one protecting her, you"
+dialogtxt       "don't need my help, right?"
 code0309        
 code0479        1, 3, 13
-dialogtxt       "So I entrust Murno to you."
-dialogtxt       "Protect her with your life."
+dialogtxt       "So I entrust Murno to you. Protect her"
+dialogtxt       "with your life."
 code0309        
 call            @Func_1d3a
 code0479        0, 2, 16
 call            @Func_1c98
 jumpz           @Cond_1576, ($b002 == 0)
-dialogtxt       "[NAME 1]..."
-dialogtxt       "Is that..."
-dialogtxt       "really okay with you...?"
+dialogtxt       "[NAME 1]... Is that... really okay"
+dialogtxt       "with you...?"
 goto            @Label_15a8
 
 @Cond_1576:
-dialogtxt       "[NAME 1]..."
-dialogtxt       "Is that..."
-dialogtxt       "really okay with you...?"
+dialogtxt       "[NAME 1]... Is that... really okay"
+dialogtxt       "with you...?"
 goto            @Label_15a8
 
 @Label_15a8:
@@ -418,15 +390,14 @@ code0309
 call            @Func_1cce
 code0479        1, 6, 12
 call            @Func_1d04
-dialogtxt       "It's fine. With her taken"
-dialogtxt       "care of, I can fully devote"
-dialogtxt       "my time towards you."
+dialogtxt       "It's fine. With her taken care of,"
+dialogtxt       "I can fully devote my time towards you."
 code0309        
 call            @Func_1d3a
 code0479        0, 5, 14
 call            @Func_1c98
-dialogtxt       "Eh?"
-code0309        
+dialogtxt       "Huh?"
+code0309		
 call            @Func_1dd4
 call            @Func_1cb6
 code047b        
@@ -438,8 +409,7 @@ code040d        15
 code047d        0, 2
 code0301        16, 7
 code047e        0, 1
-dialogtxt       "Hmph..."
-dialogtxt       "It's nothing."
+dialogtxt       "Hmph... Forget it."
 code0309        
 code047e        0, 0
 code0302        7

@@ -8,23 +8,19 @@ code0479        1, 4, 14
 code047d        1, 110
 call            @Func_208a
 call            @Func_1ff2
-dialogtxt       "..."
-dialogtxt       "Ku!"
-dialogtxt       "Again..."
+dialogtxt       "... Gah! Not again..."
 code0309        
 call            @Func_2046
 code0479        0, 0, 14
 call            @Func_1fa4
 jumpz           @Cond_0100, ($b002 == 0)
-dialogtxt       "You know..."
-dialogtxt       "If you hesitate,"
-dialogtxt       "we can't have a good fight."
+dialogtxt       "You know, if you hold back, we can't"
+dialogtxt       "have a good fight."
 goto            @Label_0142
 
 @Cond_0100:
-dialogtxt       "You know..."
-dialogtxt       "If you hesitate,"
-dialogtxt       "we can't have a good fight."
+dialogtxt       "You know, if you hold back, we can't"
+dialogtxt       "have a good fight."
 goto            @Label_0142
 
 @Label_0142:
@@ -32,22 +28,19 @@ code0309
 call            @Func_1fda
 code0479        1, 5, 12
 call            @Func_2010
-dialogtxt       "Wha—What?"
-dialogtxt       "you think I'm not trying?"
+dialogtxt       "Wh-What? You think I'm not trying?"
 code0309        
 call            @Func_2046
 code0479        0, 0, 16
 call            @Func_1fa4
 jumpz           @Cond_020e, ($b002 == 0)
-dialogtxt       "How should I put this?"
-dialogtxt       "It's like you can't focus..."
-dialogtxt       "It's that, isn't it? Your mother?"
+dialogtxt       "How should I put this? It's like you"
+dialogtxt       "can't focus. It's your mom, isn't it?"
 goto            @Label_026e
 
 @Cond_020e:
-dialogtxt       "How should I put this?"
-dialogtxt       "It's like you can't focus..."
-dialogtxt       "It's that, isn't it? Your mother?"
+dialogtxt       "How should I put this? It's like you"
+dialogtxt       "can't focus. It's your mom, isn't it?"
 goto            @Label_026e
 
 @Label_026e:
@@ -55,22 +48,19 @@ code0309
 call            @Func_1fda
 code0479        1, 2, 15
 call            @Func_2010
-dialogtxt       "Wha—!"
-dialogtxt       "Why would I—!?"
+dialogtxt       "What?! Why would I—"
 code0309        
 call            @Func_2046
 code0479        0, 0, 12
 call            @Func_1fa4
 jumpz           @Cond_0338, ($b002 == 0)
-dialogtxt       "Why dont you try talking"
-dialogtxt       "about your troubles?"
-dialogtxt       "It might make you feel better."
+dialogtxt       "Why don't you try talking about your"
+dialogtxt       "problems? It might make you feel better."
 goto            @Label_0396
 
 @Cond_0338:
-dialogtxt       "Why dont you try talking"
-dialogtxt       "about your troubles?"
-dialogtxt       "It might make you feel better."
+dialogtxt       "Why don't you try talking about your"
+dialogtxt       "problems? It might make you feel better."
 goto            @Label_0396
 
 @Label_0396:
@@ -78,19 +68,19 @@ code0309
 call            @Func_1fda
 code0479        1, 5, 16
 call            @Func_2010
-dialogtxt       "What are you..."
+dialogtxt       "What are you talking about...?"
 code0309        
 call            @Func_2046
 code0479        0, 2, 12
 call            @Func_1fa4
 jumpz           @Cond_0420, ($b002 == 0)
-dialogtxt       "And once you're feeling better,"
-dialogtxt       "we'll have another match!"
+dialogtxt       "And once you're feeling better, we can"
+dialogtxt       "have another match!"
 goto            @Label_0450
 
 @Cond_0420:
-dialogtxt       "And once you're feeling better,"
-dialogtxt       "we'll have another match!"
+dialogtxt       "And once you're feeling better, we can"
+dialogtxt       "have another match!"
 goto            @Label_0450
 
 @Label_0450:
@@ -98,28 +88,26 @@ code0309
 call            @Func_1fda
 code0479        1, 4, 12
 call            @Func_2010
-dialogtxt       "I..."
-dialogtxt       "I see..."
-dialogtxt       "People like you are really..."
+dialogtxt       "I... I see. People like you really..."
 code0309        
 code0479        1, 0, 16
-dialogtxt       "Well, there's no need for you"
-dialogtxt       "to worry about what is"
-dialogtxt       "between my mother and I."
-code0309        
+dialogtxt       "Well, forget it. You don't need to worry"
+dialogtxt       "about what's going on between me and my"
+dialogtxt       "mother."
+code0309		
 call            @Func_2046
 code0479        0, 0, 16
 call            @Func_1fa4
 jumpz           @Cond_0568, ($b002 == 0)
-dialogtxt       "But look, your mother's a Summoner,"
-dialogtxt       "and you're training as a smithy?"
-dialogtxt       "Isn't that odd?"
+dialogtxt       "Hey, your mom's a Summoner, right? And"
+dialogtxt       "you're training as a blacksmith? That's"
+dialogtxt       "weird, isn't it?"
 goto            @Label_05c4
 
 @Cond_0568:
-dialogtxt       "But look, your mother's a Summoner,"
-dialogtxt       "and you're training as a smithy?"
-dialogtxt       "Isn't that odd?"
+dialogtxt       "Hey, your mom's a Summoner, right? And"
+dialogtxt       "you're training as a blacksmith? Isn't"
+dialogtxt       "that kinda weird?"
 goto            @Label_05c4
 
 @Label_05c4:
@@ -127,21 +115,19 @@ code0309
 call            @Func_1fda
 code0479        1, 4, 13
 call            @Func_2010
-dialogtxt       "People like you..."
-dialogtxt       "I'm a bit jealous of how you"
-dialogtxt       "can speak your mind so easily."
-code0309        
+dialogtxt       "People like you... You really can't help"
+dialogtxt       "but speak your mind, can you? I'm kinda"
+dialogtxt       "jealous, honestly..."
+code0309		
 call            @Func_2046
 code0479        0, 0, 13
 call            @Func_1fa4
 jumpz           @Cond_0696, ($b002 == 0)
-dialogtxt       "Is that so?"
-dialogtxt       "See, it's okay to be open!"
+dialogtxt       "No kidding? See, it's okay to open up!"
 goto            @Label_06d6
 
 @Cond_0696:
-dialogtxt       "Is that so?"
-dialogtxt       "See, it's okay to be open!"
+dialogtxt       "No kidding? See, it's okay to open up!"
 goto            @Label_06d6
 
 @Label_06d6:
@@ -149,30 +135,28 @@ code0309
 call            @Func_1fda
 code0479        1, 4, 12
 call            @Func_2010
-dialogtxt       "Alright, fine..."
-dialogtxt       "Even I wanted to be a Summoner"
-dialogtxt       "at one point..."
+dialogtxt       "Alright, fine. You're right. I used"
+dialogtxt       "to dream of becoming a Summoner myself."
 code0309        
 code0333        2, 30
 code0479        1, 2, 12
-dialogtxt       "After my father died,"
-dialogtxt       "everything changed..."
-code0309        
+dialogtxt       "That all changed when my father died."
+code0309		
 call            @Func_2046
 code0479        0, 4, 12
 call            @Func_1fa4
 code0334        
 code0331        33, 256
 jumpz           @Cond_082e, ($b002 == 0)
-dialogtxt       "Ah... Sorry..."
-dialogtxt       "This seems pretty serious."
-dialogtxt       "Um, if you don't want to talk..."
+dialogtxt       "Ah... I'm sorry... Um, that's really heavy..."
+dialogtxt       "If you don't want to talk about it,"
+dialogtxt       "that's fine..."
 goto            @Label_0878
 
 @Cond_082e:
-dialogtxt       "Ah... Um..."
-dialogtxt       "This seems pretty serious."
-dialogtxt       "Um, if you don't want to talk..."
+dialogtxt       "Ah... I'm sorry... Um, that's really heavy..."
+dialogtxt       "If you don't want to talk about it,"
+dialogtxt       "that's fine..."
 goto            @Label_0878
 
 @Label_0878:
@@ -180,57 +164,53 @@ code0309
 call            @Func_1fda
 code0479        1, 2, 13
 call            @Func_2010
-dialogtxt       "Too late for that..."
-dialogtxt       "You told me to talk."
-dialogtxt       "So listen."
-code0309        
+dialogtxt       "It's too late for that. You told me to"
+dialogtxt       "talk, so listen."
+code0309		
 call            @Func_2046
 code0479        0, 4, 16
 call            @Func_1fa4
-dialogtxt       "Okaay..."
+dialogtxt       "Okaaay..."
 code0309        
 call            @Func_1fda
 code0479        1, 0, 12
 call            @Func_2010
-dialogtxt       "After Father died, Mother"
-dialogtxt       "was obsessed with climbing up"
-dialogtxt       "the ladder in the Council..."
+dialogtxt       "After father died, mother became"
+dialogtxt       "obsessed with climbing up the ranks"
+dialogtxt       "in the Council."
 code0309        
 code0479        1, 2, 14
 code0479        0, 0, 14
-dialogtxt       "She's curried favor with the leader"
-dialogtxt       "of House Ringvald, and became"
-dialogtxt       "Velvoren's secretary..."
+dialogtxt       "She curried favor with the leader of"
+dialogtxt       "House Ringvald, and became Velvoren's"
+dialogtxt       "secretary."
 code0309        
 code0479        1, 2, 12
 dialogtxt       "She told me she did it so I could"
 dialogtxt       "study at House Ringvald, but..."
 code0309        
 code0479        1, 4, 16
-dialogtxt       "I'm sure she only thought of me"
-dialogtxt       "as a tool she could use"
-dialogtxt       "to gain power..."
-code0309        
+dialogtxt       "I'm sure she was only thinking of me as"
+dialogtxt       "a tool for her to gain more power."
+code0309		
 code0479        1, 2, 14
 dialogtxt       "It makes me sick!"
 code0309        
 call            @Func_2046
 code0479        0, 0, 16
 call            @Func_1fa4
-dialogtxt       "So..."
-dialogtxt       "You complained to Bostaph?"
-code0309        
+dialogtxt       "So... you went to train under Bostaph"
+dialogtxt       "out of spite, then?"
+code0309		
 call            @Func_1fda
 code0479        1, 2, 15
 call            @Func_2010
-dialogtxt       "No!"
-dialogtxt       "Master Bostaph recognizes me,"
-dialogtxt       "not as a tool, but as a person."
+dialogtxt       "No! Master Bostaph recognizes me."
+dialogtxt       "Not as a tool, but as a person."
 code0309        
 code0479        1, 2, 16
-dialogtxt       "In his care,"
-dialogtxt       "I didn't have to"
-dialogtxt       "worry about politics."
+dialogtxt       "In his care, I don't have to worry"
+dialogtxt       "about politics."
 code0309        
 call            @Func_2046
 code0479        0, 4, 14
@@ -240,47 +220,42 @@ code0309
 call            @Func_1fda
 code0479        1, 4, 12
 call            @Func_2010
-dialogtxt       "But after his wife left him,"
-dialogtxt       "he's been changing,"
-dialogtxt       "slowly but surely..."
+dialogtxt       "But ever since his wife left him, he's"
+dialogtxt       "been changing, slowly but surely..."
 code0309        
 code0479        1, 2, 14
-dialogtxt       "And this time, I will be"
-dialogtxt       "the one to help him..."
+dialogtxt       "And this time, I'll be the one to"
+dialogtxt       "help him."
 code0309        
 call            @Func_2046
 code0479        0, 0, 14
 call            @Func_1fa4
 jumpz           @Cond_0e9c, ($b002 == 0)
-dialogtxt       "..."
-dialogtxt       "I think I understand"
-dialogtxt       "what you're getting at..."
+dialogtxt       "... I think I understand what you're"
+dialogtxt       "getting at."
 code0309        
 code0479        0, 0, 16
-dialogtxt       "Is what you said about"
-dialogtxt       "your mother true?"
-dialogtxt       "Maybe you're misunderstanding?"
+dialogtxt       "But, are you sure about your mom?"
+dialogtxt       "Maybe you're just misunderstanding?"
 code0309        
 code0479        0, 2, 14
-dialogtxt       "She was really thinking about you."
-dialogtxt       "She was even willing to"
-dialogtxt       "become Velvoren's secretary..."
+dialogtxt       "I'm sure she really was thinking of you."
+dialogtxt       "She was even willing to become"
+dialogtxt       "Velvoren's secretary..."
 goto            @Label_0f9a
 
 @Cond_0e9c:
-dialogtxt       "..."
-dialogtxt       "I think I understand"
-dialogtxt       "what you're saying..."
+dialogtxt       "... I think I understand what you're"
+dialogtxt       "getting at."
 code0309        
 code0479        0, 0, 14
-dialogtxt       "Is what you said about"
-dialogtxt       "your mother true?"
-dialogtxt       "Maybe you're misunderstanding?"
+dialogtxt       "But, are you sure about your mom?"
+dialogtxt       "Maybe you're just misunderstanding?"
 code0309        
 code0479        0, 2, 14
-dialogtxt       "She was really thinking about you."
-dialogtxt       "She was even willing to"
-dialogtxt       "become Velvoren's secretary..."
+dialogtxt       "I'm sure she really was thinking of you."
+dialogtxt       "She was even willing to become"
+dialogtxt       "Velvoren's secretary..."
 goto            @Label_0f9a
 
 @Label_0f9a:
@@ -288,9 +263,8 @@ code0309
 call            @Func_1fda
 code0479        1, 2, 17
 call            @Func_2010
-dialogtxt       "Of course!"
-dialogtxt       "She only wanted to make the Council"
-dialogtxt       "acknowledge House Mortier..."
+dialogtxt       "Of course! She only wanted to make"
+dialogtxt       "the Council acknowledge House Mortier..."
 code0309        
 call            @Func_2046
 code0479        0, 2, 16
@@ -311,7 +285,7 @@ call            @Func_1fda
 code0479        1, 2, 14
 call            @Func_2010
 dialogtxt       "I don't need ask to understand that."
-dialogtxt       "That person..."
+dialogtxt       "That woman..."
 code0309        
 call            @Func_20e0
 call            @Func_202e
@@ -333,25 +307,23 @@ call            @Func_2046
 code0479        0, 2, 16
 call            @Func_1fa4
 jumpz           @Cond_12be, ($b002 == 0)
-dialogtxt       "When your father died,"
-dialogtxt       "your mother had to care for you"
-dialogtxt       "all by herself."
+dialogtxt       "When your father died, your mother"
+dialogtxt       "had to care for you all by herself."
 code0309        
 code0479        0, 2, 14
 code0479        1, 0, 16
 dialogtxt       "Have you even thought about how"
-dialogtxt       "difficult that must have been!?"
+dialogtxt       "difficult that must have been?!"
 goto            @Label_1384
 
 @Cond_12be:
-dialogtxt       "When your father died,"
-dialogtxt       "your mother had to care for you"
-dialogtxt       "all by herself."
+dialogtxt       "When your father died, your mother"
+dialogtxt       "had to care for you all by herself."
 code0309        
 code0479        0, 2, 14
 code0479        1, 0, 16
 dialogtxt       "Have you even thought about how"
-dialogtxt       "difficult that must have been!?"
+dialogtxt       "difficult that must have been?!"
 goto            @Label_1384
 
 @Label_1384:
@@ -359,25 +331,21 @@ code0309
 call            @Func_1fda
 code0479        1, 2, 14
 call            @Func_2010
-dialogtxt       "What the hell!?"
-dialogtxt       "How would you even..."
+dialogtxt       "What the hell!? How would you even—"
 code0309        
 code0479        1, 5, 16
-dialogtxt       "Ah..."
-dialogtxt       "You too, your master..."
+dialogtxt       "Oh, right. Your master also..."
 code0309        
 call            @Func_2046
 code0479        0, 2, 14
 call            @Func_1fa4
 jumpz           @Cond_1472, ($b002 == 0)
-dialogtxt       "That's right."
-dialogtxt       "In times like these, family"
+dialogtxt       "That's right. In times like these, family"
 dialogtxt       "members should support each other!"
 goto            @Label_14b6
 
 @Cond_1472:
-dialogtxt       "That's right..."
-dialogtxt       "In times like these, family"
+dialogtxt       "That's right. In times like these, family"
 dialogtxt       "members should support each other!"
 goto            @Label_14b6
 
@@ -392,21 +360,19 @@ call            @Func_2046
 code0479        0, 2, 16
 call            @Func_1fa4
 jumpz           @Cond_15a4, ($b002 == 0)
-dialogtxt       "I think your mother"
-dialogtxt       "is seriously"
-dialogtxt       "worrying about you."
-code0309        
+dialogtxt       "I think your mother is seriously worried"
+dialogtxt       "about you, Lemmy."
+code0309		
 code0479        0, 0, 12
-dialogtxt       "You need to believe in her more..."
+dialogtxt       "You need to believe in her."
 goto            @Label_1646
 
 @Cond_15a4:
-dialogtxt       "I think your mother"
-dialogtxt       "is seriously"
-dialogtxt       "worrying about you."
-code0309        
+dialogtxt       "I think your mother is seriously worried"
+dialogtxt       "about you, Lemmy."
+code0309		
 code0479        0, 0, 12
-dialogtxt       "You need to believe in her more..."
+dialogtxt       "You need to believe in her."
 goto            @Label_1646
 
 @Label_1646:
@@ -415,15 +381,14 @@ call            @Func_1fda
 code0333        2, 30
 code0479        1, 4, 16
 call            @Func_2010
-dialogtxt       "..."
-dialogtxt       "You're always open like this,"
-dialogtxt       "no matter who you're with..."
-code0309        
+dialogtxt       "... You're always such an open book, huh?"
+dialogtxt       "Even with your Summon Beast."
+code0309		
 code0334        
 code046e        31, 256, 1
 code0479        1, 4, 13
-dialogtxt       "I envy you..."
-dialogtxt       "That's something I just can't do..."
+dialogtxt       "I envy you. That's something I just"
+dialogtxt       "can't do..."
 code0309        
 call            @Func_2046
 code0479        0, 2, 16
@@ -433,38 +398,34 @@ code0309
 call            @Func_1fda
 code0479        1, 0, 16
 call            @Func_2010
-dialogtxt       "No,"
-dialogtxt       "I really am jealous of you."
+dialogtxt       "No. I really am jealous of you."
 code0309        
 call            @Func_2046
 code0479        0, 7, 14
 call            @Func_1fa4
-dialogtxt       "Eh... Really?"
-dialogtxt       "You're making me blush..."
+dialogtxt       "Whoa... really? You're making me blush..."
 code0309        
 call            @Func_1fda
 code0479        1, 0, 13
 call            @Func_2010
-dialogtxt       "I hate to admit it, but it's"
-dialogtxt       "as you said. I do feel better."
-dialogtxt       "But the match will have to wait..."
+dialogtxt       "I hate to admit it, but it's like you"
+dialogtxt       "said. I really do feel better. But the"
+dialogtxt       "match will have to wait."
 code0309        
 code0479        0, 0, 14
 code0479        1, 2, 13
-dialogtxt       "Once I clear everything up,"
-dialogtxt       "I'd like to face you again."
+dialogtxt       "Once I clear everything up, I'd like"
+dialogtxt       "to face you again."
 code0309        
 call            @Func_2046
 code0479        0, 2, 12
 call            @Func_1fa4
 jumpz           @Cond_191e, ($b002 == 0)
-dialogtxt       "Alright!"
-dialogtxt       "I'll be waiting!"
+dialogtxt       "Yeah! I'll be waiting!"
 goto            @Label_1952
 
 @Cond_191e:
-dialogtxt       "Okay!"
-dialogtxt       "I'll be waiting!"
+dialogtxt       "Okay! I'll be waiting!"
 goto            @Label_1952
 
 @Label_1952:
@@ -480,7 +441,7 @@ code040d        15
 code047d        0, 110
 code0301        16, 7
 code047e        0, 1
-dialogtxt       "Look forward to it."
+dialogtxt       "I'll be looking forward to it, too."
 code0309        
 code047e        0, 0
 code0302        7

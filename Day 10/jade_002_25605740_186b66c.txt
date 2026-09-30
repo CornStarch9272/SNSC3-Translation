@@ -23,9 +23,7 @@ code0309
 call            @Func_07d0
 code0479        1, 0, 13
 call            @Func_0806
-dialogtxt       "Oh..."
-dialogtxt       "You intend to"
-dialogtxt       "win with that thing?"
+dialogtxt       "Heh. You intend to win with that thing?"
 code0309        
 call            @Func_083c
 code0479        0, 2, 12
@@ -35,13 +33,11 @@ code0309
 call            @Func_07d0
 code0479        1, 2, 13
 call            @Func_0806
-dialogtxt       "Hoh..."
-dialogtxt       "I see..."
+dialogtxt       "Ohoho... I see."
 code0309        
 code0479        1, 3, 15
-dialogtxt       "Alright then."
-dialogtxt       "Don't hold back!"
-dialogtxt       "Come at me!"
+dialogtxt       "Alright then. Let's go! And don't"
+dialogtxt       "hold back!"
 code0309        
 call            @Func_08d6
 call            @Func_0824
@@ -257,4 +253,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-

@@ -20,20 +20,17 @@ code0309
 call            @Func_08ac
 code0479        1, 2, 13
 call            @Func_08e2
-dialogtxt       "Totally fine!"
-dialogtxt       "This is nothing."
+dialogtxt       "Totally fine! This is nothing."
 code0309        
 call            @Func_0918
 code0479        0, 0, 13
 call            @Func_0876
 jumpz           @Cond_0158, ($b002 == 0)
-dialogtxt       "Thank goodness..."
-dialogtxt       "Everyone was worried."
+dialogtxt       "Thank goodness... Everyone was worried."
 goto            @Label_0180
 
 @Cond_0158:
-dialogtxt       "Thank goodness..."
-dialogtxt       "Everyone was worried."
+dialogtxt       "Thank goodness... Everyone was worried."
 goto            @Label_0180
 
 @Label_0180:
@@ -41,22 +38,19 @@ code0309
 call            @Func_08ac
 code0479        1, 4, 16
 call            @Func_08e2
-dialogtxt       "Ah, yeah..."
-dialogtxt       "Sorry..."
+dialogtxt       "Ah, yeah... Sorry..."
 code0309        
 call            @Func_0918
 code0479        0, 0, 12
 call            @Func_0876
 jumpz           @Cond_023e, ($b002 == 0)
-dialogtxt       "You don't need to apologize."
-dialogtxt       "But make sure not to do"
-dialogtxt       "anything too reckless from now on!"
+dialogtxt       "You don't need to apologize. But don't"
+dialogtxt       "be so reckless from now on!"
 goto            @Label_0298
 
 @Cond_023e:
-dialogtxt       "You don't need to apologize."
-dialogtxt       "But make sure not to do"
-dialogtxt       "anything too reckless from now on!"
+dialogtxt       "You don't need to apologize. But don't"
+dialogtxt       "be so reckless from now on!"
 goto            @Label_0298
 
 @Label_0298:
@@ -280,4 +274,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-
