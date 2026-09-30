@@ -687,7 +687,7 @@ call            @Func_2ea0
 code0479        1, 2, 16
 call            @Func_2ed6
 dialogtxt       "What were you thinking?"
-dialogtxt       "Bostaph's workshop is nearby."
+dialogtxt       "Bostaph's Workshop is nearby."
 dialogtxt       "Don't space out here...!"
 code0309        
 code0479        1, 2, 17

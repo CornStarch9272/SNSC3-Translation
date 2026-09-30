@@ -279,7 +279,7 @@ code0479        1, 0, 12
 code0479        0, 0, 16
 dialogtxt       "Causing a pointless conflict"
 dialogtxt       "will only stain the reputation"
-dialogtxt       "of Bostaph's workshop."
+dialogtxt       "of Bostaph's Workshop."
 code0309        
 call            @Func_213a
 call            @Func_2098

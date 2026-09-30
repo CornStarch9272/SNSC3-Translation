@@ -64,7 +64,7 @@ dialogtxt       "It's fine, don't worry about it."
 code0309        
 code0479        0, 0, 13
 dialogtxt       "That's nothing compared to what I"
-dialogtxt       "get at Bostaph's workshop."
+dialogtxt       "get at Bostaph's Workshop."
 goto            @Label_03da
 
 @Cond_0348:
@@ -73,7 +73,7 @@ dialogtxt       "It's fine, don't worry about it."
 code0309        
 code0479        0, 0, 13
 dialogtxt       "That's nothing compared to what I"
-dialogtxt       "get at Bostaph's workshop."
+dialogtxt       "get at Bostaph's Workshop."
 goto            @Label_03da
 
 @Label_03da:

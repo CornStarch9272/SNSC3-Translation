@@ -84,7 +84,7 @@ code047d        0, 116
 call            @Func_1dc0
 call            @Func_1ce8
 dialogtxt       "Oh dear. Aren't you that cute"
-dialogtxt       "boy from Bostaph's workshop?"
+dialogtxt       "boy from Bostaph's Workshop?"
 code047b        
 code0309        
 call            @Func_1e16

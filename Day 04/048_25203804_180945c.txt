@@ -186,12 +186,12 @@ call            @Func_1250
 call            @Func_1196
 jumpz           @Cond_07d8, ($b002 == 0)
 dialogtxt       "That outfit... You must be"
-dialogtxt       "from Bostaph's workshop."
+dialogtxt       "from Bostaph's Workshop."
 goto            @Label_0810
 
 @Cond_07d8:
 dialogtxt       "That outfit... You must be"
-dialogtxt       "from Bostaph's workshop."
+dialogtxt       "from Bostaph's Workshop."
 goto            @Label_0810
 
 @Label_0810:
