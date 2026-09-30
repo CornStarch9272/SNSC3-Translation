@@ -407,7 +407,7 @@ goto            @Label_127c
 @Choice_115a:
 code047e        0, 1
 dialogtxt       "I'll teach you how to raise"
-dialogtxt       "your smithing rank."
+dialogtxt       "your crafting rank."
 code0309        
 dialogtxt       "When you do anything besides"
 dialogtxt       "of repairing, you'll gain"

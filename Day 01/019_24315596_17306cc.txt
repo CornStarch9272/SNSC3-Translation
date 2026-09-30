@@ -380,7 +380,7 @@ goto            @Label_1174
 
 @Choice_107e:
 code047e        0, 1
-dialogtxt       "Crafting ranks are the proof"
+dialogtxt       "crafting ranks are the proof"
 dialogtxt       "of how much you've mastered"
 dialogtxt       "each weapon type."
 code0309        

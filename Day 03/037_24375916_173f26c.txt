@@ -478,7 +478,7 @@ goto            @Label_1706
 code047e        0, 1
 dialogtxt       "Alright, I'll give you some"
 dialogtxt       "pointers about increasing your"
-dialogtxt       "smithing rank."
+dialogtxt       "crafting rank."
 code0309        
 dialogtxt       "Crafting experience is important, but"
 dialogtxt       "you won't know if how much you'll"
