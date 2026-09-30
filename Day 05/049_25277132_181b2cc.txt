@@ -80,7 +80,7 @@ call            @Func_0c44
 code047b        
 code0301        8, 7
 code047e        1, 1
-dialogtxt       "Jeez... And just when the other"
+dialogtxt       "Geez... And just when the other"
 dialogtxt       "girl finally quieted down..."
 code0309        
 dialogtxt       "I'm only saying this once!"
@@ -125,7 +125,7 @@ dialogtxt       "Maaan... What's going on here?"
 goto            @Label_0610
 
 @Cond_05ee:
-dialogtxt       "Jeez... What's going on here?"
+dialogtxt       "Geez... What's going on here?"
 goto            @Label_0610
 
 @Label_0610:

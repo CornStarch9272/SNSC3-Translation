@@ -565,7 +565,7 @@ goto            @Cond_13e0
 
 @Cond_13e0:
 jumpz           @Cond_142c, ($b003 == 2)
-dialogtxt       "Jeez, couldn't you have been"
+dialogtxt       "Geez, couldn't you have been"
 dialogtxt       "at least a little more careful?!"
 goto            @Cond_142c
 

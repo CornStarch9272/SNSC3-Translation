@@ -86,12 +86,12 @@ call            @Func_0c2c
 call            @Func_0b54
 jumpz           @Cond_03b2, ($b002 == 0)
 dialogtxt       "Just wait a bit."
-dialogtxt       "Jeez..."
+dialogtxt       "Geez..."
 goto            @Label_03de
 
 @Cond_03b2:
 dialogtxt       "Wait a minute... Hey!"
-dialogtxt       "Jeez...!"
+dialogtxt       "Geez...!"
 goto            @Label_03de
 
 @Label_03de:

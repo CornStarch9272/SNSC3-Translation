@@ -76,7 +76,7 @@ code0309
 call            @Func_1042
 code0479        1, 1, 12
 call            @Func_1078
-dialogtxt       "Jeez!"
+dialogtxt       "Geez!"
 dialogtxt       "Stop getting so embarrassed!"
 dialogtxt       "You're happy about it, right?"
 code0309        

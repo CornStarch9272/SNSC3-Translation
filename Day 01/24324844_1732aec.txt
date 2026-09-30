@@ -1518,7 +1518,7 @@ code0309
 call            @Func_4cec
 code0479        0, 1, 17
 call            @Func_4c4a
-dialogtxt       "Jeez, come on!"
+dialogtxt       "Geez, come on!"
 goto            @Label_462e
 
 @Label_462e:

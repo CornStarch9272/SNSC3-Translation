@@ -404,7 +404,7 @@ code040b
 code0301        8, 7
 code047d        0, 120
 code047e        0, 1
-dialogtxt       "Jeez, we're the ones"
+dialogtxt       "Geez, we're the ones"
 dialogtxt       "keeping the town safe."
 code0309        
 dialogtxt       "You'd think we'd at least"

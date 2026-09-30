@@ -202,7 +202,7 @@ call            @Func_116c
 code0479        1, 7, 15
 call            @Func_11a2
 dialogtxt       "You talk too much!"
-dialogtxt       "Jeez...!"
+dialogtxt       "Geez...!"
 code0309        
 call            @Func_1272
 call            @Func_11c0

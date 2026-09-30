@@ -595,7 +595,7 @@ code047b
 code0309        
 code0479        0, 5, 17
 dialogtxt       "Couldn't he tell it was broken!?"
-dialogtxt       "Jeez..."
+dialogtxt       "Geez..."
 goto            @Label_1abc
 
 @Label_1abc:

@@ -145,7 +145,7 @@ code0309
 call            @Func_1b86
 code0479        1, 4, 16
 call            @Func_1bbc
-dialogtxt       "Jeez, he must be hard to deal with..."
+dialogtxt       "Geez, he must be hard to deal with..."
 goto            @Cond_0706
 
 @Cond_0706:

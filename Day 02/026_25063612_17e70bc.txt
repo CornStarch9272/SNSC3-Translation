@@ -649,7 +649,7 @@ code0333        2, 30
 code0479        1, 2, 16
 call            @Func_3efa
 dialogtxt       "You're after revenge again?"
-dialogtxt       "Jeez..."
+dialogtxt       "Geez..."
 code0309        
 code0334        
 code046e        38, 256, 2

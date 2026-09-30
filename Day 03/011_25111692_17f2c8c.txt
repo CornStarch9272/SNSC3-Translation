@@ -95,7 +95,7 @@ goto            @Cond_0420
 
 @Cond_0420:
 jumpz           @Cond_04c2, ($b003 == 2)
-dialogtxt       "Jeez..."
+dialogtxt       "Geez..."
 dialogtxt       "It's like you're a different person"
 dialogtxt       "from the last time we fought."
 code047b        

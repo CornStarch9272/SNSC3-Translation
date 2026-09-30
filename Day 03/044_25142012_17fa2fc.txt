@@ -635,7 +635,7 @@ code0309
 call            @Func_1f40
 code0479        0, 2, 17
 call            @Func_1e9e
-dialogtxt       "Jeez! Fine!"
+dialogtxt       "Geez! Fine!"
 code0309        
 call            @Func_1fda
 call            @Func_1ebc

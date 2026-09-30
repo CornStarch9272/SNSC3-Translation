@@ -627,7 +627,7 @@ goto            @Choice_1860
 
 @Choice_1860:
 code047e        0, 1
-dialogtxt       "Jeez! You're just window shopping?"
+dialogtxt       "Geez! You're just window shopping?"
 dialogtxt       "What a cheapskate!"
 code0309        
 goto            @Label_1902

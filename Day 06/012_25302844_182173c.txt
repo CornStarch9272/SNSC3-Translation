@@ -341,7 +341,7 @@ dialogtxt       "Crap! I have to hurry!"
 goto            @Label_0e3c
 
 @Cond_0e1e:
-dialogtxt       "Jeez! I have to hurry!"
+dialogtxt       "Geez! I have to hurry!"
 goto            @Label_0e3c
 
 @Label_0e3c:

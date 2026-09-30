@@ -117,7 +117,7 @@ dialogtxt       "Let's just go!"
 goto            @Label_05c2
 
 @Cond_056e:
-dialogtxt       "Jeez..."
+dialogtxt       "Geez..."
 dialogtxt       "This is going nowhere!"
 code0309        
 code0479        0, 2, 15
@@ -266,7 +266,7 @@ dialogtxt       "Let's just go!"
 goto            @Label_0da0
 
 @Cond_0d4c:
-dialogtxt       "Jeez!"
+dialogtxt       "Geez!"
 dialogtxt       "We're getting nowhere!"
 code0309        
 code0479        0, 2, 14
@@ -413,7 +413,7 @@ dialogtxt       "Let's just go!"
 goto            @Label_1522
 
 @Cond_14ce:
-dialogtxt       "Jeez!"
+dialogtxt       "Geez!"
 dialogtxt       "We're getting nowhere!"
 code0309        
 code0479        0, 2, 15
@@ -514,7 +514,7 @@ code0309
 call            @Func_245c
 code0479        0, 4, 12
 call            @Func_23ba
-dialogtxt       "Jeez..."
+dialogtxt       "Geez..."
 dialogtxt       "Don't get so angry over it."
 code0309        
 call            @Func_23f0

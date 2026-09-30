@@ -248,7 +248,7 @@ call            @Func_2464
 code0479        0, 4, 12
 call            @Func_23c2
 jumpz           @Cond_0a2c, ($b002 == 0)
-dialogtxt       "Jeez..."
+dialogtxt       "Geez..."
 dialogtxt       "It's too late for that."
 dialogtxt       "\"Bro\" is fine."
 code0309        
@@ -259,7 +259,7 @@ dialogtxt       "invincible?"
 goto            @Label_0aac
 
 @Cond_0a2c:
-dialogtxt       "Jeez..."
+dialogtxt       "Geez..."
 dialogtxt       "It's too late for that."
 dialogtxt       "\"Bro\" is fine, isn't it?"
 code0309		

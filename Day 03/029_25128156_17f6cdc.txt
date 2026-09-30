@@ -36,7 +36,7 @@ code0309
 call            @Func_1e10
 call            @Func_1eaa
 call            @Func_1e46
-dialogtxt       "Jeez, what's wrong with this girl?"
+dialogtxt       "Geez, what's wrong with this girl?"
 code047b        
 code0309        
 call            @Func_1f16

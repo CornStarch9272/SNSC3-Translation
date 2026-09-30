@@ -197,7 +197,7 @@ code0479        0, 4, 16
 code047d        0, 132
 call            @Func_196c
 call            @Func_1868
-dialogtxt       "Jeez,"
+dialogtxt       "Geez,"
 dialogtxt       "she's going to get scolded if"
 dialogtxt       "she keeps doing whatever she wants."
 code047b        

@@ -125,7 +125,7 @@ code0479        1, 4, 12
 code047d        1, 110
 call            @Func_2ae0
 call            @Func_2a7c
-dialogtxt       "Jeez... So reckless."
+dialogtxt       "Geez... So reckless."
 code047b        
 code0309        
 call            @Func_2b4c

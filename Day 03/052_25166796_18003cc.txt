@@ -86,7 +86,7 @@ code0309
 call            @Func_10a4
 code0479        1, 4, 12
 call            @Func_10da
-dialogtxt       "Jeez..."
+dialogtxt       "Geez..."
 code0309        
 call            @Func_1110
 jumpz           @Cond_0572, ($b002 == 0)

@@ -9,7 +9,7 @@ code0479        1, 0, 16
 code047d        1, 0
 call            @Func_0d7c
 call            @Func_0c78
-dialogtxt       "Jeez, what was their deal?"
+dialogtxt       "Geez, what was their deal?"
 dialogtxt       "That attitude of theirs was"
 dialogtxt       "not rockin' at all..."
 code047b        
