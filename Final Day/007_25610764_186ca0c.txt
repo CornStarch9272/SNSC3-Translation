@@ -347,13 +347,13 @@ code0309
 call            @Func_259e
 code0479        1, 2, 16
 call            @Func_25d4
-dialogtxt       "But even I want"
+dialogtxt       "But I also want"
 dialogtxt       "to help Murno!"
 code0309        
 call            @Func_260a
 code0479        0, 2, 15
 call            @Func_2568
-dialogtxt       "No demos, no strikes, no revo, no evo!"
+dialogtxt       "No Johns!"
 code0309        
 call            @Func_259e
 code0479        1, 1, 14
