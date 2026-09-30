@@ -339,7 +339,7 @@ dialogtxt       "all by herself."
 code0309        
 code0479        0, 2, 14
 code0479        1, 0, 16
-dialogtxt       "Have you even though about how"
+dialogtxt       "Have you even thought about how"
 dialogtxt       "difficult that must have been!?"
 goto            @Label_1384
 
@@ -350,7 +350,7 @@ dialogtxt       "all by herself."
 code0309        
 code0479        0, 2, 14
 code0479        1, 0, 16
-dialogtxt       "Have you even though about how"
+dialogtxt       "Have you even thought about how"
 dialogtxt       "difficult that must have been!?"
 goto            @Label_1384
 
