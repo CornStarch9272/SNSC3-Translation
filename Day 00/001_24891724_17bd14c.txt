@@ -6,13 +6,11 @@ code047d        0, 0
 call            @Func_3a32
 call            @Func_395a
 jumpz           @Cond_0076, ($b002 == 0)
-dialogtxt       "Yes!"
-dialogtxt       "How about that, V.E!"
+dialogtxt       "Yes! How's that, V.E?"
 goto            @Label_009a
 
 @Cond_0076:
-dialogtxt       "Yay!"
-dialogtxt       "I won, V.E!"
+dialogtxt       "Yay! I won!"
 goto            @Label_009a
 
 @Label_009a:
@@ -188,8 +186,7 @@ code031a        5
 code0301        8, 0
 code047d        0, 108
 code047e        0, 1
-dialogtxt       "Bostaph!"
-dialogtxt       "What's the meaning of this?"
+dialogtxt       "Bostaph! What's the meaning of this?"
 code0309        
 code047e        0, 0
 code0302        0
@@ -218,9 +215,8 @@ code0304        0
 code0301        8, 0
 code047d        0, 106
 code047e        0, 1
-dialogtxt       "When I found him, it was already"
-dialogtxt       "too late."
-dialogtxt       "He asked me to give this to you..."
+dialogtxt       "When I found him, it was already too"
+dialogtxt       "late. He asked me to give this to you..."
 code0309        
 code047e        0, 0
 code0302        0
@@ -290,7 +286,7 @@ code031c        3, 1
 code031f        3
 code040d        3
 code031a        2
-dialogbig       255, 68, 1, 0, 4, "Killed Him!"
+dialogbig       255, 68, 1, 0, 4, "Killed him!"
 code030c        
 code031a        3
 code031b        3, -62, -16, 0, 1
@@ -357,8 +353,7 @@ code0479        0, 5, 16
 code047d        0, 0
 call            @Func_3a32
 call            @Func_395a
-dialogtxt       "Hngg..."
-dialogtxt       "Huh?"
+dialogtxt       "Hngg... Huh?"
 code047b        
 code0309        
 call            @Func_39ae
@@ -467,14 +462,12 @@ code0479        1, 2, 14
 call            @Func_3a5e
 call            @Func_395a
 jumpz           @Cond_187a, ($b002 == 0)
-dialogtxt       "... Ouch!"
-dialogtxt       "What was that for!?"
+dialogtxt       "... Ouch! What was that for?!"
 goto            @Label_18aa
 
 @Cond_187a:
-dialogtxt       "... Oww!"
-dialogtxt       "That's so mean!"
-dialogtxt       "Why'd you do that!?"
+dialogtxt       "... Oww! That's so mean!"
+dialogtxt       "Why'd you do that?!"
 goto            @Label_18aa
 
 @Label_18aa:
@@ -484,14 +477,13 @@ call            @Func_39ae
 call            @Func_39e4
 code0479        1, 2, 15
 jumpz           @Cond_1932, ($b002 == 0)
-dialogtxt       "\"V.E!?\""
-dialogtxt       "I've told you to call me Master!"
+dialogtxt       "\"V.E!?\" I told you to call me Master!"
 dialogtxt       "Master V.E!"
 goto            @Label_1988
 
 @Cond_1932:
 dialogtxt       "Who are you calling \"V.E!?\""
-dialogtxt       "I've told you to call me Master!"
+dialogtxt       "I told you to call me Master!"
 dialogtxt       "Master V.E!"
 goto            @Label_1988
 
@@ -501,13 +493,13 @@ call            @Func_3a1a
 call            @Func_3978
 code0479        0, 4, 14
 jumpz           @Cond_19f0, ($b002 == 0)
-dialogtxt       "Sorry, Master!"
-dialogtxt       "It was just a little mistake!"
+dialogtxt       "Sorry, Master! It was just a little"
+dialogtxt       "mistake!"
 goto            @Label_1a38
 
 @Cond_19f0:
 dialogtxt       "I'm sorry, V— Master!"
-dialogtxt       "But it was just a little mistake!"
+dialogtxt       "It was just a little mistake!"
 goto            @Label_1a38
 
 @Label_1a38:
@@ -517,7 +509,7 @@ call            @Func_39e4
 code0479        1, 2, 17
 dialogtxt       "Just \"a little mistake!?\""
 dialogtxt       "Do you still not see me as your"
-dialogtxt       "Master!?"
+dialogtxt       "Master?!"
 code0309        
 code0479        1, 4, 15
 dialogtxt       "Do you also think I'm incompetent"
@@ -527,11 +519,11 @@ call            @Func_3a1a
 call            @Func_3978
 code0479        0, 5, 17
 jumpz           @Cond_1b66, ($b002 == 0)
-dialogtxt       "I—I didn't mean it like that!"
+dialogtxt       "I-I didn't mean it like that!"
 goto            @Label_1b86
 
 @Cond_1b66:
-dialogtxt       "Th—That's not what I meant!"
+dialogtxt       "Th-That's not what I meant!"
 goto            @Label_1b86
 
 @Label_1b86:
@@ -539,9 +531,8 @@ code0309
 call            @Func_39ae
 call            @Func_39e4
 code0479        1, 4, 13
-dialogtxt       "That's what I thought!"
-dialogtxt       "I mean, after all, I am doing an"
-dialogtxt       "amazing job."
+dialogtxt       "That's what I thought! After all,"
+dialogtxt       "I am doing an amazing job."
 code0309        
 call            @Func_3a1a
 code043b        4
@@ -550,7 +541,7 @@ code0443        0, 16, 1
 code0443        0, 32, 1
 call            @Func_3978
 code0479        0, 1, 16
-dialogtxt       "R—Right!"
+dialogtxt       "R-Right!"
 code0309        
 call            @Func_39ae
 call            @Func_39e4
@@ -637,8 +628,7 @@ dialogtxt       "But the truth is, I can't forget"
 dialogtxt       "about you either..."
 code0309        
 code0479        1, 4, 15
-dialogtxt       "No!!!"
-dialogtxt       "There's no way I could ever"
+dialogtxt       "No!!! There's no way I could ever"
 dialogtxt       "forget you!"
 code0309        
 code0479        1, 0, 12
@@ -859,29 +849,28 @@ code047b
 code0309        
 code0479        0, 0, 12
 code0479        1, 0, 13
-dialogtxt       "You'll have to find the rest of the"
+dialogtxt       "You'll have to find the rest of them"
 dialogtxt       "yourself, though. I'm not gonna just"
-dialogtxt       "give you everything for free."
+dialogtxt       "give you everything for free!"
 code0309		
 call            @Func_3a1a
 call            @Func_3978
 code0479        0, 2, 12
 dialogtxt       "I know, I know!"
 dialogtxt       "Collecting materials is a part"
-dialogtxt       "of being a Craftknight too!"
+dialogtxt       "of being a Craftknight, too!"
 code0309        
 call            @Func_39ae
 call            @Func_39e4
 code0479        1, 0, 15
 dialogtxt       "Be careful. If something happened"
 dialogtxt       "to you, I have no clue how I'd"
-dialogtxt       "apologize to your parents."
+dialogtxt       "explain it to your parents."
 code0309        
 call            @Func_3a1a
 call            @Func_3978
 code0479        0, 1, 12
-dialogtxt       "I will!"
-dialogtxt       "I'll be off then!"
+dialogtxt       "I will! I'll be off then!"
 code0309        
 call            @Func_39ae
 call            @Func_39e4
