@@ -341,7 +341,7 @@ dialogtxt       "weapon with other items in order"
 dialogtxt       "to make it stronger."
 code0309        
 dialogtxt       "You can do it up to three times,"
-dialogtxt       "depending on your crafting rank."
+dialogtxt       "depending on your craft rank."
 dialogtxt       "So make sure to raise it."
 code0309        
 goto            @Label_1096
@@ -356,7 +356,7 @@ dialogtxt       "The Shapestone will retain some"
 dialogtxt       "of the weapon's original strength."
 code0309        
 dialogtxt       "How much depends on its experience,"
-dialogtxt       "as well as your crafting rank."
+dialogtxt       "as well as your craft rank."
 dialogtxt       "The higher, the better."
 code0309        
 goto            @Label_1096

@@ -381,11 +381,11 @@ dialogtxt       "the secret to making high quality"
 dialogtxt       "weapons."
 code0309        
 dialogtxt       "Normally, your weapon rank will not"
-dialogtxt       "exceed your crafting rank, and you have"
+dialogtxt       "exceed your craft rank, and you have"
 dialogtxt       "a low chance of making a great weapon."
 code0309        
 dialogtxt       "However, if you craft a weapon with a"
-dialogtxt       "rank lower than your crafting rank,"
+dialogtxt       "rank lower than your craft rank,"
 dialogtxt       "that chance increases."
 code0309        
 dialogtxt       "What's more, that chance will be"

@@ -412,7 +412,7 @@ setvar          $f1268, 1
 code0301        8, 7
 code047e        0, 1
 dialogtxt       "WHAAAT!? OMIIIIGOSH!!!"
-dialogtxt       "ALL your crafting ranks are higher"
+dialogtxt       "ALL your craft ranks are higher"
 dialogtxt       "than anyone else's! AMAZING! ◎"
 code0309        
 dialogtxt       "Here! This is for you, the"

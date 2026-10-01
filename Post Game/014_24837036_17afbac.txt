@@ -353,7 +353,7 @@ dialogtxt       "busy honing your skills, and all."
 code0309        
 dialogtxt       "Speaking of! Since"
 dialogtxt       "you're a skilled Craftknight, care"
-dialogtxt       "to show me your crafting rank?"
+dialogtxt       "to show me your craft rank?"
 code0309        
 code047e        0, 0
 choicetxt       @Choice_0f5c, "Sure."

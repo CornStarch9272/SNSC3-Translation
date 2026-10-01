@@ -454,7 +454,7 @@ dialogtxt       "Did you have any questions?"
 code0309        
 code047e        0, 0
 choicetxt       @Choice_14a4, "Teach me about crafting."
-choicetxt       @Choice_15b6, "Teach me about crafting ranks."
+choicetxt       @Choice_15b6, "Teach me about craft ranks."
 choicetxt       @Choice_16dc, "Nope, I'm good."
 choicewait      
 
@@ -478,7 +478,7 @@ goto            @Label_1706
 code047e        0, 1
 dialogtxt       "Alright, I'll give you some"
 dialogtxt       "pointers about increasing your"
-dialogtxt       "crafting rank."
+dialogtxt       "craft rank."
 code0309        
 dialogtxt       "Crafting experience is important, but"
 dialogtxt       "you won't know if how much you'll"
