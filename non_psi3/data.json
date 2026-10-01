@@ -35764,7 +35764,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "特殊な形はしているが立派な武器である\u0000\u0000",
-              "translation": "An elegant weapon in special form\u0000",
+              "translation": "Uniquely shaped, but a fine weapon\u0000",
               "type": "SJIS string"
             },
             "offset": 50,
@@ -39444,7 +39444,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "特殊な形はしているが立派な武器である\u0000\u0000",
-              "translation": "A fine weapon, unique in appearance\u0000",
+              "translation": "Uniquely shaped, but a fine weapon\u0000",
               "type": "SJIS string"
             },
             "offset": 50,
