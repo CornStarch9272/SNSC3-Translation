@@ -500,7 +500,7 @@ code0301        8, 7
 code047d        0, 122
 code047e        0, 1
 dialogtxt       "Red beans are simply the best."
-dialogtxt       "Can't get enough."
+dialogtxt       "Can't get enough!"
 code0309        
 code047e        0, 0
 code0302        7
@@ -514,8 +514,8 @@ dialogtxt       "You know, my mother is a peddler."
 dialogtxt       "We're trying to gain reputation"
 dialogtxt       "with Craftknights and blacksmiths."
 code0309        
-dialogtxt       "She thinks I'm out playing"
-dialogtxt       "around, but I'm earning money"
+dialogtxt       "She thinks I'm out playing around,"
+dialogtxt       "but I'm actually earning money"
 dialogtxt       "for our future."
 code0309        
 jumpz           @Cond_191a, ($f1245 == 0)
@@ -529,17 +529,17 @@ choicewait
 
 @Choice_1658:
 code047e        0, 1
-dialogtxt       "Okay so, if you add an"
-dialogtxt       "Electric Battery to a weapon,"
-dialogtxt       "it'll gain the move Thunder Shot."
+dialogtxt       "Okay, so! If you add a Storage Battery"
+dialogtxt       "to a weapon, it'll gain the move"
+dialogtxt       "Thunder Shot."
 code0309        
-dialogtxt       "Oh, but, depending on the weapon,"
-dialogtxt       "there are cases where the move won't"
-dialogtxt       "be added, so be careful."
+dialogtxt       "Oh, but depending on the weapon, there"
+dialogtxt       "are cases where it might not be added."
+dialogtxt       "So be careful!"
 code0309        
-dialogtxt       "And so, this time only,"
-dialogtxt       "I'll sell you an Electric Battery"
-dialogtxt       "for a mere 200 boam!"
+dialogtxt       "And hey! Just this once, I have a"
+dialogtxt       "Storage Battery for sale, for a"
+dialogtxt       "mere 200 boam!"
 code0309        
 dialogtxt       "Will you buy it?"
 code0309        
@@ -572,8 +572,7 @@ code0445        17, 5
 code0446        17
 code0301        8, 7
 code047e        0, 1
-dialogtxt       "Aww~"
-dialogtxt       "But you don't have the boam~"
+dialogtxt       "Aww~! But you don't have the boam!"
 code0309        
 goto            @Label_1972
 
@@ -581,9 +580,7 @@ goto            @Choice_18d0
 
 @Choice_18d0:
 code047e        0, 1
-dialogtxt       "Aww~"
-dialogtxt       "You won't buy it?"
-dialogtxt       "Cheapskate..."
+dialogtxt       "Aww~! You won't buy it? Cheapskate..."
 code0309        
 goto            @Label_1972
 
@@ -596,9 +593,8 @@ goto            @Choice_1922
 
 @Choice_1922:
 code047e        0, 1
-dialogtxt       "Aww~ You don't want to listen?"
-dialogtxt       "And I thought I finally had"
-dialogtxt       "a customer..."
+dialogtxt       "Aww~! You don't want to hear me out?"
+dialogtxt       "And I thought I finally had a customer..."
 code0309        
 @Label_1972:
 code047e        0, 0
@@ -609,4 +605,3 @@ code040b
 setvar          $bv031, 1
 code0006        3917
 code040b        
-
