@@ -8,6 +8,8 @@ v1.0.7.f
     Fixed typo when asking RUN-DOR about Velvoren. We thought he was misspeaking, but it was a bug with our script editor.
     Fixed typo when first talking to Tram.
     Fixed accidental full-width space when talking to Eliez about where Murno went.
+    Fixed typo when Tier finds you in the cave with Eliez.
+    Fixed player character misgendering Bostaph when first meeting him.
     Fixed accidental full-width space when talking to Gallahan during his quiz.
     Standardized name of "craft rank" and fixed associated typo.
     Standardized descriptions for the music-themed weapons.
