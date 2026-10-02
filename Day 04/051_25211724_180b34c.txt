@@ -36,13 +36,11 @@ call            @Func_1b08
 code0479        0, 0, 16
 call            @Func_1a04
 jumpz           @Cond_0230, ($b002 == 0)
-dialogtxt       "Oh, Tier."
-dialogtxt       "How'd you know we were here?"
+dialogtxt       "Oh, Tier. How'd you know we were here?"
 goto            @Label_025c
 
 @Cond_0230:
-dialogtxt       "Oh, Tier."
-dialogtxt       "How'd you know we were here?"
+dialogtxt       "Oh, Tier. How'd you know we were here?"
 goto            @Label_025c
 
 @Label_025c:
@@ -70,9 +68,9 @@ code0309
 call            @Func_1a58
 code0479        1, 2, 12
 call            @Func_1a8e
-dialogtxt       "Hi, I'm Tier!"
-dialogtxt       "I'm currently dating [NAME 2]."
-dialogtxt       "Actually, we're already engaged!"
+dialogtxt       "Hi, I'm Tier! I'm currently dating"
+dialogtxt       "[NAME 2]. Actually, we're"
+dialogtxt       "already engaged!"
 code0309        
 call            @Func_1b32
 call            @Func_1ac4
@@ -106,8 +104,7 @@ code0309
 call            @Func_1a58
 code0479        1, 0, 12
 call            @Func_1a8e
-dialogtxt       "Hi, I'm Tier."
-dialogtxt       "[NAME 2] and I will be"
+dialogtxt       "Hi, I'm Tier. [NAME 2] and I will be"
 dialogtxt       "working together in the future."
 code0309        
 call            @Func_1b32
@@ -127,14 +124,12 @@ code0309
 call            @Func_1a58
 code0479        1, 2, 16
 call            @Func_1a8e
-dialogtxt       "Moving on!"
-dialogtxt       "You're terrible, you know!"
+dialogtxt       "Moving on! You're terrible, you know!"
 dialogtxt       "Leaving me behind like that!"
 code0309        
 code0479        1, 4, 16
-dialogtxt       "Ianna lectured me all day,"
-dialogtxt       "and I didn't get a single boam"
-dialogtxt       "out of it."
+dialogtxt       "Ianna lectured me all day, and I didn't"
+dialogtxt       "get a single boam out of it."
 code0309        
 code0479        1, 1, 17
 dialogtxt       "What rotten luck!"
@@ -143,8 +138,8 @@ call            @Func_1ac4
 code0479        0, 0, 16
 call            @Func_1a22
 jumpz           @Cond_072a, ($b002 == 0)
-dialogtxt       "Sorry I didn't let you know."
-dialogtxt       "Bro told me I should just go."
+dialogtxt       "Sorry I didn't let you know. Bro told me"
+dialogtxt       "I should just go."
 goto            @Label_0764
 
 @Cond_072a:
@@ -236,7 +231,7 @@ code0309
 call            @Func_1a58
 code0479        1, 0, 14
 call            @Func_1a8e
-dialogtxt       "What are you up?"
+dialogtxt       "What are you up to?"
 code0309        
 call            @Func_1ac4
 code0479        0, 2, 16
