@@ -50,8 +50,8 @@ code0309
 call            @Func_3480
 code0479        1, 0, 16
 call            @Func_34b6
-dialogtxt       "That's true."
-dialogtxt       "Anise is it's Summoner after all."
+dialogtxt       "That's true. Anise is its Summoner,"
+dialogtxt       "after all."
 code0309        
 call            @Func_3586
 call            @Func_34d4

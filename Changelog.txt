@@ -1,4 +1,9 @@
 v1.0.7.f
+    Standardized name of "craft rank" and fixed associated typo.
+    Standardized descriptions for the music-themed weapons.
+    Corrected "Irwinite Crystal" to "Elvinite Crystal," now referencing the correct musician (Elvin Bishop).
+    Some minor text wrap/dialogue edits.
+    ---
     Fixed typo in opening scene (whoops...).
     Fixed Rufeel claiming to be "more stronger".
     Fixed Chief using inconsistent pronouns for Rufeel.
@@ -11,10 +16,7 @@ v1.0.7.f
     Fixed typo when Tier finds you in the cave with Eliez.
     Fixed player character misgendering Bostaph when first meeting him.
     Fixed accidental full-width space when talking to Gallahan during his quiz.
-    Standardized name of "craft rank" and fixed associated typo.
-    Standardized descriptions for the music-themed weapons.
-    Corrected "Irwinite Crystal" to "Elvinite Crystal," now referencing the correct musician (Elvin Bishop).
-    Some minor text wrap/dialogue edits.
+    Fixed apostrophe error after first encountering Magdrad.
 
 v1.0.6.f
     Fix hard lock in Day 3 night-time cutscene.
