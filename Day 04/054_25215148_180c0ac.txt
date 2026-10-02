@@ -391,8 +391,7 @@ goto            @Label_0f94
 
 @Cond_0ec6:
 code0479        1, 0, 12
-dialogtxt       "The other girl was"
-dialogtxt       "much cuter anyway."
+dialogtxt       "The other girl was much cuter anyway."
 code0309        
 call            @Func_39f4
 call            @Func_3986
@@ -403,8 +402,7 @@ code0479        0, 5, 17
 code047d        0, 0
 call            @Func_399e
 call            @Func_38e4
-dialogtxt       "Huh?!"
-dialogtxt       "What did you just say to me?!"
+dialogtxt       "Huh?! What did you just say to me?!"
 code047b        
 code0309        
 call            @Func_3a20
@@ -490,8 +488,7 @@ code0309
 call            @Func_391a
 code0479        1, 2, 15
 call            @Func_3950
-dialogtxt       "Cut the crap!"
-dialogtxt       "Did you find her?"
+dialogtxt       "Cut the crap! Did you find her?"
 code0309        
 call            @Func_3a20
 call            @Func_396e
@@ -506,8 +503,7 @@ code0479        1, 0, 12
 code047d        1, 111
 call            @Func_39ca
 call            @Func_38c6
-dialogtxt       "Ah!"
-dialogtxt       "Is she...?"
+dialogtxt       "Ah! Is he...?"
 code047b        
 code0309        
 code031a        6
@@ -560,9 +556,8 @@ code0479        0, 0, 12
 code047d        0, 116
 call            @Func_399e
 call            @Func_38e4
-dialogtxt       "About that."
-dialogtxt       "This is the only kid we found"
-dialogtxt       "with a Summon Beast~!"
+dialogtxt       "About that. This is the only kid"
+dialogtxt       "we found with a Summon Beast~!"
 code047b        
 code0309        
 code0479        0, 4, 14
