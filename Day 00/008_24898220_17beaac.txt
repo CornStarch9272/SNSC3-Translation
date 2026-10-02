@@ -40,12 +40,11 @@ call            @Func_213a
 call            @Func_2098
 code0479        0, 2, 15
 jumpz           @Cond_01f8, ($b002 == 0)
-dialogtxt       "What did you say to me!?"
+dialogtxt       "What did you say to me?!"
 goto            @Label_0218
 
 @Cond_01f8:
-dialogtxt       "Hey!"
-dialogtxt       "What's your problem!?"
+dialogtxt       "Hey! What's your problem?!"
 goto            @Label_0218
 
 @Label_0218:
@@ -59,8 +58,8 @@ dialogtxt       "and get rid of her."
 code0309        
 code0479        0, 2, 14
 code0479        1, 0, 13
-dialogtxt       "Can't do it?"
-dialogtxt       "Why don't we do it for you then?"
+dialogtxt       "Can't do it? Why don't we do it for"
+dialogtxt       "you, then?"
 code0309        
 call            @Func_21a8
 call            @Func_213a
@@ -69,27 +68,26 @@ code0479        0, 0, 14
 code047d        0, 120
 call            @Func_2152
 call            @Func_2098
-dialogtxt       "That's right!"
-dialogtxt       "It was one of those Strays that"
-dialogtxt       "seriously injured our Master!"
+dialogtxt       "That's right! One of those Strays"
+dialogtxt       "seriously hurt our master, you know!"
 code0309        
-dialogtxt       "We can't just leave it be!"
+dialogtxt       "We can't just leave them be!"
 dialogtxt       "Where was it summoned from?"
 dialogtxt       "Was it Loreilal?"
 code0309        
 call            @Func_20ce
 call            @Func_2104
 code0479        1, 4, 13
-dialogtxt       "That girl, a mechanoid soldier?"
-dialogtxt       "No way, you idiot."
-dialogtxt       "Isn't she an Oni from Silturn?"
+dialogtxt       "That girl, a mechanoid soldier? No way,"
+dialogtxt       "you idiot. Isn't she an Oni, from"
+dialogtxt       "Silturn?"
 code0309        
 call            @Func_213a
 call            @Func_2098
 code0479        0, 0, 13
-dialogtxt       "Totally wrong!"
-dialogtxt       "Not a demon from Sapureth,"
-dialogtxt       "or a beast from Maetropa either..."
+dialogtxt       "Totally wrong! And there's no way it's"
+dialogtxt       "a demon from Sapureth, or a beast from"
+dialogtxt       "Maetropa, either..."
 code0309        
 call            @Func_20ce
 call            @Func_2104
@@ -106,13 +104,11 @@ code047d        0, 0
 call            @Func_2152
 call            @Func_2098
 jumpz           @Cond_057a, ($b002 == 0)
-dialogtxt       "Hey!"
-dialogtxt       "What's your problem?"
+dialogtxt       "Hey! What's your problem?"
 goto            @Label_05ac
 
 @Cond_057a:
-dialogtxt       "You guys..."
-dialogtxt       "Knock it off!"
+dialogtxt       "You guys...! Knock it off!"
 goto            @Label_05ac
 
 @Label_05ac:
@@ -144,13 +140,12 @@ call            @Func_2152
 call            @Func_207a
 code0479        0, 2, 15
 jumpz           @Cond_073e, ($b002 == 0)
-dialogtxt       "What'd you just call me!?"
+dialogtxt       "What'd you just call me?!"
 goto            @Label_075e
 
 @Cond_073e:
-dialogtxt       "That's it!"
-dialogtxt       "Now you're really"
-dialogtxt       "getting on my nerves!"
+dialogtxt       "That's it! Now you're really getting"
+dialogtxt       "on my nerves!"
 goto            @Label_075e
 
 @Label_075e:
@@ -214,8 +209,8 @@ code0479        1, 0, 12
 code047d        1, 110
 call            @Func_2168
 call            @Func_20e6
-dialogtxt       "Did you not hear me?"
-dialogtxt       "You're in the way. Step aside."
+dialogtxt       "Did you not hear me? You're in the"
+dialogtxt       "way. Step aside."
 code047b        
 code0309        
 call            @Func_213a
@@ -225,24 +220,23 @@ code0479        0, 0, 14
 code047d        0, 120
 call            @Func_2152
 call            @Func_2098
-dialogtxt       "What're you talking about?"
-dialogtxt       "Don't you have a bone to pick "
-dialogtxt       "with them, too?"
+dialogtxt       "What're you talking about? Don't you"
+dialogtxt       "have a bone to pick with them, too?"
 code0309        
 code0479        0, 0, 13
-dialogtxt       "They're working for the Stray that"
-dialogtxt       "seriously injured our master."
-dialogtxt       "Don't you wanna beat 'em up?"
+dialogtxt       "They're working for a Stray! Just like"
+dialogtxt       "the one that wounded our master. C'mon,"
+dialogtxt       "don't you wanna beat 'em up?"
 code0309		
 call            @Func_20ce
 call            @Func_2104
 code0479        1, 0, 16
-dialogtxt       "Is that so..."
-code0309        
+dialogtxt       "Is that so...?"
+code0309	
 code0479        1, 2, 12
-dialogtxt       "Certainly, a person like that"
-dialogtxt       "cannot be forgiven."
-dialogtxt       "It would be my pleasure..."
+dialogtxt       "Certainly, a person like that cannot"
+dialogtxt       "be forgiven. It would be my pleasure"
+dialogtxt       "to handle it."
 code0309        
 call            @Func_21a8
 call            @Func_213a
@@ -257,7 +251,7 @@ dialogtxt       "Hey!"
 goto            @Label_0c8e
 
 @Cond_0c7a:
-dialogtxt       "You too!?"
+dialogtxt       "You too?!"
 goto            @Label_0c8e
 
 @Label_0c8e:
@@ -271,15 +265,15 @@ code047d        0, 120
 call            @Func_2152
 code0479        1, 0, 16
 call            @Func_2104
-dialogtxt       "However, I'll refrain from"
-dialogtxt       "making a scene."
+dialogtxt       "However, I'll refrain from making"
+dialogtxt       "a scene."
 code047b        
 code0309        
 code0479        1, 0, 12
 code0479        0, 0, 16
-dialogtxt       "Causing a pointless conflict"
-dialogtxt       "will only stain the reputation"
-dialogtxt       "of Bostaph's Workshop."
+dialogtxt       "Causing a pointless conflict will only"
+dialogtxt       "stain the reputation of Bostaph's"
+dialogtxt       "Workshop."
 code0309        
 call            @Func_213a
 call            @Func_2098
@@ -295,8 +289,7 @@ code0309
 call            @Func_213a
 call            @Func_2098
 code0479        0, 0, 16
-dialogtxt       "Tch!"
-dialogtxt       "Whatever you say."
+dialogtxt       "Tch! Fine."
 code0309        
 call            @Func_21d4
 call            @Func_20b6
@@ -339,15 +332,14 @@ code047d        0, 0
 code0479        1, 2, 14
 call            @Func_217e
 call            @Func_20e6
-dialogtxt       "Could you hurry up and leave?"
-dialogtxt       "I told you already."
-dialogtxt       "You're in the way."
+dialogtxt       "Could you hurry up and leave? I told"
+dialogtxt       "you already. You're in the way."
 code047b        
 code0309        
 call            @Func_213a
 call            @Func_2098
 code0479        0, 2, 14
-dialogtxt       "Why don't you MAKE me leave?"
+dialogtxt       "Why don't you make me?"
 goto            @Label_116a
 
 @Label_116a:
@@ -390,7 +382,7 @@ code0479        0, 5, 17
 code047d        0, 0
 call            @Func_2152
 call            @Func_207a
-dialogtxt       "What is it now!?"
+dialogtxt       "What is it now?!"
 goto            @Label_13fc
 
 @Label_13fc:
@@ -410,15 +402,14 @@ code0309
 call            @Func_213a
 call            @Func_2098
 code0479        0, 0, 14
-dialogtxt       "You shouldn't be out here!"
-dialogtxt       "You're supposed to be resting..."
-dialogtxt       "You aren't feeling well, right?"
+dialogtxt       "You shouldn't be out here! You're"
+dialogtxt       "supposed to be resting... You aren't"
+dialogtxt       "feeling good, right?"
 code0309        
 call            @Func_20ce
 call            @Func_2104
 code0479        1, 0, 12
-dialogtxt       "It's all right."
-dialogtxt       "I've rested enough."
+dialogtxt       "It's all right. I've rested enough."
 code0309        
 call            @Func_21a8
 call            @Func_213a
@@ -437,15 +428,14 @@ code047d        0, 0
 call            @Func_2152
 call            @Func_2098
 jumpz           @Cond_15ca, ($b002 == 0)
-dialogtxt       "Huh?"
-dialogtxt       "So that gloomy look on your face is "
-dialogtxt       "because you're not feeling well, huh?"
+dialogtxt       "Huh? So that gloomy look on your face"
+dialogtxt       "is  because you're not feeling well, huh?"
 goto            @Label_1616
 
 @Cond_15ca:
-dialogtxt       "So you mean..."
-dialogtxt       "You're making that gloooomy face"
-dialogtxt       "because you're not feeling well, huh?"
+dialogtxt       "So you mean... You're making that"
+dialogtxt       "gloooomy face because you're not"
+dialogtxt       "feeling well?"
 goto            @Label_1616
 
 @Label_1616:
@@ -460,15 +450,15 @@ code0479        1, 2, 14
 code047d        1, 131
 call            @Func_2168
 call            @Func_2104
-dialogtxt       "What was that!?"
+dialogtxt       "What was that?!"
 dialogtxt       "... Wait, aren't you that Stray's"
 dialogtxt       "apprentice!?"
 code047b        
 code0309        
 code0479        1, 2, 15
-dialogtxt       "What right do you have to"
-dialogtxt       "insult Lemmy like that?"
-dialogtxt       "You wanna taste my fist!?"
+dialogtxt       "What right do you have to insult"
+dialogtxt       "Lemmy like that? You wanna taste"
+dialogtxt       "my fist?!"
 code0309        
 call            @Func_213a
 call            @Func_2098
@@ -494,8 +484,7 @@ code0479        1, 4, 12
 code047d        1, 110
 call            @Func_2168
 call            @Func_20e6
-dialogtxt       "Sigh..."
-dialogtxt       "Enough already."
+dialogtxt       "Sigh... Enough already."
 code047b        
 code0309        
 call            @Func_21be
@@ -513,8 +502,7 @@ code047d        1, 131
 call            @Func_2168
 call            @Func_20e6
 code0479        1, 5, 12
-dialogtxt       "Aahh!"
-dialogtxt       "Lemmyyyyy, wait up!!!"
+dialogtxt       "Aahh! Lemmyyyyy, wait up!!!"
 code047b        
 code0309        
 call            @Func_21be
@@ -539,23 +527,19 @@ code0479        0, 2, 14
 call            @Func_2152
 call            @Func_207a
 jumpz           @Cond_1a64, ($b002 == 0)
-dialogtxt       "What was wrong with them!?"
-dialogtxt       "Geez!"
+dialogtxt       "What's wrong with them?! Geez!"
 code0309        
 code0479        0, 2, 15
-dialogtxt       "Ahh, whatever!"
-dialogtxt       "More importantly, I need to"
-dialogtxt       "go back home and make a weapon!"
+dialogtxt       "Ahh, whatever! More importantly, I need"
+dialogtxt       "to go back home and make a weapon!"
 goto            @Label_1ada
 
 @Cond_1a64:
-dialogtxt       "What's their problem!?"
-dialogtxt       "Ugh!"
+dialogtxt       "What's their problem? Ugh!"
 code0309        
 code0479        0, 2, 15
-dialogtxt       "Ahh, whatever!"
-dialogtxt       "More importantly, I need to"
-dialogtxt       "go back home and make a weapon!"
+dialogtxt       "Ahh, whatever! More importantly, I need"
+dialogtxt       "to go back home and make a weapon!"
 goto            @Label_1ada
 
 @Label_1ada:
