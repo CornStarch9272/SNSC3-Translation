@@ -355,8 +355,8 @@ call            @Func_1b24
 code0479        1, 0, 16
 call            @Func_1b5a
 dialogtxt       "Rumors claim that it can control any"
-dialogtxt       "Summon Beast. They say claim it can"
-dialogtxt       "summon a powerful Beast on its own..."
+dialogtxt       "Summon Beast. They say it can summon"
+dialogtxt       "a powerful Beast on its own..."
 code0309		
 code0479        1, 4, 14
 dialogtxt       "If that's really true... Well."
