@@ -140,8 +140,8 @@ setvar          $f0133, 1
 call            @Func_0f00
 code0479        1, 0, 12
 call            @Func_0f36
-dialogtxt       "Correct. It seems　you know"
-dialogtxt       "quite a bit about weapons."
+dialogtxt       "Correct. It seems you know quite a"
+dialogtxt       "bit about weapons."
 code0309        
 goto            @Label_0642
 
