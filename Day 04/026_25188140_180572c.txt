@@ -61,8 +61,7 @@ code0309
 call            @Func_0f42
 call            @Func_0f5a
 call            @Func_0ea0
-dialogtxt       "Alright!"
-dialogtxt       "I'll make sure we get paid for"
+dialogtxt       "Alright! I'll make sure we get paid for"
 dialogtxt       "taking care of those Strays!"
 code047b        
 code0309        
@@ -107,13 +106,13 @@ code047d        0, 2
 code0479        1, 2, 14
 call            @Func_0f5a
 jumpz           @Cond_0534, ($b002 == 0)
-dialogtxt       "Hey, [NAME 1]."
-dialogtxt       "What kind of person is Velvoren?"
+dialogtxt       "Hey, [NAME 1]. What kind of person"
+dialogtxt       "is Velvoren?"
 goto            @Label_0568
 
 @Cond_0534:
-dialogtxt       "Hey, [NAME 1]."
-dialogtxt       "What kind of person is Velvoren?"
+dialogtxt       "Hey, [NAME 1]. What kind of person"
+dialogtxt       "is Velvoren?"
 goto            @Label_0568
 
 @Label_0568:
@@ -141,14 +140,14 @@ goto            @Label_0600
 @Label_0600:
 call            @Func_0ea0
 jumpz           @Cond_06ba, ($b003 == 0)
-dialogtxt       "Error: No Record Found For"
-dialogtxt       "Person Named \"Vel※oren.\""
+dialogtxt       "Error: No Record Found For Person"
+dialogtxt       "Named \"Velvoren.\""
 code0309        
 call            @Func_0ed6
 code0479        1, 2, 16
 call            @Func_0f0c
 dialogtxt       "Uhh... come again?"
-code0309        
+code0309	
 call            @Func_0f42
 code0479        0, 0, 12
 call            @Func_0ea0
@@ -157,8 +156,7 @@ goto            @Cond_06ba
 
 @Cond_06ba:
 jumpz           @Cond_0702, ($b003 == 1)
-dialogtxt       "I don't know."
-dialogtxt       "I've never met him."
+dialogtxt       "I don't know. I've never met him."
 goto            @Cond_0702
 
 @Cond_0702:
@@ -178,8 +176,7 @@ goto            @Cond_0774
 
 @Cond_0774:
 jumpz           @Cond_085a, ($b003 == 3)
-dialogtxt       "I don't know either."
-dialogtxt       "I've never met him."
+dialogtxt       "I don't know either. I've never met him."
 code0309        
 call            @Func_0ed6
 code0479        1, 0, 16
