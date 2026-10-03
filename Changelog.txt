@@ -3,6 +3,7 @@ v1.0.7.f
     Standardized name of "craft rank" and fixed associated typo.
     Standardized descriptions for the music-themed weapons.
     Corrected "Irwinite Crystal" to "Elvinite Crystal," now referencing the correct musician (Elvin Bishop).
+    Corrected Bee Beat being described as "poisonous" when it's actually venomous.
     Some minor text wrap/dialogue edits.
     ---
     Fixed typo in opening scene (whoops...).
