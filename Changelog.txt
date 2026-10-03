@@ -9,7 +9,8 @@ v1.0.7.f
     Fixed typo in opening scene (whoops...).
     Fixed Rufeel claiming to be "more stronger".
     Fixed Chief using inconsistent pronouns for Rufeel.
-    Fixed typo in Peddler Mom dialogue.
+    Fixed typo in Peddler Mom dialogue about how repairing doesn't give you exp.
+    Fixed typo in Peddler Mom dialogue about how you don't know how much exp you'll get when you craft.
     Fixed misnamed item in Peddlerette "Storage Battery" dialogue.
     Fixed text overflow before first match with Tier.
     Fixed typo when asking RUN-DOR about Velvoren. We thought he was misspeaking, but it was a bug with our script editor.

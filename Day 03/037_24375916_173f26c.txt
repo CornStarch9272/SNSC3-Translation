@@ -481,8 +481,8 @@ dialogtxt       "pointers about increasing your"
 dialogtxt       "craft rank."
 code0309        
 dialogtxt       "Crafting experience is important, but"
-dialogtxt       "you won't know if how much you'll"
-dialogtxt       "gain until you actually make the weapon."
+dialogtxt       "you won't know how much you'll gain until"
+dialogtxt       "you actually make the weapon."
 code0309        
 dialogtxt       "If huge sparks start coming out,"
 dialogtxt       "that means your rank is about to"
