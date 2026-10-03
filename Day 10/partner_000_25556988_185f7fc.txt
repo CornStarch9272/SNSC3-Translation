@@ -812,7 +812,7 @@ call            @Func_3064
 code0479        0, 1, 15
 call            @Func_2fc2
 dialogbig       255, 116, 1, 0, 0, "I'm doing it!"
-code0309		
+code030c
 call            @Func_2ff8
 code0479        1, 2, 14
 call            @Func_302e
