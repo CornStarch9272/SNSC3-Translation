@@ -1,4 +1,5 @@
-v1.0.7.f
+v1.1.0.f
+    Fix hard lock in Day 10 partner route cutscene.
     Corrected mistake where Bostaph's Workshop grunts incorrectly claim VE hurt their master.
     Standardized name of "craft rank" and fixed associated typo.
     Standardized descriptions for the music-themed weapons.
@@ -21,6 +22,7 @@ v1.0.7.f
     Fixed typo when Velvoren explains the lore of Govan's Demon Stone.
     Fixed accidental full-width space when talking to Gallahan during his quiz.
     Fixed apostrophe error after first encountering Magdrad.
+    Fixed player saying "wouldn't won't" in Day 7.
 
 v1.0.6.f
     Fix hard lock in Day 3 night-time cutscene.

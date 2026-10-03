@@ -829,7 +829,7 @@ call            @Func_2ab0
 code0479        0, 2, 14
 call            @Func_2a0e
 dialogtxt       "N—Now you're freaking me out..."
-dialogtxt       "Bro wouldn't won't stick his"
+dialogtxt       "Bro wouldn't stick his"
 dialogtxt       "neck out for me either..."
 code0309        
 call            @Func_2b34
