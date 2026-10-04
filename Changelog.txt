@@ -6,6 +6,7 @@ v1.1.1.f
     Fixed Jade saying "when got orders for ya."
     Fixed Peddler saying "when combine a weapon."
     Fixed Pike saying "was't."
+    Fixed Jade saying "atually."
 
 v1.1.0.f
     Fix hard lock in Day 10 partner route cutscene.

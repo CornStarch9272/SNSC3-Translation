@@ -176,7 +176,7 @@ code0479        1, 0, 16
 call            @Func_2098
 call            @Func_2034
 dialogtxt       "Ah, that's enough, thank you."
-dialogtxt       "... Atually, could I ask"
+dialogtxt       "... Actually, could I ask"
 dialogtxt       "you for one more thing?"
 code047b        
 code0309        
