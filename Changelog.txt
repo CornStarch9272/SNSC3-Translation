@@ -2,6 +2,7 @@ v1.1.1.f
     Clarified guard saying "the other girl," referring to Murno.
     Some minor text wrap/dialogue edits.
     ---
+    Fixed merchant saying there's a town "that where."
     Fixed Rufeel saying Eliez is "you daughter."
     Fixed Jade saying "when got orders for ya."
     Fixed Peddler saying "when combine a weapon."
