@@ -80,8 +80,8 @@ call            @Func_0c44
 code047b        
 code0301        8, 7
 code047e        1, 1
-dialogtxt       "Geez... And just when the other"
-dialogtxt       "girl finally quieted down..."
+dialogtxt       "Geez... And just when the girl in the"
+dialogtxt       "other cell finally shut up..."
 code0309        
 dialogtxt       "I'm only saying this once!"
 dialogtxt       "You'll be questioned tomorrow."
@@ -93,14 +93,13 @@ code0479        0, 2, 15
 call            @Func_0cc8
 call            @Func_0c0e
 jumpz           @Cond_04de, ($b002 == 0)
-dialogtxt       "Other girl? Hey! Wait!"
-dialogtxt       "Do you mean...?!"
+dialogtxt       "There's a girl in the other cell?"
+dialogtxt       "Hey! Wait! Do you mean...?!"
 goto            @Label_0528
 
 @Cond_04de:
-dialogtxt       "Huh? What other girl?"
-dialogtxt       "Hey, wait a minute!"
-dialogtxt       "Do you mean...?!"
+dialogtxt       "Huh? There's a girl in another cell?"
+dialogtxt       "Hey, wait a minute! Do you mean...?!"
 goto            @Label_0528
 
 @Label_0528:

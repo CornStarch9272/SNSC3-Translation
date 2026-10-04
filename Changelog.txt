@@ -1,3 +1,9 @@
+v1.1.1.f
+    Clarified guard saying "the other girl," referring to Murno.
+    Some minor text wrap/dialogue edits.
+    ---
+    Fixed Rufeel saying Eliez is "you daughter."
+
 v1.1.0.f
     Fix hard lock in Day 10 partner route cutscene.
     Corrected mistake where Bostaph's Workshop grunts incorrectly claim VE hurt their master.
