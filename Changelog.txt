@@ -3,6 +3,7 @@ v1.1.1.f
     Some minor text wrap/dialogue edits.
     ---
     Fixed Rufeel saying Eliez is "you daughter."
+    Fixed Jade saying "when got orders for ya."
 
 v1.1.0.f
     Fix hard lock in Day 10 partner route cutscene.

@@ -182,7 +182,7 @@ code0479        0, 0, 12
 code0479        1, 0, 13
 call            @Func_1fc0
 dialogtxt       "Well, I gotta go. I'll let you"
-dialogtxt       "know when got somethin' for ya."
+dialogtxt       "know when I've got somethin' for ya."
 code0309        
 goto            @Label_073e
 
@@ -199,7 +199,7 @@ code0479        0, 0, 12
 code0479        1, 0, 13
 call            @Func_1fa2
 dialogtxt       "Well, I gotta go. I'll let you"
-dialogtxt       "know when got somethin' for ya."
+dialogtxt       "know when I've got somethin' for ya."
 code047b        
 code0309        
 call            @Func_2090
@@ -221,8 +221,8 @@ code047d        1, 131
 call            @Func_203a
 jumpz           @Cond_0b6c, ($bv017 == 0)
 call            @Func_1fa2
-dialogtxt       "Are you currently taking"
-dialogtxt       "weaponry orders?"
+dialogtxt       "Are you currently taking weapon"
+dialogtxt       "orders?"
 code047b        
 code0309        
 call            @Func_1ff6
@@ -269,8 +269,7 @@ code0309
 call            @Func_1f8a
 code0479        1, 0, 12
 call            @Func_1fc0
-dialogtxt       "Well, how about it?"
-dialogtxt       "Wanna take over my"
+dialogtxt       "Well, how about it? Wanna take over my"
 dialogtxt       "commission for me?"
 code0309        
 call            @Func_2090
@@ -282,9 +281,8 @@ code0479        0, 0, 12
 code0479        1, 0, 12
 call            @Func_203a
 call            @Func_1fa2
-dialogtxt       "The weapon details for order"
-dialogtxt       "are listed on this form."
-dialogtxt       "It's easy as pie!"
+dialogtxt       "The weapon details for order are listed"
+dialogtxt       "on this form. It's easy as pie!"
 code0309        
 call            @Func_2090
 call            @Func_1fde
@@ -297,8 +295,7 @@ goto            @Label_103a
 @Cond_0b6c:
 jumpz           @Cond_0c54, ($bv017 == 1)
 call            @Func_1fa2
-dialogtxt       "Well, how about it?"
-dialogtxt       "Wanna take over my"
+dialogtxt       "Well, how about it? Wanna take over my"
 dialogtxt       "commission for me?"
 code047b        
 code0309        
@@ -311,8 +308,8 @@ code0479        0, 0, 12
 code0479        1, 0, 12
 call            @Func_203a
 call            @Func_1fa2
-dialogtxt       "All the details are on the"
-dialogtxt       "order form. It's easy as pie!"
+dialogtxt       "The weapon details for order are listed"
+dialogtxt       "on this form. It's easy as pie!"
 code047b        
 code0309        
 call            @Func_2090
@@ -326,8 +323,8 @@ goto            @Label_103a
 @Cond_0c54:
 jumpz           @Cond_0c9a, ($bv017 == 3)
 call            @Func_1fa2
-dialogtxt       "Can you finish my weapon"
-dialogtxt       "commission for me?"
+dialogtxt       "Can you finish my weapon commission"
+dialogtxt       "for me?"
 code047b        
 code0309        
 call            @Func_2090
