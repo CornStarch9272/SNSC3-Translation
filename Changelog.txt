@@ -4,6 +4,7 @@ v1.1.1.f
     ---
     Fixed Rufeel saying Eliez is "you daughter."
     Fixed Jade saying "when got orders for ya."
+    Fixed Peddler saying "when combine a weapon."
 
 v1.1.0.f
     Fix hard lock in Day 10 partner route cutscene.

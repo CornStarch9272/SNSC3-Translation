@@ -336,7 +336,7 @@ choicewait
 
 @Choice_0e8c:
 code047e        0, 1
-dialogtxt       "Upgrading is when you combined a"
+dialogtxt       "Upgrading is when you combine a"
 dialogtxt       "weapon with other items in order"
 dialogtxt       "to make it stronger."
 code0309        
