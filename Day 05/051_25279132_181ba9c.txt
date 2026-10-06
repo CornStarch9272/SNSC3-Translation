@@ -306,7 +306,7 @@ dialogtxt       "even though it's been tough."
 code0309        
 code0479        0, 0, 13
 dialogtxt       "So I'll give it my all! So that"
-dialogtxt       "you don't have to suffer any more."
+dialogtxt       "you don't have to suffer anymore."
 code0309	
 code0479        0, 2, 12
 dialogtxt       "So you don't have to cry anymore..."
@@ -320,7 +320,7 @@ dialogtxt       "even though it's been tough."
 code0309        
 code0479        0, 0, 13
 dialogtxt       "So I'll give it my all! So that"
-dialogtxt       "you don't have to suffer any more."
+dialogtxt       "you don't have to suffer anymore."
 code0309        
 code0479        0, 2, 12
 dialogtxt       "So you don't have to cry anymore..."

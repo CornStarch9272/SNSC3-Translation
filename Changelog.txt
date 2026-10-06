@@ -14,6 +14,7 @@ Next Release
     Fixed guard saying "at at this statue."
     Fixed Lemmy saying "we'll hed back to town."
     Fixed Anise saying "this has nothing do with you."
+    Fixed player telling Murno "you don't have to suffer any more," which is grammatically correct but was bad in context.
     ---
     Thank you to rockstip for catching most of these typos.
 
