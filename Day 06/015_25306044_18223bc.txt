@@ -5,12 +5,12 @@ call            @Func_0720
 call            @Func_0648
 jumpz           @Cond_007e, ($b002 == 0)
 dialogtxt       "It's locked. Maybe I can break"
-dialogtxt       "it  with my hammer?"
+dialogtxt       "it with my hammer?"
 goto            @Label_00b4
 
 @Cond_007e:
 dialogtxt       "It's locked. Maybe I can break"
-dialogtxt       "it  with my hammer?"
+dialogtxt       "it with my hammer?"
 goto            @Label_00b4
 
 @Label_00b4:

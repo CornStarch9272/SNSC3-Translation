@@ -15,6 +15,7 @@ Next Release
     Fixed Lemmy saying "we'll hed back to town."
     Fixed Anise saying "this has nothing do with you."
     Fixed player telling Murno "you don't have to suffer any more," which is grammatically correct but was bad in context.
+    Fixed accidental double space when player character is considering whether to break a door.
     ---
     Thank you to rockstip for catching most of these typos.
 
