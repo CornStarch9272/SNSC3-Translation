@@ -13,6 +13,8 @@ Next Release
     Fixed Peddler saying "if it the material."
     Fixed guard saying "at at this statue."
     Fixed Lemmy saying "we'll hed back to town."
+    ---
+    Thank you to rockstip for catching most of these typos.
 
 v1.1.0.f
     Fix hard lock in Day 10 partner route cutscene.
@@ -39,6 +41,8 @@ v1.1.0.f
     Fixed accidental full-width space when talking to Gallahan during his quiz.
     Fixed apostrophe error after first encountering Magdrad.
     Fixed player saying "wouldn't won't" in Day 7.
+    ---
+    Thank you to testfilemew for helping us identify the correct musician for the Elvinite Crystal.
 
 v1.0.6.f
     Fix hard lock in Day 3 night-time cutscene.
