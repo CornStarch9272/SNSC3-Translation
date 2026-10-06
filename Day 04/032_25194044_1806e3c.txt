@@ -340,8 +340,8 @@ code0309
 call            @Func_277a
 code0479        0, 2, 14
 call            @Func_26d8
-dialogtxt       "I'll say this first: I am not a cat! I am a"
-dialogtxt       "tiger youkai, a Toramata!"
+dialogtxt       "I'll say this first: I am not a cat!"
+dialogtxt       "I am a tiger youkai, a Toramata!"
 code0309        
 call            @Func_270e
 code0479        1, 4, 16

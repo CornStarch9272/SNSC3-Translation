@@ -287,8 +287,8 @@ code0479        1, 0, 12
 code047d        1, 0
 call            @Func_2d06
 call            @Func_2ca2
-dialogtxt       "I don't really get it... But hey, we did it!"
-dialogtxt       "We managed to chase them off!"
+dialogtxt       "I don't really get it... But hey, we"
+dialogtxt       "did it! We managed to chase them off!"
 goto            @Label_0d84
 
 @Label_0d84:

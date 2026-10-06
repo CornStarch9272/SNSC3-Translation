@@ -1139,11 +1139,13 @@ call            @Func_392a
 code0479        0, 2, 12
 call            @Func_3888
 jumpz           @Cond_2f7c, ($b002 == 0)
-dialogtxt       "I will! Murno... I'm sure we'll meet again!"
+dialogtxt       "I will! Murno... I'm sure we'll"
+dialogtxt       "meet again!"
 goto            @Label_2fac
 
 @Cond_2f7c:
-dialogtxt       "I will! Murno... I'm sure we'll meet again!"
+dialogtxt       "I will! Murno... I'm sure we'll"
+dialogtxt       "meet again!"
 goto            @Label_2fac
 
 @Label_2fac:

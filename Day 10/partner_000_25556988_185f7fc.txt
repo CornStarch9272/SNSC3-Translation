@@ -278,7 +278,8 @@ code0309
 call            @Func_2ff8
 code0479        1, 0, 12
 call            @Func_302e
-dialogtxt       "Truly. To think I would end up like this..."
+dialogtxt       "Truly. To think I would end up"
+dialogtxt       "like this..."
 code0309        
 code0479        1, 4, 14
 dialogtxt       "If I hadn't lost to you, none of this"

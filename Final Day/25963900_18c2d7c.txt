@@ -16,7 +16,8 @@ code043c        2, 4
 code0479        0, 0, 16
 call            @Func_0f1e
 dialogtxt       "Seriously! And it put us in so much"
-dialogtxt       "danger, too... It's lucky we're still alive."
+dialogtxt       "danger, too... It's lucky we're still"
+dialogtxt       "alive."
 code0309        
 call            @Func_0f54
 code043c        0, 2

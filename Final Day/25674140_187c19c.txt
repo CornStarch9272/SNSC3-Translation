@@ -63,7 +63,7 @@ code0479        0, 0, 16
 call            @Func_2e46
 call            @Func_2dae
 jumpz           @Cond_084a, ($b003 == 0)
-dialogtxt       "Y—You Are..."
+dialogtxt       "Y-You Are..."
 dialogtxt       "Partner!"
 code047b        
 code0309        
@@ -104,7 +104,8 @@ code0309
 call            @Func_2d96
 code0479        1, 0, 12
 call            @Func_2dcc
-dialogtxt       "N—No... Command Center... Malfunctioning..."
+dialogtxt       "N-No... Command Center..."
+dialogtxt       "Malfunctioning..."
 code0309        
 code0479        1, 5, 12
 code0479        0, 2, 14

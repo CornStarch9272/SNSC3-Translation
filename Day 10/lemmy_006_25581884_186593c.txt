@@ -148,15 +148,15 @@ call            @Func_1fa4
 code0334        
 code0331        33, 256
 jumpz           @Cond_082e, ($b002 == 0)
-dialogtxt       "Ah... I'm sorry... Um, that's really heavy..."
-dialogtxt       "If you don't want to talk about it,"
-dialogtxt       "that's fine..."
+dialogtxt       "Ah... I'm sorry... Um, that's really"
+dialogtxt       "heavy... If you don't want to talk"
+dialogtxt       "about it, that's fine..."
 goto            @Label_0878
 
 @Cond_082e:
-dialogtxt       "Ah... I'm sorry... Um, that's really heavy..."
-dialogtxt       "If you don't want to talk about it,"
-dialogtxt       "that's fine..."
+dialogtxt       "Ah... I'm sorry... Um, that's really"
+dialogtxt       "heavy... If you don't want to talk"
+dialogtxt       "about it, that's fine..."
 goto            @Label_0878
 
 @Label_0878:
