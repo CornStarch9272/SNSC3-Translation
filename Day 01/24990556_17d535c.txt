@@ -289,8 +289,7 @@ goto            @Cond_0dfc
 @Cond_0dfc:
 jumpz           @Cond_14f0, ($b003 == 2)
 call            @Func_2084
-dialogtxt       "Tak..."
-dialogtxt       "Took you long enough."
+dialogtxt       "Tch... Took you long enough."
 code047b        
 code0309        
 call            @Func_20d8
@@ -502,7 +501,7 @@ dialogtxt       "then so be it."
 dialogtxt       "I've nothing more to say."
 code0309
 dialogtxt       "You may do as you please."
-code0309        
+code0309
 call            @Func_20d8
 code0479        0, 0, 14
 call            @Func_2036

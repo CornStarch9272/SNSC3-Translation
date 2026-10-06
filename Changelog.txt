@@ -3,6 +3,7 @@ Next Release
     Some minor text wrap/dialogue edits.
     Fixed crash caused by scrolling backwards in text on certain long lines.
     ---
+    Fixed Killfith calling you "Tak."
     Fixed merchant saying there's a town "that where."
     Fixed Rufeel saying Eliez is "you daughter."
     Fixed Jade saying "when got orders for ya."
