@@ -12,6 +12,7 @@ Next Release
     Fixed Jade saying "atually."
     Fixed Peddler saying "if it the material."
     Fixed guard saying "at at this statue."
+    Fixed Lemmy saying "we'll hed back to town."
 
 v1.1.0.f
     Fix hard lock in Day 10 partner route cutscene.
