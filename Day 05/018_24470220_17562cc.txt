@@ -360,7 +360,7 @@ code0309
 dialogtxt       "Some items are categorized specifically"
 dialogtxt       "as upgrade materials."
 code0309        
-dialogtxt       "But if it the material isn't compatible,"
+dialogtxt       "But if the material isn't compatible,"
 dialogtxt       "nothing will happen! So be careful."
 code0309        
 goto            @Label_11ce

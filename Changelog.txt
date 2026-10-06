@@ -10,6 +10,7 @@ Next Release
     Fixed Peddler saying "when combine a weapon."
     Fixed Pike saying "was't."
     Fixed Jade saying "atually."
+    Fixed Peddler saying "if it the material."
 
 v1.1.0.f
     Fix hard lock in Day 10 partner route cutscene.
