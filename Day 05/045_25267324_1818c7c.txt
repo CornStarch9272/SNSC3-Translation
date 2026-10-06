@@ -407,7 +407,7 @@ code047b
 code0309        
 call            @Func_3aa0
 call            @Func_39fe
-dialogtxt       "This has nothing do with you."
+dialogtxt       "This has nothing to do with you."
 dialogtxt       "Stand back and watch, unless you"
 dialogtxt       "want to get hurt even more."
 code0309        
