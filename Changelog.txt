@@ -11,6 +11,7 @@ Next Release
     Fixed Pike saying "was't."
     Fixed Jade saying "atually."
     Fixed Peddler saying "if it the material."
+    Fixed guard saying "at at this statue."
 
 v1.1.0.f
     Fix hard lock in Day 10 partner route cutscene.
