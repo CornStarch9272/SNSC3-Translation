@@ -1,4 +1,4 @@
-v1.1.1.f
+Next Release
     Clarified guard saying "the other girl," referring to Murno.
     Some minor text wrap/dialogue edits.
     ---
