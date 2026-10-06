@@ -1078,13 +1078,11 @@ choicewait
 @Choice_2e72:
 code0479        0, 2, 12
 jumpz           @Cond_2eb2, ($b002 == 0)
-dialogtxt       "Yeah!"
-dialogtxt       "Of course!"
+dialogtxt       "Yeah! Of course I'll win!"
 goto            @Label_2ece
 
 @Cond_2eb2:
-dialogtxt       "Yeah!"
-dialogtxt       "Of course!"
+dialogtxt       "Yeah! Of course I'll win!"
 goto            @Label_2ece
 
 @Label_2ece:
@@ -1124,8 +1122,8 @@ code047d        1, 2
 call            @Func_3ba0
 call            @Func_3b3c
 jumpz           @Cond_3006, ($b003 == 0)
-dialogtxt       "As We Are Now,"
-dialogtxt       "We Are Fully Capable Of Victory."
+dialogtxt       "As We Are Now, We Are Fully Capable"
+dialogtxt       "Of Victory."
 goto            @Cond_3006
 
 @Cond_3006:
