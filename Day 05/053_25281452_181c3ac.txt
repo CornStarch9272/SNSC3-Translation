@@ -1127,7 +1127,7 @@ call            @Func_50b2
 code0479        0, 4, 13
 call            @Func_50ca
 call            @Func_5010
-dialogtxt       "Yes, it's me... I'm glad to see"
+dialogtxt       "Yes, it's me... I'm glad"
 dialogtxt       "that you are also safe..."
 code047b        
 code0309        

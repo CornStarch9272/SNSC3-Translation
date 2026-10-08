@@ -1,55 +1,21 @@
 Next Release
-    Clarified guard saying "the other girl," referring to Murno.
+    Add patch version number to start menu.
     Some minor text wrap/dialogue edits.
-    Fixed crash caused by scrolling backwards in text on certain long lines.
-    Fixed player saying "Yeah! Of course!" when asked if they'd lose to Jade.
-    ---
-    Fixed Killfith calling you "Tak."
-    Fixed merchant saying there's a town "that where."
-    Fixed Rufeel saying Eliez is "you daughter."
-    Fixed Jade saying "when got orders for ya."
-    Fixed Peddler saying "when combine a weapon."
-    Fixed Pike saying "was't."
-    Fixed Jade saying "atually."
-    Fixed Peddler saying "if it the material."
-    Fixed guard saying "at at this statue."
-    Fixed Lemmy saying "we'll hed back to town."
-    Fixed Anise saying "this has nothing do with you."
-    Fixed player telling Murno "you don't have to suffer any more," which is grammatically correct but was bad in context.
-    Fixed accidental double space when player character is considering whether to break a door.
+    Various typos fixed.
     ---
     Thank you to rockstip for catching most of these typos.
 
 v1.1.0.f
-    Fix hard lock in Day 10 partner route cutscene.
-    Corrected mistake where Bostaph's Workshop grunts incorrectly claim VE hurt their master.
-    Standardized name of "craft rank" and fixed associated typo.
+    Fix hardlock in Day 10 partner route cutscene.
     Standardized descriptions for the music-themed weapons.
     Corrected "Irwinite Crystal" to "Elvinite Crystal," now referencing the correct musician (Elvin Bishop).
-    Corrected Bee Beat being described as "poisonous" when it's actually venomous.
-    Some minor text wrap/dialogue edits.
-    ---
-    Fixed typo in opening scene (whoops...).
-    Fixed Rufeel claiming to be "more stronger".
-    Fixed Chief using inconsistent pronouns for Rufeel.
-    Fixed typo in Peddler Mom dialogue about how repairing doesn't give you exp.
-    Fixed typo in Peddler Mom dialogue about how you don't know how much exp you'll get when you craft.
-    Fixed misnamed item in Peddlerette "Storage Battery" dialogue.
-    Fixed text overflow before first match with Tier.
-    Fixed typo when asking RUN-DOR about Velvoren. We thought he was misspeaking, but it was a bug with our script editor.
-    Fixed typo when first talking to Tram.
-    Fixed accidental full-width space when talking to Eliez about where Murno went.
-    Fixed typo when Tier finds you in the cave with Eliez.
-    Fixed player character misgendering Bostaph when first meeting him.
-    Fixed typo when Velvoren explains the lore of Govan's Demon Stone.
-    Fixed accidental full-width space when talking to Gallahan during his quiz.
-    Fixed apostrophe error after first encountering Magdrad.
-    Fixed player saying "wouldn't won't" in Day 7.
+    Some minor text/dialogue edits.
+    Various typos fixed.
     ---
     Thank you to testfilemew for helping us identify the correct musician for the Elvinite Crystal.
 
 v1.0.6.f
-    Fix hard lock in Day 3 night-time cutscene.
+    Fix hardlock in Day 3 night-time cutscene.
 
 v1.0.5.f
     Initial public release.

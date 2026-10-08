@@ -784,7 +784,7 @@ goto            @Label_2512
 code0479        0, 0, 12
 call            @Func_2ee4
 dialogtxt       "Yeah!"
-dialogtxt       "You were so strong,."
+dialogtxt       "You were so strong,"
 dialogtxt       "you were super cool!"
 code0309        
 call            @Func_2f1a

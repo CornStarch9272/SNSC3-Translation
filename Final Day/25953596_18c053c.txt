@@ -21,12 +21,12 @@ code0479        1, 2, 16
 call            @Func_0e7e
 jumpz           @Cond_0168, ($b002 == 0)
 dialogtxt       "For real? It's not like it's our "
-dialogtxt       "ault all this stuff happened..."
+dialogtxt       "fault all this stuff happened..."
 goto            @Label_01ac
 
 @Cond_0168:
 dialogtxt       "For real? It's not like it's our "
-dialogtxt       "ault all this stuff happened..."
+dialogtxt       "fault all this stuff happened..."
 goto            @Label_01ac
 
 @Label_01ac:
