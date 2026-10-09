@@ -718,7 +718,7 @@ code0309
 code043c        0, 2
 code0479        1, 3, 14
 dialogtxt       "Go after the Summoner. That way, "
-dialogtxt       "the Summon Beast won't be  able"
+dialogtxt       "the Summon Beast won't be able"
 dialogtxt       "to attack freely."
 goto            @Cond_23fa
 
