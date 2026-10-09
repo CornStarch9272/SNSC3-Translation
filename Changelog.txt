@@ -26,6 +26,7 @@ v1.0.5.f
 
 Next Release
     Clarified guard saying "the other girl," referring to Murno.
+    Clarified Murno saying "I'm glad to see that you are also safe" when she can't see you.
     Fixed player saying "Yeah! Of course!" when asked if they'd lose to Jade.
     Fixed Killfith calling you "Tak."
     Fixed merchant saying there's a town "that where."
@@ -38,8 +39,12 @@ Next Release
     Fixed guard saying "at at this statue."
     Fixed Lemmy saying "we'll hed back to town."
     Fixed Anise saying "this has nothing do with you."
+    Fixed VE saying "I was wondering where went!"
     Fixed player telling Murno "you don't have to suffer any more," which is grammatically correct but was bad in context.
     Fixed accidental double space when player character is considering whether to break a door.
+    Fixed accidental double space when discussing strategy before Magdrad fight.
+    Fixed extra punctuation in day 6 conversation with partner.
+    Fixed player saying "it's not our ault" in post-credits
 
 v1.1.0.f
     Standardized name of "craft rank" and fixed associated typo.
