@@ -2,6 +2,7 @@
 
 Next Release
     Added patch version number to start menu.
+    Change ore #29 name from Elegant Ore to Graceful Ore.
     Some minor text wrap/dialogue edits.
     Various typos fixed.
     ---
@@ -24,6 +25,8 @@ v1.0.5.f
 === Minor Changes ===
 
 Next Release
+    Reword support menu's popup message "Can't equip this right now".
+    Shorten "Equipment" to "Equip" to avoid text overflow in shop menu.
     Cleaned up dialogue for breaking every object in a dungeon.
     Clarified guard saying "the other girl," referring to Murno.
     Clarified Murno saying "I'm glad to see that you are also safe" when she can't see you.

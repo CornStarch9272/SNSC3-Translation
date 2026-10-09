@@ -203,7 +203,7 @@ dialogtxt       " First Place: Ultimate Motor"
 dialogtxt       " Second Place: Steelfang Crystal"
 dialogtxt       " Third Place: Mad Ghost Ore"
 code0309        
-dialogtxt       " Fourth Place: Elegant Ore"
+dialogtxt       " Fourth Place: Graceful Ore"
 dialogtxt       " Fifth Place: Resistor Crystal"
 dialogtxt       " Nuooooooooh!"
 goto            @Label_0afa
