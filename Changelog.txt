@@ -8,7 +8,7 @@ Next Release
     Thank you to rockstip for catching most of the typos.
 
 v1.1.0.f
-    Fix hard lock in Day 10 partner route cutscene.
+    Fix hardlock in Day 10 partner route cutscene.
     Corrected "Irwinite Crystal" to "Elvinite Crystal," now referencing the correct musician (Elvin Bishop).
     Some minor text wrap/dialogue edits.
     Various typos fixed.
@@ -24,6 +24,7 @@ v1.0.5.f
 === Minor Changes ===
 
 Next Release
+    Cleaned up dialogue for breaking every object in a dungeon.
     Clarified guard saying "the other girl," referring to Murno.
     Clarified Murno saying "I'm glad to see that you are also safe" when she can't see you.
     Fixed player saying "Yeah! Of course!" when asked if they'd lose to Jade.
