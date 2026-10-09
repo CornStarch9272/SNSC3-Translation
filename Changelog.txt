@@ -2,7 +2,6 @@
 
 Next Release
     Added patch version number to start menu.
-    Fixed crash caused by scrolling backwards in text on certain long lines.
     Some minor text wrap/dialogue edits.
     Various typos fixed.
     ---
