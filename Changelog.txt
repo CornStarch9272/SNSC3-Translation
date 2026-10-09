@@ -1,6 +1,10 @@
 === Major Changes ===
 
 Next Release
+    Fix hardlock when viewing text log.
+    Fix text log shows duplicated lines.
+
+v1.1.1.f
     Added patch version number to start menu.
     Change ore #29 name from Elegant Ore to Graceful Ore.
     Some minor text wrap/dialogue edits.
