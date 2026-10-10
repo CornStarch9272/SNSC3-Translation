@@ -2,6 +2,7 @@
 
 Next Release
     Added patch version number to start menu.
+    Preserve pun in 忍者 ore (from "Evil Ninja" to "Sin-obi").
     Some minor text wrap/dialogue edits.
     Various typos fixed.
     ---
