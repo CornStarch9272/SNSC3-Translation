@@ -21793,7 +21793,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "ユウビス鉱石\u0000\u0000\u0000\u0000\u0000\u0000",
-              "translation": "Elegant Ore\u0000",
+              "translation": "Graceful Ore\u0000",
               "type": "SJIS string"
             },
             "offset": 0,
@@ -49468,7 +49468,7 @@
           }
         ],
         "raw": "装備\u0000\u0000\u0000\u0000",
-        "translation": "Equipment\u0000",
+        "translation": "Equip\u0000",
         "type": "SJIS string"
       },
       {
@@ -50408,10 +50408,6 @@
       {
         "type": "Address",
         "value": "0x8075180"
-      },
-      {
-        "type": "Address",
-        "value": "0x8077478"
       }
     ],
     "type": "SJIS table"
