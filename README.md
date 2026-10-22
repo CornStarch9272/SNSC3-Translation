@@ -1,4 +1,4 @@
-Repository foe all graphics and related files
+Repository for all graphics and related files
 
 - Old: old graphics no longer in use.
 - Deprecated: graphics in use that need to not be
