@@ -5,12 +5,12 @@ jumpz           @Cond_00ee, ($h311 == 4)
 dialogtxt       " Spin and get a prize!"
 dialogtxt       " Today's prizes are..."
 code0309        
-dialogtxt       " First Place: Heavy Gold Ore"
-dialogtxt       " Second Place: Switch of Ruin"
-dialogtxt       " Third Place: Red Rust Dust"
+dialogtxt       " Grand Prize: Heavy Gold Ore"
+dialogtxt       " Second Prize: Switch of Ruin"
+dialogtxt       " Third Prize: Red Rust Dust"
 code0309        
-dialogtxt       " Fourth Place: Heartleaf Potion"
-dialogtxt       " Fifth Place: Ripe Berry"
+dialogtxt       " Fourth Prize: Heartleaf Potion"
+dialogtxt       " Fifth Prize: Ripe Berry"
 dialogtxt       " And that's all."
 goto            @Label_059e
 
@@ -19,26 +19,27 @@ jumpz           @Cond_01ac, ($h311 == 5)
 dialogtxt       " Spin the wheel, receive joy!"
 dialogtxt       " Today's prizes are..."
 code0309        
-dialogtxt       " First Place: Extend Ring"
-dialogtxt       " Second Place: Power Crest"
-dialogtxt       " Third Place: Endurance Crest"
+dialogtxt       " Grand Prize: Extend Ring"
+dialogtxt       " Second Prize: Power Crest"
+dialogtxt       " Third Prize: Endurance Crest"
 code0309        
-dialogtxt       " Fourth Place: Expertise Crest"
-dialogtxt       " Fifth Place: Tree Branch"
+dialogtxt       " Fourth Prize: Expertise Crest"
+dialogtxt       " Fifth Prize: Tree Branch"
 dialogtxt       " And that's all."
 goto            @Label_059e
 
 @Cond_01ac:
 jumpz           @Cond_027a, ($h311 == 8)
 dialogtxt       " We'll go broke at this rate!"
+dialogtxt       " It's a steal! "
 dialogtxt       " Today's prizes are..."
 code0309        
-dialogtxt       " First Place: Legendary Spring"
-dialogtxt       " Second Place: Dark Sunglasses"
-dialogtxt       " Third Place: Secret Scroll"
+dialogtxt       " Grand Prize: Legendary Spring"
+dialogtxt       " Second Prize: Dark Sunglasses"
+dialogtxt       " Third Prize: Secret Scroll"
 code0309        
-dialogtxt       " Fourth Place: Combat Scroll"
-dialogtxt       " Fifth Place: Premium Paper"
+dialogtxt       " Fourth Prize: Combat Scroll"
+dialogtxt       " Fifth Prize: Premium Paper"
 dialogtxt       " And that's all."
 goto            @Label_059e
 
@@ -47,12 +48,12 @@ jumpz           @Cond_0348, ($h311 == 9)
 dialogtxt       " Still going!? You madman!"
 dialogtxt       " Today's prizes are..."
 code0309        
-dialogtxt       " First Place: Flash Charm"
-dialogtxt       " Second Place: Repair Parts"
-dialogtxt       " Third Place: Spirit Headband"
+dialogtxt       " Grand Prize: Flash Charm"
+dialogtxt       " Second Prize: Repair Parts"
+dialogtxt       " Third Prize: Spirit Headband"
 code0309        
-dialogtxt       " Fourth Place: Fighting Manual"
-dialogtxt       " Fifth Place: Stinky Garlic"
+dialogtxt       " Fourth Prize: Fighting Manual"
+dialogtxt       " Fifth Prize: Stinky Garlic"
 dialogtxt       " And that's all."
 goto            @Label_059e
 
@@ -61,40 +62,41 @@ jumpz           @Cond_040c, ($h311 == 11)
 dialogtxt       " Spin, and the path will open?!"
 dialogtxt       " Today's prizes are..."
 code0309        
-dialogtxt       " First Place: Fabled Skewer"
-dialogtxt       " Second Place: Old Rubstone"
-dialogtxt       " Third Place: Healthy Sandals"
+dialogtxt       " Grand Prize: Fabled Skewer"
+dialogtxt       " Second Prize: Old Rubstone"
+dialogtxt       " Third Prize: Healthy Sandals"
 code0309        
-dialogtxt       " Fourth Place: Toxic Iron Scraps"
-dialogtxt       " Fifth Place: Dried Shrimp"
+dialogtxt       " Fourth Prize: Toxic Iron Scraps"
+dialogtxt       " Fifth Prize: Dried Shrimp"
 dialogtxt       " And that's all."
 goto            @Label_059e
 
 @Cond_040c:
 jumpz           @Cond_04d2, ($h311 == 12)
-dialogtxt       " Believe in yourself! Spin the wheel!"
+dialogtxt       " Spin the wheel and wish for luck!"
 dialogtxt       " Today's prizes are..."
 code0309        
-dialogtxt       " First Place: Fabled Bamboo"
-dialogtxt       " Second Place: Accel Device"
-dialogtxt       " Third Place: Lucky Charm"
+dialogtxt       " Grand Prize: Fabled Bamboo"
+dialogtxt       " Second Prize: Accel Device"
+dialogtxt       " Third Prize: Lucky Charm"
 code0309        
-dialogtxt       " Fourth Place: Spicy Curry"
-dialogtxt       " Fifth Place: Lobster"
+dialogtxt       " Fourth Prize: Spicy Curry"
+dialogtxt       " Fifth Prize: Lobster"
 dialogtxt       " And that's all."
 goto            @Label_059e
 
 @Cond_04d2:
 jumpz           @Label_059e, ($h311 == 99)
-dialogtxt       " This is it! The ultimate spin!!!"
+dialogtxt       " It's the bottom of the ninth; put"
+dialogtxt       " everything in to the ultimate spin!!"
 dialogtxt       " Today's prizes are..."
 code0309        
-dialogtxt       " First Place: Love Letter"
-dialogtxt       " Second Place: Fabled Bamboo"
-dialogtxt       " Third Place: Fabled Skewer"
+dialogtxt       " Grand Prize: Love Letter"
+dialogtxt       " Second Prize: Fabled Bamboo"
+dialogtxt       " Third Prize: Fabled Skewer"
 code0309        
-dialogtxt       " Fourth Place: Med Kit"
-dialogtxt       " Fifth Place: Gourmet Clam"
+dialogtxt       " Fourth Prize: Med Kit"
+dialogtxt       " Fifth Prize: Gourmet Clam"
 dialogtxt       " And that's all."
 goto            @Label_059e
 
@@ -105,30 +107,31 @@ goto            @Label_0b08
 
 @Cond_05ac:
 jumpz           @Cond_0682, ($h311 == 8)
-dialogtxt       " Don't attack the machine"
-dialogtxt       " if you miss first place!"
+dialogtxt       " Don't spike your ball at the wheel"
+dialogtxt       " if you miss the Grand Prize!"
 dialogtxt       " Today's prizes are..."
 code0309        
-dialogtxt       " First Place: Re-extend Ring"
-dialogtxt       " Second Place: Thunder Charm"
-dialogtxt       " Third Place: Thunder Crystal"
+dialogtxt       " Grand Prize: Re-extend Ring"
+dialogtxt       " Second Prize: Thunder Charm"
+dialogtxt       " Third Prize: Thunder Crystal"
 code0309        
-dialogtxt       " Fourth Place: Flare Charm"
-dialogtxt       " Fifth Place: Flare Crystal"
+dialogtxt       " Fourth Prize: Flare Charm"
+dialogtxt       " Fifth Prize: Flare Crystal"
 dialogtxt       " And that's all!"
 goto            @Label_0afa
 
 @Cond_0682:
 jumpz           @Cond_0738, ($h311 == 9)
-dialogtxt       " The grand prize is calling you!"
+dialogtxt       " The Grand Prize is calling"
+dialogtxt       " YOU, to spin the wheel!"
 dialogtxt       " Today's prizes are..."
 code0309        
-dialogtxt       " First Place: Sure-kill Ring"
-dialogtxt       " Second Place: Torrent Charm"
-dialogtxt       " Third Place: Water Crystal"
+dialogtxt       " Grand Prize: Sure-kill Ring"
+dialogtxt       " Second Prize: Torrent Charm"
+dialogtxt       " Third Prize: Water Crystal"
 code0309        
-dialogtxt       " Fourth Place: Gale Charm"
-dialogtxt       " Fifth Place: Gale Crystal"
+dialogtxt       " Fourth Prize: Gale Charm"
+dialogtxt       " Fifth Prize: Gale Crystal"
 dialogtxt       " And that's all!"
 goto            @Label_0afa
 
@@ -138,12 +141,12 @@ dialogtxt       " Man or woman, try to look"
 dialogtxt       " sexy as you spin it!"
 dialogtxt       " Today's prizes are..."
 code0309        
-dialogtxt       " First Place: Med Kit"
-dialogtxt       " Second Place: Spicy Curry"
-dialogtxt       " Third Place: Egg-fried Rice"
+dialogtxt       " Grand Prize: Med Kit"
+dialogtxt       " Second Prize: Spicy Curry"
+dialogtxt       " Third Prize: Egg-fried Rice"
 code0309        
-dialogtxt       " Fourth Place: Softboiled Egg"
-dialogtxt       " Fifth Place: Heartleaf Potion"
+dialogtxt       " Fourth Prize: Softboiled Egg"
+dialogtxt       " Fifth Prize: Heartleaf Potion"
 dialogtxt       " And that's all!"
 goto            @Label_0afa
 
@@ -170,27 +173,27 @@ goto            @Label_08cc
 @Label_08cc:
 dialogtxt       " Today's prizes are..."
 code0309        
-dialogtxt       " First Place: Magic Bracelet"
-dialogtxt       " Second Place: Love Letter"
-dialogtxt       " Third Place: Accel Device"
+dialogtxt       " Grand Prize: Magic Bracelet"
+dialogtxt       " Second Prize: Love Letter"
+dialogtxt       " Third Prize: Accel Device"
 code0309        
-dialogtxt       " Fourth Place: Numbing Iron Grit"
-dialogtxt       " Fifth Place: Sedative Iron Sand"
+dialogtxt       " Fourth Prize: Numbing Iron Grit"
+dialogtxt       " Fifth Prize: Tiring Iron Sand"
 dialogtxt       " And that's all!"
 goto            @Label_0afa
 
 @Cond_0962:
 jumpz           @Cond_0a36, ($h311 == 12)
-dialogtxt       " Don't be too sad if you"
-dialogtxt       " don't get the grand prize!"
+dialogtxt       " If you don't get the Grand Prize,"
+dialogtxt       " better luck next time!"
 dialogtxt       " Today's prizes are..."
 code0309        
-dialogtxt       " First Place: Friendship Ring"
-dialogtxt       " Second Place: Splendium Ore"
-dialogtxt       " Third Place: Excellium Ore"
+dialogtxt       " Grand Prize: Long Stay Ring"
+dialogtxt       " Second Prize: Splendium Ore"
+dialogtxt       " Third Prize: Excellium Ore"
 code0309        
-dialogtxt       " Fourth Place: Punish Ore"
-dialogtxt       " Fifth Place: Sashite"
+dialogtxt       " Fourth Prize: Punish Ore"
+dialogtxt       " Fifth Prize: Sashite"
 dialogtxt       " And that's all!"
 goto            @Label_0afa
 
@@ -199,13 +202,13 @@ jumpz           @Label_0afa, ($h311 == 99)
 dialogtxt       " This is the last one! Go for it!"
 dialogtxt       " Today's prizes are..."
 code0309        
-dialogtxt       " First Place: Ultimate Motor"
-dialogtxt       " Second Place: Steelfang Crystal"
-dialogtxt       " Third Place: Mad Ghost Ore"
+dialogtxt       " Grand Prize: Ultimate Motor"
+dialogtxt       " Second Prize: Steelfang Crystal"
+dialogtxt       " Third Prize: Mad Ghost Ore"
 code0309        
-dialogtxt       " Fourth Place: Gracinite Ore"
-dialogtxt       " Fifth Place: Resistor Crystal"
-dialogtxt       " Nuooooooooh!"
+dialogtxt       " Fourth Prize: Gracinite Ore"
+dialogtxt       " Fifth Prize: Resistor Crystal"
+dialogtxt       " Wooooooooah!"
 goto            @Label_0afa
 
 @Label_0afa:

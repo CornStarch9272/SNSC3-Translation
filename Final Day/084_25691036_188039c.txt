@@ -60,8 +60,9 @@ goto            @Cond_0216
 
 @Cond_0216:
 jumpz           @Cond_0264, ($b003 == 3)
-dialogtxt       "The unpleasant feeling has lessened."
-dialogtxt       "This is a huge success!"
+dialogtxt       "That horrible feeling has "
+dialogtxt       "started to subside."
+dialogtxt       "We did it!"
 goto            @Cond_0264
 
 @Cond_0264:
@@ -206,8 +207,8 @@ dialogtxt       "I was late... I'm really sorry!"
 goto            @Label_09a6
 
 @Cond_0954:
-dialogtxt       "I'm the one who should apologize."
-dialogtxt       "I was late... I'm really sorry!"
+dialogtxt       "I should be apologizing, not you."
+dialogtxt       "I was late... I'm so sorry!"
 goto            @Label_09a6
 
 @Label_09a6:

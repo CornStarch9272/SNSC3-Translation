@@ -334,7 +334,7 @@ dialogtxt       "I'm counting on you!"
 goto            @Label_0ef6
 
 @Cond_0ec8:
-dialogtxt       "Thanks, Tier."
+dialogtxt       "Thank you Tier."
 dialogtxt       "I'm counting on you!"
 goto            @Label_0ef6
 
@@ -442,17 +442,17 @@ goto            @Cond_132e
 
 @Cond_132e:
 jumpz           @Cond_1352, ($b003 == 1)
-dialogtxt       "Let's hurry!"
+dialogtxt       "Hurry up!"
 goto            @Cond_1352
 
 @Cond_1352:
 jumpz           @Cond_1374, ($b003 == 2)
-dialogtxt       "I'm going on ahead."
+dialogtxt       "I'm going ahead, with or without you!"
 goto            @Cond_1374
 
 @Cond_1374:
 jumpz           @Cond_139e, ($b003 == 3)
-dialogtxt       "Hurry up!"
+dialogtxt       "Let's hurry!"
 goto            @Cond_139e
 
 @Cond_139e:

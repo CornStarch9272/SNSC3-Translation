@@ -513,8 +513,9 @@ code040b
 
 @Event_14e0:
 code0301        8, 7
-dialogtxt       "If you hear the alarm, please"
-dialogtxt       "find shelter and stay inside."
+dialogtxt       "If you hear the alarm, that means"
+dialogtxt       "Strays have appeared nearby."
+dialogtxt       "Avoid leaving town."
 code0309        
 code0302        7
 code040b        

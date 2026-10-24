@@ -1558,7 +1558,7 @@ dialogtxt       "my brother when we have more time."
 code0309        
 code0479        1, 2, 12
 dialogtxt       "I mean it, I have LOTS of things to"
-dialogtxt       "Tell you about him! Don't be shy!"
+dialogtxt       "tell you about him! Don't be shy!"
 code0309        
 call            @Func_4518
 code0479        0, 1, 16

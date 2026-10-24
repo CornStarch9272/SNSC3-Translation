@@ -418,10 +418,12 @@ dialogtxt       "There's a rumor that a battle"
 dialogtxt       "that could change the world"
 dialogtxt       "is going on right now."
 code0309        
-dialogtxt       "What are you doing?"
-dialogtxt       "This isn't any time to sell oil!"
-dialogtxt       "Do something!"
+dialogtxt       "What am I even doing at a"
+dialogtxt       "time like this? I can't just"
+dialogtxt       "sit around and sell oil!"
 code0309        
+dialogtxt       "I have to do something!"
+code0309        	
 code047e        0, 0
 code0302        7
 code040b        
@@ -440,7 +442,7 @@ code040b
 
 @Talk_1210:
 code0301        8, 7
-dialogtxt       "Wow!"
+dialogtxt       "Wow?"
 code0309        
 code0302        7
 code040b        

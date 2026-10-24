@@ -620,7 +620,7 @@
       }
     ],
     "raw": "　今日は、これで営業終了です　\u0000\u0000",
-    "translation": "　　　We're closed today\u0000",
+    "translation": "… and we're done for today.\u0000",
     "type": "SJIS string"
   },
   "0x8b72234": {
@@ -19539,7 +19539,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "丈夫な皮\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
-              "translation": "Durable Pelt\u0000",
+              "translation": "Tough Pelt\u0000",
               "type": "SJIS string"
             },
             "offset": 0,
@@ -19556,7 +19556,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "少し硬めで加工は困難だが丈夫な毛皮\u0000\u0000\u0000\u0000\u0000\u0000",
-              "translation": "Durable, but stiff & tricky to work with\u0000",
+              "translation": "Tough, but stiff & tricky to work with\u0000",
               "type": "SJIS string"
             },
             "offset": 44,
@@ -23650,7 +23650,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "赤い液体を吸い上げる為の物らしい\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
-              "translation": "Seemingly made for sucking up red liquid\u0000",
+              "translation": "Seemingly it's for draining red liquid\u0000",
               "type": "SJIS string"
             },
             "offset": 44,
@@ -24248,7 +24248,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "どうして出来たのか猛毒を含んだ鉄くず\u0000\u0000\u0000\u0000",
-              "translation": "Scrap iron somehow full of deadly toxins\u0000",
+              "translation": "Scrap iron somehow full of fatal toxins\u0000",
               "type": "SJIS string"
             },
             "offset": 44,
@@ -24277,7 +24277,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "ネムリ鉄粉\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
-              "translation": "Sedative Iron Sand\u0000",
+              "translation": "Tiring Iron Sand\u0000",
               "type": "SJIS string"
             },
             "offset": 0,
@@ -28986,7 +28986,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "何か巨大なモノの観戦ができる\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
-              "translation": "Let you watch something big\u0000",
+              "translation": "Let's you watch something big\u0000",
               "type": "SJIS string"
             },
             "offset": 44,
@@ -36667,7 +36667,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "エクセルナックル\u0000\u0000",
-              "translation": "Excellium Knuckles\u0000",
+              "translation": "Excellium Fists\u0000",
               "type": "SJIS string"
             },
             "offset": 0,
@@ -53802,7 +53802,7 @@
           }
         ],
         "raw": "超バトルアタック\u0000\u0000\u0000\u0000",
-        "translation": "Super Battle Rush\u0000",
+        "translation": "Super Battle Attack\u0000",
         "type": "SJIS string"
       },
       {
@@ -54618,7 +54618,7 @@
           }
         ],
         "raw": "超バトルアタック\u0000\u0000\u0000\u0000",
-        "translation": "Super Battle Rush\u0000",
+        "translation": "Super Battle Attack\u0000",
         "type": "SJIS string"
       },
       {
@@ -55845,7 +55845,7 @@
           }
         ],
         "raw": "超バトルアタックが使用出来る条件\u0000\u0000\u0000\u0000",
-        "translation": "Play Super Battle Rush\u0000\u0000",
+        "translation": "Play Super Battle Attack\u0000\u0000",
         "type": "SJIS string"
       },
       {
@@ -77442,7 +77442,7 @@
           }
         ],
         "raw": "超バトルアタック\u0000\u0000\u0000\u0000",
-        "translation": "Super Battle Rush\u0000",
+        "translation": "Super Battle Attack\u0000",
         "type": "SJIS string"
       },
       {
@@ -78431,7 +78431,7 @@
           }
         ],
         "raw": "超バトルアタックが使用出来る条件\u0000\u0000\u0000\u0000",
-        "translation": "Super Battle Rush unlocked\u0000\u0000",
+        "translation": "Super Battle Attack unlocked\u0000\u0000",
         "type": "SJIS string"
       },
       {

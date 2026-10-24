@@ -530,9 +530,12 @@ code040b
 
 @Event_1636:
 code0301        8, 7
-dialogtxt       "Mr. Benson is scowling, as if to say"
-dialogtxt       "that your partner has a huge effect"
-dialogtxt       "on the quality of a weapon."
+dialogtxt       "Mr. Benson's visage on the poster"
+dialogtxt       "is scowling."
+code0309        
+dialogtxt       "It's as if he's trying to say that"
+dialogtxt       "your partner has a huge effect on the"
+dialogtxt       "quality of a weapon."
 code0309        
 dialogtxt       "He doesn't actually talk though,"
 dialogtxt       "so I'm not completely sure..."
