@@ -334,7 +334,7 @@ dialogtxt       "I'm counting on you!"
 goto            @Label_0ef6
 
 @Cond_0ec8:
-dialogtxt       "Thank you Tier."
+dialogtxt       "Thanks, Tier."
 dialogtxt       "I'm counting on you!"
 goto            @Label_0ef6
 
